@@ -1,0 +1,120 @@
+{{info klippa
+  |lat=59.26524
+  |long=17.86841
+}}
+
+{{komplett}}
+==Allmänt==
+Spektakulärt berg som störtar ner i Mälaren på Vårbyfjärdens östra sida. Har tyvärr fallit lite i glömska med många igenväxta leder som följd. Skulle må bra av en uppryckning.
+
+==Om Korpberget==
+[[Bild:Korpberget.jpg|thumb|400px|Korpberget, Foto: [[Användare:Peblin|Per Lindh]]]]
+Korpberget störtar ner i Mälaren på Vårbyfjärdens östra sida. Från berget har man god utsikt över Botkyrka, Flottsbro, Slagsta och in mot mälaröarna med Ekerö som granne. Berget är värt ett besök även om man inte tänkt sig klättra - området har anor från forntiden och bjuder på både runristningar, gammal skog och bra grillplatser.
+Berget är ca 30 meter högt med varierande kvalitet på klippan; från fast och slät i söder till lös och blockig i norr. 
+
+Då berget går rakt ner i vattnet behövs nedfirning eller nedklättring för att komma åt lederna. Flera av lederna utgår från en ganska brant liten landtunga som går in mitt på berget. Andra leder kräver firning till i stort sett hängande stand.
+
+<blockquote>"Om du beger dig till Korpberget kan du få möta en riktig gammal trollskog direkt i anslutning till stadens trottoarer. Trollskogen ligger inte långt från Vårby gård och Vårby centrum. Det går mycket väl att bestiga det höga Korpbergets utsiktspunkt utan problem då en vacker liten stig ringlar upp till toppen. Här brann på vikingatiden s.k. vårdkasar. Ett forntida signalsystem som återfinns i Huddinges kommunvapen."
+<br/>[http://www.natur.huddinge.se/korpb.htm Huddinge kommuns sida om korpberget]
+</blockquote>
+
+==Nuläget (Juli 2007)==
+Choe's show och alla andra leder på det väggpartiet är helt täckta av lav och inget man vill ge sig på i dagsläget. Kanske någon eller några kan förbarma sig över väggen och putsa av den och samtidigt byta ut de gamla borrbultarna på Geckogegga m fl?
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.26524" lon="17.86841" zoom="14" type="map" controls="small">
+59.26524,17.86841,[[Korpberget-Vårby]]
+59.26166940565702,17.87801742553711,Parkering "Ångbryggan"
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Korpberget-Varby
+lat=17868410
+long=59265240
+</slresa>
+</div> 
+Åk E4:an söderut, tag mot "Vårby, Huddinge, Väg 259". Vid T-korsningen tag höger mot Vårby Gård. Kör förbi Vårbybadet och parkera vid parkeringsplats skyltad "Ångbåtsbryggan". Gå sen antingen längst vattnet till berget, eller gå längst Vårbackavägen. Vid vändplanen fortsätt uppför backen och sväng vänster inpå Pilgrimsvägen. När Pilgrimsvägen tar slut tag vänster och följ stigen som leder fram till toppen. Det finns <b>inte</b> någon laglig parkeringsmöjlighet vid Vårbackavägen eller Pilgrimsvägen. Vändplanen på Pilgrimsvägen är inte en parkeringsplats. Annars T-bana till Vårby gård och cirka 1 km promenad. <div style="clear:right;"></div>
+
+==Leder==
+[[Bild:Korpberget-skiss.gif|frame|Skiss över Korpberget]]
+
+===Nordväggen===
+
+{{led|nr=1|namn=Platta Per|grad=4+|betyg=1|längd=20|fa=[[Per Sandström]], [[Lars Svadängs]] [[1977|-77]]|bultar=|typ=trad|text=Småbruten klättring förbi en tall upp emot taket som kringgås åt vänster. Enligt gamla stockholmsföraren skulle delar av insteget ha rasat ner, men det är en överdrift. Även om det är lite blockigt nere vid marken är själva klättringen intakt och fin. Undvik dock klättring på denna kant av berget under häckningssäsong (korp)!}}
+
+{{led|nr=2|namn=Rättning mittåt|grad=4+|betyg=|längd=20|fa=|bultar=|typ=trad|text=Enligt gamla stockholmsföraren kan hela denna led ha rasat ned vilket inte stämmer. Det är obehagligt löst i nedre delen men övre halvan är oförändrad (men kraftigt igenvuxen).}}
+
+===Vänstra väggen===
+
+{{led|nr=3|namn=Mördande reklam|grad=5+|betyg=|längd=30|fa=[[Buster Delin]], [[Kay von Damm]] [[1990|-90]]|bultar=|typ=mix}}
+
+{{led|nr=4|namn=Bloody motherfucker|grad=5+|betyg=1|längd=20|fa=[[Jan Nyström]], [[Per-Olof Bergström]] [[1972|-72]]|bultar=|typ=mix}}
+
+{{led|nr=5|namn=Reklampelaren|grad=7-|betyg=|längd=30|fa=[[Kay von Damm]], [[Mats Olofsson]] [[1993|-93]]|bultar=1|typ=mix}}
+
+{{led|nr=6|namn=Vetlandavarianten/Janne B Good|grad=6-|betyg=|längd=25|fa=[[Jan Nyström]], [[Per-Olof Bergström]] [[1972|-72]] / [[Jan Liliemark]], [[Lars Svadängs]] [[1977|-77]]|bultar=|typ=trad}}
+
+{{led|nr=7|namn=Blåbärsbacken|grad=3|betyg=1|längd=20|fa=|bultar=|typ=trad}}
+
+{{led|nr=8|namn=Direkta Blåbärsbacken|grad=5|betyg=|längd=20|fa=[[Jan Liliemark]] [[1977|-77]]|bultar=|typ=trad|text=Flera varianter är möjliga i nedre delen. Högre upp blir det layback på fingergrepp.}}
+
+{{led|nr=9|namn=Dagens långa arm|grad=5-|betyg=|längd=20|fa=[[Göran Sahlin]], [[Björn Peck]] [[198?|-8?]]|bultar=|typ=trad|text=Ganska svårsäkrad i övre delen.}}
+
+{{led|nr=10|namn=Kils svanesång|grad=4+|betyg=|längd=15|fa=|bultar=|typ=trad}}
+
+{{led|nr=11|namn=Agda|grad=4+|betyg=|längd=25|fa=[[Lars Svadängs]], [[Per Sandström]] [[1977|-77]]|bultar=|typ=trad}}
+
+{{led|nr=12|namn=Elda med höns|grad=4+|betyg=1|längd=20|fa=[[Jan Nyström]], [[L Lövgren]] [[1972|-72]]|bultar=|typ=trad|text=Fast och fint i början, men högre upp finns ett par jätteflak som inte känns helt solida även om de suttit i många år.}}
+
+{{led|nr=13|namn=Elda med Åka Skidor|grad=7+/8-|betyg=|längd=20|fa=[[Claes Jelinek]] [[1986|-86]]|bultar=|typ=mix}}
+
+{{led|nr=14|namn=Ivan den förskräcklige|grad=7|betyg=2|längd=20|fa=[[Jan Nyström]], [[Lars Cronlund]] [[1972|-72]] ff: [[Jan Liliemark]], [[Patrik Andersson]] [[1986|-86]]|bultar=3|typ=mix}}
+
+===Högra väggen===
+
+{{led|nr=15|namn=Mandomsprovet|grad=5+|betyg=|längd=20|fa=[[Jan Nyström]], [[Torbjörn Berg]] [[1972|-72]]|bultar=|typ=trad|text=Utsteg i Korpleden}}
+
+{{led|namn=Mödomsprovet|grad=5+|betyg=|längd=6|fa=[[Buster Delin]], [[Kay von Damm]] [[1990|-90]]|bultar=1|typ=mix|text=Alternativt utsteg till {{ledlänk|namn=Mandomsprovet}} på aréten till vänster om orginalet. }}
+
+{{led|nr=16|namn=Korpleden|grad=4+|betyg=1|längd=20|fa=|bultar=|typ=trad}}
+
+{{led|namn=Högra sprickan|grad=6-|betyg=|längd=8|fa=[[Kenneth Nolkrantz]] [[1977|-77]]|bultar=|typ=trad|text=Alternativt utsteg till {{ledlänk|namn=Korpleden}}. Går i en tunn spricka mellan 16 och 17.}}
+
+{{led|nr=17|namn=Hektor Sektor|grad=7-|betyg=|längd=10|fa=[[Gary Hansson]], [[Tomas Hansson]] [[1988|-88]]|bultar=1|typ=mix}}
+
+{{led|nr=18|namn=Måzart|grad=7-|betyg=1|längd=15|fa=[[Jan Liliemark]], [[Rikard Hedman]] [[1984|-84]]|bultar=|typ=trad|text=Läskig, svår och farlig}}
+
+{{led|nr=19|namn=Agda 81 vägras hemhjälp|grad=7/7+|betyg=1|längd=20|fa=[[Claes Jelinek]], [[Per Julius]] [[1988|-88]]|bultar=|typ=mix}}
+
+{{led|nr=20|namn=Choe's show|grad=6+|betyg=3|längd=20|fa=[[Choe Brooks]], [[Jan Liliemark]] [[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=21|namn=Geckogegga|grad=7+|betyg=2|längd=15|fa=[[Per Julius]], [[Claes Jelinek]] [[1988|-88]]|bultar=6|typ=}}
+
+{{led|namn=Spetsnosen|grad=7-|betyg=|längd=4|fa=[[Claes Jelinek]], [[Per Julius]] [[1988|-88]]|bultar=|typ=trad|text=Alternativ start till 21 och 22.}}
+
+{{led|nr=22|namn=TussilagoDiarré|grad=7-/7|betyg=|längd=15|fa=[[Per Julius]], [[Claes Jelinek]] [[1988|-88]]|bultar=|typ=mix}}
+
+{{led|namn=Välkommen till förorten|grad=A1+|betyg=|längd=8|fa=[[Ludde Hagberg]], [[Jesper Andersson]] [[1995|-95]]|bultar=|typ=aid}}
+
+{{led|nr=23|namn=Stora traversen|grad=4|betyg=|längd=30|fa=|bultar=|typ=trad}}
+
+{{led|nr=24|namn=Claudia|grad=5|betyg=2|längd=15|fa=[[Per-Olof Lidström]], [[Roger Pyddoke]] [[1982|-82]]|bultar=2|typ=mix}}
+
+{{led|nr=25|namn=Kalkonen|grad=6|betyg=|längd=20|fa=[[Kenth Lindström]] [[1973|-73]]|bultar=|typ=trad}}
+
+{{led|nr=26|namn=Kalkonplattan|grad=4+|betyg=|längd=15|fa=|bultar=|typ=trad}}
+
+{{led|nr=27|namn=Hafsörnens hörn|grad=4+|betyg=|längd=15|fa=|bultar=|typ=trad}}
+
+{{led|nr=28|namn=Jungfrun|grad=6|betyg=|längd=25|fa=[[Kenth Lindström]] [[197?|-7?]]|bultar=|typ=trad}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]
+[[Kategori:Saknar kolumner]]

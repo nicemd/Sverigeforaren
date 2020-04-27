@@ -1,0 +1,46 @@
+{{info klippa
+  |lat=61.6413140750468
+  |long=16.773204803466797
+}}
+
+{{utkast}}
+==Allmänt==
+Blaxsås ligger på 438 m ö h, strax norr om Nianfors, eller ca 20 km nordväst om Enånger. Berget har nog en av Hälsinglands finaste utsikter från toppen. Man ser hela skärgården från norr om Hudiksvall till söder om Söderhamn, samt hela Dellensjöarna. Blaxsås östra sida syns väldigt tydligt från långt håll som en mycket brant vägg. Som enkel bergsbestigning kan man välja mellan olika leder med svårighet 2-3. För ren klippklättring kan man dela upp berget i 3-4 sektioner: Sektion A ligger ca 200 m söder om vindskyddet på toppen. 
+
+I närheten ligger också [[Fuskåsberget]].
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap lat="61.64685812146284" lon="16.929931640625" zoom="10" width="400" height="250" type="map">
+61.6413140750468,16.773204803466797,Blaxås
+</googlemap>
+</div>
+
+Detaljerad vägbeskrivning saknas. Men kartan till höger ger en fingervisning - titta efter noggrannare på [http://www.hitta.se/SearchCombi.aspx?SearchType=4&wflWhite=1a1b&wflPink=4a&vad=&var=blacks%e5s hitta.se].
+GPS-koordinater för klippan: Lat: N 61º 38' 41.56"  Long: E 16º 45' 59.85"
+
+==Historik==
+{{hälsingeföraren}}
+
+==Sektioner==
+===Sektion A===
+
+Ligger ca 200 m söder om vindskyddet på toppen.
+
+{{led|nr=1|namn=Blodiga Merry|grad=5|typ=trad|fa=Torbjörn Nilsson och Åke Englund 1983|text=Består av två korta replängder; första repan är en bred jamspricka. På andra repan viker man av ut till höger under ett tak som leder till kruxet. Där skall man mantla upp till en tunn jamspricka, vilken är kruxet. Luftig.}}
+
+===Sektion B===
+
+Det södra partiet av stora väggen. Där finns fina linjer, men inget är
+klättrat ännu.
+
+===Sektion C===
+
+Den vägg man ser rakt till vänster under vindskyddet. Här finns en hel
+del att göra, i olika svårighetsgrader.
+
+{{led|nr=2|namn=Nattmaran|längd=20|grad=5+|typ=trad|fa=Torbjörn Nilsson och Åke Englund 1983|text=Spricka, sista delen överhängande. Leden hittas i högra delen av sektionen.Strax till höger om svaet finns en 15-20 m lång kamin, vilken klättrats vintertid och bedömts till 3+. Strax innan man kommer till Blaxsås finns ett berg på höger sida med en fin sydvägg. Ett fåtal leder är gjorda, men det finns andra fina linjer. För den som gillar att krypa i grottor, finns det mycket att utforska nedanför Blaxsås stora vägg. Där ligger mängder av stora stenblock staplade över varandra.}}
+
+[[Kategori:Saknar leder]] [[Kategori:Saknar vägbeskrivning]] [[Kategori:Saknar skiss]] 
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

@@ -1,0 +1,10 @@
+{{stub}}
+[[Kategori:Bohuslän]]
+== Introduktion ==
+== Karaktär ==
+Klassisk sprickklättring med sydvänt läge och vacker utsikt.
+
+==Access {{access}}==
+
+{{AccessDB|klippa=bjorkberget}}
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}

@@ -1,0 +1,73 @@
+{{info klippa
+  |lat=59.36792
+  |long=17.96946}}
+{{boulderutkast}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:video]]
+
+==Allmänt==
+Lättillgängligt boulderområde en knapp kilometer från Sundbybergs centrum. Delar av en höjd har sprängts bort för att ge plats åt två tennisplaner. Resterna av höjden har skapat ett utmärkt boulderområde. Endast några få leder har hittills etablerats och det finns utmärkta möjligheter för att skapa fler leder.
+Bättre på eftermiddagen då solen kommer åt. Del C blöt på våren.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.36792" lon="17.96946" zoom="14" type="map" controls="small">
+59.36792,17.96946,[[Lötsjöbouldern]]
+</googlemap>
+</div>
+Lättillgängligt med tunnelbana. Kliv av vid Duvbo. Följ Tulegatan österut. Sväng upp på Rensgatan. Du kommer direkt till en parkeringsplats. Gå över parkeringsplatsen upp mot tennisplanerna. Klippan ligger till höger om tennisplanerna.
+
+Med buss 515 stiger du av vid Sundbybergs Idrottsplats. Klippan ligger ca 50 meter bort.
+
+Kommer du med bil finns det gott om parkeringsplatser längs Tulegatan.
+
+=Skiss=
+[[Bild:Lötsjöbouldern.png]]
+
+''OBS'' - föreslår sänkning av graderna på vissa problem som känns lättare än dess grad, se diskussions-sidan // Sasq
+
+
+==Del A==
+[[Bild:OneHandedSmash.jpg]]
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=A:1|namn=One-handed Smash|grad=6B+|betyg=1|fa=Edvin Lindqvist|sittstart=ja|text=Vh start på blocket till vänster, hh start i undercling. Rakt upp på väggen. Slut på första hyllan .}}
+|}
+
+==Del C==
+[[Fil:partC.jpg]]
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=C:1|namn=Varning för fotfel|grad=6A|betyg=0|fa=Edvin Lindqvist|sittstart=ja|text=Rakt upp.}}
+{{problem|nr=C:2|namn=Baseline Bouldering|grad=5C|betyg=0|fa=Edvin Lindqvist|sittstart=ja|text=Rakt upp, knölig start.}}
+|}
+
+==Del E==
+[[Bild:PartD.jpg]]
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=E:1|namn=Forehand|grad=6A+|betyg=0|fa=Edvin Lindqvist|sittstart=ja|text=Start med händerna i borrhålet. Vänsterkanten av svaet till vänster är eliminerad.}}
+{{problem|nr=E:2|namn=Backhand|grad=6A|betyg=1|fa=Edvin Lindqvist|sittstart=ja|text=Start med händerna i den tydliga vertikala sprickan/flaket och rakt upp.}}
+{{problem|nr=E:3|namn=Deuce Court|grad=6A+|betyg=0|fa=Edvin Lindqvist|sittstart=ja|text=Det bruna blocket th är eliminerad, likaså sprickan/flaket tv och allt till vänster om den.}}
+|}
+
+==Del G==
+[[Bild:PartG.jpg]]
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=G:1|namn=Slice|grad=5A|betyg=0|fa=Edvin Lindqvist|sittstart=ja|text=Rakt upp i sprickan.}}
+{{problem|nr=G:2|namn=Main Dovil|grad=6B|betyg=1|fa=Per Norgren|text=Rakt upp längst högra areten.}}
+
+==Del H==
+[[Bild:PartH.jpg]]
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=H:1|namn=Mein Goth|grad=6A|betyg=1|fa=Per Norgren|text=Start på det uppenbara greppet mitt på väggen. Klättra rakt upp.}}
+{{problem|nr=H:2|namn=Tramline|grad=6A+|betyg=1|fa=Jonas Minnberg|text=Start på det uppenbara greppet (samma som Mein Goth), sedan upp till vänster längs sprickan.}}

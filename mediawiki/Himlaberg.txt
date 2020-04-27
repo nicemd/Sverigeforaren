@@ -1,0 +1,28 @@
+{{komplett}}
+
+==Allmänt==
+Himlaberg är Ormingelandets högsta punkt och har en lång rad med låga klippartier rakt ovanför gamla Värmdövägen. Längst ut th finns en fin liten klippa 30 m upp i skogen ovanför gamla Värmdövägen.
+
+==Vägbeskrivning==
+Som [[Ekoberget]] men stanna i kröken vid Kilsviken.
+
+== Leder ==
+[[Bild:himlaberg.png]]
+
+{{led|nr=1|namn=Stig Vig|grad=6-|betyg=|längd=12|fa=[[Anders Lundahl]], [[Eva Selin]] [[1989|-89]]|bultar=4|typ=mix}}
+
+{{led|nr=2|namn=Mister Klister|grad=6+|betyg=1|längd=12|fa=[[Anders Lundahl]], [[Eva Selin]] [[1989|-89]]|bultar=2|typ=mix}}
+
+{{led|nr=3|namn=Fingerprints|grad=7+|betyg=|längd=12|fa=[[Eva Selin]], [[Anders Lundahl]] [[1989|-89]]|bultar=5|typ=sport}}
+
+{{led|nr=4|namn=Guldfeber|grad=7-|betyg=|längd=12|fa=[[Eva Selin]], [[Anders Lundahl]] [[1989|-89]]|bultar=3|typ=mix}}
+
+{{led|nr=5|namn=Biffalo Bull|grad=6+|betyg=|längd=12|fa=[[Anders Lundahl]], [[Eva Selin]] [[1989|-89]]|bultar=4|typ=mix}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Sport]]

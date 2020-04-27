@@ -1,0 +1,15 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Blåbärsstenarna==
+För att komma till bläbärsstenarna kör ni samma väg som till Eskön. När ni svängt av gamla E4:an mot Eskön så tar ni höger in på en grusväg i en vänster kurva några hundra meter från "stora" vägen. Följ grusvägen till den delar sig, ta då den vänstra vägen, efter ett par hundra meter tar ni höger på en lite mindre skogsväg. Efter ett par hundra meter på den vägen så kommer blocken på er vänstra sida.
+{{problem|nr=1|namn=Vår Aréte|grad=5C|typ=Highball,Aréte|fa=Patrick Olander, Ronny Andersson|landning=3|betyg=2|fadatum=2006-08-04|sopad=Patrick Olander, Ronny Andersson|text=Går vid blåbärsblocken. På blocket närmast vägen, när ni står på vägen och tittar på blocket så är det den högra aréten.}}
+=Problem=
+{{problem|nr=2|namn=Björke hoppet|grad=6A|typ=Dyno|fa=Ronny A, Patrick O|landning=4|fadatum=2007-01-10|sopad=Ronny A, Patrick O|startgrepp=ja|text=Går vid gröna pilen, dyno från stora sprickan till kanten.}}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

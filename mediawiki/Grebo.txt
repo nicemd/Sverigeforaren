@@ -1,0 +1,16 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Väggen==
+
+==Southside==
+
+=Problem=
+{{problem|namn=Illusive Dreams|grad=7A|typ=Krimp,Överhäng|fa=Stefan Holm|landning=2|betyg=3|fadatum=2005-05-14|sopad=Stefan Holm|uteslutningar=ja|text=Ett par km söder om Grebo. Ganska fina block men mycket rävar & gryt.}}
+[[Kategori:Linköping]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

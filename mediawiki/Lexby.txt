@@ -1,0 +1,123 @@
+{{info klippa
+  |lat=57.74707
+  |long=12.12113
+}}
+
+{{utkast}}
+{{isstub}}
+<googlemap lat="57.74707" lon="12.12113" zoom="9" type="map">
+57.74707,12.12113,Lexby
+</googlemap>
+
+==Allmänt==
+Den uppenbara väggen ovanför skolan i Lexby, väl synlig ändå från motorvägen. Erbjuder bland annat fina jamturer uppe på hyllan, ofta kallad just "Lexbyhyllan". Det går att scrambla upp till hyllan via ramper och kaminer om man är lite modig, annars får man klättra upp via till exempel
+
+
+== Access ==
+Det är värt att känna till att Lexbyklippan ingår i Göteborgs klätterklubbs bultpolicy att inga ytterligare bultar ska sättas upp på berget. 
+
+{{accessDB|klippa=lexby}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Vägbeskrivning==
+Cykel på fin cykelväg hela vägen från Gamlestan / Utby. 
+
+Bil: Kör av E20 vid Allum / Partille C. Kör över ån  till en liten rondell där du tar höger. Skolan ligger precis under den väl synliga väggen vid Lexbyhyllan. Parkera där (kan vara förbjudet vardagar arbetstid?). Gå runt skolan för instag på byggnadens baksida.
+
+
+== Väggar ==
+
+
+[[bild:lexby_valkomstbild.jpg]]
+=== Nedre delen === 
+{{led|namn=Sometimes|grad=6c|fa=Tomas Ekefalk & Stefan Norman}}
+{{led|namn=Extaz|grad=6+|fa=Ulf Björnberg & Jan Pålsgård}}
+{{led|namn=Ecstasy|grad=7+|fa=}}
+{{led|namn=Ketchup|grad=6|fa=Ulf Björnberg & Piotr Bober}}
+{{led|namn=Senap|grad=6|fa=Ulf Björnberg & Piotr Bober}}
+{{led|namn=Whiskas kattmat|grad=7|fa=Petter From}}
+{{led|namn=Bortglömd|grad=7a+|fa=Johan Luhr}}
+{{led|namn=Bring out the Gimp|grad=7+}}
+{{led|namn=Evergrey|grad=8a/+|fa=Johan Luhr}}
+{{led|namn=Stracciatella|grad=7c|fa=Stefan Norman}}
+{{led|namn=Göteborgs blodbad|grad=7-}}
+{{led|namn=Antz|grad=6}}
+{{led|namn=Myrornas krig|grad=6c}}
+{{led|namn=Textbild|grad=6b+}}
+{{led|namn=Den sista klassikern|grad=7+|fa=Calle Martins & Johan Gross, 2008|ny=1}}
+{{led|namn=Skymningslandet|grad=6-|fa=Magnus Strömhäll, 1992}}
+{{led|namn=Bakvägen|grad=6|fa=Magnus Strömhäll, 1992}}
+{{led|namn=Global Warmning|grad=7b+}}
+{{led|namn=Partille cup|fa=Ulf Björnberg|grad=6+}}
+{{led|namn=Puls|fa=Dag Kolsrud & Nils Sjöström|grad=7}}
+{{led|namn=Wall Street Shuffle|grad=7|fa=Hans Christian Doseth & Dag Kolsrud}}
+{{led|namn=Flugornas herre|grad=7b|fa=Hans Christian Doseth}}
+{{led|namn=Terapi|fa=Rikard Ekehed|grad=7c+}}
+{{led|namn=Scoop|fa=Stefan Norman|grad=7b+}}
+{{led|namn=Presstopp|fa=Dag Kolsrud|grad=7}}
+
+Följande tre leder ligger vid is-vinterfallen:
+{{led|namn=Climb in|grad=6}}
+{{led|namn=Climb it|grad=4}}
+{{led|namn=Climb on|grad=7+}}
+=== Övre delen ===
+
+{{led|nr=|namn=Blå himmel blues|grad=7|betyg=|längd=25|fa=[[Dag Kolsrud]], [[Sem Larsen]][[1986|-86]]|bultar=|typ=|text=}}
+
+{{led
+ |namn=Kölhalad
+ |grad=9-/9 (8a+)
+ |längd=25?
+ |typ=trad
+ |betyg=
+ |fa=[[Petter Restorp]], [[Erik Heyman]] 2005-03-21
+ |text=Leden går på den väldigt exponerade och brant överhängande arèten mellan Blå himlen blues och Flyende Norrman. Första halvan (sva) saknar i princip säkringar. Troligen Göteborgs hårdaste tradtur.
+}}
+
+{{led|nr=|namn=Flyvende norrman|grad=7-|betyg=|längd=25|fa=[[Piotr Bober]], [[Bengt Sorvik]], [[Rune Thrap Meyer]], [[Hans-Christian Doseth]] [[1980|-80]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Jag är en astronaut|grad=7|betyg=|längd=27|fa=[[Rikard Ekhed]][[1996|-96]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=November|grad=5+|betyg=|längd=20|fa=[[Anders Spang]][[1999|-99]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Oktober|grad=5+|betyg=|längd=20|fa=[[Lars Björkman]], [[Jan Liliemark]], [[Ulf Björnberg]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Plugghästen|grad=6-|betyg=|längd=20|fa=[[Jan Liliemark]], [[Christer Åstrand]]|bultar=|typ=trad|text=Fin fingerspricka nästan vid kanten.}}
+
+{{led|nr=|namn=Mental kontroll|grad=7+|betyg=|längd=25|fa=[[Hans-Christian Doseth]], [[Dag Kolsrud]][[1982|-82]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Vilse i pannkakan|grad=8/8+|betyg=|längd=27|fa=[[Rikard Ekehed]][[1996|-96]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Noll koll|grad=8|betyg=|längd=27|fa=[[Rikard Ekehed]], [[Magnus Lindstedt]], [[Johan Svensson]][[1996|-96]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=The great crack|grad=6-|betyg=|längd=25|fa=[[Anders Neld]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Stress|grad=7+|betyg=|längd=15|fa=|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Klåfinger|grad=7|betyg=|längd=26|fa=|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Bort med tassarna|grad=8-|betyg=|längd=27|fa=|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Jamspricka nr 1|grad=6-|betyg=2|längd=25|fa=|5bultar=|typ=|text=Startar i diedret, vid björken byter leden karaktär och det blir ren handjamsklättring i sprickan.  }}
+
+{{led|nr=|namn=Fanta Baby|grad=6-|betyg=|längd=25|fa=|bultar=|typ=|text=}}
+
+{{led|nr=|namn=TR|grad=5+|betyg=|längd=25|fa=|bultar=|typ=|text=}}
+
+== Isklättring ==
+I marknivå, strax till höger om skolan intill ett litet torp, bildas vissa vintrar en fin ispelare med klättring i olika svårighetsgrader. Hårdast är att gå upp vänster om och bakom pelaren och jobba sig igenom galleriet. Lättast är svaet till höger. Allt kan toppas från en stor tall på toppen med ett kättingsankare, men man får leda upp för att komma dit. Namnen är påhittade, FA-person får gärna ändra.
+
+{{led|nr=1|namn=Galleriet|grad=WI5+|betyg=3|längd=20|fa=[[okänd]]|bultar=|typ=is|text=}}
+
+{{led|nr=2|namn=Pelaren|grad=WI5|betyg=2|längd=25|fa=[[okänd]]|bultar=|typ=is|text=}}
+
+{{led|nr=3|namn=Höger om pelaren|grad=WI4|betyg=1|längd=20|fa=[[okänd]]|bultar=|typ=is|text=}}
+
+{{led|nr=4|namn=Tunna svaet|grad=WI3|betyg=1|längd=20|fa=[[okänd]]|bultar=|typ=is|text=}}
+
+{{led|nr=5|namn=Feta svaet|grad=WI3|betyg=1|längd=20|fa=[[okänd]]|bultar=|typ=is|text=}}
+
+[[Kategori:Göteborg]]
+[[Kategori:Is]]
+[[Kategori:Trad]]

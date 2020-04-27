@@ -1,0 +1,326 @@
+{{info klippa
+  |lat=59.20757
+  |long=17.88241
+}}
+
+{{komplett}}
+[[Bild:örnberget.jpg|frame|Sydväggen, Örnberget]]
+
+==Allmänt==
+Hög klippa med många långa ihållande leder på grepprik granit. Vänstra delen av Sydväggen är 45 grader brant.
+
+==Beskrivning==
+Berget ligger vid Tullingesjöns östra strand, ca 1,5 km promenad från Tullinge. Ett imponerande berg, med en delvis kraftigt överhängande sydvägg, 20–25 m hög. Berget betraktades länge som intressant, men första fria leden kom inte förrän 1982 med {{ledlänk|namn=Istället för Lidingöloppet}}.
+
+Sedan dess har det tillkommit ytterligare ett femtiotal. Klippan domineras helt av svår till         extremt svår klättring. Femmaklättrare göre sig icke besvär. De svåraste lederna går i fransk stil – borrbultar överallt – och är därmed välsäkrade. De äldre lederna i sexaregistret är även de ofta välsäkrade, men med traditionella medel.
+
+Örnberget har två huvudsakliga väggar. En västvänd vägg som vetter mot sjön och i vinkel en sydvänd som följer sluttningen upp från sjön. Västväggen är sprickrik och bitvis rätt lös men det finns trots allt några fina leder på den. Sydväggen inleds med en imponerande sköld utan större formationer. Trots att marken stiger brant längs med väggen bevarar den sin höjd ett bra stycke upp i backen.
+
+==Extern förare==
+Förare finns på [http://www.plonk.se/oldsite/ornberget.html Stockholms Nätförare]
+
+==Miljö==
+
+Väst och syd. Mestadels skuggigt förutom högra delen av sydväggen som hamnar i skugga först efter fem på eftermiddagen. Vänstra halvan av sydväggen är så överhängande att det ofta går att klättra här då det småregnar.
+
+Nära till Tullingesjön där man gärna badar.
+
+<div style="clear:right"></div>
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.20757" lon="17.88241" zoom="14" type="map" controls="small">
+59.20757,17.88241,[[Örnberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Ornberget
+lat=17882410
+long=59207570
+</slresa>
+</div> 
+Från norr: Kör Huddingevägen, passera Tullinge station. Passera en pizzeria och ta första höger. 
+Följ vägen till höger ner för backen och sedan längst sjön. Klippan syns efter ett tag på höger sida och känns igen på det imponerande överhänget.
+Parkera 200 m innan du kommer fram till berget och gå den sista biten, se under "Access"
+
+==Access {{access}}==
+Det är numera förbjudet att parkera bredvid vägen alldeles vid klippan. Man kan få P-böter och det kan bli accessproblem.
+
+Parkera i stället vid båtklubben, en grusplan som ligger bredvid vägen på vänster sida, 200 m innan man kommer fram till berget.
+
+{{AccessDB|klippa=ornberget}}
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Leder==
+===Norra väggen===
+Uppe i skogen tv om svaet finns en liten vägg. 
+{{led|nr=1|namn=Inget för mytomaner|grad=7|längd=12|fa=[[Henrik Bolander]], [[Jonas Böttiger]] [[-90]]}}
+{{litentext|text=Tv om ”svaet vid vägen” ligger en liten vägg inne i skogen.  Raseri fanns där ett tag men var så dålig att förstabestigarna försonade sig med berget och tog bort den.}}
+
+===Svaväggen (vid vägen)===
+
+{{led|nr=2|namn=Grodan boll|grad=7|betyg=|längd=20|fa=[[Per Willén]], [[Johnny Carlén]] [[1993|-93]]|bultar=4|typ=sport}}
+
+{{led|nr=3|namn=Svarta änkan|grad=8|betyg=|längd=20|fa=[[Henrik Bolander]] [[1990|-90]]|bultar=5|typ=sport}}
+
+{{led|nr=4|namn=Vart tog friktionen vägen|grad=7|betyg=|längd=12|fa=[[Johan Luhr]], [[Fredrik Rundqvist]] [[1990|-90]]|bultar=2|typ=mix|text=Småkilar. Går ihop med Svarta Änkan}}
+
+===Västväggen===
+[[Fil:Candyland route.jpg|300px]]
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=5|namn=Skitdiedret|grad=3+|betyg=|längd=15|fa=[[Katarina Hemgren]] [[1987|-87]]|bultar=|typ=trad}}
+
+{{led|nr=5a|namn=Tre pinnar|ny=1|grad=6b|betyg=1|längd=17|typ=sport|bultar=8|fa=[[Peter Yakubenko]] [[2010|-10]]|text=Vänster led på det röda svaet. Betydligt svårare än väntat.}}
+
+{{led|nr=5b|namn=Candyland|ny=1|grad=6a|betyg=2|längd=17|typ=sport|bultar=8|fa=[[Anton & Peter Yakubenko]] [[2010|-10]]|text=Höger led på det röda svaet. Fin led och tätt bultad.}}
+
+{{led|nr=6|namn=Nalle Puh|grad=5-|betyg=2|längd=12|fa=[[Katarina Hemgren]] [[1987|-87]]|bultar=|typ=trad|text= Vacker spricklinje. Jänm och fin klättring. Nyrensad och nytt toppankare -10.}}
+
+| width="300px" |
+
+{{led|nr=6a|namn=På honungsjakt|ny=1|grad=5|betyg=1|längd=18|fa=[[Peter Yakubenko]] [[2010|-10]]|bultar=|typ=trad|text=Klättra Nalle Puh upp till hyllan, traversera åt höger via tvärsprickan mot björken, sen klättra upp i den breda sprickan. Det kräver stora säkringar (Camalot #3 och #4). Ankare finns på toppen.}}
+
+{{led|nr=6b|namn=Heffaklumpen|ny=1|grad=7b|betyg=|längd=5|fa=[[Johan Luhr]] [[2010|-10]]|bultar=2|typ=sport|text=}}
+
+{{led|nr=6c|namn=Iors födelsedag|ny=1|grad=6c+|betyg=|längd=17|fa=[[Peter Yakubenko]], [[Jörgen Alvhäll]] [[2010|-10]]|bultar=8|typ=sport|text=
+På vägg och aréte höger om björken. Toppankare.}}
+
+{{led|nr=7|namn=En tårta passerar i revy|grad=7-|betyg=|längd=20|fa=[[Eva Selin]] [[1986|-86]]|bultar=|typ=trad}}
+|}
+
+[[Bild:Örnberget_1.jpg|450px]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=8|namn=Stön som sådana|grad=7-/7|betyg=|längd=25|fa=[[Eva Selin]], [[Anders Lundahl]] [[1985|-85]]|bultar=1|typ=mix|text=Otroligt lös}}
+
+{{led|nr=8a|namn=Exodus|grad=6+|betyg=|längd=25|fa=[[Tomas Hanson]], [[Gary Hanson]] [[1988|-88]]|bultar=2|typ=mix}}
+
+{{led|nr=8b|namn=Pix|grad=6-|betyg=|längd=20|fa=[[Tomas Hanson]], [[Gary Hanson]] [[1988|-88]]|bultar=|typ=trad}}
+
+{{led|nr=9|namn=Möjliga världar|grad=6+/7-|betyg=1|längd=18|fa=[[Anders Lundahl]], [[Eva Selin]] [[1985|-85]]|bultar=2|typ=mix}}
+
+{{led|nr=9a|namn=Verklighet|ny=1|grad=6c|betyg=1|längd=18|fa=[[Peter Yakubenko]], [[Jörgen Alvhäll]] [[2011|-11]]|bultar=8|typ=sport|text=
+På aréte precis höger om Möjliga världar. Gemensamt toppankare.}}
+
+{{led|nr=9b|namn=Plattan i mattan|ny=1|grad=6c+|betyg=1|längd=18|fa=[[Peter Yakubenko]] [[2011|-11]]|bultar=9|typ=sport|text=
+Samma start som Verklighet, sedan diagonalt höger mot toppankare på Gasen i botten. Tydlig och logisk linje.}}
+
+| width="300px" |
+
+{{led|nr=10|namn=Gasen i botten|grad=7a+|betyg=|längd=18|fa=[[Johan Luhr]], [[Fredrik Rundqvist]] [[1990|-90]]|bultar=8|typ=sport|text=
+Rakt upp genom taket.}}
+
+{{led|nr=11|namn=Med buken i vädret|grad=6|betyg=|längd=20|fa=[[Jan Liliemark]], [[Lars Granqvist]], [[Rickard Hedman]] [[1984|-84]]|bultar=|typ=trad}}
+
+{{led|nr=12|namn=I grevens tid|grad=7a+|betyg=|längd=18|fa=[[Johan Luhr]], [[Henrik Bolander]] [[1991|-91]]|bultar=7|typ=sport}}
+
+{{led|nr=12a|namn=Grevens hörn|grad=7b+|betyg=2|längd=25|fa=[[Johan Luhr]], [[Niklas Adler]] [[1995|-95]]|bultar=|typ=sport}}
+
+{{led|nr=13|namn=Plåtniklas|grad=6c+|betyg=|längd=20|fa=[[Per Willén]], [[Johnny Carlén]] [[1995|-95]]|bultar=5|typ=sport}}
+|}
+
+{{sidbrytning}}
+
+===Sydväggen===
+
+[[bild:örnberget001.jpg|thumb|right|200px|I´ll be back 8a. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+
+{|
+|- valign="top"
+| width="500px" |
+Här tar Örnbergets huvudvägg vid. Väggen inleds med en skräckinjagande skapelse som är 20m hög, 25m bred och 95–100° brant. Samtliga leder på detta parti karakteriseras av stadigt överhängande klättring mellan borrbultar. Väggens formlöshet och borrbultarnas täthet gör det lite svårt att skilja på lederna men med lite tålamod bör det gå. Ett bra riktmärke är den stora alm som lutar sig mot berget.
+
+[[Bild:Örnberget_2.png|720px]]
+
+|}
+
+<div style="clear: both"></div>
+
+
+
+{|
+|- valign="top"
+| width="200px" |
+
+
+Highway på areten 7c+ v insteg
+
+Highway 8a h  insteg
+ 
+{{led|nr=14a|namn=The king of fucking everything |ny=1|grad=8c|betyg=|längd=|fa=[[Alexander Megos]] [[2013|-13]]|bultar=|typ=sport|text=Vänster om Sator. Den svåraste leden på  berget och kanske i hela Stockholm. Namnet kommer från grannmiljardären. Projektet bultades upp av Henrik Bolander för 15 år sedan  och  testades av många. Alex Megos var inbjuden av Stockholms KK som firade 40 års jubileum. }}
+
+{{led|nr=14|namn=Sator|grad=8a|betyg=1|längd=|fa=[[Johan Luhr]] [[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=15|namn=Pain killer|grad=8a|betyg=|längd=20|fa=[[Johan Luhr]] [[1991|-91]]|bultar=|typ=sport}}
+
+{{led|nr=15a|namn=Help me out|grad=8a|betyg=|längd=|fa=[[Johan Luhr]] [[1995|-95]]|bultar=|typ=sport}}
+
+{{led|nr=15b|namn=Bad Boys|grad=7c+|betyg=1|längd=12|fa=[[Johan Luhr]] [[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=16|namn=I'll be back|grad=8a|betyg=|längd=20|fa=[[Johan Luhr]] [[1991|-91]]|bultar=|typ=sport}}
+
+{{led|namn=Stairway to heaven|grad=8a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=17|namn=I've got the power|grad=8a|betyg=|längd=20|fa=[[Johan Luhr]] [[1990|-90]]|bultar=|typ=sport}}
+
+{{led|nr=18|namn=Nattskiftet|grad=7b+|betyg=1|längd=17|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1988|-88]]|bultar=|typ=sport|text=Pumpande och annorlunda klättring i den stora, överhängande diedersprickan. En variant som kan rekommenderas är Dödsskiftet, 7c, då man avslutar med utsteget på Dödligt möte i stället.}}
+
+{{led|nr=18a|namn=Dödligt möte|grad=8a|betyg=1|längd=|fa=[[Johan Luhr]] [[1995|-95]]|bultar=|typ=sport|text=Brant första del med hårda bouldermoves, sedan vertikalt. Leden finns inte med på skissen ovan. Den börjar mellan nr 18 och nr 19 och går i en rak linje till toppen, mellan Nattskiftet och Don´t be late. Har ett eget ankare.}}
+
+{{led|nr=19|namn=Don't be late|grad=7a+|betyg=|längd=13|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1988|-88]]|bultar=|typ=sport|text=Går upp till samma ankare som Underarms UFO.}}
+
+{{led|nr=19a|namn=Don't be late direkt|grad=7b|betyg=|längd=15|fa=[[Johan Luhr]], [[Lars Thorén]] [[1990|-90]]|bultar=|typ=sport|text=På slutet går man in i Nattskiftet och upp till detta ankare. En kul variant är att klättra rakt upp och utsteget till Dödligt möte, då kallas leden Don´t be dead, 7b+.}}
+
+{{led|nr=20|namn=Raka rör|grad=6c+|betyg=|längd=15|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1988|-88]]|bultar=|typ=mix}}
+
+{{led|nr=21|namn=Underarms UFO|grad=6c|betyg=1|längd=15|fa=[[Eva Selin]], [[Anders Lundahl]] [[1985|-85]]|bultar=9|typ=sport|text=Enkelt att klättra onsight.}}
+
+{{led|nr=21a|namn=Lätta|grad=6c+|betyg=|längd=15|fa=[[Johan Luhr]], [[Mattias Flodin]] [[1988|-88]]|bultar=7|typ=sport}}
+
+{{led|nr=21b|namn=Långa ärmar|ny=1|grad=6c/6c+|betyg=1|längd=26|fa=[[Peter Yakubenko]] [[2011|-11]]|bultar=16|typ=sport|text=Förlangning på Underarms UFO/Lätta. Förlangningen är betydligt lättare men helt logisk fortsättning förbi gamla toppankaret upp mot en hylla och vidare på areten övanfor.}}
+
+| width="300px" |
+
+{{led|nr=22|namn=Rakt på sak|grad=7b+|betyg=2|längd=19|fa=[[Johan Luhr]], [[Lars Thorén]] [[1990|-90]]|bultar=|typ=sport|text=Ihållande och knappast rak}}
+
+{{led|nr=23|namn=Imperiet|grad=7a+|betyg=|längd=19|fa=[[Eva Selin]], [[Anders Lundahl]] [[1985|-85]]|bultar=|typ=sport|text=}}
+
+{{led|nr=24|namn=Just nu|grad=7c|betyg=|längd=19|fa=[[Johan Luhr]] [[1990|-90]]|bultar=|typ=sport}}
+
+{{led|nr=25|namn=Panta Rei|grad=7a|betyg=3|längd=19|fa=[[Eva Selin]], [[Anders Lundahl]] [[1986|-86]]|bultar=|typ=sport|text=Uppvärmningsklassiker}}
+
+{{led|nr=25a|namn=Panta Rei direkt|grad=7a|betyg=|längd=7|fa=[[Johan Luhr]], [[Rickard Hedman]] [[1988|-88]]|bultar=4|typ=sport}}
+
+{{led|nr=25b|namn=Tredje gången gillt|grad=7b|betyg=|längd=19|fa=[[Johan Luhr]] [[1991|-91]]|bultar=6|typ=sport}}
+
+{{led|nr=26|namn=Orup|grad=7a+|betyg=3|längd=20|fa=[[Eva Selin]], [[Anders Lundahl]] [[1988|-88]]|bultar=5|typ=sport|text=9 bultar totalt inkl de 4 på Panta Rei originalinsteg}}
+
+{{led|nr=27|namn=Vinna eller försvinna|grad=7c|betyg=1|längd=20|fa=[[Johan Luhr]] [[1990|-90]]|bultar=|typ=sport}}
+
+{{led|nr=27a|namn=Vinna eller försvinna direkt|grad=7a+|betyg=|längd=8|fa=[[Johan Luhr]] [[1991|-91]]|bultar=3|typ=sport}}
+
+{{led|nr=28|namn=Utan smör|grad=7b|betyg=1|längd=25|fa=[[Johan Luhr]], [[Rickard Hedman]] [[1988|-88]]|bultar=9|typ=sport}}
+
+{{led|nr=29|namn=Utan tvekan|grad=7c|betyg=1|längd=25|fa=[[Johan Luhr]], [[Rickard Hedman]] [[1988|-88]]|bultar=6|typ=sport|text=}} 
+
+{{led|nr=29a|namn=Utan tvekan alt utsteg|grad=7c+|betyg=|längd=10|fa=[[Johan Luhr]] [[1990|-90]]|bultar=|typ=sport}}
+
+{{led|nr=30|namn=Siddharta|grad=7c|betyg=3|längd=25|fa=[[Johan Luhr]], [[Rickard Hedman]] [[1988|-88]]|bultar=9|typ=sport}}
+
+{{led|nr=30a|namn=Papillon|grad=8a|betyg=|längd=|fa=[[Johan Luhr]] [[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=31|namn=Tipp topp|grad=7b+|betyg=|längd=25|fa=[[Johan Luhr]] [[1991|-91]]|bultar=5|typ=mix|text=En friend behövs på mitten i den tydliga sprickan}}
+
+{{led|nr=32|namn=Lysande utsikter|grad=7a+|betyg=|längd=25|fa=[[Anders Lundahl]] [[1986|-86]]|bultar=|typ=sport}}
+
+{{led|nr=33|namn=Impuls|grad=7a|betyg=|längd=25|fa=[[Johan Luhr]], [[Mårten Dahlström]] [[1987|-87]]|bultar=8|typ=sport}}
+
+{{led|nr=34|namn=Hindenburg|grad=7b|betyg=2|längd=25|fa=[[Rickard Hedman]], [[Johan Luhr]] [[1988|-88]]|bultar=6|typ=sport}}
+|}
+
+{{sidbrytning}}
+
+===Lidingöväggen===
+[[Bild:Ornberget_Hugo_vers2.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=35|namn=Pommesshit|grad=5+|betyg=|längd=25|fa=[[Eva Selin]], [[Anders Lundahl]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|nr=35a|namn=Antons bultstege|ny=1|grad=6b|längd=9|typ=sport|bultar=6|fa=[[Anton & Peter Yakubenko]] [[2011|-11]]|text=Vänster om Blötkaken.}}
+
+{{led|nr=36|namn=Blötkaken|grad=6b+/6c|betyg=|längd=21|fa=[[Anders Lundahl]], [[Eva Selin]] [[1983|-83]]|bultar=11|typ=sport|text=Leden är nu bultad. Ankare -09}}
+
+{{led|nr=36a|namn=Blötkaken, variant på|grad=6b+/6c|betyg=|längd=|fa=|bultar=11|typ=sport|text=Så kan man undvika den första och storsta hyllan. Graden ändras ej. Året var 1983. Hur klättrades det?  Helbultad -2011.}}
+
+{{led|nr=37|namn=Möjlig omöjlighet|grad=7c(?)|betyg=|längd=21|fa=[[Björn Kihlström]] [[1989|-89]]|bultar=8|typ=sport}}
+
+{{led|nr=37a|namn=Nubben på snöret|ny=1|grad=6c+|typ=sport|betyg=|längd=21|fa=[[Peter Yakubenko]] [[2009|-09]]|bultar=10|text=Samma start som Möjlig omöjlighet. Nytt lätt utsteg åt vänster.}}
+
+{{led|nr=38|namn=Istället för Lidingöloppet|grad=6+/7-|betyg=2|längd=25|fa=[[Lars Grankvist]], [[Anders Kamb]] [[1982|-82]]|bultar=|typ=trad|text=En klassisk led och en av de finaste spricklinjerna i södra Stockholm. Rensades och försågs med ett firningsankare i oktober 2011.}}
+
+{{led|nr=38a|namn=Loppbiten|grad=7b|betyg=1|längd=15|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1988|-88]]|bultar=5|typ=sport|text=Tidigare en mixled, numera helbultad och rensad. Börjar på hyllan, för att nå dit - klättra En tyst minut.}}
+
+{{led|nr=38b|namn=En tyst minut|ny=1|grad=6b+|typ=sport|betyg=|längd=8|fa=[[Andreas Harne]] [[2011|-11]]|bultar=3|text=Kort och boulderaktig led med lätt överhängande slut. Låt karbinerna sitta kvar i ankaret!}}
+
+{{led|nr=38c|namn=Radikalen|grad=6c|betyg=|längd=10|fa=[[Anders Lundahl]], [[Eva Selin]] [[1985|-85]]|bultar=3|typ=sport|text=Delar första bulten med föregående led. Ursprungligen en instegsvariant till Istället för Lidingöloppet, numera en självständig led. I oktober 2011 bultades leden om och försågs med ett eget ankare t h uppe på hyllan.}}
+
+{{led|nr=39|namn=Cowboys on acid|grad=7c|betyg=2|längd=25|fa=[[Tomas Hansson]] [[1989|-89]]|bultar=7|typ=sport|text=En riktig testpiece. Kräver god teknik och starka fingrar.}}
+
+{{led|nr=40|namn=Älska mig|grad=7b+|betyg=2|längd=25|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1988|-88]]|bultar=9|typ=sport}}
+
+{{led|nr=41|namn=Rundgång|grad=7b|betyg=|längd=25|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1988|-88]]|bultar=5|typ=sport}}
+
+{{led|nr=42|namn=Terroristen|grad=7a|betyg=|längd=20|fa=[[Anders Lundahl]], [[Eva Selin]] [[1984|-84]]|bultar=|typ=sport|text=Leden är nu bultad}}
+
+{{led|nr=42a|namn=Hälsoresan|grad=6c|betyg=|längd=20|fa=[[Johan Luhr]] [[1991|-91]]|bultar=|typ=sport|text=}}
+
+{{led|nr=43|namn=Drömpuls|grad=7-|betyg=|längd=12|fa=[[Anders Lundahl]], [[Eva Selin]] [[1985|-85]]|typ=trad}}
+
+{{led|nr=44|namn=Hugo|grad=6c+|betyg=1|längd=12|fa=[[Johan Luhr]], [[Daniel Bidner]] [[1991|-91]]|bultar=6|typ=sport}}
+
+{{led|nr=45|namn=Den breve Hugo|grad=6c|betyg=2|längd=12|fa=[[Johnny Carlén]], [[Per Willén]] [[1993|-93]]|bultar=6|typ=sport}}
+
+{{led|nr=46|namn=Grands gorillas|grad=6b|längd=12|fa=[[Eva Selin]], [[Anders Lundahl]] [[1985|-85]]|typ=sport}}
+
+{{led|nr=46a|namn=No more gorillas|ny=1|grad=6c/6c+|betyg=1|längd=14|fa=[[Peter Yakubenko]], [[Jörgen Alvhäll]], [[Anders Eriksson]] [[2009|-09]]|bultar=7|typ=sport|text=På vägg emellan Grands gorillas och Namo. Nytt toppankare.}}
+
+| width="300px" |
+
+{{led|nr=47|namn=Namo|grad=7b+|betyg=|längd=14|fa=[[Johan Luhr]], [[Daniel Bidner]] [[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=48|namn=Fyra krux|grad=6|betyg=|längd=14|fa=[[Lars Grankvist]], [[Niklas Björnerstedt]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|nr=49a|namn=Okänd|grad=?|betyg=|längd=|fa=|bultar=|typ=sport|text=Gobiten sedan utsteg åt vänster. }}
+
+{{led|nr=49b|namn=Go' biten|grad=7b+|betyg=1|längd=12|fa=[[Johan Luhr]] [[1991|-91]]|bultar=6|typ=sport|text=Omväxlande klättring först genom ett tak och sedan i en känslig dieder. Utsteg åt höger.}}
+
+{{led|nr=|namn=Frisco kid direkt|grad=8a+|betyg=|längd=|fa=|bultar=|typ=sport|text=Starta med Gobiten. Hangla höger på takkanten och upp burn/Frisco Kid}}
+
+{{led|nr=50|namn=Frisco kid|grad=8a|betyg=2|längd=12|fa=[[Johan Luhr]] [[1991|-91]]|bultar=6|typ=sport|text=Klättra diagonalt vänster mot areten, följ sedan areten till toppen. Gemensam start med Burn.}}
+
+{{led|nr=51|namn=Burn|grad=7c(+?)|betyg=2|längd=12|fa=[[Tomas Hansson]], [[Johan Luhr]] [[1989|-89]]|bultar=5|typ=sport|text=Startar som Frisco Kid men går in till höger på väggen efter tredje bulten.}}
+
+{{led|nr=52|namn=Ingen överhängande fara|grad=7a+|betyg=1|längd=14|fa=[[Johan Luhr]] [[1987|-87]]|bultar=5|typ=sport|text=Samma insteg som Burn sedan höger.}}
+
+{{led|nr=53|namn=Nattens väktare|grad=6+|betyg=|längd=13|fa=[[Anders Lundahl]], [[Eva Selin]] [[1982|-82]]|bultar=1|typ=mix}}
+
+{{led|nr=54|namn=Fluxus|grad=6b|betyg=1|längd=9|fa=[[Eva Selin]] [[1986|-86]]|bultar=4|typ=sport}}
+
+{{led|nr=55|namn=Nisse Blixt|grad=6c+|betyg=1|längd=9|fa=[[Johan Luhr]] [[1987|-87]]|bultar=4|typ=sport}}
+
+{{led|nr=56a|namn=Gambit|grad=6c|betyg=|längd=8|fa=[[Anders Lundahl]] [[1986|-86]]|bultar=3|typ=sport}}
+
+{{led|nr=56b|namn=alt. vänster-insteg till Gambit|grad=?|betyg=|längd=8|fa=[[Johan Luhr]] [[2009|-09]]|bultar=~+2|typ=instegsvariant}}
+
+
+{{led|nr=57|namn=Myggan|grad=7b|betyg=|längd=~5|fa=[[Johan Luhr]] [[2009|-09]]|bultar=~3|typ=sport}}
+
+
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Sva]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Saknar skrivarformatering]]

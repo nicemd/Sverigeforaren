@@ -1,0 +1,182 @@
+{{info klippa
+  |lat=59.689948
+  |long=12.428627
+}}
+
+{{utkast}}
+
+==Allmänt==
+Fint berg drygt 1 mil från Arvika i riktning mot Årjäng/Finnskogen. 
+Berget är några hundratal meter brett och 25 meter högt (på sin högsta punkt). Etablerade sig snabbt som det berg med flest leder i Jösse Härad. I dagsläget finns ''50'' gjorda leder plus olika varianter och direktinsteg, och i takt med nyturerna snickras det på en ny förare med skiss över berget. När denna gjorts elektronisk markeras sidan som komplett.
+
+==Beskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.693218" lon="12.428541" zoom="10" type="map" controls="small">
+59.689948,12.428627,[[Sulviksberget]]
+</googlemap>
+</div>
+
+Sulviksberget har efter ett beslut i Jösse Klättersällskap beslutats hållas BULTFRITT . Inga bultar eller annan utrustning får lämnas på berget eller ovanpå den . Det är viktigt att alla hjälps åt att bevara Sulviksberget som ett fint NATURberg . Om det inte går att leda kan man Alltid topprepa. 
+Topprep kan med fördel sättas i de många träd som finns. Möjlighet att gå runt berget finns på båda sidor samt mitt på (mittmarkeringen är pilen på bilden nedan.)
+
+Berget är relativt nyupptäckt och flera leder är därför aldrig klättrade eller beskrivs i föraren som projekt. 
+Detsamma gäller de många boulderproblem som kan putsas fram på stenblock nedanför berget.
+
+De stenblock och rösen som finns nedanför berget skvallrar om att det kan vara löst på sina ställen. Ha detta i åtanke vid klättring och neddragning av rep. Kul och varierande formationer gör berget intressant att klättra. Här finns allt från fina sprick-linjer till aretêr och dieder samt väggklättring. Allt på sva, vertikal och överhängande klippa. Ofta fler element i en och samma led.  
+
+De flesta lederna är i 5-6-7-8 registret, men det är bara för att ingen försökt sig på eller putsat fram de enklare och svårare ännu. Här finns i allra högsta grad nyturspotential. 
+
+Följ för övrigt Svenska klätterförbundets accessregler och visa stor hänsyn till växter och djur samt boende i området. Sunt förnuft alltså vilket betyder att du ska lämna berget så rent och fint som du vill hitta det.
+
+==Vägbeskrivning==
+
+Från Arvika: Följ väg 172 i riktning mot Årjäng/Töcksfors/Sulvik. Efter att du passerat Sulvik med dess bensinstation/mat-affär, ta första vägen till höger mot Åmotfors. Efter ca en kilometer hittar du kolsjön på vänster sida. Då har du kört lite för långt. 
+Parkera istället bilen vid ängen till höger. Berget ligger i andra änden på den lilla åkern (200m) och början på berget borde ses från bilen. Vid sådd på åkern måste fordonet parkeras högre upp i backen där det finns en liten ficka. Då är det promenad över kalhygget som gäller.
+
+{{access}}
+'''Access : Vid ängen finns endast en parkeringsficka, lite vid sidan av vägen, använd aldrig vägen/ängen. All annan yta används av markägaren. Parkera helst uppe på krönet innan , eller kör vidare och parkera i skarpa kurvan på avtagsväg. Var vänlig och respektera markägarens behov.'''
+
+==Lederna==
+
+Räknas upp från vänster, men detta saknar helt någon mening då ingen karta eller skiss över berget ännu skapats. Nedan leder är därför bara ett utkast och ett första steg mot en komplett förare. Mer information kommer så fort skissen skapats och övrig information kompletterats. 
+Nyturspotentialen är stor och därför är denna förare i allra högsta grad levande. Det är dock på denna sida som alla nyturer först registreras. I dagsläget (2008-08-05) är nedan projekt inget annat än projekt. Dock finns mer att göra på klipporna bara man har lust att putsa. En topografi är på gång, men tillsvidare får man försöka leta sig fram till lederna utifrån beskrivningarna nedan. 
+
+
+===Ängsklippan===
+
+2/3 från slutet på ängen uppenbarar sig de första klipporna. Badande i sol från eftermiddag till kväll utgör dessa klippor första sektionen av berget Sulvik. Fin stenkvalité och fast klippa, Enkelt att gå runt berget på vänster sida. Fina träd att bygga ankare med. Där skogen tar vid blir klippan lite lägre och inte lika klätterintressant. Några meter in i skogen blir berget betydligt högre och du har nu nått nästa sektion... Stora väggen.  
+
+{{led|namn=Sweet Summer rain|nr=1|grad=6-|betyg= |längd=10(?)|fa=Martin Norlander|bultar=|typ=trad|text=Första leden från vänster på ängsklippan. Säkringar på mitten.}}
+
+{{led|namn=Tvivelaktiga vänner|nr= | grad=7-|fa=Martin jurander|typ=trad|text=Till höger om Sweet summer rain. Traverserar in från vänster upp till en slät sugande vägg, endast avbruten av två tvärsprickor. Dåliga aliens säkrar lite i alla fall}}
+
+{{led|namn=Tandlösa gubbens uppvärmningsled|nr=|grad=ca 8- R |betyg=|längd=13)|fa=Martin Jurander|typ=Trad|text=Väldigt seriös , få men ok säkringar , väldigt fin klättring.}}
+
+{{led|namn=Oskars Led|nr=2|grad=6-|betyg=3|längd=12(?)|fa=Martin Jurander|typ=Trad|text=Finfina diedret på ängsklippan. Varierad och kul klättring i jämn fin spricka som gjord för att matas med kilar och friends. Rekommenderas.}}
+
+{{led|namn=Flykten från utstegskaminen|nr=|grad=6|betyg=1|längd=12|fa=Martin Jurander|bultar=|text=Starta upp som nästa led men efter att ha lagt säkringar i diedret svingar du ut på hajfenan och sedan rakt upp , kryddig karaktär.|typ=trad}}
+
+
+{{led|namn=Till minne av utstegskaminen|nr=3|grad=6|betyg=0|längd=?|fa=Martin Norlander|bultar=|text=Den mörka kaminen/diedret till höger om oskars led|typ=trad}}
+
+{{led|namn=jakobsens arete| nr= |betyg=2 |grad=8-|typ=trad|fa= Martin Jurander 2008|text= Den överhängande areten till höger om "till minne av..." Gå först upp lägg säkringar i "till minne av... klättra sedan ner till starten av areten och ge dig hän! När du har klarat av areten och står på den omutliga svaplattan kan säkringar läggas till vänster i sprickan , sedan är det bara att ta ett djupt andetag och ge dig hän igen!}} 
+
+{{led|namn=projekt|typ=trad|grad=?|längd=|betyg=|fa=|text=brant vägg med dåliga säkringar till höger om jakobsens..., jobbar på den , mer info kommer snart}}
+
+{{led|namn=Mentaline|typ=trad|grad=8-/8|längd=12|fa=Martin Jurander |text=Kolla säkringarna innan du ger dig hän. Otroligt fin klättring, sportig karaktär! Klicka på lednamnet för video-beta från förstabestigningen}}
+
+{{led|namn=Hölstret|nr=4|grad=5-|betyg=1|längd=8(?)|fa=Martin Jurander|bultar=|typ=trad|text=Markanta sprickan á dieder som leder snett upp åt höger någonstans mitt på ängsklippan. Välsäkrad med stora friends.}}
+
+{{led|namn=Hölstret direct|nr=5|grad=5+|betyg=|längd=?|fa=Martin Norlander -97|bultar=|typ=trad|text=Variantutsteg rakt upp.}}
+
+{{led|namn=Arete Franklin|nr=6|grad=8-|betyg=|längd=14(?)|fa=Martin Jurander|bultar=|typ=trad|text=Brant boulderig start leder upp till osäkrad sexaklättring, seriöst dåligt säkrad}}
+
+{{led|namn=Projekt|nr=7 |grad=?|betyg= |längd= |fa= |typ=trad|text= }}
+
+{{led| namn=Töst | nr= |grad=5+ | fa= Jonas Wallmander, Andreas Holm | typ=trad| text= Till vänster om "familjeterapi" Går via ett löst ,seriöst stort block upp , dåligt säkrad}}
+
+{{led|namn=Familjeterapi|nr=8|grad=7-|betyg=2 | fa=Martin Jurander|typ=trad|text=Tunt i början sedan välsäkrat.}}
+
+{{led|namn=Direktinsteg|nr=9|grad=7+|betyg=|längd=|fa=Martin Jurander|bultar=|typ=trad|text=Välsäkrad om man når...}}
+
+{{led|namn=Blodsockerfall|nr=10|grad=6|betyg=|längd=10|fa=Martin Norlander|typ=trad|text=Svårsäkrad början}}
+
+{{led|namn=Curatora|nr= |grad=6| fa=Martin Jurander |betyg= | längd= |typ=trad| text= Boulderig osäkrad start leder via svabullen upp till ett fint utstegssdieder , ok säkringar }} 
+
+{{led|namn=Ekefalks problem| nr= |grad= 7+ | fa=Martin Jurander |betyg= | längd= | typ=trad| text= Brant klättring undre halvan med ev. möjlighet till säkring, övergår i lätt trea klättring på övre halvan, går fint med paddor under.}}
+
+{{led|namn=Hellre mossa än mus|nr=11|grad=6-|fa=Martin Jurander och Lasse Ericson |betyg=|längd=|typ=trad|text= Det skarpa diedret till vänster om sportleden-väggen}}
+
+{{led|namn=Mobbade barn med automatvapen |nr=|grad=8-/8 R|fa= John Påhlman och Martin Jurander |betyg=2|längd=10|typ=trad|text= När diedret på föregående led närmar sig sitt slut lägger du dina sista säkring och bryter ut på branta väggen , crux följt av sportig klättring. FIIN ! }}
+
+
+
+{{led|namn=Sportleden|nr=12|grad=7+|betyg= 3|fa=Martin Jurander|typ=trad|längd= |text=Regnsäker upp till sista greppet, juggig start leder via en vänster förflyttning upp till det pumpande slutet. Seriös men oxå en av de finaste på berget.Tradbeta: säkras med en offset blå/grön alien eller annan mindre kam och en blå camalot}}
+
+{{led|namn=skoterleden|nr=|grad=8-?|betyg=2 |längd=10|fa=Martin Jurander|bultar=|typ=trad|text=startar direkt med ett bouldercrux upp till jugg , där du kan lägga svart alien mm , sedan intensiv boulderig klättring , säkringarna har tagit långa fall , men efter att du "typ" är hemma är det markfallspotential ! Fin , boulderig !! }}
+
+{{led|namn=Hole in One|nr=13|grad=7-|betyg= |längd=16|fa=Martin Jurander|bultar=|typ=trad|text=Brant avig startspricka som ger dig en bra lektion i jamteknik, leder vidare till en fin slut spricka. Ser inte ut som en 7- vid första anblick, men lita på graderingen}}
+
+{{led|namn=Tomma tisdagsträffar|nr= |grad=6+|fa=Martin Jurander|typ=trad|längd= |betyg= |text= Så nära Devils tower som vi kommer i sulvik tror jag, säkras med små friends och kilar}}
+
+{{led|namn=Tomheten|nr=|grad=6|fa=Martin jurander|betyg= |längd= |typ=trad|text=Till höger om "Tomma tisdags..." , Fin liten led som säkras med små friends och kilar, bra norgeträning!}}
+
+{{led|namn=Arty|nr=|grad=6|fa=Martin  Jurander|typ=trad|betyg= |längd= |text=Fina sprickan till höger om Tomheten,mothäng i början, sva i slutet, fina säkringar.}}
+
+{{led|namn=Löftet|nr= |grad=8-|betyg=1 |längd=10 |fa= Martin Jurander|typ=trad|text= Den fina areten precis till höger om Arty, lägg först säkringar i arty's mothäng och gå ner. Leden startar sen från högra sidan av areten med sulviks hitills hårdaste sekvens , väl förbi cruxet kan du lägga en liten kil i arty. Viss eliminationsvarning men den följer areten utan att använda artys grepp! Fin ! }}
+
+{{led|namn=Lynnie Diamond|nr= |grad=6|betyg= |längd= |fa= |typ=topprep|text=Fin led med osäkrat krux 5 m upp, högt boulderprojekt? Går på kortsidan som svänger in efter Arty, en bred sne kant, vidare upp över bullen och uppför aréten till topps.}}
+
+{{led|namn=Extend|nr= |grad=4|fa=Jonne Löfquist|typ=trad|text= Den stora sprickan i hörnet. Välsäkrad med lite större friends. Bra enklare led. Fin !}}
+
+{{led|namn=Väggmoral|nr= |grad=6-|fa=Martin Jurander|typ=trad|text= Väggen precis till höger om Extend ,man erbjuds fin väggklättring med krux högst upp om man har moral nog att undvika vänstersprickan .}}
+
+{{led|namn=Kaminen|nr= |grad=4+|fa=Martin Jurander|typ=trad|text= Klassiker !}}
+
+{{led|namn=Sling it magistern|nr= |grad=6+|fa=Martin Jurander|typ=trad|text= Den branta tvärväggen till höger om blötväggen.Startar i spricka och går sedan vänster ut på väggen. Slinga block nr ett och ge dig hän, efter krux nr 2 kan du slinga "block" nr 2. Fin !}}
+
+{{led|namn=Mental istid|nr= |grad=5-|fa=Moa Wall|typ=trad|text= Direkt till höger om tvärväggen och areten. Följ spricksystemet och blocken upp, bra säkringar.}}
+
+{{led|namn=Gränsleden|nr= |grad=7-|fa=Martin Jurander|typ=trad|text= Boulderled men går fint att säkra för den som vill. Tunn överhängande fingerspricka leder till något så ovanligt som en jamunderclings-mantling}}
+
+{{led|namn=Sulvik i mitt hjärta|nr= |grad=5+|fa=Martin Jurander|typ=trad|längd= |betyg= |text= Boulderled men går fint att säkra för den som vill, två meter till höger om "Gränsleden". Sandbag för moderna klättrare}}
+
+{{led|namn=Stensöt|nr=14|grad=5|betyg=1|längd= |fa=Martin Jurander|bultar=|typ=trad|text=}}
+
+{{led|namn=Varför blir jag aldrig klar med veden|nr= |grad=6+|fa=Martin Jurander|längd= |betyg= |typ=trad |text= Till höger om kursleden "Stensöt" Boulderled men kan gå att säkra för den som vill , hård start tung mitt och krux på slutet.}}
+
+{{led|namn=Hjärtinfarkt|nr=15|grad=6-|betyg= |längd= |fa=Martin Norlander|bultar=|typ=trad|text=Precis innan stora väggen börjar,startar från hyllan och klättrar den stora sprickan rakt upp. bra säkrad }}
+
+===Stora väggen===
+
+25 meter (?) i höjd och klippans olika formationer gör detta område intressant. Ingen brist på areté och dieder med andra ord.  
+Som blocken nedanför denna klippa visar, så kan det vara löst på sina håll. Ha detta i åtanke både vid klättring och neddragning av rep. Mellan Ängsberget och Stora väggen finns en uppstigningsled som löper snett uppåt åt vänster. Ett lämpligt vägval för att sätta topprep i de många träd som finns lämpligt placerade längs klippkanten. Sol på eftermiddagen och på övre delen/toppen i princip tills solen går ner. Ju längre till höger man kommer på stora väggen desto "rösigare" blir instegen med stora block om vartannat. 
+
+{{led|namn=Skräckosaurus|nr=16|grad=7-|betyg= |längd= |fa=Martin Jurander|typ=trad|text=Första leden på stora väggen, startar i diedret och går sen längs areten upp till slutsprickan.seriös onsight , kolla säkringarna}}
+
+{{led|namn=Bisexuell|nr=17|grad=6+|betyg=1 |längd= |fa=Martin Norlander|typ=trad|text=starta på hörnet sedan upp i fin fingerspricka till ett litet crux. Bra säkrad.}}
+
+{{led|namn=Taklampa|nr=18|grad=7-|betyg=2|längd= |fa=Martin Norlander|typ=trad|text=Rätt ut genom taket!}}
+
+{{led|namn=Post mortum|nr=19|grad=6+|betyg=1 |längd= |fa=Martin Norlander|typ=trad|text=istället för överhänget går du ut och upp höger i diedret , bra säkrad. }}
+
+{{led|namn=Cervux|nr=20|grad=7-/7|betyg= |längd= |fa=Martin Norlander|bultar=|typ=trad|text=Den stora sprickan till höger om pelaren}}
+
+{{led|namn=Äventyrsleden|nr=|grad=4|betyg= |längd=25m + |fa=Martin J, Moa W|bultar=|typ=trad|text=Startar på rampen till höger om Cervux, lämpligt att göra stand på hyllan halvvägs, fin slut travers . }}
+
+{{led|namn=Forget but not forgive|nr= |grad=5+|längd=25|fa=Martin Jurander|typ=trad|text=Mäktig led på stora väggen under de stora taken. Startar i högerdieder och drar sig sedan snett upp /åt vänster till taköverhänget. Detta rundas med en delikat travers åt vänster och ett löst slut i toppdiedret. Ok säkrad.}}
+
+{{led|namn=Fegline|nr=|grad=7|betyg=3 |längd= |fa=Martin Jurander|typ=trad|text=Fint dieder för att undvika det stora taket.Klättring blir inte mycket finare än så här ! Superklättring, ta med små friends.}}
+
+{{led|namn=Yx-Göran|nr=21|grad=5|betyg= |längd= |fa=Martin Norlander|typ=trad|text=Hörnet långt åt höger precis innan sjöväggen börjar.}}
+
+{{led|namn=Jerry med kniven|nr=22|grad=5+|betyg=2|längd=|fa=Martin Norlander|bultar=|typ=trad|text=viker ut åt höger från Yx-görans insteg sedan upp på väggen.}}
+
+{{led|namn=The Roof|grad=7/7+|betyg=2 |längd= |typ=trad| text=Skarpt dieder till höger om jerry med.. leder upp igenom taket och slutar i ovan nämnda led.}}
+
+===Sjöväggen===
+
+Vid ett överhängande block nere vid bäverns vattendrag finns en trädstam som man promenerar på för att komma fram till Sjöväggen. Namnet sjöväggen kommer från den ansamling vatten som finns direkt under. Några stockar och pinnar är upplagda som en provisorisk bro för att ta sig över. Vandringspinne att använda vid överfarten finns om inte bävern har tagit den. 
+Sjöväggen är bergets minsta sektion och de klättrade lederna är framförallt längst till höger på denna sektion. Möjlighet att gå runt berget finns till höger. Solen träffar berget strax innan lunch vilket kan vara trevligt en kylig vårdag.  
+
+
+{{led|namn=Projekt|nr=23|grad=?|betyg= |längd= |fa= |bultar=|typ=trad|text= }}
+
+{{led|namn=Projekt|nr=24|grad=?|betyg= |längd= |fa= |bultar=|typ=trad|text= }}
+
+{{led|namn=Fatline|nr=25|grad=8-|betyg=3|längd=15|fa=Martin Jurander|bultar=|typ=trad|text=Superlinje. Sprickan som precis sväljer fingertopparna långt till höger på sjöväggen. Naturligt säkrad}}
+
+{{led|namn=Ragnarssons spricka|nr=26|grad=7|betyg= 2|längd=16 |fa= Martin Jurander|bultar=|typ=trad|text= }}
+
+{{led|namn=bävernylon|nr=27|grad=5+|betyg= |längd= |fa=Martin Jurander|typ=trad|text=Börjar på marken. Upp på hylla till vänster, Därifrån upp till hyllan till höger i vars hörn leden Pisa startar. Sedan ut igen till vänster och vidare upp mot trädet i toppen. Här enklare klättring och bättre säkringsmöjligheter.}}
+
+{{led|namn=Norskeruta|grad=7+|betyg= |längd= |text=Solo , Jakob 2009.}}
+
+{{led|namn=Pisa|nr=28|grad=5+|betyg=2|längd=|fa=Lisen Sparre|bultar=|typ=trad|text=Sprickan i hörnet med start på platån. Välsäkrad och fin}}
+
+{{led|namn=Projekt|typ=trad|grad=?|betyg= |längd= |fa= |text=väggen till höger om pisa bjuder på brant väggklättring.}}
+
+[[Kategori:Värmland]]
+[[Kategori:trad]] 
+[[Kategori:vertikalt]]

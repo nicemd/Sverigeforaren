@@ -1,0 +1,87 @@
+{{info klippa
+  |lat=59.36230
+  |long=18.20951
+}}
+
+{{komplett}}
+
+==Allmänt==
+Klippa på klätterfattiga Lidingö. Klippan är delvis sprängd och flera leder startar från en ”betongbalkong” ovanför ett bergrum där en pumpstation för Käppalaverket ligger. Det kan dock vara lite småstruligt att ta sig upp på balkongen. Tidigare fanns en stege på plats, men den har med tiden försvunnit.
+Den märkliga miljön till trots, flera av lederna är faktiskt helt OK. Dessutom ligger den alldeles vid vattnet. Det faktum att den är östvänd gör den också lämplig som kvällsklippa på varma sommardagar.
+
+==Miljö==
+Östvänd och öppen. Avloppslukten kan dock vara påträngande.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.36230" lon="18.20951" zoom="14" type="map" controls="small">
+59.36230,18.20951,[[Ekholmsnäs]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Ekholmsnas
+lat=18209510
+long=59362300
+</slresa>
+</div> 
+
+Med bil, åk Södra Kungsvägen och sedermera Gåshagaleden ut mot Käppala. Ca 500 m innan Käppala hpl, ta v (skylt Killinge) på Katrinelundsvägen och sedan v på Killingevägen. Följ denna till dess slut och ta h på Slånbärsvägen, som leder till en hårnålskurva. Ca 200 m efter kurvan, ta h ner på en liten grusväg som leder till vattnet och klippan. Parkering vid instegen!
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+==Leder==
+[[Bild:Ekholmsnäs.png]]
+
+===Vänsterväggen===
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=1|namn=Göta juck|grad=6|betyg=|längd=10|fa=[[Marco Kupiainen]], [[Mats Olofson]], [[Jonas Paulsson]] [[1994|-94]]|bultar=1|typ=mix}}
+
+{{led|nr=2|namn=Galen häst|grad=6-|betyg=|längd=8|fa=[[Ludde Hagberg]] [[1994|-94]]|bultar=|typ=solo}}
+
+| width="300px" |
+
+{{led|nr=3|namn=Porcelio scaber|grad=7-|betyg=|längd=10|fa=[[Ludde Hagberg]] [[1994|-94]]|bultar=1|typ=mix}}
+
+{{led|nr=4|namn=Strykjärn|grad=5|betyg=|längd=10|fa=[[Ludde Hagberg]] [[1994|-94]]|bultar=|typ=trad}}
+Tidigare listad som osäkrad, vilket inte stämmer. Går att säkra bra med ett gäng småkammar typ 0.3 camalot och däromkring. Mossig och jordig led men ganska rolig klättring.
+
+|}
+
+===Huvudväggen===
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=5|namn=Sjöexpress|grad=6+|betyg=|längd=16|fa=[[Jonas Paulsson]], [[Ludde Hagberg]] [[1994|-94]]|typ=sport}}
+
+{{led|nr=5a|namn=Ribban|grad=7b|betyg=|längd=16|fa=[[Henrik Bolander]][[2008|-08]]|typ=sport}}
+{{litentext|text= Följande leder startar från balkongen. Tidigare fanns en stege här, om den saknas så går det, med visst besvär, att baxa sig upp på högra sidan av bergrummet, med hjälp av trädet.}}
+
+{{led|nr=6|namn=Abnorm erektion|grad=6+|betyg=|längd=12|fa=[[Mats Olofson]], [[Ludde Hagberg]] [[1994|-94]]|bultar=4|typ=sport}}
+
+{{led|nr=7|namn=Den som tar han har|grad=6+|betyg=|längd=12|fa=[[Johan Hvenmark]], [[Jonas Paulsson]] [[1995|-95]]|bultar=4|typ=sport}}
+
+{{led|nr=8|namn=Tres amigos|grad=7-|betyg=1|längd=13|fa=[[Mats Olofson]], [[Ludde Hagberg]], [[Jonas Paulsson]] [[1994|-94]]|bultar=4|typ=mix}}
+
+{{led|nr=9|namn=Sgt Pepper|grad=7|betyg=|längd=12|fa=[[Jonas Paulsson]], [[Ludde Hagberg]] [[1995|-95]]|bultar=5|typ=mix}}
+
+| width="300px" |
+
+{{led|nr=10|namn=Pumpa fläns|grad=6+|betyg=|längd=12|fa=[[Mats Olofson]], [[Anders Karlsson]], [[Jonas Paulsson]] [[1994|-94]]|bultar=1|typ=mix}}
+{{litentext|text=Nästa led startar th om balkongen.}}
+{{led|nr=11|namn=Slacker|grad=6+|betyg=|längd=15|fa=[[Jonas Paulsson]], [[Ludde Hagberg]], [[Claes Thornberg]] [[1994|-94]]|bultar=|typ=trad}}
+{{litentext|text= Rännan har solats. Grad 3+ ungefär. Trist.}}
+{{led|nr=12|namn=Ångande åderpåle|grad=7+|betyg=|längd=17|fa=[[Mats Olofson]], [[Claes Thornberg]] [[1994|-94]]|bultar=3|typ=mix}}
+
+{{led|nr=13|namn=Pipeline|grad=7+/8-|betyg=|längd=15|fa=[[Henrik Bolander]] [[1995|-95]]|bultar=|typ=trad}}
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Sport]]
+[[Kategori:Mix]]
+[[Kategori:Trad]]
+[[Kategori:Stockholm]]
+[[Kategori:Lidingö]]

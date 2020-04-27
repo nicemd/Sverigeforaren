@@ -1,0 +1,33 @@
+{{info klippa
+  |lat=58.309
+  |long=16.113
+}}
+
+{{stub|extern=ja}}
+
+==Allmänt==
+Överhängande klippa med hård sportklättring.
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap lat="58.309" lon="16.113" zoom="9" type="map">
+58.309,16.113,Solvik
+</googlemap>
+</div>
+{{clear}}
+
+==Access {{access}}==
+
+{{AccessDB|klippa=solvik}}
+
+{{clear}}
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]]
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

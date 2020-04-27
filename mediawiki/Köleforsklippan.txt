@@ -1,0 +1,55 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub|extern=ja}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Skriv vägbeskrivning här.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}
+==Nätförare==
+Nätförare finns på Linköpings klätterklubbs hemsida http://linkopingsklatterklubb.se/index.php/forare.html 
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Östergötland]]

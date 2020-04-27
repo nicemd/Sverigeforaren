@@ -1,0 +1,243 @@
+{{info klippa
+  |lat=59.29739
+  |long=18.14631
+}}
+
+{{komplett}}
+
+==Allmänt==
+Lättillgänglig sportklippa som är perfekt en kväll efter jobbet. Ca 10-15 meter hög och svagt överhängande. Många fina leder i 7a-registret.
+
+==Nya bultar!==
+I en gemensam ansträngning mellan Stockholms KK, Solna KK och Blocstar ombultades flera av de klassiska turerna på stora  väggen i Oktober 2007. Nya ankare och bultar där det behövdes. Gamla potentiella markfall är nu åtgärdade. Samtliga expanderbultar är i syrafast stål. Mer info finns på individuella lederna. Läs mer på [http://www.bloxc.com/forum/viewtopic.php?t=1568 denna tråd på bloxc]
+
+Under våren 2008 har även Stockholms Bultkommitté putsat på klippan. Läs mer på [http://bultkommitten.blogspot.com/2008/05/sammanfattning-nacka-kvarn.html Bultkommitténs blogg].
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.29739" lon="18.14631" zoom="14" type="map" controls="small">
+59.29739,18.14631,[[Nacka Kvarn]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Nacka Kvarn
+lat=18146310
+long=59297390
+</slresa>
+</div> 
+
+Från Sickla centrum sväng höger mot Älta i rondellen. Följ vägen rakt fram. Klippan ligger på vänster sida efter en skarp högerkruva (ca 100 meter efter Ältavägen 95 / busshållplatsen Nacka Kvarn), på andra sidan ån. Parkera vid den utmärkta P-platsen längst upp i backen innan bilbron, ej vid busshållplatsen som är en vändzon. Gå tillbaka till ladan där det finns en liten gångbro över ån och följ stigen åt höger bort till klippan.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+===Huvudväggen===
+[[Bild:nackakvarn1.gif]]
+
+[[Image:Nacka_kvarn_blind_ne.jpg|thumb|right|200px|Niclas Emdelius på Blind, 7c]]
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1|namn=Blind|grad=7c|fa=[[Johan Luhr]]|typ=sport|text=Intensiv led längst till vänster. Startar på marken, inte på det (läskiga) blocket. Nytt ankare -08}}
+
+{{led|nr=2|namn=Hundra år av ensamhet|grad=6c+|fa=NB, DB, UE|typ=sport|betyg=1|bultar=5|text=Var tidigare en mixtur. Startar i och följer det grunda diedret. Toppankare ditsatt -08}}
+
+{{led|nr=3|namn=Lutande tornet|grad=7a|fa=NB, DB, UE|typ=sport}}
+
+{{led|nr=4|namn=Totalvägra|grad=7a|fa=JO, DB|typ=sport|betyg=2|text=Smått klassisk led med hög pumpfaktor och många Stockholmsklättrares första 7a.}}
+
+{{led|nr=?|namn=Odpöt|grad=7b/7b+|fa=[[Alexander Rydén]]|typ=sport|text=Start i Freky Deaky 2 första bultar, sen följ rampen som tydligt är inritad i föraren. korsaa total vägra, lutande tornet och avsluta med slutet av blind. Var berädd på låååånga pendel fall i slutet!!!}}
+
+{{led|nr=5|namn=Freaky deaky|grad=7a+|fa=DB|typ=sport|betyg=1|text=Ihållande}}
+
+{{led|nr=6|namn=Freaky deaky direkt|grad=7b(hela)|fa=[[Johan Luhr]]|typ=sport|betyg=2|text=Direktinsteg till Freaky deaky. Ännu mer ihållande.}}
+
+| width="300px" |
+
+{{led|nr=7|namn=Ignition|grad=7a|fa=DB, UE, [[Johan Luhr]]|typ=sport|betyg=2}}
+
+{{led|nr=8|namn=Nacka kvarn|grad=6c|fa=BK, HH|typ=sport}}
+
+{{led|nr=9|namn=Brown sugar|grad=6b+|fa=KD|typ=sport|betyg=1|text=Omväxlande och ihållande klättring på lister, sideclings och juggar. Fin.}}
+
+{{led|nr=10|namn=Sjätte juni|grad=5c|fa=KD, TL|typ=trad|betyg=1|text=Diedern}}
+
+{{led|nr=11|namn=Partaj|grad=7a|fa=[[Johan Luhr]], DB|typ=sport}}
+
+{{led|nr=12|namn=Annika|grad=6c+|fa=JM|typ=sport}}
+
+{{led|nr=12b|namn=Varmgarage|grad=6c|fa=MF|typ=sport|text=Börja i undertag, utan areten}}
+
+| width="300px" |
+
+{{led|nr=13|namn=Auktion direkt|grad=7a|fa=TH|typ=sport}}
+
+{{led|nr=14|namn=Testpatrullen|grad=6b+|fa=Per Willén, Thomas Eriksson|typ=sport|ny=1|text=Areten th om ''Auktion direkt''}}
+
+{{led|nr=15|ny=1|namn=Jag ber om ursäkt och tar tillbaka min FA|grad=3|fa=Ingen förstebestigare|typ=sport|text=Undertitel: Var lämnar jag in blanketten? Slaben th om ''Testpatrullen''}}
+|}
+{{sidbrytning}}
+
+===Blocket===
+[[Bild:nackakvarn2.gif]]
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=0|namn=Stor tjock dam|grad=6c+?|fa=MS,|typ=sport|text=Mycket klättring trots sin ringa längd}}
+
+{{led|nr=1|namn=Sidewalk|grad=5a|fa=KD, TL|typ=trad}}
+
+{{led|nr=2|namn=Algerna kommer|grad=7a+|fa=[[Johan Luhr]]|typ=sport}}
+
+{{led|nr=3|namn=Ny Led 1|grad=7a|fa=Okänd|typ=sport|text=Ny led. Osäker på grad}}
+
+{{led|nr=4|namn=Flap|grad=6c|fa=MR|typ=sport}}
+
+{{led|nr=5|namn=Flip-flop|grad=6c+|fa=PW|typ=sport|text=Startar med Flap och hanglar längs läppen hela vägen till den nya 7a+ där man klättrar upp till ankaret.}}
+
+| width="300px" |
+
+{{led|nr=6|namn=Flip|grad=7a+|fa=TH|typ=sport}}
+
+{{led|nr=7|namn=Flop|grad=7c|fa=TH|typ=sport}}
+
+{{led|nr=8|namn=Ganska kul|grad=7a+|fa=[[Johan Luhr]]|typ=sport}}
+
+{{led|nr=9|namn=Typ|grad=5c|fa=Okänd|typ=sport|text=Ny led. Osäker på grad}}
+|}
+Saxat från [http://www.utsidan.se/vb_forum/showthread.php?threadid=40950 Utsidan] 2006-12-04:
+
+"Det går flera nya turer på blocket. Den till höger om Algerna kommer vet jag inte vad den heter men jag klättrade den för ett par år sedan. Kändes som typ 7a. På hörnet till höger går det en ny, ganska kul 7a+ och bakom detta hörn en 5c typ. Sedan går det en 6c+ som börjar med Flap och hanglar längs läppen hela vägen till den nya 7a+ där man klättrar upp till ankaret."
+
+{{sidbrytning}}
+
+===Högra delen===
+[[Bild:nackakvarn3.gif]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=100% dementi|grad=7+|fa=BK|typ=sport|text=Går till vänster bakom blocket}}
+
+{{led|namn=Projekt|grad=?|fa=JM|typ=sport|text=Går till vänster bakom blocket}}
+
+{{led|nr=1|namn=Miraculix|grad=6a+|fa=MM, [[Johan Luhr]]|typ=sport}}
+
+{{led|nr=2|namn=Majfair lady|grad=7a+|fa=MM|typ=sport|text=Ursprungligen gjord utan rep}}
+
+{{led|nr=3|namn=So fucking what (original)|grad=8a|fa=TH|typ=sport|betyg=1|text=Direkt genom taket}}
+
+{{led|nr=3b|namn=So fucking what|grad=7c+?|fa=[[Johan Luhr]]?|typ=sport|betyg=1|text=Rundar taket till vänster via Majfair lady}}
+
+| width="300px" |
+
+{{led|namn=plus100|grad=8a+|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Start i SFW, slut i Asterix}}
+
+{{led|nr=5|namn=Asterix|grad=7c|fa=[[Johan Luhr]]|typ=sport|betyg=1}}
+
+{{led|nr=6|namn=Idefix|grad=7c+|fa=[[Johan Luhr]]|typ=sport|betyg=1}}
+
+{{led|nr=7|namn=Okänd|grad=ca 7c|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Högerinsteg till Idefix.}}
+
+{{led|nr=8|namn=Obelix|grad=7a|fa=[[Johan Luhr]]|typ=sport}}
+
+{{led|nr=9|namn=Ny|grad=6c+|fa=[[Johan Luhr]]|typ=sport}}
+|}
+{{sidbrytning}}
+
+===Ännu längre till höger===
+[[Bild:nackakvarn4.gif]]
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1|namn=Hoppla|grad=7a|fa=PA, [[Johan Luhr]]|typ=sport}}
+
+{{led|nr=2|namn=Slå på turbon|grad=7c+/8a|typ=sport|fa=[[Johan Luhr]]|text=Bultad av [[Johan Boman]]}}
+
+{{led|nr=3|namn=Den röda volvon|grad=8a|typ=sport|fa=[[Johan Luhr]]|text=Vass och fingrig. Bultad av [[Jimmy Paladino]]}}
+
+{{led|namn=?|grad=7c+/8a|fa=Johan Luhr|typ=sport|text=Ny led mellan 3 och 4. Sikat och chippat}}
+
+{{led|nr=4|namn=Stålmormor|grad=7b|fa=[[Johan Luhr]]|typ=sport|betyg=2}}
+
+| width="300px" |
+
+{{led|nr=5|namn=Tina|grad=7a|fa=[[Johan Luhr]]|typ=sport}}
+
+{{led|nr=6|namn=Blodigeln|grad=7b|fa=[[Johan Luhr]]|typ=sport}}
+
+{{led|namn=?|grad=?|fa=?|typ=sport|text=Ny led/projekt mellan 6 och 7. Två mycket fult fastsikade grepp}}
+
+{{led|nr=7|namn=Släpp|grad=7b|fa=[[Johan Luhr]]|typ=sport|betyg=1}}
+|}
+
+Denna del av klippan verkar ha blivit någon sikatokig persons lekstuga under juni -07
+
+== Nacka Kvarn boulder ==
+
+Nacka Kvarn bjuder inte bara upp på stadsnära repklättring i god kvalitet, innan man når klätterväggen finns även ett antal krimpiga boulderproblem, flertalet av dem finner man på en svagt överhängande vägg. Boulderproblemen är indelade i två områdesindelningar ”Grottan” och ”Väggen”. 
+
+[[Bild:Översiktsbild_Nackakvarn_2.jpg]]
+
+=== ''Grottan'' ===
+
+{|
+|- valign="top"
+| width="300px" |
+{{problem|nr=1|namn=Flinka Fingrar|grad=5C|text=Krimpigt problem, rakt upp.}}
+{{problem|nr=2|namn=Långa Ben|grad=L|text=Rakt upp, inget snack!}}
+[[Bild:NKPygmé.jpg]]
+{{problem|nr=3|namn=Pygmékonflikten|grad=6C+|sittstart=ja|text=(Svart) Knölig klättring.}}
+{{problem|nr=4|namn=Brain Trainer|grad=6A+|sittstart=ja|text=VH på stenens vänstra kant & HH i krimp, klättra rakt upp via listerna för HH.}}
+[[Bild:NKGrottan.jpg]]
+{{problem|nr=5|namn=El Grotto|grad=6B|sittstart=ja|text=(Gul) Starta med HH i krimp, fötterna på skravel under blocket.}}
+{{problem|nr=6|namn=En Hemlös Jävel|grad=6B+|sittstart=ja|text=(Röd) 3D-klättring, starta med match på crimp under kanten, skicka till jugg, toehook, sträck dig till blockets framsida, tag kant med VH, heelhook på jugg och avsluta stående på stenen till höger.}}
+{{problem|nr=7|namn=Rookie|grad=L|text=Rakt upp.}} 
+{{problem|nr=8|namn=Handledsknäckaren|grad=6A+|text=VH på nedre delen av kant, HH på krimp, toehooka och klättra rakt upp.}}
+
+=== ''Väggen'' ===
+
+[[Bild:VäggenNackaKvarn.jpg]]
+
+|- valign="top"
+| width="300px" |
+{{problem|nr=1|namn=Xulo Panderas|grad=?|text=}}
+{{problem|nr=2|namn=?|grad=?|text=}}
+{{problem|nr=3|namn=West Side Connection|grad=7C|text=Går till höger, avslutas i jugg luftigt ovan marken.}}
+{{problem|nr=4|namn=Barrabas|grad=?|text=Sprickan rakt upp.}}
+[[Bild:NKUF.jpg]]
+{{problem|nr=4b|namn=Wild Style|grad=8 | text= Mellan Barrabas och Ultimate Fighting.}}
+{{problem|nr=5|namn=Ultimate Fighting|grad=8 | text=(Röd) Klättra som ett Z med start i tvärgående spricka.}}
+{{problem|nr=6|namn=Lapsilainen|grad=7C+|sittstart=ja|text=(Gul) Klättra upp till ståstarten ('''(Svart) Ståstart, Match på sidogrepp, 7C''') HH upp till dålig crimp, toehook med HF, tag sidogrepp till V om crimp med VH, slutar i "Äcklets" slutjugg.}}
+{{problem|nr=7|namn=Äcklet|grad=6C|sittstart=ja|text=(Vit) Klättra rakt upp i goda grepp.}}
+{{problem|nr=8|namn=?|grad=6B|text=Klättra längs sprickan, till höger om "Äcklet".}}
+
+[[Bild:NK_Mossebacke2.jpg]]
+
+{{problem|nr=9a|namn=Rough and Ready|grad=7A|sittstart=ja|text=(Blå) Starta i sprickorna, dra lätt till höger, vänstra kanten ingår, sluta med att klättra till höger på den slopiga kanten till slutjugg för "Skippy.}}
+{{problem|nr=9b|namn=Skippy|grad=?|sittstart=ja|text=(Röd) Variant, dyno från spricka med VH och crimp med HH, till "Skippys" slutjugg.}}
+{{problem|nr=10a|namn=Get It Shorty|grad=7B|sittstart=ja|text=(Svart) Starta på crimp rakt upp, avsluta med att klättra till vänster längs den slopiga kanten, avsluta i slutjugg för "Skippy".}}
+{{problem|nr=10b|namn=Fedora|grad=6B+|text=(Vit) Variant, ståstart av "Get It Shorty".}}
+{{problem|nr=11|namn=Mossebacke|grad=7A+|sittstart=ja|text=(Gul) Crimp, slopers till vänster längs kanten, avsluta i "Skippys" slutjugg.}}
+
+[[Bild:NKHB.jpg]]
+
+{{problem|nr=12|namn=Högbulle|grad=6A|text=(Röd) Vänstra problemet, följ kanten upp.}} 
+{{problem|nr=13|namn=Zeke|grad=L|text=(Gul)Startar till höger och klättra in till vänster i "Högbulle", dra sedan till höger i 
+skravlet.}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Bouldering]]

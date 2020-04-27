@@ -1,0 +1,123 @@
+{{info klippa
+  |lat=59.20902
+  |long=17.73593
+}}
+
+{{komplett}}
+[[Bild:Hallstaberget_dubbeltaket.jpg|thumb|right|400px|Okända klättrare förbereder sig för att klättra Dubbeltaket, 5-. Till vänster i bild förstår man varför Knäjammet heter som den heter. Foto: [[Användare:Peblin|Per Lindh]]]]
+
+==Allmänt==
+Hallstaberget är en liten brant klippa som ligger ca 2 km norr om Rönninge station, strax söder om motorvägen. En lättillgänglig klippa för lite eftermiddagsklättring. Ca 15 m hög, och på sina ställen brant och dramatisk.  Leder i registret från 3 till 9, med tyngdpunkten omkring 6. Under 2008 har berget fått en renässans efter en översyn av Bultkommittén m fl och det finns nu toppankare på flera av bergets "klassiker". Även några nyturer har gjorts.
+
+==Beskrivning==
+Klippan består av relativt mossfria ytor med sprickor och blockkonstellationer, och ytorna ger ett "ungt" intryck. Berget är utmärkt på kartan som fornborg, rösen finns uppe på "mitten" av berget.
+
+Trevliga leder är Catwalk 6, Dubbeltaket 5 men både hårdare och lättare leder finns. Lederna är upp till ca 15 m. Hälften av lederna går det bra att arrangera toppankare på, för den som har gott om slingor och karbiner. Totalt finns ca 25 leder.
+
+Viss varning för ett stort (löst?) block på ''Diretisseman 4+''.
+Kan besiktas från ''Den enda riktiga leden 3''. Dessa två leder är diedrar ganska mitt på klippan. 2008-06-15 lossnade ett större block ur diedern på El Solo. 2008-08-16 lossnade ett mindre block på kruxet på Catwalk. Tyvärr är ju berget lite löst, och det är ofta ganska stora block som det handlar om.
+
+Klippan kallas även såväl [[Korpberget (Vårby)|Korpberget]] som [[Kulberget]], men Hallstaberget är vanligast förekommande, och minst förväxlingsbart i klättersammanhang.
+
+==Vägbeskrivning==
+<div style="width: 505; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.209732" lon="17.749786" zoom="14" width=500 height=300 type="map" controls="small">
+59.20902,17.73593,[[Hallstaberget]]
+</googlemap>
+</div>
+
+<div class="noprint" style="float: right; margin-left: 10px;">
+<slresa>
+titel=Hallstaberget
+lat=17735930
+long=59209020
+</slresa>
+</div> 
+
+Sväng av E4 vid avfart för Salem (avfart nr 145), åk till höger om du kommer söderifrån, och tag vänster från själva avfarten om du kommer norrifrån. Åk i riktning mot Salem och Rönninge, passera avtagsväg mot Salem.
+Direkt efter avtagsvägen mot Salem finns en liten avtagsväg, Hallstavägen, (grus) till höger istället. Kör in på denna som slingrar sig över lite åkrar, mer eller mindre parallellt med E4/E20. Passera en tunnel (passera, åk inte igenom den) under E4, på det att vägen svänger vänster.
+Klippan syns strax på vänster sida om vägen. Visst utrymme för parkering finns på vägkanter, i synnerhet en bit bort i riktning mot skytteklubbens område. 
+Klippan skymtas f ö även från E4/E20. 
+
+<div style="clear:both;"></div>
+
+==Access {{access}}==
+'''OBS!!!''' Det finns en skylt som aviserar att endast behöriga fordon får trafikera grusvägen. Den ordningssamme parkerar vid denna skylt och följer resten av vägbeskrivningen till fots. Behörig trafik är möjligen trafik till skjutbanan strax förbi berget, men troligen inte klättertransporter...
+{{sidbrytning}}
+
+==Leder==
+
+[[bild:Hallstaberget.png]]
+
+Klippväggen består av en sektion parallellt med grusvägen, i klippans vänsterkant och relativt nära vägen.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=1|namn=Cheesewalk|grad=4|typ=trad|längd=6|fa=[[Thomas Hansson|Thomas]] & [[Gary Hansson]]|text=Längst rampen till vänster}}
+
+{{led|nr=2|bultar=4|namn=Fornskölden|grad=8/8-|fa=[[Anders Lundahl]], [[Eva Selin]] [[1991|-91]]|typ=sport|längd=15|text=Börjar på rampen men viker av på den släta väggen något till höger. Fyra borrbultar.}}
+
+{{led|nr=2a|namn=Fornskölden Direkt|grad=8|fa=[[Johan Luhr]], [[Christer Molund]] [[1991|-91]]|typ=sport|text=Gör Fornskölden med start på platta marken och du har tickat denna.}}
+{{litentext|text=Bultar finns på svaet ovanför led 3,4 och 5 som gör att tropprep kan riggas. Det sitter en bult med ring ovanför varje led. Länka ihop två bultar med ett par långa slingor och du har ett bra toppankare, som lätt nås ovanifrån.}}
+
+{{led|nr=3|namn=Ratwalk|grad=6-|längd=15|fa=[[Thomas Hansson|Thomas]] & [[Gary Hansson]] [[1984|-84]]|typ=trad|text=En tydligt lite grov dieder som första tydliga linje från vänster. Denna har tydligen haft ett bättre grepp i början där man ska etablera sig i diedern, men sedan detta försvunnit är leden lite svårare. Står som 5 i gamla stockholmsföraren. }}
+
+{{led|nr=4|namn=Catwalk|grad=6|längd=15|betyg=3|fa=[[Anders Lundahl]], [[Eva Selin]] [[1979|-79]]|typ=trad|text=I princip samma insteg som Ratwalk, fortsätter dock upp mer till höger. Man följer en fin och tydlig spricka, flakkant, till en grund dieder. Fortsätt i den lite uppspruckna grunda diedern. Gott om platser att placera kammar och kilar på, men mer tveksamt om placeringarna håller. Lite lös karaktär.}}
+
+{{led|nr=5|namn=SM i slungboll|grad=6|betyg=|längd=15|fa=[[Gary Hansson]], [[Thomas Hansson]][[1988|-88]]|bultar=|typ=trad|text=Delar insteg med Twilight Zone och El Solo. Insteget är ca 3m till höger om Catwalk. Leden följer det uppspruckna diedret precis till höger om Catwalk. }}
+
+{{led|nr=6|namn=Twilight zone|grad=6-|betyg=|längd=15|betyg=1|fa=[[Gary Hansson]], [[Thomas Hansson]][[1984|-84]]|bultar=|typ=trad|text=Diedern mellan SM i Slungboll och El Solo. Scrambla inte upp i rännan efter diedret, leden fortsätter över det kanelbullefyllda överhänget. Tung men greppvänlig och tekniskt rolig. Ankare med en(1) bult, komplettera med statiskt rep eller hexa+slingor. Ankaret funkar för El Solo också.}}
+
+{{led|nr=7|namn=El Solo|grad=5-|betyg=|längd=15|fa=[[Lars Svadangs]], [[Ulf Lagercrantz]][[1979|-79]]|bultar=|typ=trad|text=Tydlig diederformation som går snett uppåt åt höger mot lilla tallen. 20080615 lossnade ett större block ur diedern. Gemensamt enbultsankare med Twilight Zone.}}
+
+| width="250px" |
+
+{{led|nr=8|namn=Suburbia|grad=7-|betyg=|längd=15|fa=[[Fredrik Rundkuist]], [[Monica Falk]][[1993|-93]]|bultar=|typ=mix|text=Borrbultad förutom det lätta slutet. Stenen till höger, mellan Suburbia och Knäjammet, ingår troligen inte? Starka nypor underlättar starten. Ankare}}
+
+{{led|nr=9|namn=Knäjammet|grad=5|betyg=|längd=15|fa=[[Jan Nystrom]], [[Lars Cronlund]]|bultar=|typ=trad|text=Tydlig spricka, perfekt för att jamma in både det ena och andra. Gemensamt ankare med Suburbia}}
+
+{{led|nr=10|namn=Piskad senap|grad=6|betyg=|längd=12|fa=[[Gary Hansson]], [[Thomas Hansson]][[1985|-85]]|bultar=|typ=trad|text=}}
+
+{{led|nr=11|namn=Dynga|grad=4-|betyg=|längd=10|fa=[[Gary Hansson]], [[Thomas Hansson]][[198?|-8?]]|bultar=|typ=trad|text=}}
+
+{{led|nr=12|namn=Dubbeltaket|grad=5|längd=10|fa=[[Birger Hedlund]] [[1980|-80]]|typ=trad|text=Lednamnet säger en del och det är en ganska gymnastisk led. Långa armar kan vara till glädje, möjligen även korta ben... Leden är dock kort, och det går också bra att toppa från en tall och lite backupsprickor. Håll gärna koll på det flak som sticker ut från det undre takets vänsterkant. Flaket är inte helt fast, och har möjligen rört sig lite på senare år.}}
+
+{{led|nr=13|namn=Gon|ny=1|grad=7a|längd=10|fa=[[Per Willén]], [[Thomas Eriksson]] [[2009|-09]]|typ=sport|text=Betydligt hårdare och finare än en första anblick låter påskina.}}
+
+{{led|nr=14|namn=Crap|grad=4|längd=8|fa=[[Thomas Hansson|Thomas]]& [[Gary Hansson]] -8?|text= Leden på vägen t v om diedern. I diedern går en upp- och nedstigningsled med ankare i en tall.}}
+
+{{led|nr=15|namn=Kapillärjammet|grad=5-|längd=6|text=Följ den tunna sprickan till hyllan med avsteg till vänster och gemensamt ankare med Crap. Går att förlänga genom att följa sprickan rakt upp och sedan scrambla ner "bakvägen" till ankaret.Numera sitter det ett ankare på toppen av klippan som kan användas av lederna 14-16, med en lång slinga kan dessa leder topprepas i ankaret.}}
+
+{{led|nr=16|namn=Mjölksyra|grad=5-|längd=6|text=Tydlig jamspricka med avsteg till vänster under det överhängande partiet på slutet.}}
+
+{{led|nr=17|namn=Den enda riktiga leden|grad=4-|längd=12|typ=trad|text=Startar inne i hörnet, sedan en bit ut till vänster och sen fortsätter upp mellan block, och på vänsterkanten om de block som "hänger" i diedern. Egna, stora säkringar rekommenderas.}}
+
+| width="250px" |
+
+{{led|nr=18|namn=Blockparty|ny=1|grad=6b+|längd=12|fa=[[Per Willén]], [[Thomas Eriksson]] [[2008|-08]]|typ=mix|text=Klättra upp för areterna på de två blocken. Två borrbultar och en del eget.}}
+
+{{led|nr=19|namn=Diretissiman|grad=4+|längd=12|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[1979|-79]]|typ=trad|text=Går till höger om ovan nämnda block. Ett block (typ kyl/frys) hänger på ett sätt som inte känns förtroendeingivande. Detta kan knappast passeras utan beröring längs ''Diretisseman''. Det naturliga är snarare att man hänger rätt hårt i det.}}
+
+{{led|nr=20|namn=Wolfenstein|grad=?|längd=|fa=[[Thomas Hansson]] [[-92]]}}
+{{led|nr=21|namn=Donnez-moi un jeuteur de flamme|grad=7|längd=10|fa=[[Gary Hansson|Gary]]& [[Thomas Hansson]] [[-87]]}}
+
+{{led|nr=22|namn=Mögelmörkret|grad=6+|längd=15|fa=[[Thomas Hansson|Thomas]] & [[Gary Hansson]] -87|text=Följer den skarpa arêten precis t.v. om det stora tydliga överhänget. När arêten viker av till höger så fortsätt rakt upp till det lilla överhänget och runda detta t.h. Rolig och väldigt speciell klättring, rekommenderas. I dagsläget så är det toppning som gäller från ett träd ett par meter in från kanten då det är väldigt bristande säkringsmöjligheter i övrigt.}}
+
+{{led|nr=22a|namn=Blond Ambition|grad=8-|längd=15|fa=[[Fredrik Rundkvist]] -93|typ=sport|text=Spektakulär klättring på den överhängande arêten till höger om Mögelmörkret. Starta under taket, sen ut på på arêten och följ den hela vägen till toppen. Gymnastiskt!}}
+
+{{led|nr=23|namn=Paralysi|grad=8-|längd=15|fa=[[Anders Lundahl]] [[-91]]}}
+{{led|nr=24|namn=Adolf armstarke|grad=8/8+|längd=15|fa=[[Johan Luhr]], [[Christer Molund]] [[-91]]}}
+{{led|nr=25|namn=Blöta steg i mörkret|grad=3|längd=15}}
+{{led|nr=26|namn=Elfenbenstornet|grad=4|längd=13|typ=trad}}
+
+{{led|nr=27|namn=Häxan Surtant|ny=1|grad=6b+|längd=15|betyg=1|fa=[[Michael Collins]], [[Patrik Melander]] -2008-08|typ=sport|text=Häxan Surtant är världens suraste och elakaste häxa. Starta på den lilla arêten under Elfenbenstornet. Följ kanten åt höger och vik av upp på den stora arêten via överhänget. Topprep funkar med en quickdraw i en av bultarna ovan överhänget för att hamna rätt och slippa vänsterswing, men kan ge trädkontakt vid fall. Övre delen ombultad 2009-08-05 för att hålla repet borta från vassa kanter vid fall. 7 bultar + ankare.}}
+
+{{led|nr=28|namn=Bileden|ny=1|grad=3|längd=8|betyg=1|fa=[[Erik Sandelin]], [[Lukas Sandelin]] 2013-07|typ=trad|text=Startar från den stora hyllan där bl.a. led 14 och nedstigningsleden toppar ut. Följer ett tydligt hörn längst in på hyllan. Dåligt säkrad men fin topprepsled för nybörjare på fast och fin klippa. Ankare görs i tallen vid toppen av leden. }}
+
+|}
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Kvällsol]] [[Kategori:Anmarsch 0-5 min]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]

@@ -1,0 +1,62 @@
+{{info boulderområde
+|lat=63.686161
+|long=20.291061
+}}
+=Allmänt=
+Obbola är en liten klippa med en samling högklassiska problem. Populär på vårkanten när skidföret ut till Skravel är dåligt och vägen dit inte plogats än. Att stenen är vattenpolerad gör klättringen annorlunda.
+
+=Vägbeskrivning=
+<div style="float:right">
+<googlemap version="0.9" lat="63.686161" lon="20.291061" type="map" zoom="11" width="300" height="300">
+63.688977, 20.259991, Obbola
+</googlemap>
+</div>
+Enklast är att kolla på kartan och lista ut vägen själv.
+
+Ett tips! När du tror att du kör in på någons tomt är du på rätt spår! Fortsätt förbi huset ett par hundra meter så kommer du till klippan.
+{{clear}}
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Förtvivlans krön|grad=6C|typ=Highball, Dyno|fa=Jonas Wiklund|landning=5||betyg=2||fadatum=2010-10-12|sopad=Jonas Wiklund|startgrepp=nej|text=Till vänster om den hängande aretên. Klättra upp till tydlig tvärspricka och dra till den sluttande kanten. Häpp!}}
+
+{{problem|namn=Tjockholmen|grad=7B+|typ=Slopers,Dyno,Spricka|fa=Per Lindmark|landning=3||betyg=1||fadatum=2007-07-29|sopad=Pär Lindholm, Danne Widell|variant=ja|startgrepp=ja|text=Låg start till Svanka Älskling, starta i den givna sprickan ("koppen") och gå rakt upp.}}
+{{problem|namn=The Collyman|grad=6A|typ=Krimp,Slopers,Spricka|fa=Pär Lindholm|landning=3|betyg=1|fadatum=2004-04-22|sopad=Pär Lindholm/Daniel Widell|uteslutningar=ja|text=Starta med hopp till svanken, gå sen upp med hjälp av sprickorna. Kanten till höger (som används på Svanka Älskling) är utesluten.}}
+{{problem|namn=Stockholm - Norrland 8-2|grad=7A|typ=Krimp,Layback|fa=? (kan vi inte slopa den här jävla rutan)|landning=4|betyg=1|fadatum=2006-05-28|sopad=? (kan vi inte slopa den här jävla rutan)|uteslutningar=ja|text=Väggen 10 meter till vänster om Scarface. Slutar (än så länge) när du matchat till höger på listen.}}
+{{problem|namn=Mr Fruktkaka|grad=6A|typ=Slopers,Mantling,Slab|fa=Pär Lindholm|landning=4|betyg=1|fadatum=2006-05-30|sopad=Pär Lindholm|uteslutningar=ja|text=Fontan-galore. Starta med en mantling vid aréten, fortsätt sedan balansera upp UTAN att sätta fötterna ute på aréten.}}
+{{problem|nr=1|namn=Oljespill|grad=4C|typ=Jug,Spricka|fa=Pär Lindholm|landning=2|fadatum=2003-04-15|sopad=Pär Lindholm|text=Gå upp just till höger om den spilda oljan}}
+{{problem|nr=2|namn=Kommunens starke man|grad=5A|typ=Överhäng,Spricka|fa=Daniel Widell|landning=3|betyg=2|fadatum=2003-03-27|sopad=Daniel Widell, Pär Lindholm|startgrepp=ja|text=Start längst in i hörnet, båda händerna på hyllan (STARTGREPP!). Dra upp till vänster, gå sedan upp lite åt höger. Se bild! Kanske det finaste överhängande problemet i dom lättare graderna runt Umeå?}}
+{{problem|nr=3|namn=Svanka älskling|grad=6A+|typ=Slopers|fa=Pär Lindholm|landning=3|betyg=1|fadatum=2003-03-27|sopad=Pär Lindholm, Daniel Widell|text=Gå rakt upp över "svanket". Fin fontan-känsla! Efter "svanket" är det helt OK att använda kanten till höger, kliv dock inte ut åt sidan på toppen.}}
+| width="250px" |
+{{problem|nr=4|namn=Den Skarpa Eggen|grad=7B|typ=Krimp,Dyno,Aréte|fa=DK & JW|landning=4|betyg=3|fadatum=2004-04-14|sopad=PL, DW, DK, JW|text=Inga uteslutningar men den går på högra sidan om arêtet. Efter du tagit dig till toppen är det mindre noga, mantla upp där det är lättast. Mycket känsligt halvlångt skick till toppen från ett bra arêtegrepp och en pissig krimp. ETABLERAD start.}}
+{{problem|nr=6|namn=Scarface|grad=6C+|typ=Krimp,Slab,Reach|fa=Henke|landning=3|betyg=1|fadatum=2004-04-21|sopad=PL, DW, HJ, DK, JW, UD|text=Bara att klättra rakt upp. Känslig på slutet!}}
+{{problem|nr=7|namn=Augenblick|grad=6A|typ=Krimp,Reach|fa=DK|landning=4|betyg=1|fadatum=2004-04-21|sopad=DK|text=Inte så komplicerat, klättra rakt upp. Man får givetvis inte starta från stenen till höger, men det behöver inte sägas. Svår att sätta en bra grad på, svårare för korta?, lättare för långa?}}
+{{problem|nr=8|namn=Dr Mengele|grad=6A|typ=Krimp|fa=Urban Dufva|landning=4|fadatum=2003-05-05|sopad=Pär Lindholm, Daniel Widell|text=Följ rampen upp. Klurigare än det ser ut.}}
+{{problem|nr=9|namn=Mr Hallontårta|grad=6B|typ=Krimp,Slopers,Mantling|fa=Pär Lindholm|landning=2|betyg=3|fadatum=2003-04-28|sopad=Pär Lindholm, Daniel Widell|text=Upp över högsta delen. Start i undercling med högerhanden. Mycket klättring.}}
+{{problem|nr=9|namn=Mr Hallontårta - easy escape|grad=5C|typ=Krimp,Slopers,Mantling|fa=Pär Lindholm|landning=4|fadatum=2003-05-20|sopad=Pär Lindholm, Daniel Widell|variant=ja|text=Start i undercling och upp enklast möjliga väg (snett åt vänster)}}
+{{problem|nr=9|namn=Mr Hallontårta (ss)|sittstart=ja|grad=7A|typ=Slopers,Mantling|fa=Magnus eller Jonas?|landning=5|betyg=3|fadatum=2003-05-12|sopad=Pär Lindholm, Daniel Widell|sittstart=ja|variant=ja|text=Starta sittande på stora stenen. Stenblocket till höger är uteslutet.}}
+{{problem|nr=10|namn=Saknad i Strid|grad=7B|typ=Slopers,Mantling|fa=DK|landning=4|betyg=2|fadatum=2004-04-15|sopad=PL, DW, JW, DK|uteslutningar=ja|text=Går separat från Hallontårtan. Hoppstart till slopekanten (stenarna under är med, dock EJ den stora på hö sida) Dra en tänkt linje rakt upp från hallongreppet i taket -allt till vä om denna är uteslutet. Inte ett enda gemensamt grepp med Hallon}}
+| width="250px" |
+{{problem|nr=10|namn=Saknad i strid (ss)|grad=7B+|sittstart=ja|typ=Slopers,Mantling,Heel hook|fa=J. Rocklöv, mfl.|landning=3|betyg=0|fadatum=2006-04-27|sopad=J. Rocklöv, mfl.|sittstart=ja|variant=ja|startgrepp=ja|text=Sittstarta på stora greppet (samma som MR Hallontårta) och gå vidare via undercling/pinch. Därefter precis som Saknad i strid. Stenarna under är uteslutna. Efter undercling har den ej några grepp gemensamt med MR Hallontårta.}}
+{{problem|nr=11|namn=Aftonvalsen|grad=5B|typ=Slopers,Reach,Jug|fa=Conny Dahlin|landning=3|fadatum=2004-04-15|sopad=CD, EK, JW, DK|text=Går till höger om Hallonväggen på en separat liten vägg. Starta i givet slope och så bara rakt upp. Inga konstigheter.}}
+{{problem|nr=12|namn=Olust|grad=7A|typ=Slopers,Mantling,Reach|fa=DK & JW|landning=5|betyg=2|fadatum=2004-04-16|sopad=JW & DK|startgrepp=ja|text=Startar i den givna sprickan med fötterna på steget som gud tänkt att man ska starta på. Helt given start. Sen ut och upp över bullen på enklast tänkbara vis. Fall inte okontrollerat!}}
+{{problem|nr=13|namn=Boogie-Woogie|grad=6B+|typ=Slopers,Travers H->V,Reach|fa=Jonas & Urban|landning=2|fadatum=2004-04-21|sopad=JW, UD, CD, EK, DK|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Startar längst till höger på Aftonvalsväggen. Starta sittande i 2 "pockets". Stenarna under är uteslutna (även dom som används på Aftonvalsen). Traversera VÄ och gör slutet på Aftonvalsen.}}
+{{problem|nr=14|namn=Avigsidan|grad=6A|typ=|fa=Jonas Wiklund|landning=2|betyg=1|fadatum=2004-05-02|sopad=Jonas Wiklund|startgrepp=ja|text=Går på stenen 20 meter upp i skogen. Startar med båda händerna i tvärsprickan och gå rakt upp över kanten. Den orensade kanten till höger är inte med.}}
+|}
+
+=Leder=
+
+{{led|namn=Västerfjärdsdiedret|grad=7-|typ=trad|längd=8|ny=ja|text=Klättra det uppenbara diedret med dragning åt höger.|fa=[[Magnus Eriksson Brändström]], [[Jonas Wiklund]] [[2010]]}}
+
+{{led|namn=Stockholm - Norrland|grad=8|typ=trad|längd=8|ny=ja|text=Klättra boulderproblemet Stockholm -Norrland 8-2, men fortsätt upp till toppen. Hårt men kort.|fa=[[Jonas Wiklund]], [[Magnus Eriksson Brändström]] [[2010]]}}
+
+[[Kategori:Umeå]]
+[[Kategori:Västerbotten]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Trad]]

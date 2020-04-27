@@ -1,0 +1,44 @@
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+{{boulderkomplett}}
+Ett klassiskt problem, en del kvar att göra och några till fina problem med snabb access från Brommaplan. Allt är inte helt dokumenterat och en del problem kan behöva ett tag med stålborsten, men väl värt en kväll.
+=Vägbeskrivning=
+Bakom OK-macken vid brommaplan finns det en liten veckoparkering. Parkera där och gå in i skogen på andra sidan gångvägen. Följ stigen knappt 100m och första väggen dyker upp på höger sida.
+<googlemap width=350 height=300 lat="59.342105" lon="17.939472" zoom="14" type="map" controls="small">
+59.342105,17.939472,[[Brommablocken]]
+</googlemap>
+
+=Skiss=
+[[Bild:brommablocket.gif]]
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+'''''(A) Väggen'''''
+{{problem|nr=A:1|namn=Morhpholic|grad=6B|betyg=1|typ=Vägg, Sloper|fa=Daniel Groth|sittstart=ja|text=Jättelåg start.}}
+{{problem|nr=A:2|namn=Hale Bop Jr|grad=6B+|betyg=2|typ=Cath, Sloper|fa=Daniel Groth|sittstart=ja|text=H kant + spricka eliminerad..}}
+{{problem|nr=A:3|namn=Crack For Fun|grad=5B|typ=Vägg, Spricka|fa=Daniel Groth|sittstart=ja|text=Sprickan upp, utsteg h om klykan.}}
+{{problem|nr=A:4|namn=SlappKlapp|grad=5C|betyg=1|typ=Vägg, Spricka|fa=Kenneth Hedman|sittstart=ja|text=Rakt upp.}}
+| width="250px" |
+'''''(B) Block1'''''
+{{problem|nr=B:1|namn=Ladderation|grad=5A|typ=Vägg|fa=Johan Karlsson|sittstart=ja|text=Rakt upp på goda grepp.}}
+{{problem|nr=B:2a|namn=Kennethklubben|grad=6c+|betyg=2|typ=Överhäng|fa=Kenneth Hedman|text=Start i undercling för vh och crimp för hh. Upp för areten.}}
+{{problem|nr=B:2b|namn=Mr Brown Nose Special|grad=7A+|betyg=3|typ=Överhäng|fa=Chris Ellis|sittstart=ja|text=Sittstart i jug, upp lite höger in i ''Kennethklubben''.}}
+{{problem|nr=B:2c|namn=Mr Hanky The X-mas Poo|grad=7B|typ=Överhäng|fa=Andreas Almqvist|sittstart=ja|text=Lite osäkert hur den går.}}
+{{problem|nr=B:3|namn=Razor Poo|grad=7A+|typ=Överhäng|fa=?|text=Start i två sidepulls.}}
+| width="250px" |
+{{problem|nr=B:4|namn=Grothens Escape|grad=6A|typ=Överhäng|fa=Johan Karlsson|sittstart=ja|text=Sisstart på list, dra h, utsteg v.}}
+{{problem|nr=B:5|namn=Grothen Great Escape|grad=6A|betyg=1|typ=Överhäng|fa=Johan Karlsson|sittstart=ja|text=Travers från hörnet, utsteg som ''Grothens Escape''.}}
+{{problem|nr=B:6|namn=Sva Svag|grad=5A|typ=Sva|fa=Daniel Groth|sittstart=ja|text=Rakt upp utan kanterna på blocket.}}
+{{problem|nr=B:7|namn=Kjell Kriminell|grad=4B|typ=Sva|fa=Kjell Stenström|text=Uppvärmning.}}
+{{problem|nr=B:7b|namn=Kjell har blitt snäll|grad=5A? S|typ=Sva|fa=Esa Wikström|text=Följ kanten rakt upp utan att vika av}}
+{{problem|nr=B:8|namn=Crack of Love|grad=5A|typ=Vägg,Spricka|fa=Johan Karlsson|text=Rakt upp i sprockan.}}
+'''''(C) Block2'''''
+Här går det något/några problem som ej är dokumenterade.
+| width="250px" |
+'''''(D) Block3'''''
+En kort sträcka vidare förbi (C) blocket.
+{{problem|nr=D:1|namn=Kanyler och sil stör villafrid|grad=6A|typ=Överhäng|fa=Fröberg,Spångberg|sittstart=ja|text=Start på lägst greppen i gropen, massor med eliminering.}}
+{{problem|nr=D:2|namn=Blod och knark i skog och mark|grad=6B|typ=Överhäng,Sva|fa=Andreas Spångberg|sittstart=ja|text=Kylskåpsklättra snett upp åt höger, hyllan till vänster är eliminerad.}}
+|}

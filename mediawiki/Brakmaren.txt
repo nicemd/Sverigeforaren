@@ -1,0 +1,26 @@
+{{info klippa|lat=59.20622194166667|long=18.312034425}}
+{{komplett}}
+
+==Allmänt==
+Litet men kraftigt berg som har en kort och brant västvägg. 8-10 m långa sportklätterturer. 10 m anmarsch från vägen. 
+
+==Vägbeskrivning==
+<div style="float:right; border: solid 1px gray">
+<googlemap version="0.9" lat="59.224448" lon="18.300476" type="map" width="225" height="250">
+59.206222, 18.312034
+Brakmaren
+</googlemap>
+</div>
+Skall inte förväxlas med Brakmarsklippan som ligger ca 200m åt SV och som är så dålig att den inte får vara med.
+
+{{clear}}
+
+==Leder==
+{{led|nr=1|namn=Knep och knåp|grad=8-|längd=|fa=[[Johan Luhr]] [[-92]]}}
+{{led|nr=2|namn=Linjär succé|grad=7|längd=|fa=[[Johan Luhr]], [[Patrik Gelin]] [[-92]]}}
+{{led|nr=3|namn=Berits kiosk|grad=8|längd=|fa=[[Johan Luhr]] [[-92]]}}
+{{led|nr=4|namn=Rimliga ramar|grad=7+/8|längd=|fa=[[Johan Luhr]], [[Patrik Gelin]] [[-92]]}}
+{{led|nr=5|namn=Ägget är löst|grad=7|längd=|fa=[[Johan Luhr]], [[Patrik Gelin]] [[-92]]}}
+
+[[Kategori:Tyresö]] [[Kategori:Stockholm]] [[Kategori:Sport]]
+[[Kategori:Saknar skiss]]

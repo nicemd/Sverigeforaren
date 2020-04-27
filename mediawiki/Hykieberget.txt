@@ -1,0 +1,96 @@
+{{info klippa
+  |lat=61.270233
+  |long=14.193649
+}}
+{{utkast}}
+[[Kategori:Dalarna]]
+[[Kategori:Trad]]
+[[Kategori:Multipitch]]
+<br/>
+==Allmänt==
+
+Hykieberget ligger ovanför Klitten norr om Älvdalen och bjuder på en av de mäktigaste klippväggarna utanför fjällen. 
+
+==Beskrivning==
+<div style="float:right; padding:3px; border: solid 1px gray; margin-left: 10px;"> http://farm3.static.flickr.com/2384/1790053540_3db0f22455.jpg<br/>Markus Andersson leder {{ledlänk|klippa=Hykieberget|namn=Styv kuling}}. Foto: Ted Ekberg</div>
+'''OBS!''' Läs access-föreskrifterna längst ner på sidan!
+Stora delar av väggen (och flera av de finaste lederna!) ligger inom ett naturreservat där naturligtvis inte klättring är tillåten men det som finns kvar går inte av för hackor och räcker för flera helgers fantastisk klättring. 
+De "fria" väggarna har en maximal höjd på ca 70 m och leder som finns är huvudsakligen naturligt säkrade med ofta hängande standplatser och tämligen utsatt klättring. Det finns även ett antal långa sportturer i grad 7-8. "Hyk" är defenitivt inget nybörjarberg och man bör komma väl förberedd! Många av lederna är mycket ihållande och inte helt uppenbart var säkringsmöjligheterna finns, graderingen kan dessutom upplevas som mycket hård bitvis. Lämpliga leder att starta med för den aspirerande hyk-klättraren är {{ledlänk|klippa=Hykieberget|namn=Hem till byn}} och {{ledlänk|klippa=Hykieberget|namn=Luhr i skur}} som är relativt lätta att hitta och ganska "snälla" hyk-leder.
+
+Ett typiskt hyk-rack består av dubbelrep, massor av småkilar, några större kilar, friends upp till camalot#2 med nån dubblet i fingerstorlek, 12-15 karbinpar. En lång cordulette är bra för många av de svårriggade standplatserna.
+
+Klippan finns även beskriven i den gamla Dalaföraren (går inte längre att få tag på) samt i Leje/Paulssons "Klättring i Sverige" som går att hitta i välsorterade klätterbutiker, nätbokhandeln och på många bibliotek. 
+<div style="clear:right;"></div>
+==Vägbeskrivning==
+<div style="float: right; margin: 6px; border: solid 1px gray;">
+<googlemap version="0.9" lat="61.281453" lon="14.143524" type="map" zoom="10">
+61.270233, 14.193649
+Älvdalen, Sverige
+</googlemap></div>
+
+Hykieberget ligger vid den östra kanten av Nässjön i Älvdalen.
+Du kan åka via Älvdalen genom Rot och längs Nässjöns norra sida.
+Vanligast är dock att åka upp till byn Klitten, se vägbeskrivning för [[Vitturn]], fortsätta rakt igenom byn och vidare fortsätt vägen rakt fram i alla korsningar 5km till parkering med informationstavla och björnsäker soptunna. En vältrampad stig leder sedan upp på bergets topp.<br/> 
+Väl uppe på toppen, följ rågången fram till kanten och ta sedan till höger för att komma fram till tältplatsen. 
+Utsteget till {{ledlänk|klippa=Hykieberget|namn=Flätrännan}} ligger rakt nedanför tältplatsen och där kan man fira antingen från två gamla borrbultar eller från en stor tall.
+En 50 meters luftig firning leder sedan ned till hyllan under {{ledlänk|klippa=Hykieberget|namn=Flätrännan}} där man kan gå ner en ramp till marknivå. Det är även möjligt att gå ner från toppen om man går västerut på en otydlig stig ca.300 meter från {{ledlänk|klippa=Hykieberget|namn=Flätrännan}} där man går ner i en ränna. 
+
+För lederna på Lilla väggen är det lämpligast att fira ner från toppen. Detta kan göras från tallen vid {{ledlänk|klippa=Hykieberget|namn=Hem till byn}}s utsteg (50 meter). För att hitta den tallen, titta efter en tydlig liten dubbeltall halvvägs mellan rågången och tältplatsen. Fem meter till vänster (med näsan utåt) om denna står firningstallen. Med Enkelrep kan man fira ner från tallen ovanför{{ledlänk|klippa=Hykieberget|namn=Halv storm}}. För att hitta den tallen går man under stålräcket ovanför den mindre väggen som står i vinkel mot Lilla väggen och ner så långt neråt det går till en stor tall mitt på den nedersta hyllan. Ska man klättra lederna på Lilla väggen så måste man pendla in till den stora hyllan/rampen nedanför väggen och för {{ledlänk|klippa=Hykieberget|namn=Halv storm}} eller {{ledlänk|klippa=Hykieberget|namn=Styv kuling}} firar man ner hela vägen (30 meter). Det går även att slemma upp på rampen under Lilla väggen via en kort passage till höger om {{ledlänk|klippa=Hykieberget|namn=Zaphod Beeblebrox}}. 
+
+'''OBS!''' Vägen från Klitten är stängd under tjällossning (april).Respektera detta och promenera in till berget istället.
+
+== Camping ==
+Det är inte tillåtet att tälta vid slogboden i reservatet. En bra tältplats med eldstad finns i en glänta ovanför {{ledlänk|klippa=Hykieberget|namn=Flätrännan}}. Om man inte orkar bära tältet upp på berget så går det utmärkt att tälta vid parkeringen. Det finns inget vatten varken uppe på berget eller vid parkeringen så medtag dunk. Nere i Älvdalen finns möjlighet att bo på camping eller vandrarhem [http://www.destination-alvdalen.se/]
+
+==Access {{access}}==
+
+{{AccessDB|klippa=hykieberget}}
+
+
+
+==Rekommenderade leder==
+
+'''Lederna uppräknade från vänster till höger.'''
+
+{{led|namn=Luhr i skur|grad=6|längd=40|betyg=3|typ=trad}}
+
+{{led|namn=Katt på hett plåttak|grad=6+,6-|längd=60|betyg=2|typ=trad}}
+
+{{led|namn=Flätrännan|grad=5+/6-|längd=50|betyg=1|typ=trad}}
+
+{{led|namn=Vit magi|grad=7+|längd=50|typ=mix}}
+
+{{led|namn=Betelgeuse|grad=6,7-|längd=75|betyg=3|typ=mix}}
+
+{{led|namn=Projektet|grad=6+,6|längd=80|betyg=3|typ=trad}}
+
+{{led|namn=Tao|grad=7-|längd=90|typ=trad}}
+
+{{led|namn=Iskall i Alexandria|grad=6+|längd=90|betyg=1|typ=trad}}
+
+{{led|namn=Zaphod Beeblebrox|grad=5+,5,5+/6-|längd=95|betyg=1|typ=trad}}
+
+'''Följande leder startar från den stora rampen till höger om "Zaphod", på den s.k. "lilla väggen" och nås lämpligast genom firning ovanifrån. Även möjligt att slemma upp nedifrån. '''
+
+{{led|namn=Pur Lifshasard|grad=6,6|längd=75|betyg=3|typ=trad}}
+
+{{led|namn=Napoleon de la Grand Armé|grad=6+,6+|längd=70|betyg=3|typ=trad}}
+
+{{led|namn=Hem till byn|grad=5+,6|längd=60|betyg=1|typ=trad}}
+
+{{led|namn=Sundogs|grad=7-|längd=60|typ=mix}}
+
+{{led|namn=Cerro slotmachine|grad=7+|längd=50|betyg=3|typ=mix}}
+
+
+'''Till höger om lilla väggen ligger en sidovägg där rampen slutar. Här går det två leder.'''
+
+{{led|namn=Halv storm|grad=6+|betyg=2|längd=30|typ=trad}}
+ 
+{{led|namn=Styv kuling|grad=6-|längd=35|betyg=2|typ=trad}}
+
+== Access{{access}} ==
+
+Hykieberget är akut hotat av totalt klätterförbud och det är av yttersta vikt att alla klättrare följer nedanstående föreskrifter. Klättring är ej tillåten på stora väggen (allt nedanför räcket) och samtliga väggar till höger om denna nedanifrån sett. Den högraste tillåtna leden är {{ledlänk|klippa=Hykieberget|namn=Styv kuling}}, reservatsgränsen är tydligt markerad vid foten av klippan. Lederna Götterdämung och Impotens som beskrivs i boken "Klättring i Sverige" ligger inom reservatet och får ej klättras! För inte onödigt oväsen, rensa inte, bulta inte, ta med allt skräp hem och använd befintliga stigar. Markägaren tillåter klättring men är inte direkt överförtjust i det. Respektera avstängning av vägen i samband med tjällossning.
+
+{{AccessDB|klippa=hykieberget}}

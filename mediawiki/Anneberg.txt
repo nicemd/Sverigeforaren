@@ -1,0 +1,116 @@
+{{info klippa
+  |lat=59.33121
+  |long=18.20703
+}}
+
+{{komplett}}
+[[Bild:anneberg.jpg|frame|center]]
+
+==Allmänt==
+Svagt överhängande klättring på små grepp. Klippan är inte så hög men har många fina leder, särskilt i de övre graderna. Öppet läge och nära till bad.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.33121" lon="18.20703" zoom="14" type="map" controls="small">
+59.33121,18.20703,[[Anneberg]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Anneberg
+lat=18207030
+long=59331210
+</slresa>
+</div> 
+Från Stockholm: kör Värmdöleden 222, sväng av mot "Skuru/Ektorp/Sjukhus" (innan Skurubron), kör vänster och under motorvägen. Följ Skurusundsvägen rakt fram och efter en stund har du klippan på höger sida precis vid vägkanten. Ställ bilen på parkeringen precis vid klippan.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+[[Bild:anneberg_vänster.gif]]
+
+'''Vänstra väggen'''
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1|namn=Köp och...|grad=7a|fa=Johan Luhr|typ=sport|text=Svårgraderad boulderled vid tallen.}}
+
+{{led|nr=2|namn=Sälj|grad=6a+|fa=Johan Luhr|typ=sport|text=Kort och lite krånglig.}}
+
+{{led|nr=3|namn=Knutby|grad=7c|fa=Johan Luhr|typ=sport|text=Går numera rakt upp till ett eget ankare.}}
+
+{{led|nr=4|namn=Pilgrim|grad=8a|fa=Anders Lundahl|typ=sport|text=Förlängdes något 2013 och går upp till samma ankare som Knutby.}}
+| width="300px" |
+
+{{led|nr=5|namn=No fuel for the pilgrims|grad=8a+|betyg=2|fa=Johan Luhr|typ=sport|text=Långa moves mellan dåliga grepp. Ankare.}}
+
+{{led|nr=6|namn=Ge kärleken en chans|grad=7c+|fa=Johan Luhr|betyg=3|typ=sport|text=Insteg vid flaket. Rakt upp sedan höger och upp på svaet. Ankare. }}
+
+{{led|nr=7|namn=Front page|grad=6c+|typ=trad|fa=Anders Lundahl, Eva Selin}}
+
+{{led|nr=7b|namn=Jag vill ha ett moln|grad=7b|typ=mix|fa=Johan Luhr|text=Start i Frontpage sedan bultad linje till höger.}}
+|}
+
+[[Bild:anneberg_vänster2.gif]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=8|namn=Klart ball|grad=7b+|fa=Johan Luhr|typ=sport|text=Intensiv klättring. Klart finare än vad den ser ut.}}
+
+{{led|nr=9|namn=Pausfågel|grad=5b|typ=trad|fa=Eva Selin|text=Diedret}}
+
+{{led|nr=10|namn=Ve och fasa|grad=6c+|typ=sport|text=Precis till höger om diedret}}
+
+| width="300px" |
+
+{{led|nr=11|namn=Bussen i nyllet|grad=7b|fa=Johan Luhr|typ=sport|text=Överhänget på spetsen, ofta förväxlad med leden ovan.}}
+
+{{led|nr=12|namn=Sträck på dig|grad=7a+|fa=Johan Luhr|typ=sport}}
+|}
+
+[[Bild:anneberg_höger.gif]]
+
+'''Högra väggen'''
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1|namn=Soldans|grad=6c+|betyg=2|typ=sport|fa=Anders Lundahl, Eva Selin|text=Fin led på annorlunda grepp. Tidigare mixled, nu helbultad. }}
+
+{{led|nr=2|namn=Smått och gott|grad=6c+|typ=trad|fa=Johan Luhr, Thomas Hansson}}
+
+{{led|nr=3|namn=Onda ögat|grad=8a|fa=Johan Luhr|typ=sport|text=Rejält överhängande insteg.}}
+
+{{led|nr=4|namn=Benny Måne|grad=7c|fa=Johan Luhr|typ=sport|text=Kroppstung. Förlängdes 2013 med ett par meter och försågs med ett ordentligt ankare.}}
+
+{{led|nr=5|namn=Crimp it|grad=7c|fa=Johan Luhr|typ=sport|text=Beskrivande namn - den tydliga krimpen.}}
+
+| width="300px" |
+
+{{led|nr=6|namn=Drive in|grad=6a+|typ=trad|fa=Thomas Hansson, Johan Luhr|text=Svårsäkrad.}}
+
+{{led|nr=7|namn=Fetmans fiender|grad=6a+|fa=Thomas Hansson, Johan Luhr|bultar=3|typ=sport|text=Fina flytt. Ankare.}}
+
+{{litentext|text=Till höger om björken som växer intill bergväggen går 3 lättare leder.}}
+
+
+{{led|nr=8|namn=1:an|grad=6a|fa=Johan Luhr|typ=sport|text=Börjar precis t h om trädet. Bultades om och förlängdes 2013, går numera hela vägen till toppen.}}
+
+{{led|nr=9|namn=2:an|grad=6b+|fa=Johan Luhr|typ=sport|text=Bultades om 2013 och förlängdes med ett par meter.}}
+
+{{led|nr=10|namn=3:an|grad=6a+|fa=Johan Luhr|typ=sport|text=Den högra sprickan. Delar numera ankare med 2:an.}}
+|}
+[[bild:Anneberg001.jpg|thumb|right|300px|En av lederna längst till höger på klippan. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Category:Trad]]
+[[Category:Sport]]
+[[Category:Vertikalt]]

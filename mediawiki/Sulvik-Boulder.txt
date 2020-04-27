@@ -1,0 +1,259 @@
+{{info klippa
+  |lat=59.689948
+  |long=12.428627
+}}
+
+{{boulderutkast}}
+<!-- 
+{{boulderkomplett}}
+-->
+
+==Allmänt==
+I direkt anslutning till berget i Sulvik finns det ett antal boulderproblem. Detta är dess förare.
+
+Denna förare återfinns och är mest aktuell på [http://27crags.com/crags/sulvik http://27crags.com/crags/sulvik]
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.693218" lon="12.428541" zoom="10" type="map" controls="small">
+59.689948,12.428627,[[Sulviksberget]]
+</googlemap>
+</div>
+
+
+'''Från Arvika:''' Följ väg 172 i riktning mot Årjäng/Töcksfors/Sulvik. Efter att du passerat Sulvik med dess bensinstation/mat-affär, ta första vägen till höger mot Åmotfors. Efter ca en kilometer hittar du kolsjön på vänster sida. Då har du kört lite för långt. 
+Parkera istället bilen vid ängen till höger. Berget ligger i andra änden på den lilla åkern (200m) och början på berget borde ses från bilen. Vid sådd på åkern måste fordonet parkeras högre upp i backen där det finns en liten ficka. Då är det promenad över kalhygget som gäller.
+
+{{access}}
+
+'''Access : Vid ängen finns endast en parkeringsficka, lite vid sidan av vägen, använd aldrig vägen/ängen. All annan yta används av markägaren. Parkera helst uppe på krönet innan , eller kör vidare och parkera i skarpa kurvan på avtagsväg. Var vänlig och respektera markägarens behov.'''
+
+
+==Blocköversikt==
+
+
+Här ska vi lista var de olika blocken finns med en översiktsbild. 
+
+
+
+===Väggproblem===
+
+[[Bild:tn_oskarsled-väggen.JPG|250px|thumb|right|Väggen vid Oskars led.]]
+
+'''Oscarväggen:''' 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=? | grad=6a | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=Travers från oskars led åt vänster}}
+
+{{problem | nr=2 | namn=? | grad=? | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=diverse varianter rakt upp till vänster om oskars led}}
+
+| width="350px" |
+
+<!-- 
+
+{{problem | nr= | namn=xxx | grad=6a | typ=överhäng, sva, crimp, hyllor, | fa= | landning=3 | fadatum= | sittstart=ja | sopad= | text=text 123}} 
+
+-->
+
+|}
+
+'''Familjeterapiväggen:''' 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Singoalla | grad=6c | typ= | fa=Martin Jurander | landning=3 | fadatum= | sittstart= | sopad= | text=Vänsterstigande travers vid familjeterapi originalinsteg , små lister till slut catch upp till startgrepp på familjeterapi}}
+
+| width="350px" |
+
+<!-- höger kolumn -->
+
+|}
+
+'''Vid uppstigningen:'''
+
+{|
+
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Guac | grad=6c | typ= | fa=Martin Jurander | landning=3 | fadatum= | sittstart= | sopad= | text=Enorm rampled med fostrande slut, möjlig sittstart.}}
+
+| width="350px" |
+
+<!-- höger kolumn  --> 
+
+|}
+
+{{problem | nr=2 | namn=? | grad=6a | typ= | fa= | landning=3 | fadatum= | sittstart=ja | sopad= | text=Under uppstigningen finns en liten vägg med denna mini catch , fler problem möjliga.}}
+
+
+
+'''Ovanför tomheten väggen'''
+
+En bouldervägg placerad ovanför ängsklippan. Dvs uppe på berget. Uppstigning möjlig till vänster, mitt på samt till höger. Fina landningar i ljung.
+
+5 problem med diverse varianter 5a till 6a
+
+===Bostadsblocket===
+
+[[Bild:Bostadsblocket.JPG|250px|thumb|right|Bostadsblocket]]
+
+Här ska det så småningom hamna information om Bostadsblocket och dess placering.
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=ironiska glasögon | grad=6a | typ=vertikalt | fa=Martin Jurander | landning=3 | fadatum=2009-03-19 | sittstart= | sopad= | text=Till vänster om areten}}
+
+{{problem | nr=2 | namn=deutsch ist so verdammt schön | grad=7a+ | typ=arete, överhäng, crimp | fa=Martin Jurander | landning=4 | fadatum=2009-03-14 | sittstart= | sopad= | text=Fin arete}}
+
+{{problem | nr=3 | namn=Rambo, I love you | grad= 6a-6b |typ= arete |fa=M.Jurander| landning=?|sittstart= ja|sopad= | text= fin arete om man har disciplin, på den kollapsade sidan av bostadsblocket}}
+
+
+Ett tiotal projekt till finns på detta block. 
+
+| width="350px" |
+
+<!-- Höger kolumn -->
+
+|}
+
+===Dödsblocket===
+
+[[Bild:Dodsblocket.JPG|250px|thumb|right|Dödsblocket]]
+[[Bild:tn_vänster dä näxt läväl, höger fem osthyvlar.JPG|250px|thumb|right|Dä näxt läväl och fem osthyvlar på Dödsblocket]]
+
+
+Efter bostadsblocket startar sjön/träsket och dödsblocket ligger ungerfär 40 meter bort lite åt höger, beavercreek-blocket ligger i direkt anslutning till dödsblocket. 
+Möjligheter till ett tiotal projekt . 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=0 | namn=dublight | grad=7a? | typ= | fa=Martin Jurander | landning=4 | fadatum= | sittstart=ja | sopad= | text=Startar vid redden att vara redd -areten och går stigande vänstertravers till drown or die hyllan,pumpande.}}
+
+
+{{problem | nr=1 | namn=drown or die | grad=6c | typ= | fa=Martin Jurander | landning=4 | fadatum= | sittstart= | sopad= | text=startar nere vid vattnet och går vänster och upp genom taket , fin.}}
+
+{{problem | nr=2 | namn=stenografi | grad=6c | typ= arete| fa=Martin Jurander | landning=4 | fadatum= | sittstart=ja | sopad= | text=startar till vänster om drown or die och går upp genom vänsterkanten av taket till superfin arete ! Superproblem.}}
+
+
+{{problem | nr=3 | namn=Supadupaslopa | grad=6b | typ= | fa=Martin Jurander | landning=3 | fadatum= | sittstart= | sopad= | text=startar nere i ett typ hål och går vi slopig kant upp på areten till toppväggen}}
+
+{{problem | nr=4| namn=Deathproof | grad=4b | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=fin upp och bra för att ta sig ner!}}
+
+{{problem | nr=5| namn=Redden at vare redd | grad=6a | typ= | fa=Martin Jurander | landning=3 | fadatum= | sittstart= | sopad= | text=liten sczyyyzzst arete}}
+
+{{problem | nr=6| namn=dä näxt läväl | grad=6c | typ=överhäng, crimp, catch | fa=Martin Jurander | landning=3 | fadatum= | sittstart= | sopad= | text=one move wonder överhängande vägg med tung etablering/catch}}
+
+{{problem | nr=7 | namn=fem osthyvlar | grad=6a | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=på andra sidan av blocket , väggproblem}}
+
+| width="350px" |
+
+<!-- Höger kolumn -->
+
+|}
+
+===Lägerplatsblocken===
+
+[[Bild:lagerplatsblocket hoger.JPG|250px|thumb|right|Lägerplatsblocket Höger]]
+[[Bild:lagerplatsblocket vanster.JPG|250px|thumb|right|Lägerplatsblocket Vänster]]
+
+När du har kommit in i skogen , så kommer du att gå rakt på blocken, can't miss. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=? | grad=6a | typ=sva | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=rakt upp för svaet }}
+
+{{problem | nr=2 | namn=?| grad=5c | typ=sva | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=Rakt upp för svaet, höger }}
+
+{{problem | nr=3 | namn=?| grad=6a | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=hörnet}}
+
+{{problem | nr=4 | namn=? | grad=6c | typ= | fa= | landning=3 | fadatum= | sittstart=ja | sopad= | text=nästa block åt höger sittstart på crimpers}}
+
+{{problem | nr=5 | namn=? | grad=5b-5c | typ=travers | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=vänsterstigande travers, grad beror på diciplin}}
+
+{{problem | nr=6 | namn=? | grad=4c-6a | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=vänsterkanten 4c-6a}}
+
+{{problem | nr=7 | namn=? | grad=5a | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=Högerkanten}}
+
+
+{{problem | nr=8 | namn=påhlmans arete | grad=6b+ | typ=arete | fa= | landning=3 | fadatum= | sittstart= | sopad=ja | text=På stora skivblocket, innanför lägerplatsblocken,framför stora väggen. Killer-arete !! }}
+
+| width="350px" |
+
+<!-- Höger kolumn -->
+
+|}
+
+===Beavercreek-blocket===
+[[Bild:Tn beavercreek blocket.JPG|250px|thumb|right|Beavercreekblocket]]
+[[Bild:Tn beavercreek kalhyggesidan.JPG|250px|thumb|right|Beavercreekblocket från kalhyggesidan]]
+
+Olika sidor har olika karaktär. Den lätt överhängande har mycket catchvänlig kant och utmärkt landning. Dessvärre finns inga grepp. En handfull projekt går att etablera på stenen. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=0 | namn=B.R.A.T.S | grad=6c+ | typ=överhäng, crimp, sloper | fa=Martin Jurander | landning=2 | fadatum= | sittstart=nej | sopad= | text=till höger om vänsterareten,sittstart kommer snart!}}
+
+{{problem | nr=1 | namn=lösning nr 1 | grad=7a+ | typ=överhäng, crimp | fa=Martin Jurander | landning=2 | fadatum= | sittstart=ja | sopad= | text=vidrigt crimpmove lättaste på hela väggen}}
+
+{{problem | nr=2 | namn=I wanna jump like daniel | grad=7a+ | typ=hoppstart | fa=Martin Jurander | landning=3 | fadatum= | sittstart= | sopad= | text=Med inspiration från Europa så gick det äntligen .}}
+
+{{problem | nr=3 | namn=Högerareten | grad=6b | typ=arete | fa=Martin Jurander | landning=3 | fadatum= | sittstart=ja | sopad= | text=På hörnet till höger om den greppfattiga överhängande delen. Upp för areten. Rolig.}}
+
+{{problem | nr=4 | namn=Vänsterareten | grad=6c | typ=arete | fa=Martin Jurander | landning=3 | fadatum= | sittstart=nej | sopad= | text=På hörnet till vänster om den greppfattiga överhängande delen. Upp för areten. magnifik.}}
+
+{{problem | nr=5 | namn=Vänsterareten,bäcksidan | grad=5b | typ=arete | fa=Martin Jurander | landning=1 | fadatum= | sittstart=ja | sopad= | text=bra uppvärmning}}
+
+{{problem | nr=6 | namn=bäcken i väggen | grad=5c | typ=vägg | fa=Martin Jurander | landning=1 | fadatum= | sittstart=nej | sopad= | text=bäcksidan,bra uppvärmning}}
+
+
+| width="350px" |
+
+|}
+
+===Närvaroblocket===
+
+Blocket ligger längst bort, och har möjlighet till fler problem.
+
+{{problem | nr=1 | namn=Ryggknäckarn| grad=6b | typ=överhäng | fa=Martin Jurander | landning=4 | fadatum= | sittstart=nej | sopad=ja | text=ståstart påvänstra sidan av ö.h. vh kant hh kass kristallkant, catch till kanten och upp , padda stenen under! möjlig sittstart }}
+
+
+{{problem | nr=2 | namn=obligatorisk närvaro| grad=7a | typ=överhäng | fa=Martin Jurander | landning=2 | fadatum= | sittstart=ja | sopad= | text=catch, tekniskt klurig.}}
+
+
+{{problem | nr=3 | namn=Markus sva| grad=6a | typ=sva | fa=Markus wennerstrand | landning=2 | fadatum= | sittstart=ja | sopad= | text=sittstart.}}
+
+[[Bild:Obligatorisk närvaro.JPG|250px|thumb|right|Obligatorisk närvaro]]
+[[Bild:Närvaroblockettvå.JPG|250px|thumb|right|Obligatorisk närvaro]]
+
+===Boulderleder===
+
+* gränsleden 6b finger 7m , fingerspricka, sittstart
+* sulvik i mitt hjärta 6a 6m, sittstart
+* Elimination 6b , arete till höger om "sulvik i..."
+* ekefalks problem 7a 10m
+* varför blir jag aldrig klar med veden 6c ( haha) 6m , crux på slutet
+* Do you know where you are, ethen ? 6c+
+
+[[Bild:Ekefalks_problem_,_areten.JPG|250px|thumb|right|ekefalks problem do you know...]]
+
+
+[[Kategori:Värmland]]
+[[Kategori:vertikalt]]
+[[Kategori:bouldering]]
+[[Kategori:överhäng]]
+[[Kategori:sva]]

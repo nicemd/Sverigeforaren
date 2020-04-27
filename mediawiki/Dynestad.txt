@@ -1,0 +1,134 @@
+{{info klippa
+  |lat=57.91246
+  |long=16.41829
+}}
+
+{{komplett}} 
+
+==Allmänt==
+Dynestad bjuder på lodrät och överhängande klättring och är som högst 18 m. Ett mycket trevligt berg  i fin 
+miljö som vi rekommenderar. Det är klättring på fast granit som ibland är uppsprucken. I slutet av 1800-talet bröts 
+det sten i Dynestad. Flera av klätterlederna håller mycket hög kvalitet. En av de bästa sportklätterklipporna som 
+vi har. Det finns utmaningar i olika svårighetsgrader för alla klättrare. Väggen är vänd mot syd och får sol efter ca 
+kl.10.00. Den torkar relativt snabbt efter regn. Ett bra vårberg. Klippan har 12 leder som särskilt rekommenderas.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.91246" lon="16.41829" type="map" zoom="13">
+57.91246, 16.41829
+Dynestad
+</googlemap>
+</div>
+
+Klippan ligger ca 25 km norr om Västervik. Kör av E22  vid den nordliga avfarten mot Gamleby  centrum 1 km. 
+Kör av åt vänster vid torget och kör förbi folkhögskolan och stanna efter 1 km. Direkt efter en liten bro sväng till 
+höger in på parkeringsplatsen. Därefter följ stigen söderut 700 m med dynestadsviken på höger sida. Klippan 
+ligger synlig på vänster sida.
+
+<div style="clear:right;"></div>
+
+===Övernattning===
+Camping KustCamp vid Hammarsbadet ligger 2 km från Gamleby centrum tel 0493-10221 [http://www.campa.se www.campa.se]
+
+Överums vandrarhem tel 0493-30302 [http://www.overum.nu/ www.overum.nu], 
+
+stugor och camping hos Risebo fritid, tel 0493-33046, [http://www.risebofritid.se www.risebofritid.se], 
+
+camping och stugor finns på Lysingsbadet i Västervik tel 0490-258000 
+[http://www.lysingsbadet.se www.lysingsbadet.se], 
+
+stugor har Tofvehults café och konferens tel 0490-26351 
+[http://www.tofvehult.se www.tofvehult.se] och på 
+
+Live in Nature på Kallersnäs gård tel 0768-513090 [http://www.liveinnature.se www.liveinnature.se]
+
+===Affärer===
+Närmaste livsmedelsaffär ICA finns i Gamleby centrum ca 2 km från klippan. Närmaste bensinstationer Bilia och 
+Preem finns i Gamleby.
+===Klättercenter===
+Mötesplatsen för klättrare är på centret i Västervik,  Repslagargatan 5, vid gamla vattentornet. Där kan man koppla upp sig gratis på trådlöst internet, eller låna en dator. En plats att mötas på, utbyta erfarenheter, läsa klättertidningar, se klätterfilmer och även få aktuell information om klättringen och andra aktiviteter i kommunen. En plats där man kan klättra inomhus och lära känna andra klättrare. Ring 0490-37466 för mer information.
+
+{{sidbrytning}}
+==Leder==
+[[Bild:Dynestad1.png]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Feministiskt initiativ|grad=5c|fa=Jim Wasmuth -07|längd=8|bultar=4|typ=sport|text=diederklättring}}
+{{led|nr=2|namn=Män är bättre|grad=7b|fa=Martin Jacobsson -91|längd=8|bultar=3|typ=sport|text=start till höger om trädet}}
+{{led|nr=3|namn=Mattias|grad=5b|fa=Mattias Magnusson -91|längd=8|bultar=3|typ=sport|text=}}
+{{led|nr=4|namn=Fyran|grad=4a|fa=|längd=8|bultar=3|typ=sport|text=}}
+{{led|nr=5|namn=Farmor kossa|grad=6c|fa=Lars Nilsson -91|längd=8|bultar=3|typ=sport|text=}}
+{{led|nr=6|namn=Rambokomplex|grad=7b|fa=Stefan Rasmussen -91|längd=8|bultar=2|typ=sport|text=}}
+{{led|nr=7|namn=Gäggväcket|grad=6c|fa=Martin Jacobsson -91|längd=8|bultar=4|typ=sport|text=tydlig spricka}}
+{{led|nr=8|namn=En led|grad=5c|fa=Martin Jacobsson -91|längd=8|bultar=4|typ=sport|text=}}
+{{led|nr=9|namn=Ännu en led|grad=6a|fa=Martin Jacobsson -91|längd=8|bultar=4|typ=sport|text=hårt insteg}}
+{{led|nr=10|namn=Nian|grad=4c|fa=|längd=8|bultar=4|typ=sport|text=}}
+{{led|nr=11|namn=Ålund ett|grad=6a|fa=Fredrik Ålund -91|längd=8|bultar=4|typ=sport|text=}}
+{{led|nr=12|namn=Ålund två|grad=6a+|fa=Fredrik Ålund -91|längd=8|bultar=4|typ=sport|text=start till vänster om staketet}}
+{{led|nr=13|namn=Red hot|grad=7a+|fa=Patrik Andersson -92|längd=8|bultar=3|typ=sport|text=övre delen, orensad}}
+
+| width="350px" |
+
+{{led|nr=14|namn=Fjorton|grad=4c|fa=|längd=8|bultar=4|typ=sport|text=start t.h om staketet}}
+{{led|nr=15|namn=Hyena|grad=7b|fa=Patrik Andersson -92|längd=8|bultar=3|typ=sport|text=}}
+{{led|nr=16|namn=Mitt Party|grad=7b|fa=Jim Wasmuth -91|längd=9|bultar=4|typ=sport|text=}}
+{{led|nr=17|namn=Vibrator|grad=7b|fa=Stefan Rasmussen -92|längd=9|bultar=6|typ=sport|text=}}
+{{led|nr=18|namn=Avund|grad=8b|fa=Stefan Rasmussen -99|längd=16|bultar=8|typ=sport|text=orepeterad}}
+{{led|nr=19|namn=Yoga|grad=8a+|fa=Stefan Rasmussen -98|längd=14|bultar=8|typ=sport|text=1 repetition av Peter Bosma}}
+{{led|nr=20|namn=Struts|grad=8a+|fa=Peter Bosma|längd=8|bultar=4|typ=sport|text=}}
+{{led|nr=21|namn=Grand Magus|grad=8a+|fa=Johan Luhr|längd=9|bultar=5|typ=sport|text=}}
+{{led|nr=22|namn=Instegssprickan|grad=5c|fa=|längd=7|bultar=4|typ=sport|text=torr vid regn}}
+{{led|nr=23|namn=Kärlekens val|grad=7c+|fa=Johan Luhr -91|längd=18|bultar=8|typ=sport|text=hela leden, ej bultarna till höger}}
+{{led|nr=24|namn=Insteg högervinden|grad=6a|fa=Jim Wasmuth -91|längd=7|bultar=4|typ=sport|text=torr vid regn}}
+{{led|nr=25|namn=Högervinden|grad=6c|fa=Jim Wasmuth -91|längd=18|bultar=8|typ=sport|text=}}
+
+|}
+
+{{sidbrytning}}
+[[Bild:Dynestad2.png]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=27|namn=Vänsterinsteg till Fredonia|grad=7a+|fa=|längd=6|bultar=3|typ=sport|text=torr vid regn}}
+{{led|nr=28|namn=Fredonia|grad=6c|fa=Stefan Rasmussen -91|längd=16|bultar=7|typ=sport|text=toppankare mitt på leden}}
+{{led|nr=29|namn=Apkungen|grad=7c|fa=Patrik Andersson -91|längd=9|bultar=3|typ=sport|text=skall bultas om}}
+{{led|nr=30|namn=Djungel Jim|grad=7c|fa=Jim Wasmuth -91|längd=16|bultar=6|typ=sport|text=}}
+{{led|nr=31|namn=Mambo Feber|grad=7a+|fa=Patrik Andersson|längd=15|bultar=7|typ=sport|text=}}
+{{led|nr=32|namn=Blå kongo|grad=6c|fa=Jim Wasmuth -91|längd=15|bultar=7|typ=sport|text=}}
+{{led|nr=33|namn=Sheeta|grad=6c|fa=Stefan Rasmussen -91|längd=15|bultar=7|typ=sport|text=otydlig linje}}
+{{led|nr=34|namn=Baloo|grad=6a|fa=Mattias Magnusson -91|längd=15|bultar=7|typ=sport|text=bra startled, hårt insteg}}
+
+| width="350px" |
+
+{{led|nr=35|namn=Kaa|grad=6a|fa=Johan Strömstad -99|längd=12|bultar=4|typ=sport|text=}}
+{{led|nr=36|namn=Strul|grad=6a|fa=Johan Strömstad -99|längd=12|bultar=4|typ=sport|text=}}
+{{led|nr=37|namn=AK grädd|grad=6c|fa=Patrik Andersson -91|längd=12|bultar=|typ=sport|text=tidigare tradled}}
+{{led|nr=38|namn=Hundra grader|grad=7a|fa=Stefan Rasmussen -91|längd=12|bultar=5|typ=sport|text=}}
+{{led|nr=39|namn=Stress|grad=8a+?|fa=projekt|längd=12|bultar=5|typ=sport|text=öppet projekt}}
+{{led|nr=40|namn=Jag brinner|grad=7b|fa=Patrik Andersson -91|längd=12|bultar=4|typ=sport|text=}}
+{{led|nr=41|namn=Trettosexan|grad=6a|fa=|längd=13|bultar=5|typ=sport|text=ligger 20 m till höger}}
+{{led|nr=42|namn=Kvinnor är bäst|grad=6a|fa=Martin Jacobsson|längd=13|bultar=5|typ=sport|text=}}
+
+|}
+
+==Förare==
+Förare gjord av Västervik Climbing kan hittas på [http://www.vastervikclimbing.se/klattercentret/pdfer/ www.vastervikclimbing.se].
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

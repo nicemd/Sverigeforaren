@@ -1,0 +1,45 @@
+{{info klippa
+  |lat=57.77256
+  |long=12.02982
+}}
+
+{{utkast}}
+<googlemap lat="57.77256" lon="12.02982" zoom="9" type="map">
+57.77256,12.02982,Hjällbo
+</googlemap>
+
+==Allmänt==
+Kul klättring men korta leder. Kan vara värd att åka till om man bor i Göteborg och redan har klättrat allt annat, annars klättrar man det andra först. 
+
+==Vägbeskrivning==
+För att ta sig till klippan kollektivt, åk spårvagn till Hjällbo station. Promenera längs med Gråbovägen mot Gråbo. Du  kommer passera Hjällbo Lillgata, 100 meter efter Hjällbo Lillgata svänger du vänster på cykelbanan och går rakt fram till klippan. Klippan ligger nära bostadsområdet men tillräckligt avskilt.
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Klättring==
+Många korta traditionellt säkrade turer eller mixturer. De bladbultar som syns lite här går ofta att backa upp med andra säkringar. Växer ett, par, tre stadiga träd på toppen. De flesta lederna är ca 8 meter höga.
+
+==Leder==
+{{led|namn=Mister crack|grad=7-|fa=Nils Sjöström|längd=5}}
+{{led|namn=Tomaszewki|grad=5+|fa=Piotr Bober|text=Den högerlutande sprickan}}
+{{led|namn=Brufen|grad=4+|fa=Tomas Machek|text=Startar precis höger om trädet}}
+{{led|namn=?|grad=?|text=Höger om Brufen finns det en borrbult, projekt?|fa=}}
+{{led|namn=Nevada lady|grad=5+|fa=Nils Sjöström}}
+{{led|namn=Satans dans|grad=8-|fa=Nils Sjöström}}
+{{led|namn=Nisses|grad=7-|fa=Nils Sjöström}}
+{{led|namn=Hasselnöt|grad=4|fa=Nils Sjöström}}
+{{led|namn=Kindergarten|grad=3|fa=Tomas Machek}}
+{{led|namn=Short cut|grad=5+|fa=Topprep?}}
+{{led|namn=Solo|grad=5|fa=Nils Sjöström}}
+{{led|namn=Dirty Business|grad=5|fa=Tomas Machek}}
+{{led|namn=Sökandet|grad=7-|fa=Nils Sjöström}}
+{{led|namn=Never Dry|grad=5-|fa=Tomas Machek|text=går in i diedret under taket}}
+{{led|namn=Mosquito|grad=5|fa=Tomas Machek|text=Leden går upp emellan taken}}
+{{led|namn=Fine moves|grad=5+|fa=Tomas Machek}}
+{{led|namn=Still going strong|grad=6|fa=Anton Malak|text=Leden går igenom den kilformade biten i nästa tak}}
+Följande leder ser ganska smutsiga ut:
+{{led|namn=Never stop|grad=5+|fa=Nils Sjöström}}
+{{led|namn=Voltaren|grad=6-|fa=Nils Sjöström}}
+
+
+[[Kategori:Göteborg]]

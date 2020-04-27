@@ -1,0 +1,36 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Badsalt|grad=6C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|fadatum=2008-04-19|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart längst ned till vänster av kanten, följer denna upp åt höger.Ligger på blocket vid vattnet nedanför Saga.}}
+{{problem|nr=1|namn=Baksidan|grad=4C|typ=Krimp|fa=Fredrik Bodin|landning=4|betyg=1|sopad=Fredrik Bodin|text=Går rakt upp.}}
+{{problem|nr=2|namn=Pinus|grad=4B|typ=Slopers,Jug|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2005-08-15|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart vid areten, följ denna upp och gå sedan rakt upp över stora rampen}}
+{{problem|nr=3|namn=Solisten|grad=3A|typ=Krimp,Slab|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2005-08-15|sopad=Fredrik Bodin|text=Startar mitt för tallen, går rakt upp.}}
+{{problem|nr=4|namn=Nangijala|grad=7C|typ=Krimp,Slopers|fa=Christofer Björklund|landning=4|betyg=3|fadatum=2005-09-17|sopad=Christofer Björklund|startgrepp=ja|text=Börjar utanför taket på den tydliga listen 2 meter till vänster om Saga, går rakt upp.}}
+{{problem|nr=5|namn=Saga|grad=8A|typ=Slopers,Överhäng|fa=Christofer Björklund|landning=2|betyg=3|fadatum=2005-09-12|sopad=Christofer Björklund|startgrepp=ja|text=Startar med de två tydliga greppen mitt i taket, går rakt upp.}}
+{{problem|nr=6|namn=Stepper|grad=4C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2005-08-15|sopad=Fredrik Bodin|text=Börjar uppe på stenen under, går rakt upp.}}
+| width="250px" |
+{{problem|nr=7|namn=Hot Stepper|grad=6C+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=4|betyg=1|fadatum=2005-08-18|sopad=Fredrik Bodin|sittstart=ja|variant=ja|text=Sittstartsvariant på "Stepper".}}
+{{problem|nr=8|namn=Teknikatess|grad=6B+|typ=Slopers,Jug|fa=Fredrik Bodin|landning=4|betyg=3|fadatum=2005-08-03|sopad=Fredrik Bodin|text=Startar med händerna på den bra hyllan, går rakt upp.}}
+{{problem|nr=9|namn=Hälsporre|grad=6C+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2005-08-03|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på det bra greppet på areten, följer areten upp.}}
+{{problem|nr=10|namn=Katla|grad=7A+|typ=Travers H->V|fa=Mattias Flodin|landning=4|betyg=2|sopad=Mattias Flodin|sittstart=ja|variant=ja|startgrepp=ja|text=Travers/linkup börjar med "Hälsporre", traversera bort till "Hot Stepper" och avsluta med denna.}}
+{{problem|nr=11|namn=Tingeling|grad=6C+|typ=Krimp,Slab|fa=Fredrik Bodin|landning=3|fadatum=2006-06-04|sopad=Fredrik Bodin|uteslutningar=ja|text=Går rakt upp till höger om "Hälsporre". Areten till höger och startgreppet på just "Hälsporre" är uteslutna.}}
+{{problem|nr=12|namn=Brytningsfel|grad=6A|typ=Krimp,Jug|fa=Fredrik Bodin|landning=1|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart där rampen kommer ned, går rakt upp.}}
+| width="250px" |
+{{problem|nr=13|namn=Stretcha Grabbar|grad=6A|typ=Krimp|fa=Fredrik Bodin|landning=4|fadatum=2007-04-08|sopad=Fredrik Bodin|text=Startar till direkt till höger om "Alternativ Uppgång", går sedan snett upp åt höger. Sprickan på "Alternativ Uppgång" är utesluten.}}
+{{problem|nr=14|namn=Alternativ Uppgång|grad=4C|typ=Krimp,Highball,Spricka|fa=Fredrik Bodin|landning=3|sopad=Fredrik Bodin|text=Följer sprickan upp.}}
+{{problem|nr=16|namn=Prostatan|grad=6A|typ=Highball,Spricka|fa=Simon Karlsson|landning=4|betyg=1|sopad=Simon Karlsson|text=Går rakt upp i sprickan.}}
+{{problem|nr=17|namn=Skenbild|grad=5C|typ=Krimp,Slab|fa=Fredrik Bodin|landning=4|betyg=2|sopad=Fredrik Bodin|text=Går rakt upp utan att gå åt höger eller vänster.}}
+{{problem|nr=18|namn=Bollsinne|grad=6A+|typ=Krimp,Aréte,Jug|fa=Fredrik Bodin|landning=4|sopad=Fredrik Bodin|text=Följer areten upp.}}
+{{problem|nr=19|namn=Sälsidan|grad=5A|typ=Krimp,Slab|fa=Fredrik Bodin|betyg=1|sopad=Fredrik Bodin|text=Går rakt upp till vänster om "Bollsinne".}}
+{{problem|nr=20|namn=Bedragaren|grad=6C|typ=Krimp,Slab|fa=Fredrik Bodin|landning=4|betyg=1|sopad=Fredrik Bodin|startgrepp=ja|uteslutningar=ja|text=Börjar med vänster hand runt kanten, går rakt upp. Gå ej ut åt vänster.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

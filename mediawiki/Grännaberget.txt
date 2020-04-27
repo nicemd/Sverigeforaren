@@ -1,0 +1,62 @@
+<!-- Detta gör det möjligt att markera klippan på kartor-->
+{{info klippa
+  |lat=58.0218
+  |long=14.4692
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!-- {{stub}} -->
+{{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+Två leder, 20 m grad 6 och 40 m grad 5. Lederna ligger mitt i stan, i västläge med magnifik utsikt över Gränna stad, Vättern och Visingsö.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.0218" lon="14.4692" type="sat" zoom="14">
+58.0218, 14.4692
+Lederna på Grännaberget, Småland
+</googlemap>
+</div>
+'''Bil'''<br>
+Oavsett varifrån du kommer, följ skyltning mot Gränna. När man kör in i staden från norr eller söder hamnar man på Brahegatan. Följ den tills du kommer till torget. Parkera där och sök reda på Lergränd, som ligger vid torgets södra hörn och leder upp mot berget. Gå uppför Lergränd till tennisbanan. Vid tennisbanan finns lederna.
+
+'''Buss'''<br>
+Det går bussar från Jönköping med duglig turtäthet. Plinga så snart du passerat kyrkan, så stannar bussen precis vid torget. Då är det bara att följa torgets närmre kant upp mot berget, så hittar du lederna.
+
+Det finns busslinjer från Tranås och Ödeshög också, men de har mycket lägre turtäthet. Bussen från Ödeshög stannar dessutom inte vid torget.
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Hålet i berget|grad=5|typ=sport|betyg=|bultar=6+11|längd=40|fa=|text=Norra leden, den längre av de två. Börjar vid husknuten. Övre ankaret är åtkomligt uppifrån, och det går också att ta sig upp från ankaret till gångstigen längs bergskanten.}}
+
+{{led|nr=2|namn=Pers kula|grad=6|typ=sport|betyg=|bultar=11|längd=20|fa=|text=Södra leden, kortare men svårare. Börjar bakom tennisplan, 40 m höger om husknuten.}}
+
+| width="350px" |
+
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]<!--  -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

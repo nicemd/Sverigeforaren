@@ -1,0 +1,95 @@
+{{info klippa
+  |lat=64.0185573667676
+  |long=20.0121116638183
+}}
+
+{{utkast}}
+==Allmänt==
+Umeklubben "återupptäckte" denna klippa 1987 och har sedan dess utvecklat 
+den till att bli en sommarfavorit bland dom som vill klättra lite hårdare leder. Men det är 
+inte bara lederna som är besvärliga utan också "klimatet". Denna östvända klippa kan 
+bjuda på fastfrusna lovikavantar till i mitten av juni! Klippan är i skugga från klockan 
+11. 
+
+Klippan är 7-15m högt, gnejs, lätt överhängande med sprickor, tak och små grottor. 
+Ett flertal leder är helbultade med firningsankare. Andra är klättrade som "mixade" (bult & 
+kil) och ett par är helt naturliga.
+
+==Leder==
+Från vänster:
+
+{{led|namn=Ingen mans land|grad=7b+|typ=sport|längd=8|betyg=1|bultar=5|fa=[[Jonas Wiklund]], [[Dag Knutsson]] [[2003]]|text=150 meter till vänster om huvudväggen. Fem bultar på åtta meter garanterar att du hittar denna led}}
+
+{{led|namn=Schlagerkungen|grad=6c|typ=sport|längd=6|betyg=0|bultar=3|fa=[[Dag Knutsson]], [[Björn Knutsson]] [[2008]]|text=Cruxig.}}
+
+{{led|namn=Billy butter|grad=7c+|typ=sport|längd=12|fa=[[Johan Luhr]] [[1993]]|text=Kort, ful, men hård. Den vänstra leden i taket.}}
+
+{{led|namn=Razor|grad=7b+|typ=sport|längd=12| betyg=1|bultar=6|fa=[[Dag Knutsson]] [[2003]]|text=Den högra leden i taket.}}
+
+{{led|namn=Kapten krok|grad=7a|typ=sport|längd=8| betyg=1|bultar=4|fa=[[Anders Lindh]] [[90-tal]]|text=Kort och krimpig.  Vid förstabestigningen säkrades denna med en eller två bladbultar, dessa försvann så småningom och leden repeterades flera gånger helt på egna säkringar (dåligt säkrad). Numera är denna retrobultad och har ankare.}}
+
+{{led|namn=Första gången|grad=4+|typ=trad|längd=10| betyg=|bultar=|fa=[[Anders Lindh]] [[1989]]|text=Instegskrux, sedan mycket enkelt. Mycket skräpig i sitt nuvarande tillstånd. Roligare att sola än att leda.}}
+
+{{led|namn=Trasselsudd|grad=5-|typ=trad|längd=10| betyg=|bultar=|fa=[[Bengt Wallen]] [[1990]]|text=Instegskrux som skyddas av en bult sedan enkel klättring upp åt vänster. Skräpig i sitt nuvarande tillstånd.}}
+
+{{led|namn=Sudderutt|grad=6b|typ=sport|längd=9| betyg=|bultar=4|fa=[[Anders Lindh]] [[1994]]|text=Aretet är hårdare ju längre åt höger man klättrar.  Verkligen ingen fin led, som lämpligen främst klättras för att sätta upp topprep på Indiana Jones för de som ogillar kilklättring.}}
+
+{{led|namn=Indy direkt|grad=7+|typ=trad|längd=10| betyg=1|bultar=1|fa=[[Anders Lindh]], [[Johan Luhr]] [[1994]]|text=Hård start som skyddas av en borrbult. Går sedan in i Indiana Jones}}
+
+{{led|namn=Indiana Jones|grad=7-|typ=trad|längd=11| betyg=2|bultar=5|fa=[[Anders Lindh]] [[1992]]|text=Fin sprick och väggklättring. Kort spricka upp till tvärsprickan, sedan travers ut vänster och upp längs en försvinnande spricka. Välsäkrad trots allt.}}
+
+{{led|namn=Marja-Lisas mattelektion|grad=7b|typ=sport|längd=11| betyg=2|bultar=4|fa=[[Anders Lindh]] [[1995]]|text=Bergets pärla. Tunn och teknisk väggklättring. Var vid tiden för de första bestigningarna en mixad led då utsteget skyddades av en svårplacerad kamkil i ett utsatt läge, snart började dock alla hänga ner en slinga från klippans topp och därför sattes en extra borrbult på toppen. I samband med detta placerades också ett ankare på toppen.  Denna led har också gjorts helt på egna säkringar av Jonas Wiklund, 2004. Graden diskuterad bland lokala klättrare, vissa tycker 7b+ andra 7b.}}
+
+{{led|namn=Sidenvägen|grad=7c|typ=sport|längd=11|betyg=|bultar=4|fa=[[Per Wermelin]] [[1996]]|text= Tunn och teknisk väggklättring. Startar som 'Marja-Lisa' men går mer åt höger. Få bestigningar.}}
+
+{{led|namn=Lindium|grad=7|typ=trad|längd=11| betyg=3|bultar=1|fa=[[Anders Lindh]] [[1994]]|text=Följer den uppenbara sprickan mitt på väggen. En (överflödig?) bult i starten.}}
+
+Sedan följer tre leder som ligger för nära varandra.
+
+{{led|namn=Nordan|grad=7a|typ=sport|längd=11|betyg=|bultar=|fa=[[Anders Lindh]], [[Per Håkansson]], [[Anders Lindfors]] [[1994]]|text=Den vänstra av de tre.  Retrobultad.}}
+
+{{led|namn=Bullen|grad=7a+|typ=sport|längd=11|betyg=1|bultar=|fa=[[Johan Luhr]] [[1993]]|text=Mittlinjen. En bult på slutet är tillagd efter första bestigningen.}}
+
+{{led|namn=Multikruxus|grad=7a|typ=mix|längd=11|betyg=|bultar=|fa=[[Per Håkansson]] [[90-tal]]|text=Högerlinjen. Kliv runt bullen på höger sida, gå tillbaka mot vänster och dra sedan högerut. En bult på slutet är tillagd efter första bestigningen.  Denna linje och Bullen ligger egentligen allt för nära varandra}}
+
+Till vänster om de stora taken går det två leder
+
+{{led|namn=Korpdräparhålet|grad=5+|typ=kil|längd=11|betyg=|bultar=|fa=[[Bengt Wallen]] [[1990]]|text=En skravlig linje till höger om Multikruxus.  Klättra där det är som enklast typ.}}
+
+{{led|namn=Osäker last|grad=7-|typ=kil|längd=11|betyg=|bultar=|fa=[[Anders Lindh]] [[1994]]|text=En skravlig linje till höger om Korpdräparhålet.  Klättra där det är som lösast typ.}}
+
+Runt och genom de stora taken går det fyra leder
+
+{{led|namn=Stenladyn|grad=7a|typ=sport|längd=11|betyg=1|bultar=|fa=[[Dag Knutsson]] [[2002]]|text=Längst tilll vänster på det stora takpartiet. Distinkt krux, lite smygfin. Populär.}}
+
+{{led|namn=Lilla ungen|grad=7a+|typ=sport|längd=12|betyg=1|bultar=6|fa=[[Dag Knutsson]] [[2002]]|text=Rakt genom stora taket.}}
+
+{{led|namn=Gubben elak|grad=7a|typ=sport|längd=12|betyg=|bultar=|fa=[[Anders Lindfors]] [[1994]]|text=Fram och tillbaka genomen taken.  Ursprunglingen ledd på kil, numera bultad. Ofin.}}
+
+{{led|namn=Arial Riot|grad=7c|typ=sport|längd=12|betyg=|bultar=|fa=[[Dag Knutsson]] [[2003]]|text=Längst till höger på det stora taket. Klipp i en kortslinga i kedjan som hänger ner mot takläppen. Spektakulärt dyno med chans till spektakulära fall.  Ta med er bästa säkrare.}}
+
+{{led|namn=Tavelsjötak åt alla|grad=4c|typ=sport|längd=12|betyg=2|bultar=4|fa=[[Dag Knutsson]] [[2008]]|text=Till höger om det stora taket.}}
+
+Fler leder läggs in senare
+
+==Vägbeskrivning==
+Från Umeå tag väg 363 mot Vindeln/Tavelsjö. Klippan ligger drygt 
+2,5 mil från Umeå och syns tydligt högt upp på vänster sida i bortre änden av Tavelsjön. 
+Sväng vänster upp på en liten grusväg skyltat med vit skylt "Tavelsjöleden", vid ett stort sjöodjur i trä. Parkeringen dyker upp så småningom. Följ Tavelsjöleden upp mot toppen av berget. Där finner man vindskydd och grillplatser. Följ skyltningen mot grottorna och de blåa markeringarna i riktning i början  mot sjön.
+
+
+<googlemap lat="64.0185573667676" lon="20.0121116638183" zoom="9" type="map">
+64.0185573667676,20.0121116638183,Tavelsjöberget
+</googlemap>
+
+{{tryckt_förare|umeåföraren (2005)=ja}}
+
+[[Kategori:Västerbotten]]
+[[Kategori:sport]][[Kategori:trad]][[Kategori:överhäng]][[Kategori:Engelska]]
+
+=In English=
+==Description==
+An east facing rock with 7-15 meter long routes. The cliff is sunlit until 11 am, and has notoriously cold climate. Mostly bolted routes but some really nice trad routes as well.  Fully bolted routes have French grades, otherwise Nordic grades.
+
+==Directions==
+Drive road 363 from Umeå towards Vindeln/Tavelsjö. The crag is visible on the left at the far end of the lake Tavelsjö. When you spot a large wooden sea-monster turn left onto a gravel road. Follow Tavelsjöleden to the top of the hill.

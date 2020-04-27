@@ -1,0 +1,190 @@
+{{info klippa
+  |lat=58.6238885690899
+  |long=16.857662200927734
+}}
+
+{{utkast}}
+[[Image:Bistaberget_full.jpg|thumb|700px|Bistaberget i vårsol 2007. Foto: [[Användare:Peblin|Per Lindh]]]]
+
+==Allmänt==
+Lång, lodrät ca 20m hög klippvägg med ett 50-tal leder i graderna 3- till 8. Omväxlande och fin klättring..
+
+==Beskrivning==
+Bistaberget i sydöstra Södermanland ligger i den gamla gruvsocknen Tunaberg, bara några kilometer från klättereldoradot [[Simonsberget]]. Bistaberget är en lång, lodrät vägg som är ca 20 m hög. Här finns i dag ett 50-tal leder i graderna 3- till 8. Många av lederna är borrbultade och försedda med firningsankare. På Bistaberget hittar man även flera fina mix-leder, där (för det mesta) kruxet är bultat medan fina sprickor lämnats för traditionella säkringsmetoder.
+
+Det är inte jättelätt att tälta vid Bistaberget, men med lite god vilja finns det plats för 2-3 tält på hällarna 20m in i skogen från toppen. 
+
+En förare som täcker Simonsberget, Bistaberget samt andra berg i Södermanland utkom i november 2006. Beställ via [http://www.dangerzone.se Danger Zone].
+
+Under hösten 2009 har flera nya ankare satts upp och några leder fått nya bultar. Arbetet kommer att fortsätta under början av 2010. Mer info på http://dangerzone.forum24.se/dangerzone-about18.html.
+
+==Vägbeskrivning==
+<div style="float:right; border: solid 1px #a0a0a0; margin: 3px; padding: 3px;">
+<googlemap lat="58.63228891561829" lon="16.828994750976562" zoom="12" width=250 height=200 type="map">
+58.6238885690899,16.857662200927734, Bistaberget
+</googlemap>
+</div>
+Om du kommer E4 norrifrån, sväng av vid Nyköping V - det är den sista Nyköpingsavfarten. I andra rondellen sväng höger på väg 53 mot Oxelösund. Följ skyltar mot Nävekvarn. I Nävekvarn, ta vänster när du kommer till T-korsningen i samhället, och fortsätt ca 3.5km. Berget ligger vid vägen och går inte att missa.
+
+Tänk på att parkeringsfickan vid berget även är infart till åkern för bonden och hans traktor. Parkera snällt.
+
+<div style="clear:right"></div>
+
+
+
+==Leder==
+[[Bild:Bistaberget-leder-1.jpg]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+
+{{led|nr=1|namn=Trabant|grad=4a |typ=boulder|fa=[[Andreas Harne]][[1993|-93]]|text=orensad sololed. inte kul!}}
+
+{{led|nr=2|namn=Grus i dojan|grad=4c |typ=trad|fa=[[Andreas Harne]][[1993|-93]]}}
+
+{{led|nr=3|namn=Silverpillan|grad=5b |typ=sport|fa=[[Niclas Amloh]][[1991|-91]]}}
+
+{{led|nr=4|namn=Valium|grad=6c |typ=sport|fa=[[Andreas Harne]][[2002|-02]]}}
+
+{{led|nr=5|namn=Nyckelsteget|grad=6b+ |typ=sport|fa=[[Niclas Amloh]][[1991|-91]]}}
+
+{{led|nr=6|namn=Återvändsgränden|grad=6c+ |typ=sport|fa=[[Mickael Hermansson]][[1991|-91]]}}
+
+{{led|nr=7|namn=Söndagspromenad|grad=5a |typ=trad|fa=[[Niclas Amloh]][[1991|-91]]}}
+
+{{led|nr=8|namn=Helgonet|grad=6a+ |typ=trad|fa=[[Andreas Harne]][[1993|-93]]}}
+
+{{led|nr=9|namn=Små gröna män|grad=6c+ |typ=sport|fa=[[Andreas Harne]][[2005|-05]]}}
+
+| width="300px" |
+
+{{litentext|text=Här blir det ganska tätt mellan lederna och det kan nästan vara knepigt att veta vilken man är inne och fingrar på.}}
+
+
+{{led|nr=10|namn=Skriet från vildmarken|grad=6b |typ=sport|bultar=6|fa=[[Andreas Harne]][[1993-2005|-93-05]]}}
+
+{{led|nr=11|namn=Kapten Krok|grad=6a|typ=trad|betyg=1|fa=[[Andreas Harne]][[1993|-93]]|text=Börjar i en sprickformation, fortsätter upp i ett mindre dieder, via en hylla och sen upp i den större (jam)sprickan. Egentligen ren tradtur men går rakt över första bulten på ...förbannelse.}}
+
+{{led|nr=12|namn=Kapten Kroks förbannelse|grad=6a+/6c|bultar=3|typ=mix|fa=[[Andreas Harne]][[1993|-93]]|text=Samma insteg som Kapten Krok men går efter hyllan rakt upp via 3 bultar. Två utstegsvarianter, 5a och 6c.}}
+
+{{led|nr=13|namn=Televinken|grad=6b |typ=sport|fa=[[Andreas Harne]][[2006|-06]]}}
+
+{{led|nr=14|namn=Den ofullbordade|grad=6b+ |typ=trad|fa=[[Andreas Harne]]/ [[Anders Norrga]][[1994-2002|-94-02]]}}
+
+{{led|nr=15|namn=Änglatrappan|grad=6b |typ=mix|betyg=3|bultar=3|fa=[[Andreas Harne]][[2001|-01]]|text=Mycket fin och varierande led. Går genom den tydliga "alkoven" upp i ett system av diedrar, sprickor och annat skoj. Säkrad med 3bb, en pitong och egna säkringar (välsäkrat) sista halvan.}}
+|}
+
+[[Bild:Bistaberget-leder-2.jpg]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=16|namn=Ta av dig skorna|grad=6b+|betyg=3|typ=trad|fa=[[Jan Liljemark]]/ [[Lars Grankvist]][[1983|-83]]|text=Trevlig, brant klättring upp via ett tydligt system av sprickor. Börjar till höger om sprickan som leder upp i spricksystemet och traverserar vänster in i sprickorna via några crimpar. Välsäkrad. Stor bastant tall på toppen om man vill topprepa (ta med statiskt rep).}}
+
+{{led|nr=17|namn=Totalonanisten|grad=7a+ |typ=sport|fa=[[Stefan Lindblom]][[2001|-01]]}}
+
+{{led|nr=18|namn=Sodom|grad=6c |typ=trad|fa=[[Andreas Harne]][[2002|-02]]}}
+
+{{led|nr=19|namn=Månfararen|grad=6c |typ=sport|fa=[[Andreas Harne]][[2002|-02]]}}
+
+| width="300px" |
+
+{{led|nr=20|namn=En gång en en|grad=5c |typ=trad|fa=[[Niclas Amloh]][[1992|-92]]}}
+
+{{led|nr=21|namn=Syndafallet|grad=7a+ |typ=sport|fa=[[Andreas Harne]][[2006|-06]]}}
+
+{{led|nr=22|namn=Gas-Niclas|grad=5b |typ=sport|fa=[[Jon Wentzel]]/ [[Andreas Harne]][[2002|-02]]}}
+
+{{led|nr=23|namn=Vampyren|grad=6a+|typ=mix|fa=[[Jon Brint]]/ [[Nicklas Borneskog]] [[1995|-95]]|text=Halva leden välbultad, sista halvan egna säkringar. Ankaret finns en bra bit ut till vänster förbi den lilla tallen. Det finns även en kilsäkrad utstegsvariant med samma grad som går rakt upp i slutet, gjord av Andreas Harne i sept 2011. Ett ordentligt firningsankare ska sättas på varianten, i dag sitter en ensam bult där.}}
+|}
+
+
+[[Bild:Bistaberget-leder-3.jpg]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=24|namn=Sprattelgubben|grad=7a|typ=sport|fa=[[Andreas Harne]][[2003|-03]]}}
+
+{{led|nr=25|namn=Dörrterror|grad=7b |typ=sport|fa=[[Stefan Lindblom]][[2003|-03]]}}
+
+{{led|nr=26|namn=Anarkisten Direkt|grad=7b |typ=sport|fa=[[Andreas Harne]][[2005|-05]]
+|text=Graden är omdiskuterad. I föraren står den som 7b+, vilket är mycket generöst. Många tycker den snarare är 7a+.}}
+
+{{led|nr=27|namn=Ättestupan|grad=5b|typ=sport|fa=[[Andreas Harne]] [[2003|-03]]|betyg=3|text=Trevlig, välbultad led (förutom insteget). För graden exponerad och fin klättring.}}
+
+{{led|nr=28|namn=Våga lite mer|grad=6a|betyg=3|typ=mix|fa=[[Niclas Amloh]][[1991|-91]]|text=Mycket fint, kilsäkrat utsteg. Går på stora grepp upp i den tydliga sprickan.}}
+
+| width="300px" |
+
+{{led|nr=29|namn=Anarkisten|grad=6b+|typ=sport|fa=[[Andreas Harne]][[1994|-94]]|betyg=3|text=Börja i Ättestupan, gå sen rakt upp vid "taket". Följer den lodräta sprickan rakt upp, bygg ankare i tallen. Suverän, ihållande klättring.}}
+
+{{led|nr=29a|namn=Dystopia|grad=7a+|typ=sport|fa=[[Andreas Harne]][[2010|-10]]|betyg=2|text=Börja i Ättestupan, men gå omedelbart spikrakt upp och in i Lilla flickan zombie. Riktigt häftiga positioner.}}
+
+{{led|nr=30|namn=Lilla flickan zombie|grad=7a |typ=sport|fa=[[Stefan Lindblom]][[2000|-00]]}}
+|}
+
+[[Bild:Bistaberget-leder-4.jpg]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=31|namn=Likplundraren|grad=6c+ |typ=sport|fa=[[Stefan Lindblom]][[2004|-04]]}}
+
+{{led|nr=32|namn=Mörkrets riddare|grad=6b+|typ=trad|fa=[[Andreas Harne]][[2002|-02]]}}
+
+{{led|nr=33|namn=Parkering förbjuden|grad=6a|typ=trad|fa=[[Andreas Harne]][[1994|-94]]|text=Den extremt tydliga och stora sprickan. Inte så lätt som den ser ut, dessutom ganska mossig.}}
+
+{{led|nr=34|namn=Via Veterano|grad=6b |typ=sport|fa=[[Andreas Harne]][[2002|-02]]}}
+
+{{led|nr=35|namn=Los Suecos borrachos y un coche|grad=6a+ |typ=sport|fa=[[Andreas Harne]][[2002|-02]]|betyg=1|text=Lite fingrigt och pilligt på för berget ganska annorlunda klippa; eroderad, skrovlig och kalkstenslik.}}
+
+{{led|nr=36|namn=En glad bastard|grad=6b+ |typ=sport|fa=[[Andreas Harne]][[2003|-03]]}}
+
+{{led|nr=37|namn=Quasimodo|grad=6b+ |typ=sport|fa=[[Andreas Harne]][[2003|-03]]}}
+
+| width="300px" |
+
+{{led|nr=38|namn=L'Homme mort|grad=7b+ |typ=sport|fa=[[Robin Dahlberg]][[2006|-06]]}}
+
+{{led|nr=39|namn=Prästens irrfärd|grad=7a |typ=sport|fa=[[Andreas Harne]][[2005|-05]]}}
+
+{{led|nr=40|namn=Resningen|grad=6a+ |typ=sport|fa=[[J. Brint/ J. Falkestedt]]}}
+
+{{led|nr=41|namn=Älskade desperado|grad=7b |typ=sport|fa=[[Andreas Harne]][[2004|-04]]}}
+
+{{led|nr=42|namn=Moonwalker|grad=8a|typ=sport|fa=[[Scott Mooney]]-2011|text=Södermanlands första 8a}}
+
+{{led|nr=43|namn=Aerodynamex|grad=7a |typ=sport|fa=[[Jonas Franzen]]/ [[Andreas Harne]][[2004|-04]]}}
+
+{{led|nr=44|namn=Rigor mortis|grad=7a |typ=sport|fa=[[Andreas Harne]]/ [[Jonas Franzen]][[2004|-04]]}}
+
+{{led|nr=45|namn=Kampen mot Mars|grad=7b |typ=trad|fa=[[Jonas Franzen]][[2004|-04]]}}
+|}
+
+==Övre väggen==
+
+{{led|nr=45|namn=Bullen|grad=4a |typ=sport|fa=[[Niclas Amloh]][[1991|-91]]}}
+
+{{led|nr=46|namn=Diedern|grad=5a |typ=sport|fa=[[Andreas Harne]][[1993|-93]]}}
+
+{{led|nr=47|namn=Lilla My|grad=5c |typ=sport|fa=[[Daniel Eriksson]][[1993|-93]]}}
+
+{{led|nr=48|namn=Råttan|grad=5b |typ=sport|fa=[[Andreas Harne]][[1993|-93]]}}
+
+
+==Länkar==
+Här finns en förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+{{tryckt förare|klättring i södermanland (2006)=ja}}
+
+[[kategori:Nyköping]]
+[[kategori:Södermanland]]
+[[Kategori:Vertikalt]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]

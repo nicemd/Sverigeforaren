@@ -1,0 +1,78 @@
+{{info klippa
+  |lat=59.308599
+  |long=18.426105
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{boulderkomplett}}
+
+==Allmänt==
+Liten bouldervägg på Värmdö med en handfull fina problem. Se även [[Mölnvik]]
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.315236" lon="18.420982" type="map" zoom="13">
+59.308599, 18.426105
+</googlemap>
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Väg 222 värmdöleden.
+
+Vänster i stora Mölnviks-rondellen, sedan vänster igen mot Bygg-Ole. Vänster i pytte-rondellen och under motorvägen. Parkera vid brukshundklubben.  
+Fortsätt sedan asfaltsvägen till fots (ca 150 m) tills du har en äng på vänster sida. Korsa ängen så kommer du fram till väggen.
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Boulderproblem==
+Sittstart på samtliga problem
+
+[[Bild:dogbone1.jpg|300px]]
+{{problem|nr=röd|namn=1|grad=6a|fa=|text=Aretens vänstra sida}}
+{{problem|nr=blå|namn=2|grad=6a|fa=|text=Areten rakt upp}}
+{{problem|nr=grön|namn=Lifsens rot|grad=7B+|fa= Fredrik Andersson|text=Bakom eken,stå start via en bra pinch, kanske liten list till ett mycket slopigt utsteg. 
+Finns ett till projekt på högra sidan av eken}}
+
+[[Bild:dogbone2.jpg|300px]]
+{{problem|nr=grön|namn=Salad fingers|grad=6b|fa=Stefan Kolmodin|text=Till vänster om tallen, rakt upp}}
+{{problem|nr=röd|namn=Bondesökerfru|grad=6a+|fa=Stefan Kolmodin|text=Samma start, upp till höger}}
+{{problem|nr=blå|namn=Lussekatten|grad=7b|fa=Fredrik Sydstrand|text=Till höger om tallen. vänster hand på crimp, höger hand i gaston}}
+
+
+[[Bild:dogbone3.jpg|300px]]
+{{problem|nr=blå|namn=The Thing|grad=6b+|fa=Moritz Kiewitt|text=-etablerad start. Vänster hand sidotag och höger hand på bra crimp sedan upp och lätt till vänster. Sittstarten blir ng annat (bara ett/två move till etablerad start). OBS:Morpho,är man lång går det nog att nå etablerad start grepp.}}
+{{problem|nr=|namn=OddJobb|grad=6a|fa=Moritz Kiewitt|text=Projekt bakom björken, sittstart till vänster om den tydliga rampen, kroppstungt pga trångt bakom björken i starten,start syns på bilden ovan, sedan till rampen och lätt åt höger}}
+
+[[Bild:dogbone4.jpg|300px]]
+{{problem|nr=|namn=En sälsam historia|grad=5c|fa=Erik Hagelin|text=problemet längst till höger. Startar på stor jug.}}
+
+
+'''Klippan 50m bakom dog rock'''
+
+{{problem|nr=|namn=Glöggparty|grad=7a|fa=Fredrik Sydstrand|text=Start i tydliga startgrepp, rakt upp till läppen och sedan trv till vänster, utsteg i slopig groove}}
+Det finns ett projekt på samma sten med insteg ifrån vänster med samma utsteg ca. 7B+ och ytterligare ett projekt till höger om Glöggparty (samma startgrepp).
+
+Det finns en till liten vägg mot vattnet, samt flera problem i skogen..mest gjort av Trevor
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]] 
+[[Kategori:överhäng]] 
+
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Stockholm]]
+[[Kategori:Nacka-Värmdö]]

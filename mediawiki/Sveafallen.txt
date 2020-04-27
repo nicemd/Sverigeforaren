@@ -1,0 +1,159 @@
+{{info klippa
+  |lat=59.221813
+  |long=14.43552
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{komplett}}
+
+==Allmänt==
+Sveafallen är ett naturreservat i närheten av Degerfors mellan Värmland och Närke med relativt lång klätterhistoria. 30-40 leder på 6-15 meters höjd. Observera accessreglerna!
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.26974" lon="14.443588" type="map" zoom="11">
+59.221813, 14.43552, Sveafallen
+</googlemap>
+
+</div>
+
+Utgå från kartan. Parkering sker vid järnvägen precis vid ingången till naturreservatet vid dess nordligaste punkt. Följ den tydliga preparerade stigen. 3 minuters promenad från parkering. 
+
+
+<div style="clear:both"></div>
+
+{{sidbrytning}}
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Access== 
+
+Information från Länsstyrelsen: 
+
+Huvudanledningen med naturreservatet är att beskydda de unika geologiska bildningarna. All åverkan på berget är förbjuden, även islagning av klätterbultar etc. Klätteverksamheten har tillkommit på eget initiativ och har ingen förankring till syftet med reservatet. Länsstyrelsen har dock konstaterat att verksamheten som den hittills bedrivits inte strider mot föreskrifterna för reservatet. 
+Varning: Bergsklättring kan innebära fara för utövaren. Förvaltaren av reservatet tar inte ansvar för eventuella personskador i samband med klättring. All klättring sker därför på egen risk. 
+
+{{AccessDB|klippa=sveafallen}}
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+===Vänsterdelen===
+
+
+{{led | nr=1 | namn=Missfostret / Överhänget I | grad=7- | längd= | betyg= | typ=topprep | bultar= | fa= | text= }}
+
+{{led | nr=2 | namn=Embryo / Överhänget II | grad=7- | längd= | betyg= | typ=topprep | bultar= | fa= | text= }}
+
+{{led | nr=3 | namn=Tango | grad=6b (6+) | längd= | betyg= | typ=sport | bultar= | fa= | text= }}
+
+{{led | nr=4 | namn=Anders Omöjliga | grad=5 | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=5 | namn=Wide & Open | grad=5+ | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=6 | namn=Master Blaster | grad=7a+ (7+) | längd=9? | betyg=2 | typ=sport | bultar= | fa= | text=Populär tur vars insteg hittas upp åt vänster från blocket vid fikaplatsen. På topon ser den svaig ut, men denna sektion är överhängande. Något långa sträckningar mellan mindre flak och crimpar. Cruxet kommer så småningom. Rekommenderas.}}
+
+{{led | nr=7 | namn=Stora kaminen | grad=3 | längd= | betyg= | typ=trad | bultar= | fa= | text=Tydlig kamin som uppenbarar sig först när man kommer närmare berget }}
+
+{{led | nr=8 | namn=Leifs platta | grad=3 | längd= | betyg= | typ=trad | bultar= | fa= | text=Börjar strax till höger om Stora kaminen, vik ut på plattan en bit upp och avsluta i nästa tydliga hörn. }}
+
+{{led | nr=9 | namn=Diabolisk illution. | grad=6c (6+/7-) | längd= | betyg= | typ=sport | bultar= | fa= | text= }}
+
+{{led | nr=10 | namn=Olles träkil | grad=5 | längd= | betyg= | typ=trad | bultar= | fa= | text=Namnet lär komma från förstabestigaren användande av egentillverkade och inhamrade träkilar vid förstabestigning. }}
+
+{{led | nr=11 | namn=Dremscape | grad=6- | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=12 | namn=Franssons frustrationer | grad=6b+ (6+) | längd= | betyg= | typ=sport | bultar= | fa= | text= }}
+
+{{led | nr=13 | namn=Le defi | grad=6c+ (7-/7) | längd= | betyg= | typ=sport | bultar= | fa= | text= }}
+
+{{led | nr=13a | namn=Le defi | grad=5- | längd= | betyg= | typ= | bultar= | fa= | text=alternativinsteg via rampen högre upp.}}
+
+{{led | nr=14 | namn=Kreations kollaps | grad=6a+ (6) | längd=8 | betyg=1 | typ=sport | bultar=3 | fa= | text=Lite sökt start. Därefter fin klättring lite sicksack uppåt via ok crimplister och 2-3 fingershål. Går också att börja nedanför rampen/rutschbanan för ytterligare några höjdmeter. 1 pitong och kanske något eget blir din säkring i så fall. }}
+
+{{led | nr=15 | namn=Rutschbanan | grad=4- | längd=15 | betyg=2 | typ=trad | bultar= | fa= | text=Fin enkel klättring uppför stora svaformationen som blir brantare ju högre man kommer. Stor tydlig spricka i diedret hela vägen som sväljer många stabila säkringar. Väldigt fin för sin grad och lämplig att använda för uppstigning för att sätta topp på de hårdare lederna. }}
+[[Bild:svea1.jpg|thumb|700px|center]]
+===Högerdelen===
+
+{{led | nr=16 | namn=Direttissiman | grad=5- | längd=14 | betyg=2 | typ=trad | bultar= | fa= | text=Utan tvekan en av bergets mest klättrade leder. Varierad klättring. Lite glest med säkringar innan man nått något över halva leden. Undivk att falla. Fina grepp där man förväntar sig och hyllor för total vila ger den låga graden. }}
+
+{{led | nr=17 | namn=Kall kristall | grad=5 | längd=15 | betyg= | typ=trad | bultar= | fa= | text=Gemensamt utsteg med direttissiman }}
+
+{{led | nr=18 | namn=Lilla Laybacken | grad=4+ | längd= | betyg= | typ=trad | bultar= | fa= | text=Text }}
+
+{{led | nr=18a | namn=Tripp Trapp Trull | grad=6 | längd= 12 | betyg= | typ=trad | bultar= | fa= Peter Bloom, Maud Ekbom| text= Kanske variant/kombination av tidigare gamla leder. Börjar vid samma dieder som led 18, men fortsätter rakt upp genom det lilla taket 2,5 m upp, förbi det lilla högervända diedret och upp på pinackeln på flaket. Korsa led 18 och klättra rakt upp med sikte på högsta punkten på nästa sektionen. För en finare klätteruplevelse eliminera att sätta fötterna på resten av flaket till höger, som hör till led 18. Upp på hyllan och ta något steg vänster, sedan rakt upp på den lätt överhängande sektionen. Något glest och svårsäkrad mittsektion. Risk för fall i hyllan på sista sektionen.}}
+
+{{led | nr=19 | namn=Shoot to thrill | grad=7b+ (8-)| längd= | betyg= | typ=sport | bultar= | fa= | text= }}
+
+{{led | nr=20 | namn=... in Bagdad cafe | grad=7c+ (8) | längd= | betyg= | typ=sport | bultar= | fa= | text=Crimpigt om minnet inte sviker }}
+
+{{led | nr=21 | namn=J.K | grad=4+ | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=22 | namn=Leverantör | grad=5- | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=23 | namn=Ocaen of emotions | grad=7 | längd=7 | betyg= | typ=trad | bultar= | fa= | text= Kort och intensiv }}
+
+{{led | nr=24 | namn=Magistral mystik | grad=7b+ (8-) | längd=7 | betyg= | typ=sport | bultar=3? | fa= | text=Kort och mycket intensiv. Börjar högst upp på hyllan. Lurigt krux 2/3 upp.}}
+
+{{led | nr=25 | namn=Nasty little climb | grad=8 | längd= | betyg= | typ=topprep | bultar= | fa= | text=någon som gjort den 'på riktigt'? }}
+
+{{led | nr=26 | namn=Mosquito | grad=5+ | längd= | betyg= | typ=trad | bultar= | fa= | text=Spricksystemet till vänster om trädet }}
+
+{{led | nr=27 | namn=Inferno | grad=6- | längd= | betyg= | typ=trad | bultar= | fa= | text=Börjar strax till höger om trädet. }}
+
+{{led | nr=28 | namn=Mental istid | grad=6- | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=29 | namn=Do it lake a lady | grad=7a+ (7+) | längd= | betyg= | typ=sport | bultar= | fa= | text= }}
+
+{{led | nr=30 | namn=Hatthyllan | grad=4+ | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=31 | namn=Enhörningen | grad=6- | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=32 | namn=Domen | grad=6+ | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=32a | namn=Domen | grad=6 | längd= | betyg= | typ=trad | bultar= | fa= | text=alternativutsteg }}
+
+{{led | nr=33 | namn=Pride | grad=6 | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=34 | namn=Kaminen | grad=3 | längd= | betyg= | typ=trad | bultar= | fa= | text= }}
+
+{{led | nr=35 | namn=Florida or bust | grad=7+ | längd= | betyg= | typ=topprep | bultar= | fa= | text= }}
+[[Bild:svea2.jpg|thumb|700px|center]]
+{{sidbrytning}}
+
+==Övrigt==
+
+
+Här hoppas vi att mer information om Sveafallen löpande kan läggas in. Såsom dess historia. Vem slog i pitongerna? Vad var ursprungsnamnen på lederna osv. Vet du detta så fyll gärna i. 
+
+
+Förare finns placerad på informationsskylt vid fikaplatsen. 
+
+
+Berget får sol på morgonen och förmiddagen. Efter lunch försvinner den bortom träden. 
+Mer än en solig vinterförmiddag har spenderats på väggen. Trots is och snöfritt på väggen, så kan det ta lång tid innan marken nedanför berget torkar upp ordentligt. Vår och höstvattnet gör att vissa leder bäst säkras i gummistövlar eller (i extremfall) liten båt. Gäller framförallt lederna 17-20 och 26-35
+
+
+Naturreservatet hyser också X antal (50-tal?) mer eller mindre intressanta boulderblock. Några intressanta sådana syns tydligt från klätterklippan(s topp). Oklart vilken omfattning dessa har klättrats på. De med mer information får gärna bidra. 
+
+
+Det ska finnas ett par linjer till på berget som än så länge inte är med bland ovan. Dessa är signerade Johan Luhr och ska enligt ryktet vara korta, hårda, oetiska och oestetiska. 
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]] 
+[[Kategori:trad]] 
+[[Kategori:mix]] 
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+[[kategori:Värmland]]

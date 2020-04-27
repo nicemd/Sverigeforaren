@@ -1,0 +1,92 @@
+{{info boulderområde
+  |lat= 63.77035
+  |long=20.092964
+}}
+
+=Allmänt=
+Boulderområde med omväxlande klättring på granit. Området utvecklades under hemlighet sommaren 2004 till bouldertävlingen SBO 2004 av Dag Knutsson, Urban Duva, Johannes Nilsson, Pär Lindholm, Henke Johansson,  Johan Nordlund, Johan Hagberg, och Calle Olsson. 
+
+=Vägbeskrivning=
+<googlemap version="0.9" lat="63.783851" lon="20.089531" type="map">
+Skravel 2, parkeringen
+63.77035, 20.092964
+</googlemap>
+Från Umeå C: Kör Gräsmyrsvägen förbi Röbäck. Passera byn Skravelsjö. Ta av till vänster på en liten skogsväg 4 km efter byn Skravelsjö. Tag vänster i första Y-korsningen efter 200 m. Vänd bilen på vändplan drygt 1 km från stora vägen och kör tillbaka 100 meter. Följ hyggeskanten upp mot stenhällarna och följ stigen upp till området (ungefär 500 meter). 
+
+Från Skravel. Gå rakt ner från problemet Motorsågsmassakern. Ungefär 500 meter.
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Lina II|grad=5A|typ=|fa=N Melander & P Molin|landning=3|fadatum=2004-09-20|sopad=N Melander & P Molin|text=Följ de borstade greppen på hörnet som är till vänster om nr:28.}}
+{{problem|namn=Sneakattack|grad=6C|typ=Slopers,Aréte,Reach|fa=Jakob B + Hasse S|landning=1|betyg=1|fadatum=2005-04-16|sopad=Jakob B + Hasse S|sittstart=ja|startgrepp=ja|text=Går mellan #31 och #32. Sittstart under aréten i två vitmarkerade koppar. Skicka till näsan och sen vidare längs arétet.}}
+{{problem|namn=Gollum|grad=7A+|typ=Aréte,Travers H->V,Heel hook|fa=CC|landning=1|betyg=1|fadatum=2005-09-17|sopad=CC|sittstart=ja|text=Låga traversen på Softish-stenen, till vänster om "Achtung panzer!". Börja med båda händer i lodräta sprickan, traversera sedan til vänster och avsluta uppför arêten.}}
+{{problem|nr=1|namn=År av tvåsamhet|grad=3B|typ=Jug|fa=SBO-crew|landning=2|sopad=SBO-crew|text=Stora grepp, små fotsteg.}}
+{{problem|nr=2|namn=Razors Edge|grad=7A|typ=Krimp,Dyno|fa=SBO-crew|landning=2|sopad=SBO-crew|text=}}
+{{problem|nr=3|namn=Bizarre|grad=6C+|typ=Krimp,Reach,Heel hook|fa=SBOCrew|landning=5|sopad=SBOCrew|sittstart=ja|text=Barsk sittstart i hörnet av stenen. Betydligt jävligare än den ser ut men förhållandevis goa grepp finns. Akta så du inte slår i ryggen i stenen.}}
+{{problem|nr=4|namn=The Cage|grad=6C+|typ=Krimp,Slopers,Spricka|fa=SBO-crew|landning=2|fadatum=2004-09-03|sopad=SBO-crew|startgrepp=ja|text=Kom ihåg: ETABLERAD start.}}
+{{problem|nr=5|namn=Battlezone|grad=7A|typ=Slopers|fa=SBO-crew|landning=3|sopad=SBO-crew|uteslutningar=ja|text=Sprickan till höger är utesluten. Etablerad start, gott folk!}}
+{{problem|nr=6|namn=Mobilization|grad=7A|typ=Slopers,Aréte|fa=SBO-crew|landning=3|betyg=3|sopad=SBO-crew|text=Sug tag i crimp/sidepull och arêtet och sen fri fart/teknik till topps. Väldigt publikvänligt problem.}}
+{{problem|nr=7|namn=The Thing That Should Not Be|grad=7B|typ=Krimp,Slopers,Överhäng|fa=SBO-crew|landning=2|betyg=2|sopad=SBO-crew|startgrepp=ja|text=Startgrepp, gå upp åt höger.}}
+{{problem|nr=7|namn=Era|grad=8B|typ=Krimp,Slopers,Överhäng|fa=Per Lindmark|landning=2|betyg=|sopad=SBO-crew|startgrepp=ja|sittstart=ja|text=Sittstarten till {{ledlänk|namn=The Thing That Should Not Be}}}}
+{{problem|nr=8|namn=Kunoichi|grad=7A+|typ=Krimp,Slopers,Överhäng|fa=SBO-crew|landning=3|betyg=3|sopad=SBO-crew|startgrepp=ja|text=Kunoichi = Female Ninja. Starta i startgreppen och vålda dig upp på bästa sätt. Spektakulära fall har förekommit.}}
+{{problem|nr=8|namn=The Four Noble Truths|grad=8A|typ=Överhäng|fa=TKAK crew & P.Lindmark|landning=2|betyg=3|fadatum=2007-04-28|sopad=TKAK crew & P.Lindmark|variant=ja|startgrepp=ja|uteslutningar=ja|text=Start på lägsta sidocrimpen på väggen och högerhand på areten i jämnhöjd. (Lågstart till Kunoichi).}}
+{{problem|nr=9|namn=Chingon|grad=6B|typ=Mantling|fa=SBO-crew|landning=3|sopad=SBO-crew|sittstart=ja|startgrepp=ja|text=}}
+{{problem|nr=10|namn=Softish|grad=5B|typ=Spricka|fa=SBO-crew|betyg=3|sopad=SBO-crew|sittstart=ja|startgrepp=ja|text=Starta sittande under taket. Hitta sedan startgreppen och njut av ett par meters rolig klättring.}}
+{{problem|nr=11|namn=Storhetsvansinnet|grad=6A|typ=Slopers,Aréte|fa=SBO-crew|landning=2|betyg=1|sopad=SBO-crew|text=}}
+{{problem|nr=12|namn=Conquest|grad=5C|typ=Krimp,Pinch,Aréte|fa=SBO-crew|sopad=SBO-crew|startgrepp=ja|text=Gå på vänster sida om aréten.}}
+{{problem|nr=13|namn=War|grad=6B+|typ=Krimp,Mantling,Reach|fa=SBO-crew|landning=3|sopad=SBO-crew|startgrepp=ja|text=Rakt upp vid siffran, går på väggen och varken ut till höger eller vänster arête, vilket är ganska givet när man ser den. Bänglig på sitt vis.}}
+{{problem|nr=14|namn=Death|grad=6A|typ=Krimp,Slopers|fa=SBO-crew|landning=3|betyg=1|sopad=SBO-crew|text=}}
+{{problem|nr=15|namn=Apocalyptica|grad=6C|typ=|fa=SBO-crew|landning=5|betyg=3|sopad=SBO-crew|text=Fall inte på toppen.}}
+| width="250px" |
+{{problem|nr=16|namn=Famine|grad=5B|typ=Krimp|fa=SBO-crew|landning=2|betyg=1|fadatum=2004-09-07|sopad=SBO-crew|uteslutningar=ja|text=Hyllan till höger utesluten.}}
+{{problem|nr=17|namn=Knuckle Sandwich|grad=5B|typ=Överhäng|fa=SBO-crew|landning=4|sopad=SBO-crew|sittstart=ja|startgrepp=ja|text=Klurigt att inte ta i stenen bakom.}}
+{{problem|nr=18|namn=Gecko|grad=5C|typ=Krimp|fa=SBO-crew|landning=2|sopad=SBO-crew|sittstart=ja|text=}}
+{{problem|nr=19|namn=Excelsior|grad=5C|typ=Slab|fa=SBO-crew|betyg=1|fadatum=2004-09-07|sopad=SBO-crew|uteslutningar=ja|text=Aréterna uteslutna, även på toppen! (Glöm juggen till höger!) Landningen är underbar om man inte studsar ner i hålet, då är den rent dålig.}}
+{{problem|nr=20|namn=Chinook|grad=5B|typ=Slopers,Mantling|fa=SBO-crew|landning=3|sopad=SBO-crew|sittstart=ja|startgrepp=ja|text=Lågt men fint.}}
+{{problem|nr=22|namn=Starchip Troopers|grad=7B+|typ=Dyno|fa=SBO-crew|landning=2|betyg=3|sopad=SBO-crew|text=Umeås Hale-Bop.}}
+{{problem|nr=23|namn=Dragonov|grad=6A+|typ=Krimp|fa=SBO-crew|landning=2|sopad=SBO-crew|startgrepp=ja|text=Släng på paddor tills du når startgreppen.}}
+{{problem|nr=24|namn=Cobra|grad=3B|typ=Krimp,Aréte|fa=SBO-crew|landning=2|sopad=SBO-crew|uteslutningar=ja|text=Följ sprickan samt aretet till vänster om borr-hålet till toppen.}}
+{{problem|nr=25|namn=Roast Fish and Corn Bread|grad=6A+|typ=Slopers|fa=SBO-Crew|landning=3|betyg=2|fadatum=2004-09-06|sopad=SBO-Crew|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Oborstade stenen till hö. utesluten.}}
+{{problem|nr=26|namn=No Remorce|grad=7A+|typ=Slopers,Reach|fa=SBO-Crew|landning=2|betyg=2|sopad=SBO-Crew|uteslutningar=ja|text=Arete uteslutet}}
+{{problem|nr=27|namn=Acies|grad=4C|typ=Krimp|fa=SBO-Crew|landning=2|fadatum=2004-09-06|sopad=SBO-Crew|startgrepp=ja|text=Starta i krimplisten, etablera och sen upp.}}
+{{problem|nr=28|namn=Soldier 4 sale|grad=3A|typ=Jug|fa=SBO-Crew|landning=2|fadatum=2004-09-21|sopad=SBO-Crew|text=Rakt upp via alla goa grepp och få flytt till kanten}}
+{{problem|nr=29|namn=Vietcong|grad=3A|typ=|fa=SBO-Crew|landning=3|fadatum=2004-09-06|sopad=SBO-Crew|text=Upp till kanten... sug tag i nåt bra grepp och trampa upp}}
+{{problem|nr=30|namn=Easy Company|grad=5A|typ=Aréte|fa=SBO-Crew|landning=2|betyg=1|fadatum=2004-09-06|sopad=SBO-Crew|text=Upp lite till höger på aretet.}}
+{{problem|nr=31|namn=Baklast|grad=6A|typ=|fa=SBO-Crew|landning=2|fadatum=2004-09-09|sopad=SBO-Crew|sittstart=ja|text=Sug tag i dom bra greppen och häv dig upp, bökig...}}
+{{problem|nr=32|namn=Twister|grad=6A+|typ=Slopers,Reach,Jug|fa=SBO-Crew|landning=3|betyg=2|fadatum=2004-09-06|sopad=SBO-Crew|sittstart=ja|startgrepp=ja|text=Starta i givet (markerat) grepp och skicka sen ut mot arêtet. Sköna rörelser och sköna grepp!}}
+{{problem|nr=33|namn=Gatling|grad=5C|typ=Mantling|fa=SBO-Crew|landning=1|betyg=1|fadatum=2004-09-06|sopad=SBO-Crew|startgrepp=ja|text=Starta hängande i "läppen" och mantla sedan upp.}}
+{{problem|nr=35|namn=Dr Kosovo-Alban|grad=5A|typ=Mantling,Jug,Spricka|fa=SBO-crew|landning=2|betyg=1|sopad=SBO-crew|text=}}
+{{problem|nr=36|namn=Swedish Freakdance|grad=5B|typ=Mantling,Reach|fa=SBO-crew|landning=2|sopad=SBO-crew|uteslutningar=ja|text=Gå exakt rakt upp, allt ut mot aréten är uteslutet. Mycket svår för korta.}}
+{{problem|nr=37|namn=YO! Sushi|grad=4A|typ=Mantling|fa=SBO-crew|landning=3|betyg=1|sopad=SBO-crew|sittstart=ja|uteslutningar=ja|text=Håll dig till vänster om aréten.}}
+{{problem|nr=38|namn=Nori Maki|grad=3A|typ=Aréte|fa=SBO-crew|landning=2|betyg=1|sopad=SBO-crew|text=Lätt, fint och helt givet.}}
+| width="250px" |
+{{problem|nr=39|namn=Nigiri|grad=3B|typ=Mantling,Jug|fa=SBO-crew|landning=2|sopad=SBO-crew|text=}}
+{{problem|nr=40|namn=Saké|grad=4B|typ=Krimp,Slopers|fa=SBO-crew|landning=2|betyg=1|sopad=SBO-crew|text=}}
+{{problem|nr=41|namn=Carpathia|grad=5B|typ=Slab|fa=SBO-crew|landning=2|betyg=2|sopad=SBO-crew|text=}}
+{{problem|nr=42|namn=Camp Killyourself|grad=7A+|typ=Krimp,Reach,Heel hook|fa=SBOCrew-04 feat. Dj Harley D & Conny D|landning=3|betyg=1|fadatum=2004-09-07|sopad=SBOCrew-04 feat. Dj Harley D & Conny D|startgrepp=ja|uteslutningar=ja|text=Startar på "skeppets" vänstra sida i en given list, sen skicka rakt upp och ja, gör som du vill till kanten. De 2 mindre fastklämda stenarna under är uteslutna. Ska försöka avlägsna dessa för att slippa uteslutningar helt.}}
+{{problem|nr=43|namn=Blitzkrieg|grad=6B+|typ=Slopers,Aréte,Reach|fa=SBO-crew|landning=3|betyg=3|sopad=SBO-crew|text=Hoppstart ENDAST om du inte når upp till läppen, inga dubbla paddor -"if ya want a 6B+ tick!".}}
+{{problem|nr=43|namn=Björnkram|grad=7A+|typ=Överhäng|fa=Jonas W + TKAK|landning=4|betyg=3|fadatum=2004-09-25|sopad=Jonas W + TKAK|variant=ja|startgrepp=ja|text=Lägre start till Blitzkrieg, starta under taket från de märkta greppen. Ett av Jonas finaste problem.}}
+{{problem|nr=43|namn=Björnkram ss|grad=7C+|typ=Överhäng,Heel hook|fa=Peter Lindmark|landning=2|betyg=2|sopad=Peter Lindmark|sittstart=ja|variant=ja|startgrepp=ja|text=Startar som #42 "Camp Kill Yourself" och går ut i Björnkram. Stenskivorna som sticker ut under taket är rimligtvis lika uteslutna på denna som på "Camp Kill Yourself".}}
+{{problem|nr=44|namn=Välbyggd|grad=4C|typ=Krimp,Slab|fa=SBO-crew|landning=2|sopad=SBO-crew|text=}}
+{{problem|nr=45|namn=Illbatting|grad=4B|typ=Mantling,Jug|fa=SBO-crew|landning=2|sopad=SBO-crew|sittstart=ja|text=}}
+{{problem|nr=46|namn=Tjejkompis|grad=5B|typ=Krimp,Aréte|fa=SBO-crew|landning=2|betyg=2|sopad=SBO-crew|uteslutningar=ja|text=Sköna väggmove med en fin aréte att jobba. Använd inte väggen till vänster.}}
+{{problem|nr=47|namn=Equinox|grad=5C|typ=Krimp,Mantling|fa=SBO-crew|landning=2|sopad=SBO-crew|sittstart=ja|startgrepp=ja|text=}}
+{{problem|nr=48|namn=Calm Like A Bomb|grad=5B|typ=Slopers,Aréte|fa=SBO-crew|landning=5|betyg=2|sopad=SBO-crew|text=Följ aréten upp åt höger.}}
+{{problem|nr=49|namn=Impediment|grad=5B|typ=Krimp,Mantling,Aréte|fa=SBO-crew|landning=4|sopad=SBO-crew|uteslutningar=ja|text=Kliv inte på hyllan till höger.}}
+{{problem|nr=50|namn=Kharkov|grad=3C|typ=|fa=SBO-crew|landning=4|sopad=SBO-crew|text=Starta i gropen.}}
+{{problem|nr=51|namn=Just Follow The Dick|grad=6A+|typ=Slopers,Travers H->V|fa=SBO-crew|landning=4|sopad=SBO-crew|sittstart=ja|text=Häng in längst till höger och gå sedan upp åt vänster.}}
+{{problem|nr=52|namn=Evolution Quest|grad=6C|typ=Slopers,Aréte|fa=SBO-crew|landning=4|betyg=2|sopad=SBO-crew|startgrepp=ja|text=Kan vara bra med en extra padda på kanten till höger plus en hyffsat aktiv spotter.}}
+{{problem|nr=53|namn=Trotyl|grad=3B|typ=|fa=SBO-crew|landning=3|sopad=SBO-crew|text=}}
+{{problem|nr=54|namn=Pentyl|grad=3C|typ=|fa=SBO-crew|landning=3|sopad=SBO-crew|text=}}
+{{problem|nr=55|namn=No Retreat, No Surrender|grad=5C|typ=Slab|fa=SBO-crew|landning=5|betyg=1|sopad=SBO-crew|text=Sjysst slab där du inte ska glida av vid toppen.}}
+{{problem|nr=57|namn=Achtung-Panzer!|grad=7A+|typ=Aréte|fa=Jonas W + TKAK|landning=3|fadatum=2004-09-29|sopad=Jonas W + TKAK|text=Arêtet till vänster om Mobilization och Starchip. Klättras på högra sidan.}}
+|}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

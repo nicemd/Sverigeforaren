@@ -1,0 +1,236 @@
+{{info klippa
+  |lat=59.04167
+  |long=17.74909
+}}
+
+{{komplett}}
+==Allmänt==
+Mycket populär klippa som bitvis påminner om ett klättergym, både vad gäller antal besökare, antal leder, ledtäthet och antal topprep. Men med flera fina leder och suveränt läge ändå en pärla.
+
+==Beskrivning==
+Vårdberget ligger på Sorundas branta västkust, ca 2,5 km SV om [[Grönbrinksberget]]. Från vårdkasen på bergets topp har man en vidsträckt utsikt över Himmerfjärden med Mörkö på andra sidan. Vårdkasen är autentisk och en föregångare brann säkert här redan 1464, då Kristian I landsteg vid Fituna för att tåga mot Stockholm. 
+
+Väggen ligger i nästan rak västlig riktning från kasen. Det är en relativt liten klippvägg, ca 30 m lång och 10–15 m hög, men den är full av sprickor, små hyllor och små, fina grepp. Väggens grepprika natur gör att det går att göra leder i stort sett överallt vilket tyvärr också har skett! Det är delvis absurt tätt mellan lederna. 
+
+Vårdberget är en mycket populär klippa med ett suveränt läge. Här finns allt - små namnskyltar så att vi kan hitta fram till leden, fasta punkter för topprepssäkring, fasta rep vid nedstigningen, fastklistrade grepp, fasta säkringar på lederna m m. Är detta paradiset eller en klippa exploaterad till döds? Här finns ett 50-tal leder, alla på ren och fin klippa. Det går att klättra i stort sett överallt vilket gör att linjerna många gånger är odefinierade. Det finns dock ett antal riktigt fina leder.
+
+Berget passar även för den som vill ha barn med, antingen topprepandes på någon av lederna, eller kanske ännu mindre småttingar lekandes på den öppna ytan nedanför väggen. Bra korvgrillning och visst regnskydd. Bad i Himmerfjärden och utsikt över Skanssundet och Mörkö.
+
+Kan ibland vara rätt många kurser här, värt att kolla vart Frilufts ska om man vill vara ensam.
+
+==Access {{access}}==
+Marken kring Vårdberget har hittills tillhört stockholms stad, men är nu under försäljning. Det är därför läge att sköta sig extra bra.
+På sistone har det samlats stora mängder skräp kring den nedre parkeringen. Oavsett vem eller vilka som skräpat ned: ta med en extra sopsäck när du åker till vårdberget och plocka hem mer skräp än du burit ut.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=200 lat="59.047883397124735" lon="17.775707244873047" zoom="12" type="map" controls="small">
+59.04167,17.74909,[[Vårdberget]]
+59.043821856491654,17.745752334594727,Nedre parkering
+59.04333620537343,17.754764556884766,Övre parkering
+</googlemap>
+</div>
+
+Åk väg 225 från Vårsta mot Nynäshamn. Sväng av mot Fituna Gård, det är skyltat Fituna och Båttrailers. 1,5 km efter gården tar du andra skogsvägen till höger, denna är oftast inte utmärkt men ibland sitter det snitslar på träden vid avtagsvägen. Efter c.a 1.5 km kommer du till ett T-kors, det går att ta sig till klippan via båda vägarna. Antingen:
+* Sväng höger och kör längst vattnet till ett grustag där du kan parkera. Forsätt i vägens riktning på en stig ca 150 meter och ta vänster upp i skogen när stigen grenar sig. Du kommer till klippan ca 150 meter senare. Bra väg om du vill bada efteråt. Sedan våren 2012 sitter det en bom strax efter korsningen. Se till att det fortfarande går att komma förbi om ni parkerar i närheten av korsningen.
+Eller:
+* Sväng vänster och kör ca 900 meter upp för backen till en liten P-plats på höger sida. Där går en bred stig in i skogen mot Vårdkasen. Efter några hundra meter når du vårdkasen på toppen av berget, fortsätt sedan ned mot vattnet för att nå klippan. Bra väg om du vill se Vårdkasen och den helt fantastiska utsikten.
+
+<div class="noprint">
+[http://kartor.eniro.se/query?what=map&mapcomp=;;V%E5rdberget;VÃ¥rdberget;;;14896;NYNÃ„SHAMN;;;;;17.74811;59.04226;;;;;;&mapstate=8&uc=%3Ca%20href%3D%22http%3A//www.sverigeforaren.se/index.php/V%25C3%25A5rdberget%22%3ETillbaka%20till%20Sverigef%F6raren%3C/a%3E&imgmode=2 Karta på Eniro »]
+</div>
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Skiss==
+
+[[bild:Vårdbergspanorama_med_leder.jpg|700 px]] <BR>
+<I>Klicka på bilden för att se den i större format format.</I>
+
+Skiss och leder finns inramad på vindskyddet. För den som vill leda kan det vara bra att ta med utrustning för mixade leder, men annars är detta ett klassiskt toppreps/clogg berg. Ankare finns det gott om i form av järnöglor ovan utstegen - medtag gott om slingor och karbiner.
+
+Bilden tagen i april och visar att det torkar fort - på vissa delar - medan andra delar är desto envisare. Ett bra vårpremiärberg ändå, då det brukar kunna vara både lä och solsken vilket är tacksamt för den tidige vårklättraren.
+
+== '''Leder''' ==
+
+[[Bild:vb_karta.png|thumb|right|400px]]
+=== Svampväggen ===
+[[Bild:vb_svampvaggen.png|300px]]
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=1|namn=Stolt Fjällskivling|grad=3-|betyg=|längd=4|fa=[[Jan Mellring]][[1987|-87]]|bultar=|typ=|text=}}
+
+{{led|nr=2|namn=Murklan|grad=4-|betyg=|längd=5|fa=[[Jan Mellring]][[1987|-87]]|bultar=|typ=|text=}}
+
+{{led|nr=3|namn=Stensopp|grad=4+|betyg=|längd=6|fa=[[lars-Åke Svartz]], [[Jan Mellering]][[1987|-87]]|bultar=|typ=|text=}}
+
+{{led|nr=4|namn=Blodriska|grad=7-/7|betyg=|längd=6|fa=[[Lars-Åke Svartz]]. FF: [[Thomas Hansson]], [[Gary Hansson]][[1988|-88]]|bultar=|typ=|text=}}
+
+| width="300px" |
+
+{{led|nr=5|namn=Champinjon|grad=5+|betyg=|längd=6|fa=[[Jan Mellring]]. FF: [[David Fält]] [[1987|-87]]|bultar=|typ=|text=}}
+
+{{led|nr=6|namn=Falsk kantarell|grad=5+|betyg=|längd=5|fa=[[Lars-Åke Svartz]]. FF: [[Per-Elof Lidstrom]][[1987|-87]]|bultar=|typ=|text=}}
+
+{{led|nr=7|namn=Oxen|grad=5|betyg=|längd=7|fa=[[Börje Svedman]][[1995|-95]]|bultar=|typ=|text=}}
+|}
+
+{{sidbrytning}}
+=== Kaminväggen ===
+[[Bild:vb_terminator.png]]
+
+Mitt emot huvudväggen ligger en liten brant vägg. Den korta jamsprickan längst till vänster håller grad 5.
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=8|namn=Modesty|grad=6|betyg=|längd=|fa=[[Annika Ekwall]][[1992|-92]]|bultar=|typ=|text=}}
+
+{{led|nr=9|namn=Point Break|grad=6|betyg=|längd=|fa=[[Börje Svedman]]|bultar=2|typ=|text=}}
+
+{{led|nr=10|namn=Interceptor|grad=7|betyg=|längd=7|fa=[[Lars-Åke Svartz]]. FF: [[Thomas Hansson]], [[Gary Hansson]][[1988|-88]]|bultar=3|typ=mix|text=}}
+
+{{led|nr=11|namn=Tjock smock|grad=7+|betyg=|längd=7|fa=[[Johan Luhr]][[1989|-89]]|bultar=2|typ=|text=}}
+| width="300px" |
+{{led|nr=12|namn=Terminator|grad=7+|betyg=|längd=7|fa=[[Jakob Sjöstrand]], [[Birger Hedlund]], [[Daniel Bidner]][[1985|-85]]|bultar=|typ=|text=}}
+
+{{led|nr=13|namn=Regummerad gummianka|grad=7+/8-|betyg=|längd=7|fa=[[Thomas Hansson]][[1988|-88]]|bultar=1|typ=|text=}}
+
+{{led|nr=14|namn=Psykopaten|grad=7-|betyg=|längd=5|fa=[[David Fält]][[1988|-88]]|bultar=|typ=|text=}}
+|}
+
+{{sidbrytning}}
+
+=== Stora väggen ===
+[[Bild:vb_stora_vaggen.png]]
+
+Klippans finaste parti. Delvis löjligt tätt mellan lederna men det finns ett antal godbitar. 
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=15|namn=Point Black|grad=6+|betyg=|längd=10|fa=[[Thomas Hansson]], [[Gary Hansson]][[1985|-85]]|bultar=|typ=|text=}}
+
+{{led|nr=16|namn=Dr Hfuhruhurrs dilemma|grad=6-|betyg=|längd=|fa=[[Thomas Hansson]], [[Gary Hansson]][[1985|-85]]|bultar=|typ=|text=}}
+
+{{led|nr=17|namn=Pusselbiten|grad=7-/7|betyg=|längd=14|fa=[[Lars-Åke Svartz]][[1984|-84]]. FF: [[Thomas Hansson]], [[Gary Hansson]][[1985|-85]] |bultar=|typ=|text=}}
+
+{{led|nr=18|namn=I sista minuten|grad=5+|betyg=1|längd=14|fa=[[Jan Mellring]], [[Lars-Åke Svartz]][[1983|-83]]|text=Rejäl spricka, ganska välsäkrad med friends och några kilar. Tung i början.}}
+
+{{led|nr=19|namn=Lysmasksidyll|grad=7-|betyg=1|längd=14|fa=[[Lars-Åke Svartz]][[1983|-83]] FF: [[Birger Hedlund]][[1984|-84]]}}
+
+{{led|nr=20|namn=Rebel Yell|grad=6|betyg=|längd=14|fa=[[David Fält]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=21|namn=Julstämning|grad=6|betyg=|längd=12|fa=[[Jan Mellring]][[1983|-83]]. FF: [[Lars Svadängs]][[1984|-84]]|bultar=|typ=|text=}}
+
+{{led|nr=22|namn=Beatrice|grad=7|betyg=|längd=12|fa=[[David Fält]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=23|namn=Dolly|grad=6|längd=12|betyg=2|fa=[[Per-Olof Lidström]][[1983|-83]], FF: [[Jan Liliemark]], [[Claes Jelinek]], [[Ingemar Gustafsson]][[1984|-84]]}}
+
+{{led|nr=24|namn=Höstsol|betyg=1|grad=6|längd=12|fa=[[Roger Pyddoke]][[1983|-83]] FF: [[Jan Liliemark]], [[Claes Jelinek]], [[Ingemar Gustafsson]][[1984|-84]]}}
+
+| width="250px" |
+
+{{led|nr=25|namn=Hundratjugi|grad=7-|betyg=|längd=12|fa=[[Lars-Åke Svartz]], [[Per-Olof Lidström]][[1988|-88]]. FF: [[Per Willen]][[1995|-95]]|bultar=|typ=|text=}}
+
+{{led|nr=26|namn=Kuling|grad=5+|längd=12|fa=[[Lars-Åke Svartz]][[1984|-84]]. FF: [[Jan Liliemark]], [[Claes Jelinek]], [[Ingemar Gustafsson]][[1984|-84]]}}
+ 
+{{led|nr=27|namn=Sky hook|grad=6-|längd=12|fa=[[Lars-Åke Svartz]][[1985|-85]]. FF: [[Lars Svadängs]][[1987|-87]]}}
+
+{{led|nr=28|namn=Halvflint|grad=4|betyg=|längd=12|fa=[[Lars-Åke Svartz]], [[Jan Mellring]][[1983|-83]]|bultar=|typ=|text=}}
+
+{{led|nr=29|namn=Örnen|grad=6-|betyg=|längd=10|fa=[[Per-Elof Lidström]][[198?|-8?]]|bultar=|typ=|text=}}
+
+{{led|nr=30|namn=Natasja|grad=5+|betyg=|längd=10|fa=[[Roger Pyddoke]], [[Per-Elof Lidström]], [[Lars-Åke Svartz]][[1983|-83]]|bultar=|typ=|text=}}
+
+{{led|nr=31|namn=Rutger|grad=6|betyg=|längd=10|fa=[[Gunnar Woodsack]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=32|namn=Babianen|grad=5|längd=10|fa=[[Jan Mellring]], [[Lars-Åke Svartz]][[1983|-83]]|text=Tydlig, välsäkrad spricka. Layback mm.}}
+
+{{led|nr=33|namn=Action Directe|grad=6-|längd=10|betyg=1|fa=[[Mikael Sribbadung]], [[Lennart Swahn]], [[Tomas Weber]][[1986|-86]]|text=Tunn väggklättring. Högt till första bulten, en kil i början känns skönt. Lätt hänt att man "fuskar" med fingrar i närliggande leder. Även utan imponerande apindex nås både Babiananen och Björktrampet bekvämt, och det är INTE meningen. Övre halvan är mindre "trång".}}
+
+| width="250px" |
+
+{{led|nr=34|namn=Björktrampet|grad=5-|längd=10|fa=[[Lars-Åke Svartz]], [[Jan Mellring]][[1983|-83]]}}
+
+{{led|nr=35|namn=Bulttjuven|grad=5|längd=10|fa=[[Lars-Åke Svartz]], [[Jan Mellring]][[1983|-83]]|text=I huvudsak väggklättring, längs bl a fin spricka.}}
+
+{{led|nr=36|namn=Brevbäraren|grad=4+|längd=11|fa=[[Lars-Åke Svartz]], [[Jan Mellring]][[1983|-83]]|text=Ett antal brevlådor i början av leden lär vara anledning till lednamnet.}}
+
+{{led|nr=37|namn=Lönndomen|grad=3|15|fa=[[Lars-Åke Svartz]][[1983|-83]]|text=Stora grepp och steg, längs sprickor, delar utsteg med Brevbäraren. Perfekt för tradnybörjaren.}}
+
+{{led|nr=38|namn=Svarres häl|grad=4-|längd=10|fa=[[Lars-Åke Svartz]], [[Sam Westerholm]][[1984|-84]]}} 
+
+{{led|nr=39|namn=Nyckelpigan|grad=2+|betyg=|längd=10|fa=|bultar=|typ=|text=Nedstigningsled}}
+{{litentext|text=Det finns även en '''traversled''' över väggen:}}
+{{led|namn=Otroligt, det gick att klämma in en till!|grad=6|fa=[[Hasse Häggqvist]], [[Per Hansen]] [[1991|-91]]|text=Insteg i Brevbäraren, efter ett par meter svagt stigande travers åt vänster till Dolly som följs till toppen.}}
+|}
+
+{{sidbrytning}}
+
+=== Mellanväggen ===
+[[Bild:vb_mellanvaggen.png|350px]]
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=40|namn=Den vackra borrbulten|grad=7-|betyg=|längd=7|fa=[[David Fält]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=41|namn=Riddarbaggen|grad=5+|betyg=|längd=7|fa=[[Göran Eriksson]], [[Roger Pyddoke]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=42|namn=I was made for loving you|grad=8|betyg=|längd=7|fa=[[Lars-Åke Svartz]], [[Sam Westerholm]][[1985|-85]]. FF: [[Johan Luhr]], [[Rikard Hedman]][[1989|-89]]|bultar=|typ=|text=}}
+
+{{led|nr=43|namn=Prestationsångest|grad=7-|betyg=|längd=7|fa=[[David Fält]], [[Thomas Hansson]][[1988|-88]]|bultar=|typ=|text=}}
+| width="300px" |
+{{led|nr=44|namn=Krångel|grad=6|längd=7|fa=[[Thomas Hansson]], [[Gary Hansson]][[1985|-85]]|text=Brant i början, tunnare på slutet.}}
+
+{{led|nr=45|namn=Agent Orange|grad=6|betyg=|längd=7|fa=[[David Fält]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=46|namn=Femte februari|grad=3|betyg=|längd=7|fa=[[Daniel Flodin]], [[B Flodin]][[1989|-89]]|bultar=|typ=|text=}}
+
+{{led|nr=47|namn=Familjen Flodin|grad=3-|betyg=|längd=7|fa=[[ Daniel Flodin]], [[B Flodin]][[1989|-89]]|bultar=|typ=|text=}}
+|}
+
+=== Sams vägg ===
+[[Bild:vb_sams_vagg.png|250px]]
+
+Den sprickrika och mycket välrensade väggen längst bort th har fyra leder:
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=48|namn=Värksamheten|grad=5+|betyg=|längd=10|fa=[[Sam Westerholm]][[1984|-84]]|bultar=|typ=|text=}}
+
+{{led|nr=49|namn=Uppenbarelsen|grad=4|betyg=|längd=10|fa=[[Lars-Åke Svartz]], [[Sam Westerholm]][[1984|-84]]|bultar=|typ=|text=}}
+
+{{led|nr=50|namn=Tveksamheten|grad=4|betyg=|längd=10|fa=[[Sam Westerholm]], [[Lars-Åke Svartz]][[1984|-84]]|bultar=|typ=|text=}}
+| width="300px" |
+{{led|nr=51|namn=Tvestjärten|grad=4-|längd=10|fa=[[Sam Westerholm]], [[Lars-Åke Svartz]][[1984|-84]]|text=Välsäkrade sprickor.}}
+
+{{led|nr=52|namn=Norrsken|grad=5-|betyg=|längd=10|fa=[[Börje Svedman]], [[Annika Swedwall]][[1989|-89]]|bultar=|typ=|text=}}
+
+{{led|nr=52a|namn=Osten från Flen|grad=5-|betyg=|längd=10|fa=[[Claes Jelinek]], [[Stale Ekelund]], [[Hans Lindkvist]][[1990|-90]]|bultar=|typ=|text=}}
+|}
+
+{{sidbrytning}}
+
+=== Ostväggen ===
+[[Bild:vb_ostvaggen.png]]
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=53|namn=Greve|grad=?|betyg=|längd=|fa=[[Lars-Åke Svartz]], [[Jan Mellring]][[1989|-89]]|bultar=|typ=aid|text=}}
+
+{{led|nr=54|namn=Flänsost|grad=6-|betyg=|längd=10|fa=[[Claes Jelinek]], [[Stale Ekelund]], [[Hans Lindkvist]][[1990|-90]]|bultar=|typ=|text=}}
+| width="300px" |
+{{led|nr=55|namn=Camenbert|grad=4-|betyg=|längd=10|fa=[[David Fält]][[1989|-89]]|bultar=|typ=|text=}}
+
+|}
+
+===Dansväggen===
+Vid vägen öster om Vårdberget ligger en liten klippa med ett halvdussin små fina leder. Inga närmare detaljer kända om dessa.
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Topprep]] [[Kategori:Vertikalt]] [[Kategori:Sport]] [[Kategori:Trad]]
+[[Kategori:Saknar lednummer]]
+[[Kategori:Stockholm]]
+[[Kategori:Fituna]]

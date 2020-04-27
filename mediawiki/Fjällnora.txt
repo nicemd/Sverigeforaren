@@ -1,0 +1,14 @@
+=Allmänt=
+Ett Fåtal spridda block. Uppsalas kanske hårdaste problem (The Swedish Stallion) går här.
+=Vägbeskrivning=
+Kör österut från Uppsala mot Almunge, sväng av höger mot Fjällnora efter en dryg mil - blocken ligger spridda på båda sidor av vägen.
+=Problem=
+{{problem|namn=The Swedish Stallion|grad=7C|typ=Överhäng|fa=Scott, Jon, Daniel A|landning=3|betyg=1|fadatum=2003-03-01|sopad=Scott, Jon, Daniel A|sittstart=ja|text=Sittstart i det branta överhänget. Ligger på höger sida vägen 100 m efter man korsat järnvägen.}}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

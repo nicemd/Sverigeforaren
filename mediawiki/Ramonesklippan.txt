@@ -1,0 +1,33 @@
+{{boulderstub}}
+
+==Allmänt==
+
+Ramonesklippan som den nu mera så fint heter ligger i skugga och passar alldeles utmärkt för lite kvällsklättring.
+Ett par av problemen är det faktiskt riktigt klass på. Bra landningar.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+</div>
+
+Klippan ligger mittemot Enskede IP på andra sidan tunnelbanan. Bilen kan man parkera vid Enskede IP. Från parkeringsplatsen går man över Enskedevägen och genom en tunneln under tunnelbanelinjen.
+Efter tunneln tar du vänster och går till höger om hundrastplatsen och sen upp i skogspartiet där klippan ligger.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Boulderproblem==
+
+http://www.sverigeforaren.se/images/b/b4/Ramonesklippan.jpg
+
+{{problem|nr=1|namn=Hey|grad=5a|fa=[[Mikael Söderström]]|landning=3|text=Starta med båda händerna på bra grepp. Röd linje.}}
+
+{{problem|nr=2|namn=Ho|grad=6c|fa=[[Mikael Söderström]]|typ=Överhäng,Mantling|sittstart=ja|landning=3|betyg=1|text=En skitnödig sittstart med båda händerna på undercling. Blå linje.}}
+
+{{problem|nr=3|namn=Let´s|grad=7a+|fa=[[Mikael Söderström]]|landning=3|text=Starta längst ner med händerna där SK står klottrat. Offra dej på slutet. Svart linje.}}
+
+{{problem|nr=4|namn=Go|grad=7a+|fa=[[Mikael Söderström]]|typ=Överhäng,Slopers,Krimpers,Sva|sittstart=ja|landning=3|betyg=3|text=Sittande start i crimpar. Över kanten och upp på svaet. Se upp för trädet. Gul linje.}}
+
+{{problem|nr=5|namn=Blitzgrieg bob|grad=6c|fa=[[Mikael Söderström]]|landning=3|sittstart=ja|text=Starta på ok grepp vänster om trädet och följ sprickan avslut upp i Ho. Vit linje.}}
+
+{{problem|nr=6|namn=Gabba Gabba Hey|grad=7a|fa=[[?]]|landning=3|sittstart=ja|text=Start i "Go". Sedan upp i sprickan. Skicka på skålen och mantla. Hyllan i "Let's" är eliminerad.}}

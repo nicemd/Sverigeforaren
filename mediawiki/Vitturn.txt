@@ -1,0 +1,79 @@
+{{info klippa
+  |lat=61.278071
+  |long=14.119148
+}}
+{{komplett}}
+
+
+==Allmänt==
+Vitturn ligger vid byn Klitten utanför Älvdalen och är trots den ringa storleken på max tio meter en av Dalarnas finaste sportklippor tack vare mycket bra klippkvalité (nån mysko sandsten) och det fina sydläget på toppen av ett berg med fantastisk utsikt som kan matchas av få klätterklippor i landet. En perfekt klippa för trevlig fikaklättring soliga sommarkvällar. De flesta ankarna saknar tyvärr kjeda, men det kommer att åtgärdas. Högt och öppet sydläge möjligör klättring från mars till sen oktober.  
+                                
+==Vägbeskrivning==
+<googlemap version="0.9" lat="61.247451" lon="14.111252" type="map" zoom="11">
+61.278071, 14.119148
+Älvdalen, Sverige
+</googlemap>
+[[Bild:vägbeskrivning.gif]]
+
+== Camping ==
+Eldstäder finns nedanför insteget och en bit ovanför utsteget på led 19. I anslutning till eldstaden på toppen finns även bra tältplatser. Inget vatten finns på plats.
+
+==Vänstra delen==
+[[Bild:Vänstra delen.gif|frame]]
+{{led|namn=Feghörnet|nr=1|grad=5|betyg=|längd=|fa=[[Ted Ekberg]] solo|bultar=4|typ=sport|text=Klättra hörnets högra vägg utan att kliva ut till vänster, sedan lätt klättring upp till ankaret.  4bb+2bb i  toppen.}}
+
+{{led|namn=Gubben Einar|nr=2|grad=4|betyg=|längd=|fa=[[Ted Ekberg]], [[Oskar Tjärnberg ]]|bultar=|typ=|text=Längsta turen. Starta i spricka upp till en nisch. Klättra upp till Feghörnets ankare via diverse formationer och vidare upp till höger om detta. En borrbult gemensamt med Feghörnet.}}
+
+{{led|namn=Skitig spricka |nr=3|grad=4|betyg=|längd=|fa=[[Frank Jansson]]|bultar=|typ=|text=Sprickan bakom granen}}
+
+{{led|namn=Inget är för evigt|nr=4|grad=6-|betyg=1|längd=|fa=[[Jörgen Lundgren]]|bultar=3|typ=mix|text=3bb + kil i slutet. Variant är att klättra utsteget på Jackpot.}}
+
+{{led|namn=Jackpot|nr=5|grad=6|betyg=2|längd=|fa=[[Mikael Hellberg]]|bultar=3|typ=sport|text=3bb + ev.liten kil i början.}}
+
+{{led|namn=Eufori|nr=6|grad=6|betyg=2|längd=|fa=[[Jörgen Lundgren]]|bultar=4|typ=sport|text=4bb+ 2 borrbultar i toppen gemensamt med led 5.}}
+
+{{led|namn=Faktotum|nr=7|grad=6+|betyg=1|längd=|fa=[[Erik Wadman]]|bultar=|typ=mix|text=Camalot 0.75 i början sedan 1bb + kil i slutet 2bb i toppen. Sten/Grepp har lossnat under 2012, svårighetsgraden har bedömt ökat.}}
+
+{{led|namn=Den mystiska spegeln|nr=8|grad=7-|betyg=1|längd=|fa=[[Erik Wadman]]|bultar=|typ=trad|text=Vitturns hårdaste kiltur. Små kilar och friends. Går att toppa/fira av med led nios ankare.}}
+
+{{led|namn=Öppet projekt|nr=8a|grad=projekt|betyg=|längd=|fa=|bultar=|typ=|text=Rakt upp till höger om Faktotum.}}
+
+{{led|namn=Sköna myran |nr=9|grad=7/7+|betyg=1|längd=|fa=|bultar=4|typ=sport|text=4bb+2bb i toppen.}}
+
+{{led|namn=Fungus|nr=10|grad=8-|betyg=2|längd=|fa=[[Göran Erlandsson]]|bultar=|typ=|text=Vitturns hårdaste tur.  Svårighetsgraden har möjligen ökat något efter att steg har lossnat under våren-03.  }}
+
+{{led|namn=Variant av Fungus|nr=10a|grad=7-|betyg=2|längd=|fa=[[Erik Hansson]]|bultar=4|typ=sport|text=Undgå kruxet genom att gå ut till vänster vid första bulten och hangla efter rampen. 4bb. }}
+
+{{led|namn=Dystopia|nr=11|grad=6|betyg=1|längd=|fa=[[Ted Ekberg]]|bultar=4|typ=sport|text=Klättra upp till vänster om Grov utan att använda sprickan. 4bb+ankare med kedja.}}
+
+==Högra delen==
+[[Bild:Högra delen.gif|frame]]
+
+{{led|namn=Grov|nr=12|grad=5+|betyg=1|längd=|fa=|bultar=|typ=trad|text=Den stora sprickan med nischen. Välsäkrad med kilar och Hex#10 el. 11.}}
+
+{{led|namn=Roulette|nr=13|grad=6+/7-|betyg=|längd=|fa=[[Erik Wadman]]|bultar=2|typ=FALSKT}}
+
+{{led|namn=137 kilo kärlek|nr=14|grad=6+|betyg=|längd=|fa=[[Ted Ekberg]]|bultar=3|typ=FALSKT}}
+
+{{led|namn=Spricka|nr=15|grad=5-|betyg=|längd=|fa=[[Mikael Hellberg]]|bultar=|typ=FALSKT}}
+
+{{led|namn=Sarajevo by night|nr=16|grad=7+|betyg=2|längd=|fa=[[Daniel Nylén]]|bultar=3|typ=sport|text=3bb+2bb i toppen.}}
+
+{{led|namn=Till Saras Egypten|nr=17|grad=5+|betyg=|längd=|fa=[[Jörgen Lundgren]]|bultar=|typ=|text=Hangla på utsidan av rampen sedan rakt upp. Små kilar+ liten friend. }}
+
+{{led|namn=Egypten direkt|nr=17a|grad=6-|betyg=|längd=|fa=|bultar=|typ=|text=Direktinsteg rakt upp till hyllan}}
+
+{{led|namn=All you can eat|nr=18|grad=6-|betyg=|längd=|fa=[[Erik Wadman]]|bultar=1|typ=FALSKT}}
+
+{{led|namn=Löst dike|nr=19|grad=4|betyg=|längd=|fa=[[Mikael Hellberg solo]]|bultar=|typ=FALSKT}}
+
+{{led|namn=Johans picknick|nr=20|grad=5|betyg=|längd=|fa=[[Daniel Nylén]]|bultar=1|typ=FALSKT}}
+
+{{led|namn=Daniels spricka|nr=21|grad=5+|betyg=|längd=|fa=[[Daniel Nylén]]|bultar=|typ=FALSKT}}
+
+{{led|namn=Sydpillaren|nr=22|grad=7|betyg=1|längd=|fa=[[Ted Ekberg]]|bultar=2|typ=sport|text=Rakt upp utan att använda sprickan till vänster. Boulderkaraktär. 2bb+2 i toppen.}}
+
+{{led|namn=Vegas world |nr=23|grad=4|betyg=|längd=|fa=[[Erik Wadman]]|bultar=1|typ=|text=Sveriges brantaste fyra?}}
+
+[[Kategori:Sport]]
+[[Kategori:Dalarna]]

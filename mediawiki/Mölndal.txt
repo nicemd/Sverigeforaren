@@ -1,0 +1,58 @@
+{{info klippa | lat=57.66439 | long=12.00622}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+
+==Allmänt==
+
+I centrala Mölndal finns det många småklippor som här samlas på samma sida. 
+
+==Mölndalsparaden==
+Denna outvecklade klippa ligger på södra kanten av Safjället, vid Bifrostgatan. Trots att den är ganska hög är det svårt att se den från vägen på grund av träd.
+
+[[Fil:Mölndalsklippan.jpg|246px]] [[Fil:Mölndalsklippan_vy.jpg|400px]]
+
+<div style="margin: 0 0 1em 1em; float: right">
+<googlemap width=400 height=350 lat="57.66439" lon="12.00622" type="map">57.66439, 12.00622 Mölndal</googlemap>
+</div>
+
+Vägbeskrivning: Klippan ligger vid Bifrostgatan, mellan Toltorpsgatan och Lackarebäcksmotet. Klippan syns nästan inte från vägen, men när du är vid en gräsplätt som ser ut som en igenvuxen trädgård är du framme. Här kan du parkera cykeln och gå in bakom buskarna så ser du strax klippan.
+
+Med bil: E6 från Göteborg, ta av vid Lackarebäcksmotet. Parkera vid någon av korsningarna eller vid en annan gata då man inte kan stå längs Bifrostgatan.
+
+Kollektivtrafik: Flera spårvagnar och bussar går till hållplatsen Lackarebäck som är närmast. Busshållplatsen Bifrost är också nära.
+
+<div style="clear:both"></div>
+
+
+
+{{led|namn=Mölndalsparaden|grad=5-|typ=trad|längd=20-30|fa=Viktor Söderqvist, Tove Hansson 2013|text=Startar i mitten av väggen bakom en jättestor rhododendronbuske och går upp till toppen.}}
+
+{{led|namn=Projekt|typ=projekt|grad=?}}
+
+==Lilla Toltorpsdalen==
+Vägbeskrivning: Parkera på Axgatan, följ stig mot Västerberget, om du möter ett nätstaket med en stängd grind har du kommit rätt, ta dig runt staketet från höger (högt upp åt höger slutar staketet), gå på stigen och gå upp höger när du börjar se granit, promenera längs med tills du hittar lederna, ca 300-400 meter. [http://www.hitta.se/karta?ref=start#var=bifrost%20m%C3%B6lndal&from=1&pageCount=20&level=1&sm=6&center=6399312:1276156&type=map&zl=8&bounds=6398506:1270190,6400288:1273420&rlm=1&mp=%5B%7B%20%22x%22%3A%221271896%22%2C%20%22y%22%3A%226399312%22%2C%20%22i%22%3A%22%2Fpublic%2Fimages%2Fweb%2Fmap%2Fmap-pin%2Fpoint.png%3F120614-134402%22%2C%20%22t%22%3A%22Typ%20h%C3%A4r...%20%0A%22%7D%5D karta] 
+
+[[bild:oversikt_lilla_toltorpsdalen.jpg]]
+
+{{led|namn=Mot Malmö|grad=4+|text=Fingerspricka längst till vänster.|betyg=1|längd=8|fa=Joel Holmgren & Jonas Lyckegård}}
+
+{{led|namn=Ormtagen|grad=4+|text=Längs med areten.|längd=8|fa=Joel Holmgren & Jonas Lyckegård}}
+{{led|namn=Ormbiten|grad=5|text=Rakt upp över svaet till nästa leds utsteg. Markfallspotential.|fa=Jonas Lyckegård & Joel Holmgren}}
+{{led|namn=Ormvråk|grad=5-|text=Fötterna längs med den diagonala hyllan/sprickan. Balansig på stora grepp.|fa=Jonas Lyckegård}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+
+ [[Kategori:trad]] 
+
+ [[Kategori:sva]] 
+
+
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Göteborg]]

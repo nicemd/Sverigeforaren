@@ -1,0 +1,92 @@
+{{boulderstub}}
+
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+
+Sällan besökt område norr om uppsala. Stor utvecklingspotential men vass sten och långt att åka.
+
+=Vägbeskrivning=
+
+Kör väg 272 mot Gysinge. Sväng av mot och åk igenom Åkerlänna. Sväng mot Harbo och håll höger i Y-korsningen där asfaltsväg övergår till grusväg. Sväng sedan mot Fastarbo. Myggstenen är skyltad ca 250m innan en vändplan.
+
+<googlemap version="0.9" lat="60.021981" lon="17.399597" type="map" zoom="11" width="500">
+60.057301, 17.386894, Myggstenen
+</googlemap>
+
+=Sektorer=
+
+==plan 1==
+
+Stanna vid skylten mot Myggstenen. Ett par block ligger intill vägen om du går tillbaka ett hundratal meter. För att komma till den enorma myggstenen, följ skylten och stigen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Via Dolorosa|grad=6B|typ=Travers H->V|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|text=Starta höger, traversera vänster upp till toppen.}}
+{{problem|nr=2|namn=Svin ska inte ha det för bra|grad=6A|typ=Aréte|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=3|namn=Estrada|grad=5A|typ=Aréte|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=4|namn=Peters Pottångest|grad=6A|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=Vägg. Höger om aréten}}
+{{problem|nr=5|namn=Same Shit, Different Color!|grad=4B|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=6|namn=Analterror|grad=4A|typ=Aréte|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=}}
+| width="250px" |
+{{problem|nr=7|namn=Feta pojkar väger mer än andra pojkar|grad=6A+|typ=|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|text=Lister. Rakt upp med sidtag.}}
+{{problem|nr=8|namn=Looney Star|grad=6A+|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=Vägg. Starta med sidtag och stor list, rakt upp.}}
+{{problem|nr=9|namn=Easy Rider|grad=6C|typ=Travers V->H|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=Starta vid trädet, traversera åt höger till aréten och sedan upp.}}
+{{problem|nr=10|namn=Löööv Parade|grad=5A|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|sittstart=ja|text=Dieder.}}
+{{problem|nr=11|namn=Pride|grad=6A|typ=Aréte|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=12|namn=Huevos d´Oros|grad=4B|typ=|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=13|namn=Cojones|grad=4C|typ=Spricka|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=14|namn=Pappa, jag vill ha en italienare!|grad=4B|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=Vägg.}}
+{{problem|nr=15|namn=Röd Front|grad=7A|typ=Krimp,Slopers,Highball|fa=Daniel och Jon|betyg=3|sopad=Daniel och Jon|text=Den höga väggen på Myggstenen.}}
+{{problem|nr=16|namn=Sprickan|grad=4A|typ=Spricka|fa=?|sopad=?|text=Grad 5 trad.}}
+{{problem|nr=17|namn=PROJEKT|grad=-|typ=Överhäng|fa=?|sopad=?|text=Mycket hårt bultat projekt.}}
+|}
+
+==plan 2==
+
+Kör förbi skylten mot Myggsten och parkera istället vid vändplanen. Blocken ligger spridda på hygget söder om vändplanen. 
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Slap me Cowboy|grad=6C|typ=Överhäng|fa=DA / A Lindström / J Smedsaas|betyg=2|sopad=DA / A Lindström / J Smedsaas|sittstart=ja|text=Block 7. Sittstart vid överhänget.}}
+{{problem|nr=1|namn=Carola|grad=6B|typ=Överhäng|fa=M Meyer / S Renström|sopad=M Meyer / S Renström|text=Block 1. Hoppstart vid överhänget.}}
+{{problem|nr=2|namn=Nera|grad=3A|typ=Slab|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=3|namn=Livets Ordare|grad=7A|typ=Spricka|fa=M Meyer och S Renström|sopad=M Meyer och S Renström|startgrepp=ja|text=Starta i överhänget med list och undercling.}}
+{{problem|nr=4|namn=Flip Travolta|grad=6A|typ=Aréte|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=5|namn=Dans le Cul, ça va Bien!|grad=4A|typ=Slab|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|text=Följ listerna i det ljusa bandet.}}
+{{problem|nr=6|namn=Pschent|grad=5A|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=Vägg. Rakt upp mot listen.}}
+{{problem|nr=7|namn=Dragonheart|grad=4B|typ=Aréte|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=8|namn=Splif Vicious|grad=6C+|typ=|fa=D Andersson / J Smedsaas|betyg=1|sopad=D Andersson / J Smedsaas|text=Lister. Starta med list och sidtag, sedan något upp åt vänster.}}
+{{problem|nr=9|namn=Nevereverland|grad=6C+|typ=Aréte|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=Starta med aréten och gaston till höger.}}
+{{problem|nr=10|namn=Uppo|grad=4B|typ=Spricka|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=11|namn=En Handjävuls Liv och Förlustelser|grad=4B|typ=|fa=DA / A Lindström / J Smedsaas|sopad=DA / A Lindström / J Smedsaas|text=Block 6. Vägg. Den östra väggen.}}
+| width="250px" |
+{{problem|nr=12|namn=Saunaklubben: Regnbågens Vänner|grad=6A|typ=Dyno|fa=DA / A Lindström / J Smedsaas|sopad=DA / A Lindström / J Smedsaas|text=Block 6. Höger om En Handjävuls Liv och Förlustelser.}}
+{{problem|nr=13|namn=Thongs|grad=4A|typ=Spricka|fa=K Svensson|sopad=K Svensson|text=}}
+{{problem|nr=14|namn=Flipp-Flapp|grad=3A|typ=Aréte|fa=K Svensson|sopad=K Svensson|text=}}
+{{problem|nr=15|namn=PRO|grad=5B|typ=Aréte|fa=K Svensson|sopad=K Svensson|text=Upp höger eller vänster om aréten.}}
+{{problem|nr=16|namn=Fikakommitén|grad=6A|typ=|fa=K Svensson|betyg=1|sopad=K Svensson|sittstart=ja|startgrepp=ja|text=Lister. Sittstart med vänster hand på stort sidtag.}}
+{{problem|nr=16|namn=Fikakommitén|grad=6B|typ=|fa=K Svensson|betyg=1|sopad=K Svensson|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Lister. Sittstart med höger hand på stort sidtag och utan kanten vänster.}}
+{{problem|nr=17|namn=Blodprov|grad=6C|typ=|fa=DA / J Smedsaas / K Svensson|sopad=DA / J Smedsaas / K Svensson|text=Vägg. Starta med pinch och sidtag.}}
+{{problem|nr=18|namn=Spott å Fräs|grad=5B|typ=Spricka|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=}}
+{{problem|nr=19|namn=What Goes Up Must Come Down|grad=5B|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|text=Dieder.}}
+{{problem|nr=20|namn=Mossmattan|grad=5A|typ=Slab|fa=DA / J Smedsaas / K Svensson|sopad=DA / J Smedsaas / K Svensson|text=}}
+{{problem|nr=21|namn=Magkontakt av 3:e Graden|grad=6B|typ=Mantling|fa=DA / J Smedsaas / K Svensson|betyg=1|sopad=DA / J Smedsaas / K Svensson|text=Sprickan upp åt höger.}}
+| width="250px" |
+{{problem|nr=22|namn=Røe Stripen|grad=6A|typ=|fa=DA / J Smedsaas / K Svensson|sopad=DA / J Smedsaas / K Svensson|text=Lister. Följ kristallbandet.}}
+{{problem|nr=23|namn=Kom(m)Ann|grad=5C|typ=|fa=DA / A Gustavsson / K Svensson|betyg=1|sopad=DA / A Gustavsson / K Svensson|text=Vägg. Starta med sidtag.}}
+{{problem|nr=24|namn=To infinity and Beyond|grad=6C|typ=|fa=D Andersson / J Smedsaas|sopad=D Andersson / J Smedsaas|uteslutningar=ja|text=Lister. Upp åt vänster utan bullen.}}
+{{problem|nr=25|namn=Potatisnäsan|grad=4A|typ=Mantling|fa=DA / A Gustavsson / K Svensson|sopad=DA / A Gustavsson / K Svensson|text=Rakt upp.}}
+{{problem|nr=25|namn=Härifrån till Driftigheten|grad=6C|typ=Travers V->H|fa=DA / A Lindström / J Smedsaas|betyg=1|sopad=DA / A Lindström / J Smedsaas|variant=ja|text=Traversera höger och avsluta med Magkontakt av 3:e Graden.}}
+{{problem|nr=26|namn=Knubbsälen|grad=4A|typ=Mantling|fa=DA / A Gustavsson / K Svensson|sopad=DA / A Gustavsson / K Svensson|text=}}
+{{problem|nr=27|namn=Ann-kan|grad=3A|typ=Slab|fa=DA / A Gustavsson / K Svensson|sopad=DA / A Gustavsson / K Svensson|text=}}
+{{problem|nr=28|namn=Bra-Katrin|grad=3B|typ=Slab|fa=DA / A Gustavsson / K Svensson|sopad=DA / A Gustavsson / K Svensson|text=}}
+{{problem|nr=29|namn=Fa-Ann|grad=3B|typ=Slab|fa=DA / A Gustavsson / K Svensson|sopad=DA / A Gustavsson / K Svensson|text=Rakt upp.}}
+{{problem|nr=29|namn=Jon-Kon|grad=3A|typ=Slab|fa=DA / A Gustavsson / K Svensson|sopad=DA / A Gustavsson / K Svensson|variant=ja|text=Upp vänster på svaaréten.}}
+|}

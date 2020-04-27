@@ -1,0 +1,78 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=60.603824
+  |long=14.261627
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+En drygt 200 meter lång klippa uppdelad i flera sektioner. Klippan kommer aldrig att bli något nytt Hykieberg men det finns mycket kvar att upptäcka för nytursentusiasten.
+
+I närheten finns även Kringelrisåsen och Fisklöskölen med potential för en del leder.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="60.603824" lon="14.261627" type="map" zoom="10">60.668302, 14.262314, Högerisåsen</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+
+</div>
+
+Vägbeskrivning norrut på riksväg 71:
+
+1.7 km efter Dala-Järna, sväng höger mot Skålö.
+3.4 km från riksvägen sväng höger mot Vålbergsvägen och Fisklösskölen.
+Följ Hulnvägen och skyltar mot Fisklöskölen i 10 km och sväng sedan vänster.
+Efter ytterligare 2 km sväng vänster igen.
+Fortsätt fram till skylt mot Kringelrisåsen och parkera där.
+Gå sedan in i skogen på samma sida som skylten men 50 – 100 meter längre fram. Om du gått in på rätt ställe så kommer du passera en liten glänta med stora ljusa stenblock.
+Fortsätt ca 500 meter och du bör se klippan.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+[[Bild:högerisåsendetrosabandet.jpg|thumb|center|600px|Thomas Eriksson klättrar [[Det rosa bandet]]. Foto: [[Lars Svensson]]]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Namn?|grad=5-|typ=trad|betyg=3|längd=30|fa=[[Lars Svensson]], [[Thomas Eriksson]] -08|text=Härligt varierad klättring med goda säkringsmöjligheter. Startar 10 m vänster om [[Det rosa bandet]].}}
+
+{{led|nr=2|namn=Det rosa bandet|grad=6|typ=trad|betyg=1|längd=25|fa=[[Thomas Eriksson]], [[Lars Svensson]] -08|text=Härligt klättring men helt osäkrad 10 meter på mitten. Följer ett tydligt rosa stråk mitt på stora väggen.}}
+
+{{led|nr=3|namn=projekt|grad=?|längd=25|text=Delvis borstad men inte klättrad pga dåliga säkringsmöjligheter. Startar 5 m höger om [[Det rosa bandet]].}}
+
+{{led|nr=4|namn=Vitruvius|grad=5|längd=12|fa=[[Peter Siljerud]] -07|text=Kort men härlig spricklinje. Leden går längst ut till höger på klippan.}}
+
+
+
+| width="350px" |
+
+
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+
+[[kategori:Saknar skiss]]
+
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Dalarna]]

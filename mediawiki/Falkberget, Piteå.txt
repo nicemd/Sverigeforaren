@@ -1,0 +1,25 @@
+{{stub}}
+[[Kategori:trad]] [[Kategori:överhäng]] [[Kategori:sva]]
+==Allmänt==
+En 10m hög vägg som det huvudsakligen topprepas på. Svaigt på höger sida och överhängade på vänster sida. Det kan vara bra at he med sig en bit statiskt rep för att rigga toppankare.
+
+==Vägbeskrivning==
+Om du kommer från Piteå, så kör till väg 373, som går mot Älvsbyn. Passera Öjebyn. Klippan kan man skymta uppe på höger sida. När du passerat skylten "Kapell Begravningsplats" så kör du vidare 200m, där det står en skylt "Råbergsspåret". Sväng höger där och följ skogsvägen. Parkera och följ stigen mot klippan.
+
+==Leder==
+
+===Höger sida===
+Här har det nog klättrats på varje millimeter av den svaiga klippan, men bara en led brukar ledas.
+{{led|namn=?|grad=4+|typ=trad|längd=10|text=Flakspricka som ligger nära det enorma blocket|betyg=|fa=?|)}}
+
+===Vänster sida===
+(från höger till vänster)
+
+{{led|namn=?|grad=5+|typ=trad|längd=10|text=Det vänstra av de två, mossiga diedrarna.|betyg=|fa=?|)}}
+
+{{led|namn=Sörlänningen|grad=7+|typ=mix|längd=10|text=Den enda bulten på berget sitter i starten på denna led. Ihållande.|betyg=|fa=?|)}}
+
+{{led|namn=Projekt|grad=projekt|typ=trad|längd=10|text=Överhängande stor spricka. Måste rensas.|betyg=|fa=?|)}}
+
+{{led|namn=Projekt|grad=projekt|typ=trad|längd=10|text=Överhängande spricksystem. Måste rensas.|betyg=|fa=?|)}}
+[[Kategori:Norrbotten]]

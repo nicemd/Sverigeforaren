@@ -1,0 +1,104 @@
+{{info klippa
+  |lat=59.29805555555556
+  |long=18.54083333333333}}
+
+{{boulderkomplett}}
+
+==Allmänt==
+Klippan ligger i skugga på dagen, relativt öppet för kvällssolen. Mestadels kraftigt överhängande klättring med mycket grepp och hål. Rekomenderade problem är; Läderlappen, Buttman, Brutus och Hulken.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.29805555555556" lon="18.54083333333333" zoom="12" type="map" controls="small">
+59.29805555555556,18.54083333333333,[[Kraftsten]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Kraftsten
+lat=18540833
+long=59298055</slresa>
+</div> 
+Kör mot Stavnäs (222), innan Strömma kanal, 5,5km efter Ålstäkets rondell svänger man vänster in på Strömmadalsvägen. Fortsätt denna krokiga väg i max 30 km/h i minimalt antal bilar (samåk).
+Kör förbi en vägbom i trä på vägens högra sida och parkera till vänster utanför vändplanen i nästa korsning (2 platser på gräset bredvid vägen). 
+Gå vägen tillbaka till vägbommen och kliv på Värmdöleden, vid vägbommen står en skylt om Vargstensängen 700m.
+Klippan är belägen ca. 150m in längs Värmdöleden från vägbommen på Strömmadalsvägen. Den ligger på höger sida efter att man rundat tomten med röda husen.
+
+Se även [[Strömmadalsklippan]]
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Boulderproblem==
+===Vänstra delen===
+[[Bild:Kraftsten1.jpg]]
+
+{{led|nr=1|namn=Johnny Puma|grad=6c|fa=[[Björn Pohl]]|text=Starta med båda händerna i stort undercling, långt flytt rakt upp.}}
+
+{{led|nr=2|namn=Mickes Beach|grad=6b|fa=[[Micke Meyer]]|text=Starta på tydlig pinch, utsteg till vänster (lättare) eller höger (finare) om sprickan.}}
+
+{{led|nr=3|namn=Buttman|grad=7b|fa=[[Stefan Kolmodin]]|text=Starta som Nr.5 ”Läderlappen”, elimination rakt upp via ett vasst korall-liknande grepp mellan Nosferatu och Läderlappens utsteg.}}
+
+{{led|nr=4|namn=Nosfereatu|grad=7a|fa=[[Stefan Kolmodin]]|text=Starta som Nr.6 ”Läderlappen”, men rakt upp till bra lister och utsteg åt vänster.}}
+
+{{led|nr=5|namn=Läderlappen|grad=6b+|fa=[[Stefan Kolmodin]]|text=Starta längst in under överhänget med händerna på tydligt hangel, följ denna till jug vid läppen och fortsätt i sprickan upp till höger.}}
+
+{{led|nr=6|namn=Brutus|grad=7b|fa=[[Trevor Cooper-Williams]]|text=Starta i två bra grepp som Nr.7, traversera hela klippan åt vänster under läppen och avsluta vid det s-formade trädet till vänster av ”Johnny Puma”.}}
+
+{{led|nr=7|namn=Mystique|grad=7b|fa=[[Peter Lindmark]]|text=Starta på 2 bra grepp upp till jugge till vänster sedan upp till en liten list rakt upp, via mikrolister till höger till ett vasst hål sedan rakt upp. OBS: Varken sprickan från ”Läderlappen” eller grepp till höger som ingår till ”Luke Skywalker” ingår!}}
+
+
+{{sidbrytning}}
+Samma klippdel … men ett problem till:
+[[Bild:Kraftsten2.jpg]]
+
+{{led|nr=1|namn=Luke Skywalker|grad=6c+|fa=[[Trevor Cooper-Williams]]|text=Starta precis till vänster om stora granen från tydliga sidotag, rakt upp.}}
+
+2. ”Mystique”
+
+3. ”Brutus”
+
+4. ”Nosferatu”
+
+5. ”Buttman”
+
+6. ”Läderlappen”
+
+
+{{sidbrytning}}
+
+===Högra delen===
+[[Bild:Kraftsten3.jpg]]
+
+{{led|nr=1|namn=Joker|grad=6b|fa=[[Stefan Kolmodin]]|text=Starta upp för rampen, rakt upp och utsteg lite till höger.}}
+
+{{led|nr=2|namn=Flexnes|grad=6b|fa=[[Micke Meyer]]|text=Starta i tydlig spricka sedan rakt upp.}}
+
+{{led|nr=3|namn=Flexnes ss|grad=6c|fa=[[Stefan Kolmodin]]|text=Sittstart till ”Flexnes”}}
+
+{{led|nr=4|namn=Marvel|grad=7c|fa=[[Fredrik Sydstrand]]|text=Starta med vänster hand på Flexnes högra startgrepp, upp snett höger via mikrolist till stor pinch, avsluta som Hulken. Den som ids får gärna flytta på stenen framför problemet.}}
+
+
+{{sidbrytning}}
+
+===Lilla delen till höger===
+[[Bild:Kraftsten4.jpg]]
+
+{{led|nr=1|namn=Elsa|grad=6a|fa=[[Stefan Kolmodin]]|text=Aréten till höger. Starta med händerna på stora hyllan, rakt upp. Avsluta på hyllan eller kliv vänster över i ”Hogans” utsteg.}}
+
+{{led|nr=2|namn=Hogan|grad=7a|fa=[[Stefan Kolmodin]]|text=Starta inne i nischen, upp till vänster till bra vasst grepp på rampen, rakt upp. Kanten och aréten (Elsa) till höger ingår ej.}}
+
+{{led|nr=3|namn=Hulken|grad=7a+|fa=[[Trevor Cooper-Williams]]|text=Samma start som ”Hogan” men trav. till vänster med ett långt move till ett bra hålgrepp därefter rakt upp.}}
+
+{{led|nr=4|namn=Marvel|grad=7c|fa=[[Fredrik Sydstrand]]|text=}}
+
+
+Om man fortsätter gå ytterligare en bit längst värmdöleden kommer man till fler klätterbara väggar, bla annat [[Vågväggen]] ca 10 problem med nice men udda klättring:
+
+[[Bild:vågväggen.jpg|400px]]
+
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Category:Överhäng]]

@@ -1,0 +1,524 @@
+{{info klippa
+  |lat=62.8711182847715
+  |long=18.303909301757812
+}}
+
+{{utkast}} 
+
+==Allmänt==
+Talusbildningen på sydsidan av diabasberget Ringkallen formar ett av Sveriges vackraste klätterområden. Lättsäkrade sprickor med stödbultar när det känns läskigt. Firningsankare och lätt att förflytta sig mellan lederna. En superklippa för den som vill klättra korta kilsäkrade leder med låg gruvsamhetsgrad i 5-6 registret!
+
+Diabasen har spruckit upp i relativt tunna och ofta parallella sprickor. Även om lederna är korta så är de branta och ihållande för sin grad, så ta med ett fylligt rack av kamkilar särskilt från fingerstorlek och nedåt.
+
+==Viktig accessinformation!== 
+[[Bild:Ringkallen_fikaplats.jpg|frame|Johan Hedman vid fikaplatsen på Ringkallen. Foto: [[Användare:Utomjording|Pär Lindholm]]]]
+{{access}} Höga Kusten Klätterklubb är medlem i vägföreningen. Det är en stor fast avgift för en liten klubb. Traditionellt sett har denna vägavgifts betalts genom försäljning av förare. Om det ska fungera med att ha föraren här på nätet så ber vi Ringkallen-frälsta dig som skriver ut den här föraren att hjälpa oss med vägavgiften. Gör det genom att sätta in 50 kr på Höga Kusten Klätterklubbs PlusGiro 85 90 96 - 0. Eventuellt överskott investeras såklart i berget!
+
+'''Obs! Det är inte längre tillåtet att campa på kalhygget p.g.a. nyplantering.'''
+
+[[Kategori:trad]] [[Kategori:vertikalt]]
+
+<div style="clear: both"></div>
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="62.8711182847715" lon="18.303909301757812" zoom="10" type="map">
+62.8711182847715,18.303909301757812,[[Ringkallen]]
+</googlemap></div>
+
+Kör till Nordingrå. Ta till höger för den nedlagda OKQ8-macken. Kör förbi Häggvik där Café Mannaminne ligger. Efter ca 1,5 km pekar en gul vägskylt åt höger mot Häggnor. (För 50 kr per år så är det här även din väg!) Efter en knapp kilometer kommer du till en korsning tar du vänster. Femhundra meter senare kommer en andra korsning där du också tar vänster (skyltat 201). Sedan kör du rakt fram efter den "stora" vägen ända fram till en stor vändplan (5 km från där du svängde in mot Häggnor). 2009 stod där en liten stuga märkt Häggviks Jaktcamp. Eventuellt är stugan bortforslad till 2010. Parkera bilen.
+
+Följ stigen i vägens förlängning. När ni kommer in i skogen ta stigen till vänster in i ett stort stenfält. Där är det förhoppningsvis rösat - följ rösena över stenfältet till en stig som leder upp till fikaplatsen vid klippan.
+
+De skyltar du ser om Ringkallen pekar inte mot klippan utan mot toppen av berget Ringkallen. '''Dit vill du inte.'''
+
+==Boende==
+* Lat: Campa på parkeringen.
+* Bekväm: Hyr stugan vid vändplanen (2+1 bäddar, 200kr/natt 2009). Ring 070-376 4902 (Tobba), 070-608 5506 (Kent) eller 070-663 6757 (Leif).
+* Ambitiös: Bär upp alla grejer + vatten till klippan och campa där. Jobbigt.
+* Lyx: Hyr en stuga i närheten. Börja t.ex. leta på [http://www.turistinfo.kramfors.se/ Kramfors turistinformation] eller [http://www.mannaminne.se Café Mannaminne].
+* Alternativ: Tälta vid Omnesjön 15 minuter med bil från berget. Bad, Toa, och vatten från kran om inte källan torkat ut, rekommenderat pris 50:- per natt i lådan.
+
+'''Obs!''' Det är inte längre tillåtet att campa på kalhygget p.g.a. nyplantering.
+
+==Tips==
+* Det finns inget vatten vid klippan, bär med dig det du behöver.
+* På försommaren finns vatten att hämta vid kalhygget. Dessa små bäckar torkar dock ut när sommaren kommer.
+* Följ stigen från parkeringen snett ner mot havet så kommer du till en fin grillplats och fina klippor att bada från. 
+* På sommaren blir det väldigt varmt på Stora väggen och Fikaväggen mitt på dan. Klättra där fram till 12, rör dig sedan mot Kaminväggen. Sen på eftermiddagen kommer Överhängande väggen och Svaväggen i skugga.
+* Gör tvärt om tidig vår och sen höst...
+* Närmaste ställe för proviantering är ICA i Nordingrå. Stänger kl 19 på vardagar, 17(?) på helgen.
+
+==Historia==
+Utvecklades av ett gäng peppade grabbar i början av 90-talet. Per Öhman och bröderna Per & Jan Wermelin var mest tongivande. När klippan kring 1998 nått 95% av sin nuvarande ledmängd hade grabbarna bildat familj och flyttat och ett par år med låg aktivitet på berget följde. Sen 2003 uppmärksammas berget allt mer av Umeå-klättrare och en majoritet av klättrade meter på Ringkallen sker idag av klättrare från Umeå. 
+
+==Andra aktiviteter==
+* Ät lyxfrukost på [http://www.mannaminne.se Café Mannaminne]. Spendera sedan några timmar bland de otroliga husen!
+* Bada i Omne-sjön om inte havet är tillräckligt varmt.
+* Åk ut till Rotsidan och bada för en riktigt läcker upplevelse.
+* Norrfällsviken har fin golfbana och en bra fiskrestaurang.
+* Bönhamn är ett fint litet fiskeläge med färja ut till Högbonden och ett trevligt café & restaurang.
+* Fler aktiviteter? Kolla in [http://www.aventyrsmobilen.se/ Äventyrsmobilen]
+
+
+
+==Sektorer==
+Ringkallen är uppdelat efter väggar. Väggarna hittar du genom att följa de superfina skyltarna (se bild ovan). Väl på väggen så finns små fina stenar uppsatta med lednamn målade. En sådan led är en [[referensled]]. Leder anges från vänster till höger. 
+
+===Översikt väggar===
+Ringkallens många väggar fördelar sig ungefär som skissen nedan visar. Skissen är bruten på mitten vid punkterna.
+[[Bild:Ringkallen_oversikt_split.jpg|600 px]]
+
+===Fikaväggen===
+Firningsankare finns 
+* Vid Ensamheten
+* på hyllan rakt ovanför Strama(re) Tyglar
+* vid Sista Marängen/Flygrädd
+* ovanför Tango för två finns ett block med slinga och karbin - Bytt maj 2013.
+* och vid Pet Problem.
+
+{|
+|- valign="top"
+| width=300px |
+{{led|namn=Vänster leden/Ensamheten|nr=1 & 2|grad=5|bultar=1|betyg=0|fa=|typ=mix|längd=10|text=Klättra var du vill på den lilla väggen till vänster om offwidthen. Två leder enligt gamla föraren, idag klättrar alla ungefär mitt på och klipper sen en bult. Dessa två leder tar dig upp till Lilla väggen. Firningsankare. }}
+
+{{led|namn=Regndans|grad=6+|nr=3|betyg=0|längd=20|fa=|text=Börja direkt till höger om offwidth-sprickan. Avsluta med det känsliga arétet. Seriös?}}
+
+{{led|namn=Sträckbänken|grad=6-|nr=4|typ=trad|längd=20|fa=|betyg=2|text=Startar en liten bit till höger om offwidth-sprickan i ett lite brantare parti. Klättra rakt upp till en hylla. Därifrån följer man sprickor vidare uppåt. Antingen går man hela vägen till toppen, eller så stannar man vid ett block med en slinga runt. [[Referensled]].}}
+
+| width=300px |
+
+{{led|namn=Foxtrot|grad=6-|längd=18|nr=5|typ=trad|betyg=0|fa=|text=Börjar tre meter till höger om Sträckbänken på hyllan som är ett snäpp upp.}}
+
+{{led|namn=Stormvind|grad=5|typ=trad|nr=6|längd=20|betyg=1|fa=|text=En del ihåliga block, men det brukar gå bra ändå.}}
+
+{{led|namn=Druidens Lycka|grad=5|typ=trad|nr=7|längd=20|betyg=0|fa=[[Fredrik Wågberg]] [[1993|-93]]|text=Klättras aldrig.}}
+|}
+
+[[Bild:fikaväggen_mitt_topo.jpg]]
+
+{|
+|- valign="top"
+| width=300px |
+{{led|namn=Tango för två|grad=6|längd=20|nr=8|betyg=1|fa=|typ=trad|text=Går upp till en liten nich med ett tak ovanför. Klättra upp och förbi taket till toppen. [[Referensled]].}}
+
+{{led|namn=Lepra|grad=5-|typ=trad|fa=|längd=20|nr=9|betyg=3|text=Perfekt uppvärmning eller ett roligare sätt att ta sig till Stora Väggen än att gå. Bred och välsäkrad spricka. Passa på att njuta av utsikten när du ändå fastnat i sprickan strax innan toppen! Populär.}}
+
+{{led|namn=Grön kärlek|grad=6-|typ=trad|fa=|längd=20|nr=10|betyg=2|text=Tydliga sprickor bakom björken.}}
+
+{{led|namn=MachoLasse|grad=6+|typ=mix|fa=|längd=20|betyg=0|nr=11|fa=Per Wermelin, Jan Wermelun|bultar=2}} 
+
+| width=300px |
+
+{{led|namn=Gräsänkling|grad=4|typ=trad|längd=20|betyg=1|fa=|nr=12|text=Följer vänstra sidan av den stora "kaminliknande" formationen.}}
+
+{{led|namn=Negerpojken|grad=5|typ=trad|längd=20|betyg=1|fa=|nr=13|text=Följer högra sidan av den stora "kaminliknande" formationen.}}
+
+{{led|namn=Molto Deppo|grad=6|typ=trad|längd=20|betyg=0|nr=14|fa=[[Per Wermelin]], [[Jan Wermelin]]|text=Tunna sprickan till vänster om Jerry}}
+|}
+
+[[Bild:fikaväggen höger.jpg]]
+
+{|
+|- valign="top"
+| width=300px |
+{{led|namn=Jerry vad gör du|grad=6-|typ=trad|längd=20|betyg=3|nr=15|fa=[[Per Öhman]], [[Jan Wermelin]]|text=[[Referensled]]. En av dom tydligare linjerna på Fikaväggen -- klättra upp för flaket just vänster om överhänget och fortsätt upp via sprickor som gradvis blir större och snart övergår i block. Lättare ju högre man kommer.}}
+
+{{led|namn=Amaretto|grad=5+|längd=15| typ=trad| fa=[[Per Öhman]]|betyg=2|nr=16|text=Sprickan direkt till vänster om Stramare Tyglar. Utmärkt diederklättring övergår i tunnare sprickor och lister mot toppen. Ta med små kamkilar för högsta komfort -- men kilar duger mer än väl.}}
+
+| width=300px |
+
+{{led|namn=Stramare tyglar|grad=6+|bultar=3|typ=mix|betyg=0|längd=15|nr=17|fa=[[Jan Wermelin]], [[Per Wermelin]]|text=Risken är överhängande att komma in i lättare klättring både till höger och vänster om leden.}}
+|}
+
+[[Bild:sista marängen.jpg]]
+
+{|
+|- valign="top"
+| width=300px |
+{{led|namn=Strama tyglar|grad=6|bultar=2|typ=mix|betyg=2|längd=15|nr=18|fa=[[Per Öhman]]|text=[[Referensled]]}}
+
+{{led|namn=Svindlande affärer|nr=19|grad=6+|bultar=3|typ=mix|längd=15|betyg=1|fa=[[Per Wermelin]]|typ=mix|text=Startar som ''Strama tyglar'' går ut diagonalt åt höger genom taken i fikaväggens högerkant. Mestadels bult, någon kil i början samt (eventuellt) i slutet.}}
+
+{{led|namn=Brustna illusioner|nr=20|grad=7-|bultar=1|typ=mix|betyg=0|längd=15|fa=[[Per Wermelin]], [[Jan Wermelin]]|text=Klättra till vänster om och på arêten.}}
+
+{{led|namn=Familjeleden|nr=21|grad=4|betyg=0| typ=trad| längd=16|fa=|text=Leden ligger i diedret mellan Brustna illusioner och Sista marängen. Stor spricka.}} 
+
+| width=300px |
+
+{{led|namn=Sista marängen|nr=22|grad=7-|betyg=2|fa=|längd=14|bultar=4|typ=sport|text=Brant arete. Helbultad + firningsankare}}
+
+{{led|namn=Flygrädd|grad=6|nr=23|längd=14|fa=[[Jan Wermelin]]|text=Strax till höger om Sista Marängen. Samma firningsankare.}}
+
+|}
+
+
+{{led|namn=Inspiration|grad=5-|nr=24|fa=[[Jan Wermelin]], [[Per Wermelin]]|text=[[referensled]] Strax till höger om grottan på väg mot Tonusväggarna.}}
+
+
+{{led|namn=Sprickan|grad=6|längd=7| typ=trad| fa=[[Per Wermelin]]|betyg=1|text=Fin kort spricka rakt ovanför Amaretto.}}
+
+{{led|namn=Vad skall den heta|grad=6-|betyg=0|längd=8| typ=trad| fa=[[Per Wermelin]]|text=Miniväggen 7 meter till höger om Sprickan. Vänstra sprickan.}}
+
+{{led|namn=La France|grad=5+|längd=8| typ=trad| fa=[[Per Wermelin]]|betyg=0|text=Precis till höger om Vad skall den heta.}}
+
+{{led|namn=Anomali|grad=7-|längd=15|typ=mix|betyg=1|fa=[[Per Öhman]], [[Jan Wermelin]]|betyg=1|text=[[referensled]] Ligger på väggen "ovanför" La France. Borrbultar + ankare.}}
+
+{{led|namn=Mantra|grad=6|längd=15|betyg=1|fa=[[Jan Wermelin]], [[Per Wermelin]]|text=Börjar i tydliga sprickan till höger om Anomali. Upp på hylla, sedan mäktig aréte- och sprickklättring till gemensammt ankare med Anomali.}}
+
+===Nedre väggen===
+Till nedre väggen tar du dig lättast genom att fira ner direkt från fikaplatsen. 
+
+{|
+|- valign="top"
+| width=300px |
+{{led|namn=Stress och elände|betyg=1|bultar=3|typ=sport|grad=6a|längd=17|fa=[[Jan Wermelin]], [[Per Öhman]] och [[Fredrik Wågberg]] [[1999|-99]]|text=}}
+{{led|namn=Pålägg|grad=6-|längd=17|bultar=2|betyg=0|typ=mix|fa=[[Per Öhman]] [[1992|-92]]|text=Svårsäkrad start.}}
+{{led|namn=Café Mannafrutti|grad=5|betyg=1|längd=17|fa=[[Mårten Ellingsson]], [[Jan Wermelin]] [[1990-talet]]|text=Spricka. Coola pockets på slutet.}}
+{{led|namn=Lekande lätt|grad=5-|längd=17|fa=[[Per Wermelin]], [[Jan Wermelin]] [[1993|-93]]|typ=trad|text=}}
+| width=300px |
+{{led|namn=Djupa vågen|grad=3+|betyg=1|typ=mix|bultar=3|längd=14|fa=[[Jan Wermelin]] [[1999|-99]]|text=Mossig och skulle må bra av att få smaka på borsten.}}
+{{led|namn=Piff|grad=5|längd=9|betyg=0|fa=[[Jan Wermelin]], [[Per Wermelin]] [[1998|-98]]|text=}}
+{{led|namn=Puff|grad=5|längd=9|betyg=0|fa=[[Jan Wermelin]], [[Per Wermelin]] [[1998|-98]]|text=Tunn spricka.}}
+|}
+
+===Stora väggen===
+Firningsankare finns rakt ovanför ''Oborstad'' och det finns även ett ankare ovanför ''Irrfärd''.
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Therese|grad=5|typ=trad|betyg=1|längd=20|text=Följ pockets i väggens högra del. Bultat ankare på hyllan.}}
+
+{{led|namn=Sop-opera|grad=5+|betyg=1|bultar=2|fa=|typ=mix|längd=35|text=Startar på den nedersta hyllan under stora väggen. Klättra upp förbi en björk och sedan med dragning åt vänster mot bullarna på slutet.}}
+
+{{led|namn=Lågtryck|grad=5+|betyg=1|bultar=2|fa=|typ=mix|längd=35|text=Startar på den nedersta hyllan under stora väggen. Bultad väggklättring de sista metrarna.}}
+
+{{led|namn=Geometri|grad=5+|betyg=1|längd=25|fa=|typ=trad|text=Starta antingen vid botten av Stora Väggen eller på hyllan något uppåt höger, och klättra genom möjligtvis mossig vägg mot den stora nischen. Efter det vidtar klockren spricka upp mot toppen.}}
+
+{{led|namn=Fem C minus|grad=6-|längd=25|betyg=1|fa=[[Gustav Nilsson]] [[2013|-13]]|betyg=1|text=Klättra rakt upp i spricklinjen direkt till höger om Geometri hela vägen till toppen. Leden bjuder på bra säkringar första halvan sedan kommer ett lätt parti som kräver lite mer uppfinningsrikedom. (Klättra inte denna som din första 6-)}}
+
+{{led|namn=Fermenta|grad=6+|typ=trad|betyg=3|längd=25|fa=|text=Pumpande led med spektakulär klättring den sista biten.}}
+
+{{led|namn=AT-läkaren|grad=6|typ=trad|längd=25|betyg=1|fa=|text=Lite otypisk för Ringkallen då denna led kräver färdighet att lägga kilar i stället för friends. Se till att det inte blir för glest mellan kilarna på mitten. Klättra AT-läkaren som en egen linje utan att ta vare sig i Oborstad eller Fermentas sprickor, använder du dig av dessa sprickor blir graden lägre...}}
+| width="300px" |
+{{led|namn=Oborstad|grad=6-|längd=25|bultar=2|betyg=3|typ=mix|fa=|text=[[Referensled]]. Fin-fin väggled uppför Stora Väggen (och rakt genom en av firningspisterna). Följ spricksystemet upp till den rätt så spektakulära och bultade avslutningen.}}
+
+{{led|namn=Piri-piri|grad=6-|längd=25|typ=trad|betyg=2|fa=|text=Klättra spricklinjen strax vänster om hörnet upp till ett klart oroväckande flak (ryktet säger att man kan hänga knäveck här...), och vidare till "Piri-piri"-hyllan. Tappa inte modet här p g a eventuellt "pirr" i magen: slutet är närmare än vad man tror.}}
+
+{{led|namn=Näsblod|grad=5|längd=20|typ=mix|bultar=1|betyg=2|fa=|text=Fin och välsäkrad spricka till höger om hörnet. Avslutningen säkrad med en borrbult.}}
+
+{{led|namn=Vårkänslor|grad=5|längd=20|typ=trad|betyg=0|fa=|text=Ovanligt klurigt insteg leder vidare till något lättare väggklättring. Viss risk för markfall i starten: säkra noggrannt.}}
+
+{{led|namn=Irrfärd|grad=6-|typ=trad|längd=20|betyg=1|fa=|text=Är inte så svårsäkrad som man kan tro, men det är nog ändå bra att ha lite marginal på graden innan du går på denna. Ankare på toppen.}}
+|}
+
+===Lilla väggen===
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=På tu man hand|grad=5+|längd=12|betyg=1|text=Riktigt hård om du går strickt i sprickan. Referensled.}}
+
+{{led|namn=Kul-Tur|grad=4+|längd=12|betyg=0|text=Dieder.}}
+
+{{led|namn=Styv kuling|grad=6+|längd=12|betyg=2|typ=sport|text=Tre bultar. Kan behövas en stor friend för att säkra uttoppningen. Läcker arête med känsliga flytt.}}
+
+{{led|namn=Återkomsten|grad=6+|längd=12|betyg=0|text=Saknar bladbulten som skyddade kruxet sedan sommaren 2006. Kommer att få ett par borrbultar som ersättning. [[Referensled]].}}
+
+| width="300px" |
+{{led|namn=I sista minuten|grad=6-|betyg=0|fa=[[Per Öhman]], [[Jan Wermelin]] [[1991|-91]]|längd=12|betyg=0|text=Svårsäkrad. Spricksystem i väggens högra del}}
+
+{{led|namn=Liten RP|grad=6+|längd=12|betyg=0|fa=[[Per Wermelin]], [[JB]] [[1992|-92]]|betyg=0|text=Klättra upp till den lodräta sprickan som startar 5m upp och följ sedan den till toppen.}}
+
+{{led|namn=Kvinna var är du?|grad=5|betyg=0|längd=|fa=[[JB]], [[PB]] [[1992|-92]]|betyg=0|text=Sprickan till höer om Liten RP.}}
+|}
+
+===Kaminväggen===
+Den perfekta väggen att hålla till på under varma sommardagar. {{ledlänk|namn=Mulltoa}} är en riktig klassiker!
+
+[[Bild:kaminväggen vänster.jpg]]
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Heta fingrar|nr=1|grad=6|längd=25|typ=mix|bultar=1|betyg=1|fa=[[Per Öhman]], [[Fredrik Wågberg]] [[1998|-98]]|text=Spricka med ett block i. Fortsätt rakt upp förbi en bult.}}
+
+{{led|namn=Delicato|grad=6+|nr=2|längd=25|typ=mix|bultar=2|betyg=1|fa=[[Per Öhman]], [[Per Wermelin]] [[1994|-94]]|text=Referensled. Leden startar till vänster om skrevans öppning. Klättra areten upp och förbi ledens första borrbult. Snedda av ut mot sprickan till höger och klättra till vänster om den upp mot det lilla taket. Tre till fyra meter ovan takete kan man välja mellan att fortsätta upp längs areten eller kliva över kaminen och ut på den brantare väggen till höger.}} 
+
+{{led|namn=Ulriks kamin|grad=5-|nr=3|längd=25|typ=trad|betyg=3|fa=[[Ulrik]]|text=Fin och välsäkrad kamin! Startar 3 meter innanför Delicato i given spricka. Möjligheter till spricklättring finns nästan hela vägen om du är mer sugen på det. Starta vid mossig spricka och följ denna upp mot två klämblock (håller att stå på!) som passeras strax innan du toppar ut på hylla med jättetall på. Firningsankare strax nedanför hyllan.}}
+| width="300px" |
+
+{{led|namn=Sportklättrare har mindre roligt|nr=4|grad=4+|fa=[[Olof]]|längd=25|betyg=0|typ=trad|text=Nästa spricka inne i kaminen.}}
+
+{{led|namn=Mulltoa|grad=6+|längd=25|betyg=3|nr=5|bultar=3|typ=mix|text=Klättra upp och förbi bultarna. Sväng sedan ut till höger, där leden går ihop med Vindpinad.}}
+
+{{led|namn=Vindpinad|grad=6|längd=30|typ=trad|nr=6|betyg=2|text=Höjd i grad från 6- till 6.  Fränt, välsäkrad arete.}}
+|}
+
+===Övre Kaminväggen===
+Hit kommer man genom att klättra någon led på '''Kaminväggen''', eller genom att fira ner från '''Portalväggen'''.
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Skröda|grad=3+|typ=trad|betyg=0|fa=[[Pär Öhman]], [[Per Wermelin]] [[1994]]|betyg=|text=Kliv över skrevan och följ sprickan till tallen.}}
+
+{{led|namn=Ledsna fingrar|grad=7|betyg=1|fa=[[Pär Öhman]], [[Fredrik Wågberg]] [[1994]]|typ=kil|längd=|text=[[Referensled]]. Svårsäkrad i starten, vid förstabestigningen användes förplacerade kilar. }}
+| width="300px" |
+{{led|namn=Lilla korset|grad=7|typ=mix|betyg=0|fa=[[Jan Wermelin]], [[Pär Öhman]] [[1997]]|betyg=|text=Runt hörnet till höger om 'Ledsna fingrar'.}}
+
+{{led|namn=Lätta diedret|grad=4|betyg=0|typ=trad|fa=[[P.E.]] [[1994]]|betyg=|text=Lös.}}
+|}
+{{sidbrytning}}
+
+===Portalväggen===
+[[Bild:ringkallen_matt_nollpositiv.jpg|frame|Matt Kupilik på {{ledlänk|namn=Nollpositiv|klippa=Ringkallen}}, Portalväggen. Foto: [[Användare:Utomjording|Pär Lindholm]] ]]
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=V|grad=6|längd=10|typ=mix|bultar=2|betyg=0|text=Cruxig. Sänkt i grad.}}
+
+{{led|namn=Falska Profeter|grad=5+|längd=10|betyg=0|text=Lite svårsäkrad väggtur till höger om protalen.[[Referensled]]}}
+
+{{led|namn=Yngel|grad=6|längd=10|betyg=1|typ=trad|text=Startar i portalen. Håller bara graden om du går rakt upp i fingersprickan utan att röra diedret.}}
+
+{{led|namn=Nollåtta|grad=4|typ=trad|längd=6|betyg=0|text=Diedret som går från hyllan till höger om portalen.}}
+
+{{led|namn=Artificell Erosion|grad=7-|typ=mix|bultar=1|betyg=1|längd=8|text= Väggtur som startar från en hylla. Går att säkra acceptabelt även om den ser tunn ut.}}
+| width="300px" |
+
+{{led|namn=Nollpositiv|grad=5+|längd=10|typ=trad|betyg=2|text=Klockren, men ack så kort spricka. [[Referensled]]}}
+
+{{led|namn=Sista april|grad=5+|typ=trad|längd=10|betyg=0|text=Inklämd/tveksam}}
+
+{{led|namn=Frågetecken|grad=5+|typ=trad|längd=10|betyg=1|text=Leden längst till höger på Portalväggen. Går upp till en liten tall som hänger ut över kanten. Riktigt små kammar och kilar är bra att ha.}}
+|}
+
+===Överhängande väggen===
+Till Överhängande väggen tar du dig via fasta rep som börjar till vänster om grottan vid Tonusväggen. Anmarschen är något exponerad och inte helt lämplig vid vått väglag.
+
+[[Bild:pet-problemväggen.jpg]]
+
+{|
+|- valign="top"
+| width="300px" |
+''Pet Problem'' och ''Näcken'' startar nedanför Överhängande väggen.
+
+{{led|namn=Pet Problem|grad=6+|nr=1|fa=[[Jan Wermelin]], [[Per Öhman]]|betyg=0|text=Går till vänster om Näcken. Bultar + Firningsankare.}}
+
+{{led|namn=Näcken|grad=5-|nr=2|fa=[[JS]], [[RG]]|betyg=0|text=Passande namn! Går på den knottriga väggen strax före Tonusväggen. Samma firningsankare som på Pet Problem. Ankare uppe vid Överhängsväggen.}}
+
+{{led|namn=Presidenten|nr=3|grad=8|längd=16|betyg=2|typ=sport|fa=[[Kari Nikkuma]] [[1997|-97]]|text=Den bultade leden längst till vänster på överhängande väggen. Hårdast på berget}}
+
+{{led|namn=Jämtland, Jämtland regnar ständut|nr=4|grad=7|betyg=3|fa=[[Kari Nikkuma]] [[1997]]|typ=trad|längd=16|betyg=3|text=Fantastisk spricka, välsäkrad och pumpande}}
+
+{{led|namn=Kors då|grad=7 R|betyg=0|nr=5|fa=[[Kari Nikkuma]], [[Jan Wermelin]] [[1999]]|längd=16|typ=trad|bultar=|betyg=|text=Starta som ''Rätt åt dig'' men traversera direkt vänster på rampen (dåligt säkrat) över till nischen på ''Jämtland, jämtland''. Klättra sedan den vänstra, tunnare sprickan (bra säkrat).}}
+
+{{led|namn=Rätt åt dig|grad=7+|betyg=2|nr=6|typ=mix|längd=16|betyg=2|fa=[[Kari Nikkuma]], [[Jan Wermelin]] [[1999|-99]]|text=[[Referensled]]. Starten är lite pillrig att säkra (små kamkilar och en liten kil).}}
+
+{{led|namn=Länken|grad=7+|typ=mix|betyg=3|nr=7|fa=[[Kari Nikkuma]], [[Jan Wermelin]] [[1999]]|längd=20|bultar=5?|betyg=3|text=Starta som ''Rätt åt dig'' och gå sedan in till första BB på  ''Syra miner''. Fortsätt upp åt höger in i ''Stressgubben'' och avsluta leden. Finast på Ringkallen?}}
+
+{{led|namn=Syra miner|grad=6|betyg=3|längd=13|nr=8|typ=mix|bultar=2|text=Ankare}}
+
+| width="300px" |
+
+{{led|namn=Stressgubben|grad=7|längd=17|bultar=2|nr=9|betyg=3|typ=mix|fa=[[Jan Wermelin]], [[PO]] [[1996|-96]]|text=[[Referensled]]. Firningsankare. Starta vid taköverhänget, stressande start, rakt upp på hyfsade grepp till borrbult. Tunn spricka i litet dieder, sen upp lite vänster till en hylla med nästa borrbult. Ta med en uppsättning kammar och ett kilknippe.}}
+
+{{led|namn=Rolig|grad=7+|typ=mix|nr=10|betyg=3|fa=[[B.K.]], [[Per Öhman]] [[1995]]|längd=12|bultar=3|text=Välsäkrad och väldigt rolig.[[Referensled]]. Firningsankare.}}
+
+{{led|namn=Vingar|grad=5-|typ=trad|nr=11|betyg=0|fa=[[Per Öhman]], [[Jan Wermelin]] [[1997]]|längd=10|bultar=|betyg=|text=[[Referensled]]. Bökigt att komma upp till insteget. Dieder.}}
+
+{{led|namn=Tack, tack|grad=7|typ=sport|nr=12|betyg=0|fa=[[Kari Nikkuma]] [[1999]]|längd=15|bultar=4|betyg=|text=[[Referensled]]. Väggklättring på klippartiet till höger om huvudväggen. Firningsankare.}}
+
+{{led|namn=Gummigubbar|grad=8-|betyg=1|nr=13|typ=mix|fa=[[Kari Nikkuma]], [[Gudmund Söderin]] [[1997]]|längd=|bultar=3|text=[[Referensled]]. Firningsankare. Leden går ovanför självaste Överhängande väggen inne i en skreva till vänster om svaväggen. Följer en spricka diagonalt upp mot några bultar. Tung och trixig. Ofta kallt klimat.
+}}
+
+
+|}
+
+=== Svaväggen ===
+Till Svaväggen och Ruttna Väggen tar du dig antingen via Överhängande Väggen, eller genom grottan vid Tonusväggen. Inga av dessa vägar är att rekommendera vid regnväder.
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Knytnäven|grad=6+|längd=25|betyg=0|text=Ligger inne i ravinen, till vänster om Gryning. Följ den givna linjen till toppen av svaväggen. Lös!}}
+
+{{led|namn=Gryning|grad=6-|längd=25|betyg=0|text=Startar inne i ravinen på svaväggssidan. Omväxlande diederklättring som kan upplevas lite sandig.[[Referensled]].}}
+
+{{led|namn=Hemlighet|grad=5|längd=25|betyg=0|typ=trad|text=Lös! Se upp med denna. Passera det lilla taket och flöj srickorna till toppen. Och det enorma blocket du ser på övre halvan är löst. Klättras aldrig.}}
+
+{{led|namn=Små och stora vänner|grad=7-|längd=25|betyg=0|text=Till vänster om 'Panorama'. Går upp mot det sneda taket och slutar som 'Panorma'.}}
+
+{{led|namn=Panorama|grad=6+|bultar=2|längd=25|betyg=1|text=Förbi bultarna och sedan upp längs arêten. [[Referensled]].}}
+
+| width="300px" |
+
+{{led|namn=Domino|grad=4+|bultar=|betyg=0|längd=25|fa=[[Jan Wermelin]], [[Per Öhman]] [[1992|-92]]|text=Klättra upp till blocket och traversera sedan vänster. Sikta på det oborstade hacket. Lös.}}
+
+{{led|namn=Tre vise män|grad=5-|längd=25|betyg=2|text=[[Referensled]]. Går via tydliga hyllor/formationer rakt upp i ett stort dieder som passerar två små tallar. Firningsankare 3 meter till höger om uttoppningen. Välsäkrad.}}
+
+{{led|namn=Ragnarök|grad=5|längd=25|betyg=2|text=Går strax till höger om Tre vise män, via diedret som viker av åt höger. Firningsankare.}}
+
+{{led|namn=Golffri tv-sport|grad=5|längd=25|betyg=0}}
+|}
+
+===Övre svaväggen===
+För att komma till Övre svaväggen så måste man klättra någon av lederna på Svaväggen först. Bamse och Lille skutt ligger på väggen direkt där man kommer upp. Grön panik ligger längre till höger på en egen klipppelare.
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Bamse|grad=6+|längd=10|bultar=1|betyg=2|text=En bult på slutet. Ankare.}}
+
+{{led|namn=Lille skutt|grad=7-|längd=10|betyg=0|typ=mix|text=Traversera ut till slutet på bamse för att undvika rutten klippa.}}
+
+{{led|namn=?|fa=?|grad=6|längd=9|betyg=0|typ=trad|text=Den flakiga linjen till höer av väggen. Ihåliga och ruttna flak. Välj en annan led.}}
+
+| width="300px" |
+{{led|namn=Grön Panik|grad=6|längd=10|betyg=2|text=Riktigt brant tradd! Otroligt läcker. Ligger på en egen klippelare till höger om ''Övre Svaväggen''.}}
+|}
+
+===Ruttna väggen===
+För att komma till Ruttna väggen så gå upp förbi Överhängsväggen. Mellan Överhängsväggen och Svaväggen finns en ravin. Gå upp en bit i den längs några fasta rep. Därefter tar du vänster upp i en liten kamin.
+Från vänster till höger.
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Brems belägg|grad=6|betyg=0|fa=[[Per Öhmnan]], [[Jan Wermelin]] [[1997]]|längd=13|bultar=3|betyg=|typ=mix|text=Går att lägga en kamkil före första borrbulten. Över tak}}
+
+{{led|namn=Önskningens stege|grad=6|betyg=1|fa=[[Jan Wermelin]], [[Per Wermelin]] [[1994]]|längd=17|typ=trad|text=[[Referensled]]. Traversera vänster 5m under toppen för att undvika lös klippa.}}
+
+| width="300px" |
+
+{{led|namn=Reptiler i brallan|grad=6|fa=[[Jan Wermelin]], [[Per Öhmnan]] [[1997]]|längd=17|betyg=1|typ=trad|text=Lite läskig...}}
+|}
+
+===Tonusväggen===
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Tonus|grad=6+|längd=8|typ=trad|betyg=2|text=Kort led med stora grepp, men leden är överhängande och har lite pillriga säkringar så pump garanteras ändå. Perfekt uppvärmning för lederna på överhängande väggen.}}
+
+{{led|namn=System|grad=5+|betyg=2|längd=14|typ=trad|text=Brant för graden. Leden följer spricksystemet på areten till höger om Tonus. Blocken kan ibland låta lite ihåliga, men det brukar ändå gå bra.}}
+| width="300px" |
+
+{{led|namn=Stensöta|grad=5+|längd=14|typ=mix|bultar=1|betyg=0|text=Offwidth-sprickan till höger om System. Börja lite längre till höger och bouldra förbi bulten så får du ticka grad 6. Toppankare.}}
+
+{{led|namn=Snuttis|grad=6|typ=trad|längd=14|betyg=0|text=Inte helt självklar att säkra. Gör inte denna som din första 6:a.}}
+|}
+
+===Nedre Tonusväggen===
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Semper|grad=6-|typ=mix|längd=18|betyg=0|bultar=1|fa=[[Per Öhamn]] [[1993|-93]]|text=Insteget är lite till vänster om ledens borrbult. Från hyllan klättrar man sprickan till toppen.}}
+
+{{led|namn=Jällolabel|grad=6+|längd=10|typ=sport|bultar=3|betyg=1|text=Glesbultad väggklättring.}}
+
+| width="300px" |
+
+{{led|namn=Tumba tarzan|grad=5+|typ=trad|längd=|betyg=0|bultar=|fa=[[Per Öhamn]], [[Jan Wermelin]] [[1996|-96]]|text=Spricksystemet till höger om Jällolabel. Hård för graden.}}
+|}
+
+===Övre Tonusväggen===
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Noll till hundra|grad=5|längd=10|typ=trad|bultar=|betyg=0|fa=[[Per Öhman]], [[Jan Wermelin]] [[1994|-94]]|text=På en egen vägg till vänster. Ett sätt att ta sig till svaväggen. Inte helt ren.}}
+{{led|namn=Bossanova|grad=6-|längd=20|betyg=1|typ=mix|bultar=1|text=Bultat ankare. Kryp in under blocket för att komma till insteget}}
+{{led|namn=Supernova|grad=6+|längd=20|betyg=1|typ=mix|bultar=1|text=Bultat ankare.}}
+| width="300px" |
+{{led|namn=Snedsteg|grad=6+|längd=20|typ=mix|bultar=1|betyg=3|text=Bultat ankare. Tydlig spricka på högra delen. Går ut till aretet, sedan via bb till toppen.}}
+{{led|namn=Foton fobi|grad=7-|längd=20|typ=mix|bultar=Några|betyg=2|text=Bultat ankare, gemensamt med 'Foton fobi'. Startar som Snedsteg men går direkt ut till aretet och klättra förbi ett litet tak, därefter fortsätter man på högra sidan av aretet. Liten kamkil till första kruxet, lång slinga till slutet. }}
+|}
+
+===Hårrda väggen===
+På Hårrda väggen ligger en antal mycket fina leder, väl värda promenaden.  Gå förbi tonusväggarna och följ rösena över rasbranten. På andra sidan rasbranten finner ni ''Strandväggarna'' nere till höger och ''Hårda väggen'' rakt upp.
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Borrkrona|grad=7|typ=mix|längd=15|betyg=2|bultar=2|fa=[[B.K.]] [[1995]]|text=Brant och kul.  Två bultar + något eget.  Inget toppankare, så ta med något extra för standplats på toppen.}}
+{{led|namn=Rostiga vingar|grad=6+/7-|typ=mix|längd=15|betyg=0|bultar=2|fa=[[Jan Wermelin]], [[Per Wermelin]] [[1993]]|text=[[Referensled]].}}
+{{led|namn=Hå hej med farbror frej|grad=7-|typ=mix|betyg=0|längd=15|bultar=2|fa=[[Per Wermelin]], [[J.B.]] [[1994]]|text=}}
+{{led|namn=Kalvdans|grad=6+|typ=trad|längd=15|betyg=2|fa=[[Per Öhman]], [[Jan Wermelin]] [[1994]]|text=[[Referensled]].}}
+| width="300px" |
+{{led|namn=Hänglös|grad=6|typ=mix|längd=15|bultar=|betyg=0|fa=[[Jan Wermelin]], [[B.K]] och [[Per Öhman]] [[1995]]|text=}}
+{{led|namn=Sömnlös|grad=5|typ=trad|längd=15|bultar=|betyg=0|fa=[[Jan Wermelin]], [[Per Öhman]], [[EK.Ö.]] [[1993]]|text=}}
+{{led|namn=Banta med brännivn|grad=7|typ=mix|längd=15|betyg=0|bultar=3|fa=[[Jan Wermelin]] [[1995]]|text=[[Referensled]]}}
+{{led|namn=H35|grad=7+|typ=mix|längd=15|bultar=2|betyg=2|fa=[[Jan Wermelin]], [[Fredrik Wågberg]] [[2000]]|text=[[Referensled]]. Går i ravinen ovanför [[Borrkrona]]. Följ sicksacksprickan upp mot bultarna. Firningsankare.}}
+|}
+
+===Partyhyllan===
+Väggen ligger tillhöger om utstegen på ''Banta med brännvin'' och ''Sömnlös''.
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Öh, du bruden!|grad=5+|typ=trad|längd=|betyg=0|bultar=|fa=[[Per Wermelin]], [[J.B]] [[1994]]|text=}}
+| width="300px" |
+{{led|namn=Bakisholm|grad=5-|typ=trad|längd=|bultar=|betyg=0|fa=[[J.B.]], [[Per Wermelin]] [[1994]]|text=}}
+|}
+
+===Strandväggarna===
+Alla leder har firningsankare.
+{|
+|- valign="top"
+| width="300px" |
+
+''Tjäderskräck'' och ''Raveg'' ligger på det första väggpartiet man kommer till om man följer skyltarna till Strandväggarna.
+
+{{led|namn=Tjäderskräck|grad=7|längd=|betyg=1|typ=mix|text=Går på väggen längst till vänster på strandväggarna. Startar från hyllan.}}
+
+{{led|namn=Raveg|grad=6|betyg=0|fa=[[Per Öhamn]], [[Jan Wermelin]] [[1998|-98]]|typ=trad|text=Sprickan till höger om Tjäderskräck.}}
+
+''Bulimia Neurosa'' och ''Krås'' ligger på en egen pelare till höger om ''Tjäderskräck'' och ''Raveg''.
+
+{{led|namn=Bulimia Neurosa|grad=6-|längd=14|betyg=2|typ=trad|text=Tydlig spricka som går genom ett litet tak på slutet. Till vänster om Krås. Ofta blöt. Bultat ankare.}}
+
+{{led|namn=Krås|grad=7|längd=14|betyg=2|typ=mix|bultar=1|text=Startar vid ett tunnt utstickande flak.}}
+| width="300px" |
+
+{{led|namn=Kattguld|grad=6+/7-|längd=|betyg=0|typ=mix|text=Går på en egen lite diagonal pelare}}
+
+På den snyggt vattenpolerade nedre strandväggen ligger följande leder, som alla är väl värda att göra.
+
+{{led|namn=Kung Triton|grad=7-|längd=|betyg=2|typ=trad|text=Längst till vänster på väggen.  Välsäkrad och fysisk! }}
+
+{{led|namn=Borrealism|grad=7+|längd=|betyg=2|typ=mix|text=I mitten på nedre strandväggen. En bult i starten och två i slutet visar vägen.}}
+
+{{led|namn=Diskbrock|grad=7|längd=|betyg=2|typ=mix|text=Högra ytterhörnet på nedre strandväggen.}}
+
+Följande leder ligger på väggen ovanför ''Kattguld'', ''Kung Triton'' mfl.
+
+{{led|namn=Friska viljor|grad=7-|längd=|betyg=1|typ=mix}}
+
+{{led|namn=Knåbben|grad=6+|längd=14|betyg=2|typ=sport}}
+|}
+
+==Tryckt förare==
+'''Ringkallen klätterguide''' distribueras via Höga kusten klätterklubb, eller LGJ Klätter- och högfjäll. http://www.klatterochhogfjall.com/webbshop/products.asp?Group=60
+
+En mer utskriftsvänlig version av detta material kan hittas [http://www.linkopingsklatterklubb.se/index.php/forare_sverige.html här].
+
+==Fler bilder==
+[[Bild:Ringkallen_panorama.gif|left|frame|180-graders panorama av utsikten från Ringkallen. Foto: [[Användare:Peblin|Per Lindh]]]]
+Fotosidan [http://flickr.com/search/?q=ringkallen&w=all Flickr] innehåller många bilder från ringkallen.
+
+=In English=
+A beautiful crag perched above the sea on Sweden's High Coast. Mostly short well-protected routes from grade [[Gradsystem|4+]] to [[Gradsystem |6]].
+
+There are just four fully bolted routes in Ringkallen, the rest are protected by trad gear or by a mix of trad gear and fixed protection.  Almost all routes are very safe which is one of the reasons for Ringkallen's perennial popularity.  In the route-descriptions given above a few routes are marked as [[Referensled|referensled]]. Every [[referensled]] has the route name painted on a small rock glued on to the cliff at ankle height.
+
+==Directions==
+In Nordingrå take right in the direction of Häggvik just before the closed gas-station. Drive past Häggvik and Café Mannaminne. After about 1.5 km(?) follow the sign-post pointing right up on a gravel-road toward Häggnor. Take left both at the first and the second fork and continue straight ahead on the wider road all the way to a big turnaround. Park your car and follow a path in the same direction. After a while you will reach some scree with cairns. Cross this to reach the crag.
+
+If you see signs with "Rinkallen" on them, they are pointing to the top of the mountain, not to the crag!
+==Staying there==
+It is possible to camp on the turnaround and up by the crag. The campsite found 100 m from the turnaround, diagonally to the right (looking out towards the crag) is NOT to be used because of reforestation. 
+
+A nice cabin can be rented on [http://www.mannaminne.se Café Mannaminne].
+
+
+
+[[Kategori:Ångermanland]] [[Kategori:Engelska]]

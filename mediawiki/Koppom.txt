@@ -1,0 +1,140 @@
+<!-- Detta gör det möjligt att markera klippan på kartor -->
+{{info klippa
+  |lat=59.656469
+  |long=12.153282
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+
+{{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+
+Koppom består av två områden kallad övre och nedre Koppom. 
+Klippan har legat i dvala sedan en aktivitetstopp på 90-talet då dagens mix och sportturer skapades. 
+Kanske värmlands mest negligerade klippa med sin höga höjd, mäktiga överhäng och tak. Ta med någon gammal Jösse-klätter räv som guide. Du hittar dessa via [http://www.josseklatter.net Jösse Klättersällskaps hemsida].
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-right: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.662886" lon="12.177658" type="map" zoom="11" controls="small">
+59.650701, 12.150621, Nedre Koppom parkering
+59.654597, 12.154441, Nedre Koppom
+59.64327, 12.155771, Övre Koppom
+</googlemap>
+</div>
+
+Koppom ligger två mil från Arvika. 
+
+Beskrivningen nedan till nedre koppom, då övre koppom delvis förlagts med klätterförbud. se access.
+
+'''Från Arvika'''
+Följ skyltar från Arvika mot Jössefors och Årjäng. Kör genom samhället Jössefors. Efter Sulvik (1 mil från Arvika) sväng höger mot Koppom istället för att köra rakt fram över Finnskogen mot Årjäng. Följ denna en dryg mil tills du kommer till en t-korsning där du ska svänga vänster mot Koppom/Årjäng.  Kör genom samhället Koppom i 50km/h. Polisen har tagit flera som inte orkar hålla denna låga hastighet, så var observant... eller håll <50. Kör förbi Järnskogs kyrka, passera avfarten höger till Skillingmark och norska gränsen. Inom en kilometer kommer landskapet öppnas upp med åkerlappar på båda sidor av vägen (ungefär en kilometer från samhället). Mitt på det öppna området finns en raksträcka och en rastplats på vänster sida. Rikta blicken mot vänster och du bör se olika långa och höga klippformationer sticka upp ovanför träden. Första sektionen till vänster är nedre koppom, sedan kommer det "berömda" gubben i berget som framtyder om man tiltar sitt huvud åt vänster. Snett upp till höger från gubben i berget finns övre koppom. 
+
+Direkt efter rastplatsen går en grusväg åt vänster. Följ grusvägen mot stugan på höjden. Precis innan uppförsbacken mot stugen sväng vänster in på en mindre grusväg (gräs-sträng i mitten). Följ denna i en stor U-sväng åt höger tills du kommer till en vändplan. Parera ev. för några björkar som hänger ner över vägen. Parkera vid vändplatsen. Följ traktorstigen 10-20 meter och du hittar första partiet mellan lövverket på andra sidan ett stenrös. Ungefär 1-2 minuter från parkering. Nedre koppom sträcker sig härifrån och vänsterut X antal hundra meter. 
+
+'''Övre Koppom'''
+
+I slutet av raksträckan går två grusvägar in till vänster vid en transformatorstation. Följ den högra uppför backen förbi lite hus. Parkera där vägen gör en skarp vänstersväng och en gräsväg går rakt framåt. Följ vägen åt vänster förbi djurhagar vidare upp i skogen. När vägen tar slut följ en stig åt vänster. Stigen slingrar sig upp runt klippan, följ din instinkt och gå av stigen där det känns rätt. 
+
+'''Från Årjäng'''
+Kör väg 172 från Årjäng mot Arvika. 
+Efter ca 1-2 mil når du Vännacka och en avtagsväg till vänster mot Koppom på väg 177. Sväng. 
+Fortsätt vägen rakt fram ett antal kilometer. Speja åt höger när landskapet öppnar upp sig och du ser berget sticka upp ur skogen bortom åkerlapparna. 
+Där landskapet öppnar upp sig finns en skogsdunge intill vägen med en rastplats. Sväng av på grusvägen åt höger strax innan rastplatsen. Fortsätt längs grusvägen mot stugan på höjden. Precis innan sista uppförsbacken mot stugen sväng vänster in på en mindre grusväg. Följ denna i en stor U-sväng åt höger tills du kommer till en vändplan. parkera. Följ traktorstigen 10-20 meter och du hittar första partiet mellan lövverket på andra sidan ett stenrös. Ungefär 1-2 minuter från parkering. Nedre koppom sträcker sig härifrån och vänsterut i X antal hundra meter. 
+
+Om du kör förbi rastplatsen når du Hajom(Hijom?) och strax därefter avtagsväg till vänster mot Skillingmark och norska gränsen. Då har du kört för långt. Missar du båda dessa är du inne i Koppom och bör inte har problem med att hitta ställen att vända på. 
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+===Om klättringen===
+[[Bild:Koppom1.JPG|thumb|300px]]
+[[Bild:Koppom2.JPG|thumb|300px]]
+[[Bild:Koppom3.JPG|thumb|300px]]
+[[Bild:Koppom4.JPG|thumb|300px]]
+[[Bild:Koppom5.JPG|thumb|300px]]
+[[Bild:Koppom6.JPG|thumb|300px]]
+[[Bild:Koppom71.JPG|thumb|300px]]
+[[Bild:Koppom8.JPG|thumb|300px]]
+[[Bild:Koppom9.JPG|thumb|300px]]
+[[Bild:topo övre koppom.bmp|thumb|300px]]
+
+Under 90-talet genomförde Jösse Klättersällskaps medlemmar viss verksamhet vid klippan. Sedan dess har den i princip legat orörd förutom något enstaka besök då och då. Mycket märkligt då den har potential att bli det häftigaste i nejden. Högt, brant och stort. 
+
+Tyvärr har aldrig någon förare skapats utan all information om klippan och lederna finns i dagsläget i bakhuvudet på en eller flera (eller ytterligare) av dessa personer. Axel Heyman, Anders Borg/Tväråna, Johan Sagvik, Emil Enqvist mm. Gamla jösserävar, som antingen lagt av med klättring eller flyttat bort.  
+
+I dagsläget finns ett 15-tal leder som man känner till och kan räkna sig till (bultar på mix och sportleder). Hur och vilka tradlinjer som etablerats är lite oklart. 
+Utan tvekan finns här ett stort potential att utveckla klippan ytterligare. Primärt med sportklätterleder, men också trad och mixklättring. Koppomsklippan bjuder också på kanske värmlands kraftigaste överhäng och många olika varianter på tak. Här finns möjligheter till många, hårda(!) leder om intresse finns.  
+
+De stora stenrösen som finns under klippväggarna skvallrar om dåliga landningar, att man ska vara försiktig när man tar sig från led A till B samt att klippan kan vara lös på sina håll. Nya leder bör knackas, brytas och rensas ordentligt innan etablering. Berget är dock generellt fast och fint. 
+
+Solen träffar berget på förmiddagen och ligger sedan på under hela dagen. Därför lämplig klippa för vår och höstklättring då luften är svalare och temperaturen behagligare. 
+
+pga inaktiviteten skulle klippan behöva en översyn vad gäller borstning och putsning. 
+
+De som har mer information om klippan är HEMSKT välkomna att fylla i allteftersom denna förare tar form. Information som önskas är namn, grader, förstabestigare, bultare och när, samt övrig information såsom, finns toppankare, var går leden, varför heter den som den gör, hur ställer sig markägare till klättrare osv. 
+
+'''Jämförelser med närliggande klippor'''
+
+Om man jämför med närliggande klippor så är Koppomsklippan 2-3 gånger så bred som Järnberget och ungefär lika hög och på några ställen 5-10 meter högre. Järnberget erbjuder fastare berg, lättare access och fina välsäkrade leder av kvalité. Koppomsklippan är inte alls lika utvecklad och har inga tydliga sprickor från topp till botten. Därav sport och mixtursfrekvensen. Lite aktivitet vid koppomsklippan, så skulle den vara ett fint komplement/alternativ till Järnberget.  
+
+Jämför man med Sulvik så är Koppomsklippan badande i sol under hela dagen, men karaktären och utseendet påminner annars om varandra. Dock kan Koppom erbjuda fler överhäng och tak än Sulvik gör. Sulvik är å andra sidan något mer utvecklat och har i dagsläget högre aktivitet.
+
+==Övre Koppom==
+
+På övre Koppom går i dagsläget ca 7-8 leder. Berget är 40m högt (Ta med två rep). Här går mestadels aidturer men en del lättare sprickor 4-5 registret och en del av aidturerna har blivit friade i graderna 6-7 , bult/trad. Även bouldermöjligheter finns. Kontakta Martin Jurander i [http://www.josseklatter.net Jösse Klättersällskap]. 
+
+{{access}}
+OBS! Pga häckande och fridlyst fågel är det klätterförbud på denna klippa mellan vissa datum. Ta kontakt med Jösse Klättersällskap för mer information. OBS!
+
+==Nedre Koppom==
+Första sektionen man möter vid nedre koppom är lite brötig och är inte så intressant. 
+Fortsätt vänsterut i 50-100 meter, så blir det bättre och de första borrbultarna visar sig. Sedan följer ytterligare sektion med mindre klippa och bråte innan nästa störra klippvägg med nya bultar. Ungefär 50-100 meter mellan varje?
+
+Inte alltid självklart att hitta bultarna och veta var linjerna går upp. Dels pga mixade leder, dels pga svartmålade bultar som kan vara luriga att lokalisera. 
+
+Oklart om lederna har toppankare eller ej. 
+
+Sportlederna ungefär 25-30 meter långa i registret 6 - 7+. till det finns en del mix och lite trad (projekt). sportturerna sägs vara riktigt fina. 
+
+Antal leder ungefär 15. 
+
+Finns också en hel del bouldermöjligheter. Dels på klippan, men också på block nedanför. 
+
+Utförligare beskrivning av leder samt bilder kommer så småningom. 
+
+
+<!--
+
+==Leder==
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Namn på led|grad=9c+|typ=trad|betyg=3|bultar=|längd=30|fa=[[namn på fa]] -08|text=ledbeskrivning}}
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+-->
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:mix]] 
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]] 
+
+<!-- [[Kategori:sva]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar leder]]
+[[kategori:Värmland]]

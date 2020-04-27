@@ -1,0 +1,11 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Korståget|grad=7A|typ=Krimp,Jug|fa=C-O Boström|landning=3|betyg=2|sopad=C-O Boström|text=Rakt upp från jättegreppet mitt på väggen.}}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

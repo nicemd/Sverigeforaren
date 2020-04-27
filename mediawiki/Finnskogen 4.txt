@@ -1,0 +1,41 @@
+{{info klippa
+  |lat=59.669864
+  |long=12.385669
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{boulderstub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Liten boulderklippa alldeles intill vägen i början på det som kallas Finnskogen mellan Arvika och Årjäng. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.605265" lon="12.43927" type="map" zoom="9">
+59.669864, 12.385669, Finnskogen 4
+</googlemap>
+</div>
+
+
+Åk från Arvika mot Årjäng, passera både Jössefors och Sulvik och fortsätt vägen rakt fram mot Årjäng. Strax efter sulvikingen (macken i Sulvik) börjar vägen blir brantare. Fortsätt den stora lätta vänstersvängen förbi högra avfarten/korsningen till Koppom. Klippan har legat snillrikt dold i många år direkt till vänster om vägen. Om vägen mattas av och du kan se ett litet tjärn på vänster sida så har du kört för långt.
+
+
+<div style="clear:right;"></div>
+
+==Föraren==
+
+Komplett förare hittas på Arvikas boulderförare som hittas på följande länk [http://27crags.com/crags/finnskogen-4 http://27crags.com/crags/finnskogen-4]
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:bouldering]]
+[[kategori:Saknar skiss]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+[[Category:Värmland]]

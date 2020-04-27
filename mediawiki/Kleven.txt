@@ -1,0 +1,88 @@
+{{info klippa
+  |lat=58.350767
+  |long=11.216784
+}}
+
+{{utkast}}
+
+== Introduktion ==
+Kleven är ön som ligger på andra sidan Smögenkanalen. Väggen ligger vänd mot havet med fin utsikt. Lederna är relativt lätta och ganska korta (ca 10 m).
+
+Kleven is the island that is on the west side of the Smögen canal.  The cliff is directly on the ocean with a beautiful view.  The routes are relatively easy and pretty short (about 10 meters).
+
+== Karaktär ==
+
+== Vägbeskrivning ==
+
+<googlemap version="0.9" lat="58.356036" lon="11.220732" zoom="14">
+58.350767, 11.216784, Kleven
+Smögen, Sotenäs, Sverige
+</googlemap>
+
+Själva klätterklippan ligger västvänd mitt på ön och en kort promenad från Smögenbryggan. Man kan antingen följa spången mellan klipporna vid parkeringen ut på ön, gå vänster förbi den lilla viken, sen gena över berget, eller gå direkt tvärs över berget beroende på om man parkerar på stora parkeringen eller längre ut på ön.
+
+The actual cliff is located on the west side of the island facing west, which makes it dry out quickly if it has been raining.  It is a short walk from the main town/harbor/docks in Smögen.  Facing west from the parking, follow the (few) stairs (where the main road is turning left) that lead up, continue walking between the rocks following the wooden bridges, take a left at the small inlet and follow the left side of the bay up and over the top of the cliff.  You will know you're in the right place when you see the bolted anchors on your right side.  
+
+
+== Parkering ==
+Kommer du i bil kör du genom Smögen och ut på ön, du kan parkera på den stora parkeringen direkt efter sundet eller hitta en och annan gratisplats lite längre bort. 
+
+Drive through the entire town and out onto the island. You can park in a large parking lot directly after the sound, which separates the island of Kleven from the mainland.  
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+== Säkring == 
+Toppankare finns på flera leder.
+
+You will find top anchors on several of the routes.
+
+== Leder ==
+Högra delen av klippan (nedifrån sett) ser ut att ha rasat lite, de sista lederna kanske inte finns kvar.
+
+
+Från vänster till höger (From left to right):
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|nr=1|namn=Landgången|grad=3-|betyg=|längd=5|fa=Peter Brolin (Solo) -90|bultar=|typ=|text=}}
+
+{{led|nr=2|namn=Grönt er sundt|grad=6-|betyg=|längd=9|fa=Jan Mathorne -97|bultar=|typ=|text=}}
+
+{{led|nr=3|namn=Lejdaren|grad=3+|betyg=|längd=9|fa=Peter Brolin (Solo) -90|bultar=|typ=|text=}}
+
+{{led|nr=4|namn=En hora i varje hamn|grad=4-|betyg=|längd=9|fa=Kay von Damm, Peter Brolin -90|bultar=|typ=|text=}}
+
+{{led|nr=5|namn=Ro hit!|grad=5+|betyg=|längd=10|fa=Per Calleberg, Peter Brolin -90|bultar=|typ=|text=}}
+
+{{led|nr=6|namn=Tid är lag|grad=5+|betyg=|längd=10|fa=Rikard Hedman (Solo) -90|bultar=|typ=|text=}}
+
+{{led|nr=7|namn=Sjökorna|grad=3|betyg=|längd=10|fa=Rikard Hedman (Solo) -90|bultar=|typ=|text=}}
+
+{{led|nr=8|namn=Sätt fyr på skiten|grad=4+|betyg=|längd=10|fa=Rikard Hedman (Solo) -90|bultar=|typ=|text=Följer diedret}}
+
+{{led|nr=9|namn=Ta det med ro|grad=6|betyg=|längd=10|fa=Rikard Hedman (Solo) -90|bultar=|typ=|text=}}
+
+| width=300px|
+
+{{led|nr=10|namn=Kasta tankar|grad=4+|betyg=|längd=10|fa=Rikard Hedman (Solo) -90|bultar=|typ=|text=}}
+
+{{led|nr=11|namn=Hilda|grad=6|betyg=|längd=10|fa=Claes Kling, Patrick Lindholm -94|bultar=|typ=|text=}}
+
+{{led|nr=12|namn=Hjalmar|grad=6-|betyg=|längd=10|fa=Claes Kling, Patrick Lindholm -94|bultar=|typ=|text=}}
+
+{{led|nr=13|namn=Kölsvinet|grad=5-|betyg=|längd=10|fa=Peter Brolin, Kay von Damm -90|bultar=|typ=|text=}}
+
+{{led|nr=14|namn=Fyr mig själv|grad=6-|betyg=|längd=10|fa=Rikard Hedman (Solo) -90|bultar=|typ=|text=Mycket trevlig led mitt på högra delen av klippan. Insteg från sten som löper ända in mot klippan. Toppankare finns.}}
+
+{{led|nr=15|namn=För säkrad|grad=6-|betyg=|längd=10|fa=Rikard Hedman, Per Calleberg -90|bultar=|typ=|text=}}
+
+{{led|nr=16|namn=Fyr elise|grad=5|betyg=|längd=5|fa=Per Calleberg (Solo) -90|bultar=|typ=|text=}}
+
+{{led|nr=17|namn=Relingen|grad=4-|betyg=|längd=|fa=Per Calleberg -90|bultar=|typ=|text=Travers mellan instegen på Ta det med ro och Kölsvinet}}
+|}
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]] 
+[[Kategori:vertikalt]]

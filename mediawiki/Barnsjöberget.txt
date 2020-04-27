@@ -1,0 +1,32 @@
+{{utkast}}
+{{info klippa|lat=59.2265819|long=18.2329284}}
+
+==Allmänt==
+Liten klippa öster om Trollbäcken. Klippan består av en 20 m hög svavägg och en mindre men överhängande sidovägg. I området finns en god potential för bouldering (ta med rensborsten). Det är bara någon kilometer till klipporna vid [[Tyresö-Flaten]]. I Bansjön som ligger 200m från klippan finns en utmärkt badbrygga. Ett picknick-berg!
+
+2011-06
+Klippan oklättringsbar, mossa och träd på sva-väggen.
+Bult i dåligt skick.
+Planer på upprustning av denna klippa planerad av lokala klättrare.
+
+==Vägbeskrivning==
+<div style="float:right; border: solid 1px gray">
+<googlemap version="0" lat="59.239025" lon="18.228035" type="map" width="300" height="200">
+59.226582, 18.232928, Barnsjöberget
+</googlemap>
+</div>
+Åk Tyresövägen (229:an), men i stället för att åka mot Tyresö så åker man mot Haninge, Vendelsö längs Gudöbroleden (väg 260). Vid andra rödljuset svänger man v på Skogsängsvägen och         fortsätter den 1,5 km då den tar slut och Barnsjöslingan tar vid. Parkera och gå längs med grusstigen till berget som ligger på vänster sida.
+
+{{clear}}
+==Leder==
+{{led|nr=1|namn=Before seven they are like heaven|grad=6+|längd=13|bultar=1|typ=mix|fa=[[Marco Kupiainen]], [[Jesper Andersson]] [[-92]]}}
+{{led|nr=2|namn=Blöjraggaren|grad=7|längd=16|fa=[[Marco Kupiainen]], [[Mats Olofsson]] [[-94]]|text=Travers till höger från Before... }}
+{{led|nr=3|namn=Underrbarra barrbarra|grad=5+|längd=16|fa=[[Marco Kupiainen]], [[Jesper Andersson]] [[-92]]|text=Överraskande fin.}}
+{{led|nr=4|namn=Pedofilen|grad=3+|längd=17|fa=[[Marco Kupiainen]], [[Jesper Andersson]] [[-92]]}}
+{{led|nr=5|namn=Vi var först|grad=4+|längd=18|fa=[[Jesper Andersson]], [[Marco Kupiainen]] [[-92]]}}
+{{led|nr=5a|namn=Vi är dessutom kåtare|grad=6|längd=5|fa=[[Marco Kupiainen]], [[Jesper Andersson]] [[-92]]}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Tyresö]]
+[[Kategori:Trad]]
+[[Kategori:Saknar skiss]]

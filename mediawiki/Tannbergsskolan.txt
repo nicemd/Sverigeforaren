@@ -1,0 +1,28 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Grisblod|grad=5A|typ=Pinch,Spricka|fa=Johan Danielsson|landning=4|betyg=2|fadatum=2004-04-05|sopad=Johan Danielsson|text=Går på blocket mot timmervägen. Startar vid tallen, följer sprickan.}}
+{{problem|namn=Lillan|grad=3B|typ=Slopers,Jug|fa=Maria Eriksson|landning=3|betyg=1|fadatum=2004-04-09|sopad=Maria Eriksson|text=På sten närmast fotbollsplan. Lurigt insteg för korta. Startar vid den lägsta delen av stenen.}}
+{{problem|namn=Storan|grad=4C|typ=Slopers,Överhäng|fa=Johan Danielsson|landning=2|betyg=1|fadatum=2004-04-09|sopad=Johan Danielsson|text=Stenen närmast fotbollsplanen. Startar på sidan från planen vid den överhängande delen.}}
+{{problem|namn=Konstgräs|grad=5B|typ=Slopers,Aréte|fa=Johan Danielsson|landning=4|betyg=2|fadatum=2004-04-07|sopad=Johan Danielsson|text=På stenen närmast fotbollsplanen. På kanten mot planen. Starta med en hand runt areten. Något högt avslut men lättare mot toppen.}}
+{{problem|namn=Kandidaten|grad=4C|typ=Överhäng,Heel hook|fa=Marlene|landning=4|betyg=1|fadatum=2004-04-07|sopad=Johan Danielsson|text=På stenen närmast fotbollsplanen. Startar på överhängande delen mot planen. Häng in och heelhooka till toppen.}}
+| width="250px" |
+{{problem|namn=Grisblod variant|grad=5C|typ=Pinch,Spricka|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-04-19|sopad=Johan Danielsson|variant=ja|text=Start till vänster om sprickan. Starta med båda händerna i sprickan.}}
+{{problem|namn=Den långa flykten|grad=6A|typ=Krimp,Layback,Aréte|fa=Johan Danielsson|landning=3|betyg=3|fadatum=2004-04-19|sopad=Conny Dahlin|text=På framsidan av stenen närmast timmervägen. Starta med båda händerna på areten.}}
+{{problem|namn=(Projekt)|grad=-|typ=Krimp,Slopers,Pinch,Mantling|fa=Johan Danielsson|fadatum=2004-04-19|sopad=Johan Danielsson|text=Öppet projekt. På blocket närmast timmervägen. Starta mitt på sidan som ligger mot skolans parkering. Vassa grepp}}
+{{problem|namn=Flanken|grad=5B|typ=Krimp,Slopers,Aréte|fa=Johan Danielsson|landning=4|betyg=1|fadatum=2004-04-22|sopad=Johan Danielsson|text=På blocket närmast fotbollsplanen. Startar till vänster (runt areten)i förhållande till konstgräs.}}
+| width="250px" |
+{{problem|namn=eisensteige|grad=6C|typ=Krimp,Slab|fa=johan Danielsson,Conny Dahlin|landning=3|betyg=2|fadatum=2004-05-10|sopad=johan Danielsson,Conny Dahlin|text=Tunt o trixit slabb problem blir en aning högt mot toppen,ligger på ovansidan av det stora blocket utefter skidspåret.}}
+{{problem|namn=Gaylord Fokker|grad=6A+|typ=Krimp,Slopers|fa=Johan Danielsson & Pär Lindholm|landning=3|betyg=1|fadatum=2005-10-10|sopad=Johan Danielsson & Pär Lindholm|startgrepp=ja|text=Till vänster om Den Långa Flykten. Startgrepp: Vänster hand på greppet i brösthöjd och höger på krimp rakt upp. Följ aréten till samma uttoppning på Den Långa Flykten.}}
+{{problem|namn=The Pusher|grad=6A+|typ=Slopers,Pinch|fa=Johan Danielsson & Pär Lindholm|landning=2|betyg=2|fadatum=2005-10-10|sopad=Johan Danielsson & Pär Lindholm|startgrepp=ja|text=Starta långt till vänster på rampen. Traversera upp mot Grisblod.}}
+|}
+[[Kategori:Lycksele]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

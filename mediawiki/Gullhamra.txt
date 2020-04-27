@@ -1,0 +1,187 @@
+{{info klippa
+  |lat=59.13733605990039
+  |long=17.78939723968506
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{komplett}}
+
+==Allmänt==
+Nyutvecklad sportklippa nära Grödinge kyrka.
+Gullhamra är ett stort berg som har flera mer eller mindre kompakta väggpartier på den branta västsidan. Längst åt söder ligger det mest  sammanhängande och klippliknande väggpartiet.  Det är mer än hundra meter brett men delvis ganska löst. Vägghöjd varierar mellan 15 och 20m. Idag finns det någon femton helbultade sportleder och flera nya projekt är på gång. Klättringen varierar från lättare vertikal till hårda branta delar och små tak.
+
+==Miljö:==
+Klippan är solvänd men delvis skuggad av lövträd, vilket borde innebära att de går att klättra på från tidig vår till sen höst. 
+En våtmark ligger ett stenkast från klippan. Under sommaren kan det vara ganska rejält med mygg. Glöm inte myggmedel. 
+Det finns massor med vildsvin i området. Ta det lugnt och försiktigt.
+
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.13733605990039" lon="17.78939723968506" width="300" height="400" zoom="12" type="map">
+59.13733605990039,17.78939723968506,Gullhamra berg
+</googlemap>
+</div>
+
+Från Tumba kör Dalvägen (väg 226) mot Vårsta ca 4km. Kör genom Vårsta och ta vänster in på väg 225 mot Nynäshamn. Efter 1.8km sväng höger mot Skanssundet och Grödinge k:a. Efter 2.5km passeras kykan. Försätt ca 200m till 70-skyltar. Precis efter skyltarna finns det en liten plätt på vänster sidan. Där kan man parkera två eller tre bilar max. I alt finns det en stor parkering vid kyrkan.
+
+Buss 727 från Tumba station mot Skanssundet stannar vid Grödinge kyrka. Restid ca 15min.
+
+[[Bild:Gullhamra_vag.jpg|left|400 px|thumb]]
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+[[Bild:Gullhamra_view.jpg|left|400 px]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+Vyn från vägen mot klippan är fin. 
+Men om du ser det så har du kört för långt!!
+
+|}
+
+[[Bild:Gullhamra_start.jpg|400 px]]
+Riktig start från parkering.
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+==Karaktär==
+
+Klippan dyker upp från marknivå och på sina ställen är ganska hög och imponerande. Det finns då flera mindre eller större hyllor som man måste klättra förbi. Därför känns några leder effektivt kortare men också brantare än väntat. 
+
+Det finns en hel del riktigt vassa grepp och kanter. Klippkvalitén är varierande och bitvis ganska ful, men i princip är det något bättre än man tror.  Alla leder är helbultade och väldigt mycket lösa block och sten har rensats bort. Det är fortfarande inte ovanligt att ett och annat grepp kan lossna så den försiktige säkraren har på sig hjälm. Att ledklättra på oklara/stängda projekt kan vara rent livsfarligt!
+
+[[Bild:Gullhamra_main_wall01.jpg|700 px]]
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+==Leder==
+
+Det finns ett toppankare på varje led. Alla leder är helbultade.
+
+===Jennie-Vera sektor (Vänstra delen )===
+
+[[Bild:Gullhamra_left_sector.jpg|right|500 px]]
+Det kan vara klokt att undvika det [[Gullhamra/Stora block|stora block/flak]] emellan led nr 4 och 5.
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Utan känslor|grad=6b+|längd=16|typ=sport|fa=[[Carl Söderberg]], [[Atilla Doborg]] [[-9?]]|bultar=8|text=Fin väggklatring på klippans mest västra del.}}
+
+{{led|nr=2|namn=Vera|grad=6c|längd=18|typ=sport|betyg=1|fa=[[Peter Yakubenko]] [[-08]]|bultar=7|text=Intressant areteklättring.}}
+
+{{led|nr=3|namn=Jennie|grad=6a+|längd=20|typ=sport|fa=[[Carl Söderberg]] [[-9?]]|bultar=9|text=Dieder/bred spricka. Rensad och retrobultad -08.  Inte illa!}}
+
+{{led|nr=3a|namn=Inskolning|grad=6b|längd=20|typ=sport|fa=[[Peter Yakubenko]] [[-08]]|bultar=9|text=Gemensamt insteg med Döda korpar och samma utsteg som Jennie. Finare än föregående.}}
+
+{{led|nr=4|namn=Döda korpar |grad=7c+|längd=18|typ=sport|fa=[[Peter Yakubenko]] [[-08]]|bultar=8|text=Rakt upp på skölden. Rejält överhängande och fin.}}
+
+{{led|nr=4a|namn=Jolly Roger|grad=7b|längd=18|typ=sport|bultar=8|fa=[[Johan Luhr]] [[2010|-10]]|text=Övanför det stora flaket.}}
+|}
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+===Huvudväggen===
+
+[[Bild:Gullhamra_main.jpg|right|500 px]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+
+{{led|nr=5|namn=Skogsrövare|grad=7a+|längd=20|typ=sport|fa=[[Peter Yakubenko]] [[-08]]|bultar=9|text=Rakt linje mot vänsterkanten av taket. }}
+
+{{led|nr=6|namn=Fågeljägare|betyg=1|grad=7b|längd=20|typ=sport|fa=[[Peter Yakubenko]] [[-08]]|bultar=10|text=Superdirettissima.}}
+
+{{led|nr=7|namn=Hildisvin|grad=7b+|längd=20|typ=sport|fa=[[Jan Emdebrant]] [[-08]]|bultar=9|text=Rakt linje genom högerdelen av taket. Svinhård.}}
+|}
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+===Galten sektor (Högra delen )===
+
+[[Bild:Gullhamra_galten+.jpg|right|500 px]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=8|namn=Galten|grad=7a+|längd=20|typ=sport|betyg=1|fa=[[Jan Emdebrant]] [[-08]]|bultar=8|text=Tung dynamisk start, fin brant svaklättring i mitten, och tekniskt utsteg genom mothänget. Mycket fin.}}
+
+{{led|nr=8a|namn=Gullinbursti|grad=7a+|längd=20|fa=[[Peter Yakubenko]] [[-10]]|bultar=9|text=Peter Siljeruds gamla projekt. Emmelan Galten och Hildisvin, samma utsteg som Galten.}}
+
+{{led|nr=9|namn=Pärlor för vildsvinen|grad=6b+|längd=19|typ=sport|fa=[[Peter Yakubenko]], [[Jörgen Alvhäll]] [[-09]]|text=På vänstra sidan i den stora diedern. 9bb}}
+
+{{led|nr=10|namn=Kultingen|grad=6b+|längd=20|typ=sport|fa=[[Jan Emdebrant]] [[-08]]|text=Krux på mitten.}}
+
+|}
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+===Högra väggen===
+[[Bild:Mitten-väggen.jpg|right|300 px]]
+[[Bild:Höger-väggen.jpg|right|500 px]]
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=11|namn=Pigs in Space|grad=7a+|längd=18|typ=sport|fa=[[Jan Emdebrant]] [[-11]] |text=Höger kanten ingår ej.}}
+
+{{led|nr=12|namn=Gylta|grad=6c+|längd=18|typ=sport|fa=[[Jan Emdebrant]] [[-08]]}}
+
+{{led|nr=13|namn=Bror Duktig|grad=6b|typ=sport|fa=[[Jan Emdebrant]] [[-09]] |text=Till vänster om Stora Stygga Vargen.}}
+
+{{led|nr=14|namn=Stora Stygga Vargen|grad=7a|typ=sport|fa=[[Jan Emdebrant]] [[-09]]}}
+
+{{led|nr=15|namn=Skrik som En Gris|grad=8a?|typ=sport|text=Öppet projekt, kan fortfarande vara något lös i starten- men övre delen är fast. JE}}
+
+{{led|nr=16|namn=Den Sista Färden||längd=18|grad=7b+|typ=sport|fa=[[Jan Emdebrant]] [[-11]]}}
+
+{{led|nr=17|namn=Hus av halm|längd=15|grad=7b|typ=sport|fa=[[Johan Luhr]] [[2010|-10]]}}
+
+|}
+
+<div style="clear: both"></div>
+
+
+{{sidbrytning}}
+
+==Access {{access}}==
+Accessläget vid Gullhamra berg är oklart. Håll låg profil tills mer information finns tillgänglig.
+
+http://www.stockholm.snf.se/bibliotek/rapport/urskog1.pdf
+
+http://www.stockholm.snf.se/bibliotek/rapport/urskog5.pdf
+
+http://www.bloxc.com/forum/viewtopic.php?t=1424
+
+
+
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]
+[[Kategori:Saknar leder]]
+[[Kategori:Saknar skiss]]
+
+[[Kategori:sport]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+[[Kategori:sva]]

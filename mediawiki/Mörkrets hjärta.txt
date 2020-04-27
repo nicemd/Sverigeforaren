@@ -1,0 +1,93 @@
+{{info klippa
+  |lat=58.443219
+  |long=11.509080
+}}
+
+{{komplett}}
+
+==Allmänt==
+Mörkrets hjärta ligger sydöstvänt och luftigt till vid ett hygge. Det perfekta eftermiddag/kväll-gymmet på sommaren.  Väggen är 15-20 meter hög och hänger över 10-20 grader, mest i starten. Lederna i 7-8 registret är alla kilsäkrade.
+
+
+== Övrigt ==
+Mörkrets hjärta (berget saknar lokalt namn) upptäckte Jappe Pålsgård när han var ute och sprang för några år sedan. På väg därifrån lade han märke till ett berg på andra sidan av en stor äng – [[Brunna]]. Bergen ligger mellan [[Hallinden]] och [[Brodalen]]
+
+Anders på Staxängs gård äger marken framför bägge väggarna, traktorväg med en mindre
+parkeringsficka och dessutom själva berget Mörkrets hjärta.
+[[Brunna]] ägs av Jon på Tvetens gård.
+En något större parkeringsyta – för åtkomst till bägge bergen(P2 på nästa bild) – ägs av Jan-Åke på
+Kanekärr.
+Jappe har god kontakt med Anders – som är positiv till klättring på sin mark, och även till parkering på
+P1(dock inte vintertid!) Jan Leyon har även kontakt med Anders.
+Jan har god kontakt med Jan-Åke – som inte haft någonting emot att man parkerar på hans mark.
+Jan har träffat Jon som inte har någonting emot att vi klättrar på Brunna
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.439063" lon="11.503136" zoom="14">
+58.439063, 11.503136, Parkering P1
+58.437014, 11.505132, Parkering P2
+58.443219, 11.509080, Mörkrets hjärta
+</googlemap>
+
+</div>
+
+Kör väg 162 från Hallinden mot Lysekil
+
+'''För parkering på P1 :'''
+Efter någon kilometer väg in till vänster mittemot busshållplats "Staxäng". 90 grader höger och efter en bit 90 grader vänster och sedan uppför en backe förbi en sommarstuga på höger sida. Efter 25 m en traktorväg på vänster sida. Kör in på denna och parkera. Fortsätt in på traktorvägen. Gå över ängen i samma riktning och in på en ny lite sank traktorväg. När denna viker höger fortsätter du rakt upp. När du kommer upp till ett hygge ligger Mörkrets hjärta till vänster. Du står nu fågelvägen bara 200 meter från 162:an - MEN markägaren vill inte att vi nyttjar denna genväg!
+
+'''För parkering på P2 :'''
+Fortsätt förbi hållplats "Staxäng" ytterligare 700 meter. Sväng vänster och håll höger när vägen så
+småningom delar sig. När du passerat sommarstugan på vänster hand ser du Jan-Åkes hus framme till
+vänster - bakom några uthus
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+[[Bild:Mörkrets hjärta guide.jpg|400px]]
+
+Från vänster:
+
+{{led|nr=|namn=Bellatrix|grad=8-|typ=trad|betyg=|bultar=|längd=|fa=[[Jappe Pålsgård]]-13|text=Det uppenbara vänstervända diedret som toppas av en flarande ow-spricka. Om du lyckas överkvinna den första sektionen kan du begrunda uttrycket, "ur askan i elden" när du stirrar upp i käften som sedan väntar på att spotta ut dig.}}
+
+
+[[Bild:Bellatrix 22.jpg|400px|right|{{ledlänk|namn=Bellatrix}}, 8- Jappe under förstebestigningen. Foto Mattis Ranheim]]
+
+{{led|nr=|namn=Kongo|grad=8+|typ=trad|betyg=|bultar=|längd=|fa=[[Geir Arne Bore]] -09|text=Start just till höger om Bellatrix och toppar ut just till vänster om Den första kretsen. Campus till tunn diagonal spricka som fortsätter uppåt höger. Att flytta extremiteterna från grepp till grepp är skithårt, så ska du säkra också.}}
+
+{{led|nr=|namn=Den första kretsen|grad=7+/8-|typ=trad|betyg=|bultar=|längd=|fa=[[Jappe Pålsgård]] -09|text=Start i det tydliga diedret som för upp till ett överhäng. Svagt vänster och vidare upp risset. Stämma, jamma och såå brant}}
+[[Bild:Ulrika Tiegs leder Den första kretsen..jpg|400px]]
+{{led|nr=|namn=Apokalypse nå|grad=8|typ=trad|betyg=|bultar=|längd=|fa=[[Robert Caspersen]]-13|text=Ett buldrigt insteg någon meter till höger om föregående led. Vidare upp i ett högerlutande dieder. Toppar ut via den högra varianten. Blocket strax under toppen sitter bergfast}}
+
+{{led|nr=|namn=Fingerfestivalen 8+|typ=trad|betyg=|bultar=|längd=|fa=[[Olli-Petteri Manni]]-13|text=Snacka om att skenet bedrar! Från ow-starten till det du tror är solida fingerlås vidare. Du ger den fingret men får det nog tillbaka. Men ... om du ger den lillfingret så tar den kanske hela handen... ?}}
+
+
+[[Bild:Bellatrix 333.jpg|400px]]
+
+{{led|nr=|namn=Ullared|grad=8-|typ=trad|betyg=|bultar=|längd=|fa=[[Ulrika Tiegs]] -10|text= Start i den högra av de två offwidthsprickorna. Brett, brant, brutalt och sååå coooolt!}}
+
+{{led|nr=|namn=Åboline|grad=8+|typ=trad|betyg=|bultar=|längd=|fa=[[Olli-Petteri Manni]] -13|text=Två meter till höger om Ullared. Hit och dit tills du kommer till den brutala fingersprickan som leder upp ... eller ned. }}
+
+== Mer info ==
+Kontakta [[Jappe Pålsgård]]
+http://www4.idrottonline.se/ImageVaultFiles/id_390808/cf_76554/Brunna%20och%20Morkrets%20hjarta%20rev%202.PDF
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]

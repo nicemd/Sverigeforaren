@@ -1,0 +1,60 @@
+{{stub}}
+==Allmänt==
+Skellefteås mest klättade klippa. Leder i alla grader, som tyvärr håller på att mossa igen. Lederna är utspridda över fyra mindre väggar.
+
+==Miljö==
+Nordvänt, men kompakt. Bra ställe att klättra på mitt i sommaren.Ingen utväg-sektionen har förmiddagssol.
+
+==Vägbeskrivning==
+'''Från E4:an''' Vid södra rondellen (E4 N, Anderstorp, E4 S och Sörböle) så svänger man mot Sörböle. Följ vägen till ett slakteri där det är skyltat mot Falkträsket. Åk mot Falkträsket. Följ vägen förbi badplatsen och stugområdet. Sväng sedan höger på en liten skogsbilväg (skyltad Falkstugan). Parkera "bakom" klippan.
+
+==Sektorer==
+[[Bild:falkberget.jpg]] <br>
+För närvarande är huvudsakligen borrade leder placerade på Sverigeföraren. Från höger till vänster.
+
+===Ingen utväg===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Pulp fiction|grad=7c|typ=sport|längd=8|betyg=|bultar=4|fa=[[Kenneth Marklund]]|text=Startar vid ett tak i ett hörn.}}
+{{led|namn=Eraser|grad=7a|typ=sport|längd=12|betyg=|bultar=4|fa=[[Kenneth Marklund]]|text=Väggklättring.}}
+{{led|namn=Ingen utväg|grad=6c+|typ=sport|längd=10|betyg=|bultar=4|fa=[[Håkan Gustavsson]]|text=Gemensamt slut med ''Eraser''.}}
+| width=300px|
+{{led|namn=Balls|grad=7b|typ=sport|längd=8|betyg=|bultar=3|fa=[[Kenneth Marklund]]|text=}}
+{{led|namn=Gargamel|grad=6b|typ=sport|längd=10|betyg=|bultar=4|fa=[[Thomas Eriksson]]|text=}}
+{{led|namn=Styx|grad=7a|typ=sport|längd=10|betyg=|bultar=3|fa=[[Thomas Eriksson]]|text=}}
+|}
+
+===Fatigue===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=?|grad=5c|typ=sport|längd=8|betyg=|bultar=2|fa=[[Håkan Gustavsson]]|text=}}
+{{led|namn=Fattig|grad=6b+|typ=sport|längd=10|betyg=|bultar=5|fa=[[Håkan Eklund]]|text=}}
+| width=300px|
+{{led|namn=Fatigue|grad=7b|typ=sport|längd=8|betyg=|bultar=4|fa=[[Kenneth Marklund]]|text=}}
+|}
+
+===Röda väggen===
+En 5 metersvägg med någon enstaka bult på. Ett flertal halvhöga, halvsvåra boulders med okänt eller osäkert ursprung.
+
+===Kaminväggen===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Roof top|grad=6c|typ=sport|längd=6|betyg=|bultar=2|fa=[[Kenneth Marklund]]|text=}}
+{{led|namn=Tromb|grad=7b|typ=sport|längd=8|betyg=|bultar=4|fa=[[Kenneth Marklund]]|text=}}
+{{led|namn=Trac top|grad=7b+|typ=sport|längd=8|betyg=|bultar=4|fa=[[Kenneth Marklund]]|text=}}
+{{led|namn=Conan|grad=7b|typ=sport|längd=7|betyg=|bultar=3|fa=[[Kenneth Marklund]]|text=}}
+{{led|namn=Musse Pigg|grad=5+|typ=trad|längd=10|betyg=1|bultar=|fa=[[Kjell Carlen]], [[Bo Berglund]]|text=Välsäkrad spricka.}}
+{{led|namn=Magnum|grad=7b+|typ=sport|längd=8|betyg=|bultar=3|fa=[[Kenneth Marklund]]|text=}}
+| width=300px|
+{{led|namn=Bokhyllan|grad=4|typ=trad|längd=20|betyg=|bultar=|fa=[[Johan Engström]], [[Axel Engström]]|text=Mossig. Klättra med dragning åt höger upp till en hylla. Sedan rakt upp.}}
+{{led|namn=Klipphyllan|grad=4|typ=trad|längd=20|betyg=|bultar=|fa=|text=Starta på andra sidan pelaren. Gemensamt slut med ''Bokhyllan''.}}
+{{led|namn=Metallguru|grad=6c+|typ=sport|längd=9|betyg=|bultar=4|fa=[[Erik Bergquist]]|text=}}
+{{led|namn=Judgement Day|grad=7b+|typ=sport|längd=13|betyg=|bultar=3|fa=[[Kenneth Marklund]]|text=Kilar?}}
+{{led|namn=Hakuna Matata|grad=6c+|typ=sport|längd=15|betyg=|bultar=5|fa=[[Håkan Gustavsson]]|text=Start på en sten under ett tak.}}
+|}
+
+[[Kategori:trad]] [[Kategori:sport]] [[Kategori:vertikalt]] [[Kategori:överhäng]]
+[[Kategori:Västerbotten]]

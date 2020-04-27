@@ -1,0 +1,33 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Vägbeskrivning=
+
+Kör E4 från Stockholm mot södertälje, sväng av vid sista "Stockholmsavfarten" mot Alby vid shellmacken, och följ gamla Södertäljevägen. När du passerat sjön, sväng höger mot Draget/Norsborgs Herrgård. Ta andra avfarten till vänster, skyltat mot Vällinge. Kör nästan ända fram till Vällinge, blocket ligget i skogen nedanför fältet precis före hemvärnskåkarna.
+Inte så lätt att hitta bra parkering. Det går att parkera vid en liten infart till åkern på andra sidan, en liten bit bort, akta så du inte spärrar vägen för någon traktor bara.
+
+<googlemap version="0.9" lat="59.249384" lon="17.765408" zoom="13" width="700">
+59.261933, 17.719746
+</googlemap>
+=Problem=
+[[Bild:blocx.JPG]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=1.Da Bronx|grad=7C|typ=Slopers,Överhäng|fa=Crell|landning=4|betyg=2|sopad=Crell|sittstart=ja|text=Högra delen av branta sidan på blocket.}}
+{{problem|namn=2.Compton Crips|grad=7B+|typ=Överhäng|fa=Stefan Pettersson|landning=4|betyg=1|sopad=Stefan Pettersson|sittstart=ja|text=Vänstra delen av överhängande sidan.}}
+| width="250px" |
+{{problem|namn=3.The smoke house|grad=7C+|typ=Överhäng|fa=?|landning=4|betyg=2|sopad=?|sittstart=ja|text=Starta som Compton Crips, traversera höger in i Da Bronx.}}
+{{problem|namn=?|grad=7A+|typ=|fa=någon suicidal jävel...|landning=6|fadatum=2007-11-05|sopad=någon suicidal jävel...|text=Första problemet från vägen sett. Ok problem men sunkig landning}}
+| width="250px" |
+{{problem|namn=The Bloods|grad=7C|typ=|fa=Stefan Petterson|fadatum=2007-11-05|sopad=Stefan Petterson|text=? någonstans på bloc X}}
+|} {{problem|namn=Don't believe the hype|grad=6C+|fa=Fredrik Sydstrand|fadatum=2009-04-28|text=Till vänster om Compton Crips. Sittstart bredvid det döda trädet, klättra rakt upp (utan träd-dab!).}}
+
+
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

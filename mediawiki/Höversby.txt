@@ -1,0 +1,28 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Raw Hide|grad=6B+|typ=Krimp,Slopers,Aréte|landning=3|betyg=3|text=Trubbiga areten på väggen längst bort vid fältet. Enormt fin!}}
+{{problem|namn=Silverado|grad=7A|typ=Krimp,Överhäng,Dyno|fa=Stefan Holm|landning=3|betyg=2|fadatum=2005-04-26|sopad=Stefan Holm|startgrepp=ja|text=Stora blocket vid parkeringen. Mitt på vänstra väggen.Start på stora greppet i mag/brösthöjd. Något grepp kan upplevas lite vasst...}}
+{{problem|namn=Ronin|grad=8A|typ=Överhäng|fa=Stefan Rasmussen|landning=5|betyg=3|fadatum=2007-07-14|sopad=Stefan Rasmussen|sittstart=ja|text=På stora blocket i Höversby, branta sidan.Sittstart under rampen mitt på blocket. Klättra snett höger.}}
+{{problem|namn=Guns N Roses|grad=7C|typ=Överhäng|fa=Stefan Rasmussen|landning=2|betyg=2|fadatum=2007-07-17|sopad=Stefan Rasmussen|sittstart=ja|text=På det branta blocket vid grottan. Sittstart och upp i Chrilles 7a.}}
+| width="250px" |
+{{problem|namn=Samuraj|grad=7B+|typ=Överhäng|fa=Stefan Pettersson|landning=4|betyg=3|fadatum=2007-09-23|sopad=Stefan Pettersson|sittstart=ja|text=Högra överhängande areten på stora blocket.}}
+{{problem|namn=Black Widow ss|grad=7B+|typ=Krimp|fa=Stefan Holm|landning=3|fadatum=2008-02-25|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Black Widow|grad=7B|typ=Krimp|fa=?|landning=2|betyg=1|fadatum=2008-02-25|sopad=?|text=}}
+{{problem|namn=Old School|grad=7B|typ=Krimp,Reach|fa=Stefan H|landning=2|betyg=1|sopad=Stefan H|uteslutningar=ja|text=Vänster om Raw Hide. Greppen på Raw Hide och sprickan till vänster är eliminerade (om man nu når dem...). Lite morfo tyvärr.}}
+{{problem|namn=Cloud Chaser|grad=7B|typ=Krimp,Aréte|fa=S Holm|landning=4|betyg=2|sopad=S Holm|sittstart=ja|text=Högra sidan av areten på blocket efter grottan.}}
+| width="250px" |
+{{problem|namn=Aldrig vid min svans|grad=7A+|typ=Krimp|fa=Magnus Hansen|landning=2|sopad=Magnus Hansen|sittstart=ja|text=Sittstart på stora blocket. Går upp via liten pocket.}}
+{{problem|namn=Harakiri|grad=7A|typ=Mantling,Highball|fa=Jonas Jinenstrand|landning=3|betyg=1|fadatum=2008-05-13|sopad=Jonas Jinenstrand|sittstart=ja|text=Sittstart på blocket höger om aldrig vid min svans. Upp via crimpers till dynamisk flytt mot kanten. Mantla höger ut på svaplattan.Stora hyllan till vänster ingår ej.}}
+{{problem|namn=Kobra|grad=6C|typ=Krimp|fa=Stefan Holm|landning=3|betyg=2|sopad=Stefan Holm|sittstart=ja|text=}}
+|}
+[[Kategori:Linköping]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

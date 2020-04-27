@@ -1,0 +1,289 @@
+{{info klippa
+  |lat=59.637385
+  |long=13.510180
+}}
+
+{{komplett}}
+
+==Allmänt==
+
+Gårdsberget är uppskattningsvis 6-12 meter hög och hundra(?) meter bred. Det finns ett 50-tal leder med sport och tradturer i framförallt de lägre graderna.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-right: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.637385" lon="13.510180" zoom="11" type="map" controls="small">
+59.637385,13.510180,[[Dejeklippan (ungefärlig position)]]
+</googlemap>
+</div>
+
+Åk på väg 62 från Karlstad, sväng av mot Deje (ej Östra/Västra Deje). Kör höger i första korsningen där du ser en apelsinkiosk på vänstersidan (du förstår när du ser den). Kör genom samhället och sväng vänster mot Mölnbacka och älven. Kör över älven gör en statuskontroll i nästa korsning. Tittar du åt höger i korsningen bör du se en gammal bogartbutik där man förmodligen kan hyra 'smala sussie' och 'kopps' till ett bra paketpris. På grusplanen framför butiken kan man se spår av sprutat grus från motorburen ungdoms hyss på trimmade zündapps. Tittar du åt vänster bör du se en skola och en barack som utgör Deje Pizzeria. De glada grabbarna bakom disken kommer göra dig mätt och belåten så länge du inte handlar med kort. Om du ser detta sväng höger mot Mölnbacka.
+Fortsätt någon kilometer ytterligare på denna väg förbi Nedre Ulleruds hembygdsgård och en återvinningcentral. I en lätt högersväng ser man något som kan vara en bondgård på vänster sida. Nu gäller det att vara beredd. Fortsätt några hundra meter till. Har du sjukt bra syn kanske du ser klippan i skogen upp till vänster. Stanna till vid en liten skogsväg in till vänster. Stanna annars på den lilla fickan längre fram efter kurvan. Följ skogsvägen rakt fram längs den tydligt upptrampade stigen och du hamnar någonstans i början på klippan. Från Karlstad = 3-4 mil och från parkering till klippan = 5 minuter. 
+
+==Bra att veta==
+
+Så här står det beskrivet i den tryckta föraren från 2003. 
+
+"Klättringen vid Gårdsberget är mestadels vertikal på kompakt klippa som sällan är högre än 7 meter. Sedan gammalt så upplevs lederna som hårt graderade och till denna utgåva har många leder justerats och stämmer inte överrens med den gamla utgåvan. Det finns många leder med dålig landning och markfallspotential så var noga med säkringarna. Se också upp med en del bultade leder". 
+
+Det bör uppmärksammas att många leder fortfarande är föremål för uppgradering. Se graddiskussionerna. 
+
+===Klätterförslag===
+
+Vad ska man då klättra när man kommer hit? 
+Följ stjärnmarkeringarna i texten nedan, men följande har visat sig hålla klass genom åren. Idel rekommendationer från 2003 års utgåva. 
+Från vänster till höger. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+* {{ledlänk|namn=Animalen}} 4+ 
+* {{ledlänk|namn=Ettan}}, 4- 
+* {{ledlänk|namn=Femman}}, 5-
+* {{ledlänk|namn=Kyrkan}}, 5+
+* {{ledlänk|namn=Sista sommaren}} 5-
+* {{ledlänk|namn=Gynstolen}}, 6
+* {{ledlänk|namn=Desperado}}, 5+ 
+
+| width="350px" |
+
+* {{ledlänk|namn=Supernova}}, 7
+* {{ledlänk|namn=Magic Mushroom}}, 7-
+* {{ledlänk|namn=Crack}}, 7+
+* {{ledlänk|namn=Bettan}}, 6+/7-
+* {{ledlänk|namn=Dosan}}, 6
+* {{ledlänk|namn=Smör}}, 5-
+* {{ledlänk|namn=Grädde}}, 6
+
+|}
+
+
+===Graddiskussioner===
+
+* {{ledlänk|namn=Animalen}}, 4+ till 5-/5
+* {{ledlänk|namn=Polaroid Mongolid}}, 6 till 6+/7- (för kruxet)
+* {{ledlänk|namn=Femman}}, 5- till 5
+* {{ledlänk|namn=Allt som inte dödar härdar}}, 6- till 6
+
+Uppmärksamma felgraderade leder här. Diskussioner kan också föras på diskussionssidan [[Diskussion:Deje]] där förhoppningen är att vi efter kort diskussion kan ändra och hamna i fas och komma ur den nedgraderingsspiral som verkar ha pågått på stället. 
+
+<!-- Här kan du hämta länkar att mata in i graddiskussionerna ovan. Bara att klippa och klistra in i texten några rader upp.
+
+* {{ledlänk|namn=ledens namn}}, X till Y
+* {{ledlänk|namn=ledens namn}}, 7- till 7+
+* {{ledlänk|namn=ledens namn}}, X- till Y
+
+-->
+
+===Övrigt===
+
+Informationen på denna sida är till 99% från föraren som utkom 2003. 
+Nyligen kompletterades föraren med nya leder från åren 2003-2008 av Mattias Hedberg från Karlstad Klätterklubb. 
+Dessa finns beskrivna nedan men är i dagsläget inte med på bilderna. Detta kommer ändras så småningom. 
+
+Vid parkeringen är myggen grymma och om det inte blåser så kan de vara besvärliga vid klippan också. Glöm inte myggsprejen. 2009 var översvämningsmyggorna i Deje de flesta och elakaste i Värmland och tvingade dejeborna inomhus från juli-september. 
+
+==Huvudberget==
+
+[[Bild:1-6.jpg]]
+[[Bild:7-14.jpg]]
+[[Bild:15-21.jpg]]
+[[Bild:22-25.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Snacka går ju!!|grad=5-|typ=trad|betyg=0|bultar=|längd=|[[fa=Lars Jäderström]]|text=Svårsäkrad kort led vid uppstigningsleden.}}
+
+{{led|nr=2|namn=Men snack så det går!!|grad=5-|typ=trad|betyg=|bultar=|längd=|fa=[[Lars Jäderström]]|text=Svårsäkrad kort led.}}
+
+{{led|nr=3|namn=Humle och Dumles led|grad=4+|typ=trad|betyg=|bultar=|längd=|fa=[[Per och Niklas Fernqvist]]|text=Lite klurig till att börja med.}}
+
+{{led|nr=4|namn=Zodiac|grad=7|typ=trad|betyg=|bultar=|längd=|fa=[[Stephan Szöllös]] 2007|text=Den tunna sprickan under granen, förhängda kilar vid förstabestigningen.}}
+
+{{led|nr=5|namn=?|grad=3|typ=trad|betyg=|bultar=|längd=|fa=|text=Lätt enligt Oscar.}}
+
+{{led|nr=6|namn=Alltid denna Vessla|grad=5|typ=trad|betyg=|bultar=1|längd=|fa=|text=Svårare än den ser ut. Använd bara greppen på väggen.}}
+
+Följande leder är de första man ser om man anländer via den upptrampade stigen från parkeringen/skogsvägen.  
+
+{{led|nr=7|namn=Animalen|grad=4+|typ=sport|betyg=1|bultar=2|längd=6|fa=[[Anna]] , [[Lisa]]|text=Kort läckerbit till vänster på aréten. Två bult, men man kan också lägga något eget i slutet. Bör uppgraderas, då den absolut ligger i 5-registret. Se graddiskussion.}}
+
+{{led|nr=7a|namn=Go, go Gadget arm |grad=7+(7a)|typ=sport|betyg=|bultar=3|längd=7|fa=[[David Sjöquist]] , [[Mattias Hedberg ]] 2005|text=Bultraden mellan Animalen och Ettan. Insteg från blocket.}}
+
+{{led|nr=8|namn=Ettan|grad=4-|typ=trad|betyg=3|bultar=|längd=6|fa=[[Stefan Forslin]]|text=Mycket fin och välsäkrad sprickklättring inne i hörnet. Dejes finaste led för sin grad. Enda negativa är att när nöjet är som störst, så är man redan uppe.}}
+
+{{led|nr=9|namn=I väntans tider|grad=6+(6b+)|typ=sport|betyg=2|bultar=3|längd=6|fa=[[Mattias Hedberg]] 2005|text=Inbjudande arétklättring som bjuder på teknisk utmaning. Gammal topprepsled. Ankare.}}
+
+{{led|nr=10|namn=Makro|grad=5-|typ=trad|betyg=|bultar=|längd=|fa=|text=Kräver gott handlag med säkringarna.}}
+
+{{led|nr=11|namn=Mikro|grad=6|typ=trad|betyg=|bultar=|längd=|fa=|text=Om man inte använder hyllan och stubben vid insteget fås en tämligen desperat och intressant led. Hyfsade säkringar.}}
+
+{{led|nr=12|namn=Petitesser|grad=4-|typ=trad|betyg=|bultar=|längd=|fa=|text=Ingen speciellt exalterande klättring dock stora och fina handtag.}}
+
+{{led|nr=12a|namn=Näin oravan|grad=7-(6c)|typ=sport|betyg=|bultar=4|längd=7|fa=[[Mattias Hedberg ]] 2008|text=Bultraden mellan Petitesser och Brainstorm. Bitvis intensiv klättring på små lister. Efter 3e bulten är äventyret mer eller mindre slut, vilket är lite synd. Dock finfin dit.}}
+
+{{led|nr=13|namn=Brainstorm|grad=6 (6b)|typ=mix|betyg=|bultar=2|längd=|fa=[[Stefan Appel]]|text=En led som blir svårare vad det lider. Långa personer har det lite lättare än andra. Sätt gärna en säkring i tvärsprickan innan de två bultarna.}}
+
+{{led|nr=14|namn=Femman|grad=5-|typ=sport|betyg=2|bultar=2|längd=7|fa=[[Stefan Forslin]]|text=Trevlig klättring lite diagonalt över klippan (se bultplacering). Se graddiskussion.}}
+
+| width="350px" |
+
+{{led|nr=14a|namn=The Forbidden forest |grad=4+|typ=trad|betyg=|bultar=|längd=|fa=[[Mattias Hedberg]] , [[Laura Toivanen]] 2007|text=Det snäva diedret några meter till höger om Femman.}}
+
+{{led|nr=14b|namn=Aragog |grad=5|typ=trad|betyg=|bultar=|längd=|fa=[[Peter Bloom]] , [[Robin Jensen]] 2012|text=Variant på The Forbidden Forest. Havvägs upp på The Forbidden Forest traversera vänster med fingrarna i den tunna sprickan. Följ sprickan upp runt blocket där den vidgas till en offwidth.}}
+
+{{led|nr=15|namn=Spettad Fänrik|grad=3|typ=trad|betyg=|bultar=|längd=|fa=[[Peter Olsson]]|text=Klättra snett åt höger till kanten och följ den. Namnet kommer från rensningsarbetet då befälet gick hårt åt blocken med spettet.}}
+
+{{led|nr=16|namn=Irrfärder|grad=3+|typ=trad|betyg=|bultar=|längd=|fa=[[Lasse Jäderström]]|text=Trevlig nybörjarled. Den stora sprickan i mitten kräver friends eller stora hexor.}}
+
+{{led|nr=17|namn=Kaminen|grad=4|typ=trad|betyg=|bultar=|längd=6|fa=[[Stefan Forslin]]|text=Säkras med friends, hexor och kilar. Kliv ur kaminen i stämklättring på väggarna 3 meter upp eller böka dig fram hela vägen upp. Svår och bökig.}}
+
+{{led|nr=18|namn=Himlasteget|grad=6|typ=sport|betyg=|bultar=2|längd=|fa=[[Lasse Jäderström]]|text=Väggen till höger om kaminen. Fin, smått överhängande listklättring på väggen. Lättare om man använder aréten. 2 borrbult.}}
+
+{{led|nr=19|namn=Kyrkan|grad=5+|typ=trad|betyg=3|bultar=|längd=8|fa=[[Stefan Appel]] [[Henrik]] [[Urban Hörnström]]|text=En klassiker. Mycket välsäkrad utom sista biten som bjuder på en liten runout och även ledens krux. Backa upp med extra säkring före taket inför eventuella luftfärder.}}
+
+{{led|nr=20|namn=Klassikern|grad=4-|typ=trad|betyg=|bultar=|längd=|fa=[[Fredrik]]|text=En 70-tals-perversion. Bök och jord med hyfsade säkringar.}}
+
+{{led|nr=21|namn=Vågen|grad=6-|typ=sport|betyg=|bultar=2|längd=|fa=[[Henrik]]|text=Uppför aréten och via en enfingers balansig travers uppför facet. Direktinstegsprojekt markerat med a.}}
+
+{{led|nr=22a|namn=Laban Seigman|grad=7|typ=sport|betyg=|bultar=3|längd=|fa=[[Mattias Hedberg]] 2005|text=Variantinsteg till Parachute, börjar från vänster men med samma utsteg som Parachute.}}
+
+{{led|nr=22|namn=Parachute|grad=7/7+|typ=sport|betyg=|bultar=2|längd=|fa=[[Urban Hörnström]]|text=Samma insteg som Sista sommaren. Ett tungt men välsäkrat tak som forceras med starka nypor och en alldeles uppenbar catch (eller rejält ap-index med 120 cm armar). Därefter följer mantling till hyllan och en teknisk avslutning på det övre facet.}}
+
+{{led|nr=23|namn=Sista sommaren|grad=5-|typ=trad|betyg=3|bultar=|längd=9|fa=[[Stefan Appel]] [[Urban Hörnström]]|text=Börjar nere i gropen. Med underclings och laybacks till höger upp på hyllan. Övre delen något tyngre. Säkras med friends och kilar. Fin, varierad och välsäkrad klättring}}
+
+{{led|nr=24|namn=Tuffa grabbar dansar inte|grad=5|typ=trad|betyg=|bultar=|längd=|fa=[[Mattias Hedberg]] 2007|text=Uppenbar linje i hörnet några meter till höger om Sista sommaren. Dåliga säkringsmöjligheter men ledbar.}}
+
+{{led|nr=25|namn=Och dricker bara whiskey|grad=6|typ=trad|betyg=|bultar=|längd=|fa=[[Mattias Hedberg]] 2008|text=Spricklinjen 2-3 meter till höger om Tuffa grabbar dansar inte. Tillfredställande säkringar, dock bör nog den som provar onsight ha lite överkapacitet.}}
+
+|}
+
+==Basecampväggen==
+
+[[Bild:26-34.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+
+{{led|nr=26|namn=Polaroid Mongolid|grad=6+(6b)|typ=sport|betyg=2|bultar=4|längd=8|fa=[[Mattias Hedberg]], [[Peter Bloom]] 2005|text=Tidigare topprepsled som numera bultats. Kruxet är att klara mantlingen 2 meter förbi den lustiga utbuktningen. Förstabestigarna måste vara rutinerade på mantlingar då graden på kruxet är väl barskt för grad 6. Följande har uttalats om leden... "världens hårdaste 6b". Catch till hyllan ovan enda lösning för vissa. Efter kruxet jämn och fin klättring. se graddiskussion.}}
+
+{{led|nr=27|namn=Allt som inte dödar härdar|grad=6-|typ=trad|betyg=2|bultar=|längd=|fa=[[Stefan Appel]], [[Urban Hörnström]]|text=En suverän linje säger vissa. En trist sak säger andra. Prova och bedöm. Börja i hörnet under taket och gå via det tydliga tunga spricksystemet (vassa kanter) ovan taket till en mer odefinierad del. Säkringsbar, men se till att första kilen ovan taket sitter bra.}}
+
+{{led|nr=28|namn=Eldorado|grad=5+|typ=trad|betyg=|bultar=|längd=|fa=[[Stefan Appel]], [[Henrik]], [[Urban Hörnström]]|text=En avig spricka som löper upp till vänster och avslutas med jord och hyllor i omgångar. Första säkringen är 3-4 meter upp. slarva inte med den, då konsekvensen blir kännbar.}}
+
+{{led|nr=29|namn=Gynstolen|grad=6|typ=trad|betyg=1|bultar=|längd=|fa=[[Stefan Appel]], [[Henrik]]|text=Helt suverän, jämn led om den inte vore så sökt. Insteget är under taket inne i hörnet. Använd bara sprickan som löper till vänster utmed taket och facet till vänster om sprickan. Om man använder den trappstegsliknande utskjutande delen av väggen ovanför taket så är man för långt åt höger och snyltar på "skruvstädets" grepp. Välsäkrad, men till taket 4-5 meter krävs friends.}}
+
+| width="350px" |
+
+{{led|nr=30|namn=Skruvstädet|grad=5|typ=trad|betyg=|bultar=|längd=|fa=[[Stefan Appel]], [[Urban Hörnström]]|text=Två integsvarianter. Endera samma insteg som Gynstolen eller till höger om hörnet. Väljs det förstnämnda får man en riktig gorillaklättring innan man står ovanför taket. Från hyllan ovanför taket steppar man till höger och tar sig via den stora sprickan till toppen. Friends eller stora hexor krävs för övre delen. Väljer man det högre insteget krävs mer teknik och mindre biceps.}}
+
+{{led|nr=31|namn=Min led är inte lik din led|grad=7-|typ=trad|betyg=1|bultar=|längd=8|fa=[[Sören Danielsson]] -08|text=Given linje som börjar i sprickan som letar sig upp åt vänster till stora tvärsprickan. Hit femklättring. Här försvinner sprickorna i en betydligt elakare variant samtidigt som fotstegen blir svårhittade. Kruxet (som sätter graden) är att ta sig till nästa snälla hylla för vidare fin och välsäkrad 5-klättring till toppen. Markfallspotential vid kruxet men en liten bra friend kan placeras långt in i sista bra greppet.}}
+
+{{led|nr=32|namn=Min led|grad=5|typ=trad|betyg=1|bultar=|längd=8|fa=[[Stefan Appel]]|text=Via trevligt spricksystem till ett mindre upphetsande utsteg. Lämna kilarna hemma. Denna led vill matas med kamkilar.}}
+
+{{led|nr=33|namn=En tunn sak|grad=??|typ=topprep|betyg=|bultar=|längd=|fa=[[Stefan Appel]], [[Urban Hörnström]]|text=Ta ett steg upp på rampen som löper upp till höger men fortsätt sedan rakt upp på facet. tungt och inga säkringar. Endast gjord på topprep.}}
+
+{{led|nr=34|namn=Hotdog|grad=4|typ=trad|betyg=|bultar=|längd=|fa=[[Lars Fakt]]|text=Följ rampen upp till hyllan och sedan längs sprickorna till toppen.}}
+
+|}
+
+==Superväggen==
+
+[[Bild:35-44.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=35|namn=Bakom flötet|grad=4+|typ=mix|betyg=|bultar=1|längd=|fa=[[Fredrik]]|text=Ligger direkt till vänster om Flatliner. Följ flaket uppåt till hyllan. Klättra sedan till topps via borrbulten. }}
+
+{{led|nr=36|namn=Flatliner|grad=7+/8- (7a+/7b)|typ=sport|betyg=|bultar=3|längd=|fa=[[Stefan Appel]]|text=Väggklättring precis till höger om lättidentifierade flaket. Flaket får inte användas. Kanske håller 7b dvs samma grad som Cleopatra.}}
+
+{{led|nr=37|namn=Cleopatra|grad=8- (7b)|typ=sport|betyg=|bultar=3|längd=|fa=[[Urban Hörnström]]|text=Väggklättring på extremt tunna lister och med långa sträckningar. Skulptera fingrarna med en pennvässare så kanske de passar. Toppankare.}}
+
+{{led|nr=38|namn=Desperado|grad=5+|typ=trad|betyg=3|bultar=|längd=7|fa=[[Stefan Appel]], [[Urban Hörnström]]|text=Den stora vänstra av sprickorna. Vassa kanter och ihållande tungt. Dock välsäkrad och riktigt fin. Rekommenderas som led för att klättra upp och sätta topp på de tyngre sakerna}}
+
+{{led|nr=39|namn=Supernova|grad=7|typ=trad|betyg=2|bultar=|längd=7|fa=[[Steve Strong]]|text=Den supertunna sprickan till höger av de två sprickorna. Använd bara den tunna sprickan och fuska inte med hjälp av Desperado. Gå ett par lektioner i jam-teknik och svängdörr innan ledförsök. Seriös onsight. Välsäkrad och riktigt delikat laybackklättring till toppen.}}
+
+| width="350px" |
+
+{{led|nr=40|namn=Magic Mushroom|grad=7- (6c)|typ=sport|betyg=3|bultar=3|längd=7|fa=[[Magnus Lindstedt]]|text=En av bergets finaste. Insteg nedanför första borrbulten. Sträck/catch till den stora listen. Lätt överhängande med relativt långa sträckningar till crimpiga lister. Nya bultar 2008/2009 borgar för fortsatt många bestigningar. Toppankare}}
+
+{{led|nr=41|namn=Speed|grad=7 (6c+)|typ=sport|betyg=|bultar=3|längd=8|fa=[[Urban Hörnström]]|text=Väggklättring mellan Magic Mushroom och Crack. Tunna lister.}}
+
+{{led|nr=42|namn=Crack|grad=7+|typ=trad|betyg=2|bultar=|längd=|fa=[[Steve Strong]]|text=Den tydliga högerlutande sprickan. Hittar du inte var leden går, så ska du nog inte klättra den då du förmodligen är blind. Riktigt välsäkrad och riktigt tung.}}
+
+{{led|nr=43|namn=Röksvampen|grad=A3/7?|typ=aid|betyg=|bultar=|längd=|fa=[[Anders Nilsson]]|text=Någon meter till höger om Crack går en riktigt tunn aidled där det gäller att tassa försiktigt i stegarna. Leden har klättrats fritt på topprep. En fast copperhead på utsteget.}}
+
+{{led|nr=44|namn=Led 37c|grad=5?|typ=trad|betyg=|bultar=|längd=|fa=[[Martin Kristiansson]] -00|text=Några meter ytterligare till höger om Crack går en spricka som börjar med ett tak. Osäkrad i början.}}
+
+|}
+
+==Väggen längst till höger==
+[[Bild:45-50.jpg]]
+
+{|
+
+|- valign="top"
+| width="350px" |
+
+{{led|nr=45|namn=Myran|grad=5-|typ=trad|betyg=|bultar=|längd=|fa=[[Fredrik]]|text=Sönderbruten spricka. Övre delen lite mer desperat och sämre säkrad.}}
+
+{{led|nr=46|namn=Bettan|grad=6+/7-|typ=sport|betyg=|bultar=3|längd=|fa=[[Andreas]], [[Martin Rosén]]|text=Balansproblem vid insteget. Litet tvåfingershål leder vidare till tung, tung ihållande klättring.}}
+
+{{led|nr=47|namn=Projekt|grad=??|typ=trad|betyg=|bultar=|längd=|fa=|text=Verkar riktigt svår.}}
+
+| width="350px" |
+
+{{led|nr=48|namn=Trasan flyger|grad=6|typ=trad|betyg=|bultar=|längd=|fa=[[Urban Hörnström]], [[Steve Strong]]|text=Två sprickor. Välsäkrat förutom utsteget tillika kruxet. Tung och vanligt med längre flygturer. Standplats att rekommendera.}}
+
+{{led|nr=49|namn=Step by step|grad=6|typ=trad|betyg=|bultar=|längd=|fa=[[Urban Hörnström]], [[Steve Strong]]|text=Sanslöst alternativutsteg till Dosan. Tekniskt.}}
+
+{{led|nr=50|namn=Dosan|grad=6|typ=trad|betyg=|bultar=|längd=|fa=[[Urban Hörnström]], [[Steve Strong]]|text=Den vackra till höger löpande sprickan. En catch innan utsteget. Ljuva fingerjam och fingerlocks. Tung men välsäkrad.}}
+
+{{led|nr=51|namn=Aurora Borealis|grad=6|typ=trad|betyg=|bultar=|längd=|fa=[[Martin Ström Götenstedt]]|text=Det tydliga diedret långt till höger just ovanför en liten platå. Tung och överhängande klättring med fina jam men mindre för fötterna. Delvis offwith. Ännu bara gjord blöt eftersom sommaren 2012 är rätt så regnig...}}
+
+|}
+
+==Väggen nere vid vägen==
+
+Topografi saknas för denna vägg. Försök orientera er utifrån beskrivning. 
+
+{{led|nr=A|namn=Smör|grad=5-|typ=trad|betyg=|bultar=|längd=|fa=[[Sonny Nilsson]]|text=Den vänstra av lederna. Följ formationen uppåt höger. Få bra säkringar men ändå lätt och fin.}}
+
+{{led|nr=B|namn=Grädde|grad=6|typ=trad|betyg=|bultar=|längd=|fa=[[Jon Granath]]|text=Ihållande klättring med bra säkringar. Jam eller layback.}}
+
+
+==Aidväggen==
+
+Topografi saknas för denna vägg. Detta är i alla fall en aidklippa som finns 200 meter till vänster om huvudväggen. 
+
+{{led|nr=X|namn=Domedagssprickan|grad=A2+/6+|typ=trad|betyg=|bultar=|längd=|fa=[[Peter Olsson]]|text=Tunn början. Något mer välsäkrat slut. Första fria bestigning Jon Granath.}}
+
+{{led|nr=Y|namn=Projekt|grad=??|typ=trad|betyg=|bultar=|längd=|fa=|text=Aidled med handknackad borrbult på mitten. Lär vara riktigt tunn.}}
+
+{{led|nr=Z|namn=?|grad=C1|typ=trad|betyg=|bultar=|längd=|fa=[[Peter Olsson]]|text=På högra delen av klippan går en clean aidtur med bra punkter}}
+
+
+
+<!-- Dessa beskrivningar kan användas som ledmall när man ska registrera nyturer. Bara att kopiera och klippa in i texten på rätt ställe. 
+
+{{led|nr=|namn=Projekt|grad=??|typ=trad|betyg=|bultar=|längd=|fa=[[ ]]|text=Projekt.}}
+
+{{led|nr=|namn=Projekt|grad=??|typ=trad|betyg=|bultar=|längd=|fa=[[ ]]|text=Projekt.}}
+
+{{led|nr=|namn=Projekt|grad=??|typ=trad|betyg=|bultar=|längd=|fa=[[ ]]|text=Projekt.}}
+
+-->
+
+
+[[Kategori:Värmland]]
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:mix]]
+[[Kategori:vertikalt]]

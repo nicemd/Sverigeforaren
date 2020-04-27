@@ -1,0 +1,61 @@
+{{boulderkomplett}}
+{{info klippa|lat=59.23006864017356|long=18.261594772338867}}
+
+==Allmänt==
+I detta område finns ett flertal småklippor med möjligheter till fin men hård bouldering, fina aidturer samt vanliga men relativt korta leder.
+
+==Vägbeskrivning==
+<div style="float: right; border: solid 1px gray">
+<googlemap version="0.9" lat="59.23244" lon="18.261337" type="map" zoom="13" width="300" height="200">
+59.230069, 18.261595
+Nyfors, Oops-klippan
+59.22717, 18.264771
+Nyfors, Purgatorio
+59.228279,18.268696
+Alby
+</googlemap>
+</div>
+Parkera strax bortanför ändhållplatsen för 803:an. Bakom busskuren finns en gångväg, följ den tills den slutar vid T-korsningen. Ta sedan h och följ vägen 150 m, när vägen svänger så fortsätt rakt fram 10 m och ta h på en tydlig stig (Sörmlandsleden). Följ stigen och håll lite v, klippan dyker upp på v sida efter 200 m.
+
+==Kommunikationer==
+Ta buss 803 till ändhållplatsen Nyfors (Nyforsvägen). 
+
+{{clear}}
+==Leder==
+===Oops-klippan===
+[[Bild:oops.jpg|thumb|250px|right]] 
+Liten brant klippa med en tydlig diagonal linje i {{Ledlänk|namn=Oops i did it again}}.
+
+Ligger längs med gångvägen bakom radhusområdet innan Alby skogsväg. Kan behöva lite trafik för inte växa igen.
+
+{{led|nr=1|namn=Oops i did it again|grad=7b+|fa=Johan Boman|typ=boulder|text=Den tydliga sprickan med sitstart längst ned i undercling}}
+{{led|nr=2|namn=?|grad=6c/7a|fa=Jacob Andren|typ=boulder|text=Den högra spricklinjen med def. start i bra grep i axelhöjd}}
+{{led|nr=3|namn=I did it|grad=7b|fa=John Pahlman|typ=boulder|text=Den högra spricklinjen med sittstart på samma ställe som {{Ledlänk|namn=Oops i did it again}}}}
+
+===Purgatorio-klippan===
+
+Relativt hög klippa med den mycket fina {{Ledlänk|namn=Purgatorio}}.
+Följ Sörmlandsleden ca 150m och håll vänster för att hitta klippan. 
+
+{{led|nr=1|namn=Paradiso|grad=5|längd=10|fa=[[Marco Kupiainen]], [[Erik Massih]], [[Jimmy Paladino]] [[-95]]}}
+{{led|nr=2|namn=La divina comedia|grad=7/7+|längd=10|fa=[[Erik Massih]] ,[[Marco Kupiainen]] [[-95]]}}
+{{led|nr=3|namn=Inferno|grad=A2/3|längd=|fa=[[Marco Kupiainen]](utan rep) [[-95]]}}
+
+{{led|nr=4|namn=Purgatorio|grad=7b?|fa=Jimmy Paladino -95|typ=boulder|text=Den tydliga höga sprickan i högerkant just innan klippan blir lägre. Behöver rensas.}}
+{{led|nr=5|namn=x|grad=7a?|fa=Jimmy Paladino, Johan Boman|typ=boulder|text=Start på tydlig crimp 5m till höger om {{Ledlänk|namn=Purgatorio}} och upp till vänster.}}
+{{led|nr=6|namn=y|grad=6c?|fa=Jimmy Paladino, Johan Boman|typ=boulder|text=Start på tydlig crimp 5m till höger om {{Ledlänk|namn=Purgatorio}} och upp till höger.}}
+{{led|nr=7|namn=z|grad=6b?|fa=Jimmy Paladino, Johan Boman|typ=boulder|text=Sittstart längst till höger.}}
+
+===Nästa klippa===
+{{litentext|text=Det finns några klippor längre ner mot vattnet.  Om man följer stigarna ner åt h så ligger klipporna så småningom på v sida. På en av dessa finns hittills bara en led.}}
+
+{{led|nr=5|namn=Arne ankas kåtdrömmar|grad=A2|längd=10|fa=[[Marco Kupiainen]]([[repsolo]] [[-95]]}}
+
+===Alby (Natureservat)===
+{{litentext|text=Åk in till stora Parkeringen vid Albyskogsväg, Ta vandrings leden till h; först kommer det ng mindre klippa på v sida med lättare problem; sedan blir klippan högre och brantare; finns en bultad led där; Sedan en fin Aréte och bredvid lite lättare igen ca. 6A-B.}}
+
+{{led|nr=1|namn=Harbaa|grad=7B|fa=Moritz K|betyg=3|sittstart=ja|landning=3|typ=Vertikal|text=Sittstart vid Aréten, rakt upp, toppa ut.}}
+
+
+
+[[Kategori:Stockholm]][[Kategori:Tyresö]][[Kategori:Klippa]]

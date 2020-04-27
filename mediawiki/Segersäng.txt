@@ -1,0 +1,19 @@
+{{info klippa
+  |lat=59.032893046283135
+  |long=17.942090034484863}}
+
+{{boulderstub|extern=ja}}
+Flera små områden
+
+1) Block i skogen norr om Segersäng
+
+2) Väggar söder om vägen till Segersäng
+
+<googlemap lat="59.032893046283135" lon="17.942090034484863" zoom="13" type="karta">
+59.032893046283135,17.942090034484863,Blocket
+59.027791745679885,17.94316291809082,Små väggar
+</googlemap>
+
+Mer information finns på hemsidan [http://web.telia.com/~u91133597/ Bouldering i Nynäshamn] Se under topo och kommentarer.
+
+[[Kategori:Stockholm]]

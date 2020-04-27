@@ -1,0 +1,108 @@
+{{info klippa
+  |lat=59.32384
+  |long=18.18250
+}}
+
+{{komplett}}
+[[Bild:kulberget_vy.jpg]]
+[[User:Niclas|Niclas]] och [[User:David|David]] poserar framför Kulberget. Foto: [[User:peblin|Per Lindh]]
+
+==Allmänt==
+Strandnära sva-klättring. Klippan används troligen inte så ofta då flera delar av den kan vara mossig/lavbeväxt/barrig. Men fin greppsnål klättring med bra friktion.
+
+Klippan fick en översyn av bultkommittén 09 i samråd med Nacka kommun. Alla 8mm borrbultar och pitonger ersattes av syrafasta expandrar och hängare, lackerade för att synas så lite som möjligt. Ingen förstärkningsbultning skedde. Ett par extra ankare sattes också upp för att skona de stackars små träd som finns ovan klippan. Klippan har i och med detta också blivit betydligt mer topprepsvänlig.
+
+'''September -11 fick klippan sig en ordentligt rensning då, i princip, alla leder blev rensade på den mossa som börjat ta över klippan.'''
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.32384" lon="18.18250" zoom="14" type="map" controls="small">
+59.32384,18.18250,[[Kulberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Kulberget
+lat=18182500
+long=59323840
+</slresa>
+</div> 
+
+
+Åk väg 222 mot Nacka/värmdö. 
+Tag av mot Nacka Strand sedan vänster i rondell och korsa motorvägen. 
+Höger i nästa rondell och sedan följ skyltar mot Nyckelviken.
+Följ grusvägen ett par km och parkera vid parkeringen till vänster efter skylt "Lilla Nyckelviken".
+Följ tydliga stigen från baksidan av parkeringen ner mot vattnet. Klippan ligger precis vid stranden och borde synas efter ca hundra meter. Gå antingen ut på höjden för att fira ner, eller ta första mindre stigen till vänster för att komma till klippans nederkant.
+
+
+<div style="clear:right"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Kulberget_skiss.gif]]
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1|namn=Vildanden|grad=6c+|betyg=1|längd=14|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|bultar=4|typ=sport|text=Bultlinjen längst till vänster. Traversera längst vattenbrynet och se upp för ilskna svanar och svallet efter finlandfärjorna!}}
+
+{{led|nr=2|namn=Fruen fra havet|grad=7b|betyg=1|längd=14|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|bultar=4|typ=sport|text=Teknisk och känslig}}
+
+{{led|nr=3|namn=Lille Eyolf|grad=6a+|betyg=1|längd=14|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|bultar=3|typ=sport}}
+
+{{led|nr=4|namn=Kulberget the hard way|grad=5a (5-)|betyg=0|längd=15|fa=[[Eugenia Zetterström]], [[Jonas Paulsson]][[1994|-94]]|typ=trad|text=Den högra av de uppenbara sprickorna.}}
+
+{{led|nr=5|namn=In vino veritas|grad=6a+ (6)|betyg=0|längd=15|fa=[[Jonas Paulsson]], [[Eugenia Zetterström]][[1994|-94]]|typ=trad|text=Hangla in från vänster, sedan rakt upp via en hylla.}}
+
+{{led|nr=5a|namn=Vattensängen|ny=1|grad=6a+ (6)|längd=35|fa=[[Per Willén]], [[Thomas Eriksson]] [[2009|-09]]|typ=mix|text=En större variant av ''Himlasängen'' i Tunaberg. Starta som ''In vino veritas'' men fortsätt hangeln i tvärsprickan till insteget på ''Ni glömde den här''. Kilar, en massa friends och en borrbult på ''Peer Gynt''. Bra, men inledningsvis något svårfunna, säkringar.}}
+
+{{led|nr=6|namn=Rosmerholm|grad=6a+ (6)|betyg=0|längd=17|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|bultar=1|typ=mix}}
+
+{{led|nr=7|namn=Peer Gynt|grad=6c+|betyg=0|längd=22|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|bultar=4+1|typ=sport|text=Bultat, men ganska glest mellan bultarna. 130510: Numera 6 bultar.}} 
+
+| width="300px" |
+
+{{led|nr=8|namn=Samfundets stötter|grad=6c+ (7)|betyg=0|längd=20|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|bultar=3|typ=mix}}
+
+{{led|nr=9|namn=Gengangere|grad=7c (8/8+)|betyg=0|längd=20|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|bultar=3|typ=mix|text=Extremt tunn sva-klättring}}
+
+{{led|nr=10|namn=Pas de deux|grad=6a+ (6)|betyg=0|längd=20|fa=[[Jonas Paulsson]], [[Eugenia Zetterström]][[1994|-94]]|typ=trad}}
+
+{{led|nr=11|namn=Suicidal tendencies|grad=6a (6-)|betyg=0|längd=20|fa=[[Per Willén]], [[Johnny Carlén]][[1994|-94]]|text=Helt osäkrad förutom ett friendläge i början. Går inte ihop med nr 12 som skissen i Stockholmsföraren visar utan rakt upp hela vägen. Kul topprepsled.}}
+
+{{led|nr=12|namn=Adagio|grad=6a (6-)|betyg=0|längd=15|fa=[[Jonas Paulsson]], [[Per Willén]][[1995|-95]]|typ=trad|text=Seriös}}
+
+{{led|nr=13|namn=Sträckbänken|grad=6a+ (6-/6)|betyg=0|längd=18|fa=[[Jonas Paulsson]][[1992|-92]]|bultar=1|typ=mix|text=Firningsankare. Följ diedret i starten och sprickan upp tills sprickan i princip försvinner och du är framme vid kruxet. Namnet på leden blir solklart då kruxet vid bulten skall passeras.}}
+
+{{led|nr=14|namn=Gröna ängen|grad=6a+ (6)|betyg=1|längd=20|fa=[[Per Willen]], [[Johnny Carlen]][[1994|-94]]|typ=trad|text=Kan nyttja Sträckbänkens firningsankare. Fin men rätt tung led då greppen är bra men rätt sparsamt placerade. Delvis borstad 090420.}}
+
+| width="300px" |
+
+{{led|nr=15|namn=Ni glömde den här|grad=5c (5+)|betyg=1||längd=18|fa=[[Jonas Paulsson]][[1992|-92]]|typ=trad|text=Firningsankare. Följer sprickan upp.}}
+
+{{led|nr=16|namn=Brand|grad=7b (8-/8)|betyg=1|längd=20|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|bultar=4|typ=mix|text=Känslig klättring med ett barskt krux.De flesta gör leden med enbart borrbultarna, men det går att lägga ett par friends.}}
+
+{{led|nr=17|namn=John Gabriel Borkman|grad= 6c (7-)|längd=20|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|bultar=2|typ=mix}}
+
+{{led|nr=17a|namn=Parasiten|ny=1|grad=6b (6/6+)|längd=20|fa=[[Thomas Eriksson]],[[Per Willén]][[2009|-09]]|bultar=3|typ=mix|text=Starta med ''John Gabriel Borkman'' och koppla första bulten. Gå sedan ner lite och runda kruxet till höger, nästan inne i ''I väntan....'' Följ sedan diederet till topps - dvs. samma utsteg som ''Brand''. Betydligt mer logisk linje än skissen låter antyda. Tidigare toppad av Mattias Brunk.}}
+
+{{led|nr=18|namn=I väntan på magdansaren|grad=5a (5-)|längd=18|fa=[[Per Willén]][[1994|-94]]|typ=solo|text=Osäkrad}}
+
+{{led|nr=19|namn=Hedda Gabler|grad=6c+ (7)|längd=20|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|bultar=2|typ=mix 130510: Numera 3 bultar}}
+
+{{led|nr=20|namn=The pfeiler|grad=6c|betyg=1|längd=20|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|bultar=3+1|typ=sport}}
+
+{{led|nr=21|namn=En folkfiende|grad=6a+|längd=12|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|bultar=1|typ=sport|text=Struntlill höger om ''The pfeiler''. Alldeles för högt till första bulten.}}
+|}
+
+[[Kategori:Stockholm]] [[Kategori:Mix]] [[Kategori:Trad]] [[Kategori:Sport]] [[Kategori:Sva]]
+
+==Bilder==
+[[Bild:Kulberget.jpg|frame|Kulberget sett från stranden]]
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Mix]] [[Kategori:Trad]] [[Kategori:Sport]] [[Kategori:Sva]]

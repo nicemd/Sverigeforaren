@@ -1,0 +1,65 @@
+{{info klippa
+  |lat=61.400005961543656
+  |long=15.497589111328125
+}}
+
+{{komplett}}
+==Allmänt==
+Enfotaberget ligger i västra Hälsingland, en mil eller så norr om Voxna. Berget ligger 23,3 km från Edsbyn i Hälsingland (tar ca 20 min med bil från Edsbyn)
+
+==Kommunikationer==
+<googlemap lat="61.400005961543656" lon="15.497589111328125" zoom="12" type="map" width="400" height="250">
+61.400005961543656,15.497589111328125,Enfotaberget
+</googlemap>
+Färdbeskrivning från Edsbyn:
+
+Kör Voxnavägen (301) ca 14km och sväng sedan höger och kör ca 2km till innan du svänger höger ytterligare en gång in på väg 296. Därefter är det ca 6,5 km till Enfotaberget som du ser på höger sida av vägen. Berget ligger inte så långt efter Voxna Camping.
+GPS-koordinater: Lat: N 61º 23' 51.46" Long: E 15º 29' 51.3"
+
+==Historik==
+{{hälsingeföraren}}
+
+==Väggar==
+
+Berget är inte så omfattande, men den korta anmarschen och den fina
+kvalitéen på klippan gör det värt en liten omväg om man är i trakten. 
+Ett skönt berg att klättra på. Det är 23m högt, indelat i två sektioner. Den nedre är ca 10m hög och den övre 13.
+Berget består i princip av två partier. Det vänstra är inte så brant,
+och består av en slät vägg i två etager. Det högra partiet består av
+väggarna till höger och till vänster om en markerad arete. Dessutom
+finns en liten klippvägg en bit bortanför den största väggen. Den
+vänstra av väggarna är litet flackare och rätt kompakt, medan den
+högra är tämligen brant. Klipporna är syd- och östorienterade. Totalt
+finns inte utrymme på berget för mer än kanske dryga dussinet leder,
+men berget är, som sagt, värt en dags besök då. Klippan är en typ av
+ögongnejs, mycket lik den man finner på Torpberget och vissa partier
+på Mörkberget. Detta innebär att klippan är i huvudsak fast och de
+leder man finner där är överlag fina.
+
+===Vänstra klippan===
+
+{{led|nr=1|namn=Photogenique|längd=10|grad=5+|gruv=b|betyg=1 |typ=trad|fa=Peter Brolin, Per Calleberg och Buster Delin 1990|text= Delikat väggklättring längs en tunn spricka mitt på väggen. Välsäkrat utsteg, där sprickan är något grövre.}}
+
+{{led|nr=2|namn=Kofoten|längd=10|grad=6|gruv=b|typ=trad|fa=Buster Delin 1989|text= Tunn spricka 4 m till höger om Photogenique. Ihållande klättring med krux på slutet.}}
+
+===Högra klippan===
+
+{{led|nr=3|namn=Släpfot|längd=23|grad=5+|gruv=b|betyg=1 |bultar=4|typ=mix|fa=Kenneth Blom och Andreas Olsson 2008|text= Svaklättring till vänster om areten. 4 borrbultar och lite eget.}}
+
+{{led|nr=4|namn=På resande fot|längd=23|grad=5+|gruv=c|betyg=3 |bultar=1|typ=mix|fa=Buster Delin, Per Calleberg och Peter Brolin 1990|text= Följer den tydliga areten på klippans högsta parti. Räkna med långa run-outs. 2 bultar och 1 borrbult.}}
+
+{{led|nr=5|namn=En fot för mycket|längd=23|grad=6+|gruv=b|betyg=2 |typ=trad|fa=Per Calleberg och Buster Delin 1990|text= Brant finger- och handjamspricka till höger om areten. Sprickan leder upp till en tall, varefter man följer en lättare ränna till toppen.}}
+
+{{led|nr=6|namn=Trappan|längd=23|grad=6-|gruv=b|betyg=2 |bultar=2|typ=mix|fa=Okänd|text= Brant start som sedan går går ihop med En fot för mycket. 2 borrbultar och lite eget. }}
+
+===Lilla Klippan===
+
+{{led|nr=7|namn=Stinkfoot|längd=7|grad=6|gruv=b|bultar=2|typ=sport|fa=Buster Delin och Per Calleberg 1990|text= Delikat klättring på den släta väggen till vänster om areten. 2 borrbultar.}}
+
+
+===Bilder===
+Bilder finns på Bollnäs klätterklubbs sida: http://www.bollnasklatterklubb.se/fotoalbum/2009/Enfotaberget/index.html
+
+[[Kategori:Saknar skiss]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

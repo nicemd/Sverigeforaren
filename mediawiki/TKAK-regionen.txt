@@ -1,0 +1,72 @@
+=Allmänt=
+TKAK-regionen är ett gemensamt namn på några små områden som täcktes av den legendariska Tväråbäck klätter- & atletklubbs verksamhet. Som namnet antyder bedrevs verksamheten i Tväråbäck med omnejd.
+=Vägbeskrivning=
+Fråga Dag eller Henke. 
+=Sektorer=
+==Area 74==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=You're No Good To Me|grad=6C|typ=Krimp,Slopers,Reach|fa=JN|landning=4|betyg=1|sopad=DK, HJ, JN|text=Ni hittar det aldrig!! Beläget i västra Stärkesmarks mörkare delar, långt inne i granskogen finns denna lilla pärla. Snyggt och givet problem, svårare för korta.}}
+{{problem|namn=Desperado|grad=6B|typ=Mantling,Travers V->H|fa=JN|landning=3|sopad=JN, HJ, DK|text=Område: Area 74. Går på en låg liten sten nedanför det högsta väggpartiet. Starta på sidan mot vägen och traversera åt H runt hörnet. Mantla upp över bullen.}}
+| width="250px" |
+{{problem|namn=Who The Fuck Is Wolfgang?|grad=3C|typ=Krimp,Slab,Aréte|fa=DK|landning=3|sopad=DK|text=Område: Area 74. Samma lilla sten som "Desperado" men starta något mer till vänster, precis till höger om arêtet. Rakt upp via alla tänkbara grepp. Sunk problem.}}
+| width="250px" |
+{{problem|namn=Sandals Suck|grad=5A|typ=Krimp,Aréte,Jug|fa=DK|landning=3|betyg=1|sopad=DK|text=Område: Area 74. Högt beläget arête som inte vore så tokigt om nån skulle orka ta bort rishögen nedanför och döda alla myror. Fin pocket som sällan ses på granit.}}
+|}
+==La Piedra Grande==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Black Oil|grad=6A|typ=Krimp,Överhäng,Dyno|fa=HJ|landning=5|betyg=1|sopad=HJ, DK, CH|sittstart=ja|text=Område: La Piedra Grande. Startar mitt under det svarta lilla överhänget och går rakt över. Kan kännas lite barsk för graden ibland. Har fått sitt namn av någons ljusa idé att elda olja under problemet för att få bort is.}}
+{{problem|namn=Stålmannen|grad=5B|typ=Krimp,Mantling|fa=HJ|landning=5|betyg=1|sopad=HJ, CH, DK, AB|sittstart=ja|text=Område: La Piedra Grande. Starta hängande i jug-flaket med benen böjda. Mantla sedan upp på flaket och följ linjen åt vänster till toppen. Mantla ut precis till H om "Black Oil". Småfint problem tror bökstart.}}
+{{problem|namn=Diamanten|grad=4C|typ=Slab,Highball|fa=AB|landning=4|betyg=2|sopad=DK, AB, HJ, CH, CO|text=Område: La Piedra Grande. Den höga sva-sidan. Rakt upp utan konstigheter. Småluftig på slutet, två ytterligare varianter finns också men detta är det rena orginalet. Svaklättring när den är som bäst!}}
+| width="250px" |
+{{problem|namn=Clean Balance and Pure Friction|grad=5B|typ=Slab,Highball|fa=DK|landning=4|sopad=DK, AB, HJ, CH, CO|variant=ja|uteslutningar=ja|text=Område: La Piedra Grande. Samma som "Diamanten" fast själva diamanten är utesluten, likaså de små vita kristallera snett till V ovanför diamanten och sprickan till H på slutet är inte heller med. Finare än det låter som.}}
+{{problem|namn=Diamanten [utan händer]|grad=6A|typ=Slab,Highball|fa=DK|landning=4|betyg=1|sopad=DK, AB, HJ, CH, CO|variant=ja|text=Område: La Piedra Grande. Precis som det låter som, Diamanten fast utan händer, dvs bara fötter. Balanskrävande testpiece som man inte gärna faller från slutet på. Oerhörd tillfredsställelse att nå toppen. Orepeterad.}}
+| width="250px" |
+{{problem|namn=Steele|grad=5A|typ=Krimp,Reach|fa=CO|landning=3|sopad=CO, DK|text=Område: La Piedra Grande. Går på stenens lägsta del. Rakt upp via lister och en pocket. En svårare variant finns med start i den låga juggen till V.}}
+{{problem|namn=Green|grad=3C|typ=Jug|fa=DK|landning=3|sopad=DK|text=Område: La Piedra Grande. Går på en ensam liten sten en bit ner i slänten, på sidan mot vägen. Superlätt men inte meningslös klättring. Grön av nån slags stärkesmarks-mossa som är i stort sett omöjlig att borsta bort och växer tillbaka på 2 veckor.}}
+|}
+==Lilla TKAK==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=My Life|grad=3C|typ=Travers V->H|fa=Henrik Johansson|landning=5|sopad=HJ|startgrepp=ja|text=Område: Lilla TKAK. Ett av områdets onödigare problem.}}
+{{problem|namn=The Friendly Grey|grad=6B|typ=Slopers,Överhäng|fa=Henrik Johansson|landning=4|betyg=2|sopad=HJ|uteslutningar=ja|text=Område: Lilla TKAK. Ett riktigt fint problem. Tre stjärnor om det inte varit för uteslutningarna. Börja under taket, gå ut med valfri hand till den grå slopern, matcha slopern, häv pendeln och skicka vidare...}}
+{{problem|namn=Onamission|grad=6B+|typ=Slopers,Överhäng,Reach|fa=Dag Knutsson|landning=5|betyg=3|sopad=TKAK|sittstart=ja|text=Område: Lilla TKAK. Ett riktigt härligt "brytproblem" Börja i ett givet undercling under det högra taket. Sträck sedan ut valfri hand till en sloperpinch, toehooka underclinget å matcha, sen campus moves till toppen.}}
+{{problem|namn=Sebulba|grad=5C|typ=Överhäng,Reach|fa=Dag Knutsson|landning=4|betyg=2|sopad=TKAK|sittstart=ja|text=Område: Lilla TKAK. "Områdets" första problem. Ett långt skick ut med höger hand gör problemet inte lämpligt för kortare personer.}}
+| width="250px" |
+{{problem|namn=TKAK Power|grad=6A|typ=Krimp,Pinch,Heel hook|fa=Dag Knutsson|landning=4|betyg=2|sopad=TKAK|sittstart=ja|text=Område: Lilla TKAK. En liten guldklimp. En del uteslutningar för fötterna gör att problemet inte får tre stjärnor.}}
+{{problem|namn=Agressor|grad=5C|typ=Krimp,Reach|fa=Henrik Johansson|landning=2|betyg=2|fadatum=2002-05-15|sopad=Henrik Johansson|sittstart=ja|text=Område: Lilla TKAK. Ett av "områdets" finaste problem. Sköna moves på vertikal vägg.}}
+{{problem|namn=Water Boy|grad=5B|typ=Krimp,Överhäng|fa=Henrik Johansson|landning=3|betyg=1|fadatum=2003-03-21|sopad=TKAK|text=Område: Lilla TKAK. Börja i samma undercling som "onamission" klättra sen ut åt höger och sen rakt upp.}}
+{{problem|namn=Lodis|grad=5B|typ=Krimp|fa=Henrik Johansson|landning=3|betyg=2|fadatum=2001-04-02|sopad=HJ|text=Område: Lilla TKAK. Tja, klättra rakt upp via greppen =)}}
+| width="250px" |
+{{problem|namn=Vicious|grad=5A|typ=Dyno|fa=Henrik Johansson|landning=3|betyg=1|fadatum=2003-04-02|sopad=Henrik Johansson|text=Område: Lilla TKAK. Starta under taket. Gå ut till det bra greppet och skicka till en hyffsad sloper}}
+{{problem|namn=No Money|grad=6B|typ=Krimp|fa=Henrik Johansson|landning=3|betyg=1|fadatum=2003-04-02|sopad=HJ|sittstart=ja|variant=ja|text=Område: Lilla TKAK. Tja.., sittstart på Lodis.}}
+{{problem|namn=Träskidhat|grad=5B|typ=Slopers,Reach,Jug|fa=DK|landning=3|fadatum=2004-02-21|sopad=DK|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Område: Lilla TKAK Väggen. Startar i stor jug långt ner till vä. Greppen rakt ovanför startjuggen samt det stora jättesteget (hyllan) till hö uteslutna. Problemet går ut till hö sloperamp och sen rakt upp.}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Stigma|grad=6C|typ=Överhäng,Dyno,Jug|fa=HJ|landning=4|betyg=3|sopad=HJ, DK, Johan N|startgrepp=ja|uteslutningar=ja|text=Område: Vin Blocket. Stor sten mitt i ingenstans. Startar i given jug under det branta överhänget, sedan dyno till jug-spetsen. Grymt kul men varning! tejpa fingrarna INNAN, namnet säger allt.}}
+{{problem|namn=Perfect Kiss|grad=7A|typ=Krimp,Slopers,Reach|fa=Henrik Johansson|landning=4|betyg=2|sopad=HJ|sittstart=ja|text=Område: NK. Starta i lågt sidepull för H hand. Sen upp till betydligt bättre sidepull och så börjar det härliga kruxet, betydligt svårare än den ser ut.}}
+| width="250px" |
+{{problem|namn=Utopi|grad=6B|typ=Krimp,Överhäng|fa=Henrik Johansson|landning=5|betyg=2|fadatum=2002-05-10|sopad=TKAK|startgrepp=ja|text=Område: Lilla TKAK. Nästan som en variant på "Onamission" Klättra in från höger sida av taket. (O a miss... börjar mitt under) sen samma avslut.}}
+{{problem|namn=Chorophobia|grad=7A|typ=Slopers,Mantling,Jug|fa=DK|landning=3|betyg=3|sopad=DK & Tatt|sittstart=ja|startgrepp=ja|text=Område: Tallbergsblocket. Sittstart i 2 pockets. Går sen rakt upp via en till pocket och ut över slopekanten. Inga uteslutningar, men du ska klättra rakt upp.}}
+{{problem|namn=Paranormal Activity|grad=6B+|typ=Aréte,Reach,Jug|fa=Tatt|landning=3|betyg=2|sopad=JN, DK, HJ?|startgrepp=ja|text=Område: Tallbergsblocket. Startar i samma pocket som Chorophobia. Traversera höger via storhålet och ut till arêtet sen upp.}}
+| width="250px" |
+{{problem|namn=Le Surplomb Noire|grad=6B+|typ=Krimp,Överhäng,Toe hook|fa=DK|landning=3|betyg=1|sopad=DK|sittstart=ja|startgrepp=ja|text=Område: Ovanför La Piedra / Area 74. Starta sittande mitt under överhänget och ta dig sedan upp lite åt vä för att sedan gå hö och över toppen. En spekrakulär toe-hook lösning gjordes första gången.}}
+|}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

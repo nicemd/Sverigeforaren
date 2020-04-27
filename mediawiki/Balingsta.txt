@@ -1,0 +1,249 @@
+{{boulderkomplett}}
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.204328" lon="18.02247" zoom="13" type="karta">
+59.201295,18.032137,Kvarnen
+59.208776, 18.023458,Vägsektorn 
+59.207376, 18.020458,Bergsektorn
+59.205576, 18.023458,Ängssektorn
+59.212930,18.021200,Hundsektorn
+</googlemap>
+</div>
+
+==Allmänt==
+Balingsta ligger i Orlångens naturreservat. På vänstra sidan om vägen finner du en sektor, på högra sidan finner du tre sektorer och längre fram vid vägs ände hittar du den femte sektorn i lövskogen vid ängarna nere vid sjön. Stenen kan på vissa problem vara lite lös. Alla problem är utmärkta med en vit pil.
+
+==Vägbeskrivning==
+Från Stockholms centrum tar du Huddingevägen (226), svänger av på Lännavägen (259), kör ca 1 km efter att du passerat Balingsnäs, sväng av vänster (skyltat '''Balingsta Gård''') på en grusväg med en lång gammal allé. Kör vidare ca 950 m, på vänster sida finns ett par parkeringsfickor och ca 200 m längre fram ytterligare ett par till. 
+
+För att komma till Kvarnen kör du ytterligare några hundra meter och ställer bilen på den stora parkeringen på höger sida före stallen. Gå förbi stallen, runda ridhuset och följ vägen bakom bommen, över åkrarna, tills du är framme.
+
+==Access {{access}}==
+Området ligger, som nämnts, i Orlångens naturreservat med allt vad det innebär. Var extremt noga med att ta med dig allt skräp och visa hänsyn till naturen och andra besökare.
+
+Obs. bara en varning myggtätt som attans vissa dagar. annars jättebra ställe
+
+==Förare==
+[http://www.sverigeforaren.se/media/Balingsta.pdf Balingstaföraren 2008 i PDF-format]
+
+===Hundsektorn===
+Sektorn ligger på motstående sida om vägen där du hittar de övriga sektorerna (vänster sida av vägen när du åker dit). Följ stigen längs ängskanten, vid stigens början står det en skylt "Förbjudet att rida". Gå ca 150 m tills dess att du ser ett kluvet block, framme!
+{|
+[[Bild:Hundsektorn.png]]
+|- valign="top"
+| width="300px" |
+{{problem|nr=A:1|namn=Idefix|grad=5|sittstart=ja|text=Klättra längs kanten och väggen upp.}}
+{{problem|nr=A:2|namn=Lassie|grad=6A|betyg=2|sittstart=ja|text=Skicka till den stora juggen, klättra via krimpers upp, skicka till kanten.}}
+{{problem|nr=A:3|namn=Pluto|grad=6B+|text=Problemet går från höger till vänster under mosskanten, upp där "Lassie" slutar.}}
+| width="300px" |
+{{problem|nr=B:1|namn=Zeke|grad=6A+|betyg=3|text=Klättra via kanten upp, endast händerna på kanten.}}
+{{problem|nr=B:2|namn=Laica|grad=5|text=Starta i den högra kanten, "campusera" eller klättra vidare till vänster och upp.}}
+{{problem|nr=B:3|namn=Snobben|grad=5-|text=Bakom trädet, rakt upp.}}
+{{problem|nr=B:4|namn=Milou|grad=6A+|text=Låg start, klättra höger och upp, känslig klättring.}}
+| width="300px" |
+{{problem|nr=B:5|namn=Cujo|grad=6B|sittstart=ja|text=Går lite snett höger, akta ryggen!}}
+{{problem|nr=B:6|namn=Båtsman|grad=L|sittstart=ja|text=Klättra till vänster längs stenens kant.}}
+{{problem|nr=B:7|namn=Devil|grad=7A+|text=Låg start, ansträngande klättring till vänster, upp via crimpers.}}
+{{problem|nr=B:8|namn=Baskervilles hund|grad=L|text=Klättra rakt upp under den Matterhorn-liknande spetsen.}}
+|}
+{{sidbrytning}}
+
+===Vägsektorn 1===
+Perkera förslagsvis på den sista perkeringen innan fältet (på höger sida) börjar. Gå sedan bakåt ca 100m och in i skogen till vänster (högra sidan av vägen när du åker in alltså). Det finns någon sorts stig en bit in, som kan vara svår att hitta första gången.
+
+[[Bild:Balingstaskiss_vagsektorn1.gif|750px]]
+{|
+|- valign="top"
+| width="300px" |
+{{problem|nr=A:1|namn=Krystad|grad=6A|text=Krystat och lågt problem, jobba dig till höger och upp.}}
+{{problem|nr=B:1|namn=Fjutt|grad=L|sittstart=ja|text=Ta tag i det du når och rakt upp.}}
+{{problem|nr=B:2|namn=Öl med bröd|grad=6A+|sittstart=ja|text=Avslutande hylla för fjutt är ej med.}}
+{{problem|nr= |namn=Variant|grad=6A|text=Ståstart.}}
+{{problem|nr=C:1|namn=Prince Eugen|grad=5-|sittstart=ja|text=Rakt upp, blir lite svårare högre upp.}}
+{{problem|nr=D:1|namn=Gubben Salvius|grad=6A|sittstart=ja|text=Svårigheten är startmovet.}}
+{{problem|nr=D:2|namn=Zeb|grad=6A|sittstart=ja|text=Rakt upp, HH på bra lister.}}
+{{problem|nr=E:1|namn=Laura|grad=L|text=Startar i undercling, gåtill vänster, slutar i grepp under mossan.}}
+{{problem|nr=E:2|namn=Josh|grad=L|text=Goda grepp snett upp till vänster.}}
+{{problem|nr=E:3|namn=Molly|grad=L|sittstart=ja|text=Ta tag i det du når och rakt upp.}}
+{{problem|nr=E:4|namn=Luke|grad=L|sittstart=ja|text=Ta tag i det du når och rakt upp.}}
+| width="300px" |
+{{problem|nr=F:1|namn=Orienterarens förbannelse|grad=6A|text=Trixigt å krimpigt problem vid starten.}}
+{{problem|nr=F:2|namn=TVAR|grad=L|text=Goda grepp, går snett vänster.}}
+{{problem|nr=G:1|namn=Brakskit|grad=L|text=Enkel kylskåpsklättring.}}
+{{problem|nr=H:1|namn=Mammoth|grad=7A+|betyg=2|text=Startar med VH i grepp snett nere till vänster HH i valfritt grepp. Skicka till den slopiga hyllan, VH i pocket… Upp till toppen!}}
+{{problem|nr=H:1a|namn=Mammoth assis|ny=1|grad=7A+ s|betyg=3|fa=[[Moritz Kiewitt]] [[2010|-10]]|text=Start med VH i samma grepp som ståstarten och fot/fötter på en hylla (OBS:finns lite stenyta th av "hyllan" i samma höjd som marken som inte sågs som ok för att använda) Morpho? start}}
+{{problem|nr=H:1b|namn=Ice Age|ny=1|grad=6c|betyg=3|fa=[[Moritz Kiewitt]] [[2010|-10]]|text=Start med VH på bra grepp och HH i crimp mitt på väggen. Upp med vänster fot sedan upp och in till "Superskunk" och avsluta rakt upp. Obs avsluta rakt upp, "bail out" till höger i mossan ej tillåtet.}}
+{{problem|nr=H:1c|namn=Ice Age assis|ny=1|grad=7A+ s|betyg=3|fa=[[Tomas Gustavsson]] [[2010|-10]]|text=Samma start som "Mammoth assis" och höger in till "Ice Age". Morpho? start}}
+{{problem|nr=H:2|namn=Superskunk|grad=5+|text=Jobbigast vid starten, när du når sideclinget en bit upp så är det lätt klättring.}}
+{{problem|nr=I:1|namn=Annika|grad=L|text=Sva.}}
+{{problem|nr=I:2|namn=First man in the bush|grad=L|text=Sva.}}
+{{problem|nr=I:3|namn=Stölden|grad=L|text=Sva.}}
+{{problem|nr=I:4|namn=Begäret|grad=L|text=Sva.}}
+{{problem|nr=I:5|namn=Svinborst|grad=L|sittstart=ja|text=Problemet slutar ett par meter upp i jugge.}}
+| width="300px" |
+{{problem|nr=I:6|namn=Älgört|grad=5-|sittstart=ja|text=Använd endast sprickkanterna upp, ej ”Svinborst” vänstra kant.}}
+{{problem|nr=I:7|namn=Gömslet|grad=5+|sittstart=ja|text=Krimpstart och upp på svat till toppen.}}
+{{problem|nr=I:8|namn=Pia-sava|grad=L|sittstart=ja|text=Rakt upp i stora grepp.}}
+{{problem|nr=J:1|namn=Sexuellen|grad=6A|text=Starta i stor hylla, skicka till överliggande hyllkant, kliv upp och jobba dig till vänster. Stora fina grepp på slutet.}}
+{{problem|nr=J:2|namn=Fingerslinger|grad=6C|text=Klättra endast sprickan upp.}}
+{{problem|nr=J:3|namn=Rädslan|grad=6C|sittstart=ja|text=}}
+{{problem|nr=J:4|namn=InPosible|grad=7A?|text=Travers, .}}
+{{problem|nr=J:5|namn=Chuck Norris|grad=6B+|text=Upp i sprickan.}}
+{{problem|nr=J:6|namn=Jordgubben|grad=6A|text=Låg start i den stora vertikala kanten, klättra till höger och upp. Fuska inte och klättra för högt, håll dig strax nedanför kanten.}}
+
+[[Bild:mammothassis.jpg|thumb|right|250px|Start på Mammoth Assis och Ice Age Assis]]
+[[Bild:mammothblocket.jpg|thumb|right|250px|Klippan med Mammoth och Ice Age]]
+|}
+
+===Vägsektorn 2===
+{{info klippa
+  |lat=59.20771
+  |long=18.02616
+}}
+
+[[Bild:Balingstaskiss_vagsektorn2.gif|750px]]
+{|
+|- valign="top"
+| width="300px" |
+{{problem|nr=A:1|namn=Whiskey route|grad=6B+|sittstart=ja|text=Hangeltravers till höger, följer hela kanten mot toppen. Händer och fötter endast på kanten.}}
+{{problem|namn=Variant|grad=5+|sittstart=ja|text=Använd hela väggen för fötterna, avslutar stående i startgreppet för ''Big bud''.}}
+{{problem|nr=A:2|namn=Big bud|grad=6C+|betyg=1|text=Få men tydliga grepp, fuska inte och använd överkantenpå stenen, avslutar på toppen.}}
+{{problem|nr=B:1|namn=Lurad|grad=5+|text=Klurigt mittparti, slutar i markant grepp ca 3 meter upp. Svårt att ta dig ned? Ring Poolia!}}
+{{problem|nr=C:1|namn=Snoken|grad=L|text=Lättaste av de tre sprickorna, inget att säga.}}
+{{problem|nr=C:2|namn=Bönstjälken|grad=L|text=Enkel spricka, upp i mossan.}}
+| width="300px" |
+{{problem|nr=C:3|namn=Flicksländan|grad=L|text=Enkel spricka, upp i mossan.}}
+{{problem|nr=C:4|namn=Myggpest|grad=6B|sittstart=ja|betyg=1|text=Överaskande ansträngande problem med hoptryckt start. Heelhook med vänster fot, båda händerna på samma grepp alt. HH i pocket, skicka höger hand till hyfsat grepp.}}
+{{problem|nr=D:1|namn=Pistvakt|grad=L|text=Problemet högst upp, enkelt, lite dolt bakom ett buskage.}}
+{{problem|nr=E:1|namn=Nacho Gringo|grad=6B+|text=Klättra rakt upp, skicka VH till sloperlist.}}
+{{problem|nr=E:2|namn=Zorro|grad=6C|text=Klättra upp till spricka, ta krimppocket med VH, skicka höger till sloperhyllan, kliv till höger skicka upp till list.}}
+{{problem|nr=F:1|namn=Bye bye Mythos|grad=L|text=Inklämt problem med tydliga lister.}}
+| width="300px" |
+{{problem|nr=F:2|namn=Francos shelter|grad=7C |sittstart=ja|betyg=2|text=3 Hårda moves, krimp, pinch, slopers och heel-hook. VH på vänstra kanten och HH i krimp, slappa med VH på den vänstra kanten...}}
+{{problem|nr=F:3|namn=Fistfuck|grad=6C|sittstart=ja|betyg=1|text=Klättra sprickan upp till vänster om "Snakefarm".}}
+{{problem|nr=F:4|namn=Snakefarm|grad=7B+|sittstart=ja|betyg=1|text=Tekniskt problem med body tension, klättra längs de vertikala kanterna upp till toppen.}}
+{{problem|nr=F:5|namn=Ballista|grad=7A|sittstart=ja|betyg=1|text=Crimpstart, går snett till vänster tills du når den första vertikala kanten på "Snakefarm". Klättra upp.}}
+{{problem|nr=F:6|namn=Balinesen|grad=6C+|sittstart=ja|text=Startar i samma grepp som "Ballista" men går rakt upp.}}
+{{problem|nr=F:7|namn=Barnkalas|grad=5|sittstart=ja|text=Problemet längst till höger.}}
+|}
+{{sidbrytning}}
+
+===Bergsektorn 1===
+[[Bild:Balingstaskiss_bergsektorn1.gif|750px]]
+{|
+|- valign="top"
+| width="300px" |
+{{problem|nr=A:1|namn=Svammel|grad=L|text=Lätt sva-problem.}}
+{{problem|nr=A:2|namn=Svavel|grad=6A|text=Jobbig i starten sedan tydlig struktur.}}
+{{problem|nr=A:3|namn=Skräddaren|grad=6A+|sittstart=ja | text=Slopigt problem till vänster om ''Svavel''.}}
+{{problem|nr=B:1|namn=Hubbe|grad=6A+|text=Låg start i tydligt grepp med VH, HH i snedställd list. Antingen när man rest sig upp skickar man VH till vertikala sprickan eller den tydliga listen mitt på. Rampen till vänster är ej med.}}
+| width="300px" |
+{{problem|nr=C:1|namn=Rulltrappan|grad=5|text=Startar i tydliga grepp, går på slutet till vänster på sva-partiet.}}
+{{problem|namn=Variant|grad=5-|text=Goda grepp, rakt upp. För mycket grepp på slutet gör klättringen dess värre mindre intressant.}}
+{{problem|nr=C:2|namn=Tsunami|grad=L|text=Kul form på väggen!}}
+{{problem|nr=D:1|namn=Trollskott|grad=6A|sittstart=ja | text=Ihopträngt problem pga trädet, vilket sabbar det hela.Problemet går lite till höger, när man når högra kanten med HH klättra rakt upp.}}
+{{problem|nr=E:1|namn=Mutan|grad=6A|sittstart=ja | text=Starta till vänster och toppa ur vid sprickans högsta punkt.}}
+| width="300px" |
+{{problem|nr=E:2|namn=Bakshish|grad=6B|sittstart=ja | betyg=2|text=Starta i listgrepp, skicka till slopig kant och sedan vidare till en mängd lister högre upp.}}
+{{problem|nr=F:1|namn=Knäskål|grad=5|sittstart=ja | text=Kylskåpsklättring rakt upp.}}
+{{problem|nr=F:2|namn=Jaha!|grad=L|text=Rakt upp till mosskanten, inget att säga.}}
+{{problem|nr=F:3|namn=19th hole|grad=5|sittstart=ja | text=Svårast i början, se upp för lösa flak!}}
+|}
+
+===Bergsektorn 2===
+[[Bild:Balingstaskiss_bergsektorn2.gif|750px]]
+{|
+|- valign="top"
+| width="300px" |
+{{problem|nr=A:1|namn=Hävert|grad=5|text=Startar med båda händer i sprickan och vänster fot i snedställd list.}}
+{{problem|nr=A:2|namn=Step up|grad=L|text=Lätt klättring i skrovel/spricka, upp till höger om träd.}}
+{{problem|nr=A:3|namn=Predikstolen|grad=6B+|text=Klurigt mittparti, fina lister vid den högra sprickan.}}
+| width="300px" |
+{{problem|nr=B:1|namn=Super judge|grad=7A|sittstart=ja | betyg=3|text=Krimpigt problem, få lister för fötterna.}}
+{{problem|namn=Variant|betyg=1|grad=6C|text=Rakt upp.}}
+{{problem|nr=B:2|namn=Schäfern|grad=5|sittstart=ja | text=Använd endast sprickan för händerna.}}
+| width="300px" |
+{{problem|nr=B:3|namn=Skarprättaren|grad=6A|sittstart=ja | text=Starta på den vänstra sidan av den vassa areten, klättra runt och upp till topps.}}
+{{problem|nr=C:1|namn=Barba mama|grad=5+|text=Följ sprickan till höger, toppa ut i ''Barba papa''.}}
+{{problem|nr=C:2|namn=Barba papa|grad=L|text=Klättra på enklaste sätt upp för flaket.}}
+|}
+
+Ovanför B och C är perfekta fikaplatser med milsvid utsikt.
+{{sidbrytning}}
+
+===Ängssektorn===
+Vill du gå direkt hit gör du det enklast genom att följa ängskanten från vägen. 
+[[Bild:Balingstaskiss_angssektorn.gif|750px]]
+{|
+|- valign="top"
+| width="300px" |
+{{problem|nr=A:1|namn=Moby's dick|grad=6A+|sittstart=ja | text=Travers till höger. Startar sittande i det stora tydliga greppet, gå upp över kanten på slutet.}}
+{{problem|nr=B:1|namn=10 ft. Ganja Plant|grad=5-|text=Sva, wall-problem. Rakt upp!}}
+{{problem|nr=B:2|namn=Salmiak|grad=5|sittstart=ja | text=Stor och fin list att följa upp med HH.}}
+{{problem|nr=C:1|namn=Bunnylainen|grad=7A|text=Väggklättring till vänster om ''Sweet Johnny'', snedställda krimpiga fingergrepp en bit upp.}}
+{{problem|nr=C:3|namn=Sweet Mary Jane|grad=6B+|sittstart=ja | text=Fin klättring med start på kanten och upp mellan ''Bunnylainen'' och ''Sweet Johnny''}}
+{{problem|nr=C:3|namn=Sweet Johnny|grad=6C|text=Känslig klättring längs kanten på stenen. Projekt.}}
+| width="300px" |
+{{problem|nr=C:4|namn=Uppfuckat|grad=6B|text=Highball som går med en liten dragning till vänster. Bitvis sparsmakat med goda grepp. Bra landning!}}
+{{problem|nr=C:5|namn=Doom|grad=7A? project|text=Sittstart i det stora flaket, går till vänster och upp på goda grepp till en bitvis mer känslig klättring. Projekt.}}
+{{problem|nr=C:6|namn=Power trip|grad=7B? project|text=Startar i samma flak som ''Doom'' men går i början till höger till slopig kant. När man får lite höjd märker man att det är en lååång resa ned till marken. Projekt.}}
+{{problem|nr=D:1|namn=Maräng|grad=L|text=Lite av laybackklättring längs den vänstra kanten.}}
+{{problem|nr=D:2|namn=Sidvind|grad=6C|sittstart=ja |betyg=1| text=Startar till höger med VH i spricka. Klättra sedan till höger antingenvia lister på vägg eller ett långt skick till slopig kant med HH. Klättra sedan upp. }}
+| width="300px" |
+{{problem|nr=E:1|namn=Grävling|grad=5+|sittstart=ja | text=Går längs den högra kanten och de goda listerna på väggen.}}
+{{problem|nr=E:2|namn=Badger|grad=6A|sittstart=ja | text=Gå rakt upp från listen utan att använda kanten.}}
+{{problem|nr=E:3|namn=Tick attack|grad=5+|sittstart=ja | text=Starta sittandes med VH på vänstra kanten och HH i list. Mata upp till ett bra pinchgrepp med VH och kliv upp.}}
+{{problem|nr=E:4|namn=Bulldozer|grad=6C|sittstart=ja | text=Låg start, går från höger till vänster längs kanten och avslutar med ''Pangnus''.}}
+{{problem|nr=E:5|namn=Dumper|grad=6B|sittstart=ja | text=Nästan rakt upp från startgrepp, jobba lite till vänster och upp.}}
+{{problem|nr=E:6|namn=Pangnus|grad=6B|sittstart=ja | text=Låg start, starta med båda händerna på den slopiga kanten, fotgrepp under stenen, skicka till spricklist, mata vidare till vänster och kliv upp.}}
+|}
+
+Om man från E-blocket går mot vattnet och håller lite vänster, kommer man till en bastant sköld ca 15 meter hög. På skölden går en bultad tur.
+{{problem|nr=1|namn=Suturbrandtur|grad=7a|betyg=1|fa=[[Niklas Adler]] [[-95]]|text=Börjar i en spricklinje och övergår sedan i väggklättring.}}
+{{sidbrytning}}
+
+===Kvarnen===
+En naturskön sektor med lövskog, bad och grillplats. Mycket myggigt inne vid väggarna under sommarsäsongen. Flera höga och fina problem. Några så höga att de hittills bara är gjorda på topprep. Ett problem visade sig t.o.m. vara en gammal tradled. Oftast mycket bra landningar.
+
+[[Bild:balingstaskiss_kvarnen.gif|750px]]
+{|
+|- valign="top"
+| width="230px" |
+'''''Höga väggen'''''
+{{problem|nr=A:1|namn=Juicy Lucy|grad=L|betyg=1|text=Den vänstra sprickan.}}
+{{problem|nr=A:2|namn=Juicier Lucifer|grad=6B|betyg=1|text=Högra sprickan. Tunt krux på slutet.}}
+{{problem|nr=A:3|namn=Den makalösa arêten|grad=7b|betyg=3|text=Den makalösa arêten! Endast gjord på topprep. Ledgradering.}}
+{{problem|nr=A:4|namn=Spagatdiedern|grad=6/6+|längd=10|fa=[[Bengt Ala-Vähälä]], [[Fredrik Sjölin]] [[1988]]|typ=trad|betyg=1|text=Diedret. Säkrad med små vajerkilar. Ledgradering.}}
+{{problem|nr=A:5|namn=I lagens tassemarker|grad=5|text= Starta strax till vänster om hyllan och ta dig upp på densamma. Toppa ur med ''Bailey’s'' eller hoppa ner.}}
+{{problem|nr=A:6a|namn=Vodka|grad=5+|text=Upp till hyllan}}
+{{problem|nr=A:6b|namn=Bailey's|grad=L|text=Från hyllan via högerlutande spricka till kanten.}}
+{{problem|nr=A:6|namn=Christer Pettersson|grad=5+|text=A:6a + A:6b}}
+
+{{problem|nr=A:7|namn=My Knight In Shining Armour|betyg=2|grad=6C|sittstart=ja|text=Areten och kanten för vänstern. Ståstart 6B+.}}
+{{problem|nr=A:8|namn=The Knights Who Say Ni!|grad=L|text=Slaben th om ''My Knight In Shining Armor''.}}
+| width="230px" |
+'''''Blocket'''''
+[[Bild:Blocket.gif|230px]]
+{{problem|nr=B:1|namn=Billigast på Blocket|grad=L|sittstart=ja|text=Följ kanten. Gul linje.}}
+{{problem|nr=B:2|namn=P.O.K.|grad=5+|sittstart=ja|text=Följ linjen hela vägen åt v runt hörnet. ”Ögonhålen” ingår. Grön linje.}}
+{{problem|nr=B:3|namn=I befintligt skick|grad=5|sittstart=ja|text=Samma startgrepp som ''Först till kvarn'' men gå rakt upp. Blå linje.}}
+{{problem|nr=B:4|namn=Först till kvarn|grad=6A|sittstart=ja|text=Följ kanten. ”Ögonhålen” ingår ej. Röd linje.}}
+{{problem|nr=B:5|namn=B.V.S.A.|grad=6C|sittstart=ja|text=Ett enda flytt.}}
+'''''Högra väggarna'''''
+
+Problem nr C:1 - C:3 kan avslutas när man står i övre tvärsprickan. Den som vill ha mer klättring än så kan toppa ur via en lätt men hög slab. 
+{{problem|nr=C:1|namn=Mygga|grad=6A|text=Startgrepp i undre tvärsprickan och rakt upp.}}
+| width="230px" |
+{{problem|nr=C:2|namn=Sketolene|grad=6C|sittstart=ja|text=Svårt att nå startgreppen om man är kort.}}
+{{problem|nr=C:3|namn=Autan|grad=5|sittstart=ja|text=Följ sprickorna snett upp åt v.}}
+{{problem|nr=C:4|namn=神風 (Kamikaze)|grad=6B+|betyg=1|sittstart=ja|text=Klurig liten arete. Följ sprickan snett upp åt v.}}
+[[Bild:hogra_vaggen.gif|230px]]
+{{problem|nr=D:1|namn=En midvinternattsdröm|grad=7A+|betyg=3|text=Genom det lilla taket. Röd linje.}}
+{{problem|nr=D:2|namn=Innan regnet faller|grad=7A+|betyg=1|sittstart=ja|text=Upp längs sprickantydningen. Ståstart 6C+. Grön linje.}}
+{{problem|nr=D:3|namn=Vit voodoo|grad=6C|sittstart=ja|text=Start i jugen med vänster hand och följ sprickan snett upp åt h. Ståstart 6B. Gul linje.}}
+{{problem|nr=D:4|namn=Svart magi|grad=6C|betyg=2|sittstart=ja|text=Upp via stora greppet th och in i samma utsteg som ''Vit vodoo''. Blå linje.}}
+{{problem|nr=D:5|namn=Oktarin|grad=5|sittstart=ja|text=Håll händer och fötter innanför sprickan som avgränsar blocket. Slutar när du står på hyllan. Orange linje.}}
+{{problem|nr=D:6|namn=Tobbe trollkarl|betyg=1|grad=6a|sittstart=ja|text= Följ väggen ca 20 m ytterligare till höger för att hitta problemet. Börja lågt till vänster, följ stor spricklinje via skålen till jättejugge.}}
+|}
+{{sidbrytning}}
+[[Kategori:Stockholm]]

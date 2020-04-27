@@ -1,0 +1,36 @@
+{{info boulderområde
+  |lat=59.407289
+  |long=15.092157
+}}
+
+{{boulderstub}}
+
+==Allmänt==
+I Rosendal återfinns den bästa klättringen i Örebroområdet.
+
+"Rosendal återfinns den bästa klättringen i Örebroområdet. Här har man klättrat sedan i början av 1970-talet. Då Närke är ett mycket platt landskap är klippväggarna få, och höjden inskränker sig till ca 15 meter. Det finns dock en rad fina leder här. Rosendals största förtjänst är nog ändå att det är ett av Sveriges mest klassiska, och tillika bästa boulderområde! Här finns ca 140 boulderproblem, fördelade på drygt 10 stenar. Graderna är i dagsläget mellan V0 och V10, så detta boulderområde torde rimligen tillfredsställa såväl nybörjaren som elitbouldraren. "
+
+Läs mer på [http://www.orebroklatterklubb.com/ Örebro Klätterklubb]
+
+==Vägbeskrivning==
+
+<googlemap version="0.9" lat="59.407289" lon="15.092157" type="map" zoom="16">
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=rosendal}}
+
+== Film ==
+<youtube>v=YdnaCzaGuWs</youtube>
+
+
+{{tryckt förare|klättring i kilsbergen med omnejd (2007)=ja|klättring i sverige (1996)=ja}} 
+Endast ett fåtal leder finns beskrivna i Klättring i Sverige, för fullständig förare rekommenderas Klättring i Klisbergen med omnejd. Berget finns även beskrivit i tidigare förare, Klättring och Bouldering i Rosendal (3 upplagor, 1989-1996) samt Bouldering i Närke (2000). De sistnämda förarna är slutsålda .
+
+[[Kategori:Bouldering]]
+[[Kategori:Klippa]]
+[[Kategori:Närke]]
+[[Kategori:Saknar leder]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Video]]

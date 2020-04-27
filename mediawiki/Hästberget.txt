@@ -1,0 +1,48 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Nedre väggen==
+
+==Mellanväggen==
+
+==Övre väggen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Epiphany|grad=7A|typ=Mantling,Överhäng,Dyno|fa=Fredrik Bodin|landning=2|betyg=2|sopad=Fredrik Bodin|startgrepp=ja|text=Startar med händerna på stenen under. Dubbeldyno upp till spetsen och sedan rakt upp.}}
+{{problem|nr=2|namn=Epiphany static|grad=6B|typ=Krimp,Slopers,Överhäng|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2007-04-17|sopad=Fredrik Bodin|startgrepp=ja|text=Startar med händerna på stenen under, går rakt upp via spetsen.}}
+{{problem|nr=3|namn=Klossa|grad=6B|typ=Krimp,Slopers,Mantling|fa=Fredrik Bodin|landning=3|betyg=2|sopad=Fredrik Bodin|startgrepp=ja|text=Startar med vänster hand på stora greppet inne i sprickan, går sedan åt vänster ut på spetsen och sedan upp.}}
+| width="250px" |
+{{problem|nr=4|namn=Livtag|grad=6A+|typ=Krimp,Mantling,Överhäng|fa=Fredrik Bodin|landning=4|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart under överhänget, går rakt upp på den högra sidan.}}
+{{problem|nr=5|namn=Slopey Hollow|grad=6A|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=2|betyg=3|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med händerna på tydliga listen, går sedan rakt upp via pocketen. Stenen till vänster är ej med.}}
+| width="250px" |
+{{problem|nr=6|namn=Slopey Hollow (ss)|grad=6C+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=2|sopad=Fredrik Bodin|sittstart=ja|variant=ja|text=Sittstart vid areten, går rakt upp. Stenen till vänster är ej med.}}
+{{problem|nr=7|namn=Slopey Hollow Direct|grad=6C|typ=Krimp,Dyno|fa=Fredrik Bodin|landning=2|betyg=1|fadatum=2007-04-17|sopad=Fredrik Bodin|variant=ja|text=Börjar på den tydliga listen, dyno upp till kanten.}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Air Force One|grad=6C|typ=Dyno|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2003-07-17|sopad=Fredrik Bodin|startgrepp=ja|text=Delikat dynoproblem, där man börjar med händerna på hyllan under överhänget och sedan är det bara att kliva upp och skicka på de ca 180 centimetrarna upp till slutjuggen.}}
+{{problem|namn=Sideline|grad=7A+|typ=Krimp,Reach|fa=Christofer Björklund|landning=3|betyg=2|fadatum=2003-07-17|sopad=Christofer Björklund|startgrepp=ja|text=Börjar med ett gaston högt upp för högerhanden och en minimal crimp för vänsterhanden, går rakt upp. Kroppstung.}}
+{{problem|namn=Another Snatch|grad=7A|typ=Krimp|fa=Christofer Björklund|landning=3|betyg=2|fadatum=2003-07-17|sopad=Christofer Björklund & Fredrik Bodin|startgrepp=ja|text=Gaston för vänster och crimp för högern, går sedan rakt upp.}}
+{{problem|namn=?|grad=6C|typ=Krimp,Slopers,Dyno|fa=Christofer Björklund|landning=3|betyg=2|fadatum=2003-07-29|sopad=Christofer Björklund|startgrepp=ja|text=Dynoproblem där man börjar med händerna i den horisontella sprickan på ett par krimprar, skicka sedan på till kanten och mantla.}}
+| width="250px" |
+{{problem|namn=Sjätte sinnet|grad=7C|typ=Krimp,Dyno|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2006-06-12|sopad=Fredrik Bodin|startgrepp=ja|uteslutningar=ja|text=Börjar med händerna på den tydliga listen, går rakt upp. Sprickorna till vänster och höger är uteslutna men det blir som helt naturligt.}}
+{{problem|namn=Femte elementet|grad=6C|typ=Krimp|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2006-06-15|sopad=Fredrik Bodin|uteslutningar=ja|text=Börjar vid den bra hyllan, går rakt upp utan att använda sprickan ute till höger.}}
+{{problem|namn=Nyskick|grad=6B+|typ=Highball,Jug,Spricka|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2006-06-17|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med händerna på det stora underclinget, följer sedan sprickorna rakt upp.}}
+{{problem|namn=Dr. Digger|grad=6C|typ=Krimp|fa=Fredrik Bodin|landning=1|fadatum=2006-06-21|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart till höger om "Another Snatch", går rakt upp.}}
+{{problem|namn=???|grad=6A|typ=Krimp,Spricka|fa=Christofer Björklund|landning=4|betyg=2|fadatum=2006-06-16|sopad=Christofer Björklund|text=Går rakt upp vid sprickan.}}
+| width="250px" |
+{{problem|namn=Rhapsody on Rock|grad=7B|typ=Krimp,Reach|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2006-07-11|sopad=Fredrik Bodin|uteslutningar=ja|text=Ståstart till vänster om "Nyskick", går rakt upp. Sprickan som "Nyskick" går upp i är ej med.}}
+{{problem|namn=Midway|grad=7B|typ=Krimp|fa=Fredrik Bodin|landning=2|betyg=1|fadatum=2006-07-11|sopad=Fredrik Bodin|startgrepp=ja|text=Startar med höger hand på samma startgrepp som man har för vänster hand på "Another Snatch" och vänster hand också på en sidepull. Går snett upp åt vänster.}}
+{{problem|namn=Sjätte Sinnet (ss)|grad=7C+|typ=Krimp,Överhäng,Dyno|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2007-06-16|sopad=Fredrik Bodin|sittstart=ja|variant=ja|uteslutningar=ja|text=Sittstart med händerna på hyllan, går rakt upp i "Sjätte Sinnet". Sprickan ute till vänster är utesluten men det är ganska naturligt.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

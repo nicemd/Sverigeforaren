@@ -1,0 +1,149 @@
+{{info klippa
+  |lat=56.21100024008475
+  |long=13.653602600097656
+}}
+
+{{Komplett}}
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="56.20632206765915" lon="13.589401245117188" zoom="11" type="map">
+56.21100024008475,13.653602600097656,Vedema
+
+</googlemap>
+</div>
+
+[[Bild:vedema.gif|350 px|thumb|[[Användare:Petter Åsander|Petter Åsander]], leder {{ledlänk|namn=Den långa linjen}} 4 på D-väggen<BR>Foto: Carol Vågeteg]]
+
+== Allmänt ==
+
+Klipporna vid Vedema ligger i en osammanhängande brant alldeles nedanför utsiktspunkten vid Vedema Hall.
+Det finns tre större väggar med en höjd på 10-20 m och dessutom ett antal små väggar däremellan som inte berörs i föraren.
+Klättringen är av varierande typ där A-väggen bjuder på tuff överhängande klättring medan de andra klipporna är mindre branta och bjuder på både sprick och friktions-klättring. I de flesta fall så är det nödvändigt att ha med sig stålborste när man ska klättra här.
+
+
+
+== Hitta hit ==
+
+
+
+[[Bild:vedemakarta.gif]]
+
+Klipporna ligger i strövområdet Vedema, ca en mil nordväst om Hässleholm.
+För att hitta dit åker man om man kommer från Hässleholm västerut på väg 21 tills man kommer till korsningen där väg 24 mot Halmstad viker av norrut.
+Tag av på denna och åk några km tills ni kommer till Hörlinge gård där det står en skylt "Mala 7" åt höger.
+Tag av här och vik direkt vänster efter 50 m (likadan skylt) för att ta vänster igen efter ytterligare 100 m (skylt "Hågnarp 11").
+Härifrån är det 2,6 km grusväg till en avtagsväg åt vänster med skylt "Vedema", 600 m upp i skogen finns en glänta där man parkerar.
+Härifrån går man stigen rakt fram förbi vägbommen och vidare 200 m till en stig åt vänster.
+Denna går till utsiktspunkten ovanför klippan.
+I början av backen viker man av åt höger så kommer man till foten av A-väggen. (OBS! Kartan är ej orienterad i korrekt vädersträck!!)
+
+== Översikt ==
+
+[[Bild:vedemaoversikt.gif]]
+
+A-väggen är den mest utvecklade klippan där också de svåraste lederna finns.
+Klippan är mestadels överhängande och här finns "Tuff tid", en av nordöstra skånes svåraste leder.
+Vidare är B-väggen mindre frekventerad och bjuder på lättare klättring, här kan ha gjorts endel turer som inte finns med i nuläget.
+C-väggen har ett antal fina leder och innehåller mest friktionsklättring av väggarna.
+Sedan finns dessutom D-väggen.
+Denna är inte beskriven i föraren men består av sönderbrutet berg.
+Här går 5-6 varianter av leder.
+Överallt är det klätterbart, säkras med kilar.
+Det finns en fin led, Vedemas längsta, som börjar i mitten och fortsätter en naturlig linje rakt upp till högsta punkten, förstabestigare är okänd.
+Leden har krux-svårighet på ca 4 och säkras gott med kilar och friends.
+
+
+== A-väggen ==
+
+[[Bild:VedemaA-vagg.GIF]]
+
+[[Bild:IMG 4421WEB.jpg]]
+
+{{led|nr=1|namn=Skjut en snut|grad=4+|betyg=|längd=
+ |fa=Patrik Lind 87|bultar=|typ=trad|text=Starta på den vänstra sidan av väggen, klättra upp till svaet och vidare upp mot toppen}}
+
+{{led|nr=2|namn=Blå vägen|grad=6+|betyg=|längd=
+ |fa=Daniel Ehman 92|bultar=|typ=mix|text=Upp till borrbulten, därefter spricklinjen upp till toppen. Psykig att leda}}
+
+{{led|nr=3|namn=Don´t think twice|grad=6+|betyg=1|längd=
+ |fa=Patrik Lind 91|bultar=2|typ=mix|text=Starta under överhänget och klättra sprickan upp till borrbulten. vidare till andra borrbulten och rakt upp till toppen. tidigare topprepad}}
+
+{{led|nr=4|namn=Dogs|grad=A2|betyg=|längd=14
+ |fa=Patrik Lind 87|bultar=|typ=|text=Starta under överhänget bakom blocket och följ den tunna spricklinjen rakt upp förbi flaket och vidare rakt upp till toppen}}
+
+{{led|nr=4,5|namn=Razor|grad=7c+|betyg=|längd=14
+ |fa=Peter Bosma 99|bultar=5?|typ=sport|text=Hård sporttur som börjar alldeles bakom det stora blocket. Säkringsmannen bör vara allert så klättraren inte faller i blocket. Turligt nog sitter bultarna tätt. Mycket överhängande.}}
+
+{{led|nr=5|namn=Tuff tid|grad=7b+/7c|betyg=2|längd=14
+ |fa=Patrik Lind 93|bultar=4|typ=sport|text=En av central-skånes mest klassiska lite hårdare sportturer! Starta vid flaken höger om det stora blocket. Följ borrbultarna rakt upp. Krux vid andra borrbulten. Ihållande och fingrig led. Brant.}}
+
+{{led|nr=6|namn=Medborgarlön|grad=7|betyg=2|längd=12m
+ |fa=Patrik Lind 90|bultar=|typ=|text=Följ diedern till höger om tuff tid. Klättrades Med fast kil och bladbult från början, men dessas kvalitet är aningen bristande idag (bör plockas bort). Krux i första delen, lättare mot slutet}}
+
+== B-väggen ==
+
+[[Bild:vedemabvaggen1.gif]]
+
+[[Bild:IMG 4423WEB.jpg]]
+
+{{led|nr=1|namn=Myth of Malhan|grad=4+|betyg=0|längd=
+ |fa=Patrik Lind 86|bultar=|typ=trad|text=Följer sprickan. Välsäkrad}}
+
+{{led|nr=2|namn=Gandolf|grad=4+|betyg=0|längd=
+ |fa=Patrik Lind 86|bultar=|typ=trad|text=Fin och välsäkrad}}
+
+{{led|nr=3|namn=Namnlös|grad=?|betyg=0|längd=
+ |fa=Okänd|bultar=|typ=|text=Upp till bulten (osäkert om den finns kvar..) och över taket}}
+
+[[Bild:vedemabvaggen2.gif]]
+
+{{led|nr=1|namn=Örnnästet|grad=4+|betyg=|längd=
+ |fa=Patrik Lind 86|bultar=|typ=trad|text=Kort led med ganska ointressant klättring}}
+
+{{led|nr=2|namn=Kurt|grad=4+|betyg=|längd=
+ |fa=Patrik Lind 86|bultar=|typ=trad|text=Som Örnnästet}}
+
+== C-väggen ==
+
+[[Bild:vedemacvaggen.gif]]
+
+[[Bild:IMG 4424WEB.jpg]]
+
+{{led|nr=1|namn=Astor|grad=6+|betyg=|längd=
+ |fa=Patrik Lind 88|bultar=|typ=trad|text=Kort klurig led, följ och säkra i en tunn spricka}}
+
+{{led|nr=2|namn=Sting-Vätteklyvaren|grad=6-|betyg=2|längd=
+ |fa=Patrik Lind 87|bultar=|typ=trad|text=Börjar till vänster om hörnet och korsar detta 4 meter upp. Säkras med kilar och friends}}
+
+{{led|nr=3|namn=Dreadlocks|grad=5|betyg=1|längd=
+ |fa=Patrik Lind 88|bultar=|typ=trad|text=Startar vid ett block/flak. Förenar sig med "Sting-vätteklyvaren" efter 5 meter. Dåligt säkrad}}
+
+{{led|nr=4|namn=Yellowman|grad=6-|betyg=2|längd=
+ |fa=Patrik Lind 88|bultar=2|typ=mix|text=Startar en meter till höger om "Dreadlocks" insteget är kruxet. Det sitter en rostig bladbult innan de två borrbultarna, men man kan lika gärna sätta en egen TCU eller minikil i samma spricka.}}
+
+{{led|nr=5|namn=Tangle up in blue|grad=6+|betyg=2|längd=
+ |fa=Patrik Lind 88|bultar=1|typ=mix|text=Starta under borrbulten, säkras sedan med kilar och friends i den aviga laybacksprickan}}
+
+{{led|nr=6|namn=Hörnet|grad=4+|betyg=1|längd=
+ |fa=Patrik Lind 86|bultar=|typ=trad|text=Följ den markanta diedern. Något svårsäkrad i början, men bättre sen}}
+
+{{led|nr=7|namn=Erektion|grad=6-|betyg=1|längd=
+ |fa=Patrik Lind 88|bultar=|typ=trad|text=Starta 2 meter till höger om hörnet. Mantla upp på hyllan. Krux i sträckningen upp till kanten på utsteget. Säkras med små kilar och en bladbult (osäkert om den finns kvar)}}
+
+{{led|nr=8|namn=Fist-jam|grad=3+|betyg=|längd=
+ |fa=Peter Grooth 87|bultar=|typ=trad|text=Bred markant knytnävsspricka med en inkilad sten i nedre delen. Välsäkrad med kilar och friends}}
+
+== D-väggen ==
+
+[[Bild:IMG 4427WEB.jpg]]
+
+Klippen längst till höger som också är högst med sina 20 meter.
+
+{{led|nr=1|namn=Den långa linjen|grad=4|betyg=2|längd=20
+ |fa=?|bultar=|typ=trad|text=Den tydliga spricklinjen som går hela vägen till toppen. Riktigt fin trots avbrottet vid hyllan. Firningsträd på toppen. Välsäkrad.}}
+
+{{led|nr=2|namn=Den ihåliga linjen|grad=5-|betyg=|längd=20
+ |fa=Fredrik Rapp & Tina Yu 07|bultar=|typ=trad|text=Den tunna prickan på väggen till höger om led 1. Mittpartiet är av lite odefinierad karraktär men lätt. Slutet går via en tunn spricka förbi några block och toppar ut precis till höger om "Den långa linjen".}}
+
+[[Bild:IMG 4412WEB.jpg|600 px|thumb|<BR>Foto: Fredrik Rapp]]
+
+[[Kategori:Skåne]]

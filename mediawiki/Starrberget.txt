@@ -1,0 +1,77 @@
+{{info klippa
+  |lat=63.9458182343785
+  |long=19.778823852539
+}}
+
+{{stub}}
+==Allmänt==
+
+Vertikal till lätt slabbig klippa, sydläge, torkar fort om våren. Ligger drygt 
+tre mil från Umeå. Nästan alla leder är helbultade, om inte annat anges.
+
+==Vägbeskrivning==
+<googlemap lat="63.9458182343785" lon="19.778823852539" zoom="9" type="map">
+63.9458182343785,19.778823852539,Starrberget
+</googlemap>
+
+==Huvudväggen==
+
+{{led|namn=Lennart Swan|grad=6-}}
+
+{{led|namn=Appache Indian|grad=5+}}
+
+{{led|namn=Bart Simpson|grad=5}}
+
+{{led|namn=Jolene|grad=6}}
+
+{{led|namn=Dumbo|grad=3}}
+
+{{led|namn=Darth Vader direkt|grad=7-}}
+
+{{led|namn=Darth Vader|grad=6+}}
+
+{{led|namn=Arnold Schwatzenegger|grad=7-}}
+
+{{led|namn=Dark Helmet|grad=6}}
+
+{{led|namn=??|grad=4+}}
+
+{{led|namn=Bruce Lee|grad=6-}}
+
+{{led|namn=Sylvester Stallone|grad=6-}}
+
+{{led|namn=Metallica|grad=4}}
+
+==Övre delen==
+
+{{led|namn=??|grad=4}}
+
+{{led|namn=Harvey Keitel|grad=5-}}
+
+==Judge Dreddväggen==
+
+{{led|namn=Judge Dredd|grad=7+}}
+
+{{led|namn=Chech Marin|grad=5-}}
+
+==Väggen i skogen==
+
+{{led|namn=Vincent Vegas left leg|grad=7}}
+
+{{led|namn=Vincent Vegas right leg|grad=6}}
+
+==Uppdateringar==
+
+{{tryckt_förare|umeåföraren (2005)=ja}}
+
+=In English=
+==Description==
+Starrberget is a south facing vertical to off-vertical crag that dries out quickly. All routes are bolted.
+
+==Directions== 
+From Umeå, drive E12 towards Vännäs. At the crossroad after Vännesby take right on E12 towards Mo I Rana and continue 2 km and park at a pull-out on the right side. Follow a track up to a small cliff with some bolts on your right, walk straight past this and take a small path on your right. There will be a birch with a carving of a K in it.
+
+
+
+[[Kategori:sport]] [[Kategori:vertikalt]] [[Kategori:sva]]
+[[Kategori:Västerbotten]] [[Kategori:Engelska]]

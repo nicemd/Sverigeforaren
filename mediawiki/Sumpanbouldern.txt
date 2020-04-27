@@ -1,0 +1,27 @@
+{{boulderutkast}}
+
+==Allmänt==
+Liten klippvägg endast ett stenkast från Sundbybergs torg.
+
+Finns diverse möjligheter till traverser och även ett otal kortare upp-problem i varierande grader, allt beroende på fantasi och hur nära marken man orkar starta. Lättaste traversen sägs hålla ca 7a.
+
+Bästa gymmet i Sumpan.
+
+[http://www.plonk.se/oldsite/sumpanbouldern.html Beskrivning på plonk.se]
+
+==Karta==
+<googlemap lat="59.361014" lon="17.951092" zoom="15" type="karta">
+59.361015,17.951092,Sumpanbouldern
+</googlemap>
+
+
+==Bilder==
+[[Bild:Sumpanbouldern-Left.jpg]]
+[[Bild:Sumpanbouldern-Right.jpg]]
+
+
+
+[[Kategori:Stockholm]]
+[[Kategori:Sundbyberg]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar vägbeskrivning]]

@@ -1,0 +1,12 @@
+=Allmänt=
+Ett stort och några mindre block strax öster om Syrisk-Ortodoxa kyrkan vid korsningen Vallbyleden - Narvavägen. 
+
+=Karta=
+<googlemap version="0.9" lat="59.618333" lon="16.508203" zoom="17">
+59.618541, 16.50802, Stora blocket vid eken
+59.617847, 16.508063, Blocksamling
+</googlemap>
+
+
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]

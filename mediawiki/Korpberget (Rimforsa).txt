@@ -1,0 +1,78 @@
+{{info klippa
+  |lat=58.08776868708938
+  |long=15.668907165527343
+}}
+
+{{utkast|extern=ja}}
+[[Kategori:vertikalt]][[Kategori:trad]]
+
+==Vägbeskrivning==
+<googlemap lat="58.08776868708938" lon="15.668907165527343" zoom="10" type="map">
+58.08776868708938,15.668907165527343,Korpberget (Rimforsa)
+</googlemap>
+Åk väg 34 från Linköping mot Kisa. I rondellen utanför Rimforsa sväng vänster in mot samhället. Kör över järnvägen och sväng höger mot Slätmon. Följ vägen ca 6 km till du ser berget på höger sida. Parkera en bit in på grusvägen efter de röda stugan eller fortsätt lite längre på vägen och kör in på en skumpig skogsväg och parkera på den öppna platsen.
+
+==Leder==
+Korpberget bjuder mestadels på tradleder på grovkornig granit. Många leder är sprickleder, varav flera av dessa är av hög kvalite. Friktionen är mycket god, men klippan är inte snäll mot fingrarna.
+
+==Västra flanken==
+{{led|nr=1|namn=Det tunna steget|grad=7|betyg=|längd=10|fa=[[Jonny Pettersson]] [[1990|-90]]|bultar=1|typ=mix}}
+{{led|nr=2|namn=Titta jag flyger|grad=6|betyg=|längd=15|fa=[[John Svidén]], [[Lars Sjöqvist]] [[1989|-89]]|bultar=|typ=trad}}
+{{led|nr=3|namn=Kimstadlogik|grad=6-|betyg=1|längd=15|fa=[[Lars Sjöqvist]], [[John Svidén]] [[1990|-90]]|bultar=|typ=trad}}
+{{led|nr=4|namn=Jordgetingen|grad=5+5|betyg=|längd=7|fa=[[Lars Sjöqvist]], [[John Svidén]] [[1989|-89]]|bultar=|typ=trad}}
+{{led|nr=5|namn=Too late to be first|grad=5|betyg=|längd=7|fa=|bultar=|typ=trad}}
+{{led|nr=6|namn=Ett paradis med borrbultar|grad=7-|betyg=|längd=7|fa=[[Nisse Gustavsson]], [[J och F Ragnarsson]]|bultar=2|typ=mix}}
+
+==Fikaväggen==
+[[Bild:29242 396100859155 746994155 4377041 6374387 n.jpg|thumb|200px|Fikaväggen vänstra delen]]
+{{led|namn=Zick-Zack|grad=5|betyg=1|längd=10|fa=[[Thomas Königsson]] [[1987|-87]]|bultar=|typ=trad|text=Följ sprickan som uppenbarligen givit leden dess namn. Sedan en arête till toppen. Fotteknik premieras!}}
+{{led|namn=Psykedeliska byxan|grad=5-|betyg=|längd=10|fa=[[J Ebbardsson]] [[1987|-87]]|bultar=|typ=trad|text=Stora kliv strax till höger om {{ledlänk|namn=Zick-Zack}} följt av en fingerspricka till toppen. Dessa två går bra att toppa i ett träd.}}
+{{led|namn=Oh Well|grad=4|betyg=|längd=10|fa=[[Thomas Königsson]] [[1987|-87]]|bultar=|typ=trad|text=Stora steg upp till en tall.}}
+{{led|namn=Nöjesmassakern|grad=4+|betyg=|längd=10|fa=[[Göran Nachtweij]] [[1985|-85]]|bultar=|typ=trad|text=Betydligt knepigare för långa klättrare, som får det lite trångt i diedern.}}
+{{led|namn=Chewbacka|grad=7+|betyg=2|längd=18|fa=[[Johan Luhr]] [[1991|-91]]|bultar=|typ=trad}}
+{{led|namn=He-Man|grad=6+|betyg=1|längd=18|fa=[[Jim Wasmuth]] [[1987|-87]]|bultar=|typ=trad}}
+{{led|namn=Blixt Gordon|grad=6+|betyg=2|längd=18|fa=[[Jim Wasmuth]] [[1987|-87]]|bultar=|typ=trad}}
+{{led|namn=Jabba the Hut|grad=7-|betyg=2|längd=20|fa=[[Christian Eriksson]] [[1998|-98]]|bultar=|typ=trad}}
+{{led|namn=Knäpp i Knoppen|grad=8-|betyg=|längd=18|fa=[[Johan Luhr]] [[1990|-90]]|bultar=|typ=trad}}
+{{led|namn=Läderlappen|grad=6|betyg=|längd=10|fa=[[Thomas Krainer]] [[1990|-90]]|bultar=|typ=trad}}
+
+==Amfiväggen==
+Vägen till instegen på amfiväggen är en intressant labyrint av stenblock. Vid vänstra kanten har någon vänlig själ lämnat ett fast rep.
+
+{{led|namn=Ett moln i byxor|grad=5|betyg=1|längd=15|fa=[[Lars Sjöqvist]], [[Ulf Tribblin]] [[1990|-90]]|bultar=|typ=trad}}
+{{led|namn=Visst gör det ont när knoppar brister|grad=7-|betyg=|längd=15|fa=[[Mats Olofsson]], [[Fia Forslind]] [[1993|-93]]|bultar=|typ=trad}}
+{{led|namn=Helens tutte|grad=4|betyg=|längd=15|fa=[[Stefan Sollén]] [[1985|-85]]|bultar=|typ=trad}}
+{{led|namn=Tjugofyran|grad=4|betyg=|längd=10|fa= [[1989|-89]]|bultar=|typ=trad}}
+{{led|namn=Rotrock|grad=5+|betyg=1|längd=20|fa=[[Göran Kropp]] [[1989|-89]]|bultar=|typ=trad}}
+{{led|namn=Felande länken|grad=6|betyg=2|längd=30|fa=[[Thomas Königsson]] [[1989|-89]]|bultar=|typ=trad}}
+{{led|namn=Jamma mia|grad=5|betyg=1|längd=30|fa=[[Tommy Schultz]] [[1989|-89]]|bultar=|typ=trad}}
+{{led|namn=Conan rabarbern|grad=5|betyg=1|längd=28|fa=[[John Svidén]], [[Per Andersson]] [[1990|-90]]|bultar=|typ=trad}}
+Variant:
+{{led|namn=Frank Bruno, boxare och vän|grad=6|betyg=1|längd=25|fa=[[Jimmy Petterson]] [[1993|-93]]|bultar=|typ=trad}}
+{{led|namn=Ringaren|grad=5|betyg=1|längd=20|fa=[[A Palm]] [[1980|-80]]|bultar=|typ=trad}}
+Varianter:
+{{led|namn=Ringarens|grad=6-|betyg=|längd=|fa=|bultar=|typ=trad}}
+{{led|namn=Ringareten|grad=5+|betyg=|längd=20|fa=[[Jan Stenström]], [[Monica Falk]] [[1991|-91]]|bultar=|typ=trad}}
+{{led|namn=Tjugosexan|grad=6-|betyg=|längd=20|fa=|bultar=|typ=trad}}
+
+==Stora väggen, Nordväggen==
+{{led|namn=Hoppas knoppen håller|grad=6-|betyg=|längd=20|fa=[[Jan Stenström]], [[Monica Falk]] [[1991|-91]]|bultar=1|typ=mix}}
+{{led|namn=Tom's Diner|grad=7-|betyg=1|längd=25|fa=[[Thomas Krainer]] [[1991|-91]]|bultar=1|typ=mix}}
+{{led|namn=Riddarna av Monte Corvo|grad=6|betyg=1|längd=35|fa=[[John Svidén]], [[Ola Kalén]] [[1992|-92]]|bultar=|typ=trad}}
+{{led|namn=Gud skapade… Jag putsade|grad=7-|betyg=3|längd=30|fa=[[Nisse Gustavsson]] [[1992|-92]]|bultar=|typ=trad}}
+{{led|namn=Bröderna Bäver|grad=6|betyg=2|längd=30|fa=[[Thomas Krainer]] [[1989|-89]]|bultar=|typ=trad}}
+Variant:
+:{{led|namn=Gubbjäveln|grad=7-|betyg=1|längd=10|fa=[[Ola Kalén]] [[1987|-87]]|bultar=|typ=trad}}
+{{led|namn=Svarta kaminen|grad=4|betyg=1|längd=30|fa=[[Tommy Schultz]] [[1980|-80]]|bultar=|typ=trad}}
+{{led|namn=Barbapappa|grad=6|betyg=1|längd=35|fa=[[John Svidén]] [[1997|-97]]|bultar=|typ=trad|text=Troddes länge vara orepeterad, men några fler än förstabestigaren har ålat sig in i kaminen. Kräver speciell säkringsutrusting, typ gigantiska saker.}}
+{{led|namn=Caramba|grad=6-|betyg=2|längd=32|fa=[[John Svidén]], [[Lars Sjöqvist]] [[1989|-89]]|bultar=|typ=trad}}
+{{led|namn=Pensionär i paradiset|grad=6+|betyg=2|längd=35|fa=[[John Svidén]], [[Ola Kalén]] [[1991|-91]]|bultar=|typ=trad}}
+{{led|namn=Tack för putsen|grad=6-|betyg=2|längd=37|fa=[[Thomas Krainer]] [[1991|-91]]|bultar=|typ=trad}}
+{{led|namn=Doktor John|grad=6-|betyg=|längd=40|fa=[[John Svidén]], [[Ola Kalén]] [[1991|-91]]|bultar=|typ=trad}}
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

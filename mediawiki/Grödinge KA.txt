@@ -1,0 +1,17 @@
+{{boulderstub}}
+==Vägbeskrivning==
+
+'''Från Stockholm'''
+Kör E4 riktning Södertälje/Helsingborg. Ta av Hallunda och fortsätt rakt fram, sedan vänster i rondellen för att komma på Hågelbyleden. Därefter kör hela Hågelbyleden för att sedan ta vänster för att komma på Huddingevägen(226). Kör hela Huddingevägen och sväng därefter vänster för att komma på Nynäsvägen(225). Fortsätt en bit fram för att sedan ta av höger skyltat "Grödinge k:a". Därefter fortsätt fram, en sjö (Kvarnsjön) kommer vara synlig till vänster. Strax efter sjön tar slut finns till höger en liten parkering på en gräsplätt.   
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.148298" lon="17.78296" zoom="14" controls="large">
+6#B2758BC5
+59.146416, 17.79032, Parkering
+59.145271, 17.79032
+59.145734, 17.787037
+59.146944, 17.781866
+59.148584, 17.776201
+59.149805, 17.779527
+59.150575, 17.778239, Blocken
+</googlemap>
+</div>

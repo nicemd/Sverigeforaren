@@ -1,0 +1,122 @@
+{{info klippa
+  |lat=59.387936
+  |long=13.461063
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+
+{{boulderkomplett}}
+
+==Allmänt==
+I stadsdelen Våxnäs (centralt i Karlstad) finns dessa klippor. En handfull olika väggar på ca 3 meters höjd. Sol under hela dagen ger lång säsong och något enstaka problem kanske kan försvara ett besök.   
+
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.389943" lon="13.461685" type="map">
+59.387936, 13.461063, Våxnäsklipporna
+</googlemap>
+
+</div>
+
+Kör mot stadsdelen Våxnäs, följ vägen Karmgatan mot Våxnäshallen och en fotbollsplan. Följ Karmgatan vänster när du ser hallen och fotbollsplanen rakt fram. Följ Karmgatan förbi avfarten till Hemvägen tills vägen övergår i en bussfil (bussfilen fortsätter förbi Vårdcentralen Västerstrand). Parkera i vändplanen, där det står bilar (gratis) och titta åt höger/upp mot skogen så borde du se klipporna. 100 meter från parkering. 
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Sektioner==
+
+Sektionerna är uppräknade från vänster till höger.  
+
+Graderna endast uppskattade av klättrare utan erfarenhet av bouldergrader och dess disciplin. Var god ändra direkt på sidan om de känns felaktiga. 
+
+
+===HIV-väggen===
+
+[[Bild:Hiv.JPG|300px|thumb|right]]
+
+Klippartiet högst upp till vänster. Börjar med en tyngre överhängande parti. Mer befriad från grepp  än övriga partier vilket gör den till Våxnäs testpiece. Allteftersom väggen sluttar nedåt höger, blir problemen lättare. 
+
+Sektionen uppkallad efter allt skräp som tyvärr finns i direkt anslutning till väggen. Krossade glasflaskor, kondomer och vem vet... kanske en kanyl gömmer sig i gräset? 
+Glöm inte paddan för att undvika... sjukdomar och annat. Ett annat alternativ är vinterbesök, så snön isolerar och skyddar. 
+Väggen är vid en slänt. Om du inte vill trilla ner och rulla nedför slänten rekommenderas en spotter. 
+
+[[Bild:Hiv2.JPG|300px|thumb|right|Jonas på "tomtar i trumpeten"]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Arslet I Dåligt Skick | grad=6-isch? | typ=crimp, catch | fa=Sören Danielsson, Martin Jurander | landning=4 | fadatum=2010-03-06 | sittstart= | sopad= | text=4-fingercrimp för vänster hand som nätt och jämt sväljer fingertopparna. Grov rensning resulterade i riktigt bra crimp för höger hand. Etablera fötter och dra sedan direkt till kanten. Hoppstart givetvis uteslutet.}} 
+
+{{problem | nr=2 | namn=Pulkrunkaren | grad=6-isch? | typ=crimp, undercling | fa=Martin Jurander, Sören Danielsson | landning=3 | fadatum=2010-03-06 | sittstart= | sopad= | text=Mellan aids och herpes. vänster hand på bra crimp, höger hand förslagsvis i undercling. upp till sidogrepp under kant eller launcha hela vägen upp. Går du ut höger till snälla kanten är du svag och feg.}} 
+
+{{problem | nr=2-1 | namn=Jag väljer Herpes | grad=5-isch? | typ= | fa=Sören Danielsson | landning=3 | fadatum=2010-03-06 | sittstart= | sopad= | text=Samma start som pulkrunkaren, men du är svag och flyr ut till höger och snälla utsteget.}} 
+
+
+| width="350px" |
+
+{{problem | nr=3 | namn=Herpes | grad=4? | typ= | fa=Sören Danielsson, Jonas Wallmander | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | text=Något för alla (vilket namnet syftar på). Upp via stora tydliga hyllor och flak mitt på HIV-väggen.}} 
+
+{{problem | nr=4 | namn=projekt | grad=? | typ=travers | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=Travers. Börja där led 2 börjar. Gå via enkla grepp snett uppåt höger till den slopade kanten ovanför släta väggen. Se upp så du inte lägger handen i glas på kanten. Fortsätt genom "tomtar i trumpeten" och avsluta på lösa blocket där denna börjar. Namnförslag: Hepatit C }} 
+
+{{problem | nr=5 | namn=Tomtar i trumpeten | grad=5b-5c? | typ=spricka, travers | fa=Sören Danielsson | landning=3 | fadatum=2009-04-01 | sittstart= | sopad= | text=Börja med match på stora lösa blocket, följ sedan stora sprickan snett upp åt vänster. Bjuder mer motstånd än det ser ut.}} 
+
+|}
+
+===U2-väggen===
+[[Bild:Tn_vaxnas-u2sida1.JPG|300px|thumb|right|Sweetest thing & Beautiful Day]]
+
+Namnet U2 står/stod skrivet på väggen. Därav namnet på denna sektion. En plattvägg i vinkel. Några problem gjorda, men något ytterligare kanske möjligt. 
+Namnen på problemen följer samma tema som sektionen. 
+
+Problemen uppräknade från höger till vänster. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Beautiful Day | grad=6a? | typ=crimp, catch | fa=Sören Danielsson | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | uteslutningar=ja | text=Börjar på areten, leta dig åt höger och etablera dig på vettiga crimpar innan du skickar till bra grepp rakt upp. Går du upp via stora greppet kl 10-11 nallar du på annat problem. Aja baja.}} 
+
+{{problem | nr=2 | namn=Sweetest thing | grad=5-isch? | typ=arete | fa=Sören Danielsson | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | text=Börja på areten och följ den sedan rakt upp}} 
+
+| width="350px" |
+
+{{problem | nr=3 | namn=Elevation | grad=6a? | typ=catch | fa=Sören Danielsson | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | text=Börjar på platta väggen till vänster om areten, fina startgrepp, sedan "långt" one-move-wonder till tydliga hyllan strax under toppen och upp.}} 
+
+{{problem | nr=4 | namn=Bad | grad=? | typ= | fa=Jonas Wallmander | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | text=Upp via tydliga grepp "i hörnet" till vänster om Elevation}} 
+
+{{problem | nr=5 | namn=I still haven't found what I'm looking for | grad=? | typ= | fa=Jonas Wallmander | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | text=Över tvärhyllorna till vänster om "bad".}} 
+
+
+|}
+
+[[Bild:Tn_vaxnas-u2sida.JPG|300px|thumb|right|Vänstra delen av u2-väggen]]
+===Vinkel-väggen===
+
+En vägg likt de andra i 90 graders vinkel. Placerad ganska långt till höger. 
+Till skillnad mot andra väggar i vinkel så har denna en stenplatta i botten. 
+
+Lederna räknas upp från höger till vänster. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=åh, strääääääääck. | grad=6a? | typ=crimp, catch | fa=Sören Danielsson | landning=3 | fadatum=2009-03-21 | sittstart=ja | sopad= | text=Sittstart och händer på två ok lister, sträck dig upp till en liten horisontalspricka. Etablera dig och skicka till kanten.}} 
+
+{{problem | nr=2 | namn=Kung Alkinoos | grad=5? | variant=ja | typ=arete | fa=Sören Danielsson | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | text=Börja på areten och leta dig upp åt höger. Dra sedan rakt upp. (Kung Alkinoos var drottning Aretes make)}} 
+
+| width="350px" |
+
+{{problem | nr=3 | namn=Faiakernas drottning | grad=5? | typ=arete | fa=Sören Danielsson, Jonas Wallmander | landning=3 | fadatum=2009-03-21 | sittstart= | sopad= | text=Rakt upp på areten (Faiakernas drottning hette Arete).}} 
+
+|}
+
+[[Bild:Tn_vaxnas-vinkel.JPG|300px|thumb|right|Vinkelväggen.]]
+
+[[Kategori:vertikalt]]
+[[Kategori:bouldering]]
+[[Category:Värmland]]

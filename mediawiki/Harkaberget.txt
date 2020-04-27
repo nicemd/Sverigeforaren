@@ -1,0 +1,43 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub|extern=ja}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Access==
+Ytterst känsligt med parkeringsplatser. 
+Det finns plats för max två bilar på den angivna parkeringsplatsen. Parkera längst till vänster på parkeringsfickan. Markägaren kör med hästar förbi och ska ha möjlighet att kunna passera på den lilla skogsvägen som går till höger. Alternativ parkering om det skulle vara fullt finns längs med vägen ner mot Kavlanda brygga. Där finns en grusficka i en kurva (ej mötesplats) som vi kan använda. 
+==Allmänt==
+Nyhyttad sportklippa med leder från 7a och uppåt. 
+==Vägbeskrivning==
+<!-- Lägg till eller ta bort passande kategorier -->
+
+http://www.gbg-guiden.info/harkaberget_v4.pdf
+
+Göteborgs klätterklubb och Highsport har bidragit med en del av bultarna.
+
+== Leder==
+{{led|text=På den mindre branta väggen till vänster|grad=6b|namn=Det våras för gymhjälten|fa=}}
+{{led|nr=7|namn=Banana split|grad=8a|typ=sport|fa=}}
+{{led|nr=11|grad=8a+|betyg=4|typ=sport|fa=Erik Heyman|namn=Halva inne}}
+{{led|namn=Piggelin|grad=6c|text=På den mindre branta väggen till höger|fa=}}
+[[Kategori:sport]] 
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]

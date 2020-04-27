@@ -1,0 +1,489 @@
+{{info klippa
+  |lat=56.29977711792564
+  |long=12.459869384765625
+}}
+
+{{utkast}}
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="56.29977711792564" lon="12.459869384765625" zoom="8" type="map">
+56.29977711792564,12.459869384765625,Kullaberg
+
+</googlemap>
+</div>
+
+[[Bild:Finger Jam M.PalgrenLÅG.jpg|thumb|300px|Micke Palmgren klättrar kullenklassikern nummer 1! {{ledlänk|namn=Fingerjam}} grad 6- på Karstens ränna <BR>Copyright: [[Användare:frapp|Fredrik Rapp]]]]
+
+== Allmänt ==
+
+Kullaberg är en halvö i Skånes nordvästra hörn. På nord- och sydkusten finns ett femtiotal klippor med mer än 800 leder. Huvudsakligen klättrar man här kilsäkrade leder i registret 2-6. Det finns även välsäkrade sportklätterleder upp till grad 8.
+
+== Beskrivning == 
+Kullabergs fina natur och närheten till havet gör området speciellt attraktivt. Kom ihåg att området är ett naturreservat - du är själv skyldig att ta reda på de regler som gäller.
+
+De klippor och leder som redovisas här utgör endast ett litet urval av de klättermöjligheter som finns på Kullaberg, En komplett förare (från 1999) finns att köpa i kiosken vid fyren längst ut på halvön (den svenska föraren är bara ett urplock av de bästa klipporna, medan den danska föraren är komplett).<br>
+Speciellt lönande klippor att besöka är:
+
+* '''Kullamannens Dörr:''' trad och sport, grad 7 - 8.<br>
+* '''Vandflyverväggen:''' trad på en storslagen vägg över havet, grad 5 - 8-<br>
+* '''Gubbamalen:''' sport, grad 7 - 8<br>
+* '''Visitgrottan:''' sport, grad 6 - 7+<br>
+* '''Bengt tuas hopp:''' Trad och sport på Kullabergs mäktigaste vägg, grad 6 - 8-<br>
+* '''åkersberget:''' trad och sport, grad 3 - 7<br>
+* '''Karstens Ränna:''' trad, grad 3 - 6<br>
+* '''K2:''' trad, grad 3 - 6<br>
+* '''Trollhättemal:''' fin sport, grad 7 - 8<br>
+
+Det kan påpekas att frostsprängningen gör en del skada på klipporna varje vinter, speciellt på Kullabergs nordsida. Därför uppmanas besökare att se upp med lösa block och stenslag. Hjälm rekommenderas starkt.
+
+'''Side med beskrivelser af næsten alle router på Kullen.'''<br>
+[http://kullaberg.dk kullaberg.dk]<br>
+
+Karta med bilder på olika leder:<br>
+[http://sir-pb.dk/index-sidor/index_klattring.htm Link]
+
+Diverse uppdateringar:<br>
+[http://www.danskbjergklub.dk/tools/kullenup/kullenup.html Dansk Bjerg og Klatreklub´s update](informationen vil ikke blive opdateret den overgår til kullaberg.dk)
+
+För allmän information:<br>
+[http://www.kullabergsnatur.se/show/swedish/startsida.aspx Kullabergs Naturreservat]
+
+== Access {{access}} ==
+
+{{AccessDB|klippa=kullaberg}}
+
+OK, här följer förmaningar och de är allvarligt menade: 
+
+* Camping på Kullaberg är förbjudet
+* Borrbultning och placerande av bladbultar är också förbjudet på Kullaberg. De sportturer som finns inrättades före bultförbudet trädde i kraft
+* Eldning/grillning är endast tillåtet på anvisade platser. Eldningsförbud råder för det mesta under sommaren - beakta skyltarna
+* Kullaberg är ett naturreservat - beakta aktuell skyltning om fågelskydd
+* Alla djur ska vara kopplade
+
+Det är inte självklart att vi ska få klättra obegränsat på Kullaberg.
+
+== Översikt ==
+
+=== Sydkusten ===
+
+* Silverväggen
+* Primö renden
+* Lahebiagrottan
+* [[#Stenstugorna|Stenstugorna]]
+* [[#Åkersberget|Åkersberget]]
+* [[#Bananväggen|Bananväggen]]
+* Björnen
+* Karlsvagnen
+* [[#Stora Björn|Stora Björn]]
+* Björnviken
+* Testöverhänget
+* Ejersbergrauken
+* [[#Karstens Ränna|Karstens Ränna]]
+* Törnrosa
+* Jungelväggen
+* Japanerväggen
+* Kap det Gode Håb
+* Rumpnissen
+* [[#K2|K2]]
+* Altaret
+* Jazzväggen
+* Ransvik
+* Barakullen
+
+=== Nordkusten ===
+
+* Nimis
+* Valdemarsväggen
+* Gåsarännan
+* Ladedörren
+* Bengt Tuas Hopp
+* Söftingsgrottan
+* Jungfrumalen
+* [[#Napoleons Hatt|Napoleons Hatt]]
+* Sockertoppen
+* Babelstornet
+* Trollhättemal
+* Josefinelust
+* Maltskutenäs
+* [[#Gubbamalen|Gubbamalen]]
+* Östra Näs
+* Ablahamn
+* Västra Näs
+* Toms Överhäng
+* Böfväggen
+* Pernauklippan
+* [[#Hästahovmalen|Hästahovmalen]]
+* Blå Mal
+* Ribars Torn
+* Visitgrottan
+* Sväveflyverväggen
+* [[#Vandflyverväggen|Vandflyverväggen]]
+* Skårenäs
+* [[#Kullamannens Dörr|Kullamannens Dörr]]
+* Kullamannens Korridor
+* Vattenhjulet
+* Kullalå
+* Palnatokes Skränt
+* Marmorväggen
+* Paradisväggen
+
+== Stenstugorna ==
+
+Mycket trevlig liten klippa, precis bakom Åkersberget.
+
+* Parking
+Fyrens parkeringsplats
+
+* Hitta hit
+Följ beskrivningen till Åkersberget. Precis innan så tar man av åt höger och tar sig ner i viken bakom. Grottorna är vända mot söder.
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Arnold på de sju haven|grad=6-|längd=10|fa=[[Petter Åsander]] April[[2007|-07]]|typ=trad}}
+
+{{led|nr=2|namn=Lovegirls|grad=7-|betyg=1|längd=10|fa=[[Magnus Runsten]]/[[Johan Nilsson]] April[[1984|-84]]|typ=trad}}
+
+{{led|nr=3|namn=Love for sale|grad=5+|längd=10|fa=[[Henrik Ljunggren]] September[[1989|-89]]|typ=trad}}
+
+{{led|nr=4|namn=Standardruten|grad=3|längd=15|typ=trad}}
+
+{{led|nr=5|namn=Den sorte Diedre|grad=5+|längd=15|fa=[[Peter Christensen]]/[[Peter Söndergaard]] Juni[[1971|-71]]|typ=trad}}
+
+{{led|nr=6|namn=Direttissima|grad=7-|betyg=2|längd=15|fa=[[Johan Nilsson]] Maj[[1985|-85]]|typ=trad}}
+
+| width="350px" |
+
+{{led|nr=7|namn=Östryggen|grad=3|betyg=1|längd=15|typ=trad}}
+
+{{led|nr=8|namn=Polyteknisk Kravlegård|grad=4+|längd=15|fa=[[Per Wiegandt]]/[[Christian Mörup-Petersen]] Augusti[[1993|-93]]|typ=trad}}
+
+{{led|nr=9|namn=Polyteknisk Vuggestue|grad=4-|längd=15|fa=[[Jan Mathorne]]/[[Helle Mathorne Kampp]] Oktober[[2001|-01]]|typ=trad}}
+
+{{led|nr=10|namn=Fridag|grad=3-|längd=12|fa=[[Jan Mathorne]]/[[Helle Mathorne Kampp]] Oktober[[2001|-01]]|typ=trad}}
+
+{{led|nr=11|namn=Frida|grad=5-|längd=12|fa=[[Jan Mathorne]]/[[Helle Mathorne Kampp]] Oktober[[2001|-01]]|typ=trad}}
+
+|}
+
+== Åkersberget ==
+
+[[Bild:åkersberget_1.jpg|frame|right|Copyright Magnus Nilsson/äventyrsskolan AC.]]
+
+Ett mycket populärt solskensområde på sydkusten. Ett av de få områden som har en fin strand med inbjudande gräsplätt. Perfekt picknickplats för familjen. Mittemot huvudväggen finns 2 slabbar med lätt klättring. Speciellt den vänstra slabben är bra för barnen och nybörjare. Ut mot havet finns även fin bouldering. Snorklingen i bukten är att rekommendera. Nordsidan av åkersberget (ej med pa skissan) har en klassisk tradled: "Klassisk 4" grad 4.
+
+* Parkering
+Fyrens parkeringsplats
+
+* Hitta hit
+Starta vid kiosken nedanför fyren, följ den vältrampade stigen ner mot sydkusten. Håll till vänster när skogen öppnar sig och stigen delar sig (kliv inte över staketet – då kommer du antingen tillbaka till parkeringen eller följer röda slingan till Mölle). Du ser snart åkersberget ute mot havet.
+
+* Säkring
+Huvudsakligen trad-klättring i grad 2-7. Franska Trick är en klassisk sport-tur. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=O|namn=Åkerskanten|grad=4|betyg=1|längd=18|fa=[[Magnus Nilsson]]/[[Torbjörn Winther]] April[[1984|-84]]|typ=trad}}
+
+{{led|nr=1|namn=Titanic|grad=7|betyg=1|längd=18|fa=[[Torbjörn Winther]] sept[[1987|-87]]|typ=sport}}
+
+{{led|nr=2|namn=Traversen|grad=3|betyg=2|längd=40|fa=[[Okänd]]|typ=trad|text=Klassisk "kullenexpedition", görs i två replängder.}}
+
+| width="350px" |
+
+{{led|nr=3|namn=Tyskeruten|grad=5+|betyg=2|längd=22|fa=Fri: [[Ulf Björnberg]]|typ=trad|text=En av klassikerna på åkersberget, trots att den är ganska intetsägande. Något lös avslutning, görs oftast på topprep.}}
+
+{{led|nr=4|namn=King Kong|grad=6+|betyg=1|längd=25|fa=[[Torbjörn Winther]]/[[Magnus Nilsson]] juni[[1987|-87]]|typ=mix|text=En mäktig linje rakt över taket.}}
+
+{{led|nr=5|namn=Franska Trick|grad=7|betyg=3|längd=15|fa=[[Torbjörn Winther]] april[[1987|-87]]|typ=sport|text=Klassisk sportklättring på knappt vertikal och crimpig klippa.}}
+|}
+
+== Bananväggen ==
+
+Väldigt populärt nybörjarställe. Kan bli väldigt varmt redan tidigt på våren eftersom ravinen där väggen är, ligger i rakt sydlig riktning.
+
+* Parkering
+Fyrens parkeringsplats
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Christina|grad=3+|längd=7|fa=[[Erik Karlsen]] Januari[[1998|-98]]|typ=trad}}
+
+{{led|nr=2|namn=Emma Gad|grad=5+|längd=7|fa=[[Henrik Ljunggren]]/[[Peter Nielsen]] Januari[[1993|-93]]|typ=trad}}
+
+{{led|nr=3|namn=Bananen|grad=2|betyg=1|längd=6|fa=[[Hilding Gnöters]] Januari[[1957|-57]]|typ=trad}}
+
+{{led|nr=4|namn=Op og Stå, Pige|grad=4-|längd=8|fa=[[Torbjörn Winther]]|typ=trad}}
+
+{{led|nr=5|namn=Op og Stå, Dreng|grad=4-|längd=8|fa=[[Peter Pearson]]/[[Sven Ove Thimm]] [[1971|-71]]|typ=trad}}
+
+{{led|nr=6|namn=Spalten|grad=41|längd=7|fa=[[Peter Pearson]]/[[Sven Ove Thimm]] [[1971|-71]]|typ=trad}}
+
+{{led|nr=7|namn=Monsterparodi|grad=3|betyg=3|längd=7|fa=[[Peter Pearson]]/[[Sven Ove Thimm]] [[1971|-71]]|typ=trad}}
+
+| width="350px" |
+
+{{led|nr=8|namn=Dansk-svensk Kultursamarbedje|grad=6+|betyg=2|längd=8|fa=[[Henrik Ljunggren]]/[[Magnus Nilsson]] Mars[[1988|-88]]|typ=trad}}
+
+{{led|nr=9|namn=Kultus|grad=7|betyg=1|längd=8|fa=[[Sören Smidt]] Maj[[1990|-90]]|typ=trad}}
+
+{{led|nr=10|namn=Sct. Hans|grad=3+|längd=8|fa=[[Peter Pearson]]/[[Sven Ove Thimm]] [[1971|-71]]|typ=trad}}
+
+{{led|nr=11|namn=Hellige tre Konger|grad=3+|längd=8|fa=[[Peter Pearson]]/[[Sven Ove Thimm]] [[1971|-71]]|typ=trad}}
+
+{{led|nr=12|namn=---|grad=5+|längd=10|fa=[[Flemming Kruse Henriksen]]|typ=trad}}
+
+{{led|nr=13|namn=Build a bridge|grad=4-|längd=10|fa=[[Christian Almer]]/[[Majbritt Pedersen]] Mars[[1990|-90]]|typ=trad}}
+
+{{led|nr=14|namn=Yngleforbud i klatresäsonen|grad=4|längd=7|fa=[[Rune Klausen]]/[[Philip Oest Möller]] Oktober[[1995|-95]]|typ=trad}}
+
+|}
+
+== Stora Björn ==
+
+Stora Björn ligger på Kullabergs sydkust mellan åkersberget och Testöverhänget. Klippan är snarare för Kullabergsentusiaster än för förstagångsbesökaren.
+
+* Parkering
+Parkera vid Fyrens parkeringsplats.
+
+* Hitta hit
+Klippan är sydostvänd och nås bäst genom att gå ner i Björnviken till havet – sen ser man klippan uppe till höger.
+
+* Säkring
+Kilsäkrade leder där små friends är nödvändiga. Nedfirning från toppen på lederna.
+
+Klippans kvalitet är bättre än den ser ut. Foto: Copyright T.Winther.
+
+[[Bild:Stora Björnen.jpg]]
+
+Från vänster till höger.
+
+{{led|nr=1|namn=Nalle Phu|grad=5|typ=trad|fa=[[Magnus Nilsson]] & [[Torbjörn Winther]] [[2005]]}}
+
+{{led|nr=2|namn=Goldbär|grad=5|typ=trad|fa=[[Torbjörn Winther]] & [[Magnus Nilsson]] [[2005]]}}
+
+{{led|nr=3|namn=Baloo|grad=5+|typ=trad|fa=[[Magnus Nilsson]] & [[Torbjörn Winther]] [[2005]]}}
+
+{{led|nr=4|namn=Björnligan!|grad=4-|typ=trad|fa=[[Torbjörn Winther]] & [[Magnus Nilsson]] [[2005]]}}
+
+== Karstens Ränna ==
+
+[[Bild: Karstens Ränna_1.jpg|frame|right|Mittendelen. Copyright Magnus Nilsson/äventyrsskolan AC. ]]
+Kullabergs mest populära klippa. Ett besök här är ett måste för förstagångsbesökaren på Kullaberg. Klassiker som Fingerjam, Svenskeruten och Töbrud bjuder på fin tradklättring i de lättare graderna från 3-6. Här finns även enstaka turer kring grad 7, men ingen sportklättring. Kilracken ska med och du måste behärska konsten.
+
+* Parkering
+Parkera vid Kullagårdens Värdshus parkeringsplats.
+
+* Hitta hit
+Starta ifrån Kullagårdens parkering och gå mot fyren ca 100 meter. Sväng vänster på grusvägen som korsar golfbanan. Följ grusvägen och när den svänger mot vänster, ta höger i korsningen. Gå över viltstaketet (trappa) och följ kuststigen. Följ en otydlig stig som går mot söder över en höjd och genom ett enbuskage. Gå ut på ryggen och följ stigen ner vänster. Följ sedan den blockränna du har framför dig ner mot vattnet. Nu har du den östvända klippan på din högra sida.
+
+* Säkring
+Huvudsakligen trad-klättring i grad 2-6. 
+
+{{led|nr=1|namn=Töbrud|grad=3|betyg=1|längd=20|fa=[[Peter Christensen]], [[Erik Jansen]], [[Peter Söndergaard]] [[1971|-71]]|bultar=0|typ=trad|text=Populär led för första kilturen, många olika variationer.}}
+
+{{led|nr=2|namn=Coke|grad=6+|betyg=1|längd=20|fa=[[Magnus Runsten]], [[Lars Benke]] [[1983|-83]]|bultar=2|typ=mix|text=Rolig och cruxig klättring genom diedret, en liten kamsäkring säkrar övre halvan av leden.}}
+
+[[Bild: Karstens Ränna_2.jpg|frame|left|Övre delen. Copyright Magnus Nilsson/äventyrsskolan AC. ]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=3|namn=Väntetiden|grad=4|betyg=2|längd=20|fa=[[Peter Christensen]], solo [[1971|-71]]|typ=trad}}
+
+{{led|nr=4|namn=Kapillär|grad=5+|betyg=2|längd=18|fa=[[Peter Christensen]], [[Erik Jansen]], [[Peter Söndergaard]] [[1971|-71]]|typ=trad}}
+
+{{led|nr=5|namn=Svenskeruten|grad=5+|betyg=2|längd=18|fa=[[Jack Berg]], [[Hasse Hellström]] [[1968|-68]]|typ=trad}}
+
+{{led|nr=6|namn=Fingerjam|grad=6-|betyg=3|längd=15|fa=Fri: [[Robin Barley]]/[[Peter Christensen]] [[1971|-71]]|typ=trad|text=En riktig pärla på fast och fin klippa, sägs vara sveriges mest fotograferade led.}}
+
+| width="300px" |
+{{led|nr=7|namn=Handjam|grad=4+|betyg=2|längd=15|fa=[[Peter Christensen]], [[Peter Söndergaard]] [[1971|-71]]|typ=trad}}
+
+{{led|nr=8|namn=Björnbergs led|grad=6+|betyg=2|längd=12|fa=[[Piotr Bober]] [[1983|-83]]|typ=trad}}
+|}
+
+== K2 ==
+
+[[Bild:K2_nedre klippan.jpg|frame|right|Copyright Magnus Nilsson/äventyrsskolan AC.]]
+
+K2-klippan bjuder på mycket kvalitetsklättring i de lägre graderna. Sedan länge ett favoritställe för nybörjare. Ett par utmaningar för mer erfarna klättrare finns också. K2 har en fikaplats i bästa utsiktsläge över hav och klippor. Här beskrivs endast leder på den nedre väggen. Stora väggen har leder upp till 2 replängder.
+
+* Parkering
+Parkera vid Kullagårdens Värdshus parkeringsplats.
+
+* Hitta hit
+Gå igenom Kullagårdens privata parkering upp till den första utslagsplatsen. Följ golfbanan i högra kanten 700 m söderut mot havet (sista biten längs en gärdsgård). När skogen öppnar sig följer man stigen t h mot sydväst ca 150m tills K2:s östvända vägg tydligt ses nere vid vattnet i en stor dalsänka.
+
+* Säkring
+Traditionell klättring. Fullt rack nödvändigt.
+
+Från vänster till höger.
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=One Tricky Move|grad=4|betyg=3|typ=trad|längd=8|fa= [[Bjarne Lindholt]] & [[Peter Christensen]] [[1967|-67]]}}
+
+{{led|nr=2|namn=Navnlös|grad=5+|betyg=2|typ=trad|längd=14|fa= [[Peter Christensen]] & [[Bjarne Lindholt]][[1967|-67]] 5- A0 friad av: [[inge Jönsson]] & [[Bengt Larsson]] [[1973|-73]]}}
+| width="350px" |
+{{led|nr=3|namn=Diedern|grad=4|betyg=3|typ=trad|längd=14|fa= [[Carsten Berg Sörensen]] & [[Rolf Ib Petersen]] [[1956|-56]]}}
+
+{{led|nr=4|namn=Swlabr|grad=5-|betyg=3|typ=trad|längd=14|fa= [[Inge Jönsson]] & [[Göran Hellström]] [[1972|-72]]}}
+|}
+
+== Napoleons Hatt ==
+
+[[Bild:Napoleons_hatt_tw.jpg|thumb|right|350px|Napoleons Hatt huvudväggen. Foto T.Winther. Bilden är perspektivförskjuten - väggen är 30 meter hög!]]
+
+Här finns ett par av Kullabergs bästa grad 6 väggklättringsleder. Ryktet säger att ytterligare nyturer kompletterar området, men vi väntar på mer info. Det kan vara bökigt att hitta klippan som förstagångsbesökare.
+
+* Parkering
+Parkeringen vid Josefinelust. 
+
+* Hitta hit
+Från parkeringen vid Josefinelust först ned mot kusten tills trappan ner mot Josefinelust börjar och sedan österut över bäcken och uppför en backe, sen följs röda slingan ytterligare cirka 600 meter till ett dött träd som ligger över stigen. Däifrån tväras diagonalt 45 grader mot kusten österut cirka 250 meter till man kan se väggen nedanför nedstigningsravinen. Detta är inget lätt ställe att hitta!
+
+* Säkring
+Sport.
+
+Ett urval av de cirka 10 leder som finns här. OBS dessa leder är långa, 50 meter rep räcker ej dubbelt ner.
+
+{{led|nr=0|namn=??|grad=6+|betyg=1|typ=sport|längd=35|fa= [[Ola Knutsson]] [[200?|-0?]]}|text=En sportled till vänster om Straight Flush. Nära SF vid diedren.}}
+
+{{led|nr=1|namn=Straight Flush|grad=6|betyg=2|typ=mix|längd=35|fa= [[T.Winther, J.Nilsson]] [[1984|-84]]}|text=En klassisk sportled som kräver lite psykisk insats mellan bultarna.}}
+
+{{led|nr=2|namn=Highway To Heaven|grad=6|betyg=3|typ=sport|längd=35|fa= [[T.Winther, Pontus Persson]], [[1985|-85]]|text=En högkvalitativ sportklättertur som sanerats till modern säkringsstandard av förstabestigaren.}}
+
+{{led|nr=3|namn=Pokerface|grad=7-|betyg=|typ=sport|längd=30|fa=|text=Sportlinje till höger om Highway}}
+
+== Gubbamalen ==
+
+[[Bild:Gubbamalen.jpg|frame|right|Copyright [[Magnus Nilsson]]/äventyrsskolan AC]]
+Kullabergs kanske bästa sportklätterklippa. Här finns klassiker som Lynet, Freak Brothers och Deja Vu. Området bjuder även på en hel del klättring runtomkring huvudklippan som beskrivs nedan.
+
+* Parkering
+Parkera vid Kullagårdens Värdshus parkeringsplats. 
+
+* Hitta hit
+Från den östligaste sidan av Kullagårdens parkering följs vandringsleden röda slingan förbi den röda stugan, förbi Ablahamnstigen (som leder ner till kusten) och cirka 500m österut till en tydlig stig åt vänster ned mot stranden i en sänka. Under sommaren luktar det tydligt av lök här! Stigen leder via trappor ner till malen (stranden) där man viker av åt väster för att hitta klipporna. Den nedan beskrivna klippan ligger ungefär 150m västerut längs stranden.
+
+* Säkring
+Sport huvudsakligen. även en del trad- och mixleder.
+
+Ett urval av de 15 leder som finns här:
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Spaceman Spiff|grad=6c+|typ=sport|betyg=2|längd=15|fa=[[Peter Harremoes]] [[1989|-89]]|text=Gymnastisk og svær teknisk klatring på fin klippe.}}
+
+{{led|namn=Skipper skräck|grad=7c|typ=sport|betyg=2|längd=15|text=Den tydliga sportiga linjen till vänster om Lynet. En riktig kalasfin sporttur!Obs. Det går även ett projekt mitt emellan som ej är att förväxla med.}}
+
+{{led|nr=1|namn=Lynet|grad=8+|typ=Trad|betyg=3|typ=trad|längd=22|fa=Fri: [[Peter Harremoes]] [[1991|-91]]|text=Den vänstra mycket överhängande sprickan. Smärtsam!}}
+| width="300px" |
+
+{{led|nr=2|namn=Freak Brothers|grad=8-|typ=mix|betyg=3|längd=15|fa=Fri: [[Per Hustad]], [[Brian Wirgin]], [[Johan Nilsson]] [[1987|-87]]|text=Det högra överhängande spricksystemet. Pumpande led som kräver muskler.}}
+
+{{led|nr=3|namn=Déja Vu|grad=6c+|typ=sport|betyg=3|längd=15|fa=[[Torbjörn Winther]] [[1988|-88]]|text=Balansklättring av hög kvalitet som kräver fingerstyrka.}}
+
+{{led|namn=Aero|grad=6c|typ=sport|betyg=2|längd=15|text=Linjen strax till höger om Déja Vu.}}
+|}
+
+== Hästahovmalen ==
+
+Lederna ligger mellan Hästahovmalen och Blå Mal vid havet. Lederna är snarast för Kullabergsentusiasten.
+
+* Parkering
+Parkera vid Kullagårdens Värdshus parkeringsplats. 
+
+* Hitta hit
+Gå ner till Blå Mal, sen gå över ryggen mot öster och ner till havet efter den djupt inskurna viken och innan den egentliga Hästahovmalen. Klippan är nordvänd och har sol på sommarförmiddagar. Området är även bra för traverser längs havet riktning väst.
+
+* Säkring
+Kilsäkrade leder där små friends är nödvändiga. Bra möjligheter för kilankare på toppen.
+
+Klippan är strukturerad. (Pa bilden kan man se de 2 lederna vid havet och ovanför är leden "Brilliant Disguise" vid nedstigningen till Bla Mal inritad.)
+
+[[Bild:Hästahov.jpg|frame|center|För detaljbild, klicka på M5.]]
+
+Från vänster till höger.
+
+{{led|namn=M5|grad=6-|längd=10|typ=trad|fa=[[Fredik Rapp]] & [[Torbjörn Winther]] [[2006]]}}
+
+{{led|namn=XK8|grad=5|längd=10|typ=trad|fa=[[Torbjörn Winther]] & [[Fredik Rapp]] [[2006]]}}
+
+== Vandflyverväggen ==
+[[Bild:Harlekin_4.jpg|thumb|right|150px|Torbjörn Winther, förstabestigningen av 
+{{ledlänk|namn=Harlekin}} Copyright: [[Användare:Kullamannen|Torbjörn Winther]]]]
+En av Kullabergs mest klassiska klippor. En stor vägg med 2-replängdersleder. Storslagen atmosfär.
+
+* Parkering
+Parkera vid Kullagårdens Värdshus parkeringsplats.
+
+* Hitta hit
+Från den stora parkeringen vid Kullagården följs stig och skyltning mot visitgrottan (kuststigen västerut). Strax innan stigen går ner mot kustklipporna ansluter en liten stig från vänster. Följ denna stig 150m tills den stora sänkan, med den östvända väggen, kan ses ifrån en av de mot kusten utskjutande ryggarna. 
+
+* Säkring
+Huvudsakligen trad-klättring av hög kvalitet, men även ett par sportturer. 
+
+[[Bild:Vandflyver_2.jpg|frame|left|Copyright: [[Magnus Nilsson]]/äventyrsskolan AC]] 
+
+{{led|nr=1|namn=Magnus Runstens led|grad=7|betyg=1|längd=40|fa=[[Magnus Runsten]]/[[Torbjörn Winther]] [[1989|-89]]|typ=mix|text=}}
+
+{{led|nr=2|namn=Om Hjörnet|grad=6-|betyg=3|längd=45|fa=Fri:[[Robin Barley]]/[[Peter Christensen]] [[1971|-71]]|typ=trad|Klassisk "kullabergs-expedition", första repan är mest transport.}}
+
+{{led|nr=3|namn=Jackpot|grad=6+|betyg=3|längd=22|fa=[[Magnus Nilsson|M.Nilsson]]/[[Torbjörn Winther|T.Winther]] [[1987|-87]]|typ=sport|text=Fantastiskt häftig klättring ute på den exponerade areten! Klättra "i hjörnet" som första replängd för lång och homogen sexaklättring.}}
+
+{{led|nr=4|namn=Harlekin|grad=7-|betyg=2|längd=20|fa=[[Torbjörn Winther|T.Winther]]/[[Magnus Nilsson|M.Nilsson]] [[1991|-91]]|typ=sport}}
+
+{{led|nr=5|namn=Via Internationale|grad=5+|betyg=1|längd=45|fa=Fri: [[Robin Barley]]/[[Peter Christensen]] [[1971|-71]]|typ=trad}}
+
+== Kullamannens Dörr ==
+
+[[Bild:Kullamannens Dörr.jpg|frame|right|Copyright Magnus Nilsson/äventyrsskolan AC]] 
+
+En av de bästa klipporna på Kullaberg. Huvudsakligen trad-klättring, men även ett par mix- och en sporttur. Klippan lämpar sig väl för topprepning, och är en favorit bland aid-klättrarna. Var vänlig använd inte bladbultar/hammare vid teknisk klättring.
+
+* Parkering
+Parkera vid Fyrens parkeringsplats. 
+
+* Hitta hit
+Vid den yttersta parkeringen finns en liten picnic-plats brevid en stor informationsskylt. rakt ut mot havet härifrån går en liten stig som viker av åt vänster, följ den och ta sedan en annan stig neråt höger efter 20 meter. Snart står du på toppen av klippan.
+
+* Säkring
+Huvudsakligen trad-klättring av hög kvalitet, men även ett par sportturer. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Oh dem Watermelons|grad=7+|betyg=1|typ=mix|längd=20|fa=Göran Hellström & Christian Schaar, okt 1972, IV, A1. Friad av Jan Liliemark mfl juni 1984|text=Sexaklättring upp till hyllan och ett mycket tunt och tekniskt krux ovanför. Mixad.}}
+
+{{led|nr=2|namn=Dr Strangelove|betyg=3|grad=7|typ=mix|längd=20|fa=Torbjörn Winther mfl, 1987|text=Fin linje över högklassig klippa. Kruxet ligger ett par meter under toppen. Jämn och hög teknisk standard och kvalitet. En kil för toppen och en friend i början rekommenderas.}}
+
+{{led|nr=3|namn=Yosemite|betyg=3|grad=7|typ=trad|längd=20|fa=Robin Barley & Göran Hellström, maj 1971, V A2. friad av Jan Liliemark mfl, maj 1983|text=Klassisk och varierad vägg- och sprickklättring. Välsäkrad med ett rikt urval av kilar och kammar, tänk på att pelaren i början är suspekt. Svårare sedan delar av pelaren i starten fallit ner. Vanligtvis klättrar man numera ut runt kanten till höger om man leder}}`
+
+| width="350px" |
+
+{{led|nr=3,5|namn=Arapiles|betyg=2|grad=7+|typ=trad|längd=20|fa=Kim Carrigan 1987|text=Häftig och känslig väggtur längs en tunn spricka strax till höger om Yosemite. Passerar taket alldeles i vänsterkant där det sitter några rostiga pitonger. Något svårsäkrad.}}`
+
+{{led|nr=4|namn=Originalruten|betyg=3|grad=5|typ=trad|längd=20|fa= Allan Scharff & Peter Franke, okt 1966, A1. Friad av Robin Barley & Göran Hellström, maj 1971|text=En riktig klassiker. Exponerad och välsäkrad klättring på positiva grepp. Kan dock vara blöt tidvis.}}
+
+{{led|nr=4,5|namn=Joyce|betyg=1|grad=8-|typ=mix|längd=20|fa=Johan Nilsson 1988.|text=Tunn väggtur strax till höger om Originalrutan. Desperat krux i toppen vid de två bultarna.}}
+
+{{led|nr=4,6|namn=Northpost|betyg=1|grad=7-|typ=trad|längd=20|fa=Jan Liliemark 1983.|text=Den mest högra linjen på väggen. Börjar i ett dieder som leder till en liten hylla. Ta det försiktigt vid blocket. Klättra därefter snett ut åt höger längs tunna sprickor. Teknisk och välsäkrad där det är svårt.}}`
+|}
+
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+
+[[Kategori:Skåne]]

@@ -1,0 +1,27 @@
+{{stub}}
+
+==Introduktion==
+En förare i PDF-form över Kallberget finns på [http://tkak.mine.nu/tkak/forare/kallberget.pdf TKAK]. 
+
+
+Några bilder hittar du [http://tkak.mine.nu/tkak/rek/kallberget_2004-02-22/kallberget_galleri.htm här]!
+
+
+==Vägbeskrivning==
+
+==Leder==
+{{led|namn=Glaurung|grad=7a (6c+?)|fa=Conny}}  (ligger 50 m till vänster om alla andra)
+
+{{led|namn=4 Real|grad=6c|fa=Urban}}
+
+{{led|namn=Unreal|grad=7c|fa=Dag}}
+
+[[Stängt projekt]], Conny (ca 8a - 8a+)
+
+{{led|namn=Emil|grad=7b+ (7b?)|fa=Danne}}
+
+{{led|namn=Yoda|grad=6c (6c+?)|fa=Eva}}
+
+{{led|namn=Uprising|grad=7b (7b+?)|fa=Dag}}
+
+{{led|namn=Super Mario|grad=6a+|fa=Hagge & Dag}}

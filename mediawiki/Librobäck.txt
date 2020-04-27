@@ -1,0 +1,14 @@
+=Allmänt=
+Ett par block med några få problem, utvecklat först av F Malmros.
+=Vägbeskrivning=
+V 272 -> Gysinge. Eft. Industriomr. Librobäck, typ vid Hässelby o Hovlösa ta v. till grusparkering omgiven av björkar. Följ stigen v. om skogspartiet tills blocken syns. 
+=Problem=
+{{problem|namn=Gesundheit|grad=7A|typ=|fa=Sydde, Borg|landning=4|betyg=2|fadatum=2006-06-12|sopad=Sydde, Borg|sittstart=ja|text=Första blockets nordsida. ss i undercling.}}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,11 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Trip hop|grad=6C+|typ=|fa=S Holm|landning=2|betyg=2|sopad=S Holm|sittstart=ja|text=}}
+[[Kategori:Linköping]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

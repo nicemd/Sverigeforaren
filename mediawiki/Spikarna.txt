@@ -1,0 +1,35 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Chokladflarn|grad=5C|typ=Mantling,Överhäng,Jug|fa=Olle Morén|landning=4|betyg=1|fadatum=2005-08-19|sopad=Olle Morén|sittstart=ja|startgrepp=ja|text=Start med den stora juggen/sprickan, avslutas med juggvandring rätt upp. Kan lossna lite småsten på vägen upp ;)}}
+{{problem|namn=Heja Olle|grad=6B+|typ=|fa=Olle Morén|landning=3|betyg=2|fadatum=2005-08-19|sopad=Olle Morén|sittstart=ja|text=Startar mitt på ena sidan av stenen, avslutas rätt upp & något snett till höger}}
+{{problem|namn=Titta en båt|grad=5B|typ=Jug,Spricka|fa=Olle Morén|landning=4|sopad=Olle Morén|sittstart=ja|text=Startar på hörnet av stenen & går snett uppåt höger. Lite mossa vid mantlingen, men det går an ;)}}
+{{problem|namn=Kaffebordet|grad=4C|typ=|fa=Olle Morén|landning=2|fadatum=2005-08-28|sopad=Olle Morén|uteslutningar=ja|text=Går rätt upp mellan de två vertikala smala sprickor som får utgöra en naturlig uteslutning.}}
+{{problem|namn=Pipstället|grad=5B|typ=|fa=Olle Morén|landning=2|betyg=1|fadatum=2005-08-19|sopad=Olle Morén|uteslutningar=ja|text=Går rätt upp mellan de två vertikala smala sprickor som får utgöra en naturlig uteslutning.}}
+{{problem|namn=Ett glas 40 årig Laphroaig|grad=6A|typ=Mantling,Överhäng|fa=Tony Berglund|landning=2|betyg=2|fadatum=2005-09-06|sopad=Tony Berglund|uteslutningar=ja|text=Går rätt upp mellan de två vertikala smala sprickor som får utgöra en naturlig uteslutning.}}
+{{problem|namn=Svart kaffe & mörk choklad|grad=6A|typ=Dyno|fa=?|landning=2|betyg=2|sopad=?|uteslutningar=ja|text=Går rätt upp till höger om den vertikala smala sprickan som får utgöra en naturlig uteslutning åt vänster. Det finns många varianter på detta problem beroende på vars den högra uteslutningen ska vara. Namngiven av Tony Berglund 2005-09-06}}
+| width="250px" |
+{{problem|namn=Fotöljen|grad=4A|typ=Jug|fa=Jon Kågström|landning=3|betyg=1|fadatum=2005-08-19|sopad=Jon Kågström|uteslutningar=ja|text=Går rätt upp till höger om Svart kaffe & mörk choklad. Godtyckliga uteslutningar...}}
+{{problem|namn=Takfläkten|grad=4B|typ=|fa=Jon Kågström|landning=2|fadatum=2005-08-19|sopad=Jon Kågström|text=Lite oklart om det är några uteslutningar, går upp nånstans på den högra väggen en bit till höger om Fotöljen.}}
+{{problem|namn=Och Jon glömde skorna!|grad=6A+|typ=Slopers,Mantling|fa=?|landning=2|betyg=3|sopad=?|sittstart=ja|text=Kanske finaste på Spikarna. Går snett uppåt höger från slopehyllan i vänstra hörnet av stenen. Namngiven av Olle Morén 2005-08-19.}}
+{{problem|namn=Tony hade slitna skor|grad=6C|typ=Krimp,Pinch,Dyno|fa=Olle Morén|landning=2|betyg=1|fadatum=2005-08-24|sopad=Olle Morén|sittstart=ja|text=Går rätt upp från bl.a. en krimpig & lite vass spricka.}}
+{{problem|namn=Tony med nya skor|grad=5C|typ=Slopers,Jug|fa=Tony Berglund|landning=3|fadatum=2005-09-06|sopad=Tony Berglund|sittstart=ja|startgrepp=ja|text=Går rätt upp från den stora hyllan på stenen till höger om stenen med Tony hade slitna skor.}}
+{{problem|namn=Varm vind|grad=6A|typ=Krimp,Mantling|fa=Tony Berglund|landning=3|betyg=2|fadatum=2005-08-24|sopad=Tony Berglund|uteslutningar=ja|text=Går rakt upp, något till höger mitt på stenen.}}
+| width="250px" |
+{{problem|namn=Het vind|grad=6B|typ=Krimp,Mantling,Dyno,Reach|fa=Olle Morén|landning=3|betyg=3|fadatum=2005-08-24|sopad=Olle Morén|sittstart=ja|text=Sittstarten till Varm vind.}}
+{{problem|namn=Saltstänk|grad=4C|typ=Mantling,Jug|fa=Olle Morén|landning=5|betyg=1|fadatum=2005-08-24|sopad=Olle Morén|text=Går rakt upp inne i skrevan. Se upp så du inte ramlar i havet!}}
+{{problem|namn=Glocalnet (låg mantling)|grad=5A|typ=Mantling|fa=Tony Berglund|landning=3|betyg=1|fadatum=2005-09-06|sopad=Tony Berglund|sittstart=ja|startgrepp=ja|text=Startar ute på hörnet av flaket, rätt upp. Teknisk & fin mantling.}}
+{{problem|namn=Trångmål|grad=7A|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=4|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart, går rakt upp.}}
+{{problem|namn=Poliskonstapeln|grad=5B|typ=Slopers,Travers H->V,Spricka|fa=Anders Sandström och Jonas Bäckström|landning=1|betyg=2|fadatum=2007-06-29|sopad=Anders Sandström och Jonas Bäckström|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart från höger aréte, tre moves upp och travers till vänster. Från lilla sprickan upp till flaket och travers bort till rosenbusken för utsteg. Sten vid busken utesluten.}}
+{{problem|namn=Barfota bakis|grad=4C|typ=Jug|fa=Olle?|landning=1|betyg=1|fadatum=2007-06-24|sopad=Olle?|text=Rätt upp ungefär i mitten av klippan.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

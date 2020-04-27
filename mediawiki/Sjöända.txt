@@ -1,0 +1,194 @@
+{{info klippa
+  |lat=57.99738
+  |long=16.21395
+}}
+
+{{komplett}}
+[[Kategori:Sport]][[Kategori:Vertikalt]]
+
+==Allmänt==
+En av Sveriges finaste sportklätterklippa som har högklassiga leder för alla klättrare. Berget består av fast rödaktig granit. Klättringen är varierande av typen lodrätt, sva, överhängande och är som högst 25 m. Här finns Mr. Big 6a+ och Solarplexus 7b+ som är det bästa som finns i Sverige inom sin genre. [[Anita Rostén]] imponerade 1999 genom att göra den första on-sight-bestigningen. Det finns även fantastiska lättare leder att klättra på sjöväggen. Berget ligger åt öst med sol fram till kl.14.00 på sommaren. Bästa klättringen är mellan juni-oktober. Berget har öppnats upp genom att många träd har fällts framför väggarna som gav skugga. Nu torkar det upp snabbare.
+Klippan har 6 leder som särskilt rekommenderas. Se stjärnmarkering *
+
+Bultade leder i grad 5-8
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="57.99738" lon="16.21395" zoom="10" type="map">
+57.99738,16.21395,Sjöända
+</googlemap>
+</div>
+Klippan ligger ca 44 km nordväst om Västervik. Från Västervik (44 km) kör E22 mot Gamleby. Kör väg nr 135 mot Kisa och sväng höger efter 2 km in på väg nr och fortsätt 5 km och sväng höger vid skylt Sjöända 2. Sväng åt höger vid gården och parkera efter 30 m vid P-skylt. Stigen till berget börjar vid Ladugården. Skyltat till höger. Det finns snitslar och berget ligger på vänster sida. Gå ej över ängarna.
+Klippan ligger 7 mil från Linköping. Tag väg 35 och åk förbi Åtvidaberg. Efter 3 km sväng höger in på väg 134 mot Kisa. Efter ca 1 km sväng vänster mot Dalhem. Följ vägen i drygt 26 km passera Dalhem och sväng vänster vid skylt Sjöända 2 km. Parkera till höger på gräsplätten vid kurvan. Följ stigen 600 m som börjar vid ladugården och som går in i skogen till höger från parkeringen. Det finns snitslar och berget ligger på vänster sida.
+
+== Övernattning ==
+Det finns stugor att hyra samt samlingslokal hos Risebo fritid, camping och stugor tel 0493-33046
+http://www.risebofritid.se, Överums vandrarhem ligger ca 10 km från berget tel 0493-30302 http://www.overum.nu,
+KustCamp Gamleby, camping tel 0493-10221, http://www.campa.se, camping och stugor finns på Lysingsbadet tel 0490-258000 i Västervik http://www.lysingsbadet.se/, stugor har Tofvehults café och konferens tel 0490-26351
+http://www.tofvehult.se och på Live in Nature på Kallersnäs gård tel 0768-513090 http://www.liveinnature.se
+
+== Affärer ==
+Närmaste livsmedelsaffär Coop ligger i Överum 13 km. Närmaste bensinstation Preem och Bilia ligger i Gamleby 20 km.
+
+== Klättercenter ==
+Mötesplatsen för klättrare är på centret i Västervik, Repslagargatan 5, vid gamla vattentornet. Där kan man koppla upp sig gratis på trådlöst internet, eller låna en dator. En plats att mötas på, utbyta erfarenheter, läsa klättertidningar,
+se klätterfilmer och även få aktuell information om klättringen och andra aktiviteter i kommunen. En plats där man kan klättra inomhus och lära känna andra klättrare. Ring 0490-37466 för mer information.
+
+== Leder ==
+
+[[Bild:Sjoanda.jpg]]
+== Lilla väggen ==
+
+{{led|nr=1|namn=Mantelsnake|grad=6b+|betyg=|längd=7|fa=Torbjörn Pettersson -94|bultar=2|typ=sport}}
+
+{{led|nr=2|namn=Snaky Snake|grad=6b+|betyg=|längd=8|fa=Torbjörn Pettersson -94|bultar=3|typ=sport}}
+
+{{led|nr=3|namn=Kärringleden|grad=6b+|betyg=|längd=10|fa=Ingemar Pettersson -97|bultar=4|typ=sport}}
+
+{{led|nr=4|namn=Schäring Leden|grad=5b|betyg=3|längd=10|fa=Jeanette Schäring -97|bultar=4|typ=sport}}
+
+{{led|nr=5|namn=Schäring Leden (variant)|grad=6b|betyg=|längd=10|fa=Ingemar Pettersson -97|bultar=4|typ=sport}}
+
+== Towerväggen ==
+[[Bild:sjöända_lilla.png]]
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=6|namn=Short Å Hårt|grad=7a|betyg=2|längd=8|fa=Pär Flour -93|bultar=3|typ=sport}}
+
+{{led|nr=7|namn=Voltaren|grad=7a+|betyg=2|längd=7|fa=Fredrik Andersson -93|bultar=3|typ=sport}}
+
+{{led|nr=8|namn=Lillingen|grad=7a+|betyg=|längd=6|fa=Ingemar Pettersson -93|bultar=3|typ=sport}}
+
+{{led|nr=9|namn=Tower of Power|grad=7b|betyg=3|längd=14|fa=Fredrik Andersson -93|bultar=6|typ=sport}}
+
+{{led|nr=10|namn=Ace of spades|grad=7a|betyg=1|längd=14|fa=Fredrik Andersson -93|bultar=4|typ=sport}}
+
+| width="300px" |
+
+{{led|nr=11|namn=Ace of base|grad=6c|betyg=|längd=18|fa=Fredrik Andersson -93|bultar=7|typ=sport}}
+
+{{led|nr=12|namn=Vice versa|grad=6c+|betyg=|längd=16|fa=Ingemar Pettersson -94|bultar=7|typ=sport}}
+
+{{led|nr=13|namn=Seasons end|grad=6c|betyg=1|längd=16|fa=Fredrik Andersson -92|bultar=6|typ=sport}}
+
+{{led|nr=14|namn=Bonham|grad=6b|betyg=|längd=15|fa=Torbjörn Pettersson -93|bultar=4|typ=sport}}
+|}
+
+== Huvudväggen ==
+[[Bild:sjöända_huvudväggen.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=15|namn=Little Big Horn|grad=7a|betyg=|längd=25|fa=Ingemar Pettersson -92|bultar=9|typ=sport|text=Håll vänster, och rakt up}}
+
+{{led|nr=16|namn=Little Big Horn (variant)|grad=6b|betyg=1|längd=15|fa=Ingemar Pettersson -93|bultar=6|typ=sport|text=Utsteg t.v. till Bonham}}
+
+{{led|nr=17|namn=Mr Big|grad=6a|betyg=3|längd=18|fa=Torbjörn Pettersson -92|bultar=7|typ=sport}}
+
+{{led|nr=18|namn=Big boss utsteg|grad=7b|betyg=|längd=7|fa=Ingemar Pettersson -92|bultar=3|typ=sport}}
+
+{{led|nr=19|namn=Tak ska du ha|grad=6b|betyg=2|längd=10|fa=Ingemar Pettersson -94|bultar=4|typ=sport}}
+
+{{led|nr=20|namn=Klackarna i taket|grad=6b+|betyg=|längd=10|fa=Fredrik Andersson -94|bultar=3|typ=sport}}
+
+{{led|nr=21|namn=Big bang|grad=7c|betyg=2|längd=25|fa=Ingemar Pettersson -93|bultar=11|typ=sport}}
+
+{{led|nr=21|namn=Big bang kort|grad=6c+|betyg=2|längd=19|fa=Ingemar Pettersson -92|bultar=8|typ=sport|text=Till första ankaret}}
+
+| width="300px" |
+
+{{led|nr=23|namn=Slumpens hjälte|grad=7c+|betyg=|längd=7|fa=Johan Luhr -93|bultar=3|typ=sport}}
+
+{{led|nr=24|namn=Mittlinjen|grad=6b+|betyg=|längd=18|fa=Pär Flour -94|bultar=7|typ=sport}}
+
+{{led|nr=25|namn=Groovus maximus|grad=7c+|betyg=3|längd=25|fa=Fredrik Andersson -93|bultar=13|typ=sport}}
+
+{{led|nr=26|namn=Alter ego|grad=7c|betyg=2|längd=25|fa=Ingemar Pettersson -93|bultar=12|typ=sport}}
+
+{{led|nr=27|namn=Solar plexus|grad=7b+|betyg=3|längd=25|fa=Ingemar Pettersson -92|bultar=13|typ=sport}}
+
+{{led|nr=28|namn=Stilleben|grad=7c|betyg=|längd=18|fa=Ingemar Pettersson -93|bultar=9|typ=sport}}
+
+{{led|nr=29|namn=Je t'aime|grad=7c|betyg=|längd=18|fa=Ingemar Pettersson -95|bultar=9|typ=sport}}
+|}
+
+==Mozartväggen==
+[[Bild:sjöända_mozart.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=a|namn=Uppstigningsled|grad=2c|bultar=4|text=järnstege}}
+
+{{led|nr=30|namn=Tobbes hörna|grad=5c|betyg=|längd=6|fa=Torbjörn Pettersson -92|bultar=3|typ=sport}}
+
+{{led|nr=31|namn=IP:s hörna|grad=6c|betyg=|längd=6|fa=Ingemar Pettersson -93|bultar=3|typ=sport}}
+
+{{led|nr=32|namn=Black Diamond|grad=6b+|betyg=1|längd=13|fa=Pär Flour -92|bultar=5|typ=sport}}
+
+{{led|nr=33|namn=Mozart|grad=6c|betyg=3|längd=15|fa=Fredrik Andersson -92|bultar=6|typ=sport}}
+
+{{led|nr=34|namn=Grangrenada|grad=6c+|betyg=1|längd=15|fa=Ingemar Pettersson -92|bultar=5|typ=sport}}
+
+| width="300px" |
+
+{{led|nr=35|namn=IPP|grad=5c|betyg=|längd=14|fa=Jeanette Schäring -97|bultar=4|typ=sport}}
+
+{{led|nr=36|namn=Projekt|grad=6a|text=korsar led 37}}
+
+{{led|nr=37|namn=Jonas led|grad=5b|betyg=|längd=14|fa=Jonas Fageer -92|bultar=4|typ=sport}}
+
+{{led|nr=38|namn=Projekt (Tahrir Square)|grad=7a}}
+
+{{led|nr=39|namn=Projekt (areten)|grad=6b}}
+
+{{led|nr=40|namn=Projekt (diedret)|grad=5a}}
+
+{{led|nr=b|namn=Uppstigningsled|grad=2c|text=}}
+
+|}
+
+== Sjöväggen ==
+[[Bild:sjöända_sjöväggen.png]]
+
+{{led|nr=41|namn=Halvmånen|grad=5b|betyg=|längd=15|fa=Johan Ekström -93|bultar=5|typ=sport}}
+
+{{led|nr=42|namn=Zäta|grad=5a|betyg=|längd=15|fa=Claes Eriksson -93|bultar=5|typ=sport}}
+
+{{led|nr=43|namn=Smach|grad=5a (5c?)|betyg=|längd=16|fa=Torbjörn Pettersson -95|bultar=5|typ=sport}}
+
+{{led|nr=44|namn=Jokkmokks Jocke|grad=5b|betyg=1|längd=16|fa=Joakin Karlsson -94|bultar=5|typ=sport}}
+
+{{led|nr=45|namn=Fager|grad=4c|betyg=2|längd=16|fa=Claes Eriksson -93|bultar=5|typ=sport}}
+
+{{led|nr=47|namn=Gloryland|grad=6a|betyg=2|längd=17|fa=Ingemar Pettersson -94|bultar=5|typ=sport}}
+
+{{led|nr=48|namn=Flugor i Örat|grad=6b|betyg=|längd=17|fa=Ingemar Pettersson -93|bultar=5|typ=sport}}
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+Förare av [http://www.vastervikclimbing.se/klattercentret/pdfer/ Västervik Climbing].
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}
+
+=In English=
+==Description==
+One of Sweden's better sport crags offers slabby to slightly overhanging routes on solid red-tinted granite.
+
+==Directions==
+See map above.  Turn right at the farm and park on the marked parking lot.  The path to the crag has markings and starts by the barn. Please don't walk across farmland or the meadows.
+
+==Season==
+The wall is east-facing and sunlit until 2PM.  Best season is June-October. 
+
+==Staying there==
+Risebo fritid ( http://www.risebofritid.se ) has cabins for rent.  Överums vandrarhem (hostel) ( http://www.overum.nu ) is located 10 km from the crag.  The closest supermarket is in Överum (13 km from the crag).
+
+[[Kategori:Engelska]]
+[[Kategori:Småland]]

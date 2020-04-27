@@ -1,0 +1,83 @@
+{{info klippa
+  |lat=58.4775
+  |long=11.3483
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{komplett}} 
+
+==Allmänt==
+Berget ligger precis nordost om Bovallstrand och fågelvägen (=cykelvägen) är det inte mer än 1,5 km till centrum. Parkering för bil ligger 400 meter norr om klippan – du promenerar sedan en grusväg upp till berget. Inga bilar får ställas mellan parkeringen och klippan. Marken ägs av Sotenäs kommun. 
+Granitväggen är knappt hundra meter bred och vägghöjden 15-25 meter. Solen börja komma in i väggen först vid 13-tiden – så Sparöd är ett bra alternativ en varm dag. Från toppen har du en strålande utsikt över Bottnafjorden, och havet – från Valön i norr till SoteBonde i söder. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="58.4775" lon="11.3483" zoom="10">
+58.4775, 11.3483, Väggen
+58.4787, 11.3564, Parkeringen
+</googlemap>
+</div>
+
+
+Från E6 – avtag Bovallstrand. Följ vägen till några km innan samhället där du svänger vänster vid skylt ”Heljarödshemmet”. Efter en knapp km parkering till vänster – mittemot en villa. Gå sedan in på grusvägen – markerad ”Soteleden”- efter villan och följ den högra när den delar sig. När du passerat ytterligare en villa på höger hand dyker klippan upp till vänster. Gå in vid rödmarkerad stolpe.
+Till utstegen kommer du via scrambling förbi ett träd 50 meter till vänster om lederna. Ovanför lederna längst till höger kan du fira från stora träd på en hylla 15 meter ovanför marken.
+De två lederna längst till höger är 15 meter långa – de övriga 25 meter. Svårighetsgraden varierar. Det finns tre leder graderade 5+ - härefter en jämn progression upp til 8-. 
+Berget borde alltså kunna locka både ”gammal och ung”
+De leder som gjorts är alla ledda på naturliga säkringar.
+Tänk på att hålla en låg ljudnivå – villorna ligger nära!
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+[[Bild:sparröd_m.jpg]]
+[[Bild:sparröd_h.jpg]]
+
+Leder från vänster (norr):
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Flakes don´t fail me now|grad=5+|typ=trad|fa=[[Jan Leyon]], [[Geir Eriksen]] 2009|text=Börja under flakformationerna. Osäkrat insteg – men rolig, lätt klättring på lister. Följ flaken upp till hyllan, tassa upp i det grunda diedret till höger och som dessert en luftig välsäkrad travers höger till utsteget.}}
+
+{{led|nr=2|namn=Andy Airline|grad=7|typ=trad|fa=[[Henrik Sjökvist]], [[Ann-Sofi Andersson]] 2009|text=Insteg 5 meter till vänster om den uppenbara snedsprickan. Starta med några svaiga moves upp till tvärsprickor som leder in i det lilla hörnet/grooven. Fortsätt sedan brantare med sportig klättring på krimpar och något jam där säkringarna dyker upp när de behövs. Avsluta med några goa handjam i den snedlutande slutsprickan.}}
+
+{{led|nr=3|namn=Öppet projekt|grad=?|text=En fantastisk linje. Väggklättring upp till den uppenbara sprickan som sveper åt vänster. Utsteg som Andy Airline}}
+
+{{led|nr=4|namn=När stålborsten tappade makten|typ=trad|grad=8-|fa=[[Ann-SofiAndersson]], [[Johan Svensson]] 2009|text=Om du har turen att finna detta hörn torrt kommer du bjudas på en fin led. Stor klättring leder upp i hörnet som blir mindre innan det övergår i tvärband. Cruxsekvensen bjuder på några desperata moves där potentialen för en lååååång flygare är överhängande. Fallet blir dock bara långt men inte farligt då väggen är slät under. Helt klart en utmanande onsight!}}
+
+{{led|nr=5|namn=Zingo|grad=7-|typ=trad|fa=[[Jan Leyon]] och [[Geir Eriksen]] 2009|text=Insteg 10 meter till höger om föregående led – ute på ”bullen”. Gillar du allehanda jam är detta leden för dig! Börja under snedsprickan. En tung ”bläckfisk”-förflyttning för dig upp till sprickan som löper åt vänster. Cruisa upp till hyllan – där du mycket väl kan göra stand under diedret till höger. Lite olika tekniker kan behövas för en enkel lösning av detta. Sedan rakt upp till utsteget.}}
+
+{{led|nr=6|namn=Lite sex till vänster|grad=6|typ=trad|fa=[[Jan Leyon]], [[Geir Eriksen]] 2007|text=Insteg 4 meter till höger om föregående led. Behagligt via spricka och avsatser till hyllan. Gör stand under sprickan till vänster. Slappna inte av efter det vassa cruxet – utsteget bjuder på en liten välavvägd balansakt!}}
+
+| width="350px" |
+
+{{led|nr=7|namn=Romeo och Julia (Kärlek på balkong)|grad=5+|typ=trad|fa=[[Geir Eriksen]], [[Jan Leyon ]] 2007|text=Samma insteg som föregående led. Från hyllan traverserar du höger ut på rampen. Ju längre ut du kommer – desto luftigare blir det. Var inte rädd - om du vågar gå på får du en välsäkrad upplevelse som sedan avslutas rakt upp}}
+
+{{led|nr=8|namn=Trollbunden|grad=7|typ=trad|fa=[[Ulrika Tiegs]], [[Jappe Pålsgård]] 2008|text=Insteg 2 meter till höger om föregående led. Rakt upp till tunnsprickan och till vänster in i den grunda skålen. Rakt upp till den lodräta sprickan, över rampen och upp i diedret. Avsluta genom ett litet överhäng till toppen. Den här leden "känns i magen" redan från början! Resan kräver såväl mental som fysisk balans för att bli trevligt minnesvärd.}}
+
+{{led|nr=9|namn=Kjaerlighetsstien/Naked Lunch|grad=6|typ=trad|fa=|text=10 meter till höger om föregående led. Insteg över svaet. Sedan får du jobba med att etablera dig inför fortsättningen. Den lodräta tunna sprickan som följer går hela vägen till toppen. Ett markerat crux – inte nämnvärt svårare än graden avslutar turen.}}
+
+{{litentext|text=De följande är belägna i klippans högra del, 10 meter till höger om föregående led. Låt dig inte luras av att lederna är belägna på den lägre delen av berget. Här bjuds fin klättring i två olika svårighetsgrader ”Don´t leave without them”}}
+
+{{led|nr=10|namn=Prästgården|grad=5+|typ=trad|fa=[[Jan Ahrens]] [[Peter Värvell]] 2007|text=Start på liten hylla och vidare upp på väggen till spricka. Utsteg via litet dieder. Bra säkringar. Kort bra uppvärmningsled. Fira från tall på hyllan. Om man vill gå ned, börja med att traversera snett upp vänster från hyllan vik sedan hö och gå ned på hö sida om klippan.}}
+
+{{led|nr=11|namn=Mig äger ingen|grad=6+|typ=trad|fa=[[Wendelin Zobel]], [[Jan Ahrens]], [[Anita Rosten]] 2009|text=Superb spricklinje längs bort till höger på berget. Fina jam i högerlutande spricka med bra säkringar. Tyngre än den ser ut.}} 																					
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]

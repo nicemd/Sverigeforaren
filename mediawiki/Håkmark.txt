@@ -1,0 +1,110 @@
+{{boulderutkast}}
+=Allmänt=
+Området togs fram av SBO crew 2006 för att hålla Sveriges största utomhusbouldertävling. 
+=Vägbeskrivning=
+Från E4, Umeå:
+
+Sväng av E4 i centrala umeå mot väg 363 Hissjö/Vindeln. Följ vägen 11 km till byn Håkmark. 
+
+Sväng höger in mot själva byn. Kör över en liten bro och ta första höger. Följ vägen ett par hundra meter fram till ett hus med en stor solros på, sväng vänster och följ vägen in i skogen tills ett grönt militärförråd visar sig rakt fram. Sväng vänster in på Ringvägen och följ den ca 400 m. Parkera längst vägen och de första stenarna syns i bortre kanten på hygget. 
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Inget för tjockisar|grad=6A+|typ=Tak,Heelhook|fa=Robin 2011-05-04|landning=2|sittstart=ja|uteslutningar=ja|variant=ja|text=Alternativ start till nr 30, Geckolina. Startar med händer och fötter i sprickan längs in under taket och därefter ut mot Geckolina. Stenarna som blocket vilar på är uteslutna.}}
+{{problem|namn=Gruvgången|grad=7A (?)|typ=Krimp,Slopers,Heelhook|fa=Marcus 2010-06-06|landning=2|sittstart=ja|text=Sittstart ( eller frihängande om du inte når) på läppen vid ingången till gruvan. Traversera vä-hö , passerar förbi The Pledge och ´Til we colapse för att avsluta via hö aretet.}}
+{{problem|namn=Vassi|grad=5C|typ=Spricka|fa=Johan Viklund|landning=2|fadatum=2006-06-29|sopad=Johan Viklund|sittstart=ja|uteslutningar=ja|text=Leden går till höger om led 19. Följ sprickan upp, sten till vänster om spricka är utesluten.}}
+{{problem|namn=Hunden Försvann|grad=6B|typ=Krimp,Reach|fa=Johan Viklund|landning=2|fadatum=2006-06-29|sopad=Johan Viklund|sittstart=ja|uteslutningar=ja|text=Leden går till höger om led 19. start grepp liten krimp långt ner och sidepull en bit upp. sten till vänster om/och sprickA UTESLUTEN.}}
+{{problem|namn=Omertá|grad=6A|typ=Slopers,Överhäng,Spricka,Heel hook|fa=CC|landning=4|fadatum=2008-05-07|sopad=CC|sittstart=ja|text=Ligger 8m höger om nr 3. Lågstart i tvärsprickan och sedan rakt upp via slopers. Inga uteslutningar.}}
+{{problem|namn=Bamsekram|grad=6A|typ=Slopers,Överhäng,Jug|fa=Jesper Svensson|landning=3|fadatum=2008-05-17|sopad=Jesper Svensson|sittstart=ja|startgrepp=ja|text=Märkt A1. Ligger 15m nedanför Nr:7 "Pushin´" bland introstenarna, mot vägen till. Sittstart, startgrepp, tänkt linje upp över lilla bullen, kläm i och sen upp.}}
+{{problem|namn=Smakar blomlåda i truten|grad=5A|typ=Slopers,Aréte|fa=Jesper Svensson|landning=3|betyg=1|fadatum=2008-05-17|sopad=Jesper Svensson|sittstart=ja|startgrepp=ja|text=Märkt A2. Ligger 15m nedanför Nr:7 "Pushin´" bland introstenarna, mot vägen till. Sittstart med startgrepp, följ kanten på det trubbiga aretét upp.}}
+{{problem|namn=Öronen|grad=6A+|typ=Krimp,Reach|fa=Jesper Svensson|landning=3|fadatum=2008-05-17|sopad=Jesper Svensson|startgrepp=ja|text=Märkt A3. Ligger 15m nedanför Nr:7 "Pushin´" bland introstenarna, mot vägen till. Startgrepp, följ sedan linjen upp mellan de tre "öronen", rampen till vä. utesluten.}}
+{{problem|namn=Bullkungen 2|grad=5C|typ=Slopers,Slab|fa=Jesper Svensson|landning=1|fadatum=2008-05-17|sopad=Jesper Svensson|sittstart=ja|startgrepp=ja|text=Märkt A4. Ligger 25m th. om Nr:7 "Pushin´" bland introstenarna, mot vägen till. Trixig start.}}
+{{problem|namn=Taskigt Lokalsinne|grad=3C|typ=Jug|fa=Nicklas Fransson|landning=3|fadatum=2008-05-17|sopad=Nicklas Fransson|text=Märkt A5. Ligger 15m nedanför Nr:7 "Pushin´" bland introstenarna, mot vägen till. Väggklättring, med bra slutgrepp.}}
+{{problem|nr=1|namn=Trädkramaren|grad=6B+|typ=Mantling,Aréte|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=2|namn=Krossad Tumme|grad=7A|typ=Krimp,Mantling|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=3|namn=The generation that didn´t agree|grad=6A+|typ=Krimp,Mantling|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|startgrepp=ja|text=}}
+{{problem|nr=4|namn=Snikopell|grad=5A|typ=Mantling|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=5|namn=God bless this mess|grad=6A+|typ=Krimp,Slopers,Mantling|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|startgrepp=ja|text=}}
+{{problem|nr=6|namn=The Bully|grad=4B|typ=Krimp,Slab|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=7|namn=Pushin´|grad=3A|typ=Krimp,Slopers,Aréte|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=8|namn=Lunacy has found us|grad=7A|typ=Krimp,Slopers,Överhäng|fa=SBO-Crew 2006|landning=2|betyg=3|sopad=SBO-Crew 2006|text=Start i sprickan på undersidan av stenen}}
+{{problem|nr=8|namn=Real Lunacy|grad=7A|typ=Slopers,Överhäng,Heel hook|fa=SBO-crew  2006 + Rocklöv|landning=2|betyg=3|fadatum=2007-04-04|sopad=SBO-crew  2006 + Rocklöv|variant=ja|uteslutningar=ja|text=Som luncasy has found us men utan stenen under. En naturlig elimination som gör problemet ännu finare!}}
+{{problem|nr=9|namn=Match Point|grad=6A|typ=Krimp,Aréte,Jug,Heel hook|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=10|namn=Dum|grad=4B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=11|namn=Dummare|grad=4C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=12|namn=Idioti|grad=6C|typ=Krimp,Pinch,Spricka|fa=SBO-Crew 2006|sopad=SBO-Crew 2006|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Stenen till vänster är utesluten.}}
+{{problem|nr=13|namn=Apremont|grad=5B|typ=Överhäng|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=14|namn=Calivaire|grad=2|typ=Spricka|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=15|namn=Cuisiniére|grad=6B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=16|namn=Élephant|grad=4C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=17|namn=Gros Sablons|grad=6A+|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=18|namn=Isatis|grad=6A|typ=Travers H->V,Heel hook|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=Blocken under är uteslutna. Går åt vänster.}}
+{{problem|nr=19|namn=Sabots|grad=5C|typ=Jug,Heel hook|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=Samma start som nr 19. Går rakt upp.}}
+{{problem|nr=20|namn=Random wounds|grad=5C|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|uteslutningar=ja|text=Arete till vänster uteslutet.}}
+{{problem|nr=21|namn=Stjärtfrossa|grad=6A|typ=Krimp,Spricka|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=22|namn=Plastisk gymnastik|grad=6C|typ=Dyno|fa=SBO-Crew 2006|landning=3|sopad=SBO-Crew 2006|uteslutningar=ja|text=Dyno från sprickan.}}
+{{problem|nr=23|namn=Motion Emotion|grad=7B|typ=Dyno|fa=SBO-Crew 2006|landning=3|sopad=SBO-Crew 2006|uteslutningar=ja|text=Dyno från sprickan. Variant finns genom att klättra upp via små krimpers istället, grad ca 6B}}
+{{problem|nr=24|namn=Whiplash|grad=6C|typ=Krimp|fa=SBO-Crew 2006|landning=3|sopad=SBO-Crew 2006|uteslutningar=ja|text=Arete till höger uteslutet}}
+{{problem|nr=25|namn=Buthiers|grad=5C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=26|namn=Beauvais|grad=6B+|typ=Slopers,Jug,Heel hook|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=27|namn=Drei Zinnen|grad=4A|typ=Slab|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=EJ sittstart som det så felaktigt står i SBO protokollet}}
+{{problem|nr=28|namn=Milly|grad=4C|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=29|namn=Canon|grad=5C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=Häftig stenkvalité.}}
+{{problem|nr=30|namn=Geckolina|grad=6A|typ=Krimp,Överhäng,Jug|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|startgrepp=ja|text=Start i juggen under stenen.}}
+{{problem|nr=31|namn=HILTI feber|grad=7A+|typ=Krimp,Aréte,Toe hook|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=På "näsan" ut åt höger}}
+{{problem|nr=32|namn=Varankontakt|grad=6C|typ=Slopers,Spricka,Heel hook|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=33|namn=Schakt Matt|grad=5A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=34|namn=Komodo-soldater|grad=6A+|typ=Krimp,Slopers,Överhäng|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|startgrepp=ja|text=}}
+{{problem|nr=35|namn=FFF|grad=5A|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=36|namn=Månlandaren|grad=6A+|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|uteslutningar=ja|text=Arete till vänster uteslutet. Grad ändrad från tävlingsprotokollet.}}
+{{problem|nr=37|namn=Hål i dig|grad=4B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=38|namn=Demoleringsdemokraterna|grad=5A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=39|namn=Eurotrash|grad=5A|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=40|namn=Insanity|grad=7A|typ=Krimp,Slopers,Spricka|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|uteslutningar=ja|text=Sprickan, rampen till höger är helt utesluten. Grad ändrad från tävlingsprotokollet.}}
+{{problem|nr=41|namn=Hippielipp|grad=4C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=42|namn=Italian Stallion|grad=4A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=43|namn=Springmask|grad=4A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=44|namn=Slowmotion|grad=4C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+| width="250px" |
+{{problem|nr=45|namn=Broiler|grad=5C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=46|namn=Sockerchock|grad=5C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|startgrepp=ja|text=}}
+{{problem|nr=47|namn=Välhängd|grad=6B|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=48|namn=Higher than hope|grad=3A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=49|namn=TE76 ATC|grad=4A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=50|namn=Til´ We collapse|grad=6C+|typ=Krimp|fa=SBO-Crew 2006|landning=3|sopad=SBO-Crew 2006|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Arete till hö uteslutet. Grad ändrad från tävlingsprotokollet.}}
+{{problem|nr=51|namn=Lätt som en plätt|grad=4B|typ=Jug,Spricka|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=52|namn=Spinoff|grad=5A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|uteslutningar=ja|text=Hylla till höger utesluten}}
+{{problem|nr=53|namn=Énfase|grad=6A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|startgrepp=ja|text=}}
+{{problem|nr=54|namn=Boten Anna|grad=4B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=55|namn=Spinefarm|grad=3B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=56|namn=Toadlick|grad=3A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=57|namn=In Blanco|grad=3A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=58|namn=Mistress|grad=5A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|uteslutningar=ja|text=Hylla till höger utesluten}}
+{{problem|nr=59|namn=It´s a trap|grad=4C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=60|namn=Kanisku Nuusko|grad=5C|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=61|namn=Heiluri|grad=7A+|typ=Krimp,Layback|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|uteslutningar=ja|text=Stora sprickan och allt höger om denna är utesluten.}}
+{{problem|nr=62|namn=Helpo|grad=5A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=63|namn=Märkä|grad=4C|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=Rakt upp vid siffran.}}
+{{problem|nr=64|namn=Focus puller|grad=4B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=65|namn=Kladdkakan|grad=4A|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=}}
+{{problem|nr=66|namn=Giron|grad=7B|typ=Krimp,Slopers,Överhäng|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|startgrepp=ja|text=}}
+{{problem|nr=67|namn=Greven|grad=7B|typ=Krimp,Layback,Överhäng|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|startgrepp=ja|text=Sittstart mitt för siffran}}
+{{problem|nr=68|namn=Boulder balcony II|grad=6C|typ=Krimp,Överhäng,Dyno|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=69|namn=Grim fandango|grad=4B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=Ensamt problem strax innan 73/74}}
+{{problem|nr=70|namn=Aska|grad=6B+|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=71|namn=Glöd|grad=6A+|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=72|namn=Sot|grad=6B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|text=}}
+{{problem|nr=73|namn=King sting|grad=5B|typ=|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|text=Start på hyllan längst till höger med båda händerna. Följ kanten upp till toppen och mantla.}}
+{{problem|nr=74|namn=Kung Tung|grad=6C|typ=Krimp|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|uteslutningar=ja|text=Arete till höger uteslutet.}}
+{{problem|nr=75|namn=The Pledge|grad=7A|typ=Krimp,Slopers,Layback|fa=SBO-Crew 2006|landning=1|sopad=SBO-Crew 2006|sittstart=ja|uteslutningar=ja|text=Arete till vänster uteslutet. Grad ändrad från tävlingsprotokollet.}}
+|}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

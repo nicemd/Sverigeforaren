@@ -1,0 +1,67 @@
+{{info klippa
+  |lat=59.19837
+  |long=18.39671
+}}
+
+{{komplett}}
+
+==Allmänt==
+Fint berg 300 m söder om Gritstoneberget rakt ovanför vändplanen vid vägens slut.
+
+==Karaktär==
+Hela väggen är svagt överhängande men många av lederna är klart lättare än vad de ser ut att vara tack vare ett stort utbud av gorillagrepp som dyker upp ur ingenstans. Nedstigning sker enklast via kaminen i väggens högerkant. Det är förbjudet att parkera på vändplanen så använd samma parkering som för Gritstoneberget. Ännu en klippa med huvudsakligen borrbultsklättring men några av lederna är traditionellt säkrade, i vissa fall traditionellt osäkrade! I gamla stockholmsföraren kallas detta berg "Södra Ällmoraberget". 
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.205646" lon="18.378239" type="map" zoom="13" width="300" height="225" controls="small">
+59.19837, 18.39671
+[[Ällmoraberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Allmoraberget
+lat=18396710
+long=59198370
+</slresa>
+</div> 
+
+Ällmoraberget ligger längs norra sidan av Ällmoravägen på västsidan av halvön. Gritstone-klippan ligger 30 m från vägen uppe i skogen mitt emot tomt nr 92-94-96. Parkera längs med vägen.
+Se även [[Gritstoneberget]].
+
+==Miljö==
+Sydväst, halvöppet. Ingen mossa.
+
+{{clear}}
+==Leder==
+===Vänstra delen===
+[[Bild:Ällmoraberget.png|center]]
+{{litentext|text=Den vänstra, något lägre delen av klippan avgränsas från den högra och intressantaste delen av en tydlig kaminliknande spricklinje. Ytterligare th finns ännu en markant spricka. Mellan dessa båda spricklinjer är väggen som högst och brantast. Klippan avslutas åt h av en kamin. Brant och ansträngande klättring dominerar.}} 
+
+{{led|nr=1|namn=Åsnebryggan|grad=7|längd=12|fa=[[Thomas Hansson]], [[Johan Luhr]] [[-89]]}}
+{{led|nr=2|namn=Det kan inte vara sant|grad=7/7+|längd=12|fa=[[Johan Luhr]] [[-89]]}}
+{{led|nr=3|namn=Schäferhunden|grad=6+|längd=12|fa=[[Marco Kupiainen]], [[Mats Olofsson]] [[-95]]}}
+{{led|nr=4|namn=Pucko|grad=5+|längd=10|fa=[[Niklas Björnerstedt]], [[Jan Liliemark]] [[-89]]}}
+{{led|nr=5|namn=Behöver en kick|grad=7-/7|längd=10|fa=[[Daniel Bidner]], [[Niklas Björnerstedt]] [[-89]]}}
+{{led|nr=6|namn=Vädra den väldige|grad=7-|längd=12|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=7|namn=Använd P-skiva|grad=6-|längd=9|fa=[[Lars Svadängs]], [[Niklas Björnerstedt]], [[Jan Liliemark]], [[Jeremy Sheehan]], [[StaffanEricsson]] [[-89]]}}
+
+===Mitten===
+{{led|nr=8|namn=De lugnaste|grad=7|längd=12|fa=[[Niklas Björnerstedt]], [[Jan Liliemark]] [[-89]]}}
+{{litentext|text=Mitt på det överhängande partiet går ett oavslutat projekt.}}
+{{led|nr=9|namn=Szeretek|grad=8-/8|längd=15|fa=[[Johan Luhr]] [[-89]]}}
+{{led|nr=10|namn=Tungrott|grad=7+/8-|längd=15|fa=[[Johan Luhr]], [[Jan Liliemark]] [[-89]]}}
+{{led|nr=11|namn=Koka stora möbler|grad=7|längd=14|fa=[[Jan Liliemark]], [[Niklas Björnerstedt]] [[-89]]}}
+{{led|nr=12|namn=Sömnlöshet|grad=6+|längd=14|fa=[[Niklas Björnerstedt]], [[Jan Liliemark]], [[Staffan Ericsson]] [[-89]]}}
+
+===Högra delen===
+{{led|nr=13|namn=Inget för Staffan Ericsson|grad=7-|längd=14|fa=[[Jan Liliemark]], [[Niklas Björnerstedt]], [[Staffan Ericsson]] [[-89]]}}
+{{led|nr=14|namn=Snett uppåt|grad=6+|längd=~20|fa=[[Jan Liliemark]], [[Johan Luhr]] [[-89]]}}
+{{led|nr=15|namn=Förstörd av etiken|grad=6|längd=12|fa=[[Jan Liliemark]], [[Niklas Björnerstedt]], [[Staffan Ericsson]] [[-89]]}}
+{{litentext|text=Th om nedstigningskaminen finns en liten vägg.}}
+{{led|nr=16|namn=Något för oss alla|grad=5|längd=18|fa=[[Peter Brolin]], [[Per Calleberg]], [[Staffan Ericsson]], [[Buster Delin]], [[Kaj von Damm]], [[Hasse Hellström]] [[-89]]}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Saknar kolumner]] [[Kategori:Sport]]
+[[Kategori:Stockholm]] [[Kategori:Tyresö]]

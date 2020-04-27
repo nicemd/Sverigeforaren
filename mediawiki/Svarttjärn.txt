@@ -1,0 +1,122 @@
+{{info klippa
+  |lat=59.26048
+  |long=18.46692
+}}
+
+{{utkast}}
+==Allmänt==
+Mycket överhängande klippa med några av stockholms hårdaste leder, däribland {{ledlänk|klippa=Svarttjärn|namn=Gränslandet}}, 8c/8c+.
+
+==Extern Förare==
+Förare med skiss finns på [http://www.plonk.se/snf/svarttjarn.html Stockholms Nätförare]
+
+(saxat från Plonk)
+
+<b>Varning!</b>
+Det stora blocket tv om överhängande väggen, ute på Svarttjärn, har flyttat sig ca 1 - 1.5 meter ner mot skogen. Ett mindre block (ca 1 ton) som tidigare varit inkilat mellan blocket och väggen bakom, har rasat ned på hyllan tv om Corn Flakes och fler är på väg ner.
+Det är inte lämpligt att klättra på de tre till fyra lederna som går på blocket. När blocket, som uppskattnigsvis väger 150 - 200 ton, bestämmer sig för att glida den sista biten innan det rullar ned i skogen framför klippan så vill man inte vara inklippt i en eller flera av borrbultarna!
+
+==Vägbeskrivning==
+
+[[bild:Svarttjärn.jpg|thumb|left|300px|Svarttjärn. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.26048" lon="18.46692" zoom="14" type="map" controls="small">
+59.26048,18.46692,[[Svarttjärn]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Svarttjarn
+lat=18466920
+long=59260480
+</slresa>
+</div> 
+
+Värmdöleden 222. Avfart Ingarö/Gustavsberg mot Ingarö. Höger efter Brunn, vänster in på Enkärrsvägen, höger in på Svarttjärnsvägen.
+
+Parkera och gå in in skogen. (Svårt att hitta, använd GPS eller kartan på [http://plonk.se/oldsite/svarttjarn.html SNF])
+
+<div style="clear:both;"></div>
+
+==Leder==
+Det finns många fler leder än dessa. 
+
+=== Överhängande väggen ===
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Vilken skojig liten sak|grad=6b+|betyg=|längd=|fa=[[Fredrik Malmros]]|bultar=|typ=sport}}
+
+{{led|namn=Okänd 1|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Corn flakes|grad=7b+|betyg=3|längd=|fa=[[Johan Boman]]|bultar=|typ=sport}}
+
+{{led|namn=Gränslandet|grad=8c|betyg=|längd=|fa=[[Peter Bosma]]|bultar=|typ=sport}}
+
+{{led|namn=Paff|grad=8a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Start i Powertrip och vänster in i Gränslandet på mitten}}
+
+{{led|namn=Powertrip|grad=8b|betyg=|längd=|fa=[[Johan Boman]]|bultar=|typ=sport}}
+
+| width="300px" |
+
+{{led|namn=Kristallbandet|grad=8b|betyg=|längd=|fa=[[Peter Bosma]]|bultar=|typ=sport}}
+
+{{led|namn=Anatomi|grad=8a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Periferi|grad=7c+|betyg=|längd=|fa=[[Johan Boman]]|bultar=|typ=sport}}
+
+
+'''Varianter'''
+{{led|namn=Rhythm n' stealth|grad=8b+|typ=sport|fa=|text=Kristallbandet-powertrip}}
+{{led|namn=Bloodfeast|grad=8b|typ=sport|fa=|text=Powertrip-Kristallbandet}}
+
+|}
+
+=== Mitten-väggen ===
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Den svages fel|grad=5c+|betyg=|längd=|fa=[[Mats Olofsson]]|bultar=|typ=trad}}
+
+{{led|namn=Den starkes rätt|grad=7a|betyg=|längd=|fa=[[CT]]|bultar=3|typ=sport}}
+
+{{led|namn=Dumskallarnas sammansvärjning|grad=5c+|betyg=|längd=|fa=[[CT]], [[Mats Olofsson]]|typ=trad}}
+
+{{led|namn=Close to the edge|grad=7a|betyg=|längd=|fa=[[CT]]|bultar=5|typ=sport|text=Areten}}
+
+| width="300px" |
+
+{{led|namn=Huvudet i väggen|grad=6c|betyg=|längd=|fa=[[CT]], [[Mats Olofsson]]|bultar=2|typ=sport}}
+
+{{led|namn=Icon of light|grad=6c|betyg=|längd=|fa=[[CT]], [[Mats Olofsson]]|bultar=3|typ=sport|text=Känslig dieder. En kil känns skönt}}
+
+{{led|namn=Swing low|grad=6c|betyg=|längd=|fa=[[Mats Olofsson]]|bultar=5|typ=sport}}
+|}
+
+=== Rasväggen ===
+{{led|namn=Svaghetens moral|grad=6c|betyg=|längd=|fa=[[Mats Olofsson]], [[CT]]|bultar=2|typ=mix}}
+
+{{led|namn=Besegra vardagen|grad=7a|betyg=|längd=|fa=[[CT]], [[Mats Olofsson]]|bultar=5|typ=sport}}
+
+{{led|namn=Rasist|grad=6a+|betyg=|längd=|fa=|bultar=|typ=trad|text=Projekt}}
+
+=== Röda väggen ===
+{{led|namn=Nunneörten|grad=5a|betyg=|längd=|fa=[[Mats Olofsson]], [[CT]]|bultar=|typ=trad}}
+
+{{led|namn=Klosterlikör|grad=8?|betyg=|längd=|fa=|bultar=|typ=trad|text=Stängt projekt}}
+
+{{led|namn=Bouef Borgoisie|grad=7|betyg=|längd=|fa=|bultar=|typ=|text=Stängt projekt}}
+
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Category:Överhäng]]
+[[Category:Vertikalt]]
+[[Category:Sport]]
+[[Category:Trad]]
+[[Category:Saknar skiss]]
+[[Category:Saknar vägbeskrivning]]
+[[Category:Saknar kolumner]]

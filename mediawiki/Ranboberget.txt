@@ -1,0 +1,24 @@
+{{utkast}}
+==Allmänt==
+Ranboberget ligger ca 15 km från Söderhamn. Klipporna vätter mot söder och är av flera hundra meters längd. Högsta höjden torde vara 15-20 m. Denna höjd återfinner man bara på en
+sträcka av 100 m, medan resten av klipporna består av mossiga hällar.
+Området har även en del möjlig bouldering.
+
+==Kommunikationer==
+
+Med bil; från länsväg 301 tar man av höger på den första avtagsvägen
+efter Ranbogården (servering). Berget syns från stora vägen, men
+försvinner bakom skogen när man kommer närmare. Det är dock inte svårt
+att hitta. Med buss; se [[Olberget]].
+
+Ungefärliga GPS-koordinater: Lat: N 61º 19' 24.69" Long: E 16º 47' 57.40"
+
+==Leder==
+
+
+{{led|nr=1|namn=The Lost Corner|längd=8|grad=6 |gruv=b|betyg=2 |typ=trad|fa=Mikael Bäckman 1979|text= Fritt: Buster Delin, Per Calleberg och Peter Brolin, 1986 Tydligt dieder i gul-röd klippa som startar från hyllan ovanför ett stort, grottliknande överhäng.}}
+[[Bild:Lost_Corner.jpg|thumb|300px|center|Per Calleberg på The Lost Corner, 1979. Foto: Per Callebergs arkiv.]]
+
+[[Kategori:Saknar karta]] [[Kategori:Saknar skiss]] [[Kategori:Saknar leder]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

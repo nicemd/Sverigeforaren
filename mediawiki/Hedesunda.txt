@@ -1,0 +1,79 @@
+=Allmänt=
+Bouldringen i Hedesunda har utvecklats av Stefan Eklund från Uppsala. Enligt Stefan finns det potential för många fler fina problem där ute. Se föraren för de problem som just nu finns.
+
+=Vägbeskrivning=
+
+<googlemap version="0.9" lat="60.39231" lon="17.10818" type="map" zoom="11" width="500" height="300">
+60.38300, 17.03483, Landablocken
+60.35040, 17.02103, Sandsnäs
+60.40095, 17.05525, Ölbo
+60.42994, 17.10029, Kraftledningsblocken
+</googlemap>
+
+=Sektorer=
+==Landa==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Wayland|grad=7A|typ=Krimp,Överhäng|fa=Stefan Eklund|landning=4|betyg=2|fadatum=2005-10-01|sopad=Stefan Eklund|text=Landablocken. Den överhängande arêten mellan de största blocken.}}
+{{problem|namn=Wayland assis|grad=7B|typ=Krimp,Slopers,Överhäng|fa=Stefan E|landning=4|betyg=2|fadatum=2005-10-01|sopad=Stefan E|sittstart=ja|text=Landablocken. Kroppstung sittstartsförlängning till Wayland.}}
+{{problem|namn=Tommy Boy|grad=6B|typ=|fa=Stefan E|landning=1|fadatum=2005-10-01|sopad=Stefan E|sittstart=ja|text=Landablocken. Sittstarta den låga arêten på det största blocket.(variant; använd inte greppen till vänster 6c).}}
+| width="250px" |
+{{problem|namn=Visitörerna|grad=6A+|typ=Krimp|fa=Stefan E|landning=2|betyg=1|fadatum=2005-10-28|sopad=Stefan E|text=Landablocken. Den fina väggen höger om trädet vid tommy boy.}}
+{{problem|namn=Värmebölja|grad=5A|typ=Hangel|fa=H Skoog|landning=3|betyg=|fadatum=2011-07-08|sopad=H Skoog|sittstart=ja|text=Ett vasst uppvärmningsproblem. Börja sittandes under taket där det undre blocket är kluvet, traversera runt vänstra hörnet och vidare längst bort på den låga väggen. Toppa ur..}}
+| width="250px" |
+{{problem|namn=Blade|grad=7C+|typ=Krimp,Pinch,Dyno|fa=Stefan Eklund|landning=3|betyg=3|fadatum=2006-04-16|sopad=Stefan Eklund|text=Lättaste vägen upp vid arêten på sockerbiten. Supercoolt sluggerproblem som kanske är hårdare.}}
+{{problem|namn=Vagabond|grad=7B+|typ=Krimp,Dyno|fa=Stefan E|landning=4|betyg=1|fadatum=2007-08-25|sopad=Stefan E|text=Ett par meter höger om Blade, rakt uppför väggen på krimpar.}}
+|}
+
+==Sandsnäs==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Idyll|grad=6C+|typ=Krimp,Överhäng|fa=Stefan E|landning=1|betyg=2|fadatum=2005-10-28|sopad=Stefan E|sittstart=ja|text=Blocket vid badplatsen vid Sandsnäs. Sittstart vid flaket i överhänget, klättra upp å höger. 3 stjärnor så fort jag borstat den bättre...}}
+
+| width="250px" |
+
+| width="250px" |
+
+|}
+
+==Ölbo==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Fuss|grad=6C|typ=Arête|fa=H Skoog|landning=3|sittstart=ja|betyg=1|fadatum=2011-09-29|sopad=H Skoog|text=Arêten vid det lilla taket på blocket på hygget. Sittstarta vid arêten och snedda in under taket, klättra upp och mantla ur åt vänster. Allt inom räckhåll från arêten är OK. Fu, ståstarten från grepp under taket, är 6B+}}
+
+| width="250px" |
+{{problem|namn=Sträcket|grad=5B|typ=Mantling|fa=H Skoog|landning=4|fadatum=2011-11-13|sopad=H Skoog|text=Blocket på hygget. Börja med händerna på hyllan och mantla upp.}}
+
+| width="250px" |
+{{problem|namn=Flugornas herre|grad=5B|typ=Arête|fa=H Skoog|landning=4|fadatum=2011-07-10|sopad=H Skoog|text=Den vänstra arêten på blocket i skogskanten}}
+{{problem|namn=Biten|grad=6A|typ=Vägg|fa=H Skoog|landning=3|betyg=|fadatum=2011-07-10|sopad=H Skoog|text=Blocket i skogskanten. Starta vid den halvmåneformade listen och gå rakt upp}}
+|}
+
+==Kraftledningsblocken==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Okänt|grad=?|typ=Slabb|fa=?|landning=3|betyg=|fadatum=|sopad=?|text=Stora stenen. Upp vid den gröna pilen på slabben vid sidan längst bort ifrån vägen}}
+
+| width="250px" |
+{{problem|namn=Glimning|grad=5A|typ=Mantling|fa=H Skoog|landning=3|betyg=|fadatum=2011-06-28|sopad=H Skoog|text=Ett litet block i skogskanten, lite längre bort från vägen. Sittstart från bra grepp vid den lätt överhängande sidan}}
+
+| width="250px" |
+{{problem|namn=Corona|grad=6B|typ=krimp, sloper|fa=H Skoog|landning=4|betyg=1|fadatum=2011-06-28|sopad=H Skoog|text=Lågt block, synligt ifrån vägen, nära parkeringen. Sittstart vid rampen under överhänget}}
+|}
+
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

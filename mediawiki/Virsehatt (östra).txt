@@ -1,0 +1,86 @@
+{{info klippa
+  |lat=56.797718
+  |long=13.024185
+}}
+
+
+{{komplett}} 
+
+==Allmänt==
+Beskrivning: Klippan är 6-8 m hög och hyser både överhängande samt sva klättring. Samtliga av lederna säkras med kil möjligheten att sätta topprep är god.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="56.797718" lon="13.024185" zoom="14">56.797718, 13.024185, Virsehatt</googlemap>
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Enklaste sättet att hitta hit är från Oskarström. Kör från Oskarström mot Simlångsdalen och naturreservatet Virsehatt, väl framme vid reservatet passerar man en äldre byggnad med vasstak, Virsestuga. Gå rätt upp i rasbranten bakom det lilla huset till vänster om torpet ca 50m nu står du under klippan.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:virsehatt2.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Ugglan|grad=5-|typ=trad|betyg=2|bultar=|längd=7|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Samma start som Orren men sedan vänster, går att säkra.}}
+
+{{led|nr=2|namn=Orren|grad=4-|typ=trad|betyg=2|bultar=|längd=7|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Klättra upp mitt på väggen}}
+
+{{led|nr=3|namn=Tjädern|grad=4+|typ=trad|betyg=2|bultar=|längd=7|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Något svårare än det ser ut att vara, dock välsäkrad.}}
+
+{{led|nr=4|namn=Gladan|grad=6-|typ=trad|betyg=2|bultar=|längd=7|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Håll kroppen en på höger sida av hörnet, crux mot toppen. }}
+
+{{led|nr=5|namn=Höna|grad=7-|typ=trad|betyg=2|bultar=|längd=8|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Starten är lätt klättring som övergår i ångest attack i slutet. Topprep rekommenderas. 
+}}
+
+{{led|nr=6|namn=Projekt|grad=1|typ=trad|betyg=3|bultar=|längd=8|fa=[[i]] -08|text=ledbeskrivning}}
+
+{{led|nr=7|namn=Fulsparven|grad=5+|typ=trad|betyg=2|bultar=|längd=7|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Väggens bästa led, klättring på stora grepp hela vägen upp. Svår att toppaur.
+}}
+
+{{led|nr=8|namn=Svartmes|grad=6-|typ=trad|betyg=2|bultar=|längd=8|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Klättra diedern, säkringar sitter halvbra, något lös klippa. Ett försatt toppankare är att rekommendera.}}
+
+{{led|nr=9|namn=Rödhake|grad=5|typ=trad|betyg=2|bultar=|längd=7|fa=[[Michael Gullvert Pernilla Karlsson]] -03|text=Traverser väggen från höger till vänster}}
+
+==Kontakt==
+
+För bilder och mer info kolla [http://www.eskapader.se Eskapader]
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+ [[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+ [[Kategori:vertikalt]] 
+<!-- [[Kategori:överhäng]] -->
+
+
+
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Halland]]

@@ -1,0 +1,53 @@
+{{info klippa
+  |lat=57.537
+  |long=12.00093
+}}
+
+{{stub}}
+<googlemap lat="57.537" lon="12.00093" zoom="9" type="map">
+57.537,12.00093,Sandsjöbacka
+</googlemap>
+
+==Allmänt==
+Vackert naturområde som bjuder på klättring både på låga väggar, mellanhöga vägar och normalhöga väggar (20 meter). 
+
+== Text ==
+Egentligen är det mest bouldering i området.
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+== Access ==
+Klippan ligger i ett naturreservat. Klipporna saknar fasta installationer, dvs det finns inga borrbultar, fasta kilar eller pitonger. Nybultning ej tillåten.
+
+{{AccessDB|klippa=sandsjobacka}}
+
+== Kollektivtrafik ==
+Närmsta busshållplats är Maleviksvägen, ta Blå Express ifrån Göteborg, eller Kungsbacka.
+
+==Vägbeskrivning==
+
+
+
+== Leder ==
+
+{{led|namn=Mango|grad=6|fa=Johan Nilson, Niklas Björnerstedt & Lars Ingemansson}}
+{{led|namn=Äppelkriget|grad=6|fa=Lars Ingemansson & Niklas Björnerstedt}}
+{{led|namn=Transparente Blanche|grad=6|fa=Sem Larsen & Lars Ingemansson}}
+{{led|namn=Granny Smith|fa=lars Ingemansson & Ola Ingemansson|grad=5+}}
+{{led|namn=Moai|grad=?}}
+{{led|namn=Victoria|fa=Lars Ingemansson & Ola Ingemansson|grad=6}}
+
+
+{{led|namn=Kaiser Alexender|grad=7|fa=Lars Ingemansson & Ola Ingemansson}}
+{{led|namn=Jaffa|grad=6+|fa=Lars Ingemansson & Arne Roos}}
+{{led|namn=Chiquita|grad=6-|fa=Lars Ingemansson}}
+{{led|namn=Reine Claude|grad=6|fa=Sem Larsen & Lars Ingemansson}}
+{{led|namn=Jaffa|grad=6+|fa=Lars Ingemansson & Arne Roos}}
+
+{{led|namn=Cronan På verket|grad=6|fa=Ragnar Crona & Peter Wennberg}}
+{{led|namn=Tre stora Friends|grad=6-|fa=Ragnar Crona & Peter Wennberg}}
+{{led|namn=Ol'Blue Eyes|grad=E5/6 6b|fa=Mattias Karlsson}}
+{{led|namn=Cox Orange|grad=7-|fa=Sem Larsen & Lars Ingemansson}}
+{{led|namn=Atomic Wedgie|grad=7-|fa=Magnus Lindstedt & Mark Austin}}
+{{led|namn=Greve Moltke|grad=4|fa=Ola Ingemansson & Clas Österberg}}
+
+[[Kategori:Göteborg]]

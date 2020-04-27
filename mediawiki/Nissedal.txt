@@ -1,0 +1,52 @@
+{{stub}}
+
+http://www.osifjell.no/arkiv/klatreforer_nissedal.pdf<br>
+http://www.rockfax.com/climbing-guides/miniguides/nissedal/<br>
+http://www2.idrottonline.se/ImageVaultFiles/id_366383/cf_359/Nyturer_i_Nissedal.PDF
+
+===Haegefjell===
+{{led|namn=Unicorn|betyg=1|grad=7|längd=410|typ=mix}}
+{{led|namn=Fevervogel|grad=6+}}
+{{led|namn=Long live|grad=6+}}
+{{led|namn=Misery|grad=7}}
+{{led|namn=Hegar|betyg=5|grad=6+|fa=|längd=555}}
+{{led|namn=Mot sola|betyg=5|grad=6-|text=En fin tur där flera av replängderna är sprickor i grad 5/5+. Mestadels trad, även om det kan sitta en bult här och var. |fa=|typ=mix|längd=385}}
+{{led|namn=Hoph Zing|grad=6+|betyg=2|fa=|typ=mix}}
+{{led|namn=Slow motion|grad=7-/a1}}
+{{led|namn=Reize som mond|grad=7+}}
+{{led|namn=Banana split|grad=7+}}
+{{led|namn=Ja vi elsker|grad=7 eller 7-/a1}}
+{{led|namn=Du gamla du fria|grad=7 eller 7-/a1}}
+{{led|namn=Svenskrute|grad=?}}
+{{led|namn=Texas Ranger|grad=7 a0}}
+{{led|namn=Tyrion|grad=7|fa=}}
+{{led|namn=Rain|grad=6+|längd=480|typ=mix}}
+{{led|namn=Agent Orange|grad=5+|typ=mix|text=Välsäkrad/välbultad led, mycket populär. |betyg=2|fa=|längd=450}}
+{{led|namn=Sternschnuppe|betyg=3|typ=trad|text=Trevlig trad-led. Finns lite olika avslut men originalavslutet följer rampen mot Revens ankare|grad=6-|fa=|ängd=430}}
+{{led|namn=Reven|grad=6-|betyg=2|fa=|typ=mix|text=Fin och varierad klättring. }}
+{{led|namn=Gone with the weed|fa=|grad=6-|typ=mix}}
+{{led|namn=Via Lara|grad=4|betyg=3|text=Välsäkrad lätt multipitch-trad som följer ett spricksystem med fler sprickor. |fa=|längd=380}}
+{{led|namn=Via Linn|grad=6-}}
+{{led|namn=Tjallen|grad=6+}}
+{{led|namn=Å være våt er for Jævlig|grad=6+|längd=300}}
+
+===Baremlandsfjellet===
+{{led|namn=Next stop Oslo|grad=6+}}
+{{led|namn=Nordlicht|grad=7+}}
+{{led|namn=Spionführe|grad=6+|betyg=4|fa=}}
+{{led|namn=Die weisse Schwein|grad=7-}}
+{{led|namn=Tynn i Toppen - Saft i Roten|grad=6}}
+{{led|namn=Harry Pothead|grad=6-|typ=sport|längd=110|betyg=2|fa=}}
+{{led|namn=?|grad=7-|typ=sport|text=Leden går precis till höger om Harry Pothead. Graden nämns i forumet på Brattesider.no[http://www.brattesider.no/index.php?option=com_smf&Itemid=130&topic=9408.0]|ny=1|fa=}} 
+
+===Langfjell===
+{{led|namn= Potensverlenger|grad=6+|längd=545}}
+{{led|namn=Lyngos und Lyngmyr|grad=6|betyg=1|längd=520}}
+{{led|namn=Nisser Diagonale|grad=5|längd=460}}
+
+===Nipen===
+{{led|namn=Nipen|grad=7+|längd=205}}
+
+
+[[Kategori:Multipitch]]
+[[Kategori:Norge]]

@@ -1,0 +1,84 @@
+{{info klippa
+  |lat=59.31278
+  |long=18.10387
+}}
+
+{{komplett}}
+[[Kategori:Sport]]
+[[Kategori:Stockholm]]
+[[Kategori:Stockholm City]]
+[[Kategori:Vertikalt]]
+
+==Allmänt==
+Högt sprängberg med några fina leder.
+
+==Karaktär==
+Klippan är vänd mot väst. Solen kommer till klippan för att försvinna bakom husen på andra sidan kanalen senare under kvällen. Den torkar dock snabbt efter regn.
+
+Karaktären på klippan är att den har många vassa kanter. Greppen är inte de vanliga utan mer av karaktären sidogrepp eller små hyll-liknande grepp (Lätt att halka av när klättraren kliver upp - balans krävs!). Det leder till att lederna kan kännas annorlunda än vanliga leder i Stockholm. Ett rörelsemönster som kanske främst kommer i något högre grader. Lederna fostrar klättrare med mindre väl utvecklat fotarbete. De vanligast förekommande graderna ligger i 6-registret. En del av lederna kan ha första bulten lite längre upp än vad klättraren önskar vid första anblicken. Spotta! Så känns det genast bättre. På vissa ställen kan kajkanten vara ganska smal, vilket lätt leder till att repändan hamnar i vattnet. Det rekommenderas att repet dras snabbt ner för att i möjligast mån undvika ett rep-dopp.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.31278" lon="18.10387" zoom="14" type="map" controls="small">
+59.31278,18.10387,[[Kanalklippan]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Kanalklippan
+lat=18103870
+long=59312780
+</slresa>
+</div> 
+
+
+Sprängklippa som ligger vid Danvikstull. Åk över Danvikstullsbron mot Nacka och sväng höger vid trafikljusen. Åk upp på höjden och parkera vid husen. Gå ner vid trapporna mot vattnet. Samtliga leder är borrbultade med ankare. Nära till det populära Boule & Berså där man kan avnjuta tjeckisk öl och bra musik som After Climb (ta med cash, dom tar inte kort). Enklare pizzeria på Klippan. Rester av väderkvarn direkt där man klättrar upp. Mer info på [http://www.danviksklippan.se]
+ 
+Led 4, 7 och 13 har fått nya/restaurerade ankare dec 2007. 
+
+<div style="clear: right;"></div>
+
+==Skiss==
+{{lagerbild|bakgrund=Bild:Kanalklippan_ledfoto.jpg|lager1=Bild:Kanalklippan_leder.png}}
+
+{{lagerbild|bakgrund=Bild:Kanalklippan_struktur.png|lager1=Bild:Kanalklippan_leder.png}}
+
+<div style="clear: right;"></div>
+
+==Leder==
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=1|namn=Mittsund express|grad=6-|fa=[[Linnea Larsson]], [[Mikael Widerberg]]|typ=sport|bultar=5}}
+
+{{led|nr=2|namn=Stormvarning|grad=6+|fa=[[Mikael Widerberg]]|typ=sport|bultar=9}}
+
+{{led|nr=3|namn=Exhibitionisten|grad=6|fa=[[Tony Johannessen]], [[Mikael Johansson]]|typ=sport|bultar=6}}
+
+{{led|nr=4|namn=Styrman stake|grad=6|fa=[[Tony Johannessen]]|typ=sport|text=
+Har fått nytt/restaurerat ankare dec 2007.}}
+
+{{led|nr=5|namn=Kanalterror|grad=8-|fa=[[Patrik Agerkrans]]|typ=sport|text=Leden mitt på klippan. En led med ett markant krux vid den överhängande delen.}}
+
+{{led|nr=6|namn=Kanalen|grad=7- (6-)|betyg=2|fa=[[Johan Luhr]], [[Rikard Hedman]]|typ=sport|text=Fin, teknisk led. Gå antingen hela vägen upp (7-) eller fira av på limbultarna på Patrik Agerkrans led. Går att bygga topprepsankare med långslinga till bultarna på PA's led.}}
+
+{{led|nr=7|namn=Publikfriarn|grad=6-|betyg=1|fa=[[Mikael Johansson]]|typ=sport|bultar=ca 7|text=Lång, välsäkrad och varierad led. Bult 2 syns inte från marken så misströsta inte, början är inte så farlig som den ser ut. Har fått nytt/restaurerat ankare dec 2007. En ring och en karbin som ankare (10 juli 2008)}}
+
+| width="300px" |
+
+{{led|nr=8|namn=Stockholm sighseeing|grad=6-|fa=[[Linnea Larsson]]|typ=sport|bultar=5}}
+
+{{led|nr=9|namn=Helt galen|grad=5+|fa=[[Mikael Widerberg]], [[Linnea Larsson]]|typ=sport|bultar=5|text=Slutar mitt på väggen med 2 bultar som ankare.}}
+
+{{led|nr=10|namn=Apa i bur|grad=5|fa=[[Mikael Widerberg]]|typ=sport|bultar=8}}
+
+{{led|nr=11|namn=Pick pocket|grad=6|fa=[[Linnea Larsson]], [[Mikael Widerberg]]|typ=sport|text=Välsäkrad led med bra ankare.}}
+
+{{led|nr=12|namn=Bitch|grad=7-|fa=[[Birgitta Nilsson]], [[Tony Johannessen]]|typ=sport}}
+
+{{led|nr=13|namn=Håll käften båtnisse|grad=6+|fa=[[Tony Johannessen]]|typ=sport|text= Skönt överhäng på slutet! Har fått nytt/restaurerat ankare dec 2007.}}
+
+{{led|nr=14|namn=Vi slänger dynamit på motorbåtarna|grad=6|fa=[[Mikael Widerberg]], [[Linnea Larsson]]|typ=sport}}
+
+|}

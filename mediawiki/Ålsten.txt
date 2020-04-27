@@ -1,0 +1,66 @@
+{{boulderutkast}}
+
+==Allmänt==
+Stort flyttblock med överhängande väggar på tre sidor
+
+== Vägbeskrivning==
+== Gammal förare ==
+
+[http://plonk.se/oldsite/foraren/alsten/alsten.gif Plonks orginal förare]
+Flera av problemen har sedan Plonks sammanfattning sett sina förstabestigningar samt tillkomst av nya(?). Nedan är en textsammanfattning från forum/scorecards av vad som är dagsaktuellt. Komplettera gärna med vad du vet.
+
+== Uppdatering ==
+'''Ålstensskogen'''
+
+[http://27crags.com/crags/alsten/topos/alstensskogen-vanstra Ålstensskogen vänstra sidan]
+[http://27crags.com/crags/alsten/topos/alstensskogen-hogra Ålstensskogen högra sidan] Bör finnas många problem längs väggen. Parkering på Per Albins väg, följ stora stigen 75 m längs med vattnet på andra sidan ängen. Samma stig åt andra hållet går till Ålstensblocket.
+
+{{problem|namn=Min Arête|grad=?|text=}} 
+{{problem|namn=Äpplen|grad=?|text=}} 
+{{problem|namn=Päron|grad=?|text=}} 
+{{problem|namn=Ofarlig|grad=3|text=}}
+{{problem|namn=Oktober|grad=?|text=}}  
+{{problem|namn=Min Arête|grad=?|text=}} 
+{{problem|namn=Antonius Block|grad=?|text=}}
+Starta på den horisontella pinchen.
+
+'''Ålsten'''
+
+{{problem|namn=Paladinos Aréte|grad=6C-7A|text=SS, vä hand på stort grepp hö hand på hög crimp. Upp via aréten. Superb för vinterklättring! (=nästan alltid torr) Nr 2 på plonks bild}}
+
+{{problem|namn=Bluto|grad=6C+-7A+|text=SS, under taket till höger om Paladinos aréte vä om problem 3, start på crimpers; catch till pinch och mantla.}}
+
+{{problem|namn=Karlssons Aréte SS|grad=6C-7A|}} 
+
+{{problem|namn=Popeye|grad=6C|text=SS, Ett fint ca:20 gradigt överhängande problem på östsidan av blocket.}} 
+
+{{problem|namn=Ladugårdsdörr SS|grad=6B|text=Startar på Branta sidan (?) ngn meter från Karlssons Arete på goda grepp i tvärsprickan.}}
+
+{{problem|namn=Diesel|grad=7B+|text=Startar mitt på mitt på väggen i krimpers, drar sen höger till startgreppet på Paladinos arete och sen upp utan aréten.}} 
+
+{{problem|namn=Olivia|grad=7A+-7B|text=Travers från väster och avslutas med Popeye.}} 
+
+{{problem|namn=Död Mans Kista|grad=6B+|text=På lilla blocket norr om stora blocket. Travers från vä till hö på slopers startar dock på ett par krimpers.}}
+
+{{problem|namn=Lite Kraft ss|grad=6B|text=Den gröna linjen på bilden "Branta sidan". Startar på två små grepp ovanför huvudet. Ett lite hårdare move upp till feta sprickan och sedan vidare rakt upp.}}
+
+{{problem|namn=Slör ss|grad=6A|text=Den vita linjen på bilden " Mindre branta sidan".}}
+
+{{problem|namn=Pesto ss|grad=6B|text=Den gula linjen på bilden " Mindre branta sidan".}}
+
+Lägger till några bilder. 
+
+'''Den branta sidan, den som vetter mot parkeringen, och de problem som går där.''' 
+[[Bild:Ålsten, Branta sidan.jpg]]
+Från vänster: Lila: Karlsson Arete, 7A Gula: Feta sprickan, 5+,6A Röda: Ladugårdsdörr, 6B Svart: Disel, 7B+ Ljusröd: Paladinos Arete, 6C, 7A Grön: Lite Kraft 6B
+
+'''Mindre Branta sidan:''' 
+[[Bild:Ålsten Mindre-branta sidan Ostlig.jpg]]
+Pesto, 6B Gul: Slör, 6A Vit.
+Karlssons Arete till Höger
+
+'''Bluto:'''
+[[Bild:Ålsten-Bluto-komp.jpg]]
+
+'''Projektet bortanför Bluto'''
+[[Bild:Ålsten-Projekt.jpg]]

@@ -1,0 +1,97 @@
+{{info klippa
+  |lat=67.680518
+  |long=20.549583}}
+
+{{boulderutkast}}
+
+= Allmänt =
+Obelisken Bouldering - Ett enda Jätteblock!
+
+När samtalet kom, i september 2006, av en gammal vän, var det både med skepticism och hoppfullhet vi åkte ut för att undersöka saken. Ett enda jätteblock? Efter diverse felkörningar och några samtal stod vi vid anmarschen som en och en halv minut senare skulle ta oss till en märklig syn: Ett jätteblock ensamt ute i naturen där det liksom ståtligt visade sin glans. Obelisken. 
+
+= Karaktär =
+Klättring, eller bouldering på Obelisken, är  tämligen annorlunda från det vi vant oss vid uppe i KaiseNjarga. Karaktären är mer crimpbetonad och fingerstyrka premieras. Antalet sidor på blocket är många så vi namngav dessa sidor efter bästa förmåga. Ett roligt tillskott som är väl värt några besök om året. Blocket har väl inte samma sten kvalité som det som finns i Njarga, men helt okej ändå. Graderingen är naturligtvis den franska Fontainebleu skalan och hittills har ett fåtal problem öppnats. Det totala antalet ”linjer” torde hamna någonstans runt tjugo eller t.o.m. tjugofem! Här finns också något för alla, då svårighetsgraden sträcker sig från ca font 3 till projekt på 8a? I övrigt kan det sägas att linjerna är lite tokigt nära varandra ibland, vilket medför att det kan vara lätt att villa bort sig! Trots det är de flesta linjer ändå så pass tydliga, att det inte ska vara några problem. Skulle man nu råka komma fel på de problem detta gäller, så gör väl det heller ingenting för den delen.
+
+=Vägbeskrivning=
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=300 lat="67.680518" lon="20.549583" zoom="11" type="map">
+67.680518,20.549583,[[Obelisken]]
+</googlemap>
+</div>
+
+Från Kiruna, kör söderut (E10) mot Luleå. När du passerat Altajärvi, håll ögonen öppna och ta av höger ”Kalixfors skjutfält”. Följ vägen till bommen. Kör sedan igenom och följ denna väg i ca 1 mil. Var uppmärksam och stanna ca 200 m före en tydlig röd bom vid en otydlig p-ficka på höger sida som bara rymmer en bil. På motsatt sida finns också en liten ficka. Härifrån (hö sida) finns en liten stig som tar en nedför. Efter ca 1 till 1½ minut skymtas blocket rakt fram och ett imponerande överhäng (45-50 grader). Problem från vänster.
+
+<div style="clear:right;"></div>
+
+=Sektioner=
+
+[[Bild:3115_obelisk1.jpg|thumb|center|600px|Obelisken. Foto: Krister]]
+
+==MINIHÄNGVÄGGEN==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Pisse räv traskar igen|grad=3A+|typ=Sva|fa=Antti Stålnacke|landning=1|fadatum=2008-06-19|text=}}
+{{problem|namn=Slig|grad=5C|typ=Mantling,Överhäng|fa=J.Carlsson|landning=1|fadatum=2006-10-9|sopad=
+JC|sittstart=ja|text=}}
+{{problem|namn=Rabiessmittad mört|grad=6B+|typ=Mantling,Överhäng|fa=David Nutti|landning=1|betyg=3|fadatum=2008-06-19|sopad=David Nutti|sittstart=ja|text=}}
+| width="250px" |
+
+|}
+
+==TOKHÄNGET==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Gränslandet|grad=5A|typ=Överhäng|fadatum=2006-10-19|sittstart=ja|text=Samma start som projekt, men mantling över på sva till vä}}
+{{problem|namn=PacMan|grad=7B+|typ=Överhäng|fa=David Nutti|landning=3|betyg=3|sopad=?|text=Sitstart i mitt på juggar, travers vä till kant, följ sedan denna hö upp till topp}}
+{{problem|namn=Street Fighter|grad=7B|typ=Överhäng|fa=J.Hughes|landning=3|betyg=3|sopad=?|text=börjar stående med crimpskivan, följ aret till topp}}
+{{problem|namn=Mortal Kombat|grad=7B|typ=Krimp,Överhäng|fa=Pudde Hansson -07|landning=3|betyg=3|sopad=Pudde Hanson|text=Start i mitt, rakt upp via tydlig crimplinje till jugg på kant.}}
+{{problem|namn=Projekt!Mortal Kombat assis|grad=7C|typ=Krimp,Överhäng|fa=?|landning=3|betyg=3|sopad=Pudde Hanson|text=Sittstart rakt under på små tydliga crimpers. Därefter givetvis ovanstående problem. Ihållande.}}
+{{problem|namn=Projekt!Obelisken?|grad=7c?|typ=Överhäng|fa=?|landning=3|betyg=3|sopad=?|text=Tydlig ramp med sidepulls rakt upp till högsta toppen av hänget. Desperat?}}
+{{problem|namn=Bomberman|grad=ograderad|typ=Överhäng|fa=J.Hughes|landning=3|betyg=3|sopad=?|text=Ståstart i hörnet längst till höger, uppenbar krimpsidepull. rakt uppåt.}}
+| width="250px" |
+|}
+
+==LILLA VÄGGEN==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Pungspark|grad=6B|typ=Överhäng|fa=Pudde Hansson|landning=2|betyg=2|fadatum=2006-10-9|sopad=Pudde Hansson|sittstart=ja|text=Följ den tydliga pelaren, ”prowen” rakt upp.}}
+{{problem|namn=Hoppematta|grad=5A|typ=|fa=Janne Carlsson|landning=2|betyg=2|fadatum=2007-05-19|sopad=Janne Carlsson|sittstart=ja|text=}}
+{{problem|namn=Snö är löjligt|grad=5A|typ=|fa=Janne Carlsson|landning=2|fadatum=2007-05-19|sopad=Janne Carlsson|sittstart=ja|text=}}
+{{problem|namn=Höstrusk|grad=5A|typ=|fa=Janne Carlsson|landning=2|betyg=2|fadatum=2006-10-9|sopad=Janne Carlsson|sittstart=ja|text=}}
+{{problem|namn=Lavskägge|grad=6A+|typ=Överhäng|fa=Pudde Hansson|landning=2|betyg=2|fadatum=2006-10-9|sopad=Pudde Hansson|text=Start strax innan nästa väggdel på tydliga jugg - grepp.}}
+{{problem|namn=Lavskägge assis|grad=6C+|typ=Överhäng/arrete|fa=Tony Hanssen|landning=2|betyg=2|fadatum=2011-04-6|sopad=Pudde Hansson/Tony Hanssen|text=Sit-start på tak i bunnen av arret m/hælkrok og opp mot starten til Lavskägge. Kan være gått tidligere. }}
+| width="250px" |
+|}
+
+==HB==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Frisören och frisyren|grad=7A|typ=Överhäng|fadatum=''Pudde Hansson 2008''|sittstart=ja|text=}}
+{{problem|namn=Vrålet från hålet|grad=4C|typ=Highball|fa=Pudde Hansson|landning=2|betyg=3|fadatum=2007-06-19|sopad=Pudde Hansson,J.Carlsson|startgrepp=ja|text=Start på tydlig jugghylla}}
+{{problem|namn=Nybörjarskriet|grad=6A|typ=Highball|landning=4|betyg=3|fadatum=''Pudde Hansson, J.Carlsson 2007''|sopad=Pudde Hansson,J.Carlsson|text=}}
+| width="250px" |
+|}
+
+==BAKSIDAN==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Punk Hannas Rage|grad=3A|typ=|fa=Hanna Drugge|landning=3|betyg=2|fadatum=2008-06-19|sopad=Hanna Drugge|text=}}
+{{problem|namn=spider flesh|grad=5B|typ=|fa=Madelene Strängdal|landning=2|betyg=2|fadatum=2008-06-19|sopad=Madelene Strängdal|text=}}
+{{problem|namn=Nedstigen|grad=2C|typ=|fa=Davve Nutti|landning=2|fadatum=2008-06-19|sopad=JC,PH|text=}}
+| width="250px" |
+|}
+
+
+
+[[Kategori:Kiruna]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,113 @@
+{{info klippa
+  |lat=59.19340
+  |long=17.84853
+}}
+
+{{komplett}}
+==Allmänt==
+Klippa i grönområde i bostadsområde. Relativ mörk och murrig plats bland granar och därmed viss skugga. Vertikal kompakt vägg av det hårdare slaget. En hel del rostiga bladbultar och annat sitter i väggen som annars erbjuder relativt få naturliga placeringar.
+
+En mindre vägg, i förlängningen - till vänster om den huvudsakliga - erbjuder något svaigare klippa, med lättare leder, och även större solchanser. Viss varning för brännässlor.
+
+En mindre vägg lite längre bort, höger om huvudväggen, erbjuder överhängande turer.
+
+==Vägbeskrivning==
+Ta av från Dalvägen i Tumba mot Storvreten. Efter 1 km ta v på Odlingsvägen mot Storvretsskolan. Parkera vid badet. Åker du kollektivt kan du ta buss mot Storvreten från Tumba station.
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.19340" lon="17.84853" zoom="14" type="map" controls="small">
+59.19340,17.84853,[[Tumbaklippan]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Tumbaklippan
+lat=17848530
+long=59193400
+</slresa>
+</div> 
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+===Vänstra partiet===
+[[Bild:Tumba_lilla.png]]
+
+Ligger ca 100m tv om huvudväggen
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Spektralstenen|grad=4|betyg=|längd=10|fa=[[Tomas Hansson]], [[Gary Hansson]] [[1986|-86]]|bultar=|typ=trad}}
+
+{{led|nr=2|namn=Herman Görings workout|grad=7|betyg=1|längd=10|fa=[[Gary Hansson]], [[Thomas Hansson]] [[1986|-86]]|bultar=|typ=trad}}
+
+{{led|nr=3|namn=Netrom såg|grad=6+|betyg=1|längd=10|fa=[[Mårten Dahlström]], [[Mikael Wegrelius]] [[1985|-85]]|bultar=|typ=mix}}
+
+| width="350px" |
+
+{{led|nr=4|namn=Rymdens vampyrer|grad=7|betyg=|längd=8|fa=[[Tomas Hansson]], [[Gary Hansson]] [[1986|-86]]|bultar=|typ=mix}}
+
+{{led|nr=5|namn=IQ fiskpinne|grad=7-|betyg=|längd=8|fa=[[Gary Hansson]], [[Thomas Hansson]] [[1986|-86]]|bultar=|typ=trad}}
+
+{{led|nr=6|namn=Anfäkta och anamma|grad=5|betyg=|längd=5|fa=[[Gary Hansson]], [[Thomas Hansson]] [[1986|-86]]|bultar=|typ=trad}}
+|}
+
+===Huvudväggen===
+[[Bild:Tumba_huvudvaggen.png]]
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=7|namn=Walter vårtläps kräldjursfarm|grad=7a|betyg=1|längd=9|fa=[[Tomas Hansson]], [[Gary Hansson]] [[1986|-86]]|bultar=|typ=sport|text=Står som 7+/8- i gamla stockholmsföraren}}
+
+{{led|nr=8|namn=Razorback|grad=7b+|betyg=1|längd=9|fa=[[Tomas Hansson]] [[1987|-87]]|bultar=|typ=sport}}
+
+{{led|nr=9|namn=Nuke the Yuppies|grad=7a|betyg=2|längd=9|fa=[[Gary Hansson]], [[Thomas Hansson]] [[1988|-88]]|bultar=|typ=sport}}
+
+{{led|nr=10|namn=Diesel and dust|grad=7+|betyg=|längd=9|fa=[[Tomas Hansson]], [[Gary Hansson]] [[1988|-88]]|bultar=|typ=sport}}
+
+{{led|nr=11|namn=Enslingen|grad=6c|betyg=|längd=12|fa=[[Mikael Wegrelius]], [[Mårten Dahlström]] [[1985|-85]]|bultar=|typ=sport}}
+
+{{led|nr=12|namn=Ultra Pampers plus|grad=7a|betyg=1|längd=12|fa=[[Rikard Hedman]], [[Thomas Hansson]], [[Johan Luhr]] [[1989|-89]]|bultar=|typ=sport}}
+
+{{led|nr=13|namn=Love bites|grad=7b|betyg=|längd=12|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1989|-89]]|bultar=3|typ=sport}}
+
+| width="350px" |
+
+{{led|namn=XM1|grad=6b|betyg=|längd=|fa=[[Mikael Widerberg]], [[Linnea Larsson]]|bultar=|typ=sport}}
+
+{{led|nr=14|namn=Grodor och glasspinnar|grad=6a+|betyg=|längd=11|fa=[[Lena Helmersson]], [[Mikael Wegrelius]] [[1985|-85]]|bultar=|typ=trad}}
+
+{{led|nr=15|namn=Fun crack|grad=6c|betyg=|längd=9|fa=[[Mårten Dahlström]], [[Mikael Wegrelius]] [[1985|-85]]|bultar=|typ=mix}}
+
+{{led|nr=16|namn=Kapten Haddock|grad=6a|betyg=|längd=8|fa=[[Tomas Hansson]], [[Gary Hansson]] [[1986|-86]]|bultar=|typ=trad}}
+
+{{led|nr=17|namn=Lola pagola|grad=6a+|betyg=|längd=7|fa=[[Tomas Hansson]], [[Gary Hansson]] [[1986|-86]]|bultar=|typ=mix}}
+
+{{led|nr=18|namn=Släng dig i väggen|grad=6c+|betyg=|längd=7|fa=[[Daniel Bidner]] [[1985|-85]]|bultar=|typ=mix}}
+
+{{led|nr=19|namn=Warum bist du so rauh|grad=6a+|betyg=|längd=6|fa=[[Mikael Wegrelius]], [[Daniel Bidner]] [[1985|-85]]|bultar=|typ=mix}}
+|}
+
+===Högra väggen===
+{{led|nr=1|namn=?|grad=~5|betyg=0|längd=~5|fa=[[Johan Luhr]] [[2010]]|bultar=~3|typ=sport|text=mycket lös}}
+{{led|nr=2|namn=?|grad=~7c|betyg=0|längd=~7|fa=[[Johan Luhr]] [[2010]]|bultar=~5|typ=sport|text=}}
+{{led|nr=3|namn=?|grad=7b|betyg=0|längd=~7|fa=[[Johan Luhr]] [[2010]]|bultar=~5|typ=sport|text=}}
+{{led|nr=4|namn=?|grad=7a|betyg=0|längd=~7|fa=[[Johan Luhr]] [[2010]]|bultar=?|typ=sport|text=går nästan inne i kaminen}}
+{{led|nr=5|namn=?|grad=~8a|betyg=0|längd=~7|fa=[[ogjord]]|bultar=~5|typ=sport|text=första turen höger om kaminen, följer areten}}
+{{led|nr=6|namn=?|grad=7c|betyg=0|längd=~7|fa=[[JL?]] [[2003-2006?]]|bultar=4|typ=sport|text=}}
+{{led|nr=7|namn=?|grad=?|betyg=0|längd=~7|fa=[[ogjord]] |bultar=~5|typ=sport|text=}}
+{{led|nr=8|namn=?|grad=?|betyg=0|längd=~7|fa=[[ogjord]] |bultar=~5|typ=sport|text=}}
+{{led|nr=9|namn=?|grad=6c|betyg=0|längd=~7|fa=[[Reino Liimatainen]] |bultar=~5|typ=sport|text=}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Sport]]
+[[Kategori:Mix]]
+[[Kategori:Trad]]
+[[Kategori:Vertikalt]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]

@@ -1,0 +1,43 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Grottan==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Méga Grotte|grad=7B+|typ=Krimp,Slopers,Överhäng|fa=Fredrik Bodin|landning=3|betyg=3|fadatum=2007-06-25|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Startar längst in i grottan vid prickarna (grepp på höger sida om prickarna). Väggen till höger om startgreppen är ej med. Följer hyllan ut och upp i "La Grotte Grosse".}}
+{{problem|namn=La Grotte Grosse|grad=7A+|typ=Krimp,Överhäng,Jug|fa=Fredrik Bodin|landning=2|betyg=3|fadatum=2007-06-25|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på hyllan, går rakt ut över överhänget och upp på kortsidan.}}
+{{problem|namn=Fingersättning|grad=7A+|typ=Krimp|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2007-07-01|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart vid prickarna (samma som "Tungrott"), går rakt upp.}}
+| width="250px" |
+{{problem|namn=Tungrott|grad=7A|typ=Krimp,Överhäng,Jug|fa=Fredrik Bodin|landning=2|betyg=3|fadatum=2007-06-25|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på juggen (prickar), följer areten hela vägen upp.}}
+{{problem|namn=Mer Tungrott|grad=7A+|typ=Krimp,Överhäng,Jug|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2007-06-25|sopad=Fredrik Bodin|sittstart=ja|uteslutningar=ja|text=Startar längst in under taket med händerna på jugen (prickar), går rakt ut och upp i "Tungrott". Väggen till vänster i början är ej med.}}
+{{problem|nr=1|namn=Fat Camp aka Grottesk Variant|grad=7C|typ=Krimp,Överhäng,Jug|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2008-05-26|sopad=Fredrik Bodin|sittstart=ja|variant=ja|startgrepp=ja|text=Startar lika som Grottesk, traverserar sedan ut åt vänster genom taket och upp på kortsidan. Pilar med nummer finns att följa.}}
+| width="250px" |
+{{problem|nr=2|namn=Grottesk|grad=7B+|typ=Krimp,Överhäng,Jug|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2007-06-29|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart nere i gropen, går rakt bak runt bullen och fortsätter sedan rakt ut och upp på kortsidan.Stora hyllan nere till vänster är ej med, likaså skravlet uppe till höger.}}
+|}
+==Blocket==
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Meckar Micke|grad=6C+|typ=Krimp,Överhäng|fa=Per Wermelin & Fredrik Bodin|landning=3|betyg=2|fadatum=2004-06-28|sopad=Per Wermelin & Fredrik Bodin|sittstart=ja|text=Startar till höger om överhänget. Följ taket hela vägen ut och avsluta sen rakt upp.}}
+{{problem|namn=Feng Shui|grad=7B|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=2|betyg=3|fadatum=2004-06-30|sopad=Fredrik Bodin|sittstart=ja|variant=ja|text=Sittstart nere till vänster i överhänget, avsluta som Blockage.}}
+{{problem|namn=Blockage|grad=6A|typ=Krimp|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2004-06-21|sopad=Fredrik Bodin|text=Går rakt upp.}}
+{{problem|namn=Solitär|grad=6C+|typ=Krimp|fa=Fredrik Bodin|landning=2|betyg=1|fadatum=2004-06-30|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart till höger om arêten, går rakt upp.}}
+| width="250px" |
+{{problem|namn=Explosivo|grad=7A|typ=Krimp,Aréte|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2004-06-21|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart till vänster om arêten, går rakt upp.}}
+{{problem|namn=Mea Culpa|grad=7A|typ=Krimp,Överhäng,Dyno|fa=Fredrik Bodin|landning=3|betyg=3|fadatum=2004-07-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på den inre jugen i taket, går rakt ut och upp.}}
+{{problem|namn=Mumfie|grad=6C|typ=Krimp,Överhäng,Aréte|fa=Per Wermelin|landning=4|betyg=2|fadatum=2004-07-06|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Startar till höger om nerstigningsrampen. Följ aréten åt höger och avsluta sen rakt upp.}}
+| width="250px" |
+{{problem|namn=Bimbo|grad=6A|typ=Krimp,Slopers,Jug|fa=Peter Nilsson|landning=3|betyg=1|fadatum=2004-06-21|sopad=Peter Nilsson|sittstart=ja|text=Sittstart med händera på den lägsta hyllan. Går upp med en lätt dragning åt höger. Bra att värma på.}}
+{{problem|namn=Kundalini|grad=7B|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2004-07-15|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart, går rakt upp.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

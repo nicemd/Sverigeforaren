@@ -1,0 +1,73 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=57.143132
+  |long=12.214823
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Norra Näs ligger strax norr om Varberg och erbjuder fantastisk boulering nära havet. Området är ganska koncentrerat och i dagsläget omfattar området c:a 40 problem på både friliggande block och väggar med potential för många fler. Klippan är fast och ren, dock ganska vass med mycket kristaller. Det sliter därmed ordentligt med hud när man besöker Norra Näs och oftast är det skinnet som ger vika före styrkan när man är tvungen att ge upp. Området ligger precis intill havet, utan skydd för väder och vind, det torkar snabbt efter regn och man kan alltid klättra i skuggan på något av blocken oavsett tidpunkt på dagen. Förare över området är på gång och kommer inom obestämd framtid att läggas ut här.
+
+Tänk på grannarna i närheten och för en låg profil samt vara diskret vid borstandet av nya problem. 
+
+
+
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.151234" lon="12.219887" type="map" zoom="13">
+57.105407, 12.250836
+Varberg, Sverige
+57.14268, 12.214823, Norra Näs, Varberg
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+Från Varberg kör man norrut mot Rasta, sväng vänster i rondellen vid Lindhov och fortsätt på Åsklostervägen. Vid Bläshammar tar man vänster mot Trönninge Näs och följer vägen fram tills man kör igenom en gård (visa hänsyn och håll låg fart!), kör igenom gården och ta första höger då man kommer ner till vattnet och hamnen. Följ sedan Håhallaägen så man har vattnet på vänster sida.
+Parkerar gör man bäst vid EL-centralen på Håhallavägen och därifrån ser man första väggen i riktning mot havet.
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+{|
+|- valign="top"
+| width="350px" |
+
+
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Halland]]

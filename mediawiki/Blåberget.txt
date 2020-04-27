@@ -1,0 +1,181 @@
+{{info klippa
+  |lat=63.9162469106397
+  |long=18.8535690307617
+}}
+
+{{utkast}}
+==Allmänt==
+Klassiskt tradberg 9 mil väster om Umeå. Stora väggen är ungefär 60 m hög och har många leder av klass. Ofta en spricka från botten till toppen.  Många leder har en brantare första replängd, och en flackare lite enklare andra replängd.  Lilla väggen är runt 40 m hög och brantare, de flesta leder är vertikala eller lätt överhängande.
+
+==Standardrack==
+Eftersom de flesta replängder är runt 30 meter så behövs ett större rack än ett vanligt svenskt [[Tradrack|tradrack]]; placerar du en punkt varannan meter samt två punkter i stand så behöver du 16 säkringar per replängd. För den som är duktig på att hitta kilplaceringar kan många leder göras säkert med ett dubbelt rack kil samt några få kamkilar eller häxor. Idag använder dock de flesta ett standardrack bestående av ett set kil samt ett set små kamsäkringar från fingertoppar till fingrar och ett och ett halvt till två set kamsäkringar från fingrar till handjam med en extra i knytnävsstorlek.
+
+En jämförelse mellan olika kamsäkringar i [http://www.sverigeforaren.se/images/0/02/Tabell-kamkilar.pdf pdf-format].
+
+==Vägbeskrivning==
+===Normalvägen===
+Från kusten på väg 92 via Bjurholm: Efter Balsjö kommer en flygraka. Efter flygrakan och ytterligare en lång raksträcka sväng vänster mot: ''Ö Nyland 2 km''. Inne i byn svänger du vänster igen mot Bredträsk. Kör ca 1 km, och ta rakt fram i nästa korsning där en väg svänger av till höger mot Bredträsk. Efter en kort bit svänger du av mot vänster på en liten skogsbilväg.
+
+Håll vänster i Y-korsningen efter ett par kilometer. 
+
+Ungefär 4 km från det att man svänger in på skogsbilvägen ligger Blåberget. När du får syn på berget borde du också 
+kunna se en liten parkering. Vid parkeringen går en tydlig stig som startar med en trapp upp mot klippan. Här finns även en liten bäck med dricksvatten. På väg upp mot klippan passeras en platå med vindskydd, eldstad, utedass och tältplatser.
+
+För att hitta till lilla väggen följ skyltningen, korsta bron och följ sedan blå snittsling. Ungefär 100 meter efter bron så dyker en stig upp mot höger, tag av på den och följ den i 40 meter uppåt backen, sväng sedan vänster på en tunn stig. Se även karta nedan
+
+===Alternativ väg===
+Vägen in från söder är torrare och att föredra under maj månad.  Några kilometer efter '''Bjurholm''' längs väg 92 sväng in mot '''Karlsbäck'''. Efter man kört över Lögdeälven i byn '''Nedre Nyland''' (ungf 13 km efter man svängt av från väg 92) så tar man av första höger mot '''Abborrtjärn''' och kör knappt en kilometer innan man svänger av när första skogsbilsvägen grenar av mot höger. Skogsbilsvägen har en liten skylt som pekar mot ''Slottestjärn''. Fortsätt rakt fram där vägen grenar sig mot tjärnen. Håll höger i nästa y-korsning och Blåbergets lilla vägg blir strax synlig.
+
+
+<googlemap lat="63.9162469106397" lon="18.8535690307617" zoom="9" type="map">
+63.9162469106397,18.8535690307617,Blåberget
+</googlemap>
+[[Bild:Blaberget-overview.jpg]]
+
+==Förare==
+Finns att köpa på från [http://www.ukhk.se Umeå Klätter- och Högfjällsklubb] eller [http://utebutiken.se/ Utebutiken i Umeå]. 
+[[Kategori:trad]] [[Kategori:vertikalt]] [[Kategori:sva]]
+
+==Bilder==
+[[Bild:fenix.jpg|thumb|350px|Fredrik Nyberg klättrar {{ledlänk|namn=Fenix}}<BR>Foto: [[Användare:Utomjording|Pär Lindholm]]]]
+[[Användare:Nyberg fredrik|Fredrik Nyberg]]s bilder från [http://www.flickr.com/search/?q=bl%C3%A5berget&w=12641780%40N07 Blåberget].
+
+==Nya leder==
+Nya leder, och leder som friats sedan senaste utgåvan av Umeföraren:
+
+{{led|namn=Trädkramaren|grad=6|typ=mix|gruv=c|längd=20|ny=ja|text=Starta ifrån trädet på kojhyllan. Klättra rakt upp ifrån det bultade ankaret.|fa=[[Jens Åström]] [[2004]]}}
+
+{{led|namn=Lust och fägring|grad=8|gruv=c|typ=mix|bultar=4|längd=20|ny=ja|fa=[[Krister Jonsson]] [[2005]]|text=Firningspisten till vänster om Till Anki. Fin sva och väggklättring på mindre grepp. Det går sätta en acceptabel kamkil i fingerstorlek en bit upp (typ 3-4 meter ovan hyllan).  Annars bultad.}}
+
+{{led|namn=Molnets broder|grad=5-|typ=mix|längd=30|ny=ja|fa=[[Tommy Nilsson]] [[2004]]|text=Separat andra replängd till Gemini. Ta sikte på en liten dieder till vänster om '''Gemeni'''s andra replängd. Några borrbultar.}}
+
+{{led|namn=Kursleden|grad=5+|ny=ja|typ=trad|längd=60|text=Går på en pelare mellan vänsterdelen och ikaros-väggen. Starta på pelarens vänstra sida, vid ett dieder.|fa=[[Tommy Nilsson]] [[2005]]}}
+
+{{led|namn=Ett boulder gör inte leden|grad=6|ny=ja|typ=mix|längd=30|fa=[[Jens Åström]] [[2007]]|text=Aréten mellan Vikingasvärdet och Taknöten. Gemensam första bult och instegsboulder med Vikingasvärdet. En kil, resten bult?}}
+
+{{led|namn=Känsla för snö|grad=7-|gruv=b|typ=trad|längd=15|fa=[[Joakim Söderström|FFA J. Söderström]] [[2008]]|text=Tidigare aid/mixled, som nu friats.}}
+
+{{led|namn=Ingenjör Söderströms irrfärd|grad=8|gruv=b|typ=trad|ny=ja|längd=26|fa=[[Joakim Söderström|J. Söderström]], [[Erik Massih|FFA E. Massih]] [[2008]]|text=Efter det lilla taket på Hugga klättrar man diagonalt upp åt vänster i drygt 15 meter till dess man når väggens vänsterkant som man följer upp till en hylla med ett bultat ankare.}}
+
+{{led|namn=Taknöten|grad=7|gruv=c|typ=sport|längd=22|fa=[[Anders Lindh]] [[1993]]|text=Retrobultad. Två långa slingor (60cm eller längre) är bra på mittenpartiet. 6 bultar.}}
+
+{{led|namn=Mjölner|grad=7-,8- (7 A0)|ny=ja|typ=mix|längd=35, 20|fa=[[Tommy Nilsson|T. Nilsson]], [[1993]] [[Jonas Wiklund|J. Wiklund (FFA- 2a repl)]], [[2009]]|text=Andra replängden nu klättrad helt fritt.  Från utsteget på första replängd, gå rakt fram över hyllan och lokalisera ett överhängande dieder med två bultar.  Klättra diedret och sedan en slabb upp till en  hylla ([[gradsystem|7]]). Ett mycket hårt boulderproblem ([[Bouldergrader|Fb 7A+]]), eller drag i två säkringar (en bult och en kil : Wallnut #1 el liknande) leder till toppen.  Andra replängden helt bultad.}}
+
+{{led|namn=Pånyttfödd|grad=6-|gruv=c|typ=trad|ny=ja|längd=10|fa=[[Joakim Söderström|J. Söderström]] [[2009]]|text=Den markanta, mycket breda taksprickan som leder upp till Kojhyllan.  Klättrare med byxlinning över 30 tum göre sig knappast besvär. Camalot #6, solo eller topprep.}}
+
+{{led|namn=Styx direktinsteg|grad=7+|gruv=c|typ=mix|ny=ja|längd=35|fa=[[Joakim Söderström|J. Söderström]], [[Jonas Wiklund|J. Wiklund]] [[2009]]|text=Direktinsteg till Styx för de som inte har dubbelrep.  Gå upp mot "Stenen i skogen" och snedda tillbaka till dess ni kommer rakt under leden.  Samma grad som originalet. Bultar, bladbultar och eget. Ta med ett set friends och många kortslingor, gärna några 60 cm.  Bladbultarna placerades på tidigt 90-tal och fanns vara frächa när de kontrollerades 2008, men det är ingen garanti för att de håller...}}
+
+{{led|namn=Dr. Wiklunds känsla för luft|grad=9-|gruv=b|typ=sport|ny=ja|bultar=9|längd=21|fa=[[Jonas Wiklund]]|text=Ligger till höger på Lilla väggen och följer en markant linje genom ett litet tak upp mot ett renskuret arete.}}
+
+{{led|namn=Örnnäst-projektet|grad=projekt|typ=sport|ny=ja|bultar=8|längd=17|fa=[[Jonas Wiklund]]|text= Öppet projekt, grad 8-9.  Ligger strax till höger om {{ledlänk|namn=Dr. Wiklunds känsla för luft}}. Kliv in via den smala hyllan från höger.  Klipp första bulten med hjälp av en pinne (ytterligare en bult skall slås senare).  Inget ankare för närvarande så toppa ut på hyllan ovan. Det finns gott om träd att fira av från.}}
+
+{{led|namn=Kanten|grad=8|typ=sport|ny=ja|bultar=?|längd=25?|fa=[[Saku Korosuo]] [[2011]]|text= Starta från Kojhyllan i samma träd som {{ledlänk|namn=Trädkramaren}} men traversera ut höger till ytterhörnet och följ bultar upp till hyllan}}
+
+{{led|namn=Lansett|grad=7+|typ=sport|ny=ja|bultar=3|längd=7|fa=[[Jonas Wiklund]] [[2011]]|text=Kort arete längst stigen vid lilla väggen, just innan man kommer ut på sva med fast rep.  Förstebestigaren mantlade ut, men gör som ni vill}}
+
+==Rekommenderade leder==
+
+===Stora väggen===
+{{led|namn=Svanen|grad=5-|gruv=c|typ=mix|bultar=4|längd=25|fa=[[Jörgen Vikström]], [[Anders Strömberg]] [[1986]]|text=Rolig svaklättring}}
+
+{{led|namn=Gemini|grad=5-|gruv=b|typ=trad|längd=67|fa=[[Anders Lindh]] [[1993]]|text=På andra repan finns riktigt fin väggklättring.}}
+
+{{led|namn=Fallicruxus|grad=6-|gruv=b|typ=trad|längd=65|fa=[[Anders Fersters]], [[Anders Strömberg]] [[1986]]|text=Fin spricka som går från fingerstorlek till off-width. Två 30 meters replängder (6-; 5-). Välsäkrad och jämn klättring. }}
+
+{{led|namn=Ikaros|grad=6-|gruv=b|typ=trad|längd=60|fa=[[Tommy Nilsson]], [[Jörgen Vikström]] [[1986]]|text=En spricka från botten till toppen.}}
+
+{{led|namn=Lodlinjen|grad=7-|typ=sport|längd=60|text=Helbultad väggklättring. Backa gärna upp bladbulten vid taket med liten Alien.}}
+
+{{led|namn=Skiljelinjen|grad=6+|gruv=b|typ=trad|längd=65|fa=[[Tommy Nilsson]] [[1987]]|text=Klassiker. Första replängden är brant småstegsklättring. Andra replängden följer en renskuret dieder.}}
+
+{{led|namn=Till Anki|grad=4+|gruv=a|typ=trad|längd=50|fa = [[Anders Edström]] [[1990]]|text=Stort dieder, där andra replängden är riktigt fin.}}
+
+{{led|namn=Första färden|grad=7-|gruv=b|typ=trad|längd=20|fa=[[Tommy Nilsson]], [[Jörgen Vikström]](?), [[1985]], Första fria: [[Tomas Hansson]] [[1990]]|text=Brant spricka.}}
+
+{{led|namn=Zenithavenyn|grad=6+|gruv=b|typ=trad|längd=45|fa=[[Anders Lindh]] [[1987]]|text=Underbar vindlande spricka där förvånansvärt lite sprickteknik behövs.}}
+
+{{led|namn=Snipp|grad=6|gruv=a|typ=trad|längd=15|text=Fin handspricka. Tejpa.}}
+
+{{led|namn=Fenix|grad=6+|gruv=b|typ=trad|längd=20|text=Flakspricka. Av några ansedd som Blåbergets enskilt finaste replängd. Se upp med lös klippa på ledens övre del.  Ankaret är lite knasigt: en kedja som hänger ner runt ett träd.}}
+
+{{led|namn=Lambda 387|grad=7+|gruv=c|typ=trad|längd=25|fa=[[Per Håkansson]], 90-tal Första fria: [[Fredrik Wågberg]] [[2001]]|text=Efter det onödigt hårda insteget följer fantastisk sprickklättring. Sprickan börjar vid en nisch ca 3m upp. Starta vid Fenix och klättra upp 2m. Traversera sedan ut till nischen och klättra Lambdasprickan.}}
+
+===Lilla väggen===
+För att hitta till lilla väggen följ skyltningen, och korsta bron. Ungefär 100 meter efter bron så dyker en svag stig upp mot höger, tag av på den och följ den i 40 meter, sväng sedan vänster på en ännu tunnare stig. Följ blå snittsling, Se även kartan ovan.
+
+
+{{led|namn=Hugga|grad=7,7-|gruv=b|typ=trad|längd=50|fa=[[Anders Lindfors]]|text=Brant sprickklättring på första replängden efterföljs av teknisk klättrin i en öppen bok.}}
+
+{{led|namn=Ingenjör Söderströms irrfärd|grad=8|gruv=b|typ=trad|längd=26|fa=[[Joakim Söderström|J. Söderström]], [[Erik Massih|FFA E. Massih]] [[2008]]|text=Efter det lilla taket klättrar man diagonalt upp åt vänster i drygt 15 meter till dess man når väggens vänsterkant som man följer upp till en hylla med ett bultat ankare.}}
+
+{{led|namn=Kerberos|grad=7|gruv=c|typ=mix|bultar=6|längd=35|fa=[[Anders Lindh]]|text=Teknisk väggklättring med krux efter krux. Många hårda passager. En ren bestigning ger anledning till stolthet.}}
+
+{{led|namn=Dr. Wiklunds känsla för luft|grad=9-|typ=sport|bultar=|längd=21|fa=[[Jonas Wiklund]]|text=Ligger till höger på Lilla väggen och följer en markant linje genom ett litet tak upp mot ett renskuret arete.}}
+
+==Vinterleder och tekniska turer==
+
+Det finns en hel del vinterleder och aidleder som aldrig blivit ordentligt dokumenterade. Kanske det är dags nu?
+
+===Lilla väggen===
+{{led|namn=Svarta ormen|grad=A1/A2|typ=aid|bultar=|längd=30|fa=[[Johan Engström]] [[1999]]|text=Ca 5-10 m h om Svart Kaffe.  Insteg på rampens h kant, traversera ca 3 m tv på hyllan, följ sedan den tydliga fingersprickan till dess den slutar, ca 15m, traversera 2 m th, avsluta upp i den fingersprickan, ca 6m.}}
+
+{{led|namn=Tappad|grad=M5/WI5+|typ=trad|bultar=|längd=|fa=[[Krister Jonsson]] |text=Strax th om stora taket och upp över taket. Säkras med kil, bladbult och isskruv}}
+
+{{led|namn=Värre än väntat/Inga olyckor på julafton|grad=M6/7|typ=trad|bultar=|längd=30|fa=[[Krister Jonsson]] [[1999]]|text=Sommarleden ''Värre än väntat'' bestegs redan juldagen -99 av K. Jonson som en vintertur och kallades då "Inga olyckor på julafton".}}
+
+{{led|namn=Kaffesump?|grad=M6/7|typ=trad|bultar=|längd=30|fa=[[Krister Jonsson]]|text=Startar som Kaffesump och dra rakt upp där TLB går vänster, dvs till vänster om isen.}}
+
+===Stora väggen===
+{{led|namn=Felyx|grad=M6/7|typ=sport|bultar=8?|längd=18|fa=[[Krister Jonsson]] |text=Helbultad vintertur mellan Fenix och Lamda.}}
+
+{{led|namn=Blueberry thrill|grad=A?|typ=aid|bultar=|längd=18|fa=[[Krister Jonsson]] |text=Aidtur till höger om Felix.}}
+
+{{led|namn=Till Vanja|grad=M7+|typ=sport|bultar=8?|längd=18|fa=[[Krister Jonsson]] |text=Helbultad(?) vintertur till höger om Blueberry thrill.}}
+
+== Bultlogg ==
+
+Än så länge har inga leder bultats om, utan bultarna bör vara inslagna året för förstabestigning (se Umeföraren) eller åren strax innan.  För komplementeringsbultning gäller följande
+
+===2007?===
+Nya bultar på '''Taknöten'''
+
+===2005-6?===
+Firningspist över '''Ikaros'''. Övre ankaret helt nytt. Ankaret på första standplats fick en ny bult, den andra bulten från tidigare datum.
+
+Övre firningsankare på firningspisten som startar vid toppen av '''Steneld'''
+
+===2004===
+Samtliga bultar på '''Steneld''' slås in (tidigare helt naturlig led).
+
+===200?===
+Nya bultar på stand till '''Skiljelinjen'''
+
+=In English=
+==Description==
+A popular two-pitch tradcrag 90 km west of Umeå.  '''Stora väggen''' (the Great Wall) is around 60 m high, and is vertical to slabby. '''Lilla väggen''' (the Small Wall) is around 35 m high and vertical to slightly overhanging.
+
+The section [[Blåberget#Nya_leder|'Nya leder']] describes the routes that have been put up since the guidebook was printed.  The section [[Blåberget#Rekommenderade_leder|'Rekommenderade leder']] describes the best routes on Blåberget.  [[Blåberget#Vinterleder_och_tekniska_turer|'Vinterleder och tekniska turer']] describes mixed winter routes and aid routes.  There is also quite a lot of waterfall ice on 'Lilla väggen'.
+
+==Directions==
+
+From '''Umeå''' drive E12 west towards Vännes. After passing Vännesby take road 92 towards Bjurholm/Fredrika. After passing Balsjö there is are two long straightways. A short while after the second one there is a road sign pointing left towards '''Ö Nyland'''. Follow that road to the tiny village where you go left towards Bredträsk. Continue on that road for 1 km until the first crossing. Take left and continue for some 2-300 meters until you see a tiny logging road on the left. Follow that logging road for 4 km until you see the cliff on the right side. There is ample parking on both sides of the road.
+From the parking lot you follow a well worn trail up to the cliff. 
+
+==Season==
+
+It is possible to climb at the large wall from mid april, but the last 4 km of the road is not open during the winter. It is possible to drive the last bit after early may, but it can be a rough ride on spring afternoons. The shift from rockclimbing- to mixed conditions generally occurs somewhere around late october or early november.
+
+==Nuts and Bolts==
+
+The routes are quite long with both pitches around 30 m (110 foot), so a large rack is advisable. The minimalist rack should include at least one set of stoppers, with doubles in the midsizes, and a set of camming devices from 0.75 inches to 3.5 inches. (Friend #1 trough #4, or camalot #.5 to #3.5). For the harder routes small camming devices are useful. Bear in mind that most belays are not equipped with bolts.
+ 
+
+Generally speaking, Blåberget has very solid rock, but beware of rocks on ledges and on the clifftops. Be careful not to knock down any rocks when belaying from the top of the cliff!
+
+Down at the parking lot there is little or no reception for cellular phones, but at the main cliff the reception is fine.
+
+The letters '''a-e''' after the difficulty-grade on the route descriptions above refer to the [[Gruvsamhet#In%20English|'gruesomeness grade']].
+
+{{tryckt_förare|umeåföraren (2005)=ja}}
+[[Kategori:Västerbotten]] [[Kategori:Ångermanland]] [[Kategori:Engelska]] [[Kategori:Is]]
+[[Kategori:Klippa]]

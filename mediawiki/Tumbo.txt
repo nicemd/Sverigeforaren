@@ -1,0 +1,74 @@
+{{utkast|extern=ja}}
+==Allmänt==
+Bra nybörjarberg utanför Eskilstuna med korta och lätta borrbultade leder. Berget är av blockstenskaraktär, med gott om hyllor, sprickor, lister och juggar. Längden på lederna varierar mellan 10 och 15 meter. De flesta lederna har rejäla ankare.
+
+==Miljö==
+Lederna ligger i fyra sektioner. Den blockrika omgivningen gör det lite knöligt att röra sig mellan sektionerna, särskilt vid regn. Akta också huggormen. Större delen av lederna ligger i skugga och lär inte torka i första taget vid regn. Området vid högra partiet passar bra som lägerplats (dock inget tält).
+
+==Vägbeskrivning==
+Berget ligger någon kilometer från Tumbo, under en fornborg. Kör E20 från Eskilstuna mot Örebro/Göteborg. Sväng mot Västerås (väg 53). Direkt i första rondellen följer man skylt mot Tumbo (3km). Sväng vänster mot Arbåga (mitt i samhället, men före kyrkan). Efter 800 meter går en liten grusväg in till vänster. Ca 20 meter in på vägen finns en lite skylt "Fornborg 0.2". Parkering för två bilar är möjlig vid en vägbom. Följ grusvägen tills berget dyker upp på höger hand. Här finns också en igenväxt parkeringsskylt för fornborgen. Huruvida vägbommen stängs ibland är inte känt.
+
+<googlemap version="0.9" lat="59.445948" lon="16.33976" zoom="10">
+59.427544, 16.339917, Tumbo
+Tumbo, Eskilstuna, Sweden
+</googlemap>
+
+==Leder==
+===Vänstra sektionen===
+Fyra femmor och ett ankare. Längst ut till vänster på väggen. Här skiner solen vid bra väder.
+{{led|nr=1|namn=Ständig skörlevnad|grad=5b|betyg=|längd=14|fa=Andreas Harne 06
+ |bultar=4|typ=sport|text=Firningsankare. Aningen långt till första bulten.}}
+{{led|nr=2|namn=Främligen|grad=5a|betyg=|längd=14|fa=Andreas Harne 06
+ |bultar=4|typ=sport|text=Samma insteg och ankare som {{Ledlänk|namn=Ständig skörlevnad}}.Traversera ut till höger på hyllan efter 2:a bulten. Firningsankare.}}
+{{led|nr=3|namn=Okänt|grad=5b?|betyg=1|längd=14|fa=Okänt
+ |bultar=4|typ=sport|text=Samma ankare som {{Ledlänk|namn=Ständig skörlevnad}}. Dra ut mot höger efter 3:e bulten mot {{Ledlänk|namn=Nordinilino}}:s 4: bult (eller så är detta Nordinilino). Firningsankare.}}
+{{led|nr=4|namn=Nordinilino|grad=5a|betyg=|längd=14|fa=Micke Nordin/Johan Lundgren 2001
+ |bultar=4|typ=sport|text=Samma ankare som {{Ledlänk|namn=Ständig skörlevnad}}.}}
+{{led|nr=5|namn=Nordinilangelo|grad=5-|betyg=|längd=|fa=Micke Nordin/Johan Lundgren 2001
+ |bultar=|typ=trad|text=Inte klart var den går}}
+
+===Mittensektion, vänster===
+{{led|nr=6|namn=Tillägnad Jari|grad=5|betyg=|längd=|fa=Tobbe Lindh?
+ |bultar=1|typ=trad|text=}}
+{{led|nr=7|namn=Tallgläntan|grad=5+|betyg=|längd=|fa=Tobbe Lindh?
+ |bultar=2|typ=trad|text=}}
+{{led|nr=8|namn=Spökvinden|grad=5-|betyg=|längd=|fa=Andreas Harne 2006
+ |bultar=|typ=trad|text=}}
+{{led|nr=9|namn=Reliken|grad=4c|betyg=|längd=|fa=Andreas Harne 2006
+ |bultar=3|typ=sport|text=Svaled, med en gammal pitong. Ankare}}
+
+=== Mittensektion, höger===
+{{led|nr=10|namn=Sprickan|grad=5b|betyg=|längd=|fa=
+ |bultar=4|typ=sport|text=Utmärkt att använda för att öva friend- och kilplacering eftersom ett par fina sprickor löper längs leden. Inkluderar en pitong. Bra standplats vid ankare.}}
+{{led|nr=11|namn=SPA|grad=6a|betyg=|längd=|fa=Johnny Pettersson/Kent Mihlberg ca 1989
+ |bultar=3|typ=sport|text=Följ tre bultar längst ut på kanten. 4 juli, 2010: Den här har en extremt rostig bult vid kruxet (andra bulten) som ser fullständigt livsfarlig ut.}}
+
+===Nordväggen===
+Skuggig del av berget, med flest leder på vänstra plattan.
+{{led|nr=12|namn=Il Cattivo|grad=6b|betyg=|längd=|fa=Johan Lundgren/Micke Nordin 2001
+ |bultar=5|typ=sport|text=Sportled längst ut till vänster på väggen. Ankare.}}
+{{led|nr=13|namn=Cosa Nostra|grad=6c|betyg=|längd=|fa=Andreas Harne 2006
+ |bultar=4|typ=sport|text=Strax till höger om och med samma ankare som {{Ledlänk|namn=Il Cattivo}}.}}
+{{led|nr=14|namn=Il brutto|grad=5c|betyg=|längd=|fa=Kent Mihlberg solo ca 1989, Johan Lundgren/Micke Nordin 2001
+ |bultar=3|typ=sport|text=Till vänster om lilla taket. Ankare.}}
+{{led|nr=15|namn=Il bouno|grad=5b|betyg=1|längd=|fa=Johan Lundgren/Micke Nordin 2001
+ |bultar=4|typ=sport|text=Kul diederklättring och följande mantling upp på hylla till höger om taket mitt på väggen. Ankare.}}
+{{led|nr=16|namn=Smajl|grad=7+/8-|betyg=|längd=|fa=Thomas Lundgren 2002
+ |bultar=|typ=trad|text=Spricka inne vid hörnet}}
+{{led|nr=17|namn=Angreth på språng|grad=3c|betyg=|längd=|fa=Småklättrarna 2012
+ |bultar=|typ=trad|text=Diedret mellan Smajl och Trio}}
+{{led|nr=18|namn=Trio|grad=5a|betyg=|längd=10|fa=Harri Skyttborn/Michael Svensson ca 1989
+ |bultar=3|typ=sport|text=Den bultade leden på högra nordväggen. Ganska delikat insteg. Ankare.}}
+{{led|nr=19|namn=Mats Karbin|grad=3C|betyg=|längd=7|fa=okänt
+ |bultar=|typ=trad|text=Leden går i vänstra kanten på svapelaren}}
+
+==Beskrivning==
+En ny förare som täcker Tumbo, Simonsberget, Bistaberget samt andra berg i Södermanland har släppts i november 2006. Beställ via [http://www.dangerzone.se www.dangerzone.se]
+
+En gratisversion av Tumboföraren kan du hitta [http://www.klattring.net/?p=341 här]
+
+{{tryckt förare|klättring i södermanland (2006)=ja}}
+
+[[Kategori:Södermanland]]
+[[Kategori:Sport]]
+[[Kategori:Saknar skiss]]

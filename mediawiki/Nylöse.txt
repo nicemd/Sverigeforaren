@@ -1,0 +1,38 @@
+{{info klippa
+  |lat=57.73516
+  |long=12.01241
+}}
+
+{{utkast}}
+
+==Allmänt==
+Klippan som alla har sett som åkt 58an förbi SKF och kollat åt vänster och undrar vad det är. Endast mycket lokala klättrare kan tänkas vilja klättra här, alla andra fortsätter mot Utby/Fjällbo. 
+==Mer==
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+<googlemap lat="57.73516" lon="12.01241" zoom="9" type="map">
+57.73516,12.01241,Nylöse
+</googlemap>
+Vänstra berget ligger bakom idrottshallen medan högra berget ligger bakom Nylöseskolan, använd hitta.se för att hitta Nylöseskolan. (Berget är 400 meter ifrån SKF). 
+
+[[Bild:Nylose_oversikt.jpg]]
+
+==Vänstra berget==
+[[bild:vanstraberget.jpg]]
+{{led|namn=En böld i röven|grad=6+|fa=Fredrik Persson & Elisabeth Ohlsson}}
+{{led|namn=Keith Herring|grad=7a|typ=sport|fa=Henrik Sennelöv|text=Höger om taket finns lite bultar, starta ifrån andra bulten och klättra upp längs med areten. Leden går inte att missa!}}
+{{led|namn=Andy Warhol|grad=7-|fa=Henrik Sennelöv}}
+
+==Högra berget==
+
+[[bild:hograberget2.jpg]]
+
+[[bild:hograberget3.jpg]]
+{{led|namn=Crearasil|grad=7-|fa=Henrik Sennelöv&Robert Brunell}}
+{{led|namn=Minirisk|grad=5|fa=Camilla Ramstedt|text=Hörnet}}
+{{led|namn=Wella|grad=7+|fa=Robert Brunell & Lars Lövgren}}
+{{led|namn=Wettex|grad=7|fa=Henrik Sennelöv & Robert Brunell}}
+{{led|namn=Brut|grad=6|fa=Lars Ingemansson & Arne Roos}}
+{{led|namn=Barnängen|grad=5|fa=Lars Lövgren & Robert Brunell}}
+{{led|namn=Brutal Final|grad=6+|fa=Lars Lövgren & Robert Brunell}}
+[[Kategori:Göteborg]]

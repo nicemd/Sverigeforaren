@@ -1,0 +1,124 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Zoolander==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Carmela|grad=6B|typ=Slopers,Mantling,Heel hook|fa=M.Lagerkvist|landning=2|fadatum=2007-09-19|sittstart=ja|startgrepp=ja|text=Lägg upp hälen och dra till mot kanten.}}
+{{problem|nr=2|namn=Vertigo|grad=6A|typ=Krimp,Aréte|fa=M.Lagerkvist|landning=2|betyg=1|fadatum=2007-09-19|text=Starta i krimpern. Klättra upp på facet och ut mot det högra aretét. En liten miniklassiker.}}
+{{problem|nr=3|namn=Vertical Limit|grad=5B|typ=Slopers,Aréte|landning=2|fadatum=2007-09-19|text=Det högra aretét.}}
+{{problem|nr=4|namn=Happy Feet|grad=5B|typ=|landning=2|fadatum=2008-05-30|text=Klättra högra sidan av aretet.}}
+{{problem|nr=5|namn=Forget About It|grad=5A|typ=|landning=2|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=6|namn=KalasFras|grad=4C|typ=|landning=2|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=7|namn=Moss-mani|grad=4C|typ=|landning=2|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=8|namn=Sopranos|grad=6B|typ=Slopers,Pinch,Aréte|fa=M.Lagerkvist|landning=1|betyg=1|fadatum=2007-09-19|text=Starta på vänstra sidan av aretét.}}
+{{problem|nr=9|namn=BadaBing|grad=6A+|typ=Slopers,Aréte|fa=M.Lagerkvist|landning=2|fadatum=2007-09-29|text=Till höger om Sopranos. Ståstart rakt upp.}}
+{{problem|nr=10|namn=Trötta Biceps|grad=5C|typ=|landning=2|fadatum=2008-05-30|text=Rakt upp vid siffran. Lång avlåsning från megajugge.}}
+| width="250px" |
+{{problem|nr=11|namn=Handledssprak|grad=6A+|typ=|landning=2|fadatum=2008-05-30|text=Mantlingsproblem.}}
+{{problem|nr=12|namn=Björnfrossa|grad=6A|typ=|landning=2|fadatum=2008-05-30|text=Rakt upp vid siffran. Escapa inte ut mot nr 13. Sjyykt mycket svårare för korta <177}}
+{{problem|nr=13|namn=Munchies|grad=6B|typ=|fa=M.Lagerkvist|landning=5|betyg=1|fadatum=2008-05-30|text=Skön sloper. Svingstarta till hh-slopern om du inte når från backen.}}
+{{problem|nr=14|namn=Merry|grad=5A|typ=|landning=2|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=15|namn=Frodo|grad=5B|typ=Slopers,Slab,Aréte|fa=M.Lagerkvist|landning=5|fadatum=2007-09-20|text=Rakt upp vid siffran. Slabbigt kylskåp.}}
+{{problem|nr=16|namn=Sam|grad=5C|typ=|landning=2|betyg=1|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=17|namn=Pippin|grad=5B|typ=|landning=2|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=18|namn=Return of The King|grad=7A+|typ=Slopers,Överhäng,Heel hook|fa=M.Lagerkvist|landning=2|fadatum=2007-09-20|startgrepp=ja|text=Starta i markerade grepp. Hård etablering och första move.}}
+{{problem|nr=19|namn=Magnum|grad=6A+|typ=Slopers,Mantling,Heel hook|landning=3|betyg=2|fadatum=2007-09-20|text=Rakt upp vid siffran.}}
+| width="250px" |
+{{problem|nr=20|namn=Relax|grad=4A|typ=|landning=4|fadatum=2008-05-30|text=Långt sva-arete.}}
+{{problem|nr=21|namn=Mr. Mugato|grad=6C+|typ=Layback,Överhäng,Aréte|fa=M.Lagerkvist|landning=3|fadatum=2007-10-10|sittstart=ja|text=Sittstart vid det vänstra, överhängande arétet. Assbounce upp till obefintligt underkling. Brant och inga fötter.}}
+{{problem|nr=22|namn=Zoolander|grad=7A+|typ=Slopers,Aréte,Heel hook|fa=M.Lagerkvist|landning=2|betyg=2|fadatum=2007-10-10|text=Följer det vänstra arétet mot toppen. Krimpers för höger hand och slopers för vänster.}}
+{{problem|nr=23|namn=Blue Steel|grad=6A|typ=|fa=M.Lagerkvist|landning=3|fadatum=2008-05-30|text=Klättra upp på vänstra sidan av aretet. Utmantling sker lättast om man smyger runt aretet i slutet.}}
+{{problem|nr=24|namn=Snefylla|grad=7A|typ=Krimp|landning=2|fadatum=2007-10-01|sittstart=ja|text=Krimp de la morte. Hårt underclingmove på pissigt grepp. Vasst, smått och hårt. Stenen bakom "Zoolanderstenen"}}
+{{problem|nr=25|namn=Absinth|grad=5B|typ=|landning=2|fadatum=2008-05-30|sittstart=ja|text=Sittstart vid siffran.}}
+{{problem|nr=26|namn=Le Tigre|grad=7B|typ=|fa=M.Lagerkvist|landning=3|fadatum=2008-05-31|text=Etablerad start vid siffran. Desperat urtoppning.}}
+|}
+{{problem|nr=27|namn=Katinka|grad=6B+|typ=|fa=M.Lagerkvist|landning=3|fadatum=2008-05-31|text=Sittstart med startprickar.}}
+|}
+
+==Twin Peaks==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Zafira|grad=6C|typ=Krimp,Slopers,Överhäng|landning=4|fadatum=2007-09-29|sittstart=ja|text=Sittstart vid siffran}}
+{{problem|namn=Blue Ass |grad=7A|typ=Krimp,Slopers,Överhäng|fa=M.Lagerkvist|landning=5|fadatum=2007-09-29|sittstart=ja|text=Sittstart vid siffran}}
+{{problem|namn=Jason|grad=6C|typ=Krimp,Slopers,Överhäng|fa=M.Lagerkvist|landning=5|fadatum=2007-09-29|sittstart=ja|text=Sittstart med högerhand i bra undercling/sidepull, vänster hand på aretét. Tre move till juggen, mantla, done and done.}}
+{{problem|namn=You've been poked|grad=6B+|typ=Slopers,Pinch,Heel hook|landning=5|fadatum=2007-09-29|sittstart=ja|text=Väldigt skum assbouncesart. Dra vänster hand till sloper. Häla och slappa. Svårt att inte pendla in i stenen till höger.}}
+{{problem|namn=Listed as it's complicated|grad=5C|typ=Överhäng|landning=4|fadatum=2007-10-03|sittstart=ja|text=Sittstart till vänster om "You've been poked". Matcha på jugg, upp med arslet och  kör.}}
+{{problem|nr=50|namn=Eberron|grad=6A|typ=|fa=M.Lagerkvist|landning=2|fadatum=2007-10-12|startgrepp=ja|text=Starta i det stora underclinget. Kliv upp och slappa mot kanten. Lite smyglurigt.}}
+{{problem|nr=51|namn=Puff The Magic Dragon|grad=6B+|typ=|fa=M.Lagerkvist|landning=6|fadatum=2008-05-30|uteslutningar=ja|text=Slabben rakt upp. Det vänstra aretet och skravlet med dess stora steg och grepp är uteslutet. Det är mening att man skall hålla sig på svat}}
+{{problem|nr=52|namn=Jumper|grad=6C|typ=Aréte|fa=M.Lagerkvist|landning=2|fadatum=2007-10-27|text=Det vänstra aretét. Fri fart mot toppen. Kanske lite morpho?}}
+{{problem|nr=53|namn=Balrog Blues|grad=-|typ=|landning=2|betyg=1|fadatum=2008-05-30|text=Rakt upp vid siffran. Vägg med slopiga och felvända grepp. PROJEKT.}}
+{{problem|nr=54|namn=The Elf|grad=6A+|typ=Dyno,Jug|landning=3|fadatum=2007-09-19|startgrepp=ja|text=Sug tag i juggen och dyna mot kanten.}}
+{{problem|nr=55|namn=Azmath|grad=6A+|typ=Slopers|fa=M.Lagerkvist|landning=5|fadatum=2007-09-19|text=Klättra aretet. Rakt upp vid siffran.}}
+| width="250px" |
+{{problem|nr=56|namn=Beowulf|grad=6A|typ=|fa=M.Lagerkvist|landning=4|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=57|namn=MacGyver Style|grad=6A+|typ=Slopers,Aréte|landning=2|fadatum=2007-10-10|text=Balansigt och tekniskt aréte.}}
+{{problem|nr=58|namn=Glaurung|grad=7B|typ=Krimp,Slopers,Reach|fa=M.Lagerkvist|landning=3|betyg=2|fadatum=2007-10-19|text=Svingstart eller hoppstart! Känsliga flytt, dåliga fötter och vidrig mantling.}}
+{{problem|nr=59|namn=Smaug|grad=6B+|typ=Krimp,Mantling|fa=M.Lagerkvist|landning=1|fadatum=2007-10-27|text=Ståstart vid siffran. Lätt överhängande vägg med schyssta lister. Campus!!}}
+{{problem|nr=60|namn=The Shield|grad=6B|typ=Krimp,Slopers,Aréte,Heel hook|landning=2|betyg=3|fadatum=2007-09-19|text=Ståstart vid siffran. Korta kan svinga upp till VH-krimpern. Därifrån, hälar och insläpp på slopers och krimpers.}}
+{{problem|nr=61|namn=Dungeons & Dragons|grad=6C|typ=Krimp,Slopers,Heel hook|fa=M.Lagerkvist|landning=2|fadatum=2007-09-19|sittstart=ja|startgrepp=ja|text=Sittstart under det lilla lutande blocket. Krimpa, lägg upp hälen och slappa!}}
+{{problem|nr=62|namn=Trollsländan|grad=5B|typ=|landning=4|fadatum=2008-05-30|text=Högra sidan av aretet.}}
+{{problem|nr=63|namn=Morpheus|grad=6A+|typ=|fa=M.Lagerkvist|landning=3|fadatum=2008-05-30|text=Rakt upp vid siffran via små krimpers. Mycket svårare om man är kort.}}
+{{problem|nr=64|namn=Skenarbete|grad=5B|typ=|landning=4|fadatum=2008-05-30|text=Klättra vänstra sidan av areten.}}
+{{problem|nr=65|namn=Kallbrand|grad=5C|typ=|landning=4|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=66|namn=Döende svanen|grad=6B|typ=|landning=3|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=67|namn=Myggan|grad=4A|typ=|landning=3|fadatum=2008-05-30|text=Rakt upp vid siffran.}}
+| width="250px" |
+{{problem|nr=68|namn=sticky icky|grad=5C|typ=Krimp,Slab|landning=3|betyg=2|fadatum=2007-09-27|text=fin lång slab grad osäker repetera och rapportera}}
+{{problem|nr=69|namn=Itchy|grad=4B|typ=|landning=4|fadatum=2007-10-03|text=Aretét till höger om Icky Sticky.}}
+{{problem|nr=70|namn=Scratchy|grad=7A|typ=|fa=M.Lagerkvist|landning=4|fadatum=2008-05-30|uteslutningar=ja|text=Rakt upp vid siffran. Den stora hyllan till höger utesluten.}}
+{{problem|nr=71|namn=Twin Peaks|grad=6C+|typ=Krimp,Jug,Heel hook|fa=M.Lagerkvist|landning=5|betyg=2|fadatum=2007-09-27|text=Startar i den stora juggen mitt på väggen. Går rakt upp till två små, itsy, bitsy   krimpers. Avslutas med härliga hälar och mossiga avlåsningar. Fin höjd och allt till en rimlig grad. Kanske svårare?}}
+{{problem|nr=72|namn=Fire Walk With Me|grad=-|typ=|landning=3|betyg=3|fadatum=2008-05-30|text=Rakt upp för areten. PROJEKT.}}
+{{problem|nr=73|namn=Coffee|grad=6A|typ=Krimp,Slopers,Heel hook|fa=M.Lagerkvist|landning=3|fadatum=2007-09-27|sittstart=ja|text=Starta på den låga sloperhyllan. Går rakt upp på bra grepp.}}
+{{problem|nr=74|namn=& Cigarettes|grad=5C|typ=Krimp,Heel hook|fa=M.Lagerkvist|landning=2|fadatum=2007-09-27|sittstart=ja|text=Sittstart vid det högra aretét. Lågt men kul.}}
+{{problem|nr=75|namn=Sméagol|grad=7B+|typ=Slopers,Överhäng|landning=3|fadatum=2007-10-27|sittstart=ja|text=Sittstart i överhänget. Hårda flytt på slopiga grepp utan fötter. Lättare för korta.}}
+{{problem|nr=76|namn=Gandalf Grå|grad=7A+|typ=Krimp|fa=M.Lagerkvist|landning=5|fadatum=2007-10-03|text=Rakt upp vid siffran. Går att svingstarta för de som vill det. Krimpigt, känsligt och fin höjd.}}
+|}
+
+==Scaramanga==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Grim Fandango|grad=6C|typ=Slopers,Heel hook|fa=M.Lagerkvist|landning=4|betyg=1|fadatum=2007-10-19|sittstart=ja|text=Kylskåpsklättring när den är som bäst!! Sittstart och brett mellan greppen. Slapp, slapp och häl.}}
+{{problem|namn=Monkey Island|grad=6A+|typ=Krimp|landning=4|fadatum=2007-10-19|text=Ståstart vid siffran. Stenen under går alldeles utmärkt att använda.}}
+| width="250px" |
+{{problem|namn=Scaramanga|grad=7A|typ=Slopers,Överhäng|fa=M.Lagerkvist|landning=4|fadatum=2007-10-25|startgrepp=ja|text=Etablerad start gott folk. Sug tag i startgreppen, kliv upp och skicka. Ett hårt move.}}
+| width="250px" |
+{{problem|namn=Oddjob|grad=6A|typ=Slopers|fa=M.Lagerkvist|landning=3|fadatum=2007-10-25|text=Ståstart vid siffran. Aretét/prowet till höger om Monkey Island.}}
+ 
+{{problem|namn=Friction Addiction|grad=5C|typ=Sva|fa=M.Lagerkvist|landning=4|betyg=3|fadatum=2007-10-19|text=Ståstart vid siffran.Perfekt slabb utan grepp.}}
+ 
+|}
+
+==Harakiri==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Harakiri|grad=7A+|typ=Arete,Krimp |fa=M.Lagerkvist |landning=3|betyg=3|fadatum=2007-10-19| text=Balansig Areteklättring när det är som bäst}}
+{{problem|namn=Escapen|grad=6A+|typ=Arete,Krimp |fa=M.Lagerkvist |landning=3|betyg=0|fadatum=2007-10-19| text=Rakt upp vid siffran}}
+{{problem|namn=Spöket Laban|grad=6B|typ=Arete,Slopers |fa=M.Lagerkvist |landning=3|betyg=0|fadatum=2007-10-19| text=Rakt upp vid siffran}}
+{{problem|namn=Lock Off|grad=5C|typ=   ||fa=M.Lagerkvistlandning=3|betyg=0|fadatum=2007-10-19| text=Rakt upp vid siffran}}
+
+=Problem=
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Punken är Död|grad=5C|typ=Slopers,Slab,Aréte|fa=M.Lagerkvist|landning=4|fadatum=2007-10-06|text=Rakt upp vid siffran. Väldigt balansigt problem. Tanken från början var att mantla ut rakt upp, detta blev tyvärr högst onaturligt och problemet går nu ut till hyllan till höger.}}
+{{problem|namn=Jimmys Kräftskiva|grad=6A|typ=|landning=5|fadatum=2007-10-19|text=Ståstart vid siffran. Sittstart finns, men hård.}}
+{{problem|namn=Viggos Arete|grad=6B+|typ=Arete|fa=M.Lagerkvist|landning=5|fadatum=2007-10-19|text=Ståstart vid siffran.}}
+{{problem|namn=Avec Talon|grad=7B|typ=Heel Hook|fa=M.Lagerkvist|landning=2|fadatum=2007-10-19|text=Ståstart vid siffran.}}
+{{problem|namn=Esperanza|grad=6A+|typ=Slopers, Krimp, Överhäng|fa=M.Lagerkvist|landning=4|fadatum=2007-10-19|text=Ståstart vid siffran.}}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

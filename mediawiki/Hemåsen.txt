@@ -1,0 +1,33 @@
+{{utkast}}
+==Allmänt==
+Hemåsen är en liten klippa på en stor kulle utanför Segersta, nära
+Kilafors.
+
+==Vägbeskrivning==
+
+Från riksväg 83, sväng av mot Segersta strax norr om Kilafors. Efter bron i Segersta sväng av vänster på Djupavägen. Efter några km, sväng höger vid Lillåkers (namn på busshållplats). Där den vägen slutar, sväng höger på LarsSvedenvägen och kör denna tills den tar slut. Här går en skogsväg upp åt vänster. Följ denna (till fots eller med bil beroende på bilens frigång) tills den slutar vid en vändplats. Fortsätt i vägens förlängning tills klipporna anas mellan träden uppe till höger (cirka 400-500 m från vändplanen).
+Ungefärliga GPS-koordinater: Lat: N 61º 17' 17.53" Long: E 16º 35' 16.74"
+
+==Klippan==
+
+Klippan, som består av en grå till rödaktig gnejs, är inte stor. I gengäld är den en sydvägg med ett rätt öppet läge, vilket kan medge klättring en solig dag även om det är kyligt i luften. Som högst kanske 17-18 m. Den ligger en bit upp på själva Hemåsen och syns på håll, speciellt om man vet var man ska titta. Ovanför en liten klippvägg ligger en stor hylla. Härifrån utgår alla lederna. Klättringen är i huvudsak sprick- och flakklättring eller följer diedrar. Ungefär mitt på berget, på hyllan, står en stor, iögonfallande pinnakel, "Stintan". Egentligen är det en stor klippskiva som står en bit ut från väggen. Denna formation är den referens utifrån vilken de flesta leder beskrivs.
+
+{{led|nr=1|namn=Hambostintan|längd=7|grad=4-|gruv=b|typ=trad|fa=Peter Brolin och Per Calleberg 1989|text= Följer lättaste vägen upp på den stora pinnakeln, "Stintan". Leden följer vänstra kanten på pinnakeln. 1 borrbult för firning på toppen.}}
+
+{{led|nr=2|namn=Dansa för fan!|längd=7|grad=5/6-|gruv=a|bultar=2|typ=mix|fa=Buster Delin, Peter Brolin och Per Calleberg 1990|text= Märklig led på pinnakelns högra sida, ovanför den yxbladsliknande formationen. Stämklättring mellan pinnakeln och 'fastlandet' följs av brant hej-och-hå-klättring till pinnakelns topp. Leden blir svårare ju längre ner man slutar stämklättra och kliver över till pinnakeln, därav den underliga graderingen. 2 borrbultar och en bult.}}
+
+{{led|nr=3|namn=Dalahambo|längd=7|grad=5-|gruv=b|typ=trad|fa=Peter Brolin och Per Calleberg 1989|text= Följer spricklinjen närmast till höger om den stora stenskivan som står lutad mot väggen, genom ett litet tak med goda jam.}}
+
+{{led|nr=4|namn=Förhäxad|längd=7|grad=7-|betyg=1|typ=trad|fa=Per Calleberg, Buster Delin och Peter Brolin 1990|text= Tunn, vacker och slät fingerspricka 3 m till höger om Dalahambo. Tyvärr alldeles för kort. Säkras med TCU:er.}}
+
+[[Bild:F%C3%B6rh%C3%A4xad.jpg|thumb|200px|right|Per Calleberg gör förstabestigningen av Förhäxad. Foto: Per Callebergs arkiv.]]
+
+{{led|nr=5|namn=Bockfoten|längd=10|grad=4+|betyg=1|typ=trad|fa=Peter Brolin och Eva Calleberg 1990|text= Den stora, tydliga diedern 2 m till höger om Förhäxad. Lättare än den ser ut.}}
+
+{{led|nr=6|namn=Hårgaleden|längd=18|grad=5-|gruv=c|typ=trad|fa=Per Calleberg och Peter Brolin 1989|text= Litet lös 'fjällklättring' uppför väggens högsta parti. Insteg i högerkanten av det skivformade taket. Insteget är kruxet.}}
+
+{{led|nr=7|namn=Lilla Annas led|längd=16|grad=4+|gruv=a|typ=trad|fa=Per Calleberg och Peter Brolin 1989|text= Följer den tydliga sprickdiederna i bergets högerkant}}
+
+[[Kategori:Saknar vägbeskrivning]] [[Kategori:Saknar karta]] [[Kategori:Saknar skiss]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

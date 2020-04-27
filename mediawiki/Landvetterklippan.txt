@@ -1,0 +1,33 @@
+{{info klippa
+  |lat=57.68772
+  |long=12.20499
+}}
+
+==Allmänt==
+Riktigt fina leder. Alla bultade leder har firningsankare. Parkera alldeles vid klippan eller bakom bensinmacken. 
+
+==Karta==
+{{stub}}
+<googlemap lat="57.68772" lon="12.20499" zoom="9" type="map">
+57.68772,12.20499,Landvetterklippan
+</googlemap>
+
+==Leder==
+Bra kvalitet på lederna. Det sitter bultar på alla leder förutom Tiggaren från Loussa och Majestix, men flera av lederna går att klättra med kil. 
+
+{{led|fa=|namn=Vänsterprassel|grad=6a|längd=20|typ=sport| text=Tydliga leden längst till vänster.| fa=Olle Venbrant| ny=1}}
+{{led|namn=Kärlekssprickan|grad=5c|längd=20|typ=sport| text=Följer den röda vänsterlutande sprickan på väggen, fin. |fa=John Mendes & David Engdahl}}
+{{led|namn=Tiggaren från Loussa|grad=6-|längd=20|typ=trad }}
+{{led|namn=Bedragaren|grad=6a+|längd=20|typ=sport| text=Sprickan på aretens vänstersida. Lämpligt att klippa i sig i bultarna som går vänster om sprickan. Fin, något lätt för sin grad. |fa=David Engdahl}}
+{{led|namn=Sexsy|grad=6c|längd=20|typ=sport| text=Led som går mitt på areten.|fa=John Mendes| ny=1 }}
+{{led|namn=Majestix|grad=7|längd=20|typ=trad| fa=}}
+{{led|namn=Ko över Sarek|grad=5c+|längd=20?|typ=sport| text=Första bulten 10 meter upp. Går rakt igenom en björk|betyg=2|fa=Stefan Menna}}
+{{led|namn=My new Love|grad=6b+|typ=sport}}
+{{led|namn=Easy love|grad=5c|typ=sport}}
+{{led|namn=Hard to get|grad=7b+|typ=sport}}
+{{led|namn=One night stand|grad=6b+|typ=sport}}
+{{led|namn=All night longe|grad=6c|typ=sport}} 
+
+[[category:trad]]
+[[category:sport]]
+[[Kategori:Göteborg]]

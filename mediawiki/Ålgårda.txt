@@ -1,0 +1,34 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Klätterstopp och klätterförbud råder på Ålgårda
+==Vägbeskrivning==
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+{{AccessDB|klippa=algarda}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Halland]]

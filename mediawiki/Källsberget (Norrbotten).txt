@@ -1,0 +1,83 @@
+{{info klippa
+  |lat=65.639490
+  |long=21.076240
+}}
+{{utkast}}
+[[Bild:överblick källsberget.jpg|frame|Mycket aktivitet vid Källsberget hösten 2008. Foto: Fredrik Nyberg]]
+==Allmänt==
+
+Stor och brant granitklippa. Här finns bara bultsäkrade leder. Mera kompakt än MTV-väggen i Niemisel och håller sig torr även efter en liten skur. Kommer man utanför lederna, eller på leder som sällan klättras, så kan man hitta en hel del lös klippa.
+
+Det är väldigt lätt att hitta vid klippan med endast informationen från ''sverigeföraren''. Alla [[Lednamnskylt källsberget|lednamn står målade på klippan]]. Och det finns ofta även en liten skiss om hur lederna går.
+
+==Camping==
+Det går att campa vid klippan, men det finns inget vatten där. Klippan ligger bara en minut från vägen, så det är inga problem att bära dit dina prylar. Det finns även stugor att hyra inne i Älvsyn.
+
+==Annan klättring i närheten==
+[[Hundberget]] ligger bara någon kilometer bort och bjuder på en helt annan typ av sportklättring än Källsberget. [[Dödlarsberget]] ligger ca 2,5 mil längre in i landet och där finns både lite enklare sportklättring och en en hel del trad-leder. Mycket kvalite på en liten yta alltså!
+8 mil norrut ligger [[Niemisel]] som är en av sveriges bästa sportklätterklippor!
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="65.639490" lon="21.076240" zoom="11" type="map">
+65.639490,21.076240,Källsberget
+</googlemap>
+</div>
+Från älvsbykorsningen (pite-boden-vidsel-älvsbyn), så åker man in mot byn. När man passerat en bro så svänger man vänster. Efter ca 2km kommer en skarp högerkurva. Fortsätt ca 1km och parkera under klippan.
+
+<div style="clear:both"></div>
+==Leder==
+
+De flesta lederna ligger på den brantaste delen av berget. Led 1 till 3 ligger längre upp åt vänster. Lednamnen står skrivna på klippan, vid insteget. Lederna beskrivs från väster till höger.
+
+{|
+|- valign="top"
+| width=350px| 
+Dessa två leder ligger 150 meter till vänster om huvudklippan:
+{{led|namn=8a'n|grad=6a+|typ=sport|längd=10|fa=[[Magnus Öberg]][[2001]]|text=|betyg=}} 
+{{led|namn=9b-plus'n|grad=6b|typ=sport|längd=10|fa=[[Magnus Öberg]][[2001]]|text=Ankaret består av en bult med en skruvkarbin.|betyg=}}
+----
+{{led|namn=Pluto|grad=6b+; 7a|typ=sport|längd=65|fa=[[Magnus Eriksson]],[[Magnus Öberg]][[2001]]|text=Två repors sportled. Första replängden är inge vidare och har många lösa block om man kommer utanför leden. Leden ligger 100 meter till vänster om huvudklippan och insteget kan vara lite svår att hitta. Andra replängden är väl värd all besvär|betyg=3}} 
+----
+Huvudklippan
+{{led|namn=Storpotäten|grad=7b|typ=sport|längd=15|fa=[[Magnus Öberg]][[1997]]|text=Kruxig och ful led.|betyg=}}
+{{led|namn=Byggare bob|grad=7c+|typ=sport|längd=20|fa=[[Magnus Eriksson]][[2002]]|text=Kruxig.|betyg=1}} 
+{{led|namn=Barbie girl|grad=7b|typ=sport|längd=27|fa=[[Magnus Eriksson]][[1997]]|text=|betyg=2}}
+{{led|namn=Plast Kens äventyr|grad=7b+|typ=sport|längd=30|fa=[[Magnus Eriksson]][[1997]]|text=Startar som ''Big Jim'' och viker vänster tidigt. Gemensamt slut med ''Barbiegirl''|betyg=2}}
+{{led|namn=Bigger than Jim|grad=7b|typ=sport|längd=25|fa=[[Fredrik Riström]][[1999]]|text=Startar som ''Big Jim'' och viker vänster efter cruxet. Delar ankare med ''Big Jim''.|betyg=3}}
+{{led|namn=Big Jim|grad=7a+|typ=sport|längd=25|fa=[[Magnus Eriksson]][[1998]]|text=Förlängd 2002. Rakt upp.|betyg=2|}}
+{{led|namn=Actionman|grad=7a|typ=sport|längd=15|fa=[[Magnus Eriksson]],[[Magnus Öberg]][[1998]]|text=Slutar vid det första ankaret.|betyg=1}}
+| width=350px|
+{{led|namn=Rallyplaneten|grad=7c+|typ=sport|längd=20|fa=[[Magnus Öberg]][[1999]]|text=Förlängningen av Actionman|betyg=3}}
+{{led|namn=The mighty battlecat|grad=8a+|typ=sport|längd=20|fa=[[Johan Sundkvist]][[2008]]|text=Ihoplänkning av ''He-man'' med ''Rallyplaneten''|betyg=}}
+{{led|namn=He-man|grad=8a|typ=sport|längd=22|fa=[[Magnus Öberg]][[1999]]|text=Gemensam start med ''My little pony''.|betyg=}}
+{{led|namn=My little pony|grad=7b+|typ=sport|längd=20|fa=[[Magnus Öberg]][[2000]]|text=Gemensam start med ''He-Man''.|betyg=2}}
+{{led|namn=Donkey kong|grad=6c|typ=sport|längd=20|fa=[[Magnus Öberg]][[2000]]|text=|betyg=3}}
+{{led|namn=King kong|grad=6c+|typ=sport|längd=20|fa=[[Magnus Öberg]][[1999]]|text=Samma ankare som ''Godzilla''|betyg=}}
+{{led|namn=Godzilla|grad=7a+|typ=sport|längd=20|fa=[[Magnus Öberg]][[1999]]|text=Samma ankare som ''King kong''.|betyg=2}}
+{{led|namn=Paparazzoelefanten|grad=7a+|typ=sport|längd=22|fa=[[Hans Stenlund]][[1999]]|text=|betyg=1}}
+{{led|namn=Luke Skywalker|grad=7b+|typ=sport|längd=20|fa=[[Magnus Öberg]][[1999]]|text=|betyg=1}}
+{{led|namn=Projekt|grad=Projekt|typ=sport|längd=20|fa=|text=|betyg=}}
+----
+Dessa leder ligger till 30-50 m. höger om huvudklippan.
+{{led|namn=Barbapappa|grad=6c+|typ=sport|längd=12|fa=[[Hans Stenlund]][[2002]]|text=|betyg=}}
+{{led|namn=Bananer i pyjamas|grad=7a|typ=sport|längd=12|fa=[[Magnus Eriksson]][[2002]]|text=|betyg=}}
+{{led|namn=Banankontakt|grad=6c+|typ=sport|längd=10|fa=[[Magnus Eriksson]][[2002]]|text=|betyg=1}}
+|}<br>
+
+==Förare==
+http://www.borrbult.nu
+
+=In English=
+Long and pumpy routes on overhanging granite. Somewhat loose rock especially away from established routes.
+
+==Directions==
+Assuming you are driving to '''Älvsbyn''' from the coast, turn left directly after the bridge over the river. (Follow the sign pointing to '''Motorstadion'''). Follow that road towards '''Sikfors''' for 5-6 km. Drive past a railway bridge, and the wall appears on your right hand. Park your car on the short dirt road on your right about 200 m after the bridge and follow the road/trail for 100 m.
+
+==Staying there==
+There is free camping by the crag, but there is no running water in the proximity. There is a campsite in Älvsbyn, for reservations call ''Selholmens Camping'' on tel. 0929-172 05.
+
+[[Kategori:Extern förare]] [[Kategori:sport]] [[Kategori:överhäng]]
+[[Kategori:Norrbotten]]
+[[Kategori:Engelska]]

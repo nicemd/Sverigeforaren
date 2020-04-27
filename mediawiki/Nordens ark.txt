@@ -1,0 +1,69 @@
+{{info klippa
+  |lat=58.4526
+  |long=11.4336
+}}
+
+{{utkast}}
+== Introduktion ==
+Stor fin klippa belägen inom synhåll från djurparken Nordens Ark, som också blir en perfekt avstickare om det regnar eller om barnen är med! Signerad den outtröttlige [[Joakim Olofsson]].
+
+== Karaktär ==
+Kompakt, hög, sydvänd klippa, relativt flack förutom instegen som ofta är lite hej-och-håiga. Långa fina sprickor i lättare registret, och några väggturer med glesa tvärsprickor. Fin klippa för nydanade lead-klättrare. Lite för långa turer för att topprep ska funka bra. Enbart naturliga säkringar.
+
+==Access {{access}}==
+
+Parkera vid Nordens Arks parkering. Korsa sedan stora vägen och gå norrut längs grusvägen mot den väl synliga klippan ca 1 km bort. Ta vänster på grusvägen framför klippan. Korsa inte åkern. Följ åkerkanten in mot väggens vänstra kant. Tänk också på ljudnivån med hänsyn till närboende. 
+
+== Vägbeskrivning ==
+
+<googlemap lat="58.4526" lon="11.4336" zoom="11" type="karta">
+58.4526,11.4336,Nordens Ark
+
+</googlemap>
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja|förförare bohuslän (2012)=ja}}
+
+== Vänstra väggen ==
+
+Findes til venstre for og rundt om hjønet i forhold til den "gamle" Nordens Ark væg.
+
+{{led|namn=Antabush|grad=6-|betyg=|längd=25|fa=Bo Belvedere Christensen, Jan Mathorne 2004
+ |typ=trad|text=Der findes en stor diedre ca. 50 m. til venstre for hjørnet til sydvæggen, hvor de hidtidige ruter findes. Ruten starter ca. 2 meter ude på diedrens højre væg, hvor et riss, der skråner mod venstre, går hele vejen fra bunden til toppen. Følg risset, let i starten med lidt buske, bedre højere oppe, hvor det også bliver sværere. Crux ca. 3 meter fra toppen. Velsikret.}}
+
+{{led|namn=Engelsk Vals|grad=4+|betyg=|längd=26|fa=Jan Mathorne, Bo Belvedere Christensen, 2004
+ |typ=trad|text=Start som Antabush til et riss ca. 10 meter oppe fører ud til hangeltravers. Zig zag op mod højre til det er muligt at komme højre om overlappet. Lige op herfra. Velsikret.}}
+
+{{led|namn=Derefter Let|grad=6+|betyg=|längd=26|fa=Jan Mathorne, Bo Belvedere Christensen, 2004
+ |typ=trad|text=Starter ca. 5 m. til højre for Antabush ved et tydeligt flagegreb. 4-5 m. lige op ad risset (crux). Derefter lidt til venstre og op ad højre side af en tydelig flage. Travers til højre ad en lille græshylde under store løse blokke. Op ad et kort riss til kanten og derefter ad denne til toppen. Rimeligt sikret.}}
+
+{{led|namn=Mullvaden|grad=5|längd=20|fa=Erik Ejdervik, Per Hallander|fadatum=2009|typ=trad
+ |text=Börjar i en spricka under ett litet tak till höger om ''Derefter let'' och går upp till en hylla. Traversera sedan åt höger runt hörnet och uppför svaväggen.
+}}
+
+== Huvudväggen ==
+
+{{led|namn=Fjällstugan|grad=5-|längd=35|fa=Joakim Olofsson|fadatum=1998}}
+
+{{led|namn=Amurleoparden|grad=5+|längd=35|fa=Joakim Olofsson|fadatum=1998}}
+
+{{led|namn=Berguven|grad=6-|längd=35|fa=Joakim Olofsson|fadatum=1998}}
+
+{{led|namn=Snöleoparden|grad=6+|betyg=2|längd=35|fa=Joakim Olofsson|fadatum=1998
+ |typ=trad|text=Säkras i horisontalsprickor med billiga små kilar eller dyra kamsäkringar. Relativt välsäkrad}}
+
+{{led|namn=Snögeten|grad=5-|längd=35|fa=Joakim Olofsson|fadatum=1998}}
+
+{{led|namn=Järven|grad=5+|längd=40|fa=Joakim Olofsson|fadatum=1998}}
+
+{{led|namn=Lodjuret|grad=5+|längd=40|fa=Joakim Olofsson|fadatum=1998}}
+
+{{led|namn=Ödhumlan|grad=4|betyg=1|längd=40|fa=Joakim Olofsson|fadatum=1998
+ |typ=trad|text=Sprickan i väggens högra ände. Härligt att det finns så fin klättring i lätt grad! Välsäkrad, rekommenderas till alla som är nya som 1:e man}}
+
+{{led|namn=Gems|grad=6|längd=20|fa=Joakim Olofsson, Rikard Larsson|fadatum=1998}}
+
+[[category:trad]]
+[[category:sva]]
+[[category:saknar_leder]]
+[[category:saknar_skiss]]
+[[Kategori:Bohuslän]]

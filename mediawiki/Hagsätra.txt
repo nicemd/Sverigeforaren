@@ -1,0 +1,67 @@
+{{info klippa
+  |lat=59.256797
+  |long=18.020282
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Liten oklättrad klippa i Hagsätra/Rågsved. Det är i skogen bakom ett dagis i korsningen Rågsvedsvägen/Sköllerstagata. Man måste hoppa in på dagisets tomt. Kanske bra att gå dit på helgen eller fråga om lov.
+
+Går säkert att få till några fina men hårda leder här. Klippan har en hel del lösa stenar så var försiktig.
+
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.257035" lon="18.020314" zoom="18">
+59.256797, 18.020282, Hagsätra
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+    <b>Hagsätra</b>
+    lat=18.020314
+    long=59.257035
+
+</div>
+Åk till Rågsved station och gå sedan mot Hagsätra på Rågsvedsvägen tills du kommer till korsningen Rågsvedsvägen/Sköllerstagatan. Där finns ett gult dagis. Det är i skogen bakom dagiset. Man måste hoppa in på deras tomt. Kanske bra att gå dit på helgen eller fråga om lov.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Big Ben|grad=8|typ=överhäng|betyg=3|bultar=0|längd=6|fa=[[?]] -?|text=Har knappt börjat på denna led. På den högra delen av väggen finns en spricka i klippan med aningen överhäng.}}
+
+| width="350px" |
+
+{{led|nr=1|namn=Posh Josh|grad=8|typ=överhäng|betyg=3|bultar=0|längd=5|fa=[[?]] -?|text=Tittade lite på väggen och tänkte ut en led, men har inte testat än. Den vänstra delen av väggen är skrovlig och med aningen överhäng. En del vassa grepp och lösa stenar.}}
+
+|}
+
+Om man är i krokarna finns lite boulder på 59.2644, 18.0056
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Stockholm]]

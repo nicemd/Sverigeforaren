@@ -1,0 +1,92 @@
+{{info klippa
+  |lat=59.304125
+  |long=18.007783‎
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!-- {{stub}} -->
+{{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+En (väldigt) kort vägg med ett antal topprepsleder i graderna 4 till 6. Nära stan och torkar snabbt efter regn. Finns inga bultar idag utan man får slänga slingor runt träd vid toppen av klippan. Ta med långa slingor!
+
+== Misc ==
+Klippan är till större del sprängklippa, men de lättare lederna till vänster går mestadels över orörd klippa.
+
+Parkeringsplatsen där klippan ligger verkar vara ett populärt ställe för taxichafförer att stanna och vila, och även ett populärt ställe för nedskräpning. Ta gärna med lite extra skräp hem!
+
+Det pågår just nu (2012-08-20) ett byggarbete i området, och byggnadsstaket har satts upp som hindrar den enklaste promenad vägen till toppen av klippan. Du kan fortfarande hitta till toppen av klippan genom att följa cykelvägen till vänster om klippan, hitta parkeringen rakt ovanför och gå igenom ett buskage. Ett kanske bättre alternativ är att klättra upp för den lätta leden i mitten av klippan.
+
+Finns en bunte nya leder att göra som vi inte hann med (flyttat utomlands /Johan), så uppdatera gärna föraren om ni gör någon mer led.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.30412" lon="18.007783" zoom="14" type="map" controls="small">
+59.30412,18.00778‎,[[Taxiklippan]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+	titel=Majstångsvägen
+	lat=18007783‎
+	long=59304125
+</slresa>
+</div>
+
+Klippan ligger centralt, söder om söder. Det ligger några minuters promenad från midsommarkransen tunnelbana, och flertalet bussar stannar precis vid klippan. Åker ni bil så ligger klippan mitt på en parkeringsplats -- dock oklart huruvida man får stå där.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+
+==Leder==
+=== Vänster ===
+[[Bild:taxiklippan_vanster.jpg]]
+
+{|
+|- valign="top"
+
+{{led|nr=1|namn=???|grad=4|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Håll dig till vänster på stora juggar (??).}}
+{{led|nr=2|namn=????|grad=4|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Rakt upp genom det lilla överhänget.}}
+{{led|nr=3|namn=??|grad=5+|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Lite krystad balansklättring precis till vänster om lyktstolpen.}}
+
+{{led|nr=4|namn=??|grad=5|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Ännu mera krystad balansklättring, håll dig till höger om lyktstolpen.}}
+{{led|nr=5|namn=??|grad=4-|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Följ sprickan.}}
+
+|}
+
+=== Mitten ===
+[[Bild:taxiklippan_mitten.jpg]]
+
+{|
+|- valign="top"
+
+{{led|nr=1|namn=Gagnam Style |grad=4|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Lätt, men småkul klättring med juggar och underclings.}}
+{{led|nr=2|namn=?|grad=4|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Lätt, men småkul klättring med juggar och underclings.}}
+{{led|nr=3|namn=Inget namn|grad=L|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] -2012|text=Enklaste sättet att komma upp för att installera toprep.}}
+{{led|nr=4|namn=Vi kastar sten på taxibilarna|grad=6+|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Gustavsson]] -2012|text=Följ den lilla sprickan rakt upp.}}
+{{led|nr=5|namn=Karmabjörken|grad=6|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Gustavsson]] -2012|text=Följ den större sprickan ovanför björken.}}
+|}
+
+=== Höger ===
+[[Bild:taxiklippan_hoger.jpg]]
+
+{|
+|- valign="top"
+
+{{led|nr=1|namn=N/A|grad=5?|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Gustavsson]]?|text=..?}}
+{{led|nr=2|namn=Vem fan snodde min cykel?|grad=6+|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Björk]] och [[Johan Gustavsson]]|text=Ett svårt crux...}}
+{{led|nr=3|namn=N/A|grad=5?|typ=toprep|betyg=0|bultar=0|längd=5|fa=[[Johan Gustavsson]]?|text=Väldigt odefinierad, går att göra lite hur svår eller enkel man vill genom att eliminera saker..}}
+|}
+
+
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+<!-- [[kategori:Saknar skiss]] -->
+<!-- [[kategori:Saknar leder]] -->
+<!-- [[kategori:Saknar skrivarformatering]] -->
+
+[[Kategori:Stockholm]]
+[[Kategori:Stockholm City]]

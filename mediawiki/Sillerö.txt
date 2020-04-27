@@ -1,0 +1,28 @@
+{{Komplett}}
+
+== Beskrivning ==
+Ett block med överhängande, travers och svaproblem. Blocket har potential till fler problem och det finns några mindre block i närheten som också kan hysa några projekt.
+Projektera gärna.
+
+== Vägbeskrivning ==
+
+Från riksväg 71 i Yttermalung ta in avtagsväg mot Tyngsjö och Sillerö. När du kommit in i Sillerö kommer du efter ett tag att se en mast på höger hand. ta då in vägen mot masten. Parkera på vänster sida av vägen in på en skogsbilväg.
+
+== Problem ==
+ [[Bild:IMG 0005 problem extra liten.JPG]]
+
+{{problem|namn=Lille skutt|grad=5c|betyg=0|fa= Joakim Eriksson-2011|text=Grön linje Lägre startgrepp än röd. Upp på slopers och lister, lite mantling på slutet. Kan nån få till sittstart så stiger nog graderna en aning!}}
+
+{{problem|namn=Stora stygga vargen|grad=5c|betyg=0|fa= J. Eriksson-2011|text=Röd linje Båda händerna på bra startgrepp, sedan rakt upp på blocket. Kan bli vasst åt underarmarna.}}
+
+{{problem|namn=Långa farbrorn|grad=6c|betyg=0|fa= J. Eriksson-2013|text=Blå linje Samma startgrepp som grön, blå linjen felritad ska starta längre till vänster. Traversering åt höger via en liten läpp. Lång sträckning alternativt sloping till bra grepp långt till höger. Sedan rakt upp, i samma avslut som gul.}}
+
+{{problem|namn=Bamse|grad=5b|betyg=0|fa= J. Eriksson-2011|text=Gul linje. Startgrepp högt upp. Är du kort så vik paddan dubbel. Sedan långa skick mot toppen.}}
+
+{{problem|namn=Projekt|grad=?|betyg=0|text=Travers projekt. Streckad grön linje.}}
+
+[[Bild:IMG 0006 prob liten.JPG]]
+
+{{problem|namn=Tungan rätt i mun|grad=5b|betyg=0|fa= J. Eriksson-2011|text= Röd linje. Händerna bara på vänstra hyllan, sedan skick mot toppen. Balansig och lite avig.}}
+
+{{problem|namn=Värma|grad=4b|betyg=0|fa= J. Eriksson-2011|text= Röd+blå linje. Använd både vänster och höger hylla för händerna. Enkel men lite rolig.}}

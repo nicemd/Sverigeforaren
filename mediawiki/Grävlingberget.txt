@@ -1,0 +1,27 @@
+{{boulderstub}}
+{{info klippa
+  |lat=56.18138888888889
+  |long=15.842222222222222
+}}
+
+== Allmänt ==
+Ett outvecklat boulderområde utanför Jämjö med möjlighet till ett tiotal problem. Ta med borste!
+
+==Vägbeskrivning==
+Från E22:
+*Kör in på Torhamnsv vid kyrkan i Jämjö.
+*Kör 2.0 km, sväng sen vänster och direkt höger (grusväg).
+*Kör 200 meter, sväng sen höger in på den 2:a vägen vid det blåa(?) huset.
+*Kör slutligen 800 meter.
+Boulderområdet ligger 50m upp i skogen.
+
+<googlemap width=350 height=300 lat="56.18138888888889" lon="15.842222222222222" zoom="11" type="map" controls="small">
+56.18138888888889,15.842222222222222,[[Grävlingberget]]
+</googlemap>
+
+==Problem==
+{{led|nr=1|namn=Johans Handjam|grad=L|betyg=3|längd=4
+ |fa=Tomas Hjelmberg 07|bultar=0|typ=boulder|text=Lätt handjam.}}
+
+[[Kategori:Oklättrat]]
+[[kategori:Blekinge]]

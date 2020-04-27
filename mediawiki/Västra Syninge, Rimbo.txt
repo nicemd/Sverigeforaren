@@ -1,0 +1,106 @@
+=Allmänt=
+Västra Syninge är tillsammans med Jägarhyddan och Norrtjära det mest utvecklade boulderområdet i Roslagen.
+
+=Vägbeskrivning=
+Västra Syninge ligger 9 km öster om Rimbo, väg 77 till Finsta (buss 625 fr Danderyds sjukhus t Finsta station), ta sedan av vänster mot Södertjära, åk drygt 1 km till skylt V Syninge till h. Åk 100 m och parkera i glänta till v. Blocken ligger på rad ner mot åkern, Stenkyrkan syns direkt från vägen, Hasselblocket 30 m bortanför och Häggsten ytterligare 200 m bort. En stig går i skogen till v om åkern.
+=Sektorer=
+==Uppvärmningsblocket==
+
+{{problem|nr=1|namn=Stäppvargen|grad=5B|fa=Stefan Sjöberg, 2008|sopad=Stefan Sjöberg|sittstart=ja|text=Låg start, krimplister+undercling, catch hylla, vidare kanten}}
+{{problem|nr=2|namn=Andrés|grad=4C|fa=André Hallberg, 2008|sopad=André Hallberg|sittstart=ja|text=Matchstart, dra upp till v kant och vidare upp}}
+
+==Låga skogsblocket==
+
+{{problem|nr=33|namn=Novembertravers|grad=6A+|typ=Mantling,Travers V->H,Heel hook|fa=Klara Emmerfors|landning=2|betyg=1|sopad=Klara Emmerfors|sittstart=ja|text=Traversera v>h, mantla kanten}}
+{{problem|nr=34|namn=Ligga lågt|grad=4C|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|sittstart=ja|text=Traversera h>v, upp över kanten}}
+==Stenkyrkan==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=7|namn=Midsommarnattsdröm|grad=7A+|typ=Krimp,Överhäng,Travers V->H|fa=Stefan Sjöberg, 2006|betyg=3|sopad=Stefan Sjöberg|sittstart=ja|text=Traversera v>h med start i grottan, mantla kant}}
+{{problem|nr=9|namn=Vårspegling|grad=5C|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|text=}}
+{{problem|nr=10|namn=Förbigåendet|grad=7A|typ=Krimp,Slopers,Travers H->V|fa=Stefan Sjöberg, 2007|betyg=2|sopad=Stefan Sjöberg|text=Start som Höstreflex, traversera h>v, avslut som Midsommarnattsdröm}}
+{{problem|nr=11|namn=Frostnupen|grad=6A|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|text=Upp över liten bulle}}
+| width="250px" |
+{{problem|nr=11|namn=Vårkänsla|grad=6C|typ=Krimp,Slopers,Heel hook|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|uteslutningar=ja|text=Start som Dagsmeja. Fortsätt sedan som Frostnupen, utan att gå på hyllan nere till v.}}
+{{problem|nr=11|namn=Den glada vetenskapen|grad=7A+|typ=Krimp,Slopers,Travers V->H|fa=Stefan Sjöberg, 2008|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Start som Vårspegling, traversera sprickan under Höstreflex v>h, avslut som Förbigåendet}}
+{{problem|nr=12|namn=Dagsmeja|grad=6B|typ=|fa=Stefan Sjöberg|sopad=Stefan Sjöberg|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=12|namn=Midsommarhighball|grad=5A|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|text=Rakt upp över högsta partiet mitt på blocket}}
+{{problem|nr=13|namn=13|grad=5A|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|text=Den höga till höger om Midsommarhighball}}
+{{problem|nr=14|namn=Tjällossning|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Starta inne vid högra kanten, traversera h>v snett uppåt}}
+|}
+
+==Ekblocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=3|namn=Svalka|grad=4C|typ=|fa=Klara Emmerfors|landning=4|sopad=Klara Emmerfors|text=Svat inåt grottan}}
+{{problem|nr=4|namn=Nybörjartur|grad=4A|typ=|fa=Klara Emmerfors|landning=2|sopad=Klara Emmerfors|text=Vänsterkanten upp}}
+{{problem|nr=4|namn=4|grad=5B|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Markant h grepp, upp åt v}}
+| width="250px" |
+{{problem|nr=5|namn=17 januari|grad=4C|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Start i tydlig struktur mitt på blocket, upp på kanten}}
+{{problem|nr=30|namn=Fernando|grad=6A|typ=|fa=Stefan Sjöberg|landning=5|sopad=Stefan Sjöberg|sittstart=ja|text=Upp högra sidan av blocket}}
+|}
+
+==Hasselblocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=15|namn=Vildsvinet|grad=6B|typ=|fa=Stefan Sjöberg|landning=5|betyg=1|sopad=Stefan Sjöberg|text=Starta på crimpar, dra upp till kanten}}
+{{problem|nr=16|namn=Svinhänget|grad=5B|typ=|fa=Karl Karlström|landning=5|sopad=Karl Karlström|text=Kanten till h om Vildsvinet, rakt upp}}
+{{problem|nr=17|namn=17|grad=4C|typ=|fa=Klara Emmerfors|landning=5|sopad=Klara Emmerfors|text=Start vid Svinhänget, taversera kanten h>v}}
+{{problem|nr=18|namn=Soltraversen|grad=4A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Blockets sida ut mot åkern. Traversera sprickbildning från högra kanten upp åt v.}}
+| width="250px" |
+{{problem|nr=20|namn=Hartsrosen|grad=4B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Fronta blocket upp}}
+{{problem|nr=22|namn=Höga svat|grad=4B|typ=|fa=Karl Karlström|landning=4|sopad=Karl Karlström|text=Rakt upp svapartiet i klyftan}}
+{{problem|nr=23|namn=Bullen|grad=5C|typ=|fa=Gustav|landning=5|betyg=1|sopad=Gustav|text=Traversera uppåt v, upp bullen}}
+{{problem|nr=24|namn=Gustavs|grad=5B|typ=Krimp|fa=Gustav|landning=3|betyg=1|sopad=Gustav|text=Lister rakt upp andra väggsidan}}
+{{problem|nr=25|namn=Traversbullen|grad=6A|typ=Krimp|fa=Stefan Sjöberg|landning=2|betyg=1|sopad=Stefan Sjöberg|text=Upp över diederbullen}}
+| width="250px" |
+{{problem|nr=26|namn=Nötknäckaren|grad=5C|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Mellan Traversbullen och Hasselkunten}}
+{{problem|nr=27|namn=Hasselkunten|grad=4C|typ=|fa=Ulf Palm|landning=2|sopad=Ulf Palm|text=Lay back dieder}}
+{{problem|nr=28|namn=Areten|grad=5B|typ=Jam,Aréte|fa=Ulf Palm|landning=2|sopad=Ulf Palm|text=Händer i areten, jamma}}
+|}
+==Skogsblocket==
+
+{{problem|nr=31|namn=Vänsterkanten|grad=4C|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|text=Upp vänsterkanten}}
+{{problem|nr=32|namn=Högerkanten|grad=5B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Upp högerkanten}}
+==Häggsten==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=35|namn=Fensen|grad=5A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Börja v sida av blocket, traversera upp över kanten}}
+{{problem|nr=36|namn=Harsprånget|grad=6B|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Starta på tydlig lista + undercling, lister upp}}
+{{problem|nr=37|namn=Tjurrusningen|grad=6C|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Start vid Påskharen, traversera h>v upp}}
+| width="250px" |
+{{problem|nr=38|namn=Påskharen|grad=6A+|typ=|fa=Stefan Sjöberg|landning=4|sopad=Stefan Sjöberg|sittstart=ja|text=Fronta stenens hörn}}
+{{problem|nr=40|namn=Fågelskådaren|grad=5B|typ=|fa=Stefan Sjöberg|landning=5|sopad=Stefan Sjöberg|text=Liggstart. Ryggen på låga blocket, dra till, tydlig list, upp}}
+| width="250px" |
+{{problem|nr=42|namn=Halvmetern|grad=6A+|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Dra till från pinchen, ett move till kanten}}
+{{problem|nr=43|namn=Tistelbågen|grad=6B|typ=Heel hook|fa=Stefan Sjöberg|landning=3|betyg=2|sopad=Stefan Sjöberg|text=Hangla kanten åt vänster och upp}}
+|}
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=8|namn=Höstreflex|grad=5B|typ=Layback,Travers V->H|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|text=}}
+{{problem|nr=29|namn=Pizzetti|grad=6C+|typ=Toe hook|fa=Stefan Sjöberg, 2007|betyg=2|sopad=Stefan Sjöberg|sittstart=ja|text=Starta sittande lilla blocket, brett med båda händerna}}
+| width="250px" |
+{{problem|nr=39|namn=Mellan hägg och syren|grad=6C|typ=Travers V->H,Spricka|fa=Stefan Sjöberg|landning=4|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Följ fina sprickan uppåt höger}}
+{{problem|nr=41|namn=Ormslingan|grad=6C+|typ=Krimp,Pinch,Reach|fa=Stefan Sjöberg, 2004|betyg=1|sopad=Stefan Sjöberg|startgrepp=ja|text=Start båda händer markant grepp v del av blocket, åt h till handtag, reach h till pinch, upp}}
+| width="250px" |
+|}
+[[Kategori:Roslagen]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

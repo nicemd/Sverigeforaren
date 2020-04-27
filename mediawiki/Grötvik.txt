@@ -1,0 +1,13 @@
+{{info klippa
+  |lat=56.64301439501659
+  |long=12.775726318359375
+}}
+
+{{stub}}
+
+<googlemap lat="56.64301439501659" lon="12.775726318359375" zoom="12" type="karta">
+56.64301439501659,12.775726318359375,Grötviks stenbrott
+</googlemap>
+
+Stenbrott vilket leder till vass sten. Många bultade leder i brotten i omgivningen. Varierande svårighetsgrad. svårighetsgraden står skriven på klippan. Hemmaklippa för halmstad KK
+[[Kategori:Halland]]

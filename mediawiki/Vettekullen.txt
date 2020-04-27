@@ -1,0 +1,120 @@
+{{info klippa
+  |lat=58.460576
+  |long=11.507707
+}}
+
+{{utkast}}
+== Introduktion ==
+  
+== Karaktär ==
+Klassisk sprick och vägg-klättring. Vettekullen och inbefattas av Bohusläns Klätterklubbs bultpolicy om att hållas bultfria i framtiden. 
+
+Classic crack and face climbing. Vettekullen follows the Bohusläns Klätterklubb's bolt policy on staying bolt free in the future.  
+
+== Vägbeskrivning ==
+<googlemap version="0.9" lat="58.472875" lon="11.506805" type="map" zoom="11" height="300" selector="no" controls="small">58.460576, 11.507707,Vettekullen</googlemap>
+
+== Access ==
+
+{{AccessDB|klippa=vettekullen}}
+{{tryckt förare|förförare bohuslän (2012)=ja}}
+
+==Leder==
+=== Övre Väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Cora|grad=4+|betyg=|längd=25|fa=[[Pia Fagernes, Niklas Björnerstedt -94]]
+ |typ=trad|text=}}
+
+{{led|namn=Stå På Tå|grad=7/7+|betyg=|längd=25|fa=[[Niklas Björnerstedt, Bogi Palfay -95]]
+ |typ=trad|text=}}
+
+{{led|namn=Ormsprickan|grad=6+|betyg=|längd=15|fa=[[Henrik Bolander, David Bolander -89]]
+ |typ=trad|text=}}
+
+{{led|namn=Surfing Panama|grad=5|betyg=|längd=25|fa=[[Henrik Sjöqvist, Lina Lundkvist -07]]
+ |typ=trad|text=Starta i Ormsprickan, höger under "taket" upp i hörnet och avsluta med ett par feta handjam i Skitrännan, eller följ den tydliga linjen.}}
+
+{{led|namn=The River|grad=7-|betyg=1|längd=15|fa=[[Henrik Bolander, Jonas Böttiger -89]]
+ |typ=mix|text=}}
+
+{{led|namn=Highway Star|grad=7+|betyg=1|längd=20|fa=[[Fredrik Rundkvist, Henrik Bolander, Jonas Böttiger -89]]
+ |typ=mix|text=}}
+
+{{led|namn=Physical Grafitti|grad=7-|betyg=1|längd=20|fa=[[Fredrik Rundkvist, Anders Jauring -89]]
+ |typ=mix|text=}}
+
+{{led|namn=Skitrännan|grad=5+|betyg=1|längd=20|fa=[[Fredrik Rundkvist, Anders Jauring -89]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=?|grad=8-|betyg=|längd=25|fa=[[Henrik Bolander -95]]
+ |typ=mix|text=}}
+
+{{led|namn=Dark Side Of The Moon|grad=7|betyg=|längd=22|fa=[[Henrik Bolander, Jonas Böttiger -89]]
+ |typ=trad|text=}}
+
+{{led|namn=Jumjum|grad=7-|betyg=2|längd=22|fa=[[Henrik Bolander, Jonas Böttiger -89]]
+ |typ=trad|text=}}
+
+{{led|namn=Vrålet|grad=7+|betyg=2|längd=25|fa=[[Henrik Bolander, Jonas Böttiger -89]]
+ |typ=mix|text=}}
+
+{{led|namn=Tröttmössans Tystnad|grad=6-|betyg=2|längd=22|fa=[[Jonas Böttiger, Henrik Bolander -89]]
+ |typ=trad|text=}}
+
+{{led|namn=For You|grad=5+|betyg=1|längd=20|fa=[[Lars Svadängs, Niklas Björnerstedt -89]]
+ |typ=trad|text=}}
+
+{{led|namn=Trinda Tår Och Trånga Tofflor|grad=7-|betyg=|längd=7-|fa=[[Henrik Bolander, Jonas Böttiger -89]]
+ |typ=mix|text=}}
+
+{{led|namn=Nästan Som Debiloff, Fast Tvärt Om|grad=7|betyg=2|längd=18|fa=[[Henrik Bolander, Jonas Böttiger -89]]
+ |typ=sport|text=}}
+
+|}
+
+
+=== Nedre Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Sunksprickan|grad=7-|betyg=|längd=15|fa=[[Johan Svensson -97]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Free At Last|grad=7+|betyg=|längd=15|fa=[[Niklas Björnerstedt, Ulrika Tiegs -96]]
+ |typ=trad|text=}}
+
+|}
+
+=== Granväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Torr Sommar|grad=6+|betyg=|längd=15|fa=[[Niklas Björnerstedt, Lars Svadängs -89]]
+ |typ=trad|text=}}
+
+{{led|namn=Fällda Granar|grad=6-|betyg=|längd=25|fa=[[Niklas Björnerstedt, Lars Svadängs -89]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=På Sista Varvet|grad=6+|betyg=|längd=15|fa=[[Lars Svadängs, Niklas Björnerstedt -89]]
+ |typ=trad|text=}}
+
+|}
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:access]]

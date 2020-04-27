@@ -1,0 +1,81 @@
+{{utkast}}
+[[Bild:uggelberget_front.jpg|thumb|350px|left|Uggelberget, Foto: [[Användare:Peblin|Per Lindh]]]]
+[[Bild:uggelberget.jpg|thumb|250px|right|[[Andreas Harne]] på Liquid Jesus, 7b. 
+Foto: [[User:Niclas|Niclas Emdelius]]]]
+<div style="clear: both"></div>
+
+==Allmänt==
+Medelstort, nyligen utvecklat berg utanför Nyköping med ett 30-tal leder i olika grader, såväl kilsäkrade som bultade leder. Klättring förbjuden under 1 feb-15 aug varje år pga fågelskydd.
+
+==Beskrivning==
+En ny förare som täcker Uggelberget, Simonsberget, Bistaberget samt andra berg i Södermanland har släppts i november 2006. Beställ via [http://www.dangerzone.se Dangerzone].
+
+{{tryckt förare|klättring i södermanland (2006)=ja}}
+
+==Access {{access}}==
+
+{{AccessDB|klippa=uggelberget}}
+
+== Leder ==
+
+=== Debutväggen ===
+
+{{led|nr=1|namn=Debutanten|grad=4b|betyg=|längd=8|fa=[[Andreas Harne]][[2005|-05]]|bultar=2|typ=sport|text= }}
+{{led|nr=2|namn=Ung rebell|grad=5a|betyg=|längd=9|fa=[[Andreas Harne]][[2005|-05]]|bultar=3|typ=sport|text= }}
+{{led|nr=3|namn=Född vild|grad=5b|betyg=|längd=9|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=sport|text= }}
+{{led|nr=4|namn=Jasså, herrn är ute och klättrar|grad=6a|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=1|typ=mixad|text= }}
+{{led|nr=5|namn=Död åt byråkraterna|grad=6b|betyg=|längd=15|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=sport|text= }}
+{{led|nr=6|namn=öppet projekt|grad=?|betyg=|längd=|bultar=|typ=|text= }}
+{{led|nr=7|namn=Frukost för luftarianer|grad=5c|betyg=|längd=25|fa=[[Örjan Lindunger]][[2006|-06]]|bultar=|typ=trad|text=Den luftiga diedern rakt upp och sedan travers åt vänster. Vidare till tallen och avsluta med överdelen i Hinkens hörna.}}
+
+=== Stora väggen - vänstra delen ===
+
+{{led|nr=8|namn=Skogsstjärna|grad=6b|betyg=|längd=25|fa=[[Andreas Harne]][[2005-06|-05]]|bultar=9|typ=sport|text= }}
+{{led|nr=9|namn=Hinkens hörna|grad=5b|betyg=|längd=30|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=s|text= }}
+{{led|nr=10|namn=Solens tempel|grad=6c|betyg=|längd=23|fa=[[Andreas Harne]][[2005|-05]]|bultar=7|typ=sport|text= }}
+{{led|nr=11|namn=Odjuret i ditt inre|grad=6c+|betyg=|längd=23|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=sport|text= }}
+{{led|nr=12|namn=Gryningsräd|grad=6b|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=mixad|text= }}
+{{led|nr=13|namn=Vingar av stål|grad=7a|betyg=|längd=|fa=[[Andreas Harne]][[2006|-06]]|bultar=8|typ=sport|text= }}
+{{led|nr=14|namn=Det gyllene snittet|grad=7a+|betyg=|längd=|fa=[[Andreas Harne]][[2006|-06]]|bultar=8|typ=sport|text= }}
+{{led|nr=15|namn=Liquid Jesus|grad=7b|betyg=3|längd=20|fa=[[Andreas Harne]][[2006|-06]]|bultar=7|typ=sport|text=Jämn och fin svaklättring på små kristaller.}}
+{{led|nr=16|namn=Stängt projekt|grad=7c?|betyg=|längd=20|fa=[[Robin Dahlberg]]|bultar=|typ=sport|text= }}
+{{led|nr=17|namn=Nådens år|grad=6a+|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=trad|text= }}
+
+=== Stora väggen - ovanför lilla väggen  ===
+
+{{led|nr=18|namn=Jag blir sned|grad=6c|betyg=|längd=|fa=[[Andreas Harne]][[2006|-06]]|bultar=5|typ=sport|text= }}
+{{led|nr=19|namn=Bubo bubo|grad=7b+|betyg=|längd=20|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=sport|text= }}
+{{led|nr=20|namn=Hemma hos|grad=5a|betyg=|längd=|fa=[[Johanna Wernqvist]],[[Kristian Westerlund]],[[Andreas Harne]][[2005|-05]]|bultar=|typ=trad|text= }}
+{{led|nr=21|namn=Athos|grad=5b|betyg=|längd=6|fa=[[Andreas Harne]][[2005|-05]]|bultar=2|typ=sport|text= }}
+{{led|nr=22|namn=Porthos|grad=5b|betyg=|längd=6|fa=[[Andreas Harne]][[2005|-05]]|bultar=2|typ=sport|text= }}
+{{led|nr=23|namn=Aramis|grad=5b|betyg=|längd=6|fa=[[Andreas Harne]][[2005|-05]]|bultar=2|typ=sport|text=Samma bultar som Porthos men klättra till höger om bultarna}}
+{{led|nr=24|namn=Uggelflaket|grad=6b+|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=5|typ=mix|text= }}
+{{led|nr=25|namn=Memento mori|grad=6c|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=6|typ=sport|text= }}
+{{led|nr=26|namn=Per aspera ad astra|grad=6c|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=4|typ=mix|text= }}
+{{led|nr=27|namn=Evighetsmaskinen|grad=7a|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=7|typ=sport|text=ev kan liten friend  komma till användning på slutet - liten runout }}
+{{led|nr=28|namn=Sticitus|grad=6a|betyg=|längd=|fa=[[Jonas Franzen]][[2005|-05]]|bultar=|typ=trad|text= }}
+{{led|nr=29|namn=Öppet projekt|grad=5?|betyg=|längd=|fa=Ingen Ännu|bultar=|typ=trad|text=Nästan färdigborstat hyllsystem. Varsågoda! }}
+
+=== Lilla väggen ===
+
+{{led|nr=30|namn=Vildhallon|grad=5b|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=trad|text= }}
+{{led|nr=31|namn=öppet projekt|grad=?|betyg=|längd=|fa=]|bultar=|typ=sport|text=bör borrbultas }}
+{{led|nr=32|namn=Sweet home Tunaberg|grad=4b|betyg=|längd=|fa=[[Andreas Harne]][[2005|-05]]|bultar=|typ=trad|text= }}
+{{led|nr=33|namn=Min egen Hexaromb|grad=4c|betyg=|längd=|fa=[[Andreas Harne]][[2006|-06]]|bultar=|typ=trad|text= }}
+{{led|nr=34|namn=Smack my bitch up|grad=6b+|betyg=|längd=|fa=[[Andreas Harne]][[2006|-06]]|bultar=1|typ=sport|text= }}
+{{led|nr=35|namn=Familjen Tuff-Tuff|grad=5c|betyg=|längd=|fa=[[Andreas Harne]][[2006|-06]]|bultar=|typ=trad|text= }}
+
+=== Bateman-väggen ===
+
+{{led|nr=36|namn=Batemans etage|grad=6b|betyg=|längd=15|fa=[[Jonas Franzen]][[2005|-05]]|bultar=|typ=trad|text=  }}
+{{led|nr=37|namn=Himmelriket|grad=6c|betyg=|längd=15|fa=[[Andreas Harne]][[2006|-06]]|bultar=5|typ=sport|text= }}
+
+
+
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Sva]]
+[[Kategori:Vertikalt]]
+
+[[Kategori:Saknar vägbeskrivning]] [[Kategori:Saknar skiss]] [[Kategori:Saknar karta]] [[Kategori:Saknar koordinater]]
+[[Kategori:Södermanland]]

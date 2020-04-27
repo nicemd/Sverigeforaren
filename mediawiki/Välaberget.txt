@@ -1,0 +1,221 @@
+{{info klippa
+  |lat=63.293711
+  |long=13.216209
+}}
+
+{{komplett}}
+
+==Allmänt==
+Välkommen till Åredalens finaste klätterklippa. '''Välaberget''' är en klätterklippa på fjället Vällistes skogsbeklädda nordöstsluttning. Huvuddelen av klippan är öst-sydöstvänd och här bedrivs klättring med en skön utsikt över böljande fjäll och vidder.
+
+==Beskrivning==
+Klättringen på denna lilla klippa är av utmärkt kvalité och kännetecknas främst av småstegsklättring på mycket god friktion. Klippan genomkorsas även av en hel del spricksystem, både stora och små. Klippan är ungefär femton meter hög i snitt och ungefär hundra meter bred. Det finns i runda slängar ett trettiotal leder i varierande svårighetsgrad.
+
+Det har klättrats länge på denna klippa och troligen är [[Gillis Billing]] och [[Göran Stenberg]] några av de första att klättra lite mer seriöst här under -60 och -70-talet (tidigaste kända klättring av Välaberget skedde redan under trettiotalet). Under -80 och -90 talet har [[Håkan Eliasson]] och [[Jonas Persson, MatsHåkan Lundhag]] varit flitiga besökare av klippan. Leden "Joshua" aka "Sprickan i Skogen", är kanske den mest omtalade och består av en ensam, bred spricka som klyver en mycket brant vägg och ett "tak". Den klättrades första gången av [[Josef Nyström]] och/eller [[Mats Olofsson]], och är graderad till 8-/8. Annan kuriosa att känna till är att 95% av alla frileder på Välaberget har klättrats Frisolo.
+
+Ett antal leder är borrbultade men kräver även att man säkrar med egen Tradutrustning där det tillåter. Leder som Främlingslegionen, Skoterleden och Röd Oktober är typiska exempel på detta.
+
+Att Aidklättring är en betydande del av Välaberget märks tydligt då det finns ungefär 10 leder som klättrats i denna stil. De flesta etablerade under -90-talet. Den så kallade "Stora Stenen" är ett stort stenblock nedanför huvudväggen, där det är tillåtet att bedriva träning (dvs med topprep om man vill) för aidklättring på tre etablerade aidleder. 
+Det finns även en samling aidleder på huvudväggen (från C2 till A4+) dessa klättras UTAN topprep, endast på LEAD för att förhindra onödigt slitage, var vänlig Respektera detta! Samtliga aidleder är klättraren [[Pierre Olsson]]s verk.
+
+Det finns också stor möjlighet till fin bouldering då många stora block med ett flertal etablerade problem finns nedanför huvudväggen.
+
+Vid foten av Välaberget finns en gästbok, skriv gärna, boken fungerar som ett forum för de klättrare som är aktiva i området. Här kan man läsa om det senaste som gäller för just Välaberget.
+Lokal klubb är [http://www.arekk.se/ Åredalens Klätterklubb].
+
+==Vägbeskrivning==
+<div style="float:right; border: solid 1px grey">
+<googlemap lat="63.317925" lon="13.30307" type="map" zoom="11" width="375" height="225" overview="yes" controls="small">
+63.293711, 13.216209, Välaberget i Undersåker, Åre
+</googlemap>
+</div>
+
+Sväng av från E14 i Undersåker mot Vålådalen. Passera indalsälven
+och Henån. I slutet av den branta uppförsbacken efter Henån finns en p-plats på höger sida, här står numera också en mobilmast. Följ kryssleden över kalhygget mot Väliste. Tag en stig åt höger efter ungefär 1 km. Följ den numera vältrampade stigen till berget. Det tar ca 15min att gå från parkeringen till klippan.
+
+<div style="clear:both"></div>
+
+{{sidbrytning}}
+==Leder==
+[[Bild:Valaberget.png]] 
+{|
+|- valign="top"
+| width="233px" |
+{{led|nr=1|namn=Meganöten|grad=5|längd=12|gruv=b|text=Följ diedret upp till hyllan, sedan höger och avslutas något överhängande. Fel utritad på skissen, leden som är utritad är i princip sträckningen för Captain Hook. Meganöten går ett par meter till vänster i det uppenbara diedret. }}
+
+{{led|namn=Titel tåtel|grad=6|betyg=3|typ=sport|ny=1|fa= Jan Rydén 2012|text= Ute på areten. 7 bultar. Topankare. }}
+
+{{led|namn=Grekisk sallad|grad=8|betyg=3|typ=sport|ny=1|fa= Marcus Hernegård 2010|text= Går mitt på väggen mellan två aidlinjer. Startar vid en svag areteformation som sträcker sig ca 3 bultar upp. Därefter rakt upp på vassa crimpar mot ankaret under taket. Regnsäker. 4 bultar. Firningsankare. }}
+
+{{led|nr=2|namn=Puhs hörna|grad=7|längd=13|gruv=d|betyg=2|typ=trad|text=Överhängade diedret rakt upp. Tung och tämligen teknisk led, något runout 2/3 upp. Går att leda med kamkilar och wirekilar, vilket har gjorts många gånger. Rensning och första kända klättring av P Olsson, 1993}}
+
+{{led|namn=Mockapär|grad=8-|betyg=2|typ=sport|ny=1|fa= [[Alexander Rydén]] 2012|text=Väggen mellan puhs hörna och vit november. 5 bultar.  Firningsankare. }}
+
+{{led|nr=3|namn=Vit november|grad=7|längd=12|betyg=3|bultar=4|typ=sport|fa=[[Pierre Olsson]], 2001|text=En av de finaste bultade lederna på berget. Tidigare en aidlinje}}
+
+{{led|nr=4|namn=Bulten|grad=6-|längd=8|typ=topprep|text=Kort, brant och välsopad. Endast toppsäkrad led.}}
+
+{{led|namn=Ända in i Kaklet|ny=1|grad=6|betyg=3|typ=sport|fa=Filip Arvidsson, [[Alexander Rydén]] -2010.|text= Gemensam start med Silhuettleden, men drar sig istället ut på vänstra väggen. Firningsankare. }}
+
+{{led|nr=5|namn=Siluettleden|grad=6-|längd=15|gruv=b|text=Börja ute på hörnet, klättra några layback moves upp till ett något löst block. Klättra över på högra väggen och följ den lilla sprickan rakt upp, sen vidare upp via Billingslingan till toppen.}}
+
+{{led|nr=6|namn=Förbjuden kant|grad=6|längd=9|bultar=4|betyg=1|typ=sport|text=Småstegsklättring rakt upp utan att använda kanten. 4bb och ett ankare med kedja. Vill man använda kanten så gör man givetvis det, graden är då 6- och leden är mycket fin på detta vis också!}}
+
+{{led|nr=7|namn=Björnen|grad=5+|längd=13|gruv=a|text=Layback via flaksprickan. Vid hyllan tar man de högra sprickorna upp till toppen. Firningsankare finns.}}
+
+{{led|nr=8|namn=Billingslingan|grad=4|längd=13|gruv=a|betyg=2|typ=trad|text=Bra nybörjarled. Följ de parallella sprickorna, ställ dig på listen mitt på väggen och gå till vänster. Vidare rakt upp på hörnet. Toppankare.}}
+
+{{led|nr=9|namn=Främlingslegionen|grad=7-|längd=12|gruv=b|betyg=2|bultar=4|typ=mix|text=Säkra i tvärsprickan med 4cm kamkil. Sedan rakt upp på små grepp via 4 bb mot det stora taket vid toppen. Taket klättras med dragning åt höger via ett incutgrepp för högerhanden i taket. Bultat ankare.}}
+
+| width="233px" |
+
+{{led|nr=10|namn=Teknisk linje|grad=6-|längd=11|gruv=a|betyg=2|bultar=4|typ=sport|text=Klättra rakt upp med utsteg till höger eller vänster om taket. Går också dela upp leden med en på var sida om det svagt utstickande hörnet mitt på leden, grad 6.}}
+
+{{led|nr=11|namn=Eliassons svarta fläck|grad=6|längd=9|bultar=4|typ=sport|betyg=1|text=Insteg i sprickan, lägg en kamsäkring i tvärsprickan om du känner dig osäker. Följ diederet rakt upp via tre bultar, gå lite höger och sedan uppför svaplattan via en borrbult till toppen. Toppankare.}}
+
+{{led|nr=12|namn=Hylands hörna|grad=6-|längd=9|typ=topprep|text=Klättra helt ute på hörnet hela vägen upp. Endast  topprep. Teknisk led.}}
+
+{{led|nr=13|namn=Korphörnet|grad=4+|längd=11|gruv=a|text=Går helt inne i hörnet. Bra nybörjarled, dock något grusig och svårare än man kanske tror.}}
+
+{{led|nr=14|namn=Korpleden|grad=5|längd=16|gruv=b|text=Insteg några meter till höger om Korphörnet. Klättra i sprickan och upp till stor hylla åt höger, gå ut runt hörnet och rakt upp. Sista halvan klättrar man via de sista bultarna på Ren o Fin. Vill man toppa görs det lämpligen i borrbultsankaret till Ledknäckarn.}}
+
+{{led|nr=15|namn=Ledknäckarn|grad=7|längd=16|gruv=c|betyg=2|typ=mix|text=Börja leden nedanför det stora blocket, håll i blockets högra kant och klättra upp tills du står på själva spetsen. Placera en stor wirekil så högt du kan, jamma foten i sprickan och gå på rakt upp. Högerhanden greppar ute på areten till höger, säkra i den smala sprickan (gul alien/gul C3) sen med dragning åt vänster upp till stor hylla med en fixpitong, greppa höger-areten med högerhanden, kör rakt upp förbi borrbult till ankare, håll dej till vänster om areten hela tiden - gå inte ut till leden Ren o Fin, Ledknäckaren är en helt oberoende linje. Leden är nu upprustad med ny bb istället för den gamla, och en ny pitong. Toppankare. P Olsson 1992.}}
+
+{{led|nr=16|namn=Ren o Fin|grad=6|längd=16|bultar=6|betyg=2|typ=sport|text=Börja på hörnet och runda det åt höger. Klättra rakt upp med krux på ledens brantaste parti. Lättare sedan.Toppankare.}}
+
+{{led|nr=17|namn=Stenbergs led|grad=5+|längd=17|gruv=b||text=Samma insteg som led 16. Sedan går leden i princip mellan Ren o Fin och Skoterleden. En kombinationsled av 16 & 18 skulle man kunna säga.}}
+
+{{led|nr=18|namn=Skoterleden|grad=6-|längd=17|gruv=b|betyg=2|bultar=4|typ=mix|text=Första halva leden är borrbultad sedan Tradsäkrad med mycket fina lägen. Lite knepigt insteg snett åt vänster sedan rakt upp. Toppankare.}}
+
+| width="233px" |
+
+{{led|nr=19|namn=Kaminen|grad=5+|längd=17|gruv=a|text=Följ kaminen, klättra utanför på pelaren eller I kaminen. Går också att laybacka hela sprickan, fin Yosemite träning!}}
+
+{{led|nr=20|namn=Klastrofobi|grad=5-|längd=22|gruv=a|text=Samma insteg som kaminen men fortsätt in i kaminens mörker. Säkra i taket. Snart återkommer ljuset på andra sidan berget. Klättra över taket och laybackklättra utsteget. Varning för repdrag. Inget för den som lider av cellskräck! OBS, soloklättras oftast.}}
+
+{{led|nr=21|namn=Okänd|grad=6-|typ=sport|längd=13|bultar=5|text=Numera helbultad med samma insteg som Röd Oktober.}}
+
+{{led|nr=22|namn=Röd oktober|grad=6+|längd=14|gruv=b|betyg=2|bultar=3|typ=mix|text=Insteget är precis till höger om den överhängande väggen, i det lilla hörnet. Klättra upp i hörnet (aningen överhängande) säkra med en medium kamsäkring, mantla upp och följ den tunna sprickan omedelbart till vänster om näsan och sedan rakt över taket. Taket säkras med liten kam/kil. Två borrbultar som toppankare.}}
+
+{{led|nr=23|namn=Atomvinter|grad=7+|längd=11|gruv=a|betyg=2|bultar=4|typ=sport|text=Rakt upp på små lister till taket, låt bli stora sprickan till höger. Taket är cruxet, finns flera varianter. Borrbultad led.}}
+
+{{led|nr=24|namn=Atomvinter, variant|grad=5|längd=12|gruv=a|text=Vill du inte göra originalutsteget, klättra ut åt höger och laybacka uppför den stora sprickan, fint. Topankare}}
+
+{{led|nr=25|namn=Ökänd|grad=4+|längd=12|gruv=a|text=Starta i hörnet, följ den vassa stenkanten. Avslutas med att antingen traversera vänster under taket ända bort till Röd Oktober eller rakt upp i den stora sprickan (camalot 6) eller bara snett ut till höger på goda grepp.}}
+
+{{led|nr=26|namn=Johans lösa|grad=5+|längd=9|gruv=b|text=Klättra uppför det uppspruckna överhängande partiet.}}
+
+{{led|nr=27|namn=Mickes regndans|grad=5-|längd=9|gruv=a|text=Klättra över taket och följ sprickan upp.}}
+|}
+
+{{sidbrytning}}
+
+==Aidleder==
+'''Obs!''' Klättra inte nedanstående leder med topprep, utan endast på lead för att minimera onödigt slitage. Var vänlig respektera detta. (Anm. Det finns ytterligare ett antal aidleder på Välaberget som dock inte är utritade i denna förare.)
+
+{|
+|- valign="top"
+| width="233px" |
+{{led|nr=A|namn=Halvan|grad=A1|längd=6|typ=aid|text=Okänd förstabestigare och troligen friklättrad. Diedret rakt upp. Några Skyhoks och rurps. Leden är felritad på skissen, Halvan går bakom det stora döda trädet 8 meter till vänster om Captain Hook.}}
+
+{{led|nr=B|namn=Nostradamus|grad=A2|längd=17|typ=aid|fa=[[Pierre Olsson]] -97|text=Leden följer den mycket tunna sprickan till vänster om leden Puhs hörna. Säkra inte i hörnet! Det är en friled! Efter den tunna sprickan gå direkt ut på travers till vänster under överhänget, något "rutten" klippa. Leden har två 8mm-Petzlbultar utan hängare, ta med egna. Exakt ledbeskrivning finns i brevlådan vid Välaberget. Fler än 20 bestigningar.}}
+
+{{led|nr=C|namn=Svart september|grad=A2+/C3|längd=18|typ=aid|fa=[[Pierre Olsson]] -97|text=Rakt upp mot två 6mm-bultar utan hängare. Sedan via beaks och hooks mot två andra 6mm-bultar, även de utan hängare. Spricka mot toppen, samma utsteg som "Triss". Exakt ledbeskrivning finns i brevlådan vid Välaberget. Fler än 15 bestigningar.}}
+| width="233px" |
+{{led|nr=D|namn=Triss|grad=A3/C3+|längd=20|typ=aid|fa=[[Pierre Olsson]], [[Tomas Leitner]] -94|text=Start vid den hemgjorda borrbulten ute vid den tydliga areten. Rakt upp i den tunna sprickan, sedan över till vänster och upp i nästa tunna spricka. Skyhook travers till vänster och slutligen upp i nästa diagonala spricka (samma spricka som Svart September). Leden har två 8mm-Petzlbultar utan hängare. Ta med egena. Exakt ledbeskrivning finns i brevlådan vid Välaberget. Fler än 30 bestigningar. Historia: Förstabestigningen gjordes med en borrad BAT-Hook i starten, sedan helt naturlig, A4+ var graden då, nu borrad för att undvika markfall på en otroligt fin led som annars knappast skulle repeteras}}
+
+{{led|nr=E|namn=Copernicus|grad=A4|längd=10|typ=aid|fa=[[Pierre Olsson]] -99|text=Leden går uppför den svagt överhängade väggen till höger om frileden Ökänd. Insteg från svaplattan. Följ tunn spricka rakt upp i 2m fortsätt i den andra sprickan och avsluta med en Skyhook, fritt till toppen. Exakt ledbeskrivning finns i brevlådan vid Väla. Färre än 5 bestigningar.}}
+| width="233px" |
+{{led|nr=F|namn=Captain Hook|grad=A4|längd=17|typ=aid|fa=[[Pierre Olsson]] -99|text=Leden ej utritad på föraren, men startar 2m till vänster om Nostradamus. Många hooklägen samt Beaks och ett par Copperheads. Fler än 5 bestigningar.}}
+
+{{led|nr=G|namn=A5|grad=A4+|längd=10|typ=aid|fa=[[Pierre Olsson]] -98|text=Leden ej utritad på föraren, men startar 2m till höger om Copernicus. Fix pin i starten, i det lilla taket. Dragning åt höger sen rakt upp på Beaks och Rurps och Hooks. En led med kassa säkringar och stor skaderisk. Endast 1 bestigning.}}
+
+{{led|nr=H|namn=Variant|grad=A4+|längd=18|typ=aid|fa=[[Pierre Olsson]] -97|text=Leden ej utritad på föraren. Samma start som Svart September. Efter andra 6mm-bulten, gå rakt upp till hooktraversen på Triss. Överhängande och många copperheads. 2 bestigningar.}}
+|}
+{{sidbrytning}}
+
+==Nedre väggen==
+[[Bild:Valaberget_nedre.jpg]]
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=1|namn=Joshua|grad=8-/8|längd=9|betyg=5|typ=trad|fa=[[Josef Nyström]] -05, [[Mats Olofsson]] -97?|text=Den mycket branta breda sprickan som klyver väggen till vänster.  Mest hand- och knytnävsjam. Tag förutom standardstorlekar med två camalot #4, eller en camalot #5 och en camalot #4 för denna led.}}
+
+{{led|nr=2|namn=Blå ål|grad=7-|längd=6|typ=trad|text=Klättra den snea stora spickan. Tag med en camalot #5 eller en crashpadd.|fa=[[Alexander Rydén]] [[2007]]}}
+
+{{led|nr=3|namn=Lille Skutt|grad=6-|längd=9|betyg=3|typ=trad|fa=[[Pierre Olsson]] 1990|text=Hoppstart, gå sen rakt mot taket. 2 kamsäkringar i tvärsprickorna under taket. 2bb till ankare.}}
+
+{{led|nr=B|namn=Lillefjant|grad=7B|text=Boulder, sittstart på Lille Skutt. Startgrepp har gått sönder lite. Ståstart på problemet heter tåskutt 6B+|fa=[[Alexander Rydén]] [[2008]]}}
+
+{{led|nr=5|namn=Donkey Kong|grad=6B+|längd=3|text=Boulderled, etableringstart på små crimps|fa=[[Alexander Rydén]] [[2007]]}}
+
+{{led|nr=6|namn=Alexis|grad=6C|längd=2|betyg=3|text=Boulderled, etableringstart på sloopers. Sedan ett ryck upp till kanten. lite trixig|fa=[[Josef Nyström]] & [[Micke Andersson]] 2006}}
+|}
+
+{{led|nr=7|namn=Sekundära Diftonger|grad=7A|betyg=2|text=Boulderled, Sitstart sedan upp längs med aretén till starten på Lille Skutt.|fa=[[Alexander Rydén]] [[2009]]}}
+
+
+[[Bild:IMGP3411_.jpg]]
+
+Josef Nyström på Joshua 8-/8, [[2006]]
+Foto: Alexander Rydén
+
+==Stora Stenen==
+Finns flera Aidleder på stora stenen
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Traversen i skogen|grad=6B+|fa=[[Okänd]]|betyg=3|text=Boulder, Fin hangel travers på stenen brevid stora stenen.}}
+
+{{led|namn=Josef|grad=6C+|fa=[[Josef Nyström]] |betyg=23|text=Boulder}}
+
+{{led|namn=?|grad=6A+|fa=[[Okänd]]|betyg=1|text=Boulder, travers längs med den diagonala sprickan på stora stenen.}}
+
+{{led|namn=Elefanthopp|grad=7A+|fa=[[Alexander Rydén]] -09|text=Boulder, Ståstart}}
+
+{{led|namn=Överkörd av en pansarvagn |grad=7B+|betyg=3|fa=[[Alexander Rydén]] -11|text=Väldigt fina rörelser! Sittstart på elefanthopp}}
+
+==Överhänget vid stigen==
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Janssons Frestelse|ny=1|grad=8/8+|betyg=2|typ=sport|fa=[[Alexander Rydén]] -10|text=Powerklättring och dyno.}}
+
+{{led|namn=Räkyoga|ny=1|grad=8-|betyg=3|typ=sport|fa=[[Alexander Rydén]] -10|text=Explosiv och dynamisk powerklättring.}}
+
+{{led|namn=Christian|grad=6C|betyg=3|fa=[[Alexander Rydén]] -07|text=Boulder, Startar på baksidan stora stenen. Sittstart, mycket fin}}
+
+==Lilla boulderväggen==
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Arete'n|grad=5B|betyg=1|fa=[[Christian]] -07|text=Boulder}}
+
+{{led|namn=Conny Kanonkula|grad=6A|fa=[[Christian]] -07|text=Boulder, dyno från stora underclings}}
+
+{{led|namn=Streeba|grad=6A+|fa=[[Alexander Rydén]] -07|text=Boulder, travers längs hela blocket}}
+
+==Boulders utan sektor==
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Trångt|grad=6C+|fa=[[Marcus Hernegård]] -12|text=Boulder}}
+
+{{led|namn=Läppen|grad=7A|betyg=3|fa=[[Marcus Hernegård]] -12|text=Boulder}}
+
+{{led|namn=Andys Stubbe|grad=6C|betyg=3|fa=[[Marcus Hernegård]] -12|text=Boulder}}
+
+{{led|namn=Ass Crack Rocket Attack|grad=6C+|betyg=2|fa=[[Alexander Rydén]] -12|text=Boulder}}
+
+==Extern förare==
+* Materialet till denna sida har skapats av [[Användare:freolo|Fredrik Olofsson]]. Orginalet i PDF finns [http://www.fredrikolofsson.se/forare/valaberget_2004-08-21.pdf här].
+* Orginalet till Nedre väggen har skapats av Alexander Rydén och finns här http://www.arekk.se/forarevala.pdf.
+
+[[Kategori:Trad]][[Kategori:Aid]][[Kategori:Sport]][[Kategori:Jämtland]]
+[[Kategori:Jämtland]]

@@ -1,0 +1,43 @@
+{{utkast}}
+
+<googlemap version="0.9" lat="58.398833" lon="11.58062" type="map">58.381918, 11.57856, Isklätterfall på Stora BornöIsfall, St Bornö</googlemap>
+
+==Allmänt==
+Fin isklättring ute på Stora Bornö med två stora fall ca 55m höga grad WI3. Växer till relativt ofta. Finns 2-3 fall WI 4-5 med de växer inte lika ofta till. Ett crux är att isen på Gullmarn måste lägga sig för att man skall kunna gå ut till ön. Men å andra sidan har inte isen lagt sig så är det troligtvis ingen bra is ändå ;-)
+
+Värt att tänka på är i alla fall att vid övergången på isen vara uppmärksam på havsisens förhållande. Ha isdubbar/ha framme isyxorna samt att ha uppknäppt ryggsäckens avbärarbälte.
+
+OBS! Vid töväder kan det ha samlats en hel del smältvatten mellan klippan och isen ca 1-3 m. En plankbit eller en kort stege kan då fungera om man inte e bra på att hoppa eller vill blöta fötterna. Om det ligger snö på isen fungerar det även bra att skotta ner snö i vattenet.
+
+==Vägbeskrivning==
+Tag av motorvägen vid Gleborgmotet, avtagsväg som är skyltad Lysekil, Smögen. Kör tills ni kommer fram till Brastad i den stora rondellen kör man vä. Fortsätt tills korsningen innan kyrkan och tag här höger. Kör den vägen tills ni kommer fram till en korsning där det är skyltat Holma. Kör ner till hamnen och parkera på avsedd plats. Isen ser ni nu rakt över vattnet/isen. traska de ca 500m över isen fram till isfallen.
+
+==Stora fallen==
+
+Namnen på fallen är okända, det vänsta fallet är ca 50 m, WI3. Det högara fallet är ca 55 m, WI3. Nedfirning sker från en tall ovanför det högra fallet. Bilderna är tagna av Johan Mörk 20110107. 
+
+{{led|nr=1|namn=Okänd - Högerfallet|grad=WI3|betyg=3|längd=50|fa=[[Okänd]]|bultar=|typ=is|text=}}
+
+[[Bild:Det stora fallet på Stora Bornö Foto Johan Mörk 20110107.jpg]]
+
+
+{{led|nr=2|namn=Okänd - Vänsterfallet|grad=WI3|betyg=3|längd=55|fa=[[Okänd]]|bultar=|typ=is|text=}}
+
+[[Bild:Christian Jonsgården leder den vänstra leden på det stora fallet på stora Bornö 20110107.jpg]]
+
+Christian Jonsgården leder det vänstra fallet. Bilden är tagen 20110107 av Johan Mörk.
+
+==Västra fallen==
+
+{{led|nr=3|namn=Okänd|grad=WI5|betyg=3|längd=45|fa=[[Okänd]]|bultar=|typ=is|text=}}
+
+{{led|nr=4|namn=Okänd|grad=WI5|betyg=3|längd=40|fa=[[Okänd]]|bultar=|typ=is|text=}}
+
+[[Bild:Långfallen WI5.jpg]]
+
+Dessa isfall ligger ca 500m längre västerut
+
+==Access==
+Ingen känd accessproblematik
+
+[[Kategori:Is]]

@@ -1,0 +1,133 @@
+{{info klippa
+  |lat=56.265521
+  |long=15.574279
+}}
+
+{{komplett}}
+
+[[Bild:Superdiedret.jpg|400 px|right|thumb|[[Användare:Fredrik Rapp|Fredrik Rapp]] klättrar {{ledlänk|namn=Superdiedern}}<BR>Foto: Patrik Lind]]<br>
+
+==Allmänt==
+Myrberget ligger ca 15km norr om Karlskrona och erbjuder varierad klättring med fokus på sprickor. Berget är cirka 15m högt och består av finfin granit med god friktion. Det finns 18 etablerade leder i graderna 4+ till 8-, men potential finns till flera nyturer i de svårare registren. Nyturerna är redan nu förberedda med ankare och topprep har klättrats på dem. Berget är annars sparsamt bultat (finns två helbultade leder) och trad dominerar. Vissa leder kan vara lite mossiga då de inte klättras så ofta än... Tidigt på våren kan det vara något fuktigt under klippan och en och annan mygga senare på sommaren, men klippan i sig uppväger detta faktum med råge. Dessutom ligger den stora väggen i lagom skuggigt västläge.
+
+Markägaren ber oss att INTE elda vid klippan, trots att eldstad finns.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="56.266951" lon="15.574279" zoom="15">
+56.265521, 15.574279, Myrberget
+</googlemap>
+</div>
+
+Kör norrut från Karlskrona längs väg 28/122 mot Rödeby. Kör igenom Rödeby och efter ca 2km sväng vänster mot Fridlevstad (väg 122). Följ 122:an i ca 1,5km (kör under den stora kraftledningen och nästan fram till att granskogen börjar på vänster sida) och sväng vänster in på den lilla grusvägen. Det har nyligen avverkats här och vägen blev då lite illa medfaren, men är helt klart körbar. Följ den lilla grusvägen tills du åter ser den stora kraftledningen. Följ lilla vägen/stigen ner till vänster och du når klippan efter ca 400m. 
+
+Enligt markägaren kan man parkera överallt så länge man inte hindrar framkomligheten på grusvägen mellan väg 122 och gården vid Emmerydsvägen. Det finns således inga avstickare som är olämpliga för parkering.
+
+
+Det går även att cykla hit och cykelbana finns ända tills väg 28 och 122 delar sig. Vill du hellre resa kollektivt så tar du buss 173 mot Fridlevstad. Busshållplats finns vid korsningen mellan väg 122 och vägen in till Emmeryd gård.
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Myrberget vänstra.jpg|650px]]
+{|
+|- valign="top"
+| width="350px" |
+
+
+== '''Norra Väggen''' ==
+
+{{led|nr=1|namn=Stick och sprick|grad=5+|typ=trad|betyg=|bultar=|längd=|
+|fa=[[Madeleine Hermann]]|}}
+
+{{led|nr=2|namn=Grannfejden|grad=6+|typ=trad|betyg=|bultar=|längd=|
+fa=[[Patrik Lind]] |text=Svårare än den ser ut...}}
+
+
+== '''Västra Väggen''' ==
+
+{{led|nr=2,5|namn=Garotten|grad=7+|typ=mix|betyg=2|bultar=3|längd=
+|fa=[[Fredrik Rapp -11]] |text=Samma start som Giljotinen. Mot slutet av dennes krux görs en delikat travers åt vänster. Sen leder nya möjligheter längs det grunda hörnet till toppen.}}
+
+{{led|nr=3|namn=Giljotinen|grad=7|typ=mix|betyg=2|bultar=3|längd=
+|fa=[[Patrik Lind]] |text=Pumpig led som fått sitt namn efter ett stenblock som numera återfinns i sjön, gör det inte sällskap...}}
+
+{{led|nr=4|namn=Myror och blåbär|grad=5+|typ=trad|betyg=|bultar=|längd=
+|fa=[[Mikael Andersson]] |text=omväxlande led, men ändå jämnsvår}}
+
+{{led|nr=5|namn=När det omöjliga blir möjligt|grad=6+|typ=trad|betyg=|bultar=|längd=
+|fa=[[Madeleine Hermann]] |text=Krux på slutet...}}
+
+{{led|nr=6|namn=Knäppt möjlig|grad=6+|typ=trad|betyg=|bultar=|längd=
+|fa=[[Mikael Andersson]] |text=Börjar med kruxet på svaplattan och fortsätter upp i sprickan}}
+
+{{led|nr=7|namn=Mums-Fili-Pappa|grad=4+|typ=trad|betyg=|bultar=|längd=
+|fa=[[Filippa Hermann och Mikael Andersson]] |text=Två replängder rekommenderas för att slippa repdrag. Kruxet kommer när man lämnar blåbärshyllan}}
+
+{{led|nr=8|namn=Plåtkråkan|grad=5|typ=trad|betyg=|bultar=|längd=
+|fa=[[Mikael Andersson]] |text=Mycket välsäkrad förutom vid kruxet 4m upp}}
+
+{{led|nr=9|namn=Ryggskottet|grad=6+|typ=mix|betyg=|bultar=2|längd=
+|fa=[[Patrik Lind]] |text=}}
+
+{{led|nr=10|namn=Med glädje|grad=4+|typ=trad|betyg=|bultar=|längd=
+|fa=[[Madeleine Hermann]] |text=Välsäkrad!}}
+
+{{led|nr=11|namn=Spänningsfall|grad=5|typ=sport|betyg=|bultar=5|längd=
+|fa=[[Mikael Andersson]] |text=Varierande led med något spännande slut}}
+
+{{led|nr=12|namn=Via Ragata|grad=5-|typ=trad|betyg=|bultar=|längd=
+|fa=[[Mikael Andersson]] |text=}}
+
+
+[[Bild:Myrberget högra.jpg|650px]]
+
+
+{{led|nr=13|namn=Namnlös|grad=A2|typ=aid|betyg=|bultar=|längd=
+|fa=[[Patrik Lind]] |text=Kan även topprepas och ligger då runt 8 i svårighetsgrad...}}
+
+{{led|nr=14|namn=Supercrack of the woods - a.k.a. Namnlös(2)|grad=8-|typ=trad|betyg=3|bultar=|längd=
+|fa=[[Fri: Kasper Berkowicz -12]] (kanske gjort tidigare?)<br>[[Aid: Patrik Lind]] |text=Intrikat och teknisk stämklättring, jamming och layback i brant spricka. Mycket fin. Etablerad som aid-linie av Patrik Lind och hette då  "Namnlös(2)", grad A1. Leden har klättrats fritt, säkrad med kil och kammar. Därför är hammer-aid på leden numera inte acceptabelt.<br>Första fribestigning osäker. Leden har med säkerhet klättrats på toprep tidigare}}
+
+{{led|nr=15|namn=Superdiedern|grad=6|typ=trad|betyg=3|bultar=|längd=
+|fa=[[Patrik Lind]] |text=Mycket fin klättring i diedern längs en fantastisk och välsäkrad spricka.}}
+
+{{led|nr=16|namn=Raspen|grad=6-|typ=mix|betyg=1|bult=1|längd=
+|fa=[[Mikael Andersson]] |text=Knivig start som kan säkras med en kil, resten av leden betydligt lättare. Bulten är egentligen avsedd för en stegslinga som förvandlar leden till en barn-/nybörjarled.}}
+
+{{led|nr=17|namn=Marias spricka|grad=6|typ=trad|betyg=|bultar=|längd=
+|fa=[[Maria Lind]] |text=}}
+
+{{led|nr=18|namn=Välhängda stumpen|grad=6-|typ=sport|betyg=|bultar=4|längd=
+|fa=[[Mikael Andersson]] |text=Markant krux vid vänstertraversen.}}
+
+[[Bild:Myrberget.jpg|thumb|650px|left|<br>Foto: Fredrik Rapp]]
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Blekinge]]

@@ -1,0 +1,21 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Snusmumriken|grad=7A|typ=Krimp,Tak,Heel hook|landning=3|fadatum=2008-05-12|startgrepp=ja|text=Mittlinjen i taket. Startar längst in i taket på ett givet block. Går rakt ut mot läppen för att sen mantlas ut åt höger.}}
+{{problem|namn=Snusmumriken direkt|grad=7C|typ=Krimp,Tak,Heel hook|landning=3|fadatum=2010-05-17|startgrepp=ja|text=Direktvariant av Snusmumriken. Samma start men uteslutning av den stora sloperna och ALLT till vänster om denna.}}
+{{problem|namn=Hemulen|grad=7B+|typ=Slopers,Överhäng,Heel hook|landning=3|betyg=1|fadatum=2008-05-15|startgrepp=ja|text=Går längst till vänster i taket. Startar under taket i bra sidocrimp för vh och bra sidepull för hh. Därifrån rakt ut och upp.}}
+| width="250px" |
+{{problem|namn=Sniff|grad=7A|typ=Krimp,Överhäng,Reach|landning=3|fadatum=2008-05-15|variant=ja|startgrepp=ja|text=Startar i stor jug på väggen till vänster om Hemulen och avslutas i denna.}}
+{{problem|namn=Lilla My|grad=7A+|typ=Krimp,Överhäng,Heel hook|landning=3|betyg=1|fadatum=2008-05-15|variant=ja|startgrepp=ja|text=Startar i Snusmumriken och avslutas i Hemulen. Lång och pumpig takklättring.}}
+| width="250px" |
+|}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

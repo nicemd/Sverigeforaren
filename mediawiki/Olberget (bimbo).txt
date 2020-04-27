@@ -1,0 +1,40 @@
+=Allmänt=
+Detta boulderområde ligger kring klippan [[Olberget]] vid Mohed utanför Söderhamn.
+
+=Vägbeskrivning=
+Från Gävle: Kör E-4:an till Söderhamn, sväng av på väg 50 mot Bollnäs. Ca 1 km efter avtagsvägen till Mohed ser du en bilskrot/däckfirma på vänster sida, sväng av höger på första vägen efter denna. (Vägen kan ibland vara i dåligt skick, parkera då ute vid väg 50).
+Kör förbi åkrarna och huset på vänster sida, parkera sedan vid det gamla övergivna huset på höger sida. Klippan och blocken ligger uppe i skogen på vänster sida.
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Weibull|grad=6C|typ=Slopers,Aréte|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2006-08-06|sopad=Daniel Hultgren|sittstart=ja|text=Ligger på ett block till höger om huvudväggen. Gå stigen till höger om huvudväggen för att komma upp till toppen av klippan. Då har du blocket till höger om stigen. Sittstart vid aretén följ sedan denna och toppa ut vid högsta punkten.}}
+{{problem|namn=Looptroop|grad=6A|typ=Krimp|fa=Daniel Hultgren|landning=2|fadatum=2006-06-17|sopad=Daniel Hultgren|text=Ligger på blocket närmast vägen. Längst till vänster på blocket, ståstart och toppa ut rakt upp.}}
+{{problem|namn=Songs Of Joy|grad=5C|typ=Krimp|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2006-06-17|sopad=Daniel Hultgren|text=Ligger på blocket närmast vägen. Starta som "Looptroop" gå sedan höger till den tydliga rampen mitt på väggen.}}
+{{problem|namn=Capleton|grad=5C|typ=Krimp,Aréte|fa=Daniel Hultgren|landning=2|fadatum=2006-06-17|sopad=Daniel Hultgren|text=Ligger på blocket närmast vägen. Ståstart vid aretén. Även gjord som sittstart grad 6A.}}
+{{problem|namn=Promoe|grad=6A|typ=Krimp|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2006-06-17|sopad=Daniel Hultgren|text=Ligger på blocket närmast vägen. Till höger om aretén mitt på den överhängande väggen.}}
+| width="250px" |
+{{problem|namn=3 Sigma|grad=6B+|typ=Krimp|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2006-08-18|sopad=Daniel Hultgren|uteslutningar=ja|text=Ligger på ett block till höger om huvudväggen, samma block som "Weibull" går på. Aretén är utesluten, kan vara svårt att nå startgreppen om man är kort, padda upp! :)}}
+{{problem|namn=Stars and Stripes|grad=6C|typ=Krimp,Slopers|fa=David Hallman, Daniel Hultgren|landning=3|betyg=1|fadatum=2006-08-27|sopad=David Hallman, Daniel Hultgren|sittstart=ja|text=Ligger på ett block ca 150 meter till vänster om huvudväggen. Enklaste vägen dit är att gå upp till vänster där huvudväggen slutar och sedan trilska sig fram bland blocken.}}
+{{problem|namn=The Last Supper|grad=7B|typ=Krimp,Slopers|fa=David Hallman|landning=4|betyg=3|fadatum=2006-08-27|sopad=David Hallman|startgrepp=ja|text=Ligger på ett block ca 150 m till vänster om huvudväggen, på blocket bredvid "Stars and Stripes". Ståstart med startgrepp på den tydliga dubbelkrimpen.}}
+| width="250px" |
+{{problem|namn=Allt rött blir b b b blått|grad=5B|typ=Jug|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2006-08-27|sopad=Daniel Hultgren|text=Ligger på toppen av klippan, gå upp ovanför huvudväggen och följ kanten ca 250 meter så ser du blocket. Ståstart till höger om aretén på det stora greppet.}}
+{{problem|namn=Jordfräsen|grad=6A+|typ=Krimp|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2006-08-27|sopad=Daniel Hultgren|text=Ligger på toppen av klippan, ca 250 meter till vänster om huvudväggen. Starta stående vid aretén följ sedan de tydliga listerna uppåt och åt vänster.}}
+{{problem|namn=Sedlighetsroteln|grad=7B+|typ=Slopers,Mantling|fa=Erik Massih|landning=3|betyg=2|sopad=Erik Massih|text=Block till höger om huvudväggen. Det borde synas att det är borstat.}}
+{{problem|namn=Släktmiddagsångest|grad=5C|typ=Aréte|fa=Erik Massih|landning=3|sopad=Erik Massih|sittstart=ja|text=Kort arete på nedsidan av ett block till höger om väggen.}}
+{{problem|namn=Addict|grad=6B|typ=Krimp,Mantling,Aréte|fa=Linus Malm|landning=2|fadatum=2009-04-11|sopad=Linus Malm|sittstart=ja|text= Forsätt ca 250m på bilvägen bortom parkeringen och vik av till vänster vid de stora blocken. Blocket ligger en bit upp bland övriga block. Problemet går på det överhängande aretét som har en gammal stubbe bredvid sig intill sig. Klättra aretén och mantla ut på vänstra sidan av läppen.}}
+{{problem|namn=Kantig|grad=5C|typ=Aréte|fa=Peter Laurin|landning=2|fadatum=2009-05-01|sopad=Peter Laurin|sittstart=ja|text= Ligger till vänster om Lilla väggen, alldeles innan ravinen. Följ aretén och toppa ut på högsta punkten.}}
+|}
+
+=Mer info=
+Ytterligare boulderproblem finns beskrivna på: http://27crags.com/crags/olberget
+
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

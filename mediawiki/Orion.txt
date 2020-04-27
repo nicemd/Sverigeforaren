@@ -1,0 +1,79 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+ {{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+Fin klippa i Gärdsås med få men fina linjer. Värd ett besök!
+
+==Miljö==
+Kort anmarsch. Klippan ligger avskilt i en vacker, ganska tät skog som ger skugga på sommaren trots sydostligt läge.
+
+[[bild:miljo_bild_orion.jpg]]
+
+===Vägbeskrivning===
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="57.752484" lon="12.045522" type="satellite" zoom="16" width="250" height="250" controls="small">
+57.753137, 12.044578
+</googlemap>
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Fin klippa i sydost-läge precis intill (väster om) vägen Orion i Gärdsås. En kort promenad från Utby. 15 min från spårvagnen (Linje 11/7/6 - Kortedala torg). Mindre än 5 min från bussen (Linje 58 - Gärdsåsgatan).
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+===Leder===
+
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Rigel|grad=6+|typ=trad|betyg=2|bultar=|längd=5|fa=Nils Bäckman -12|text=Uppenbar, kort, takspricka. Hand, fist och mitt emellan.}}
+
+{{led|nr=2|namn=Betelgeuse|grad=5+|typ=trad|betyg=2|bultar=|längd=15|fa=Nils Bäckman -12|text=Harmonisk led med ett lite bökigare krux i bred spricka. Från högt startgrepp, långa sträckningar ut längs högerkanten. Efter några meter tar den vänstra sprickan vid - som sedan följs till toppen. Välsäkrad. Inga stora säkringsprylar nödvändiga.}}
+
+{{led|nr=3|namn= Sol|grad=6|typ=trad|ny=1|längd=15|fa=John Liungman och Jonas Lyckeghård -13|text=Areten höger om Betelgeuse.}}
+
+{{led|nr=4|namn= Eld o lågor|grad=7+|typ=trad|ny=1|längd=15|fa=Ronny Ek -13|text=Rakt upp för facet, utan aréten till vänster.}}
+
+| width="350px" |
+
+{{led|nr=5|namn=Lösgodis|grad=5-|typ=trad|ny=1|längd=18|fa=Erik Gustafsson och Per Larsson -13|text=Lite lös, men rätt fin och rätt välsäkrad. Innerhörn först, sen låta bli att kliva ut vänster på stora hyllan, sen bred spricka / ytterhörn rakt upp.}}
+
+{{led|nr=6|namn=Projekt 1|grad=?|typ=|betyg=|bultar=|längd=20|text=Otroligt inbjudande greppklättring längs högersidan med dragning vänster upp mot taket som pryds av en otroligt fin horisontell takspricka.|fa=}}
+
+{{led|nr=7|namn=Orions bälte|grad=6+|typ=|betyg=3|bultar=|längd=20|fa=Linus Svensson -12|text=Grepp och layback till det kristallrika bältet. Sedan en något överhängande spricka till toppen.}}
+
+{{led|nr=8|namn=Projekt 2|grad=?|typ=trad|längd=20|text=Sprickan strax till höger om Orions bälte.|fa=}}
+|}
+
+
+
+
+ [[Kategori:trad]]
+ [[Kategori:vertikalt]] 
+ [[Kategori:överhäng]]
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Göteborg]]

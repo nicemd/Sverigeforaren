@@ -1,0 +1,60 @@
+{{info klippa
+  |lat=67.86881666553145
+  |long=18.555908203125
+}}
+
+{{utkast}}
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="67.86881666553145" lon="18.555908203125" zoom="7" type="map" controls="small">
+67.86881666553145,18.555908203125,Kebnekaise
+
+</googlemap>
+</div>
+
+
+== Allmänt ==
+Kebnekaise är som de flesta vet Sveriges högsta berg.
+Denna beskrivning ämnar dock omfatta mer än berget kebnekaise, hela det område som normalt sett brukar klättras med Kebnekaise fjällstation och Tarfalastugan som någon sorts bas bör ingå i denna artikel.
+Det är alltså ett ganska stort område i norra lapplands fjällvärld, bestående av flera av sveriges högsta toppar.
+Här finns allt från bouldering, långa klippleder till alpinleder och isklättring, dock bör det framhävas att svenska fjällen står ganska bleka i en internationell jämförelse.
+
+== Historia ==
+Det finns för mycket att säga här, den intresserade bör läsa Eva Hellström-Boströms bok "Svensk klättring Pionjärerna".
+
+== Vägbeskrivning ==
+'''Från Kiruna:''' Ta landsvägen mot Nikkaloukta... i nikkaloukta är det 19 km väl upptrampad stig kvar till kebnekaise fjällstation, 24 till Tarfala.
+
+== Fjällstugor ==
+'''Kebnekaise Fjällstation''' drivs av svenska turistföreningen, och ligger strategiskt i mitten av ladtjovagge, på behagligt avstånd från lederna på Toulpagorni, isfallen i ladtjovagge, boulderblocken vid elsas bro samt givetvis många av lederna upp på kebnekaise.
+Stationen är något av en turistfälla, och under högsäsong kan du inte räkna med att någon av de ordinarie 190 bäddarna ska vara lediga. Kebnekaise Fjällstation är inte det bästa stället att åka till om man vill vara för sig själv.
+På fjällstationen finns en sportavdelning som ansvarar för guidade turer, kurser samt uthyrning av utrustning.
+
+'''Tarfala fjällstuga''' är Kebnekaises motsats, en liten gemytlig stuga intryckt i vad som känns som en återvändsgränd mellan stora berg.
+Tarfala är den naturliga utgångspunkten för dig som vill upp på lederna på Kaskasapaktes sydsida, Kaskasatjåkka, kebnepakte, drakryggen, klippbergen och kebnekaises nordtopp.
+
+== Tuolpagorni ==
+[[Bild:Toulpagorni.gif|500 px|thumb|Tuolpagornis välkomnande silhuett (Silhuettleden går i den vänstra silhuetten)<BR>Foto: [[Användare:Petter Åsander|Petter Åsander]]]]
+
+Tuolpagorni är det första berget som fångar ens blick på väg in mot kebnekaise, med sin egendomliga kittel står den ut bland övriga fjäll.
+Tuolpagorni ger precis som övriga fjäll här ett sargat och uppbrutet intryck, vilket den också lever upp till när man kommer i närmre kontakt, men ändå finns sveriges kanske mest klassiska fjäll-led här.
+
+{{led|nr=|namn=Silhuettleden|grad=4|betyg=3|längd=400
+ |fa=Emmerich Rossipal, Gunnar Santesson 27/8 1938|typ=trad|text=Omnämns ofta som Sveriges längsta led och Sveriges mesta klassiker, men också som en av sveriges lösaste och farligaste leder. Vad som är säkert är dock att Silhuettleden är en upplevelse. }}
+
+{{led|nr=|namn=Södra kraterkammen|grad=2|betyg=2|längd=100
+ |fa=|typ=trad|text=En bra variant om man har klättrat siluetten och vill ta sig upp på toppen. Scrambling, på gränsen till lätt klättring.}}
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+== Kebnekaise ==
+Beskrivning onödig?
+
+{{led|nr=|namn=Östra leden|grad=0|betyg=|längd=
+ |fa=T. H. Gudjohnsen & sällskap|typ=alpin|text=En mycket lätt "alpin" led till Kebnekaise Sydtopp. Från Fjällstationen går man upp på kebnetjåkka-platån, korsar Björlings glaciär och scramblar uppför Kebnekaises östvägg med hjälp av en via-ferrata i en tydlig ränna. All info du behöver finns att tillgå på Fjällstationen.}}
+[[Kategori:Lappland]]

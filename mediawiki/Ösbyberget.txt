@@ -1,0 +1,24 @@
+{{utkast}}
+
+==Allmänt==
+Liten klippa utanför Gustavsberg. 
+
+==Vägbeskrivning==
+Vid OK-macken (vid vattentornet), ta h och klippan dyker upp på v sida vid en sjö efter 1,5km. Det finns två små men överhängande väggar.
+
+==Leder==
+{{litentext|text=En led finns på den vänstra väggen:}}
+{{led|nr=1|namn=Mövenpick|grad=7|längd=7|fa=[[Johan Luhr]] [[-91]]}}
+
+{{litentext|text= Den högra väggen har fyra leder:}}
+{{led|nr=2|namn=Triumf|grad=8-|längd=8|fa=[[Johan Luhr]] [[-91]]}}
+{{led|nr=3|namn=GB|grad=8-/8|längd=8|fa=[[Johan Luhr]] [[-91]]}}
+{{led|nr=4|namn=Åhus|grad=7+|längd=8|fa=[[Johan Luhr]] [[-91]]}}
+{{led|nr=5|namn=Premier|grad=7+|längd=8|fa=[[Johan Luhr]] [[-91]]}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]

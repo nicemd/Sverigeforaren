@@ -1,0 +1,22 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Enigma|grad=8A+|typ=Överhäng|fa=Stefan Petterson|landning=5|betyg=3|fadatum=2007-09-21|sopad=Stefan Petterson|sittstart=ja|text=Den uppenbara linjen rakt framför parkeringen. Går ej att missa. Brant överhäng med hård start.}}
+{{problem|namn=Megagrip|grad=7C+|typ=Överhäng,Aréte|fa=Stefan Pettersson|landning=5|betyg=2|sopad=Stefan Pettersson|startgrepp=ja|text=Arêten vä om Enigma, start på ett undercling.}}
+{{problem|namn=Frasradikal|grad=6C+|typ=|fa=Jon S, Sydde, Stefan Eklund|landning=3|betyg=1|fadatum=2007-10-30|sopad=Jon S, Sydde, Stefan Eklund|text=Ståstart till höger om Minigrip. Baksidan av Enigma. SS: lätt 7a.}}
+| width="250px" |
+{{problem|namn=Borgarbrackor|grad=6C|typ=|fa=Jon S|landning=4|fadatum=2007-10-30|sopad=Jon S|sittstart=ja|text=Till höger om Frasrafikal strax vänster om areten.}}
+{{problem|namn=Minigrip|grad=7B+|typ=Krimp|fa=Sydde|landning=4|betyg=1|fadatum=2007-10-28|sopad=Sydde|startgrepp=ja|text=Mitt på baksidan av Enigmablocket, start med två tiny crimpsidtag och skicka ut vä till bra grepp, sen upp till jug.}}
+| width="250px" |
+{{problem|namn=Bergakungen|grad=7B|typ=|fa=Peter Lindmark|landning=4|betyg=1|fadatum=2007-10-30|sopad=Peter Lindmark|text=Överhäng på baksida om sten tv om enigmablocket. Start typ SS med VH på örat. Sedan rakt upp svagt åt höger.}}
+|}
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

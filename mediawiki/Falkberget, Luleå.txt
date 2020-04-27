@@ -1,0 +1,60 @@
+{{info klippa
+  |lat=65.906910
+  |long=22.900143
+}}
+
+{{stub}}
+
+==Allmänt==
+Vertikal till lätt överhängande klippa, ca 20 meter hög. <br>
+Ett bra ställe att öva upp din crimpstyrka.
+
+==Vägbeskrivning==
+Riktning Töre mot Kalix.
+
+5 km från Töre, sväng vänster vid skylt Kamlunge/Bondersbyn. <br>
+Kör 6 km och sväng höger in på grusväg vid fyrvägkorsningen. <br>
+Efter 1,4 km, vid det röda huset, sväng höger till klippan.
+
+
+Riktning Kalix mot Töre.
+
+11 km från Kalixälv, sväng höger vid skylt Bondersbyn/Småkvarnarna/V Börjelsbyn. <br>
+Följ vägen 4,5 km, man ser klippan på vänstra sidan. <br>
+Sväng upp mot klippa vid det röda huset.
+
+==Miljö==
+Sol fram till 14:00.<br>
+Klippan torkar fort. <br>
+Kom ihåg att ta med myggmedel.
+
+==Leder==
+Flera lednamn finns skrivna på klippan, vilket underlättar orienteringen. <br>
+(Från vänster till höger)
+
+
+
+{{led|namn=Insomnia|nr=1|grad=6a+|typ=sport|längd=15|fa=[[ Martin Brusewitz]] [[2007]]|text=Längst till vänster på klippan.|betyg=1|bultar=5}}
+{{led|namn=Pig Flue|nr=2|grad=5c|typ=sport|längd=15|fa=[[ Antti Hartikainen]] [[2009]]|text=|betyg=1|bultar=7}}
+{{led|namn=Ett äpple om dagen, håller doktorn borta från magen|nr=3|grad=6a|typ=sport|längd=17|fa=[[ Nico]] [[2009]]|text=|betyg=1|bultar=7}}
+{{led|namn=Dr. Sorkkarauta|nr=4|grad=7a|typ=sport|längd=18|fa=[[ Robert Jacobsson]] [[2009]]|text=Använd inte leden till vänster, för graden 7a. Ringankare.|betyg=1|bultar=9}}
+{{led|namn=Får det lov att vara en Purex?|nr=5|grad=7b+|typ=sport|längd=18|fa=[[ Nico]] [[2009]]|text=Ringankare.|betyg=|bultar=8}}
+{{led|namn=Anorectica|nr=6|grad=7c|typ=sport|längd=20|fa=[[ Martin Fransson]] [[2007]]|text=Crimpigt.|betyg=3|bultar=8}}
+{{led|namn=Epilepsi|nr=7|grad=7b|typ=sport|längd=20|fa=[[ Marcus Lagerkvist]] [[2007]]|text=|betyg=1|bultar=8}}
+{{led|namn=Stärkelse|nr=8|grad=7a|typ=sport|längd=20|fa=[[ Nico]] [[2009]]|text=Ringankare.|betyg=1|bultar= 10}}
+{{led|namn=Kleptomani|nr=9|grad=7a+|typ=sport|längd=20|fa=[[ Nico]] [[2006]]|text=Gemensamt insteg med '''Ryggskott'''.|betyg=1|bultar=12}}
+{{led|namn=Ryggskott|nr=10|grad=6b|typ=sport|längd=22|fa=[[ Johan Sundkvist]] [[2006]]|text=Första bulten gemensam med '''Kleptomani'''.|betyg=3|bultar=12}}
+{{led|namn=Mytomani|nr=11|grad=6c|typ=sport|längd=20|fa=[[ Johan Almqvist]] [[2007]]|text=Gemenasamt slut och ankare med '''Profylax'''.|betyg=1|bultar=11}}
+{{led|namn=Profylax|nr=12|grad=6c+|typ=sport|längd=20|fa=[[ Johan Almqvist]] [[2007]]|text=Gemensamt slut och ankare med '''Mytomani'''.|betyg=2|bultar=10}}
+{{led|namn=E du Go eller?|nr=13.1|grad=6a|typ=sport|längd=16|fa=[[ Nico]] [[2010]]|text=|betyg=1|bultar=11}}
+{{led|namn=Go i hela hôvvet! |nr=13.2|grad=7a|typ=sport|längd=23|fa=[[ Nico]] [[2010]]|text=Förlängning på förgående led. Grabba inte kedjan! Ringankare.|betyg=2|bultar=17}}
+{{led|namn=Hi, I’m Doctor Terrific |nr=14.1|grad=6a|typ=sport|längd=15|fa=[[ Nico]] [[2010]]|text=|betyg=1|bultar=8}}
+{{led|namn=Hi, I’m Doctor Super Terrific |nr=14.2|grad=6c|typ=sport|längd=23|fa=[[ Nico]] [[2010]]|text=Förlängning på förgående led.|betyg=2|bultar=14}}
+{{led|namn=Knasbollen på sidofickan |nr=15|grad=6c|typ=sport|längd=21|fa=[[ Nico]] [[2011]]|text=|betyg=1|bultar=13}}
+{{led|namn=Pillertrillaretripp |nr=16|grad=6b+|typ=sport|längd=19|fa=[[ Nico]] [[2011]]|text=|betyg=1|bultar=10}}
+{{led|namn=Den okände samariten |nr=17|grad=5a|typ=sport|längd=16|fa=[[ Ledbyggare: Petter & Oskar Lind. Förstabestigare: Okänd.]] [[2009]]|text=Insteg ca 15m till höger om Pillertrillaretripp.|betyg=1|bultar=7}}
+{{led|namn=Purex Royal |nr=|grad=7c+|typ=sport|längd=20|fa=[[ Nico]] [[2012]]|text=Start Purex bult 1-4. Traversera över till Anorectica, klättra till vänster om dess bultlinje från bult 6. Undantag för ETT steg till höger om bultlinjen och uteslut arête.|betyg=|bultar=7}}
+
+
+[[Kategori:sport]][[Kategori:vertikalt]]
+[[Kategori:Norrbotten]]

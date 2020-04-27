@@ -1,0 +1,157 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+En väldigt brant grottformation med gott om överhängande sportklättring av hög klass. På sidoväggaran finn en del lite flackare och enklare klättring. Många av lederna är klätterbara även i regn pga klippans branta natur. Om det har regnat mycket så kan det dock "läcka" igenom lite.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+Kör väg 162 från E6 mot Lysekil. Strax innan Hallinden passeras tar man av vänster mot Ingalsröd. Följ vägen ca. 2,5 km och ta höger i Y-korsningen, återigen mot Ingalsröd. Kör 2 km och ta vänster mot Ingalsröd. Följ vägen en dryg kilometer tills en stor bondgård syns på vänster sida. Här kan också klippan skönjas inne i skogen till vänster. Ta in på grusvägen mot bondgården och parkera vid ladans gavel direkt till vänster. Följ grusvägen vidare och vänster längs ladan i riktning mot klippan och korsa det stora fältet. 5 min promenad från bilen.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Översiktsbilder==
+
+
+
+Till höger om översta bilden finns det fyra leder till: 7a, 7a+, 6b+, 6b.
+Det finns även en sektor mellan Granitväggen, se blåmarkerad topo, och Granitgrottan med ca 15 leder från en hylla mitt på väggen. 
+
+[[Bild:granitgrottahöger.jpg]]
+
+[[Bild:granitväggen.jpg]]
+
+[[Bild:granitvänster.jpg]]
+
+[[Bild:granitgrottacenter.jpg]]
+
+==Leder==
+Barnväggen
+{{led|namn=Granen|typ=trad|längd=12|grad=5+|fa=Jens Larssen}}
+{{led|namn=?|grad=5+|typ=trad|fa=Helen Svensson}}
+{{led|namn=Emil i Lönneberga|grad=7-|typ=trad|fa=Jens Larssen}}
+{{led|namn=Tintin|typ=topprep|grad=6+|fa=}}
+{{led|namn=Saltkråkan|grad=7-|typ=topprep|fa=}}
+{{led|namn=Barnens gungled|grad=7a+|typ=sport|fa=Jens Larssen}}
+{{led|namn=Luddes bultade led|grad=6c|typ=sport|fa=Ludwig Hansen}}
+{{led|namn=Bröderna Lejonhjärta|grad=6c+|fa=Jens Larssen|typ=sport}}
+{{led|namn=De stora barnens led|grad=5|typ=trad|fa=Jens Larssen}}
+{{led|namn=De modiga barnens led|grad=3|fa=Jens Larssen|typ=trad}}
+{{led|namn=Ronja rövardotter|grad=6+|fa=Jens Larssen|typ=trad}}
+{{led|namn=Lilla Gubben|grad=6+|fa=Jens Larssen|typ=trad}}
+
+"hyllor"
+{{led|namn=Uppstigningsleden|fa=Jens Larssen|grad=6b+|typ=sport}}
+{{led|namn=Korpen flyger|grad=6c|fa=Jens Larssen|typ=sport}}
+{{led|namn=Mittenleden|grad=6c|fa=Jens Larssen|typ=sport}}
+{{led|namn=Högerleden|grad=6c|fa=Jens Larssen|typ=sport}}
+
+
+
+{{led|namn=Emmas bultdebut|grad=6c|fa=Jens Larssen|typ=sport}}
+{{led|namn=Örat|grad=6c+|typ=sport|fa=Jens Larssen}}
+{{led|namn=Brum|grad=7a|fa=Jens Larssen|typ=sport}}
+{{led|namn=Näsan|grad=7b+|fa=Jens Larssen|typ=sport}}
+{{led|namn=Nedfirningsleden|grad=5|typ=trad|fa=Jens Larssen}}
+{{led|namn=Topprepsleden|typ=topprep|fa=|grad=7-}}
+
+"Grottan"
+{{led|namn=Granitäpplet|typ=trad|grad=6+|fa=Jens Larssen & Jonas Emanuelssen}}
+{{led|namn=Kaminen|grad=6c+|typ=sport|fa=Jens Larssen}}
+{{led|namn=Kaminäpplet|grad=6b|fa=|typ=sport}}
+{{led|namn=Sofia|fa=|typ=sport|grad=6c}}
+{{led|namn=Istanbull|grad=7a+|fa=Jens Larssen|typ=sport}}
+{{led|namn=Climb to the top|grad=7a+|fa=|typ=sport}}
+
+{{led|namn=Passe Macho|grad=8/8+|fa=Oysten K Johnen|typ=trad}}
+{{led|namn=Accellerazione|grad=8a+|fa=Johan Lurh|typ=sport}}
+{{led|namn=Spektakel|typ=sport|grad=6a+|fa=Jens Larssen}}
+{{led|namn=Be my guest|fa=Adam Ondra|ny=1|grad=8c+}}
+{{led|namn=Spectacolo|grad=7c|fa=Jens Larssen|typ=sport}}
+{{led|namn=Spectacolo magnifico|grad=8a|typ=sport|fa=Johan Luhr}}
+{{led|namn=Machu Picchu|betyg=5|fa=Jan Pålsgård & Ulrika Tiegs|grad=7-|typ=trad}}
+
+{{led|namn=Langley|grad=7a+|fa=Jens Larssen|typ=sport}}
+{{led|namn=Langley travel|grad=7b|fa=Jens Larssen|typ=sport}}
+{{led|namn=Langley  Macho|grad=7a+|fa=Jens Larssen|typ=sport}}
+{{led|namn=Langley aréte|grad=7b+|fa=Jens Larssen|typ=sport}}
+{{led|namn=Langley holds|grad=7c+|fa=Jens Larssen|typ=sport}}
+
+{{led|namn=Bättre än bilbana|grad=7a|fa=Jens Larssen|typ=sport}}
+{{led|namn=Niemsel|grad=7b+|typ=sport|fa=Jens Larssen}}
+{{led|namn=Neo|grad=8b+|fa=Said Belhaj|typ=sport}}
+{{led|namn= Ergo Holds|grad=8a+|fa=Magnus Mitbö|typ=sport}}
+{{led|namn=Mad Rock|grad=8a|typ=sport|fa=Henrik Bolander, Scott Mooney}}
+{{led|namn=Mad Rocker|grad=8b|typ=sport|fa=Said Belhaj}}
+{{led|namn=Troglodyte|fa=Scott Mooney|grad=8a+|typ=sport}}
+{{led|namn=Mad Troglodyte|fa=Scott Mooney|grad=8b|typ=sport}}
+{{led|namn=Voyage to infinity|grad=7c+|fa=Jens Larssen|typ=sport}}
+{{led|namn=Mad|grad=7b|fa=Jens Larssen|typ=sport}}
+
+{{led|namn=Captain Haddock|grad=8c+|fa=Said Belhaj|typ=sport}}
+{{led|namn=Laroy|grad=8c|fa=Said Belhaj|typ=sport}}
+{{led|namn=Yatsy|fa=Jens Larssen|grad=7c+|typ=sport}}
+{{led|namn=Yatsy Analyse|grad=8a|fa=Scott Mooney|typ=sport}}
+{{led|namn=Underworld|typ=mix|grad=9-/9|fa=Scott Mooney|text=Vid stentornet}}
+{{led|namn=Southpaw|fa=Adam Ondra|grad=8c|typ=sport|ny=1}}
+{{led|namn=Fysisk|grad=8a+|fa=Scott Mooney|typ=sport}}
+{{led|namn=Shapeshifter|grad=8b|fa=Scott Mooney|typ=sport}}
+{{led|namn=Fysisk analyse|betyg=2|fa=Magnus Mitbo|typ=sport|grad=8b+}}
+{{led|namn=Psykisk analyse|betyg=1|fa=Magnus Mitbo|typ=sport|grad=8b+}}
+{{led|namn=Lucky Luke|grad=7c|fa=Johan Luhr|typ=sport}}
+{{led|namn=Nicke Nyfiken|grad=7c|fa=Johan Luhr|typ=sport}}
+{{led|namn=Fotbojan|grad=7c|fa=Jens Larssen|typ=sport}}
+{{led|namn=Farmors nya tofflor|fa=Johan Luhr|grad=7a|typ=sport}}
+{{led|namn=Annas nya tofflor|fa=Jens Larsson|grad=7a|typ=sport}}
+
+
+Vertikal vägg höger om grottan
+{{led|namn=Rummikub|grad=6-|typ=trad}}
+{{led|namn=Honolulu|grad=6c+|fa=Jens Larsen|typ=sport}}
+{{led|namn=Ingalsröd|fa=Jens Larssen|typ=sport|grad=6c+}}
+{{led|namn=Islandshäst|fa=Jens Larssen|typ=sport|grad=6b+}}
+{{led|namn=Island|grad=6c|typ=sport|fa=Jens Larssen}}
+{{led|namn=Reykjavik|grad=6a|typ=sport|fa=Jens Larssen}}
+{{led|namn=Uffe|grad=6a+|fa=Jens Larssen|typ=sport}}
+
+
+
+
+"Alpina vägggen"
+{{led|namn=Mount Everest|grad=7a|fa=Carl Ola Boström|typ=sport}}
+{{led|namn=K2|typ=sport|grad=7a|fa=Jens Larssen}}
+{{led|namn=Mount Blanc|fa=Jens Larssen|grad=6b+}}
+{{led|namn=Kebnekaise|fa=Jens Larssen|grad=6b|typ=sport}}
+
+
+
+
+
+
+
+[[Kategori:Sport]] 
+[[Kategori:Trad]] 
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Bohuslän]]
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]

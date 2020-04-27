@@ -1,0 +1,75 @@
+{{komplett}}
+{{info klippa
+  |lat=59.044369
+  |long=17.747792
+}}
+
+[[Bild:LillaV-B.jpg|thumb|250px|right]]
+
+==Allmänt==
+Klippa nära [[Vårdberget|Vårdbergets]] nedre parkering. Ligger ca 500 m nordväst om Vårdberget ett par stenkast från Himmerfjärden. Klippan är brantare och högre än Vårdberget men också grepprikare. Ett bra alternativ när det är fullt på "vanliga" vårdberget. [[Lämplig även för barnklättring.]]
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap version="0.9" lat="59.047089" lon="17.754507" type="map" zoom="14" width="350" height="200">
+59.044369, 17.747792
+Lilla Vårdberget
+</googlemap>
+</div>
+Åk väg 225 från Vårsta mot Nynäshamn. Sväng av mot Fituna Gård, det är skyltat Fituna och Båttrailers. 1,5 km efter gården tar du andra skogsvägen till höger, denna är oftast inte utmärkt men ibland sitter det snitslar på träden vid avtagsvägen. Efter c.a 1.5 km kommer du till ett T-kors. Sväng höger och kör längst vattnet till ett grustag där du kan parkera.
+Klippan ligger i skogen rakt österut och bara 50m från parkeringen.
+
+Det är numer en bom vid T-korset vilket förhindrar högersväng och vidare bilfärd till grustaget. Det finns en ficka precis innan T-korset där man kan stå. Alternativt parkera enligt anvisningar för [[Vårdberget]].
+{{clear}}
+
+==Karaktär==
+[[Bild:LillaVBtravers.jpg|thumb|250px|right]]
+Klippan är betydligt "yngre" än Vårdberget och bjuder på mycket god friktion och en hel del riktigt vassa grepp och kanter. Klippan fick en renovering våren/sommaren -08. Många nya borrbultar och toppankare sattes upp. Det är fortfarande inte helt ovanligt att det lossnar sten så den försiktige säkraren har på sig hjälm. 
+
+Väggen ligger jämfört med stora Vårdberget mer skuggat och det blir inte lika kokhett här när solen ligger på. Utsikten får jämfört med storebror betraktas som begränsad.
+
+En liten brant vägg/block ligger framför klippan. På väggen finns en lätt travers av utmärkt kvalitet.
+
+'''VARNING!'''
+På leden Ombyte förnöjer finns ett löst block, i storlek som nedersta skrivbordslådan. Det utgör också ett naturligt men inte oundgängligt grepp så det finns viss risk att man river ned det. Bör tas ned snarast vid ett tillfälle då få klättrare finns på plats. Det finns där leden är en aning flackare efter 6:e bulten. Lite allmänt rekommenderas hjälm, särskilt för de som säkrar.
+
+Blocket rensat 090829. Påverkar inte graden då leden egentligen går till höger om diedersystemet. 
+Varningen kan gott stå kvar ändå. Klippan är bra rensad om man håller sig till lederna, men off-route finns en del obehagligt och löst liggande stenar.
+{{clear}}
+
+==Leder==
+
+[[Bild:lilla_vb_skiss.png|640px]]
+
+Det finns ett toppankare på varje led i form av dubbla bultar med firningsring i ena (-08). Flera av ankarna går lätt att komma åt uppifrån. Alla leder utom två är helbultade och bultarna är i mycket gott skick. 
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=0|namn=Stor och liten|ny=1|grad=5c|längd=20|typ=sport|fa=[[Anton & Peter Yakubenko]] [[-09]]|text=Två pitch upplevelse för alla. Start längst till vänster i början av sprickan sen rakt upp. Första replängden: grad 5c, jämn och fin vertikal klättring på bra grepp, 5bb och bra standplats vid ankare. Andra replängden: grad 4c, svaklättring, 4bb, standplats och ankare på toppen.}}
+{{led|nr=1|namn=Multipitch|grad=6-/5c|längd=30|typ=mix|text=Kanske mest naturliga vägen att bestiga Lilla Vårbergets sydvägg. Första replängden: Börjar längst till vänster, traversera ca 15m i sprickan (trad) till led nr 2, fortsätt upp och åt höger (3bb) på hyllan till en standplats. Andra replängden: klättra rakt upp i spriсkan sen åt vänster (trad) till en bb på led nr.3 och vidare upp till toppankaret}}
+{{led|nr=2|namn=Ombyte förnöjer|grad=5b|längd=16|fa=[[Börje Svedman]] [[-98]]|typ=sport|bultar=8|text=Helbultad och ganska lång femma.}}
+{{led|nr=3|namn=Paulins inflyttningsfest|grad=6b+|längd=15|fa=[[Börje Svedman]] [[-98]]|typ=sport|bultar=7|text=Rakt upp bakom björken.}}
+{{led|nr=3a|namn=Pappaledig|grad=7a|bultar=4|längd=7|typ=sport|fa=[[Peter Yakubenko]] [[-08]]|| text=Kort men hårt.}}
+| width="300px" |
+{{led|nr=4|namn=Perestrojka|grad=6c|betyg=1|längd=15|fa=[[Lars Grankvist]], [[Niklas Björnerstedt]] [[-87]]|bultar=7|text=Fin, ihållande. Krux vid andra bulten. }}
+{{led|nr=5|namn=Nytursåke|grad=6c+|bultar=7|längd=14|fa=[[Börje Svedman]] [[-98]]|typ=sport|text=krux i början.}}
+{{led|nr=6|namn=Glasnost|grad=6-/6a|längd=16|fa=[[Niklas Björnerstedt]], [[Lars Grankvist]] [[-87]]|typ=mix|bultar=4|text=Trevlig mixled som går i den fina men korta sprickan. Gemensamt insteg med Nya Vågen och utsteg i Nytursåke.}}
+{{led|nr=7|namn=Nya vågen|grad=6c|längd=14|fa=[[Peter Yakubenko]], [[Anders Eriksson]], [[Jörgen Alvhäll]] [[-08]]|bultar=6|typ=sport|text=Samma insteg som Glasnost, därefter rakt upp. Krux på slutet.}}
+{{led|nr=8|namn=Daniels solotur|grad=5b|längd=16|fa=[[Daniel Engström]] [[-98]]|typ=sport|bultar=7|text=Jämn och fin femmaklättring.}}
+{{led|nr=9|namn=Hacke Hackspett|bultar=5|grad=5b+|längd=8|fa=[[Börje Svedman]] [[-98]]|typ=sport |text=Betydligt svårare än väntat.}}
+{{led|nr=10|namn=Lillebror|ny=1|bultar=5|grad=6a|längd=8|typ=sport|fa=[[Anton & Dennis Yakubenko]] [[-11]]|text=På vägg emellan Hacke Hackspett och sprickorna.}}
+{{led|nr=11|namn=Hacke trad|grad=5a|längd=8|typ=trad|fa=[[Börje Svedman]] [[-98]]|text=Ett spricksystem längst till höger.}}
+
+
+
+
+|}
+
+==Mer info==
+http://www.utsidan.se/forum/showthread.php?t=23036
+
+[[Kategori:Stockholm]]
+[[Kategori:Fituna]]
+[[Kategori:Sport]]
+<!-- Ok, man kanske skulle kunna hävda kategori trad men det känns krystat på denna klippa - liksom mix? -->

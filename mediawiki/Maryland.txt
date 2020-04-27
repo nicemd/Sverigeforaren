@@ -1,0 +1,13 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Karelin|grad=6A+|typ=Slopers,Aréte|fa=Johan Öhman|landning=3|betyg=2|fadatum=2003-06-12|sopad=Johan och Daniel|text=Kroppstung slopertravers upp längst ett arête. Klockren linje och väldigt fint problem. Startar längst ner på den utstickande "sloper-bullen".}}
+{{problem|namn=Stormvind|grad=6B|typ=Slopers,Travers H->V,Heel hook|fa=Johan Öhman|landning=1|betyg=2|fadatum=2003-06-12|sopad=Johan|sittstart=ja|text=Ett lågt och coolt traversproblem. Mycket fint och väldigt slopigt. Troligen tyngre för långa, då fötternas placeringar är kritiska för att orka. Börja sittande längst till höger och toppa ut längst till vänster vid björken.}}
+{{problem|namn=Rönnbärstraversen|grad=6A|typ=Slopers,Travers H->V|fa=Daniel Andersson|fadatum=2003-06-12|sopad=Daniel, Johan och Chrille|text=Givet problem längst fristående block. Börja längst till höger på ganska givna startgrepp. Traversera, till du kommer runt vänstra kanten, där man viker av snett uppåt. Sugande men helt okej problem}}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,38 @@
+{{info klippa
+  |lat=59.682995
+  |long=12.433777
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{boulderstub}}
+
+==Allmänt==
+Ett litet boulderställe inte långt ifrån klassiska klippor som Sulvik och Ränkesnipan i västra Värmland.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.682995" lon="12.433777" type="map" zoom="9">
+59.711911, 12.306447, Hovdane
+</googlemap>
+
+</googlemap>
+</div>
+
+Du hittar hit genom att åka från Arvika mot Årjäng, passera Jössefors och fortsätt tills du kommer till Sulvik som ligger ungefär 1-1,5 mil utanför stan. 
+Fortsätt förbi Sulvik och sväng av höger mot Koppom. 
+Fortsätt på denna väg några kilometer tills du ser en skylt åt höger märkt Hovdane. 
+
+==Föraren==
+Förare med komplett väg- och problembeskrivning hittas på Arvikas boulderförare som hittas på följande länk 
+[http://27crags.com/crags/hovdane http://27crags.com/crags/hovdane]
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+
+[[Kategori:bouldering]]
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Värmland]]

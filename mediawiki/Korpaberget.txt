@@ -1,0 +1,29 @@
+{{utkast}}
+[[Kategori:Västergötland]]
+
+Källa: Hans Rapp topo (Alingsås klätterklubbs hemsida)
+
+== Om klippan ==
+
+Klippan ligger i lummig lövskog som ger behaglig skugga på sommaren dock kan myggen under sensommaren plåga den stackare som tvingas stå still och säkra sin kamrat. I Korpaberget går det att klättra under kraftiga regnoväder då klippan, i framför allt, den vänstra delen är starkt överhängande. De delar av klippan som ändå blir något blöta under regn torkar snabbt upp.
+
+I Korpaberget är det sportklättring som gäller även om det finns ett litet antal naturligt säkrade leder. Klättringen i Korpaberget är brant till mycket brant (läs takklättring). Klippan är 20-25 meter hög och det finns leder från grad 5c till 8b. Området kring klippan hyser också ett antal större och mindre klippblock som är intressanta ur bouldersynpunkt. Några boulderproblem existerar redan. Eremit är en av de få naturligt säkrade lederna på klippan men genom toppankaret så är den lätt att topprepa, cruxmovet på leden går över ett stort tak där den som gillar att leka Kurt Albert får sitt lystmäte. Vissa av de nya lederna går över partier av ganska dålig klippkvalitet vilket bör beaktas.
+
+== Access ==
+{{accessDB|klippa=korpaberget}}
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+== Vägbeskrivning ==
+
+<googlemap version="0.9" lat="57.915851" lon="12.52862" zoom="14">
+57.916124, 12.528019, Korpaberget
+Alingsås, Sverige
+</googlemap>
+
+Korpaberget ligger i närheten av Mariedals hundkapplöpningsbana, det enklaste är att parkera vid kapplöpningsbanan och sedan promenera till toppen av klippan för att där fira av i något av firningsankarna. Parkera inte på grusvägen nedanför klippan! Från Alingsås, E20 mot Göteborg, sväng av vid Statoilmacken. Åk tillbaka mot Alingsås på Afzeliivägen och följ Mariedalsvägen mot hundkapplöpningsbanan. '''Parkera med omdöme utanför Hundkappens grindar.''
+
+== Leder ==
+
+Hans Rapp topo: http://www.gbg-guiden.info/site/archives/KORPABERGET%20080818.pdf
+
+http://www.akk.nu/localcrags.aspx?crag=2

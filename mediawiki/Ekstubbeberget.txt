@@ -1,0 +1,94 @@
+{{info klippa
+  |lat=59.246805332957756
+  |long=18.170721530914307
+}}
+
+{{komplett}}
+==Allmänt==
+Sportklätterklippa nära [[Flaten]]. Denna klippa är återupptäckt. I gamla Stockholmsföraren hittar man orginalledernas namn och grad, av vilka samtliga gjordes utan artificiella hjälpmedel för det svaga sinnet... Klippan har under 2009 fått sig en rejäl översyn av Bultkommittén som bla satt upp ankare över de flesta lederna samt borstat upp de partier som tidigare var igenmossade. Varning för mygg.
+
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap width=350 height=200 lat="59.246805332957756" lon="18.170721530914307" zoom="11" type="map" >
+59.246805332957756,18.170721530914307,Ekstubbeberget (ungefärlig plats)
+</googlemap>
+</div>
+Det är lika lätt att ta sig dit med bil som att åka kommunalt.
+Buss 811 och 816 från Gullmarsplan eller buss 401 från slussen (går inte så ofta). Gå av vid Flatenbadet och fortsätt Flatenvägen fram till bron över Tyresövägen. Precis innan bron, tag av höger ner på en bommad väg med en skylt för motorbanan. Passera en motorbana för miniracerbilar på vänster sida, ta till höger vid husen (MHF) och gå mot den äldre motorbanan, passera bakom läktaren på höger sida om banan och ta den breda stigen rakt ner mot vattnet. När du nått vattnet, vik av till vänster in på den lilla stigen och gå cirka 100-200 meter. Du har nu förhoppningsvis klippan rakt framför dig.
+
+Kommer du med bil parkerar du på vägen som går ner till motorbanan innan vägbommen om du inte vill få bilen inlåst när radiobilsförarna är klara för dagen. Eller vid Flatenbadet. 
+ 
+<div style="clear:both"></div>
+
+{{sidbrytning}}
+
+==Leder==
+===Huvudväggen===
+[[Bild:Ekstubbe_huvud.png]]
+{|
+|- valign="top"
+| width="250" |
+{{led|nr=1a|namn=Busken|grad=5b|typ=trad|fa=[[Thomas Leitner]], [[Björn Wolgast]] -89|text=Kort led långt till vänster.}}
+{{led|nr=1b|namn=Järnsängen|grad=4c|typ=trad|fa=[[Gunnar Woodsack]], [[Vivi-Ann Friberg]] -86|text=Insteg till vänster om stor gran.}}
+{{led|nr=1|namn=Armar uppåt sträck|grad=5|typ=sport|fa=[[Patrik Agerkrans]] -96}}
+{{led|nr=2|namn=Projekt|grad=?|fa=?}}
+{{led|nr=3|namn=Flaklös|grad=7c|typ=sport|fa=[[Johan Luhr]] -98}}
+{{led|nr=4|namn=Swing-a-ling|grad=7a+|typ=sport|fa=[[Patrik Agerkrans]], [[Johan Luhr]]}}
+{{led|nr=5|namn=Ringrost/Dans på kant|grad=6c|betyg=1|typ=sport|fa=[[Thomas Leitner]] -92, FF: [[Patrik Agerkrans]]|text=Följer en intressant formation upp till taket.}}
+| width="250" |
+{{led|nr=6|namn=Malaco|grad=7a|betyg=1|typ=sport|fa=[[Johan Luhr]] -96}}
+{{led|nr=7|namn=Haribo|grad=7b|typ=sport|fa=[[Johan Luhr]] -96}}
+{{led|nr=8|namn=Ahlgrens|grad=7a|betyg=1|typ=sport|fa=[[Johan Luhr]] -96}}
+{{led|nr=8b|namn=Bullen|grad=7b+|typ=sport|fa=[[Johan Luhr]] -96|text=Börja med ''Ahlgrens'' och avsluta med ''Haribo''.}}
+{{led|nr=9|namn=Jordcirkus|grad=6a+|betyg=2|typ=trad|fa=[[Jan Liliemark]] -89|text=Härlig klättring på bra säkringar! }}
+{{led|nr=9b|namn=Långt ned i halsen|grad=6c|bultar=6|typ=sport|fa= [[Claes Thornberg]], [[Mats Olofsson]] -99|text=Startar 2m th om ''Jordcirkus''. Förlängdes -09 hela vägen till toppen. Delar ankare med ''Jordcirkus'' och ''Ahlgrens''.}}
+{{litentext|text=Leder 10-14 har alla nya fina firningsankare bestående av 2x bult+ring.}}
+{{led|nr=10|namn=Sprickan|grad=6a|typ=sport|fa=[[Johan Luhr]], [[Patrik Agerkrans]] -96}}
+| width="250" |
+{{led|nr=11|namn=Vesslan|grad=6b+|bultar=3|typ=sport|fa=[[Patrik Agerkrans]] -96}}
+{{led|nr=12|namn=Tunna sprickan|grad=6b+|bultar=3|typ=sport|fa=[[Patrik Agerkrans]], [[Johan Luhr]] -96|text=Fin laybackspricka med rolig avslutning. Kanske värd en stjärna?}}
+{{led|nr=13|namn=Inget för frökenfingrar|grad=6c+|betyg=1|bultar=3|typ=sport|fa=[[Patrik Agerkrans]] -96}}
+{{led|nr=14a|namn=Städpatrullen|ny=1|grad=6b|typ=sport|fa=[[Per Willén]], [[Thomas Eriksson]], [[Peter Mogård]] -09|text=Th om ''Kort och gott''}}
+{{led|nr=14|namn=Kort och gott|grad=6a|typ=sport|fa=[[Patrik Agerkrans]] -96}}
+|}
+
+{{sidbrytning}}
+
+===Röda väggen===
+Mellan huvudväggen och röda väggen finns troligtvis viss nyturspotential.
+
+{|
+|- valign="top"
+| width="250" |
+[[Bild:Ekstubbe_roda.png]]
+| width="250" |
+{{led|nr=15a|namn=Sug i|grad=7b|typ=sport|bultar=4|fa= [[Johan Luhr]] -00|text=Sista bulten och ankare gemensamt med ''Högersväng''.}}
+{{led|nr=15b|namn=Högersväng|grad=7a+|bultar=3|typ=sport|fa= [[Johan Luhr]] -00|text=Sista bulten och ankare gemensamt med ''Sug i''.}}
+{{led|nr=15|namn=Patriks gamla|grad=7b+|typ=sport|fa= [[Johan Luhr]] -00|text=Ankare gemensamt med ''Högersväng''.}}
+{{led|nr=16|namn=Maggan|grad=7b+|typ=sport|fa= [[Johan Luhr]] -00|text=Ankare gemensamt med ''Interkulturell''.}}
+{{led|nr=17|namn=Interkulturell|grad=7b|typ=sport|fa= [[Johan Luhr]] -00|text=Ankare gemensamt med ''Maggan''.}}
+|}
+
+===Bortre väggen===
+{|
+|- valign="top"
+| width="250" |
+[[Bild:Ekstubbe_bortre.png]]
+| width="250" |
+{{led|nr=18|namn=Pelles nya kläder|grad=6c+|typ=sport|fa=[[Johan Luhr]] -96|text=Nytt ankare 2013.}}
+{{led|nr=19|namn=Gnällmåns|grad=7a|typ=sport|fa=[[Johan Luhr]] -96|text=Nytt ankare 2013.}}
+{{led|nr=20|namn=Olles skidfärd|grad=7a|typ=sport|fa=[[Johan Luhr]] -96|text=Gemensamt ankare med Gnällmåns.}}
+|}
+
+==Externa länkar==
+Ursprunget till denna sida finns arkiverat på archive.org:
+[http://web.archive.org/web/20010506184842/www.jug.nu/omraden/ekstubbe/index.html Ekstubbeberget på Jug anno 2001]
+
+På bloxc har Ekstubbeberget diskuterats i [http://www.bloxc.com/forum/viewtopic.php?t=530 denna tråd].
+
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]

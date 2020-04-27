@@ -1,0 +1,47 @@
+{{info klippa
+  |lat=59.89238146613623
+  |long=17.07953453063965
+}}
+
+{{stub}}
+
+==Allmänt==
+Lång "klack" med bra topprepsmöjligheter. Här har klättring bedrivits sedan 80-talet. Upplandsleden passerar nära parkeringen och leder ner till Tenasjöns badplats (1km). Somliga vintrar bildas klätterbar is på de lägre svapartierna.
+
+== Introduktion ==
+
+== Rekommenderade leder ==
+
+== Vägbeskrivning ==
+Från Uppsala, ta väg 72 till Vittinge och sväng till vänster vid skylten till Hårsbäck, som tar dig över järnvägen. Efter 100m ta till vänster på Lillbovägen. Kör 400m och sväng sedan till höger vid T-korsningen. Denna väg forsätter österut ~1km innan den stängs av en bom. 100m innan bomen finns det en liten parkering på höger sidan. Gå sedan till bommen. Klipporna är ungefär 30m till vänster.
+
+<googlemap lat="59.89238146613623" lon="17.07953453063965" zoom="10" type="map">59.89238146613623,17.07953453063965,[[Uvhällsklack]]
+
+</googlemap>
+
+== Leder ==
+Fler leder finns beskrivna i gamla Uppsala-föraren. 
+
+{{led|namn=okänt|grad=4|betyg=|längd=5|bultar=|typ=|text=Kort spricka på väggpartiet längst till vänster.}}
+
+{{led|namn=Upp!|grad=6a+|betyg=1|längd=8|fa=[[JE]],[[MD]] |bultar=3|typ=sport|text=15m t.h. om korta sprickan. Start under "bullen" sen rakt upp via arete till ankare.}}
+
+{{led|namn=Pyramider|grad=6b|betyg=|längd=8|fa=[[JE]],[[MD]] (topprep) |bultar=|typ=|text=5m t.h om Upp. Teknisk.}}
+
+{{led|namn=okänt|grad=5|betyg=|längd=10|bultar=|typ=|text=Fin topprepsled mitt på huvudväggen.}}
+
+{{led|namn=okänt|grad=4+|betyg=1|längd=10|fa=|bultar=|typ=|text=Den uppenbara linjen på huvudväggens högra del.}}
+
+{{led|namn=projekt?|grad=-|betyg=|längd=9|fa=|bultar=2|typ=sport|text=30m t.h. om huvudväggen, mitt i det överhängande partiet går denna linje.}}
+
+{{led|namn=okänt|grad=5|betyg=|längd=4|fa=|bultar=|typ=|text=Kul boulderspricka på toppen av klippan.}}
+
+== Länkar ==
+
+* [http://xray.bmc.uu.se/markh/climbing/climbing_areas_swedish.html Klättring runt Uppsala]
+
+
+[[Kategori:Uppsala]]
+[[Kategori:Uppland]]
+[[Kategori:Saknar leder]]
+[[Kategori:Saknar skiss]]

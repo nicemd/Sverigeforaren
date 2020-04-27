@@ -1,0 +1,44 @@
+== '''Allmänt''' ==
+
+{{isutkast}}
+Området är ganska litet och lederna är mellan 15-10 m långa. Lederna är vända mot väst. Plus för att det är lugnt och tyst. Passar utmärkt för nybörjare och provapå. Då det är enkelt att sätta topprep. Namnen på lederna är påhittade, FA-person får gärna ändra. Anmarsch: lederna är lätta att hitta om man följer skidspåret och tittar åt höger. 
+ 
+{{accessDB|klippa=ulvasen}} 
+
+[[Bild:Från vänster Mr Dark Mr Black och Mr Gren 110227.JPG]]
+
+
+
+{{led|nr=1|namn=Mr Dark|grad=WI3|betyg=1|längd=14|fa=[[Okänd]]|bultar=|typ=is|text=}}
+
+[[Bild:Johan Mörk leder Mr Dark.JPG]]
+
+
+{{led|nr=2|namn=Mr Black|grad=WI4|betyg=2|längd=13|fa=[[Okänd]]|bultar=|typ=is|text=}}
+
+
+{{led|nr=3|namn=Mr Gren|grad=WI4|betyg=1|längd=12|fa=[[Okänd]]|bultar=|typ=is|text=}}
+
+[[Bild:Micke leder Mr Gren.JPG]]
+
+
+Isuppdatering 4 februari 2012:
+
+[[Bild:Ulvåsen is 4-2-2012.jpg]]
+
+== '''Vägbeskrivning''' ==
+
+Tag av E20 på avfart 80 i Partille. Kör mot Lexby/Utby. Sväng höger i rondellen mot Lexby. Tag till vänster efter ca 150 m in på Paradisvägen. Tag vänster igen in på Gavelåsvägen. Kör tills vägen tar slut och parkera på parkeringen vid en tegelvilla. Följ stigen in i skogen ca 1 km. Tag till höger när stigen delar sig vid en skyllt med en skidlöpare på. Gå ca 300 m från stigkorsningen och du har fallen på höger sida. Fallen ligger ca 300 m söder om klippklättringsklipporna.
+
+
+
+<googlemap version="0.9" lat="57.754508" lon="12.098055" zoom="13">57.754288, 12.098018
+
+Mr Dark Mr Black Mr Gren, Sverige</googlemap>
+
+== '''Access''' ==
+
+Inga kända accessproblem. 
+[[Kategori:Is]]
+
+--[[Användare:Mr Dark|Mr Dark]] 27 februari 2011 kl. 23.43 (CET)

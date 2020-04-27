@@ -1,0 +1,41 @@
+{{isutkast}}
+
+<div style="float:right; padding:3px; border: solid 1px gray;">http://img86.imageshack.us/img86/9640/isklttring018fp4.jpg</div>
+Häckelberget har länge varit Funäsdalens främsta område för klippklättring. Den stora potentialen för isklättring upptäcktes dock inte förrän vitern 2005 då Funäsdalens enda infödda klättrare Jon Wagenius och praktikanten Ted Ekberg klättrade Praktikantfallet. Under vinter 06-07 har ytterligare några förstabestigningar ägt rum, men mycket finns kvar att göra. De flesta isarna är korta, 10-15 meter men det finns många av dem vilket gör berget värt ett besök. Det verkar vara bra med is här även tidigt på säsongen, senare under vintern med mer snö kan snöskor eller skidor vara bra för anmarsschen.
+
+== Vägbeskrivning ==
+Från Funäsdalen, kör mot Bruksvallarna. 800 meter efter campingen finns en plogad ficka på vänster sida av vägen. Parkera här och följ stigen som börjar rakt över vägen, den brukar vara upptrampad av pimpelfiskare som går upp till Häckelsjön. Följ stigen upp till sjön. Gå över isen och in i skogen i den bortre, vänstra änden av sjön. Håll höger runt en kulle så kommer ni fram till lilla väggen. För att hitta övriga väggar se '''[[Översikten]]''' över berget. Anmarsch ca. en kilometer.
+
+<googlemap lat="62.56587" lon="12.58694
+" zoom="11" type="map">
+62.56587,12.58694
+,Häckelberget</googlemap>
+
+
+
+
+'''Jens Juhlin leder Praktikantfallet. Foto:Ted Ekberg.'''
+
+== Klättringen ==              
+De isar som hitills klättrats ligger alla på "vänstra väggen". Här finns fortfarande ett par oklättrade linjer men alla väggar har intressanta is och mixlinjer att klättra, gör gärna det och rapportera alla nyturer här. På "nedre väggen" brukar det bildas en del is som ger möjligheter till lite mixklättring. Nedanstående isar ligger på vänstra väggen och beskrivs från höger till vänster.
+
+
+<div style="float:right; padding:3px; border: solid 1px gray;">http://img100.imageshack.us/img100/6338/isklttring075hq3.jpg</div>
+'''Praktikantfallet: WI3 40meter Jon Wagenius, Ted Ekberg Mar.-05'''
+Stor is längst till höger som lätt känns igen på att en klippelare under isen får den vänstra delen att bukta ut kraftigt. Den första, branta delen leder upp till en hylla med en stor tall där man kan fira av eller fortsätta till toppen på flackare is och lite snö.
+
+'''Namnlös: WI3+ 15meter Ted Ekberg, Oskar Stenström Mar.-07'''
+På en mindre vägg en bit till till vänster och lite högre upp ligger en brant pelare som slutar srax under toppen, traversera där nån meter åt vänster på en hylla och sedan upp via lite is, klippa och mossa. Ett par kilar är mycket användbara.
+
+'''Gottegrisen: WI3- 30meter Ted Ekberg (solo) Dec.-06'''
+Stor bred is med en stor hylla med en tall på mitten. Mycket fin is för nybörjare som vill prova att leda. Går att göra i två replängder med standplats i en stor tall på mitten om man vill.
+
+'''Metabol demens: 20meter Ted Ekberg, Oskar Stenström Mar.-07'''
+Mixled strax till höger om "Vänstra isen". Några meter brant is leder upp till en hylla, från hylla är det bara rakt upp via ett litet dieder med en björk, en till hylla och toppväggen som är brantare än den ser ut att vara. Hyggligt välsäkrad med 1-2 isskruvar, ett kilknippe och några små friends.
+
+'''Vänstra isen: WI3-4 15meter Michael Ärfström, Ted Ekberg Dec.-06'''
+En låg men bred och brant isvägg som erbjuder många varianter allra längst till vänster på berget.
+
+'''Ted Ekberg på förstabestigningen av Metabol Demens. Foto: Oskar Stenström.'''
+
+[[Kategori:Jämtland]]

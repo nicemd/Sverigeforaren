@@ -1,0 +1,102 @@
+{{info klippa
+  |lat=58.322652524354375
+  |long=11.466636657714843
+}}
+
+{{utkast}}
+== Introduktion ==
+Kallades förr Lyse Kyrka, efter den vackra kyrkan intill. Populärt kursberg, och det är inte att undra på. Fina långa lätta leder, lätt att topprepa från den stora platån ovanför, vindskydd att luncha i, och inte långt att gå från bilen.
+
+Used to be called Lyse Kyrka, named after the beautiful church close to the crag. This cliff holds relatively easy routes, good toprope possibilities and easy access with just a short walk from the car.
+== Karaktär ==
+Kompakt, hög, sydvänd klippa, inte riktigt vertikal. Både väggklättring och sprickor. En hel del lättare turer mellan 3 och 5+. Även ett och annat lite tuffare.
+
+Compact, tall, southfacing and slabby cliff. Both face and crack-climbing. Mostly easier routes ranging from grade 3 to 5+ even though some harder challenges can be found.
+
+== Vägbeskrivning ==
+<googlemap version="0.9" lat="58.326574" lon="11.4711" zoom="10">
+58.322427, 11.467152, Brappersberget
+</googlemap>
+
+Parkera vid kyrkan.
+
+==Access {{access}}==
+
+{{AccessDB|klippa=brappersberget-lyse-kyrka}}
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja|förförare bohuslän (2012)=ja}}
+
+Alternativ närförare: http://www.bohusbergen.se/forare/lyse-kyrka
+
+== Västväggen ==
+
+Den västra sidan av berget som har skugga på dagtid.
+
+{{led|namn=The Book of the Dead|fa=Joakim Olofsson|fadatum=2004?|grad=6-|längd=40|ny=1
+  |text=Börjar ca 50 meter till vänster om Amerikanskt fyrverkeri. Följer ett tydligt "undercling-bälte" som går snett åt höger till en hylla där man gör stand. Fortsätt sedan rakt upp i ett dieder till toppen. Riktigt fin.}}
+
+{{led|namn=Amerikanskt fyrverkeri|typ=trad|grad=6+|längd=35|fa=Niklas Björnstedt, Kent Lindström|fadatum=1988
+  |text=Fingerspricka som börjar i ett litet överhängande dieder, ca 15 meter in på västväggen.}}
+
+{{led|namn=Gengångaren|typ=mix|grad=7/7+|längd=35|fa=Gudmund Söderin, Kent Lindström|fadatum=1989
+  |text=Startar i överhänget nära bergets hörn. Följ bultarna.}}
+
+== Sydväggen ==
+
+En fin vägg med många relativt lätta och välsäkrade leder i övre femma-registret.
+Foto visar huvudväggen sedd från kyrkogården.
+
+[[Bild:lyse-kyrka-1.jpg]]
+
+{{led|nr=1|namn=Etikens altare|grad=6-|längd=35|typ=trad|betyg=|text=Starta upp i diedern tv om Sacre Coeur, följ Y-sprickan till vänster och håll sedan närmast kanten|fa=Harri Sporrevik, Anna Groth|fadatum=1989}}
+
+{{led|nr=2|namn=Sacre Couer|grad=6-|längd=30|typ=trad|betyg=|text=Startar i den v:a sprickan längst ut till vänster på väggen. Följ sprickan och sedan åt höger där leden förenas med St Pauls|fa=Sem Larsen, Lars Ingemansson, Arne Roos|fadatum=1984}}
+
+{{led|nr=3|namn=St Pauls|grad=5+|längd=30|typ=trad|betyg=|fa=Sem Larsen, Lars Ingemansson, Arne Roos|fadatum=1984|text=Högra sprickan till toppen.}}
+
+{{led|nr=4|namn=Du och jag, Katarina|grad=5+|längd=30|typ=mix|betyg=|text=Väggklättring mellan St Pauls och Kyrkråttan|fa=}}
+
+{{led|nr=5|namn=Skit i etiken, knulla liken|grad=5+|längd=25|typ=trad|betyg=|text=Sparsamt säkrad|fa=Gunnar Woodsak, Mats Holmgren|fadatum=1989}}
+
+{{led|nr=6|namn=Kyrkråttan|grad=4+|längd=25|typ=trad|betyg=1|text=Den stora spricklinjen th om St Pauls. Firningsankare.|fa=Lasse Grankvist, Ann-Marie Fransson|fadatum=1985}}
+
+{{led|nr=7|namn=Hircus alarum|grad=5+|längd=25|typ=mix|betyg=|bultar=1|text=Väggklättring tv om Big Ben. En BB i början, därefter rakt upp|fa=Torbjörn Bengtsson, Lars benke|fadatum=1987}}
+
+{{led|nr=8|namn=Big Ben|grad=5|längd=25|typ=trad|betyg=2|text=Den tydliga sprickan mitt på väggen. Extremt bra säkringar. Toppankare.|fa=Sem Larsen, Lars ingemansson, Arne Roos|fadatum=1984}}
+
+{{led|nr=9|namn=Requiem|grad=5|längd=20|typ=trad|betyg=|text=Osäkrad klättring leder till en spricka ett par m under överlappningen. Säkra där. Klättra överlappningen via ett tydligt flak. Seriös!|fa=Torbjörn Bengtsson, Sten-Göran Lindblad|fadatum=1985}}
+
+{{led|nr=10|namn=Ringaren|grad=5-|längd=20|typ=trad|betyg=|text=Sprickan 5m th om Requim. Följ sprickan och sedan rakt upp över mothänget. Bra säkringar.|fa=Mats Olofsson och Rafael Jensen|fadatum=1985}}
+
+{{led|nr=11|namn=Altar orgie|grad=4+|fa=Torbjörn Bengtsson, Sten-Göran Lindblad|fadatum=1985
+  |text=Välsäkrad spricka till toppen som börjar i ett svart parti.}}
+
+{{led|nr=12|namn=Bjällran|grad=3+|längd=15|fa=Mats Olofsson, Rafael Jensen|fadatum=1985
+  |text=Sprickan till höger om Altar orgie.}}
+
+
+== Lilla väggen ==
+Den mindre klippväggen nära Brappersberget.
+
+[[Bild:lyse-kyrka-2.jpg]]
+
+{{led|nr=1|namn=Dim-up|grad=6-|längd=13|typ=mix|betyg=|text=Fin väggklättring på klippans vänstra del, 1bb.
+|fa=Lars Benke, Torbjörn Bengtsson|fadatum=1987}}
+
+{{led|nr=2|namn=Stay up|grad=6-|längd=10|typ=bult|betyg=2|text=Mellan Dim up och Godzilla. 2bb. Mycket fin.
+|fa=Björn Bågmark|fadatum=1996}}
+
+{{led|nr=3|namn=Godzilla |grad=6+|längd=10|typ=mix|betyg=|text=Tungt hangel i sprickan åt vänster
+|fa=Torbjörn Bengtsson, Lars Benke|fadatum=1987}}
+
+{{led|nr=4|namn=Det smidiga kassaskåpet|grad=6+|längd=14|typ=mix|betyg=|text=Följ sprickan till hyllan (bult). Sedan väggklättring.|fa=Joakim Olofsson, Rickard Larsson|fadatum=1990}}
+
+{{led|nr=5|namn=Vogue|grad=5|längd=10|typ=trad|betyg=|text=Ett riss och en dieder mitt på väggen, Firningsbult ovanför.|fa=Lars Benke, Torbjörn Bengtsson|fadatum=1987}}
+
+{{led|nr=6|namn=Den mumifierade räven|grad=6-|längd=14|typ=trad|betyg=|text=Fina, tunna riss ett par meter th om Vogue.|fa=Torbjörn Bengtsson, Lars Benke|fadatum=1987}}
+
+[[category:Topprep]]
+[[category:trad]]
+[[category:saknar_leder]]
+[[category:saknar_skiss]]
+[[Kategori:Bohuslän]]

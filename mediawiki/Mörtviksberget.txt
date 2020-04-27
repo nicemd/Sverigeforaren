@@ -1,0 +1,27 @@
+{{stub}}
+{{info klippa|lat=59.243472|long=18.426966}}
+
+==Allmänt==
+Svaplatta på södra Ingarö. Går rakt ner i Ingaröfjärden och är lättast att komma åt på vårvintern medan isen fortfarande ligger.
+
+==Vägbeskrivning==
+<div style="float: right; border: solid 1px gray">
+<googlemap version="0" lat="59.267284" lon="18.415833" type="map" zoom="11" width="300" height="200">
+59.243472, 18.426966,Mörtviksberget, ungefärlig plats.
+</googlemap>
+</div>
+Än så länge okänd. Någon?
+Position enligt urgammal standard: '''10 I SO 721496'''.
+
+==Leder==
+Har en led som följer en av de tydliga diagonala sprickorna, ca 5‑. Några hundra meter längre norrut finns under gynnsamma förhållanden flera ganska fina isfall.
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Saknar leder]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar vägbeskrivning]]
+[[Kategori:Trad]]
+[[Kategori:Is]]

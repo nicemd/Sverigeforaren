@@ -1,0 +1,124 @@
+{{info klippa
+  |lat=59.29208
+  |long=18.36107
+}}
+
+{{utkast}}
+
+==Allmänt==
+Klippan ligger på södra Farstalandet, alldeles väster om Beatelunds gård. Detta är ett ganska stort berg med flera olika väggpartier som delvis går rakt ned i Kolström, det mycket smala sundet mellan Farstalandet och Ingarö. Berget är tämligen utforskat. Här finns dock möjligheter att göra fler leder.
+
+==Extern förare==
+Förare med skiss finns på [http://www.plonk.se/oldsite/beatelund.html Stockholms Nätförare]
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.29208" lon="18.36107" zoom="14" type="map" controls="small">
+59.29208,18.36107,[[Beatelund]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Beatelund
+lat=18361070
+long=59292080
+</slresa>
+</div> 
+
+Kör mot Ingarö, sväng mot Beatelund innan bron. Efter 1,4 km passeras en flott grind på v sida. Efter ytterligare 400m gör vägen en skarp högersväng. Parkera här. Gå in i skogen och ta sikte mot högsta punkten. Rakt nedanför ligger röda väggen och th går Cabragg.
+
+<div style="clear:right;"></div>
+==Leder==
+
+===Sidoväggen===
+Instegen till Kladdragg, Cabragg och Sponken är på en tämligen exponerad hylla. Ta med nått (en friend typiskt) för att sätta fast säkringsmannen för att undvika tandemfall innan första bulten är klippt. 
+
+Dessa leder samt Borsten Torsten har ett gemensamt toppankare med två bultar som borde bytas ut/ändras. Dels sitter hängarna ett par centimeter ut från berget med ett tiotal brickor emellan. Kanske allvarligare är att ringhängaren som används inte förbunden med den andra bulten. I stället har man monterat kedjan i expanderpinnen under (dvs händer något med den så floppar också backupen...)
+
+{{led|namn=Kladdragg|grad=6a|betyg=|längd=|fa=[[Jesper Andersson]], [[Christer Jansson]] [[1996|-96]]|bultar=5|typ=sport|text=Snarare 6b.}}
+
+{{led|namn=Cabragg|grad=6a|betyg=|längd=|fa=[[Mats Olofsson]] [[1995|-95]]|bultar=3|typ=mix}}
+
+{{led|namn=Sponken|grad=5c|betyg=|längd=|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[1997|-97]]|bultar=5|typ=mix}}
+
+{{led|namn=Borsten Torsten|grad=6c|betyg=|längd=|fa=[[Mats Olofsson]], [[Claes Thornberg]] [[1997|-97]]|bultar=6|typ=sport}}
+
+{{led|namn=Hårdhudade Hagberg|grad=5b|betyg=|längd=|fa=[[Ludde Hagberg]], [[Christer Jansson]], [[Mats Olofsson]] [[1996|-96]]|bultar=|typ=trad}}
+
+{{led|namn=FTW|grad=7a|betyg=|längd=|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[1996|-96]]|bultar=4|typ=sport}}
+
+{{led|namn=Öppet projekt|grad=?|betyg=|längd=|fa=|bultar=|typ=projekt|text=Till höger om FTW}}
+
+{{led|namn=The fin|grad=4a|betyg=|längd=|fa=[[Christer Jansson]], [[Ludde Hagberg]] [[1996|-96]]|bultar=|typ=trad}}
+
+{{led|namn=Minihångel|grad=3a|betyg=|längd=|fa=[[Marco Kupiainen]] [[1996|-96]]|bultar=|typ=solo}}
+
+{{led|namn=Piggsvinet|grad=6a+|betyg=|längd=|fa=[[Marco Kupiainen]], [[Mats Olofsson]] [[1997|-97]]|bultar=4|typ=sport|text=Massor med mer eller mindre lösa grepp och steg! Om du inte kan låta bli att klättra leden så bör säkringsmannen bära hjälm!!}}
+
+===Överhängande väggen===
+
+{{led|namn=Gubben i berget|grad=5c|betyg=|längd=15|fa=[[Thomas Eriksson]][[2007|-07]]|bultar=5|typ=sport|text=Går längs aréten tv om "Den maskerade..".}}
+
+{{led|namn=Den maskerade smiskaren|grad=6c|betyg=|längd=20|fa=[[Mats Olofsson]], [[Claes Thornberg]], [[Peter Andersson]] [[1999|-99]]|bultar=8|typ=sport}}
+
+{{led|namn=Mosarmasse|grad=6c|betyg=|längd=20|fa=[[Mats Olofsson]], [[Peter Andersson]] [[1999|-99]]|bultar=8|typ=sport}}
+
+{{led|namn=Håll i dig|grad=6c+|betyg=|längd=9|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Kort med markant krux}}
+
+{{led|namn=Land of broken dreams|grad=6c+|betyg=|längd=10|fa=[[Claes Thornberg]]|bultar=4|typ=sport|text=Tung och överhängande}}
+
+{{led|namn=plonk.nu|grad=7c|betyg=|längd=13|fa=[[Mikael Widerberg]] [[1999|-99]]|bultar=4|typ=sport|text=Brant}}
+
+{{led|namn=Hej!|grad=7b|betyg=|längd=10|fa=[[Johan Luhr]] [[1999|-99]]|bultar=|typ=sport}}
+
+{{led|namn=Big bag boulder|grad=7a+|betyg=|längd=10|fa=[[Mikael Widerberg]]|bultar=4|typ=sport|text=Svårt insteg med dåligt placerad bult}}
+
+===Svaväggen===
+
+'''2011-10-04. Muttern i ankaret som rapporterades vara lös har nu åtgärdats'''
+
+{{led|namn=Bamsiga baguetter|grad=5b|betyg=|längd=20|fa=[[Mats Olofsson]], [[Peter Andersson]], [[Claes Thornberg]] [[1998|-98]]|bultar=1|typ=mix}}
+
+{{led|namn=Claes boulder|grad=6c+|betyg=|längd=|fa=[[Claes Thornberg]]|bultar=|typ=trad|text=Alt insteg till Bamsiga baguetter}}
+
+{{led|namn=Axellux|grad=5b|betyg=2|längd=20|fa=[[Mats Olofsson]], [[Peter Andersson]] [[1997|-97]]|bultar=|typ=trad|text=Kanontrevlig klättring och förvånansvärt välsäkrad med ett par små friends i början.}}
+
+{{led|namn=En möglig årgång|grad=5c|betyg=|längd=20|fa=[[Mats Olofsson]], [[Peter Andersson]] [[1997|-97]]|bultar=|typ=trad}}
+
+{{led|namn=Dubbla militärkallingar|grad=5c|betyg=|längd=20|fa=[[Mats Olofsson]] [[1997|-97]]|bultar=2|typ=mix}}
+
+{{led|namn=Putita de Noche|grad=6c|betyg=|längd=6|fa=[[Claes Thornberg]] [[1997|-97]]|bultar=|typ=trad|text=Avsluta med Dubbla militärkallingar}}
+
+{{led|namn=Chulu|grad=4a|betyg=|längd=16|fa=[[Mats Olofsson]] [[1997|-97]]|bultar=1|typ=mix}}
+
+{{led|namn=Cabrones|grad=5b|betyg=|längd=20|fa=[[Mats Olofsson]], [[Claes Thornberg]] [[1998|-98]]|bultar=2|typ=mix}}
+
+{{led|namn=Göra kor|grad=4c|betyg=|längd=22|fa=[[Mats Olofsson]], [[Claes Thornberg]] [[1998|-98]]|bultar=|typ=trad|text=Läskiga säkringar bakom flak där inte en enda är pålitlig. Dock värd att göra med topprep.}}
+
+{{led|namn=Frysta Prinskorvar|grad=4c|betyg=|längd=|fa=[[Lars Svadängs]], [[Lars Grankvist]] [[1979|-79]]|bultar=|typ=trad|text= Eftersom hela väggpartiet är klätterbart kan man i praktiken göra två parallella och trevliga linjer. Halvbra säkringspunkter där väggen tar slut men om repet räcker kan man fortsätta ett tjugotal meter till några tallar.}}
+
+{{led|namn=Har du en mutter lös?|grad=4c|betyg=|längd=42|fa=[[Mats Olofsson]], [[Staffan Gustavsson]] [[1998|-98]]|bultar=2|typ=mix|text=Lång}}
+
+===Örnnästet===
+
+{{led|namn=I will survive|grad=7a+|betyg=|längd=8|fa=[[Claes Thornberg]] [[1999|-99]]|bultar=3|typ=sport}}
+
+{{led|namn=Village People|grad=6c|betyg=|längd=8|fa=[[Claes Thornberg]] [[1998|-98]]|bultar=2|typ=mix}}
+
+{{led|namn=Inget att vara stolt över|grad=5c|betyg=|längd=8|fa=[[Claes Thornberg]], [[Mats Olofsson]], [[Peter Andersson]] [[1998|-98]]|bultar=2|typ=mix}}
+
+{{led|namn=Djävulska hyllor|grad=4+|betyg=|längd=8|fa=[[Mats Olofsson]], [[Staffan Gustavsson]] [[xxxx|-xx]]|bultar=1|typ=mix}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Överhäng]]
+[[Kategori:Sva]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Saknar skrivarformatering]]

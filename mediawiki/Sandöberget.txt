@@ -1,0 +1,47 @@
+{{komplett}}
+==Allmänt==
+Sjöklippa på Värmdö efter Sandövägen i närheten av Rindö. 
+
+==Miljö==
+Sydvänd och helt öppen.
+
+==Vägbeskrivning==
+Vid Hemmesta vägskäl, vik av v mot Vaxholm. Efter ca 4 km ta av mot Sandö. Efter ytterligare ca 4 km kan man
+skymta svaplattor vid vattnet på v sida, Sandövägen 77. 
+
+Position: 10 J NV
+
+== Access {{access}} == 
+Berget ligger på privat mark, varför största hänsyn måste tas. Klättra ej under häckningstid.
+
+== Leder ==
+[[Bild:Sandöberget.png]]
+
+
+{{led|nr=1|namn=Kajs led|grad=5+|betyg=|längd=12|fa=[[Kay von Damm]] [[1995|-95]]|bultar=|typ=trad}}
+
+{{led|nr=2|namn=Svållen gårka|grad=6|betyg=|längd=17|fa=[[Mats Olofsson]], [[Tobas Norenstedt]] [[1995|-95]]|bultar=1|typ=mix}}
+
+{{led|nr=3|namn=Bondmorans valkiga innanlår|grad=5|betyg=|längd=15|fa=[[Kay von Damm]], [[Jonas Paulsson]] [[1991|-91]]|bultar=|typ=trad}}
+
+{{led|nr=4|namn=Liquidation totale|grad=7-|betyg=|längd=12|fa=[[Kay von Damm]] [[1991|-91]]|bultar=1|typ=mix}}
+
+{{led|nr=5|namn=Clipboard|grad=6/6+|betyg=|längd=12|fa=[[Buster Delin]], [[Kay von Damm]] [[1991|-91]]|bultar=|typ=mix}}
+
+{{led|nr=6|namn=Lätt på foten|grad=6+|betyg=|längd=15|fa=[[Kay von Damm]], [[Mats Olofsson]] [[1993|-93]]|bultar=3|typ=mix}}
+
+{{led|nr=7|namn=Zapf dingbats|grad=5|betyg=|längd=16|fa=[[Per Calleberg]], [[Jonas Paulsson]] [[1991|-91]]|bultar=2|typ=mix}}
+
+{{led|nr=8|namn=Pioneerpelaren|grad=6+|betyg=|längd=18|fa=[[Mats Olofsson]], [[Kay von Damm]] [[1993|-93]]|bultar=1|typ=mix}}
+
+{{led|nr=9|namn=Me spat i rumpan|grad=6-|betyg=|längd=15|fa=[[Mats Olofsson]], [[Annika Stunke]] [[1993|-93]]|bultar=|typ=trad}}
+
+{{led|nr=10|namn=Fruits de mer|grad=5-|betyg=|längd=18|fa=[[Jonas Paulsson]], [[Kay von Damm]] [[1991|-91]]|bultar=|typ=trad}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Saknar karta]]

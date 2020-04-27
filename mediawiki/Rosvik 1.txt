@@ -1,0 +1,34 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Åskgudens son|grad=6A|typ=Travers H->V|fa=Jon|landning=2|betyg=3|text=Börja traversen på baksidan av blocket kallat Jug-house. Traversera sedan efter hela sidan till framsidan och där fortsätter traverseringen till nr 15, Days of thunder, och avsluta på samma sätt som den}}
+{{problem|namn=Blåbärskungen|grad=4C|typ=Highball|fa=Jon|landning=6|betyg=1|text=Tydlig hög spricka med dålig landning just runt hörnet till höger från nr.5 sett.}}
+{{problem|nr=5|namn=Göteborgsbrudar|grad=5A|typ=Krimp|fa=Jon Lindmark|landning=4|betyg=2|fadatum=2004-05-04|text=Gjordes ursprungligen utan annat grepp till vänster om areten än areten själv, har dock sett lösningar med listar runt areten och blir då mkt lättare än det var tänkt.}}
+{{problem|nr=6|namn=På vandring i Anderna|grad=5A|typ=Travers H->V|fa=Jon|landning=3|betyg=2|sittstart=ja|text=}}
+{{problem|nr=7|namn=Harald Blåtå|grad=5B|typ=Krimp|fa=Jon|landning=3|betyg=1|text=}}
+| width="250px" |
+{{problem|nr=8|namn=Te,va?|grad=3C|typ=Jug|fa=Jon|landning=5|betyg=1|text=}}
+{{problem|nr=10|namn=Hooker|grad=5B|typ=|fa=Jon|landning=1|betyg=1|sittstart=ja|text=Lite krystad ett-move-boulder, bara lyfta på arslet och ta kanten.}}
+{{problem|nr=11|namn=Fader himmel|grad=5B|typ=Aréte|fa=Jon|landning=5|betyg=2|sittstart=ja|text=Sittstart på sten. En hand/fot på varje sida om aréten.}}
+{{problem|nr=12|namn=Svagdricka|grad=4B|typ=|fa=Jon|landning=4|betyg=1|sittstart=ja|text=Sittstart på sten.}}
+{{problem|nr=13|namn=Moder jord|grad=4C|typ=|fa=Jon|landning=5|sittstart=ja|text=Sittstart med händerna på grepp nedanför taket.}}
+{{problem|nr=14|namn=Försvagad|grad=5A|typ=Highball|fa=Jon|landning=1|betyg=1|text=}}
+{{problem|nr=15|namn=Days of thunder|grad=5C|typ=Jug|fa=Jon|landning=2|betyg=3|sittstart=ja|startgrepp=ja|text=}}
+| width="250px" |
+{{problem|nr=16|namn=God of thunder|grad=5B|typ=Jug|fa=Jon|landning=2|sittstart=ja|startgrepp=ja|text=Från startgeppen upp åt höger till jughylla sedan över kanten.}}
+{{problem|nr=16|namn=Son of thunder|grad=5B|typ=Dyno,Jug|fa=Jon|landning=2|betyg=3|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Från startgreppen är det bara en liten dyno till kanten, antingen rakt upp eller lite åt vänster.}}
+{{problem|nr=17|namn=Thunderstruck|grad=5B|typ=Jug|fa=Jon|landning=2|betyg=2|sittstart=ja|startgrepp=ja|text=Extremt låg start.}}
+{{problem|nr=19|namn=Serbokrater|grad=5C|typ=Aréte|fa=Jon|landning=3|sittstart=ja|text=Rakt upp längs aréten.}}
+{{problem|nr=20|namn=Månkrater|grad=5B|typ=Krimp|fa=Jon|landning=4|betyg=2|sittstart=ja|text=}}
+{{problem|nr=21|namn=Enkrata|grad=4C|typ=Krimp|fa=Jon|landning=3|text=}}
+|}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

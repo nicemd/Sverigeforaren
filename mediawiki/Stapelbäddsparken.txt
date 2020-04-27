@@ -1,0 +1,33 @@
+
+{{info klippa
+  |lat=55.613668
+  |long=12.984493
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+I Stapelbäddsparken utanför Malmö finns tre konstgjorda boulderstenar. Mer info på [http://www.stapelbaddsparken.se/parken/climbing.aspx Stapelbäddsparkens webbsida].
+
+* [http://maps.google.com/maps?q=55.613668,12.984493&num=1&t=h&sll=55.595268,13.000244&sspn=0.036581,0.043907&ie=UTF8&ll=55.613699,12.984611&spn=0.001648,0.006169&z=18&iwloc=near Karta]
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Skåne]]

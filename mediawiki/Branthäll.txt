@@ -1,0 +1,75 @@
+{{info klippa
+  |lat=61.26363097279574
+  |long=17.219009399414062
+}}
+
+{{komplett}}
+
+[[Bild:Branth%C3%A4ll.jpg|thumb|300px|right|Branthäll. Foto: Per Calleberg]]
+==Allmänt==
+I Söderhamns skärgård ligger ön Branthäll. En tio meter hög sjöklippa.
+
+==Kommunikationer==
+<div style="float: right">
+<googlemap lat="61.28706114456622" lon="17.135238647460938" width="400" height="250" zoom="11" type="map">
+61.26363097279574,17.219009399414062,Ön Branthäll
+</googlemap>
+</div>
+Med båt; Om man har egen båt, eller lånad dito bereder det inga större
+problem att ta sig ut till ön, men det går att ta sig dit även utan
+sådana möjligheter. Under sommaren kan man åka ut med turistbåten
+"Sunnan" och bli ilandsatt på ön, för att bli hämtad med dagens sista
+tur, eller följande dags tur. "Sunnan" utgår från kajen mittemot
+järnvägsstationen i Söderhamn.
+GPS-koordinater: Lat: N 61º 15' 40.43" Long: E 17º 13' 8.36"
+
+==Sydväggen==
+[[Bild:branthall.jpg]]
+
+Väggen är en sydvägg av som högst tio meters höjd. Väggens längd är
+ungefär 75 m. Lederna startar vid vattenytan eller från stenar i
+vattnet. Klättringen sker i sprickor i ovanligt ren och fin granit.
+Den intressantaste delen av väggen är den högra halvan. I allmänhet
+topprepas turerna, genom att klättraren blir nedfirad på stichten.
+
+{{led|nr=1|namn=Våroffer|längd=0|grad=4+|typ=trad|fa=Buster Delin 1984|text=Kort väggtur tv om "The Giant Flake Eater".}}
+
+{{led|nr=2|namn=The giant flake eater|längd=0|grad=4|typ=trad|fa=Kent Andersson m topprep 1981|text= Fritt: Torbjörn Nilsson, 1984 Mitt på väggen finns en stor hylla någon meter över vattnet, vilken är ett bra ställe att landa båten. (På klippan mellan hyllan och vattnet syns en del klotter). Rakt ovanför hyllan finns detta fina flake. Perfekt layback. Kort.}}
+
+{{led|nr=3|namn=Livet|längd=0|grad=6-|betyg=2|typ=trad|fa=Kent Andersson m topprep 1981|text= Fritt: Torbjörn Nilsson, 1984 Hörnet till höger om "The Giant Flake Eater", på samma hylla. En verklig finger-tip layback.}}
+
+{{led|nr=4|namn=Korståg|längd=0|grad=5-|typ=trad|fa=Buster Delin 1984|text= Hangeltravers vid hyllan med klottret. Avslutningen är kruxet.}}
+
+{{led|nr=5|namn=Penguin in Bondage|längd=0|grad=4+|betyg=1|typ=trad|fa=Kent Andersson m topprep 1981|text= Fritt: Torbjörn Nilsson, 1984 Från den stora hyllan kliver man ned till vattenytan i högerkanten på hyllan och klättrar sedan den magnifika sprickan till toppen.}}
+
+[[Bild:Seacliffclimbing.jpg|thumb|200px|right|Buster Delin i mundering för sea cliff climbing på Penguin in Bondage. Foto: Peter Brolin]]
+
+{{led|nr=6|namn=Archimedes|längd=0|grad=5-/5|betyg=1|typ=trad|fa=Joakim Brolin m topprep 1986|text= Fin, rätt ihållande tur t v om "Schooldays".}}
+
+{{led|nr=7|namn=Sliding Boot|längd=0|grad=4-|typ=trad|fa=Torbjörn Nilsson 1984|text= Relativt lång, grov spricka.}}
+
+{{led|nr=8|namn=Schooldays|längd=0|grad=4+|typ=trad|fa=Mikael Bäckman m topprep 1981|text= Fritt: Torbjörn Nilsson, 1984 Startar från en sten i vattnet. Går rakt upp och snett åt vänster över ett block/flake till toppen.}}
+
+{{led|nr=9|namn=My Way|längd=0|grad=5-|typ=trad|fa=Kent Andersson m topprep 1981|text= Fritt: Torbjörn Nilsson, 1984 Startar från samma sten som "Schooldays", och lay-backar uppför den tydliga sprickan rakt ovanför.}}
+
+{{led|nr=10|namn=Spiderman|längd=0|grad=0|betyg=1|typ=trad|fa=Kent Andersson m topprep 1981|text= Startar från samma sten som "Schooldays", och sedan kliver man ut till höger och klättrar den mycket tunna sprickan till toppen. Det råder en viss tveksamhet om huruvida denna led egentligen är gjord utan häng eller inte. Minnet sviker, men vi tyckte i alla fall att den var klättrad på den tiden. }}
+
+[[Bild:Spiderman.jpg|thumb|200px|right|Mikael Bäckman på Spiderman, 1981. Foto: Per Calleberg]]
+
+{{led|nr=11|namn=Bifrost|längd=0|grad=4|typ=trad|fa=Kent Andersson m topprep 1981|text= Fritt: Torbjörn Nilsson, 1984 En kort jamspricka som vidgar sig nedåt vattenytan.}}
+
+{{led|nr=12|namn=Batman|längd=0|grad=5+|betyg=1|typ=trad|fa=Torbjörn Nilsson 1984|text= Avig klättring med lay-back moves.}}
+
+{{led|nr=13|namn=Goodman|längd=5|grad=4|typ=trad|fa=Mikael Bäckman m topprep 1981|text= Fritt: Torbjörn Nilsson, 1984 Ett rent och snyggt hörn. Startar från en sten.}}
+
+{{led|nr=14|namn=Väggman|längd=0|grad=3+|typ=trad|fa=Mikael Bäckman m topprep 1981|text= En kort väggled några meter till höger om "Goodman".}}
+
+{{led|nr=15|namn=Mot bättre vetande|längd=0|grad=2|typ=trad|fa=Christer Johansson 1984|text= Lätt liten sak}}
+
+{{led|nr=16|namn=Stray Cats|längd=0|grad=2|typ=trad|fa=Mikael Bäckman m topprep 1981|text= Kan man verkligen kalla det här en led? Ett kort hörn som börjar vid vattenytan.}}
+
+{{led|nr=17|namn=En vandring i solen|längd=0|grad=5+|betyg=1|typ=trad|fa=Buster Delin 1984|text= Travers in från höger, med ett känsligt krux runt en bulle. Avslutas med klättring t h om mot "Bättre vetande".}}
+
+[[Kategori:Saknar kolumner]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

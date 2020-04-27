@@ -1,0 +1,127 @@
+{{info klippa
+  |lat=59.18685
+  |long=18.40569
+}}
+
+{{komplett}}
+
+==Allmänt==
+Tyresöhalvöns yttersta klätterklippa, belägen ca 600 m längre ut än Dyviksuddsberget. Egentligen en hel samling klippor inom ett begränsat område. För närvarande ett trettiotal leder, men det finns möjligheter till många fler. 
+
+==Miljö== 
+
+De flesta lederna ligger på den mycket branta sydväggen som är drygt 25 m längst ner men sedan krymper ju längre upp åt h man kommer. Västsidan är ganska kompakt med en räcka stadiga överhäng som ger väggen ett portalliknande utseende. 
+
+Syd och väst. Sydväggen ligger i sol tidigare än Dyviksudd och är därför ett bra förmiddagsberg på våren och hösten. På sommaren ger träden framför väggen en behaglig skugga. 
+
+==Vägbeskrivning== 
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.18685" lon="18.40569" zoom="14" type="map" controls="small">
+59.18685,18.40569,[[Uddeuddberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Uddeuddberget
+lat=18405690
+long=59186850
+</slresa>
+</div> 
+
+Som för [[Dyviksudd|Dyviksuddklipporna]]. Använd även samma parkeringsficka. Parkera under inga omständigheter på mötesplatser eller privata platser. Fortsätt vägen förbi Dyviksuddsberget tills en väg tar av åt v och följ denna. Då vägen tar slut, följ stigen ner till vattnet och sväng tillbaka upp åt v in i en sänka. Uddeuddberget är tredje klippan på h hand, lätt att känna igen på sin storlek. De övriga klipporna är avsevärt mindre. 
+
+==Kommunikationer== 
+
+Som för [[Dödskalleberget]]. Ca 45 minuters promenad från ändhållplatsen. 
+
+==Access {{access}}==
+
+{{AccessDB|klippa=uddeuddberget}}
+
+==Leder==
+===Kraterväggen===
+Den branta väggen nedanför Mäusliväggen
+{{led|nr=1|namn=Biktop|grad=A1|längd=15|fa=[[Ludde Hagberg]] [[-95]]}}
+{{led|nr=2|namn=Stjärtläckan|grad=A2+|längd=15|fa=[[Christer Jansson]] [[-95]]}}
+{{led|nr=3|namn=Love in vein|grad=A1+|längd=15|fa=[[Marco Kupiainen]] [[-94]]}}
+{{led|nr=4|namn=Möte med ljuset|grad=A3+|längd=20|fa=[[Marco Kupiainen]], [[Ludde Hagberg]] [[-95]]}}
+
+===Mäusliväggen===
+I västväggens förlängning åt norr blir klippan lägre och mer bruten. Det går att göra många turer här. 100m norr om huvudväggen ligger en liten rödaktig vägg i en ravin. 
+
+{{led|nr=5|namn=Kleine Mäusli|grad=6-|längd=10|fa=[[Mikael Wegrelius]], [[Mårten Dahlström]] [[-85]]}}
+{{led|nr=6|namn=Sommardans|grad=7-|längd=10|fa=[[Mikael Wegrelius]], [[Pierre Alcayna]] [[-85]]}}
+{{led|nr=7|namn=Kung Tung|grad=6|längd=10|fa=[[Pierre Alcayna]], [[Mikael Wegrelius]] [[-85]]}}
+===Västväggen ===
+Bergets västvägg har ännu så länge endast en tur men det finns möjligheter till fler.
+{{led|nr=8|namn=Asfalt|grad=7|längd=|fa=[[Daniel Bidner]], [[Magnus Buhré]] [[-89]]}}
+{{led|nr=9|namn=Olrun!|grad=6|längd=|fa=[[Magnus Buhré]], [[Daniel Bidner]] [[-89]]}}
+{{led|nr=10|namn=Bärsärk|grad=7+/8|längd=|fa=[[Daniel Bidner]] [[-89]]}}
+{{led|nr=11|namn=Tid att älska dags att dö|grad=?|längd=|fa=[[Marco Kupiainen]], [[Jesper Andersson]] [[-93]]}}
+
+===Sydväggen===
+[[Bild:Uddeudd.png]]
+
+{{led|nr=12|namn=Jazzman|grad=7|längd=27|fa=[[Rikard Hedman]], [[Birger Hedlund]] [[-85]]}}
+{{led|nr=13|namn=Dropping acid in the combat zone|grad=7|längd=27|fa=[[Daniel Bidner]] [[-87]]}}
+{{led|nr=13a|namn=I killed Christ with my big fucking Dick|grad=7+/8-|längd=8|fa=[[Daniel Bidner]] [[-87]]}}
+{{led|nr=14|namn=Coleman|grad=7|längd=25|fa=[[Rikard Hedman]], [[Birger Hedlund]] [[-85]]}}
+{{led|nr=14a|namn=Louis Armstrong|grad=7|längd=7|fa=[[Birger Hedlund]], [[Rikard Hedman]] [[-85]]}}
+{{led|nr=15|namn=Ståltråd åt grabbarna|grad=7+|längd=~25|fa=[[Daniel Bidner]] [[-89]]}}
+{{led|nr=15a|namn=Spring för livet|grad=7+/8-|längd=~25|fa=[[Johan Luhr]], [[Rikard Hedman]] [[-89]]}}
+{{led|nr=16|namn=Chorea|grad=7-|längd=18|fa=[[Jan Liliemark]] [[-83]]}}
+{{led|nr=17|namn=Fuck me gently with a chainsaw|grad=7-/7|längd=18|fa=[[Marco Kupiainen]] [[-95]] FF: [[Marco Kupiainen]], [[Ludde Hagberg]] [[-96]]}}
+{{led|nr=18|namn=Bad leutenant|grad=6+|längd=18|fa=[[Ludde Hagberg ]] [[-95]] FF: [[Ludde Hagberg]], [[Marco Kupiainen]] [[-96]]}}
+{{led|nr=19|namn=Dansa din djävul|grad=8-|längd=10|fa=[[Rikard Hedman]], [[Johan Luhr]] [[-89]]}}
+{{led|nr=20|namn=Hits from the bong|grad=A2+|längd=18|fa=[[Ludde Hagberg]] [[-95]]}}
+{{led|nr=21|namn=Rena rama turen|grad=8-|längd=10|fa=[[Johan Luhr]], [[Rikard Hedman]] [[-89]]}}
+{{led|nr=22|namn=Sista dansen|grad=7|längd=~10|fa=[[Stefan Norman]] [[-90]]}}
+{{led|nr=23|namn=Grävlingsdansen|grad=A2|längd=9|fa=[[Pål Nylander]] [[-96]]}}
+{{led|nr=24|namn=Night fever|grad=6+/7-|längd=~10|fa=[[Stefan Norman]], [[Johan Enkvist]] [[-90]]}}
+{{led|nr=25|namn=Swing it magistern|grad=6|längd=20|fa=[[Lars Grankvist]], [[Rikard Hedman]] [[-83]]}}
+{{led|nr=53|namn=Rektor Anna|grad=6|längd=18|fa=[[Johan Sandberg]], [[Catrine Sandberg]] [[2010-10-17]]}}
+{{litentext|text=Följande turer startar från terrassen mitt på väggen. Det normala sättet att nå hyllan är via Swing it magistern.}}
+{{led|nr=26|namn=Trance dance|grad=7-/7|längd=10|fa=[[Johan Luhr]], [[Rikard Hedman]] [[-89]]}}
+{{led|nr=27|namn=Flashdance|grad=7|längd=12|fa=[[Rikard Hedman]] [[-83]]}}
+{{led|nr=27a|namn=Talande tider|grad=7+/8-|längd=7|fa=[[Johan Luhr]], [[Thomas Hansson]] [[-89]]}}
+{{led|nr=27b|namn=Slashdance|grad=8-|längd=5|fa=[[Thomas Hansson]], [[Johan Luhr]] [[-89]]}}
+{{litentext|text=Th om Swing it magistern ligger en stor hylla, ca 5m över backen. Härifrån börjar några korta leder. }}
+{{led|nr=28|namn=Får jag lov?|grad=6+|längd=7|fa=[[Jan Liliemark]] [[-83]]}}
+{{led|nr=29|namn=Let’s dance|grad=6-/6|längd=7|fa=[[Birger Hedlund m fl]] [[-83]]}}
+{{led|nr=30|namn=Breakdance|grad=6+|längd=5|fa=[[Birger Hedlund]] [[-84]]}}
+{{litentext|text=Nedanför och th om Let’s dance försvinner väggen men tre korta leder har gjorts på den rödaktiga väggen vid nedstigningen.}}
+{{led|nr=31|namn=Trash|grad=6|längd=7|fa=[[Thomas Hansson]], [[Johan Luhr]] [[-89]]}}
+{{led|nr=32|namn=Frost flakes|grad=7|längd=7|fa=[[Johan Luhr]], [[Thomas Hansson]] [[-89]]}}
+{{led|nr=33|namn=Söndagsslav|grad=7/7+|längd=7|fa=[[Daniel Bidner]] [[-88]]}}
+
+===Ravinen===
+På den överhängande väggen längs stigen innan huvudväggen.
+{{led|nr=34|namn=Tugga bult|grad=A?|längd=8|fa=[[Per Willén]], [[Johnny Carlén]] [[-95]]}}
+{{led|nr=35|namn=Bult i brummen|grad=A2|längd=8|fa=[[Jesper Andersson]] [[-94]]}}
+{{led|nr=36|namn=Pungen i munnen|grad=A2-|längd=8|fa=[[Marco Kupiainen]] [[-94]]}}
+{{led|nr=37|namn=Skarprättare Johan Hjort våldtar chippare med slak indian|grad=A3-|längd=8|fa=[[Jesper Andersson]] [[-94]]}}
+{{led|nr=38|namn=Easy rider|grad=A3|längd=10|fa=[[Christer Jansson]] [[-95]]}}
+{{led|nr=40|namn=Mellow lovin’|grad=A2+|längd=10|fa=[[Jesper Andersson]] [[-95]]}}
+{{led|nr=41|namn=Cheech & Chong|grad=A2|längd=10|fa=[[Christer Jansson]] [[-95]]}}
+
+===Flaskväggen===
+I ravinens södra ände ligger en liten vägg ett stycke upp i backen på höger sida.
+{{led|nr=42|namn=Valfläsk|grad=7-/7|längd=10|fa=[[Niklas Björnerstedt]] [[-91]]}}
+{{led|nr=43|namn=Hårda killar dansar inte|grad=7-|längd=9|fa=[[Harri Sporrevik]] [[-90]]}}
+{{led|nr=44|namn=Vårliv|grad=5|längd=12|fa=[[Harri Sporrevik]], [[Anna Groth]] [[-90]]}}
+{{led|nr=45|namn=Påskägget|grad=6+|längd=11|fa=[[Harri Sporrevik]] [[-90]]}}
+{{led|nr=46|namn=Flaskdans|grad=7|längd=12|fa=[[Jan Liliemark]], [[Niklas Björnerstedt]] [[-89]]}}
+
+===Vinylväggen===
+Denna vägg ligger vid vattnet vid andra bukten, en del av Grisselberget. Sväng höger istället för upp vänster och gå förbi några boulder problem på vänster sida ner mot vattnet.
+{{led|nr=47|namn=Green Mind|grad=4|längd=15|fa=[[Johan Sandberg]], [[Catrine Sandberg]] [[-07]]}}
+{{led|nr=48|namn=Never a dull moment|grad=6|längd=12|fa=[[Johan Sandberg]], [[Patrik Roos]] [[-07]]}}
+{{led|nr=49|namn=Naked Child|grad=6-|längd=12|fa=[[Johan Sandberg]], [[Anders Jakobsen]] [[Simona]] [[-08]]}}
+{{led|nr=50|namn=Hög Standard|grad=5+|längd=12|fa=[[Johan Sandberg]], [[Catrine Sandberg]] [[-08]]}}
+{{led|nr=51|namn=Tejaz (projekt)|grad=?|längd=12}}
+{{led|nr=52|namn=Sticky fingers (projekt)|grad=?|längd=12}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Saknar skiss]] [[Kategori:Stockholm]] [[Kategori:Tyresö]] [[Kategori:Trad]] [[Kategori:Sport]]

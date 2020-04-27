@@ -1,0 +1,165 @@
+{{utkast}} [[Kategori:trad]] [[Kategori:Engelska]]
+
+== Introduktion ==
+Ett populärt berg som består av två klippor, Lilla och Stora Galgeberget. Stora Galgeberget har två väggar, västväggen och sydväggen. Västväggen syns direkt från parkeringen och sydväggen kommer man till genom att runda västväggen. Återkomsten (4+) är en fin nybörjarled och där utöver har berget många leder av mycket hög kvalitet i mellanregistret och uppåt.
+
+På Lilla Galgeberget går många vackra men svåra linjer. 
+
+
+== Karaktär ==
+Klassisk sprick och vägg-klättring. Galgeberget (båda) är bultfria berg och inbefattas av Bohusläns Klätterklubbs bultpolicy om att hållas bultfria i framtiden. 
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="58.42473" lon="11.480713" type="map" zoom="11" height="300" controls="small">
+58.410379, 11.428549
+Galgeberget
+</googlemap>
+</div>
+Sväng av väg 162 vid Coop i Brodalen och sväng först höger i Brodalen och sen vänster mot Härnäset. Sväng därefter höger när du kommer till avtagsvägen mot Café Röe gård. Vid Röe gård sväng vänster på grusvägen tills du kommer till den iordninggjorda parkeringen för klättrare. Båda bergen syns från parkeringen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Access {{access}}==
+
+{{AccessDB|klippa=galgeberget}}
+{{tryckt förare|klätterguide bohuslän (2002)=ja|förförare bohuslän (2012)=ja}}
+
+==Leder==
+
+=== Lilla Galgberget ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|nr=|namn=Clark Kent|grad=7|betyg=|längd=15|fa=[[Tom Cosgriff]][[2002|-02]]|bultar=|typ=trad|text=Sprickan längst till vänster om Ängsland. Leden ser lätt ut men kräver sin stålman.}}
+
+{{led|nr=|namn=Pyspunka|grad=7|betyg=2|längd=20|fa=[[Jappe Pålsgård]][[2002|-00]]|bultar=|typ=trad|text=Till höger om Clark Kent. Fingerrisset i mitten av nordväggen (gemensamt med Ängsland) traverserar mot vänster till sprickan. Brant klättring på stora grepp. Ihållande.}}
+
+{{led|nr=|namn=Ängsland|grad=7+|betyg=1|längd=20|fa=[[Mattias Hallsten]][[2000|-02]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Science friction|grad=7+|betyg=3|längd=15|fa=[[Jappe Palsgard]][[2000|-00]]|bultar=|typ=trad|text=Älskat och hatat stämdieder. Obligatorisk delkurs för den komplette bohusklättraren. Följ diedret i 10m, därefter ut på högerväggen till hylla med block.}}
+
+{{led|nr=|namn=Aretmetik|grad=7+  R/X|betyg=3|längd=15|fa=[[Jappe Palsgard]][[2000|-07]]|bultar=|typ=trad|text=Areten till höger om Science friction. Superb vägg och aretklättring för klättrare med goda nerver. Säkras med skyhooks och småkilar. Inga falltester före 1 bestigningen. Inga därefter tack!}}
+
+{{led|nr=|namn=Än du'rå hörnet|grad=7+/8-|betyg=3|längd=15|fa=[[Ulrika Tiegs]][[2000|-00]]|bultar=|typ=trad|text= Underbart varierad pärla!}}
+
+{{led|nr=|namn=Abra kadabra|grad=8/8+|betyg=3|längd=15|fa=[[Robert Caspersen]][[2002|-02]]|bultar=|typ=trad|text=Sprickan till höger om Än du'rå hörnet. Obs detta är inte den fria versionen av "Sgt. Ripley". Sgt. Ripley går längre till höger.}}
+
+| width=300px|
+
+{{led|nr=|namn=Skräckpropaganda|grad=9-|betyg=0|längd=12|fa=[[Oskar Alexandersson]][[2012]]|bultar=|typ=trad|text=Startar som Dangan Runner men viker av lite vänster vid det lilla taket i slutet av diedern. Sen rakt upp}}
+
+{{led|nr=|namn=Dangan runner|grad=8-|betyg=2|längd=12|fa=[[Bjørn Eivind Årtun]][[2002|-04]]|bultar=|typ=trad|text=Spricklinje som börjar på högra kanten av lilla galgbergets huvudvägg.Upp i ett litet dieder till ett tak och sedan ut till höger. Fin jämn balansklättring som är ok säkrad med kilar - för den som orkar.}}
+
+{{led|nr=|namn=Hokus Fokus|grad=8|betyg=0|längd=15|fa=[[Eivind Nagell]] & [[Einar Landmark]][[2012]]|bultar=|typ=trad|text=Startar som Döv för en dag men viker av åt vänster för att avsluta som Dangan runner}}
+
+{{led|nr=|namn=Döv för en dag|grad=8/8+|betyg=2|längd=20|fa=[[Espen Samuelsen]][[2002-    07]]|bultar=|typ=trad|text=Linjen till vänster om Masken, med en snygg liggande dieder i slutet. Starta från höger.}}
+
+{{led|nr=|namn=Masken|grad=7|betyg=3|längd=15|fa=[[Patrik Jakobsson]]/[[Robin Qvint]][[1998|-98]]|bultar=|typ=trad|text=Obligatoriskt inträdesprov till jamskolans högre kurser.}}
+
+{{led|nr=|namn=The Cabibo Kobayashi Maskawa - Mixing Matrix|grad=8-|betyg=1|längd=15|fa=[[Erik Nordbye och Åsmund Björnstad]][[2001|-01]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Fotnoten|grad=5|betyg=1|längd=15|fa=[[Thomas Rydfelt, Susanne Rydfelt, Jappe Pålsgård ]][[2004|-04]]|bultar=|typ=trad|text=Det vänligt lutande hörnet som avslutar sydväggen till höger om Masken. Elegant och teknisk friktionsklättring. Välsäkrad för den som är händig med småkilar.}}
+
+|}
+
+===Stora Galgberget===
+==== Vastvaggen====
+{|
+|- valign="top"
+| width=300px|
+
+[[Bild:Galgeberget SF.jpg]]
+
+{{led|nr=|namn=Dynamo|grad=8|betyg=1|längd=30|fa=[[Bjørn Eivind Årtun]][[2000|-05]]|bultar=|typ=trad|text=Den venstre areten på Stora Galgeberget. Flott og spennende klatring med utvalgte små, men gode sikringer. Siste halvdel av ruta er lett riss til toppen. }}
+
+{{led|nr=|namn=Hang´em high|grad=8|betyg=1|längd=20|fa=[[Øystein K Johnsen]][[2000|-07]]|bultar=|typ=trad|text=Diedern vänster om Bagatell. Upp till överhänget, så ut på areten och upp på svaet. Utsteg som Bagatell.}}
+
+{{led|nr=|namn=Bagatell|grad=6+|betyg=3|längd=20|fa=[[Jappe Palsgard]]/ [[Ulrika Tiegs]][[2000|-00]]|bultar=|typ=trad|text=En välsäkrad klassiker.}}
+
+{{led|nr=|namn=Börja om från början|grad=5+|betyg=1|längd=30|fa=[[Jan Leyon]]/ [[Jappe Pålsgård]][[2000|-2004-07]]|bultar=|typ=trad|text=Linjen till höger om Bagatel. Kruxet är insteget spotta gärna. Fira av från hyllan ovanför till höger.}}
+
+{{led|nr=|namn=Palimpsest|grad=5+|betyg=2|längd=40|fa=Jappe Pålsgård Jan Leyon]][[2000|-2004-07]]|bultar=|typ=trad|text=Vänstervänd diederlinje till vänster om DNA. Jämn och varierad kalasklättring.}}
+
+{{led|nr=|namn=DNA|grad=6-|betyg=1|längd=35|fa=[[Jon Brint]]/ [[Jon Granath]][[1999|-99]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Mutant variant|grad=6-|betyg=1|längd=12|fa=[[Jon Granath]]/ [[Mathias Rosell]][[1999|-99]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Får jag lov|grad=6+|betyg=2|längd=35|fa=[[Lars Grankvist]]/ [[Niklas Bjornerstedt]][[1984|-84]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Laid back crack|grad=7+|betyg=|längd=15|fa=[[Johan Svensson]]/ [[Ann-Sofie Andersson]][[1984|-05]]|bultar=|typ=trad|text=Brant vänsterlutande spricka längst till höger på västväggen. Börjar med en kort hangel till höger, sedan layback och fingerjam. När det flackar av går leden snett upp till höger några meter till firningsslinga från block.}}
+
+{{led|nr=|namn=Laid back crack direkt|grad=8-|betyg=|längd=4|fa=[[Johan Svensson]][[1984|05]] |bultar=| typ=trad|text=Direktstart till Laid back crack. Boulderstart på desperat tunna laybacks. Akta fotknölarna.}}
+
+De tre nästa lederna ligger "runt hörnet" mellan Stora Galgebergets västvägg og sydvägg.   
+
+{{led|nr=|namn=Ducati|grad=7-|betyg=|längd=7|fa=[[John W]]/ [[Joakim Olofsson m fl]]|bultar=| typ=trad|text=Den snygga bågen som leder in i Skyggediedret (det uppenbara hörnet ett stycke upp i skogen på sydsidan, grad 6). Småknepig klättring.}}
+
+{{led|nr=|namn=Skyggediedret|grad=6-|längd=15|fa=[[Asgeir Larsen]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=Gritareten|grad=8-|betyg=2|längd=15|fa=[[Fredrik Persson (topprep)]][[2000|-00]]|bultar=|typ=|text=}}
+
+|}
+
+====Sydväggen====
+{|
+|- valign="top"
+| width=300px|
+
+{{led|nr=|namn=Galgen |grad=6-|betyg=|längd=20|fa=[[okand]][[1991|-91]]|bultar=|typ=trad|text=}}
+
+{{led|nr=|namn=Cameo|grad=6 R/X|betyg=1|längd=15|fa=[[Jonas Paulsson]][[2008|-08]]|bultar=|typ=trad|text=Väggen och arêten rakt ovanför Galgen och Gritarêten. Startas med fördel med Galgen. Se till att lägga några bra säkringar på hyllan under taket i botten av arêten, de är allt du får. Kliv sedan upp på hyllan till höger och följ rampen som går snett åt vänster på väggen ända ut till själva arêten. Luftigt!}}
+
+{{led|nr=|namn=Barnleken|grad=5+|betyg=|längd=30|fa=[[Lars Grankvist]]/ [[Lars Svadangs]]/ [[Niklas Bjornerstedt]][[1984|-84]]|bultar=trad|typ=|text=}}
+
+{{led|nr=|namn=På ruinens brant|grad=8-|betyg=|längd=15|fa=[[Erik Massih]][2008|-08]]|typ=trad|text= Areten till höger på hyllan, tämligen given linje}}
+
+{{led|nr=|namn=Den Östgötska papegjan|grad=6+/7-|betyg=|längd=15|fa=[[Erik Massih]][2008|-08]]|typ=trad|}}
+
+{{led|nr=|namn=En Sexa skåne|grad=6|betyg=|längd=35|fa=[[Mattias Skafar, Ronny Ek]]|bultar=|typ=trad|text=Start Strax v om Bortom allt förnuft, Dragning åt vänster}}
+
+{{led|nr=|namn=Bortom allt fornuft|grad=6+|betyg=3|längd=35|fa=[[Lars Svadangs]]/ [[Lars Grankvist]][[1984|-84]]|bultar=|typ=trad|text=Nervkittlande, sparsamt men tillräckligt säkrad resa längs tunna riss mot toppen. }}
+
+{{led|nr=|namn=Parlek|grad=6+|betyg=|längd=35|fa=[[Niklas Bjornerstedt]]/ [[Lars Svadangs]][[1984|-84]]|bultar=|typ=trad|text=}}
+
+| width=300px|
+
+{{led|nr=|namn=Ormbiten|grad=6|betyg=|längd=30|fa=[[Lars Svadangs]]/ [[Niklas Bjornerstedt]][[1984|-84]]|bultar=|typ=trad|text=En huggorm ligger pa leden. Lat den vara i fred (2007)}}
+
+{{led|nr=|namn=Uppkomsten|grad=5-|betyg=|längd=30|fa=[[Joakim Olofsson]]/ [[Sofia Zachrisson]]/ [[Wendelin Zobel]][[2000|-00]]|bultar=|typ=|text=}}
+
+{{led|nr=|namn=?|grad=6|betyg=|längd=30|fa=[[]]|bultar=|typ=trad|text=Startar på svaplattan tv om Återkomsten, går krystat nära nästa led, mycket kul}}
+
+{{led|nr=|namn=Aterkomsten|grad=4+|betyg=|längd=30|fa=[[Goteborgare]][[1998|-98]]|bultar=|typ=trad|text=}}
+
+|}
+
+==In English==
+===Description===
+A popular crag that has two sectors, Lilla- and Stora Galgeberget.  ''Stora Galgeberget'' has two faces, the west face and the south face.  The west face is visible directly from the parking area, and you will get to the south face when you have come around the west face.  There is one good new-beginner's route, {{ledlänk|namn=Återkomsten}} (4+), the rest of the routes are all very good middle- to upper grade routes.   
+
+Lilla Galgeberget has many beautiful, but quite hard, routes.  
+
+Classic crack and face climbing.  Galgeberget is bolt free and follows the Bohusläns Klätterklubb's bolt policy on staying bolt free in the future.  
+
+'''Please read the [[#Access|access]] notes above'''
+
+===Directions===
+Turn off route 162 near the general store in Brodalen and then take your first right.  Take your second left towards Härnäset (the first road on the left you pass by is into a housing complex).  Take a right hand turn onto the road where there is a sign for Cafe Röe gård.  Near Röe gård take a left onto a dirt road until you come to a designated parking lot for climbers on the left.  You can see both cliffs from the parking.
+
+[[Kategori:Bohuslän]]
+[[Kategori:Barnvänligt]]
+[[Kategori:Vertikalt]]

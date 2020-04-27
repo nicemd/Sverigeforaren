@@ -1,0 +1,14 @@
+{{info klippa
+  |lat=59.26195455695031
+  |long=17.720131874084473}}
+
+{{boulderstub}}
+
+Stort block med fina problem i 7'a registret.
+Det finns några problem registrerade på detta block under bloc x hos 8a
+
+<googlemap lat="59.26195455695031" lon="17.720131874084473" zoom="13" type="map">
+59.26195455695031,17.720131874084473,Blocket i Vällinge
+</googlemap>
+
+[[Kategori:Stockholm]]

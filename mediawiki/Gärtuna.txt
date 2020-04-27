@@ -1,0 +1,11 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Thief|grad=7B|typ=Slopers,Pinch,Överhäng|fa=Stefan E|landning=2|betyg=1|fadatum=2006-05-01|sopad=Stefan E|sittstart=ja|text=Går på blocket närmast astra. Sittstart i det uppenbara överhänget vid hornet. Klättra rakt upp på hala pinchar och slopers, lättare än det ser ut.}}
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

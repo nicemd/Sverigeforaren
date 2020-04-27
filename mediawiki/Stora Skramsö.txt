@@ -1,0 +1,93 @@
+{{info klippa
+  |lat=58.96130
+  |long=18.03960
+}}
+
+{{komplett}}
+
+==Allmänt==
+Stor men tyvärr svårtillgänglig klippa i stockholms skärgård.
+
+==Beskrivning==
+Stora Skramsö är beläget mellan Yxlö och Muskö i Stockholms södra skärgård. Den södra delen av denna avlånga ö är geologiskt sett mycket intressant med sitt branta sydstup och sina tre mycket djupa sprickor, som delar udden i väldiga skivor. Om klippan inte var så svårtillgänglig skulle den vara en av de populärare klipporna i Stockholmsområdet.
+Många av lederna är belamrade med mängder av gamla rostiga bultar som inte är att lita på. Lägg egna kilar!
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="58.96130" lon="18.03960" zoom="14" type="map" controls="small">
+58.96130,18.03960,[[Stora Skramsö]]
+</googlemap>
+</div>
+ 
+Till Stora Skramsö tar du dig med båt, eller om du är bra på att simma - ta bilen till Yxlö och simma via Lilla Skramsö.
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Skramso.png]]
+
+=== Corpus cadens-väggen ===
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=1|namn=Samantha|grad=6+|betyg=|längd=21|fa=|bultar=|typ=|text=}}
+{{led|nr=2|namn=Psykodrama för autonoma|grad=7-|betyg=|längd=25|fa=|bultar=|typ=|text=}}
+| width="250px" |
+{{led|nr=3|namn=Corpus cadens|grad=7-/7|betyg=|längd=25|fa=|bultar=|typ=|text=}}
+{{led|nr=4|namn=Lotus|grad=7b|betyg=|längd=23|fa=[[David Fält]]|bultar=9|typ=sport|text=Fin ihållande väggklättring med tunt krux.}}
+|}
+
+Aid led höger om Lotus som ar A4- Varning for langa fall in i kaminen som kan sluta riktigt illa. Forsta sakringen kommer efter 20 meter, upp dit bara hooks och heads samt rurps... Av David Fält
+
+=== Madonna-väggen ===
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=5|namn=Stora läppar|grad=5+|betyg=|längd=18|fa=|bultar=6|typ=sport|text=Nytt ankare, renborstad och nya bultar 2012. Fin kaminklättring. Lättare grad om man kryper längre in.}}
+{{led|nr=6|namn=Yuppi you|grad=7/7+|betyg=1|längd=25|fa=|bultar=9|typ=sport|text=Välsäkrad efter att leden 09 fått två nya bultar - en på mitten och en vid insteget. Leden borstades i samband med kompletteringsbultningen.}}
+{{led|nr=7|namn=Madonna|grad=6|betyg=2|längd=26|fa=|bultar=5|typ=mix|text=Kanonfin och varierad klättring. Leden har fått samtliga bultar utbytta samt en ny första bult 09. Nyborstad 2012.}}
+| width="250px" |
+{{led|nr=8|namn=Saxum mobile|grad=7+|betyg=|längd=30|fa=|bultar=|typ=|text=}}
+{{led|nr=9|namn=Tectum magnum|grad=?|betyg=|längd=30|fa=|bultar=|typ=aid|text=}}
+|}
+
+=== Huvud-väggen ===
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=10|namn=Blåsningen|grad=7+/8-|betyg=|längd=30|fa=|bultar=|typ=|text=}}
+{{led|nr=10a|namn=After burner|grad=8-|betyg=|längd=8|fa=|bultar=|typ=|text=}}
+{{led|nr=11|namn=Lugnt vatten|grad=6+|betyg=|längd=15|fa=|bultar=|typ=|text=}}
+{{led|nr=12|namn=Sorbus|grad=7+|längd=35}}
+{{led|nr=13|namn=Louder than booms|grad=A2+|betyg=|längd=35|fa=|bultar=|typ=aid|text=}}
+| width="250px" |
+{{led|nr=14|namn=Ixodes ricinus|grad=7+/8-|betyg=|längd=35|fa=|bultar=|typ=|text=}}
+{{led|nr=15|namn=Easy go|grad=7b|betyg=|längd=35|fa=[[David Fält]] -90|bultar=11|typ=sport|text=Med 35 meter välbultad, näst intill vertikal väggklättring, är detta en unik led i Stockholmsområdet.}}
+{{led|nr=16|namn=Alnus mortua|grad=7+|betyg=|längd=35|fa=|bultar=|typ=|text=}}
+{{led|nr=17|namn=Den gamle och berget|grad=6|betyg=2|längd=32|fa=|bultar=|typ=|text=Borstad från topp till tå 2012.}}
+| width="250px" |
+{{led|nr=18|namn=Lockout|grad=6|betyg=|längd=32|fa=|bultar=|typ=|text=Stora delar borstade 2012.}}
+{{led|nr=19|namn=13 februari|grad=A2|betyg=|längd=35|fa=|bultar=|typ=aid|text=}}
+{{led|nr=20|namn=På Skramsö finns inga hundpsykologer!!|grad=7-|betyg=|längd=15|fa=|bultar=|typ=|text=}}
+{{led|nr=21|namn=Diedret|grad=5|betyg=|längd=27|fa=|bultar=|typ=|text=}}
+|}
+
+=== Sjöväggen ===
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=22a|namn=Jahve|grad=6b+|betyg=1|längd=30|ny=1|fa= [[Thomas Eriksson]], [[David Fält]] -09|bultar=10|typ=sport|text=Fin och varierad väggklättring. Delar de första fem bultarna med ''Jehova'' och går därefter rakt upp och till vänster om taket.}}
+{{led|nr=22|namn=Jehova|grad=7-|betyg=|längd=30|fa=[[Jonas Olsson]], [[Magnus Buhré]] -88|bultar=|typ=|text=VARNING!!! De sista tre bultarna är i uruselt skick och taket är MYCKET löst.}}
+| width="250px" |
+{{led|nr=23|namn=Bärplockarna|grad=4+|betyg=2|längd=18|fa=|bultar=|typ=trad|text=Mycket fin och väl värt det lilla besväret att starta från vattnet (om man har båt). Fina killägen att förtöja båten i.}}
+|}
+
+=== Blocket ===
+{{led|nr=24|namn=En midsommardagsdröm|grad=6|betyg=|längd=6|fa=|bultar=|typ=|text=}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]
+[[Kategori:Stockholms Skärgård]]

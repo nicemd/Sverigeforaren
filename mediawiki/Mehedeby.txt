@@ -1,0 +1,41 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+
+=Vägbeskrivning=
+
+<googlemap version="0.9" lat="60.45008" lon="17.40783" type="map" zoom="12" width="500" height="300">
+60.45008, 17.40783, Snakebunk
+</googlemap>
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Paddlös|grad=6B|typ=Krimp,Slopers|fa=Daniel Hultgren|landning=1|betyg=1|fadatum=2004-08-20|sopad=Daniel Hultgren|sittstart=ja|startgrepp=ja|text=Låg start under överhänget, starta med vänster hand på sloper och höger hand på krimp.}}
+{{problem|namn=Drop Zone|grad=6B|typ=Krimp|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2004-08-20|sopad=Daniel Hultgren|sittstart=ja|text=Ligger på  ett block bredvid motionsspåret.}}
+{{problem|namn=Checkpoint Dalälven|grad=5C|typ=|fa=Daniel Hultgren|landning=3|betyg=2|fadatum=2004-08-20|sopad=Daniel Hultgren|startgrepp=ja|text=Börja stående med höger hand runt areten, hoppa med vänster hand till list.}}
+{{problem|namn=Galen Klippa|grad=5C|typ=Överhäng,Jug|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2004-08-20|sopad=Daniel Hultgren|sittstart=ja|text=Ligger nära "Checkp.", starta under det lilla överhänget.}}
+{{problem|namn=Rodeo|grad=6B+|typ=Krimp,Slopers|fa=David hallman|landning=4|betyg=1|fadatum=2004-08-21|sopad=David hallman|startgrepp=ja|text=Ståstart. Vänster hand på crimp hö på ett undercling, följ areten åt höger.}}
+{{problem|namn=Lågis|grad=5C|typ=Dyno,Jug|fa=Daniel Hultgren|landning=1|fadatum=2004-08-23|sopad=Daniel Hultgren|sittstart=ja|text=Starta med händerna på juggen sen skicka till kanten.}}
+{{problem|namn=Wonderboy|grad=5C|typ=Krimp,Aréte|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2004-08-23|sopad=Daniel Hultgren|sittstart=ja|text=Sittstart vid areten.}}
+| width="250px" |
+{{problem|namn=Men stå kvar då fotjä*el|grad=5B|typ=Krimp|fa=Daniel Hultgren|landning=3|fadatum=2004-08-23|sopad=Daniel Hultgren|text=Går på samma block som "wonderboy", ståstart vid areten.}}
+{{problem|namn=Det hänger över|grad=5B|typ=Överhäng,Reach|fa=Alexander Stöpfgeshoff|landning=3|betyg=1|fadatum=2004-08-24|sopad=Alexander Stöpfgeshoff|sittstart=ja|startgrepp=ja|text=Starta på greppen längst inne under taket.}}
+{{problem|namn=Salmonella|grad=6A+|typ=Krimp|fa=David Hallman|landning=3|betyg=2|fadatum=2004-08-24|sopad=David Hallman|sittstart=ja|text=Problemet ligger på en av dom höga väggarna,en bit in bland blocken.}}
+{{problem|namn=Ståfräs|grad=5C|typ=Dyno|fa=David Hallman|landning=1|betyg=1|fadatum=2004-08-24|sopad=David Hallman|sittstart=ja|text=Starta på stora hyllan, mantla över kanten.}}
+{{problem|namn=Höganäs|grad=6A|typ=Krimp,Mantling|fa=David Hallman|landning=2|betyg=2|fadatum=2004-08-24|sopad=David Hallman|startgrepp=ja|text=Problemet ligger på stora blocket nära E4:an.Samma vägg som ståfräs.}}
+{{problem|namn=Cheops|grad=6A|typ=Krimp,Slopers|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2004-08-24|sopad=Daniel Hultgren|sittstart=ja|text=Går på samma block som "Höganäs" & "Ståfräs"}}
+{{problem|namn=Snakebunk|grad=6C|typ=Krimp|fa=Daniel Hultgren & Ronny Andersson|landning=2|betyg=3|fadatum=2004-08-27|sopad=Daniel Hultgren & Ronny Andersson|uteslutningar=ja|text=Går på det stora blocket i utkanten på området mot E4:an. Går rakt upp utan att använda areten.}}
+| width="250px" |
+{{problem|namn=Octopuss|grad=7A|typ=Krimp|fa=David Hallman|landning=1|betyg=2|fadatum=2004-08-30|sopad=David Hallman|sittstart=ja|text=Problemet ligger mitt emot Drop Zone.}}
+{{problem|namn=French Balance|grad=6B+|typ=Krimp,Aréte|fa=Stefan Hedin|landning=4|sopad=Stefan Hedin|startgrepp=ja|uteslutningar=ja|text=Går långt till vänster på området om du har E4:an i ryggen. Vid de små vertikala väggarna. Starta med händerna i den tydliga sprickan vid pilen. Bryt dig sedan upp, och toppa ur rakt upp. Aréten utesluten.}}
+{{problem|namn=Sensitive when short|grad=5C|typ=Krimp,Mantling,Aréte|fa=Stefan Hedin|landning=4|sopad=Stefan Hedin|sittstart=ja|startgrepp=ja|text=Går på låga aréten vid French Balance. Sittstart vid pilen med händerna på hyllan. Når ni inte startgreppen är det ok med etableringsstart.}}
+{{problem|namn=snakebunk assis|grad=7A|typ=|fa=Patrick O|landning=2|betyg=3|fadatum=2007-06-04|sopad=Patrick O|text=sittstarten till snakebunk. starta vid grön pil.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

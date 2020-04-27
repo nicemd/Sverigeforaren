@@ -1,0 +1,43 @@
+{{info klippa
+  |lat=57.73447
+  |long=16.56437
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub|extern=ja}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Sportklippa i närheten av Gunnebo.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.73447" lon="16.56437" type="map" zoom="13">
+57.73447, 16.56437
+Hörtingerum
+</googlemap>
+</div>
+
+==Förare==
+Förare gjord av Västervik Climbing kan hittas på [http://www.vastervikclimbing.se/klattercentret/pdfer/ www.vastervikclimbing.se].
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

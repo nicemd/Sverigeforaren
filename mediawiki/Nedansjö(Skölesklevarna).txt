@@ -1,0 +1,36 @@
+{{iskomplett}}
+
+
+== Allmänt ==
+Nedansjöisarna är fint belägna på nordsidan av Skölesklevarna med vy utöver dalgången där älven Ljungan flyter igenom. Under normala förhållanden sträcker sig säsongen från början av december till slutet av mars.
+
+För aktuellt isläge/övriga frågor kontakta [http://www.sundsvallsklatterklubb.se Sundsvalls Klätterklubb].
+
+== Vägbeskrivning ==
+[[Bild:Vy2.jpg|thumb|300px|right|Vintervy över Ljungan, dec 2008. Foto:David Andreasson]]
+[[Bild:Nedre_högra2.jpg|thumb|300px|right|Nedre högra fallet, jan 2009. Foto: Johan Hedman]]
+Sväng av E14 mot Matfors, kör över Ljungan och 700m senare ta höger precis innan vägbron(skyltat mot stöde). Kör 200m och ta höger i T-korset, följ sedan vägen 5.2km och berget syns nu tydligt på vänster sida, du kör ner för en backe och passerar en stor äng. Målet är nära! Ta nu första vägen till vänster som går vinkelrätt mot berget. OBS! vägen är inte alltid plogad och i sådant fall kan parkering ske vid infarten men tänk på att parkera så att en ev plogbil/markägare kan passera. Om du nu är en lyckans ost och vägen är plogan fortsätt då ytterliggare 300m tills dess att vägen tar en skarp högersväng. Här kan det vara lämpligt att parkera bilen då markägaren brukar ploga extra brett. Finns oftast en liten vändplan plogad 400m längre fram längs vägen och om inte får man tillfälle att träna på att framför bilen i andra färdriktningen.
+
+Anmarschen är 300-600m (beroende på vart man kan parkera). Strax efter den skarpa högersvängen(där ni för hoppningsvis kunde parkera) går det upp en stig/skogsmaskinsspår åt vänster. Följ denna över bäcken tills dess att stigen tar slut(ca 250m), gå nu rakt upp mot berget genom skogen och håll något till vänster efter ca 150m borde ni se stor fallet tydligt (eller följ ev. upptrampad stig).
+
+== Klättringen ==              
+ [[Bild:Storafallet.jpg|thumb|300px|right|Stora fallet, dec 2007. Foto: Jonas Bäckström]]
+{{led|namn=Stora fallet|grad=WI3|längd=22|text=Ca 10m bred och ~75° ihållande klättring. Ev. topprepsankare sätts i träden på hyllan ovanför (gå höger nedanför fallet för att zick-zacka er upp).}}
+
+{{led|namn=Nedre högra isen|grad=WI4+/5|längd=~15|text=Fallet består av en liten pelare ~4m därefter traverserar man ut åt vänster på en större pelare som når till toppen av klippan ~11m. Fallet nås lättas uppifrån då det startar ca 50m rakt nedanför övre högra fallet (går även att nå nedanifrån om man går rakt ut på hyllan till höger om stora fallet). För topprep är det enklast att säkra uppifrån.}}
+
+{{led|namn=Övre vänstra isen|grad=WI4|längd=~15|text=Startar lite till vänster på hyllan ovanför stora fallet. Detta fall tar oftast någon månad att bygga på sig.}}
+
+{{led|namn=Övre högra isen|grad=WI3|längd=~20|text=Fallet består av två vertikala bitar med ett flackare parti i mitten.  Startar ca 100m åt höger sett från hyllan ovanför stora fallet.  Ev. topprepsankare sätts i träden ovanför (gå höger nedanför fallet för att ta er upp).}}
+
+== Accessinformation ==
+Inga accessproblem föreligger för tillfället, men när ni parkerar se till att inte hindra ev. passerade trafik.
+
+
+[[Bild:Nedansjö_övre_högra2.jpg|thumb|300px|right|Övre högra fallet, feb 2009. Foto: Johan Hedman]]
+[[Bild:Nedansjö_övre_högra_pelaren.jpg|thumb|300px|right|Pelaren vid sidan av övre högra fallet, feb 2009. Foto: Johan Hedman]]
+[[Bild:Nedansjö_övre_vänstra2.jpg|thumb|300px|right|Övre vänstra fallet, jan 2009. Foto: Johan Hedman]]
+
+[[Kategori:Medelpad]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar karta]]

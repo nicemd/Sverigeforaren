@@ -1,0 +1,59 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Nedsidan vägen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Insane in the Brain|grad=6C|typ=Krimp,Överhäng,Aréte|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2007-06-05|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart längst in till vänster under överhänget, går sedan ut till areten och följer den upp.}}
+{{problem|namn=Kadusch|grad=7A+|typ=Krimp,Dyno,Jug|fa=Fredrik Bodin|landning=2|fadatum=2007-06-05|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på krimplisten, går rakt upp.}}
+| width="250px" |
+{{problem|namn=Rötter|grad=3C|typ=Jug|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2007-06-17|sopad=Fredrik Bodin|text=Går rakt upp.}}
+{{problem|namn=Socker-Biten|grad=7B|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2007-06-17|sopad=Fredrik Bodin|sittstart=ja|uteslutningar=ja|text=Sittstart vid flaket, följ pilen rakt upp. Hyllan vid trädet till vänster är utesluten men det är givet om man följer linjen.}}
+| width="250px" |
+{{problem|namn=Pocket Socket|grad=6A+|typ=Krimp,Jug|fa=Fredrik Bodin|landning=2|betyg=3|fadatum=2007-06-17|sopad=Fredrik Bodin|text=Börjar vid pocketen, går rakt upp.}}
+{{problem|namn=Krimp Kramp|grad=7A+|typ=Krimp|fa=Fredrik Bodin|landning=2|fadatum=2007-06-17|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med händerna på krimparna vid "bollen", går rakt upp.}}
+|}
+==Ovansidan vägen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Rankor|grad=7A|typ=Krimp,Mantling,Överhäng|fa=Fredrik Bodin|landning=2|betyg=1|fadatum=2007-04-21|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart läntst in under stenen, går rakt ut och mantla vid spetsen.}}
+{{problem|namn=What?|grad=6A+|typ=Krimp,Mantling|fa=Fredrik Bodin|landning=3|fadatum=2007-05-21|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på listerna till vänster om "Rankor", går rakt upp.}}
+{{problem|namn=Suprajs|grad=5C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2007-04-23|sopad=Fredrik Bodin|text=Går rakt upp.}}
+{{problem|namn=Left Pocket|grad=7A|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=5|betyg=1|fadatum=2007-05-02|sopad=Fredrik Bodin|startgrepp=ja|uteslutningar=ja|text=Börjar med händerna på den stora hyllan, går upp med lätt dragning åt höger. Stora pocketen till vänster samt nedre delen av areten är utesluten.}}
+{{problem|namn=Quinta Essentia|grad=7B|typ=Krimp,Dyno,Jug|fa=Fredrik Bodin|landning=3|betyg=3|fadatum=2007-05-02|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med vänster hand på jug och höger hand på krimp, går sedan upp med lätt dragning åt höger.}}
+| width="250px" |
+{{problem|namn=Jive|grad=6B+|typ=Krimp,Överhäng|fa=Fredrik Bodin|landning=2|betyg=1|fadatum=2007-04-23|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart med händerna på den stora rampen, går rakt upp.}}
+{{problem|namn=Sneaking Bastard|grad=6A+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2007-05-02|sopad=Fredrik Bodin|text=Går rakt upp.}}
+{{problem|namn=Kortvåg|grad=5C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2007-04-23|sopad=Fredrik Bodin|text=Går rakt upp.}}
+{{problem|namn=Långvåg|grad=6C+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2007-04-23|sopad=Fredrik Bodin|sittstart=ja|variant=ja|text=Sittstart till "Kortvåg.}}
+{{problem|namn=Quinta Essentia (ss)|grad=7C|typ=Krimp,Överhäng,Heel hook|fa=Fredrik Bodin|landning=2|betyg=3|fadatum=2007-05-08|sopad=Fredrik Bodin|sittstart=ja|variant=ja|startgrepp=ja|text=Sittstart med händerna i sprickan i taket, går rakt ut och upp i Quinta Essentia.}}
+| width="250px" |
+{{problem|namn=Spinner|grad=7A+|typ=Krimp|fa=Fredrik Bodin|landning=4|betyg=1|fadatum=2007-05-13|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med vänster hand på den nedre krimpen och höger hand på grepp runt areten(startprickar finns), går rakt upp.}}
+{{problem|namn=Snökristall|grad=6A+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2007-05-13|sopad=Fredrik Bodin|text=Går rakt upp över det vita fältet.}}
+{{problem|namn=Svallvåg|grad=6C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=2|betyg=1|fadatum=2007-05-13|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på rampen/listen (etablerad start om man ej når från backen). Går rakt upp.}}
+{{problem|namn=Right Pocket|grad=6B+|typ=Krimp,Dyno|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2007-05-13|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med händerna på listrampen, går rakt upp.}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Climbin|grad=6A|typ=Krimp,Slopers|fa=Per Wermelin|landning=4|fadatum=2007-05-05|sopad=Per Wermelin|text=Ståstart, klättra hur du vill inom det sopade området upp till toppen.}}
+{{problem|namn=Grankontakt|grad=7A|typ=Krimp,Slopers,Överhäng,Dyno|fa=Per Wermelin|landning=3|betyg=1|fadatum=2007-05-05|sopad=Per Wermelin|sittstart=ja|text=Klättra rakt upp, undvik grankontakt i startmovet.}}
+{{problem|namn=Climb in alone|grad=6A+|typ=Krimp,Layback,Överhäng|fa=Per Wermelin|landning=3|betyg=2|fadatum=2007-05-05|sopad=Per Wermelin|sittstart=ja|text=Starta med höger i ett bra sidepull och med vänster på samma startgrepp som Grankontakt. Klättra sen rakt upp, utsteget görs med lätt dragning åt höger.}}
+| width="250px" |
+{{problem|namn=Lite på kant|grad=5C|typ=Krimp,Överhäng,Heel hook|fa=Per Wermelin|landning=3|betyg=2|fadatum=2007-05-05|sopad=Per Wermelin|sittstart=ja|text=Starta med händerna på kanten och en heelhook. Följ kanten och avsluta med samma utseg som Climb in alone.}}
+{{problem|namn=Mantling för alla|grad=5C|typ=Mantling,Heel hook|fa=Per Wermelin|landning=4|fadatum=2007-05-05|sopad=Per Wermelin|sittstart=ja|text=Klättra rakt upp och avsluta med en mantling.}}
+| width="250px" |
+{{problem|namn=Left pocket ss|grad=7A+|typ=Krimp,Layback|fa=Per Wermelin och Fredrik Bodin|landning=4|betyg=2|fadatum=2007-06-23|sopad=Per Wermelin och Fredrik Bodin|sittstart=ja|text=Sittstart till Left pocket. Starta i layback och klättra upp till startgreppen på Left pocket, därefter samma.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

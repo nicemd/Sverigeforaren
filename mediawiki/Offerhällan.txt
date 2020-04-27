@@ -1,0 +1,211 @@
+{{info klippa
+  |lat=64.105227
+  |long=17.183230
+}}
+
+{{Komplett}}
+
+==Allmänt==
+En klippa att drömma om. Stor klättring, med en samling av Sveriges mest givna spricklinjer. Klippan ligger i byn Sörnoret utanför Åsele. Ett utmärkt stopp på väg till eller från Lofoten!
+
+==Introduktion==
+[[Bild:Offerhällan_Panorama.jpg|thumb|450px|Offerhällan i juli 2007. Foto: [[Användare:Peblin|Per Lindh]]]]
+En klippa att drömma om. Stor klättring, med en samling av Sveriges mest givna spricklinjer. Klippan ligger i byn Sörnoret utanför Åsele. Ett utmärkt stopp på väg till eller från Lofoten! 
+<div class="noprint">
+Karta: 
+[http://www.hitta.se/ViewDetailsPlace.aspx?PlaceId=2543492&SearchType=4&UCSB%3aWflWhite=1a1b&UCSB%3aWflPink=4a&UCSB%3aTextBoxWho=&UCSB%3aTextBoxWhere=s%f6rnoret%2c+%e5sele hitta.se]
+
+Bilder: [http://www.flickr.com/photos/offerhallan Bilder från Offerhällan]
+
+Byn: [http://www.aselebyar.nu/sornoret/ Sörnoret]
+</div>
+
+[[Bild:offerhallan_en_feting.jpg|thumb|250px|Matt Kuplik klättrar {{ledlänk|namn=En Feting}}<BR>Foto: [[Användare:Utomjording|Pär Lindholm]]]]
+* Offerhällan heter Bergvattenberget på kartor.
+
+* Än så länge är det mest långa och stora sprickor som utvecklats. Ett [[Tradrack|standardrack]] för Offerhällan bör innehålla ''minst'' ett set kil och tio [http://www.sverigeforaren.se/images/0/02/Tabell-kamkilar.pdf kamkilar] från grön Alien till WC Friend #3.5 (Camalot #3).  Flera leder kräver ännu större kamkilar, upp till WC Friend #5 & #6 och vissa kräver även Big Bro #4.   För varje led kommer information presenteras om lämpligt rack. 
+
+* Det är väldigt lätt att hitta lederna. Ofta är det 20-30 meter mellan lederna och linjerna är minst sagt tydliga. Det här är inte din vanliga sportklippa, inga uteslutna grepp här...
+
+* Bara för att en led inte har några stjärnor behöver inte det betyda att leden inte är värd att klättras. Stjärnmarkeringarna finns till för att nya besökare lättare ska kunna hitta de allra finaste lederna.
+
+* Ta med ett 60 meters firningsrep.
+
+* Hjälm är ett måste, än så länge rasar det ibland småsten från kanten. Efter 70 meter fritt fall gör små stenar också ont.
+
+* Det finns inget vatten vid klippan så ta med det dricksvatten du behöver.
+
+* Sugen på att göra nyturer? [http://www.ukhk.se UKHK] ordnar allt du behöver! Hör bara av dig till någon i styrelsen för information om material.
+
+* '''Restriktioner:''' Mellan {{ledlänk|namn=En Feting}} och {{ledlänk|namn=Nåijden}} på väggen mot byn så går det att (under viss påverkan?) se en lappgubbe i mossan. Sopa inte här.
+
+* Det går möjligen att hoppa base från toppen av {{ledlänk|namn=Sista vilan}}.
+{{sidbrytning}}
+
+<div style="clear:both"></div>
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="64.135030" lon="17.266475" zoom="11" type="map" controls="small">
+64.105227,17.183230,[[Offerhällan]]
+</googlemap>
+</div>
+I Åsele samhälle vid stallet/ishallen, tag av mot byn Sörnoret. Det står “13 Sörnoret” på skylten. Denna väg är densamma som man tar om man ska till flygplatsen.  Fortsätt på denna väg tills du kommer till byn Sörnoret. Från byskylten i Sörnoret är det cirka 3,6 kilometer tills du ska parkera bilen. 
+
+När du passerat byn och kört ett tag så kommer det en skylt med “Här slutar allmän väg”. Forsätt förbi denna skylt och kör efter vägen tills det dyker upp en skylt som pekar mot höger med texten “Offerhällan 2 Bergvattenberget”. Vid början på denna väg finns det en bom och den kan (enligt rykten) vara stängd ibland. Kör på denna väg cirka 1 km tills ni kommer till en skylt som pekar mot höger mot en stig. På skylten står det “Offerhällan 0,9 Bergvattenberget”. Stigen leder till rastplatsen på toppen av Offerhällan. OBS! Blöt stig. Kan vara olämpligt med lågskor om det har regnat mycket.
+
+Från ishallen i Åsele till där man lämnar bilen vid Offerhällan är det 16 km.
+
+==Boende==
+Vid toppen av klippan finns fina tältplatser och ett utedass. Däremot finns inget vatten. Däremot går det bra att campa mitt i byn vid bron. Då får man både dricksvatten (Ångermanälven?) och badmöjligheter.
+
+Lyxalternativet är att hyra in sig i den superfina byastugan. Se [http://www.aselebyar.nu/sornoret/ Sörnorets hemsida] för mer information.
+
+==Orientering vid klippan==
+[[Bild:Offerhallan-ovan.png]]
+
+Du kommer fram till toppen av klippan. Med utsikt över vattnet så har du {{ledlänk|namn=En Feting}} rakt nedanför vindskyddet. 30 meter till höger har du uttoppningen på {{ledlänk|namn=Ljusbågen}} och ett '''firningsankare''' (OBS! 60 meter ner till backen!).
+
+{{ledlänk|namn=Ensamseglaren}} och omkringliggande leder ligger ytterliggare 75 meter åt höger, fortsätt stigen bort så får du efter ett tag en väldigt fin överblick över det här området om du söker dig ut mot kanten. Lättast tar du dig ner och upp i den stora rännan (södra vägen)m h a ett fixrep.
+
+{{ledlänk|namn=Halvvägs till himmelen}} och omkringliggande leder ligger 75 meter till vänster om vindskyddet. Ska du klättra dessa är det lättast att fira ner från firningsankaret på toppen av {{ledlänk|namn=Sista vilan}}. Firningsankaret som ligger ungefär 50 meter norr om vindskyddet (vänsterut om man tittar ut mot sjön) kan vara lite svårt att hitta, men följ nedersidan av en några meter hög klippvägg som går diagonalt nordöst mot toppen av sektorn.  Firningen är 59 meter och helt frihängande.
+
+Om du vill gå ner rekommenderas den norra vägen, det vill säga åt vänster från vindskyddet. Först blå snitsling och sedan gul/röd för dig ner i en ravin med ett stort klämblock i toppen. I ravinen finns det ett fixerat rep. Följ snitslingen neråt och sedan åt höger så kommer du till {{ledlänk|namn=Vägvisaren}} och strax där efter {{ledlänk|namn=Halvvägs till himmelen}}.
+
+==Historia==
+Som namnet antyder är Offerhällan på Bergvattensberget en gammal samisk offerplats.  Självaste klippan var besjälad av en gud.  En avgudabild i trä fanns uppsatt på klippan.  Avgudabilden togs ned och förvarades i kyrkan i Åsele, men träfiguren försvann när kyrkan brann ner på 1930-talet.  
+
+Vid klippan har det har även hittats långa trädgrenar som användes för att piska gudarna/klippan om  offren inte gav önskad effekt.
+
+Från en klättrares synvinkel upptäcktes klippan på 1970-talet men det dröjde till slutet på 1980-talet innan [[Tommy Nilsson]] och [[Anders Lindh]] aidade det som idag är {{ledlänk|namn=Sista vilan}}. När sedan [[Anders Linder]], [[Jens Åström]], [[Tommy Nilsson]] med flera plockade fram borstarna kring 2003 så blev det den egentliga starten på det Offerhällan vi har idag.
+
+==Överblick klippa==
+<!--
+[[Bild:Offerhallan overblick left layers.jpg|thumb|300 px|left|<strong>Läs mer om [[Vänstra delen av Offerhällan]]</strong> ]]
+[[Bild:Offerhallan overblick right layers.jpg|thumb|300 px|left|<strong>Läs mer om [[Högra delen av Offerhällan]]</strong> ]]
+-->
+
+{|
+|class=toc style="font-size:100%;"|
+{{klickbild|url=http://www.sverigeforaren.se/index.php/V%C3%A4nstra_delen_av_Offerh%C3%A4llan|bild=http://www.sverigeforaren.se/images/7/7e/Offerhallan_overblick_left_mini.jpg}} <BR>
+<STRONG>Läs mer om [[Offerhällan/Vänstra delen av Offerhällan|Vänstra delen av Offerhällan]]</STRONG>
+
+|class=toc style="font-size:100%;"|
+{{klickbild|url=http://www.sverigeforaren.se/index.php/H%C3%B6gra_delen_av_Offerh%C3%A4llan|bild=http://www.sverigeforaren.se/images/7/77/Offerhallan_overblick_right_mini.jpg}}
+<BR>
+<STRONG>Läs mer om [[Offerhällan/Högra delen av Offerhällan|Högra delen av Offerhällan]]</STRONG>
+|}
+
+<strong>Läs mer om [[Offerhällan/HTH väggen|Halvvägs till Himmelenväggen]]</strong>
+
+<div style="clear: left;"></div>
+
+==Photosynth==
+Peblin har gjort en fotosynth av Utomjordings bilder. Starta Internet Explorer, surfa hit, installera plugin och klicka runt. [http://photosynth.net/view.aspx?cid=9d739b56-4ed6-4ce0-84d2-5f20949275b1&lc=1033 Offerhällan Photosynth]
+
+==Leder (inklusive projekt)==
+(Från vänster till höger sett nerifrån, höger till vänster sett uppifrån)
+
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Mot nya mål|grad=6+|typ=mix|bultar=2|längd=25|fa=[[Jens Åström]] [[2005|-05]]|text=Går på bergets vänsterkant. Slutar på Ensamseglarens standplats.}}
+
+{{led|namn=Ensamseglaren|grad=5+,5-|typ=trad|längd=50|betyg=1|fa=[[Användare:Utomjording|P. Lindholm]] [[2006|-06]]|text=Den breda sprickan till vänster om Optimistjollekaminen.}}
+
+{{led|namn=Optimistjolle|grad=5+|typ=sport|bultar=7|längd=25|betyg=1|fa=[[Användare:Utomjording|P. Lindholm]] [[2006|-06]]|text=Bultad kaminklättring som slutar på "Island in the sky".}}
+
+{{led|namn=Ljusbågen|grad=6-, 6+|typ=trad|längd=50|fa=[[Anders Linder]], [[A. Sandström]] [[2006|-06]]|text=Startar rakt under vindskyddet. Andra replängden kan upplevas något nervig.}}
+
+{{led|namn=?|grad=projekt|text=Väggtur rakt under fikaplatsen. [[Öppet projekt]]. De översta 40 m är grovsopade av [[Per Gunnarson]]. Har ett oroväckande blankt parti.}}
+
+{{led|namn=En Feting|grad=6|typ=trad|längd=20|betyg=1|fa=[[Användare:Utomjording|P. Lindholm]] [[2006|-06]]|text=Offwidth rakt nedanför vindskyddet. Leden startar 15m ovanför marken på en skitig hylla.}}
+
+{{led|namn=Nåijden|grad=6, 6|typ=trad|betyg=2|längd=60|fa=[[Anders Linder]] [[2006|-06]]|text=Mäktig kamin-diederformation. Härligt bökig!}}
+
+{{led|namn=Välsignelsen|grad=6+|typ=trad|längd=15|betyg=0|fa=[[M. Johansson]] [[2006|-06]]|text=Individuell fortsättning på {{ledlänk|namn=Nåijden}}}}
+
+{{led|namn=Fruktans belöning|grad=6/6+, 7-|typ=mix|betyg=2|längd=60|text=Till vänster om domedagssläggan.}}
+
+{{led|namn=Domedagsfruktan|grad=6, 7-|betyg=3|fa=|text=En fin link-up där man klättrar första replängden på ''Domedagssläggan'' och andra replängden på ''Fruktans belöning''. Underbar och välsäkrad klättring.}}
+| width=300px|
+{{led|namn=Domedagssläggan|grad=6, projekt|betyg=1|fa=[[Tommy Nilsson]]|text=Stora taksprickan. Gemensamt insteg och utsteg med Sista Vilan. Andra replängd är ett [[öppet projekt]]. Om du kommer förbi taket, så passa repet (se diskussionssidan).}}
+
+{{led|namn=Sista vilan|grad=6+, 7|typ=trad|betyg=3|längd=60|fa=[[Tommy Nilsson|T. Nilsson]],[[Jens Åström|J. Åström]], [[Jonas Andersson|J. Andersson]] [[2007|-07]]|text=En fantastisk linje. Ihållande brant sprickklättring.}}
+
+{{led|namn=Halvvägs till himmelen|grad=6,7|typ=trad|längd=65|betyg=3|fa=[[Jens Åström|J. Åström]] (1a repl.) [[2003|-03]] , [[Krister Jonsson]] (2a repl.)[[2007|-07]] |text=En av Sveriges finaste spricklinjer.  Det går bra att fira av efter 1a repl. för den som vill.  Andra replängden har fått ett eget namn, {{ledlänk|klippa=offerhällan|namn=Himlen kan vänta}}.}}
+
+{{led|namn=Himmelen direkt|grad=6, A0 (Cirka 8/8+ fritt?)|betyg=3|typ=trad|längd=37|fa=[[Jonas Wiklund]] [[2009|-09]]|text=Fingersprickan som går rakt upp från standplatsen på {{ledlänk|klippa=offerhällan|namn=Halvvägs till himmelen}}. Bultat ankare.}}
+
+Vägvisaren och Ljudvallen når man genom att klättra upp via en trästege och ett fast rep upp till en hylla.
+
+{{led|namn=Vägvisaren|grad=7-, projekt|typ=trad|bultar=2|längd=28+25|betyg=1|fa=[[Anders Linder]] [[2004|-04]]. Denna led har snabbt förlorat kampen mot mossan}}
+
+{{led|namn=Ljudvallen|grad=8|betyg=3|bultar=2|typ=mix|längd=60|fa=[[Fredrik Nyberg]] [[2009]], ff [[Jonas Wiklund]] [[2011]]|text=Taken till höger om {{ledlänk|namn=Vägvisaren}}.  En bult i början och en på mitten.  Fin och omväxlande klättring}}
+
+{{led|namn=Spetälsk|grad=projekt|typ=trad|längd=50|text=Dieder till höger om [[Användare:Nyberg fredrik|Fredrik Nybergs]] projekt. [[Öppet projekt]] påbörjat av [[Användare:Grahnen|Johan Grahnén]]. Toppen är grovsopad.}}
+
+{{led|namn=Elsie / Respect for the Swedish Sandbag|grad=5|typ=trad|betyg=0|längd=15|fa=[[Sam Wheadon|S. Wheadon]],[[Mats Isaksson|M. Isaksson]], [[daniel Johansson|D. Johansson]] [[-13]]|text=Sprickan under det hängande blocket vid den vänstra nedstigningen uppifrån sett. Säkringsmannen kan med fördel göra stand med prussik i accessrepet. Tunnt insteg som säkras med ett par mässingskilar, följ sedan sprickan upp till toppen. Avsluta genom att kliva över på det hängande blocket för att undvika att skada den överhängande mosskudden. Obs: ta graden med en nypa salt.}}
+|}
+
+==Boulders==
+{{led|namn=Lillen|grad=4C|typ=boulder}}
+
+==Bultlogg==
+
+===2009===
+* Ankare och två ledbultar på {{ledlänk|namn=Ljudvallen}}
+* Ankare på projektet mellan andrarepan på {{ledlänk|namn=Sista vilan}} och {{ledlänk|namn=Himlen kan vänta}}
+* Två ledbultar på {{ledlänk|namn=En Feting}}
+
+===2007===
+* Firningsankare ovanpå {{ledlänk|namn=Sista vilan}} utsteg. Kompletterat med en bult och kedja samt stålkarbin. En 60m frihängande firning till marken.
+
+===2006===
+* Firningsankare vid Ljusbågen. Två bultar + Fixe-hängare + kätting + tre snabblänkar 
+* {{ledlänk|namn=Ensamseglaren}}. 
+** Ankare: Två bultar + Fixe-hängare + kätting + tre snabblänkar
+** Led: Sju(?) bultar + Fixe-hängare (eventuellt någon Petzl-hängare)
+* {{ledlänk|namn=En Feting}} - två bultar + Fixe-hängare på toppen
+* {{ledlänk|namn=Nåijden}}/{{ledlänk|namn=Välsignelsen}} - två bultar + Fixe-hängare ovanför {{ledlänk|namn=Nåijden}}/stand för säkringsman på {{ledlänk|namn=Välsignelsen}}
+* {{ledlänk|namn=Sista vilan}} - bultar + ankare
+* En ensam bult ovanför {{ledlänk|namn=Fruktans belöning}}.
+
+===2005===
+*Två bultar på Mot nya mål sätts upp.
+
+===2004===
+* Två bultar och ett ankare sätts upp på {{ledlänk|namn=Vägvisaren}}. Alla bultar av standard typ. Kätting i ankare dock ej av klassad typ, ej heller de plåtbleck som kättingen sitter i. Länkarna av Clas Ohlsoon typ. Kan gärna bytas ut.
+
+===2003===
+*Ankare på Halvvägs till himmelen sätts upp.
+
+===Äldre===
+
+[[Kategori:Lappland]] [[Kategori:Trad]] [[Kategori:Vertikalt]] [[Kategori:Överhäng]]
+[[Kategori:Västerbotten]] [[Kategori:Engelska]]
+
+=In English=
+==Description==
+A mighty wall looming over the village ''Sörnoret'', outside the town ''Åsele'' in Lappland. Mostly two-pitch routes. The routes at the main sector all have a verical first pitch followed by an overhanging pitch.  Routefinding is not exactly an issue, as almost all routes follow major cracklines.  The crag is approached from the top, and some routes can only be accessed by rappel.
+<div class="noprint">
+Map: 
+[http://www.hitta.se/ViewDetailsPlace.aspx?PlaceId=2543492&SearchType=4&UCSB%3aWflWhite=1a1b&UCSB%3aWflPink=4a&UCSB%3aTextBoxWho=&UCSB%3aTextBoxWhere=s%f6rnoret%2c+%e5sele hitta.se]
+
+Photos: [http://www.flickr.com/photos/offerhallan Bilder från Offerhällan]
+
+The village: [http://www.aselebyar.nu/sornoret/ Sörnoret]
+</div>
+
+==Nuts and bolts==
+Several of the routes feature wide cracks, or cracks that are wide in part. It is good to have cams up to a fist-sized piece (Friend #4 or Camalot #4). In order to be able to do all routes offwidth-gear is also needed (Friend #5 & #6 and perhaps a big bro #4).
+
+For rapping down to the main sector (recommended, although hiking in via "Norra ravinen" is also possible) an extra 60 meter rope is necessary. A 60 meter rope is also needed for rapping down to ''Ljusbågen''.
+
+The route "En feting" cannot be accessed by any other means then rapping in from the top. (See map)
+
+==Directions==
+From '''Åsele''', drive towards '''Sörnoret'''. After driving through Sörnoret drive past a sign stating: "Här slutar allmän väg" (Public road ends here). Keep going along this road until the sign "Offerhällan 2 Bergvattenberget" points you right. Drive a kilometer until you see the withered sign that once upon a time read "Offerhällan 0,9 Bergvattenberget". Park your car and follow the trail over the bog and up the hill. In total 16 kilometre from Åsele.
+
+[[Kategori:Lappland]] [[Kategori:Trad]] [[Kategori:Vertikalt]] [[Kategori:Överhäng]]
+[[Kategori:Västerbotten]] [[Kategori:Engelska]]

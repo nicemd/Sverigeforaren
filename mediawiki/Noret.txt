@@ -1,0 +1,205 @@
+{{info klippa
+  |lat=59.20942
+  |long=18.35471
+}}
+
+{{utkast}}
+[[Bild:Noret_oversikt.png|thumb|right|300px]]
+
+==Allmänt==
+Noret är ett samlingsnamn för klipporna runt båthamnen som ligger söder om [[Klövberget]]. Här finns några fina och unika leder blandade med en del skräp.
+
+==Beskrivning==
+Här finns mycket klippa men mycket är också ointressant ur klättersynpunkt. Hittills har här klättrats på fem ställen: klipporna innanför nedfarten till bryggorna, svaplattan th om trappan uppför berget, den branta väggen inne th efter att man har gått över bryggorna, den korta väggen som ligger högt upp ovanför (och bakom) den stora blocksamlingen samt väggen längst bort tv.
+
+==Miljö==
+Sydväst, mestadels öppet för solen. 
+
+
+==Vägbeskrivning==
+<div style="width: 305; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=300 height=200 lat="59.20942" lon="18.35471" zoom="12" type="map" controls="small">
+59.20942,18.35471,[[Noret]]
+</googlemap>
+</div>
+Åk som för [[Klövberget]] men kör förbi parkeringen och ta th på Svartbäcksvägen och följ den tills en brant backe leder ner till vattnet. Sväng här brant åt h på Noretvägen och fortsätt tills en liten väg/stig försvinner in åt h. Parkera här! Stigen leder ner till båthamnen.
+
+<slresang>
+titel=Noret
+lat=18354710
+long=59209420
+</slresang>
+
+<div style="clear:right;"></div>
+==Leder==
+
+{{sidbrytning}}
+===Terrierväggen===
+[[Bild:Noret_0.png]]
+
+Överhängande vägg med ett block framför. Skiss saknas av vänstra delen.
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|namn=Ödets makt|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Arnington road|grad=7b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Alt insteg till Arnington|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Claver|grad=6b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Tier|grad=6c+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Altermaan|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Engel|grad=7a|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Bestraffe mich|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Buckdych|grad=7c+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+| width="350px" |
+
+{{led|namn=Du hast mich|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Kyss mich|grad=7c+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+Tre leder går på blocket:
+{{led|namn=Tsatsiki|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Morsan|grad=7a|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+{{led|namn=Polisen|grad=6c+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+Dessa leder är till höger
+{{led|namn=Timbuktu|nr=1|grad=6a|betyg=|längd=15|fa=[[Göran Wennerbrant]], [[Lars Svadängs]] [[1993|-93]]|bultar=|typ=mix}}
+{{led|namn=Terrier|nr=2|grad=6b|betyg=|längd=15|fa=[[Lars Svadängs]], [[Göran Wennerbrant]] [[1993|-93]]|bultar=|typ=mix}}
+{{led|namn=Token|nr=3|grad=6a|betyg=|längd=15|fa=[[Lars Svadängs]], [[Göran Wennerbrant]] [[1993|-93]]|bultar=|typ=mix}}
+|}
+
+{{sidbrytning}}
+===Röda Lacket klippan===
+[[Bild:Noret_1.png]]
+
+50m norr om båthamnen finns en låg men brant, lite rödaktig klippa. Den Enklaste sättet att komma upp till klippan är att gå tv om blocken men det går också att klättra upp på högra sidan. 
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|namn=Medlut|grad=5c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Den ensamma borrbulten|grad=?|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=mix}}
+
+{{led|namn=Det var inte A2+|grad=5|betyg=|längd=|fa=[[Anders Diseberg]], [[Linda Sandgren]] [[-13]]|ny=ja||bultar=|typ=trad|text=Den tydliga off width - sprickan med två klämblock till höger om "den ensamma borrbulten". Utsteget går rakt upp i sprickan från hyllan. Måste väl vara klättrad tidigare? -Om det är
+Sprickan/Diedern i hörnet så är det väl "Ettan"? Om inte så är det starten på "Grov Portion".  }}
+
+{{led|namn=Diagonalen|nr=4|grad=4c|betyg=|längd=|fa=[[Jan Liliemark]], [[Torgil Abrahamsson]] [[1980|-80]]|bultar=|typ=mix}}
+
+{{led|namn=Ettan|nr=5|grad=4c|betyg=|längd=|fa=[[Lars Svadängs]], [[Per Sandström]], [[Ulf Lagercrantz]] [[1976|-76]]|bultar=|typ=trad}}
+
+{{led|namn=Grov portion|grad=5/5+|betyg=1|längd=|fa=[[Joel Nyberg]][[-12]]|ny=ja|bultar=|typ=trad|text=Utstegsvariant till Ettan. Klättra Ettan/sprickan rakt upp till taket, vid taket tar du höger och fortsätter i offwidth sprickan i hörnet för att sedan runda taket. Kul klättring.}}
+
+{{led|namn=Svart magi|grad=6a+|betyg=|längd=|fa=[[Andreas Harne]][[-09]]|ny=ja|bultar=|typ=sport|text=Utstegsvariant till Isbiten. På mitten av Isbiten viker man av åt vänster till ett kort krux på små crimpers. Därefter upp till vänster och ett eget ankare.}}
+
+{{led|namn=Isbiten|grad=5c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Fin bultad led på sidoväggen. Insteget bultades om -09.}}
+
+{{led|namn=Ebbe|nr=6|grad=6a|betyg=|längd=|fa=[[Niklas Björnerstedt]], [[Lars Grankvist]], [[Lars Svadängs]] [[1988|-88]]|bultar=|typ=mix|text=Dåliga säkringsmöjligheter. Den rostiga borrbulten har tagits bort. Kvar sitter en rostig gammal pitong. Bör ej ledas.}}
+
+{{led|namn=Ödets makt|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Start genom lilla taket}}
+
+{{led|namn=Agent Luhr ser rött|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Vertikal klättring. Svår tills man överlistar den.}}
+
+{{led|namn=Svåra diedret|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Balansig vertikal klättring}}
+
+{{led|namn=General|nr=7|grad=5a|betyg=|längd=|fa=[[Jan Liliemark]], [[Torgil Abrahamsson]]|bultar=|typ=trad}}
+
+{{led|namn=Tissel tassel|grad=6b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+| width="350px" |
+
+{{led|namn=Röda lacket|nr=8|grad=6a|betyg=|längd=|fa=[[Jan Liliemark]], [[Torgil Abrahamsson]]|bultar=|typ=trad}}
+
+{{led|namn=Snoken|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=}}
+
+{{led|namn=Kaxi|grad=7b|betyg=|längd=|fa=|bultar=|typ=sport|text=Överhänget}}
+
+{{led|namn=Livet är underbart|grad=7c+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Överhänget}}
+
+{{led|namn=?|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Överhänget}}
+
+{{led|namn=?|grad=7b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Överhänget}}
+
+{{led|namn=Stor dum pung|nr=9|grad=6a|betyg=|längd=|fa=[[Marco Kupiainen]], [[Johan Hellström]] [[1994|-94]]|bultar=|typ=trad}}
+
+{{led|namn=?|grad=6c|betyg=|längd=|fa=|bultar=|typ=sport}}
+
+{{led|namn=?|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Genom tak. Boulderkrux}}
+
+I "smutshålet" går två leder:
+{{led|namn=Kylskåpet|grad=6a|fa=[[Johan Luhr]]|text=Dieder}}
+
+{{led|namn=?|grad=7b|fa=[[Johan Luhr]]|text=Akta ryggen}}
+|}
+
+{{sidbrytning}}
+
+===Båthamnen===
+[[Bild:Noret_2.png]]
+
+Strax bortanför bryggorna finns ett jättelikt block med en fin låghöjdstravers och diverse vertikala boulderproblem. Bakom detta block finns en brant och kompakt vägg med flera överhäng och ett avslutande tak som ger associationer till Klövberget
+
+{{led|namn=Maktbalans|nr=10|grad=6-/6|betyg=1|längd=20|fa=[[Lars Svadängs]], [[Dan Engström ]] [[1983|-83]]|bultar=|typ=mix}}
+
+{{led|namn=projekt|grad=?|betyg=|längd=|fa=|bultar=|typ=projekt}}
+
+{{led|namn=Kognitiv dissonans|nr=11|grad=6+|betyg=|längd=20|fa=[[Lars Grankvist]], [[Niklas Björnerstedt]], [[Lars Svadängs]] [[1988|-88]]|bultar=|typ=mix}}
+
+{{led|namn=Eldoradoextas|nr=12|grad=8|betyg=|längd=22|fa=[[Henrik Bolander]], [[, Fredrik Rundkvist ]] [[1990|-90]]|bultar=|typ=mix}}
+
+{{led|namn=Chalk it up|nr=13|grad=7-|betyg=2|längd=15|fa=[[Fredrik Rundkvist]], [[Henrik Bolander]] [[1990|-90]]|bultar=|typ=sport}}
+
+{{sidbrytning}}
+
+===Spräckliga bandet===
+[[Bild:Noret_3.png]]
+
+Nästa svaplatta som leder upp till en hylla med en logisk men till synes ganska tunn avslutning ovanför är antagligen inte klättrad. Nere vid båthamnen finns en trappa upp på berget. Th om denna finns en led uppför den mycket originellt tecknade svaplattan.
+
+{{led|namn=Spräckliga bandet|nr=14|grad=6-|betyg=|längd=|fa=[[Jan Liliemark]], [[Lars Svadängs, Annikki Liliemark]] [[1980|-80]]|bultar=|typ=trad}}
+{{led|namn=Talleken|nr=15|grad=5-|betyg=|längd=40|fa=[[Buster Delin]], [[Jonas Paulsson]] [[1991|-91]]|bultar=|typ=trad}}
+
+[[Bild:Noret_4.png]]
+
+Från bryggorna går en vägg upp till parkeringen.
+
+{{led|namn=Bestialia|nr=16|grad=7+|betyg=|längd=16|fa=[[Fredrik Rundkvist]], [[Henrik Bolander]] [[1990|-90]]|bultar=|typ=mix}}
+{{led|namn=Jamdomsprovet|nr=17|grad=7/7+|betyg=|längd=25|fa=[[Henrik Bolander]], [[Fredrik Rundkvist]] [[1990|-90]]|bultar=|typ=trad}}
+
+{{led|namn=Snakeskin Cowboys|nr=|grad=8a+|fa=|betyg=|text=Kort led på lilla överhänget mellan led 17 och 18}}
+
+{{led|namn=Mastercard|nr=|grad=8a|fa=|betyg=|text=Kort led på lilla överhänget}}
+
+{{sidbrytning}}
+
+===Ormplattan===
+[[Bild:Noret_5.png]]
+
+20m innanför parkeringen finns ett högt klipparti med några branta svaplattor. 
+
+{{led|namn=Ormplattan|nr=18|grad=5-|betyg=|längd=20|fa=|bultar=|typ=trad}}
+{{led|namn=Vipera|nr=18a|grad=6-|betyg=|längd=10|fa=[[Per Calleberg]], [[Peter Brolin ]] [[1990|-90]]|bultar=|typ=trad}}
+{{led|namn=Ormsprickan|nr=19|grad=?|betyg=|längd=20|fa=[[Lars Lindberg]] m fl [[1976|-76]]|bultar=|typ=|text=Denna led har ramlat ner!}}
+{{led|namn=Batman|nr=20|grad=6+|betyg=|längd=12|fa=[[Fredrik Rundkvist]], [[Henrik Bolander ]] [[1990|-90]]|bultar=2|typ=mix}}
+
+Nästa parti ligger ovanför en gul sommarstuga. Försök att undvika att störa dem som bor där i onödan.
+
+{{led|namn=Tinge linge ling|nr=21|grad=8/8+|betyg=|längd=12|fa=[[Johan Luhr]], [[Patrik Andersson ]] [[1992|-92]]|bultar=4|typ=}}
+{{led|namn=Bratman|nr=22|grad=7-|betyg=|längd=35|fa=[[Henrik Bolander]], [[Fredrik Rundkvist ]] [[1990|-90]]|bultar=|typ=trad}}
+{{led|namn=Eldorado rocks|nr=23|grad=7|betyg=|längd=10|fa=[[Henrik Bolander]], [[Fredrik Rundkvist ]] [[1990|-90]]|bultar=1|typ=mix}}
+{{led|namn=Partyman|nr=24|grad=6|betyg=|längd=10|fa=[[Fredrik Rundkvist ]], [[Henrik Bolander]] [[1990|-90]]|bultar=|typ=trad}}
+
+===Svartbäcksväggen===
+Liten vägg i branten ovanför Svartbäcksvägen ett par hundra meter innan Noretvägen.
+
+{{led|namn=Rekreationsplats för erfarenhetshandikappade|nr=25|grad=6-|betyg=|längd=10|fa=[[Harri Sporrevik]], [[Anna Groth ]] [[1991|-91]]|bultar=|typ=}}
+{{led|namn=Motivationshem|nr=26|grad=6+|betyg=|längd=9|fa=[[Harri Sporrevik]], [[Anna Groth ]] [[1991|-91]]|bultar=|typ=}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+==Extern förare==
+Några väggar finns på [http://www.plonk.se/snf/noret.html Stockholms Nätförare]
+
+[[Kategori:Saknar vägbeskrivning]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Trad]] [[Kategori:Sport]]
+[[Kategori:Stockholm]] [[Kategori:Tyresö]]

@@ -1,0 +1,134 @@
+{{info klippa
+  |lat=59.12450000000000
+  |long=17.77730000000000
+}}
+
+{{utkast}}
+
+==Allmänt==
+Oklättrad klippa nära Kagghamra i Grödinge. Klippan bestor av flera väggpartier, 7-12m hög och mestadel svagt överhängande. Det finns potential för några leder i varierande svårighetsgrad.
+
+{{sidbrytning}}
+
+==Miljö==
+
+[[Bild:Fornborgsberget_view1.jpg|thumb|right|400px|Fornborgsberget]]
+
+Klippan är sydvästvänd men mestadels skuggas av granskogen. 
+
+På flera kartor kan man förtfarande se ett hus ganska nära klippan. Det var kanske huvudorsaken att klippan har varit helt outveklad och oklättrad trots att den finns listad i Stockholmsföraren (1992, 1996 och 2008). 
+
+Huset finns inte längre!
+
+<div style="clear: both"></div>
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.12450000000000" lon="17.77730000000000" width="300" height="400" zoom="12" type="map">
+59.12450000000000, 17.77730000000000,Fornborgsberget
+
+</googlemap>
+</div>
+Från Tumba kör väg 226 mot Vårsta. Kör genom Vårsta och ta vänster in på väg 225 mot Nynäshamn. Efter 1,8km sväng höger mot Skanssundet och Grödinge k:a. Efter 2,5km passeras kykan och [[Gullhamra|Gullhamra berg]]. Kör 2,5km till och sväng vänster mot Kagghamra. Äfter ca 600m kommer du till Fornborgsberget som blir det första berget vänster om vägen. Parkera inte i vägkröken vid berget! Kör vidare, passera en sommarstuga  och parkera på parkeringsplats vid en grusväg presis innan Kagghamra-skylt. Gå 250m tillbaka till vägkröken  och sen 50m upp till klippan.
+
+[[Bild:Fornborgsberget_parkering.jpg|thumb|left|400px|Rätt parkering.]]
+
+==Kommunikationer==
+Ta buss 727 från Tumba station mot Skanssundet. Bergavägen hpl ligger ca 100m innan sväng mot Kagghamra och 600m bort från klippan som är synlig därifrån. Restid ca 18min.
+
+<div style="clear: both"></div>
+
+==Access {{access}}==
+
+[[Bild:Fornborgsberget_parkera_inte.jpg|thumb|right|400px|Ingång. Parkera inte här!]]
+
+Accessläget vid Fornborgsberget är oklart.
+Det ligger på privat mark. Dessutom finns en välkänd fornborg på berget. Fornborgen är belagen  på andra “oklätterbara” sidan av berget, men... 
+
+Var uppmärksam och glöm inte att nedsågning av träd och grenar ingår faktist inte i allemansrätten. Undvik att parkera nära klippan och håll låg profil tills mer information finns tillgänglig.
+
+http://www.botkyrka.se/kulturguiden/omraden/34221.html
+
+http://www.botkyrka.se/index.php?dispatchTo=Renderer&action=download&file=59999 
+
+<div style="clear: both"></div>
+
+
+{{sidbrytning}}
+
+==Leder==
+Några projekt påbörjades vintern 2009.
+
+===Pelaren===
+Inte hög men intressant klippformation längst åt vänster. 
+
+[[Bild:Fornborgsberget_pelaren.jpg|thumb|right|400px|Pelaren]]
+
+Inga leder eller projekt. Möjlighet till ett par lättare turer.
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+===Huvudväggen===
+
+10-12m hög svagt överhängande vägg.
+
+[[Bild:Fornborgsberget_huvudv.jpg|thumb|right|400px|Huvudväggen]]
+
+Inga leder eller projekt. Möjlighet till 5-6 sportturer. 
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+===Höger om huvudvägen===
+
+[[Bild:Fornborgsberget_day_off.jpg|thumb|right|400px|Trad eller sport?]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|namn=Invasion|grad=6b+|längd=10|typ=sport|fa=[[Jörgen Alvhäll]], [[Peter Yakubenko]] [[-09]]|text=Mitt på väggen till höger om den lutande granen. Krux i början, stora juggar på slutet. 4bb och ankare.}}
+
+
+{{led|namn=Projekt|grad=?|längd=10|typ=trad|text=Off-width spricka som är svag överhängande i övre delen. Ganska mossig, måste rensas ordentligt. [[Öppet projekt]]}}
+
+{{led|namn=Fornborgen|grad=6b+|längd=11|typ=sport|fa=[[Peter Yakubenko]], [[Anders Eriksson]] [[-09]]|text=Överhängande sprickan till höger om föregående. 6bb och ankare.}}
+|}
+
+<div style="clear: both"></div>
+
+{{sidbrytning}}
+
+===Järnväggen===
+Mindre men kraftigt överhängande väggpartiet  längst åt höger.
+
+[[Bild: Fornborgsberget_iron_wall1.jpg|thumb|right|400px|Järnväggen]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Järnvilja|grad=7b+|längd=7|typ=sport|fa=[[Johan Luhr]] [[-09]]|text=På vänsterkant. 4bb.}}
+
+{{led|nr=2|namn=Järnfingrar|grad=7c|längd=8|typ=sport|fa=[[Peter Yakubenko]] [[-09]]| text=Sprickan snett åt vänster. Två fingrar jam.  4bb och ankare.}}
+
+{{led|nr=3|namn=Järnjätten|grad=7c+|längd=8|typ=sport|fa=[[Larry Valkama]], [[Johan Luhr]] [[-09]]| text=Genom spricksystemet mitt på väggen. Hoppslut.  4bb och ankare.}}
+
+{{led|nr=4|namn=Järnåldern |grad=7a+|längd=8|typ=sport|text=[[Peter Yakubenko]] [[-09]]. På högerkant. Fin och fast klippa. 4bb och ankare.}}
+|}
+
+<div style="clear: both"></div>
+
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]
+[[Kategori:Oklättrat]]
+[[Kategori:Saknar leder]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar skiss]]
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]

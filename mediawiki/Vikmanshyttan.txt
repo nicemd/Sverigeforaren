@@ -1,0 +1,95 @@
+{{Komplett}}
+== Allmänt ==
+
+Litet område straxt utanför Vikmanshyttan med ffa ett "tak" med flertalet av områdets linjer i och under. ca 10 problem i intervall 6A-6C+. I övrigt lite skrafs som är under utveckling runt ikring.
+
+Stenkvalitén är så slät att det snarare är kanterna man får akta sig för. Väldigt skonsam för huden.
+
+Alla (nästan) gjorda linjer är inritade (enbart förslag till handgrepp inte absolutum) på bilderna. Graderna är väldigt osäkra och är öppna för både upp som ned graderingar, lättaste vägen upp gäller för graden. 
+
+Finns en hemmabyggd stege under taket att använda utan funktions garanti.
+
+Frågor eller funderingar var god mejla calleblingbling på hotmail.
+
+Enjoy! 
+/c
+
+== Vägbeskrivning ==
+Kör från Hedemora mot Vikmanshyttan, fortsätt på vägen genom Vikmanshyttan som senare övergår till en grusväg. ca 600 meter efter avfarten mot gamla slalombacken (karttjärn) tar ni vänster. Fortsätt på denna vägen förbi ett grustag på vänster sida. ca 100 meter efter grustaget kommer en vägbom, parkera innan denna till höger. Se till så att bilar kan vända om bommen skulle vara nedfälld. Gå sedan tillbaka längs grusvägen tills ni har en liten äng på höger sida, gå ner på ängen och följ sedan bergskanten åt höger (sydost?) så kommer taket efter ca 50 meter, lite dolt bakom en gran. Bild ritad från huvud så oklart om allt stämmer men halva glädjen är ju jakten, inte sant.
+<CENTER>[[Bild:Vikmanstopo.jpg‎]]
+
+<googlemap version="0.9" lat="60.281281" lon="15.839195">
+60.273816, 15.841239, Taket, Vikmanshyttan
+Taket
+</googlemap></CENTER>
+
+== Områden == 
+Än så länge bara ett område men fler kan tänkas komma
+<CENTER>
+[[Bild:Vikmanshyttan topo.jpg]]
+</CENTER>
+
+=== Taket ===
+
+<BR><center>
+[[Bild:Förare vikmanshyttan, Till Rasmus och We are a long... copy.jpg]]<br></CENTER>
+
+{{problem|namn=1.  Rasmus|grad=6A|text=Halva Gröna linjen. Stå starten, vä hand i hög microundercling hö hand på undercling under taket, fötter valfritt. Dra via dynolist ut åt vänster och jugga dig upp till toppen.}}
+
+{{problem|namn= 1a. Till Rasmus Assis|grad=6A+|text=Grön linje. Sittstarten. Höger hand på list, vänster hand på triangelknopp på lutande hyllan. Vägg på höger sida elim.}}
+<BR><CENTER>[[Bild:Förare vikmanshyttan, We are a long way from home copy.jpg]]</center><BR>
+{{problem|namn= 2. We are a long way from home|grad=6B+|betyg=2|text=Röd linje. Sittstart som "Till Rasmus" men från matchning på list, dyno upp höger med tillhörande urtoppning. Bara dyno med urtoppning ca 6a.}}
+
+{{problem|namn= 3. Bouba|grad=6C|betyg=2|text=Start i trefingerpocket i taket med vh samt hh i taksprickan.  Vidare ut via knälås mitt på taket med kant-kantlist samt låååång överkorsning med lättare campuserande avslut på juggar till vänster om "Till Rasmus".}}
+----
+
+<center><BR>
+[[Bild:Förare vikmanshyttan 6B-6C copy.jpg]]<br></center>
+<br>
+{{problem|namn= 4. The art of storytelling|grad=6C|betyg=3|text=Ljusblå linje. Den inre väggen under taket. Sittstart i hörnet med hög crimp för vänster samt lågt sidotag för höger. Ut längs väggen utan taksprickan urtoppning såsom Adverse (gult). Elva handflytt och elva fötter skulle jag tro.}}<BR>
+<center>[[Bild:Förare vikmanshyttan 6B-6C topout copy.jpg]]</center><BR>
+{{problem|namn= 5. Adverse|grad=6B|text=Röd linje.  Den inre väggen under taket, samma sträckning som "Art of...". Sittstart i hörnet med hög crimp för vänster samt lågt sidotag för höger. Ut via taksprickan och upp utan sprickan till vänster på övre väggen (gul markerad urtoppning).}}
+<br>
+<CENTER>Snett ovan vänster om taket finns denna lilla vägg med 2-3 problem. Samtliga slutar via hyllan.
+<BR><BR>
+[[Bild:Förare vikmanshyttan, vägg 1 men crimplister och Dyno projekt copy.jpg]]</CENTER><BR>
+
+
+{{problem|namn=7. Unnamed|grad=ca 4+|text=till vänster om bilden.  Hangla egg areten upp och avsluta via hyllan.}}
+
+{{problem|namn=8. Mermaids are sea sluts|grad=6A|text=Ljusblå linje. Sittstart med händerna på sneda grepp på flaket, sedan via vänster och toppa ur via hyllan.}}
+
+{{problem|namn=9. Dynamit|grad=oklar grad (6A-6C?)|text=ej gjord än, projekt, ros/röd linje.   Starta på utmärkta grepp såsom bild och dyna rakt upp till hyllan.}}
+<BR>
+
+=== B ===
+Ovan taket ligger det två mindre block. Det mindre bjuder på en morphig mantling.
+
+<BR><BR>
+<CENTER>[[Bild:Förare vikmanshyttan, Shortie 6A.jpg]]</CENTER><BR>
+{{problem|namn=1. Shortie|grad=soft 6A|text=Lila linje. Etableringsstart, höger hand på jugg till höger, vänster på ”juglist”, om du inte når så är du en shortie och får nöja dig med andra problem, inte mkt att göra liksom.}}
+
+
+<CENTER>[[Bild:B.jpg]]</CENTER>
+
+
+{{problem|namn=2. Projekt|grad=5|text=Prow spetsen till vänster om slabben.}}
+
+{{problem|namn=3. Dejame Vivir|grad=6A+|text=Gröna startgrepp sedan rakt upp, småsmå crimpar.}}
+
+{{problem|namn=4. Do It Again|grad=6A+|text=Lila linje. Start på arete till höger med vh på kass "pinch" grepp och höger på arete pinch, traversera över hela blocket och upp på slabbareten}}
+
+{{problem|namn=5. No Me Destruyas|grad=6A|text=Som lila linje men med avstickare i mitten. Start på arete som Do It Again och dra uppöver i mitten på blocket.}}
+
+
+=== C ===
+Travers som ligger straxt ovan dom oborstade slabbväggarna ovan ängen. Ack denna släta stenkvalité...
+<BR><BR>
+<CENTER>[[Bild:Förare vikmanshyttan, Evening chai, 6B.jpg]]</CENTER><BR>
+{{problem|namn=1. Evening Chai|grad=6B|text=Lila linje. Sittstart med händerna på jug till vänster, traversera höger till kant och toppa ur via densamma.}}
+
+== Projekt ==
+Alla är öppna, klättra för njutningen inte äran. Om ni klättrar något nytt, snälla fota och för in här så att vi kan hålla koll på vad som är ogjort.
+
+Finns projekt som löper genom taket men dessa är ogjorda och öppna för (väldigt) starka pilliga frivilliga. 
+Vidare är kortsidans travers under taket vidare in och avsluta i "Till Rasmus" eller "We are a long way..." ogjort, oklart om värt att göra.

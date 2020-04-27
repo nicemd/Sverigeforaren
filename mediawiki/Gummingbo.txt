@@ -1,0 +1,72 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub|extern=ja}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Alla leder är borrbultade. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Skriv vägbeskrivning här.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+{{led|namn=Avant garde|grad=7a}}
+{{led|namn=Art Deco|grad=6b}}
+{{led|namn= Älska till döds|grad=6b}}
+{{led|namn=Offspring|grad=6c}}
+{{led|namn=Skywalker|grad=6b}}
+{{led|namn=No hands to rest|grad=6c}}
+{{led|namn=Svett och mag|grad=6c}}
+{{led|namn=Mamma Beirut|grad=6b}}
+{{led|namn=Smurf power|grad=5b}}
+{{led|namn=Skamgrepp|grad=6b}}
+{{led|namn=Gummitarzan|grad=6c}}
+{{led|namn=No guts, no glory|grad=6c}}
+{{led|namn=Marionett|grad=6c}}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Östergötland]]
+
+==Nätförare==
+Linköping klätterklubbs hemsida: 
+http://linkopingsklatterklubb.se/index.php/forare.html
+{{tryckt förare|klättring i östergötland (2011)=ja}}

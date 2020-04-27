@@ -1,0 +1,17 @@
+{{info klippa
+  |lat=8.011084
+  |long=98.837557
+}}
+
+{{stub}}
+
+<googlemap lat="8.036114" lon="98.821507" zoom="4">
+8.011084, 98.837557, Railey
+</googlemap>
+
+[http://www.simonfoley.com/climbing/krabi.htm Climbing in Thailand - Krabi - Rayley Beach and Ton Sai]
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Utomlands]]
+[[Kategori:Thailand]]

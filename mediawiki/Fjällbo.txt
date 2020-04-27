@@ -1,0 +1,683 @@
+{{info klippa
+  |lat=57.74342671610039
+  |long=12.062945365905761
+}}
+
+{{utkast}}
+[[Kategori:3 stjärnor]]
+
+
+
+
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="57.74342671610039" lon="12.062945365905761" zoom="14" type="map">
+57.74342671610039,12.062945365905761,Fjällbo
+
+</googlemap>
+</div>
+
+
+
+
+
+
+== Allmänt ==
+Fjällbo är den del av Utbybergen i Göteborg som vätter mot E20. Ligger på lätt promenadavstånd till [[Utby]], [[Gärdsås]], [[Resilin]], mm. Klättring av all möjlig karaktär, men ofta av lite äventyrlig sort. Trad, utom Rabiesväggen som är en sportklippa.
+
+== Karaktär ==
+Ca 180 leder. Bitvis äventyrligt med möjlighet till turer med flera replängder eller utdragna enkelrepor. Fjällbo är på vissa ställen ganska hylligt, vilket gör att man ibland behöver pitcha sig upp för att komma åt godbitarna. <br>
+Områden som Koskenkorva, Hollywoodväggen och Skivblocket lämpar sig för topprep om man vill (tänk på att inte toppa direkt i firningsankarna, sätt egna karbiner för att undvika slitage), i övrigt krävs mestadels ledkunskaper. Glöm inte att ta med några 60-slingor.
+
+Att rekommendera är [[#Bananblocket, nedre del|Bananblocket]], [[#Hollywoodväggen|Hollywoodväggen]] och [[#Skivblocket|Skivblocket]] <br>
+Bultade turer lite här och var, men framför allt på [[#Rabiesväggen|Rabiesväggen]].
+
+[[bild:fjallbo_valkomstbild.jpg]]
+
+== Access ==
+{{accessDB|klippa=utby}}
+
+
+{{tryckt förare|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+==Översikt==
+
+[[Bild:Översiktfjällbo.png]]
+
+
+
+==Vänster om koskenkorva==
+{{problem|namn=Vårdhemslabben|grad=5-|text=Längs med vägen mellan fjällbo och utby, i stora korsningen rakt upp för det uppenbara hörnet|fa=}} 
+
+4 odefinierade leder som ingen? vet var de går...
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Kurdspåret|grad=5|typ=trad|fa=Patrik Alseby|längd=9}}
+
+{{led|namn=Ostronet|grad=6-|typ=trad|fa=Patrik Alseby|länd=9}}
+
+{{led|namn=Balans balans hjärnsubstans|grad=5+|typ=solo|längd=7|fa=Patrik Alseby}}
+
+{{led|namn=Ta din hund och dra|grad=6|typ=solo|längd=7|fa=Patrik Alseby}}
+
+
+En gissning är att de två sista lederna går från rampen/hyllan på väggen till höger om hörnet där man går upp till toppen på Koskenkorva. Det finns två "linjer" där, ca 2 meter ifrån varandra, som stämmer ungefär med beskrivningarna förutom att de nog är 5-6 meter istället för 7. Även graden stämmer ungefär och att dessa är 7m och de andra är 9m talar för att de är på denna hylla. I så fall borde Ostronet vara "linjen" som toppar ut precis vänster om hörnet. -- Rob 
+
+|}
+
+== Koskenkorva ==
+Fin klättring i 5:a-registret. För att sätta topprepp går det går att skrambla upp femtio meter vänster om Koskenkorva. 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Antabus|grad=5-|typ=trad|längd=8|text=Sprickan/diedret vänster om Koskenkorva-lederna. |fa=|ny=1}}
+
+{{led|nr=|namn=Skrumplever|grad=5-|betyg=1|längd=15|fa=[[Robert Andersson]], [[Lisa Fernell]], [[Andy Brasier]] 2009-09-13|bultar=|typ=trad|text=Diffus flaklinje på den vänstra delen av väggen. Startar ca 5 meter till vänster om Chivas Regal upp till ett tak, följ sedan flaken upp åt vänster till ett litet tak. Lite cruxig urtoppning som är lättare för längre personer. Mindre runouts på hyfsade säkringar gör den lite mer spännande än de övriga lederna. Osäker grad.}}
+
+{{led|namn=Chivas Regal|grad=5|betyg=1|längd=15|typ=trad|fa=[[Jan Pålsgård]]|text=Den vänstra tydliga sprickan, insteg kan göras i koskenkorva eller via en "groove" strax till vänster under sprickan.}}
+
+{{led|namn=Koskenkorva|grad=5|betyg=1|längd=15|typ=trad|fa=[[Jan Pålsgård]]|text=Den mittersta sprickan, går rakt upp igenom ett buskage strax innan toppen.}}
+
+{{led|namn=Drambuie|grad=5+|betyg=1|längd=15|typ=trad|fa=[[Jan Pålsgård]]|text=Tufft instegscrux följs av lätt hej och hå-klättring till toppen. Inslag av jam.}}
+
+{{led|namn=Gonzo|grad=5-|betyg=2|längd=20|typ=trad|fa=Anders Nyberg & Daniel Appelquist|text=Börja som Koskenkorva eller Drambuie och efter hyllan på mitten följ traverssprickan åt höger till Hathersages utsteg. Fin och lite känslig jamklättring. Välsäkrad, men man bör vara lite varsam med placeringarna. Framborstad av Robert Andersson, stulen utan vetskap av Anders Nyberg}}
+
+
+| width="250px" |
+
+{{led|namn=Hathersage|grad=6-|betyg=2|längd=15|typ=trad|fa=[[Petter Åsander & Per Larsson 2010-06-16]]|text=Den tydliga och inbjudande "hängande" areten mellan Drambuie och Analkonfekt. Klättra först en lätt vägg upp till gräshylla och sen en blöt (nästan jämt) spricka för att ta dig till en kort hangeltravers som leder till areten. Aningen seriös.}}
+
+{{led|namn=Analkonfekt|grad=5|betyg=2|längd=20|typ=trad|fa=|text=Liten takspricka en bra bit upp på väggen}}
+
+{{led|namn=Babytaket|grad=6|betyg=2|längd=20|typ=trad|fa=|text=Större takspricka snäppet brevid föregående}}
+
+{{led|namn=Babytaket direkt|grad=6|betyg=2|längd=20|typ=trad|fa=[[Andy Brasier]], [[Robert Andersson]] 2011-04-??|text=Istället för att toppa ur som Analkonfekt, följ sprickor och flak längs aréten efter taket. Faktiskt välsäkrat, håller graden och ger leden ett mer värdigt avslut}}
+
+{{led|namn=Till Linnéa|grad=4+|betyg=1|längd=30|typ=trad|fa=[[Andreas Eriksson]] [[2006|-06]]|text=Följer det tydliga diedret till höger om Babytaket. Lång och fin välsäkrad lätt led med svakaraktär. Följer den tydliga areten på sva till en hylla sedan brant rakt upp via sprickor mot stor tall på toppen.}}
+
+
+| width="250px" |
+
+{{led|namn=Aquatic Ape|grad=5|betyg=|längd=30|typ=trad|fa=[[Andy Brasier]], [[Lisa Fernell]], [[Robert Andersson]] [[2009|-09]]|text=Startar på samma ställe som Till Linnéa men viker av åt höger. Upp till en mindre hylla och uppför ett spricksystem mot ett träd men traversera ut åt vänster och gå upp mitt på väggen via lite suspekta flak till en större hylla, och upp i ett hörn till toppen. Lättare variant genom att undvika att gå ut på väggen och istället gå bakom trädet (4+).}}
+
+{{led|namn=En tappad liten blå.|ny=1 |grad=5+. |betyg=1 |längd 20 |fa=Oskar Ostwald och Kristian Sidron År 2012. |typ=trad|text= Säker klättring upp till ett ganska seriöst utsteg. Börja i diedret till höger om Aquatic Ape och klättra därefter lite höger för att komma ut på facet. Avslutas upp på gräshyllan.}}
+
+{{led|namn=Diskbråck|ny=1| grad=6-| betyg=1 |längd=12 |fa=Oskar Ostwald och Kristian Sidron. År 2012. |typ=trad|text= Fortsättning på En tappad liten blå med start från gräshyllan. Starta i den vertikala sprickan lite till höger om toppen på En tappad liten blå. Traversera sedan höger till juggen och avsluta på mestadels knoppar.}}
+
+{{led|namn=Projekt|grad=?|betyg=|längd=30|typ=mix|bultar=3|text=Rapporteras som fin klättring i 6-registret. Förmodligen något sparsamt och svårsäkrad. Har varit projekt sedan i alla fall 1996, men bultarna ser bra ut.}}
+
+{{led|namn=Piotrek|grad=6?|fa=[[Piotr Bober]]}}
+
+{{led|namn=Sans och balans|grad=5+?|typ=trad|fa=Weine Hallberg||text=Starta vid stora eken som en sva highball. Därefter helt okej säkrat med småkammar! Upp till "taksprickan" och upp till en stor hylla, stand, därefter följer du flaket till toppen. |betyg=3}}
+
+{{led|namn=Smala leden|grad=5+|typ=trad|fa=|längd=40}}
+
+|}
+
+== Ikaros ==
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Guldfinger|grad=6+|typ=trad|fa=[[Johan Svensson]]|text=Via tvärsprickor upp till toppen. Något seriös.}}
+
+{{led|namn=Vit ambivalens|grad=7+|typ=trad|betyg=3|fa=[[Hans-Christian Doseth]], [[Piotr Bober]]|text=Spricklinjen som börjar nästan ute på areten. Ett måste för den som behärskar graden}}
+
+{{led|namn=Cro magnon|grad=7b|typ=sport|fa=[[Henrik Sennelöv]], [[Ola Hillberg]]|text=Areten till höger om Vit ambivalens}}
+
+{{led|namn=Enhörningen|grad=7-|typ=trad|fa=[[Dag Kolsrud]], [[Jan Pålsgård]]|}}
+
+{{led|namn=Yo-yo-hörnet|grad=6?|typ=topprep|fa=|}}
+
+{{led|namn=Projekt|grad=?|längd=30|typ=trad|fa=|text=Går upp i en spricka till en svaplatta och upp i taket och ut på väggen via en horisontal spricka och uppför den blanka väggen till tunna flak och sprickor. Väldigt seriös och kanske omöjlig?}}
+
+| width="250px" |
+
+{{led|namn=Förbjuden frukt|grad=6?|typ=topprep|fa=}}
+
+{{led|namn=Katapulten|grad=6|betyg=3|längd=40|typ=trad|fa=[[Ulf Björnberg]], [[Susanne Rydfeldt]]|text=Lång, varierad och äventyrlig.}}
+
+{{led|namn=Antifeministen|grad=6+|typ=trad|fa=[[piotr Bober]], [[Bengt Sörvik]]}}
+
+{{led|namn=Lille slem|grad=7-|typ=trad|fa=[[Dag Kolsrud]], [[Piotr Bober]]}}
+
+{{led|namn=Himmelsbjerget|grad=5|typ=trad|fa=}}
+
+{{led|namn=Gravitationskallops|grad=7-|typ=trad|fa=[[Jan Pålsgård]]|text=Takproblem}}
+
+
+{{led|namn=Pelle Sanslös|grad=6-|typ=trad|fa=[[Ulf Björnberg]]|text=ganska brant klättring på flak, äventyrlig}}
+
+| width="250px" |
+
+{{led|namn=Cassiopeia|grad=7c|typ=sport|fa=[[Henrik Sennelöv]]}}
+
+{{led|namn=Sunjata Keita|grad=8b|typ=sport|fa=[[Said Belhaj]] (2005), [[Johan Nilsson]], [[Dag Lövenwald]]}}
+
+{{led|namn=One move of sex|grad=6|typ=trad|fa=[[Ulf Björnberg]]|text=Äventyr}}
+
+{{led|namn=Ikaros|grad=7+|betyg=3|typ=sport|fa=[[Lars Ingemansson]], [[Henrik Sennelöv]]}}
+
+{{led|namn=Smärta|grad=8-|typ=trad|fa=[[Rikard Ekehed]]}}
+
+{{led|namn=Hörnet|grad=5|typ=trad|fa=[[Lars Ingemansson]], [[Arne roos]]}}
+
+{{led|namn=Doktor Pipper|grad=7+|typ=trad|fa=[[Rickard Hedman]], [[Piotr Bober]]|text=Fin överhängande fingerspricka som börjar bakom ett träd, ofta blöt.}}
+
+{{led|namn=Vira Blåtira|grad=6-|typ=trad|fa=[[Lars Ingemansson]], [[Hans Wingdén]]}}
+
+|}
+
+== Hollywoodväggen ==
+En fin vägg som ligger lite skuggigt bakom träd. 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Beverly hills|grad=7-|betyg=|längd=15|typ=mix|fa=[[Nils Sjöström]], [[Lars Ingemansson]]|text=En väggtur längst till vänster på väggen som börjar i en spricka genom ett litet tak strax till höger om en stor sten.}}
+
+{{led|namn=Disney|grad=8-|typ=trad|fa=Henrik Sennelöv}}
+
+{{led|namn=Tjille ving|grad=7-|betyg=2|längd=15|typ=mix|fa=Dag Kolsrud|text=Delikat och tekniskt. Lätt att göra bort sig.}}
+
+{{led|namn=I made this|grad=8-|betyg=|längd=15|typ=trad|fa=[[Henrik Sennelöv]]|text=En seriös vägghistoria som går upp till Hollywoods ankare.}}
+
+| width="250px" |
+
+{{led|namn=Hollywood|grad=7-|betyg=3|längd=15|typ=trad|fa=[[Hans-Chrisitan Doseth]]|text=Fin vänsterlutande spricklinje med stor variation. Välsäkrad}}
+
+{{led|namn=Corn flakes|grad=6+|betyg=|längd=15|typ=trad|fa=[[Johan Nilsson]]|text=Viker från hollywood där sprickan börjar och sneddar ut till bob hopps ankare}}
+
+{{led|namn=Bob Hopp|grad=6+|betyg=3|längd=15|typ=mix|fa=[[Rickard Hedman]], [[Piotr Bober]]|text=Populär led.}}
+{{led|namn=Kapten Krok|grad=?|fa=Johan Luhr & Rikard Hedman}}
+
+{{led|namn=Rosa på bete|grad=5+|betyg=|längd=15|typ=trad|fa=[[Ulf Björnberg]]|text=Kort sva i början och sen upp i dieder. Ankare finns på toppen.}}
+
+{{led|namn=Sabeldans|grad=7|betyg=|längd=15|typ=mix|fa=[[Piotr Bober]]|text=}}
+
+| width="250px" |
+
+{{led|namn=Doktor Funkenstein|fa=[[Bogi Palfay]], [[Jan Pålsgård]]|grad=7-|typ=mix|längd=15|betyg=|text=Dubbelsprickor i övre delen}}
+
+{{led|namn=Trilogy|grad=7|betyg=|längd=15|typ=mix|fa=[[Johan Luhr]], [[Henrik Sennelöv]]|text=}}
+
+{{led|namn=Professor kalkyl|grad=7|betyg=|typ=trad|längd=15|fa=[[Robert Casperssen]], [[Johan Nilsson]]|text=}}
+
+{{led|namn=Paraden|grad=6-?|betyg=2|längd=60|typ=trad|fa=[[Robert Andersson]], [[Andy Brasier]] (2010-07-09)|text=En läng led till höger om Hollywoodväggen som bjuder på fin, kul och lite annorlunda klättring upp till toppen av Fjällbo.}}
+
+{{led|namn=Spriten rädda mig ifrån sporten|grad=5-|längd=35|typ=trad|fa=[[Rikard Andreasson]], [[Jonas Nilsson]]|text=}}
+
+|}
+
+== Slowfox ==
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Björn Borgs träracket|grad=6+|betyg=|typ=trad|längd=20|fa=[[Rick McGregor]], [[Ola Hillberg]]|text=Stort dieder till vänster om toblerone}}
+
+{{led|namn=Toblerone|grad=6+|betyg=3|längd=35|typ=mix|fa=|text=Lång knopptur längs areten, för den som klarar handsvetten.}}
+
+| width="250px" |
+
+{{led|namn=Ritter sport|grad=5|typ=trad|längd=15|fa=[[Per Fernqvist]]|text=}}
+
+{{led|namn=Slowfox|grad=5+|betyg=3|längd=60|typ=trad|fa=|text=Flerrepors äventyr med inslag av travers. Många varianter}}
+
+| width="250px" |
+
+{{led|namn=Excelsior|grad=6+|längd=40|typ=trad|fa=[[Weine Hallberg]], [[Jan Machek]] (2006-09-09)|text=En lång sprickled som letar sig upp till höger om slowfox, mer info på egen sida.}}
+
+
+{{led|namn=Teknikmagasinet|grad=A2(+)/T4/DFU|längd=12|typ=aid|fa=[[Michel Blomgren]] (2008-01-??)|text=Aidlinje mellan slowfoxs två utstegsvarianter, mer info på egen sida.}}
+
+|}
+
+== Sahara ==
+Trad i hårdare grader. Ovanför Rabiesväggen
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Närke-eggen|grad=7|betyg=|typ=mix|längd=20|fa=[[Johan Svensson]]|text=}}
+
+{{led|namn=Samsara|grad=8-|betyg=|typ=trad|längd=15|fa=[[Hans-Christian Doseth]]|text=}}
+
+{{led|namn=Kila vidare|grad=6+|betyg=|typ=trad|längd=15|fa=[[Jan Pålsgård]], [[Piotr Bober]], [[Rolf Reeder]]|text=}}
+
+| width="250px" |
+
+{{led|namn=Gullebrand|grad=7+|betyg=|typ=trad|längd=20|fa=[[Hans-Christian Doseth]], [[Piotr Bober]]|text=}}
+
+{{led|namn=Sahara|grad=7|betyg=|typ=trad|längd=20|fa=[[Hans-Christian Doseth]], [[Rickard Hedman]]|text=}}
+
+{{led|namn=Ragnarök|grad=8-|betyg=|typ=trad|längd=20|fa=[[Rickard Ekehed]]|text=}}
+
+|}
+
+== Rabiesväggen ==
+För ovanlighetens skull i Utby: sportturer i 6a+ till 7b+. Firningsankare.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Cherokee|grad=7b|fa=Henrik Sennelöv & Lars Ingemansson}}
+{{led|namn=Lapin kulta|grad=6c/6c+|typ=sport|fa=}}
+
+{{led|namn=Rabies|grad=6c+/7a|typ=sport|fa=}}
+
+{{led|namn=Rabiat|grad=7b+|typ=sport|fa=}}
+
+{{led|namn=Dynamo|grad=7a/7a+|typ=sport|fa=}}
+
+| width="250px" |
+
+{{led|namn=Z-leden|typ=trad|grad=5-|längd=50|fa=}}
+
+{{led|namn=Åke Ljungbergs led|grad=7a+|längd=20|typ=sport|fa=Mathias Carlson 1999, [[Åke Ljungberg]] [[2008|-08]] (trad)|text=Går upp i ett dieder till en lite svaplatta och ett nytt dieder, och går sedan ut mot och längs vänsterkanten av väggen. Mycket fin led med en del ovanliga grepp. Har letts traditionellt, med skyhooks, och då kallad "Hooka Sky". Se [[Diskussion:Fj%C3%A4llbo|Diskussion]] om namnet.}}
+
+| width="250px" |
+
+{{led|namn=Stålmannen|grad=7b/7b+|längd=20|typ=sport|fa=}}
+
+{{led|namn=Batman|längd=20|grad=7b+|typ=sport|fa=}}
+
+{{led|namn=Stopplikt|grad=6a+|längd=15|typ=sport|fa=}}
+{{led|namn=U-sväng|grad=7b+|text=Fortsättning på Stopplikt|fa=}}
+{{led|namn=Hästudden|grad=6b|längd=15|typ=sport|fa=}}
+
+|}
+
+== Kenneths led ==
+Lederna från Bohemia och högerut startar på hyllan ovanför "halvkaminen". Klättra upp från blockets högra sida. Mellan denna hylla och Rabiesväggen ligger en hel drös äventyrliga, längre turer.
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Mowitz|grad=7|typ=trad|längd=20|fa=[[Nils Gustafsson]]}}
+
+{{led|namn=E-tur|grad=8-/8|längd=20|typ=trad|fa=[[Andreas Åberg]] (2007?)|text=Till höger om Mowitz. Markfallspotential från 15 m (därav namnet kanske?). (OBS! Misstänker att detta är felrapporterat och är fortfarande ett projekt, och då inte Andreas. Projektet ligger till höger om Fredman och är möjligen numer öppet --Rob)}}
+
+{{led|namn=Fredman|grad=5+|betyg=1|längs=20|typ=trad|fa=[[Jenny Förander]]|text=Spricka rakt upp, via travers upp till ett stort träd. Alternativt utsteg är att fortsätta klättra rakt upp, och klättra på gräset (brant och osäkrat) till trädet}}
+
+{{led|namn=Grooven|grad=5|betyg=1|typ=trad|längd=40|fa=|text=Äventyrsled. Kaminklättring och route finding. }}
+
+{{led|namn=Dessertören|grad=6+|betyg=1|typ=trad|längd=35|fa=[[Dag Kolsrud]], [[Bogi Palfay]], [[Piotr Bober]]|text=På väggasvsnittet till höger om grooven går en tydlig överhängande spricka som bjuder på fin klättring, efter denna blir det lite äventyr upp till toppen.}}
+
+{{led|namn=?|grad=6+|typ=mix|text=Till höger om dessertörens urtoppning ligger en krystad bultad utstegsvariant. förändrar inte graden, bara upplevelsen...|fa=}}
+
+{{led|namn=Lucy|grad=5+|fa=Charles French och Anette Kinde|typ=trad|längd=25|text=}}
+
+{{led|namn=Rödtröjan|grad=5-|typ=trad|längd=50|fa=|text=Ett stort dieder med bred spricka som börjar en bra bit upp efter en massa brötiga hyllor.}}
+
+{{led|namn=Ulf och Susannes led|betyg=3|grad=4+|längd=40|typ=trad|fa=[[Ulf Björnberg]], [[Susanne Rydfeldt]]|text=Leden börjar i ett hörn med två pararella sprickor upp till en björk. Ifrån björken skall du klättra på vänster vägg upp till en kamin/hål/grotta (stand). När du har gått igenom grottan är det rakt upp!}}
+
+{{led|namn=Fyren|grad=6-|typ=trad|längd=50|fa=[[Anton Malak]], [[Thomas Machek]]|text=}}
+
+{{led|namn=Vårvrål|grad=6-|typ=trad|längd=50|fa=[[Anton Malak]]|text=}}
+
+{{led|namn=Insane Passion|grad=6-|typ=trad|längd=50|fa=[[Jan Machek]]|text=}}
+
+{{led|namn=Spagetti|grad=6|typ=trad|längd=8|fa=[[Sem Larsson]], [[Susanne Rydfeldt]]|text=}}
+
+| width="250px" |
+
+{{led|namn=Köttfärs|grad=6|typ=trad|längd=8|fa=[[Susanne Rydfeldt]], [[Sem Larsson]]|text=}}
+
+{{led|namn=Zeke|grad=6-|längd=20|typ=trad|fa=|text=Zeke startar på den stora hyllan där Sodom slutar. I vänsterkant på hyllan följ spricka upp till björk, byt spricka och klättra till ett litet tak, följ diedret upp.}}
+
+{{led|namn=Kronjuvelerna|grad=6-|fa=Strömhäll & Hillström|typ=trad|text=Startar i sprickan höger om Zeke och går efter sprickan ut åt vänster på areten. Bättre snyggare och vackrare än Zeke|betyg=2}}
+
+{{led|namn=Spider tony|grad=6-|längd=12|typ=trad|fa=[[Jan Machek]]|text=Startar vid överhänget vänster om starten på Sodom}}
+
+{{led|namn=Sodom|grad=5|längd=15|typ=trad|betyg=2|fa=[[Lars Ingemansson]], [[Johan Nilsson]]|text=Först upp via den vänsterlutande fingersprickan till en hylla. Dra dig upp till nästa hylla till en perfekt handjamspricka.}}
+
+{{led|namn=Saar vi! Gör vi!|grad=A3(+)|längd=12|typ=aid|fa=[[Per Gunnarson]] (2005?)|text=På det stora blocket nedanför Kenneths led. Starta på en hylla 1/2 m ovanför marken på väggen till vänster om kaminingången in mot Kenneths leds hylla. Börja med den överhängande hand- och fistjamsprickan upp till hyllan. Sedan en eller ett par meter till höger och ut runt om läppen och upp i den tunna sprickan. Följ sedan sprickan rakt till toppen av blocket. En mycket rolig aidtur med intressanta placeringar. Fin "head groove" i slutet. Ta med dig Rurp's, heads och det vanliga.}}
+
+{{led|namn=Kenneths snedsteg|grad=6-|längd=40|typ=trad|fa=[[Petter Åsander]], [[Nils Bäckman]] 2011|text=En lång, sned spricklinje som börjar strax till vänster om sodom, och korsar Bohemia och Kenneths led. Avslutas i ett träd ovanför bluetracks dieder, eller med fördel upp i Bluetrack (eller någon annan led på väggen...). En äventyrlig led, inga stjärnor direkt... möjligen ledd tidigare.}}
+
+{{led|namn=Antons led|grad=5|betyg=0|längd=20|typ=trad|fa=|text=Travers nedåt vänster från Kenneths-hyllan, runt areten och upp i diedret. Avsluta med sprickan på den knoppiga och laviga högerväggen. Något svårsäkrad. Den avslutande sprickan blir också en bra länk mellan Sodom och Gomorra, dvs ett fint trerepors äventyr.}}
+
+{{led|namn=Bohemia|grad=6-|betyg=1|längd=20|typ=mix|fa=[[Lars Ingemansson]]|text=Vägg- och sprickklättring som startar på hyllan en meter ner, längst till vänster ifrån hyllan på Kennets led, kort travers utåt till ett exponerat utsteg och sedan rakt upp. 1bb|bultar=1}}
+
+| width="250px" |
+
+{{led|namn=Beatnik|grad=6-|längd=20|typ=mix|fa=|text=Startar till vänster om Kenneths, knoppklättring. 2bb|bultar=2}}
+
+{{led|namn=Kenneths led|grad=5|betyg=2|längd=20|typ=trad|fa=|text=Klassisk led i spricksystem, björk växer mitt på leden.}}
+
+{{led|namn=Blue Track|grad=6|längd=25|typ=trad|fa=|text=Startar i diedret till höger om Kenneths. Tunn väggklättring i utsteget. }}
+
+{{led|namn=En lättnadens suck|grad=6|ängd=|typ=trad|fa=Ronny Ek & Petter Åsander 2009|text=Startar precis i högerkanten av anmarschkaminen till kennets led. En inbjuden ganska bred formation en bit upp som påminner lite om Boa-constrictor/pyton visar vägen. Standplats på en hylla i ett litet hörn efter den tydliga formationen. Från stand gå upp och snett åt vänster ut på ett slabb, samla mod och sikta mot en bred spricka i en båge. sedan rakt upp. Ledens namn uppnås när du får in den första bra säkringen efter slabbet.}}
+
+{{led|namn=Nervtrassel|grad=5|fa=Hans Wingdén}} 
+{{led|namn=Ve och fasa|grad=5|längd=20|typ=trad|fa=|text=}}
+
+{{led|namn=Nemo|grad=5+|längd=20|typ=trad|fa=|text=}}
+
+Ovanför Kennets led finns följande två leder:
+
+{{led|namn=Invariant|grad=5+|längd=20|typ=trad|fa=|text=Leden går några meter vänster om Gomorra|betyg=2|fa=Thomas Rydfeldt & Lars Ingemansson}}
+
+{{led|namn=Gomorra|betyg=2|typ=trad|grad=5-|fa=Johan Nilsson & Lars Ingemansson|text=Startar i hörnet, har ett utmärkt firningsankare}}
+
+|}
+
+== Bananblocket, nedre del ==
+'''Hitta hit:''' Från parkeringen på Kanngjutargatan följ stigen uppför backen. Där stigen viker av neråt vänster sneddar du in åt höger och ser snart den uppenbara laybacksprickan Oles Crack. En hög med stora boulderblock ligger dock i vägen, det kan vara lite svårt att hitta en väg in till instegen.
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=|namn=Runt hörnet|grad=5||typ=trad|längd=25|fa=|text=Går upp till Ulf Björnbergs led}}
+
+{{led|namn=Anorexia|grad=7|typ=trad|längd=15|fa=[[Dag Kolsrud]]|text=Brant och välsäkrad klättring några meter till vänster om Oles}}
+
+{{led|namn=Drutten|grad=6+|typ=trad|längd=20|fa=[[Ulf Björnberg]], [[Susanne Rydfeldt]]|text=}}
+
+{{led|namn=Devo|grad=6|tyå=trad|längd=15|typ=trad|fa=[[Dag Kolsrud]]|text=}}
+
+{{led|namn=Oles crack|grad=5+|typ=trad|betyg=3|fa=|text=Uppenbar spricka som laybackas eller jammas upp till taket, där man gör kort travers och mantling. Välsäkrad men lite tung för graden.}}
+
+| width="250px" |
+
+{{led|namn=Robins crack|grad=5+|typ=trad|längd=15|fa=[[Robin Barley]], [[Thomas Rydfeldt]] & [[Lars Ingemansson]]|text=Varierande klättring upp till insteget på Bananblocket. Start i en tydlig spricka bakom ett träd, strax vänster om ett tydligt dieder.|betyg=2}}
+
+{{led|namn=Lato|grad=6-|typ=trad|längd=15|betyg=2|fa=[[Thomas Rydfeldt]] & [[Lars Ingemansson]]|text=Startar som Robins crack men går rakt upp längs med sprickan mot björken istället för diedret}}
+
+{{led|namn=Fallos|grad=6-|typ=trad|längd=15|fa=|text=Handjamklättring i diedret höger om Robins crack följt av en mantling, därefter lätt till toppen. Helt okej}}
+
+{{led|namn=Sir Lancelot|grad=5|typ=trad|längd=10|text=Den svaiga dubbelsprickan 4 meter höger om Fallos, upp till ett par gräsiga hyllor till ett träd. Svårare än den ser ut med överraskande sekvenser|fa=2012-03-03}}
+
+
+|}
+
+== Bananblocket övre del ==
+Fina leder i 6-registret, mycket jam och knoppar.
+
+'''Hitta hit:''' Från parkeringen på Kanngjutargatan följ stigen upp i backen och sväng höger in i skogen där stigen viker av vänster. Passera några stora boulderblock och vik av vänster in mot väggen direkt efter dessa. Härifrån kan man antingen leta sig upp på hyllan direkt under Lille petter spilleman, eller leta sig fram till Oles eller robins crack och klättra någon av lederna där.
+
+
+[[Bild:Bananblocketv.png|600px]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Matrix|grad=5}}
+{{led|namn=Spader madame|grad=7-}}
+{{led|namn=Rolf Reeders led|grad=7-}}
+{{led|nr=1|namn=Ulf Björnbergs led|grad=6+|typ=trad|text=Hette tidigare Svart magi|fa=Ulf Björnberg|betyg=4}}
+{{led|namn=Krokodilen|fa=|grad=6}}
+
+{{led|fa=|namn=Jordiga sprickan|grad=5|text=Okej klättring om du tycker om smuts i handjam-sprickan vänster om tunnsprickan upp till tallen.}}
+{{led|betyg=1|nr=2|namn=Tunnsprickan|grad=5|typ=trad|text=Fin spricka som går upp till den stora tallen, ganska krävande för en "femmaklättrare" Utstegsvarianter finns, längst till vänster på hyllan 4, vänstra diedret 5, högra diedret 6, rakt upp (undviker hyllan) 6|fa=}}
+
+{{led|nr=3|namn=Bananblocket|grad=6-|betyg=3|längd=20|typ=trad|fa=|text=Vacker linje som lätt känns igen pga ett bananformat block som jammats fast i nedre delen av sprickan}}
+
+| width="250px" |
+
+{{led|nr=4|namn=Stopper|grad=6|betyg=4|längd=15|typ=trad|fa=|text=Elegant Jamspricka.}}
+
+{{led|nr=5|namn=Stepper|grad=6+|betyg=3|längd=20|typ=trad|fa=|text=Samma start som stopper, men traverserar sen över i högra sprickan. Pumpigt Jammande, välsäkrad.}}
+
+{{led|nr=6|namn=Svarta diedret|grad=5|betyg=2|typ=trad|text=Samma start som stepper stopper men traversera ut åt höger, bjuder på run out, sva, överhäng, välsäkrat. Mer kan man inte begära av en femma.|fa=}}
+
+{{led|nr=7|namn=Lille petter spilleman|grad=7-|typ=trad|längd=15|betyg=2|fa=[[Hans-Christian Doseth]]|text=En tunn bågspricka som splittar väggen till höger om svarta diedret. Ok säkrad}}
+{{led|namn=Mysterier|fa=topprep|grad=7-}}
+|}
+
+==Bananblocket, höger==
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Mot dag|grad=7+}}
+
+{{led|namn=Feta morgan|grad=7+}}
+
+{{led|namn=Vilse i källaren|grad=7|text=Leden går upp till insteget på Borta med vinden|fa=Piotr Bober}}
+För att komma till följande leder får du skrambla upp lite, från vänster till höger: 
+
+{{led|namn=Borta med vinden|grad=5|typ=trad|fa=|text=Startar längst ut till vänster på den smala hyllan.|betyg=3 }}
+
+| width="250px" |
+
+{{led|namn=Lilla Hörnet|grad=4-|text=Det supersnygga diedret/sprickan|fa=|betyg=1}}
+
+{{led|namn=Skitfågel|grad=7|text=Ute på Areten|fa=Johan Nilsson}}
+
+{{led|namn=Fjällbos fingerspricka|grad=6|text=Den första sprickan efter areten, klassiker!|fa=Ulf Björnberg|betyg=1}}
+
+{{led|namn=Laybackhörnet|text=Hörnet|grad=5+|fa=}}
+
+{{led|namn=Bondage|grad=5+}}
+
+|}
+
+== Bananblocket höger, nedre del ==
+Nytt område som hittas nedanför Klyftan, Mot dag och de lederna. 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=1|namn=Café Stålborsten|grad=4+|text=Aréten längst till vänster i detta område|höjd=8m|fa=|längd=8}}
+
+{{led|nr=2|namn=Kaffekilen|grad=5|typ=trad|text=Den flarade sprickan fem meter till höger om Café Stålborsten, ganska kul klättring.|fa=2012-03-03|längd=8}}
+
+{{led|nr=3|namn=Kanelkam|fa=2012-03-03|grad=5-|text=Leden är ganska lös, så det gäller att se upp med var man sätter sina säkringar.|längd=7}}
+
+| width="250px" |
+
+{{led|nr=4|namn=Kardemummasele|fa=2012-03-11|grad=5+|text=Lätt klättring längs med horisentella sprickor upp till ett lite brantare parti, in i ett minidieder. |längd=8|betyg=1}}
+
+{{led|nr=5|fa=Jonas Lyckegård, John Liungman & Thomas Kihlberg|typ=trad|text=Scrambla upp till det branta, klättra vänstra taksprickan. Ifrån hyllan följer man spricksystemet rakt upp mot enen ungefär. En blivande klassiker?|betyg=1|grad=5+|namn=Säkringsapan|ny=1|längd=20}}
+
+
+{{led|namn=Vilket avslut!|grad=5-|text=Spricka/formation 2 meter vänster om Joannas led (a.k.a. Fingerspricka nr3) upp mot ett block och förbi|fa=|ny=1|nr=7}}
+
+{{led|nr=8|namn=Fingerspricka nr3|grad=5|höjd=15m|fa=[[Joanna Åsander]] & [[Rick McGregor]] 23/3 2012|typ=trad|text=En fin fingerspricka som bjuder på klassisk utbyklättring i stil med mirceas och fjällbos fingerspricka. Leden hittas mitt emellan cafe stålborsten och gunnars skräck, ett tiotal höjdmeter upp i slänten. Toppar ut precis vid bondage, vilken man med fördel kan klättra som urtoppning.|betyg=2}}
+
+{{led|namn=Djungelvrål|grad=5-|höjd=8|fa=Jonas Lyckegård och Thomas Kihlberg|text=Sprickan 2 meter till vänster om Zoo-apan, ingen klassiker, men kul att göra|ny=1}}
+
+{{led|namn=Zoo-apan|grad=5|höjd=10|fa=Jonas Lyckegård |typ=trad|betyg=1|text=Dieder/arete, hittas 30 meter vänster om Sjuksköterskearmén. }}
+
+|}
+
+== Skivblocket ==
+Klättring på och mittemot det vassa höga blocket som kalvat från huvudväggen. På själva skivblocket finns firningsankare. Ovanför Caligula och Nero likaså.
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Sjuksköterskearmén|grad=6-|längd=10|typ=trad|fa=[[Per Larsson]] (2005?)|text=Den svaga aréten till vänster om Gunnars skräck. Startar strax till vänster om aréten och därefter höger och upp via tvärsprickorna (små säkringar)}}
+
+{{led|namn=Gritslabben|fa=Petter Åsander|längd=10|grad=5+|typ=trad|text=Slabben mitt emellan sjuksköterskearmen och Gunnars skräck. Fin klättring för den som vill ge sig hän}} 
+
+{{led|namn=Gunnars skräck|grad=5/5+|betyg=1|längd=20|typ=trad|fa=|text=Sva i ett dieder upp till en platå med ett bultat ankare. Lite tyngre och svårare klättring på 2:a replängden.}}
+
+{{led|namn=Kanten|grad=6|betyg=2|längd=20|typ=mix|fa=|text=Varierad och brant.}}
+
+{{led|namn=Nosferatu|grad=7-|betyg=2|längd=10|typ=mix|fa=|text=Går på facet av skivblocket. Ankare med 2 bultar finns ovanpå blocket.}}
+
+{{led|namn=Ajax|fa=Henrik Sennelöv & Lars Ingemansson|grad=7b|text=Väggen höger om Nosferatu}}
+
+{{led|namn=Sillstryparen|grad=5+|typ=trad}}
+
+{{led|namn=Supernova|grad=7+|betyg=3|längd=15|typ=sport|fa=|text=Den tydliga areten.}}
+
+{{led|namn=Casanova|grad=7b}}
+
+{{led|namn=Bantaren|grad=5+|text=välsäkrad klättring inne i kaminen|betyg=2|fa=}}
+
+| width="250px" |
+
+{{led|namn=Gladiatorn|grad=6b|betyg=3|längd=15|typ=sport|fa=|text=Dieder och väggklättring.}}
+
+{{led|namn=Skivblocket|grad=5|typ=mix|text=Lättaste vägen upp på skivblocket. Finns en toppbok på toppen|fa=}}
+
+{{led|namn=Quo Vadis|grad=6|typ=mix|text=Startar lite höger om gladiatorn. Små säkringar underlättar ;|fa=Lars Ingemansson & Piotr Bober)}}
+
+{{led|namn=Nero|grad=6-|betyg=2|längd=12|typ=mix|bultar=1|fa=|text=Spricka.}}
+
+{{led|namn=Caligula|grad=6-|betyg=2|längd=12|typ=trad|fa=|text=Dieder.}}
+
+{{led|namn=Imperatorn|grad=7c|typ=bult|fa=Henrik Sennelöv & Johan Nilsson}}
+
+Följande leder hittas ovanför Caligua och Nero:
+{{led|namn=Bob sportig|grad=6|längd=10|typ=trad|fa=[[Jimmy Pettersson]] (2004)|text=Går ca 15 m till vänster om insteget på Limus. Fin och lite spännande klättring på lister. Säkring i tvärsprickor med run-out på slutet}}
+
+| width="250px" |
+{{led|namn=Limus bror Linus|fa=|grad=3+|text=Samma start som Limus men rakt upp}}
+{{led|namn=Limus|grad=5|fa=|text=Upp tre meter i klockrena handjam och traversera höger i en välsäkrad rolig  spricka, och sedan spricka rakt upp i fin klättring. Direktinsteg finns också (Svårare)|betyg=1}}
+
+{{led|namn=Limus Direkt|grad=7+?|fa=projekt?}}
+
+
+
+
+|}
+
+== Rampen ==
+Backa ut ifrån skivblocket och du hittar ett firningsankare som tar dig ner till hyllan, alternativt frisola (ca grad 4) upp till hyllan. Alla ledernas namn står med målarfärg vid insteget! 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Merkurius|grad=6c+|typ=sport}}
+
+{{led|namn=Venus|grad=6a+|typ=sport}}
+
+{{led|namn=Tellus|grad=5c|typ=sport}}
+
+| width="250px" |
+
+{{led|namn=Mars|grad=7a+|typ=sport}}
+
+{{led|namn=Jupiter|grad=7-|typ=mix}}
+
+{{led|namn=Saturnus|grad=7b|typ=sport}}
+
+| width="250px" |
+
+{{led|namn=Legolas|grad=6|typ=trad}}
+
+{{led|namn=Neptunus|grad=6b+|typ=sport}}
+
+{{led|namn=Pluto|grad=6c|typ=sport}}
+
+|}
+
+== Supertaket ==
+Tätaste området med aid-leder? 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Pegasus|grad=7-}}
+
+{{led|namn=Nålsögat|grad=5+}}
+
+{{led|namn=Träsmak|grad=A2/T3|längd=10|typ=aid|fa=[[Michel Blomgren]] (2008-01-04)||text=Går mellan Nålsögat och Mammas Nya Kille. Insteg via en head-spricka upp till en delvis rutten horisontell spricka. Följ sedan den högra och lite bredare sprickan snett upp till höger till utsteget. Följande prylar användes: 2st 5-6mm aluheads, 1 Bugaboo #3, 1 Lost Arrow #1, 1 Angle #2, 1 kilset inkl små stål-/kopparkilar samt kamsäkringar för 1cm till 5cm sprickor (dubbelt av de minsta rekommenderas).}}
+
+{{led|namn=Mammas nya kille|grad=7+}}
+
+{{led|namn=Vykortet|grad=C2|längd=20|typ=aid|fa=[[Andreas Eriksson]] (2008-03-30, repsolo)|text=Startar i ett litet hörn någon meter till vänster om Frimärkets insteg. Efter hörnet görs en travers åt höger till det stora hörnet som utgår från vänsterkanten på Frimärkets tak. Upp i detta och vidare rakt upp via sprickor till toppen. Mestadels mindre kilar några halvkassa i småkluriga placeringar, kamsäkringar samt en cam hook (som användes för att göra den clean).}}
+
+| width="250px" |
+
+{{led|namn=Frimärket|grad=A3+|typ=aid}}
+
+{{led|namn=Supertaket|grad=7-|text=Sprickan som klyver taket, tidigare grad A2+. Efter taket ganska dålig klippkvalité. |fa=Magnus Strömhäll}}
+
+{{led|namn=Gumminacken / Pippi Pelikan|grad=8b|längd=20?|typ=sport|fa=[[Said Belhaj]] (2007-08-21)|text=Hyfsat spektakulär med dubbla fotlås. Sammanlagt 12 hårda move. }}
+
+{{led|namn=Trappan|grad=5b+|fa=Jens Larssen|text=Leden går på längst till vänster på väggen efter Pippi Pelikan, upp till ankaret. }}
+
+{{led|namn=Start|grad=6c}}
+
+| width="250px" |
+
+{{led|namn=Smala vägen|grad=5+|fa=|text=Längst in i hörnet. }}
+
+{{led|namn=Pinnakeln|grad=6b+}}
+
+{{led|namn=Pastis 51|grad=5|längd=15|typ=trad|fa=[[Kjell Zackrisson]], [[Weine Hallberg]] (2003-03-31)|text=Leden är på väggen till höger om Smala vägen vid Supertaket och följer spricksystemet som går något till vänster om Alfa Centauri. Samma insteg och utsteg som den senare. Det går att använda bulten vid insteget. Man bör undvika att säkra i blocket 4 meter under utsteget. Namnet kommer från förstebestigarens ålder.}}
+
+{{led|namn=Alfa Centauri|grad=6a|längd=20?|typ=sport|fa=[[Jens Larssen]] (1998)?|text=Går längs med Areten. Klätterbar på höger och vänster sida. Läskigt bultad. }}
+
+|}
+
+== Glömda väggen ==
+En liten sportvägg med turer från 6a och uppåt. Lederna är inte roliga, men tekniska, jämna och trevliga. Ligger en våning ner från Skivblocket, ligger vid Kanngjutaregatan. Barn- och barnvagnsvänligt.
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Birdie|grad=6c}}
+
+{{led|namn=Eagle|grad=7b+}}
+
+{{led|namn=Albatross|grad=7b+}}
+
+| width="250px" |
+
+{{led|namn=Hole in one|grad=7a+}}
+
+{{led|namn=Par|grad=6c}}
+
+{{led|namn=Boogie|grad=6a}}
+
+|}
+
+= Isklättring =
+Kalla vintrar uppstår det några fina isar att klättra på. Höger om Hollywoodväggen kan det uppstå mer eller mindre feta isar som går att bestiga i varierande svårighetsgrad. Det går också att klättra till bergets topp via hyllsystem. De sista 10m, som ibland går i ett dieder, är faktiskt mycket fina. Här finns goda möjligheter att toppa. 
+
+Sommarleden Smala leden sv5+ fryser ibland till hyggligt. Den har ett tunnt svaigt insteg som vanligen är osäkrat, kan undvikas genom att scrambla sig upp från höger. Sen är själva islinjen 15-20m, smalnar av och brantar till sig betänkligt på slutet, säkras med skruv och/eller klippsäkringar. 
+
+Leden som heter Grooven på sommaren kan ibland bilda en brant och lång ispelare. Denna leds med inslag av klippsäkringar vid tunn is, men kan ibland ledas på skruv. Undvik gärna att toppa - spara den till ett lead-försök istället!
+De båda närliggande diederformationerna intill Grooven kan också få hyfsad is.
+
+Leden till vänster om Trotskys (Grooven) är Larssons ränna. Den har en brant och lite bökig start, sen ut till vänster på tunnt sva, originalinsteg till vänster alternativt insteg till höger. Leden blir lättare desto högre upp du kommer och delas med fördel upp i två replängder. Säkras förhoppningsvis(!) med någon skruv, annars bara klippsäkringar och slingade träd. Numera även ett alternativutsteg till vänster, brant men välsäkrad mix, passa en del löst material bara.
+
+Enligt amerikansk terminologi så skulle möjligen några av lederna ha ett R/X vid tunna förhållanden så ha gärna lite marginal och glöm inte klippracket innan ni går på den skarpa änden!
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Fulväggen|fa=|grad=m3/m6/wi2/wi3|text=Väggen mellan Utby och Fjällbo, höger om trappan om man ska till Övre väggen kan bilda is.}}
+
+{{led|nr=1|namn=Smala leden|grad=WI4-ish|betyg=2|längd=30-40|fa=[[Johan Svensson]]|bultar=|typ=is|text=}}
+
+{{led|nr=2|namn=Hollywood höger|grad=WI3-5|betyg=1|längd= 2-3rpl beroende på hur mycket repdrag du tycker är ok.|fa=[[okänd]]|bultar=|typ=is|text=}}
+
+| width="250px" |
+
+{{led|nr=3|namn=Larssons ränna|grad=M?-WI4|betyg=2|längd=50-60|fa=[[Magnus Strömhäll, Per Larsson]]|bultar=|typ=is|text=}}
+
+{{led|nr=4|namn=Trotskys hämnd|grad=WI5|betyg=3|längd=50|fa=[[okänd]]|bultar=|typ=is|text=}}
+
+|}
+
+[[category:Multipitch]]
+[[category:Trad]]
+[[category:Vertikalt]]
+[[Kategori:Göteborg]]
+[[Kategori:Is]]

@@ -1,0 +1,170 @@
+{{info klippa
+  |lat=59.2981
+  |long=18.4844
+}}
+{{boulderkomplett}}
+
+==Allmänt==
+Fin, varierad klippa på Värmdö på vägen till Strömma-området. Delvis hög men bra landningar.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.2981" lon="18.4844" zoom="13" type="map" controls="small">
+59.2981,18.4844,Lynxklippan
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Anneberg
+lat= 18484400
+long=59298100
+</slresa>
+</div> 
+'''Bil'''
+
+Ligger vid Lostigen i Skeppsdalsström (bakom Värmdö Golf), syns tydligt från vägen. Parkera bilen med förstånd. 
+
+'''Buss'''
+
+Buss 433 och 434 från Slussen (ca 25 minuter), kliv av på hållplats Skeppdalström.
+
+Följ Svartträskvägen, förbi Återvägen, Svartträsket och Dalgången. Gå åt höger när du kommer till en t-korsning ut på Lostigen. Du ska till Lostigen någonstans mellan nr 33-72.
+
+Det tar ca 15 min att gå ifrån busshållplatsen.
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Sektor 1==
+Klipp-partierna visas från vägen och inåt skogen. 
+
+Första klippan från vägen.
+
+[[Bild:lynx11.jpg|700px]]
+
+{{led|nr=1, blå|namn=Trevor Cooper-Williams, top out|grad=?}}
+
+{{led|nr=2, röd|namn=Leberkäse|grad=6C|fa=Fredrik Sydstrand|text=Startar i tydlig undercling och följer grepplinje snett upp åt höger, top out.}}
+
+{{led|nr=3, gul|namn=Lynx au Soleil|grad=6C ss|fa=Stefan Kolmodin|text=Hög men fin arete med känslig top out.}}
+
+{{led|nr=4, grön|namn=?|grad=?|typ=Projekt}}
+
+{{led|nr=5, rosa|namn=?|grad=?|fa=TCW?}}
+
+{{led|nr=6, blå|namn=?|grad=?|fa=TCW?}}
+
+{{sidbrytning}}
+
+[[Bild:lynx12.jpg]]
+
+{{led|nr=1|namn=Le Frigo assis|grad=7a ss|fa=Stefan Kolmodin|text=hela väggen tv om övre delen eliminierad, top out.}}
+
+{{led|nr=|namn=Le Frigo|grad=6C|fa=|text=Ståstart}}
+
+{{led|nr=|namn=Le Tournevis|grad=6B|fa=|text=Rakt upp}}
+
+{{sidbrytning}}
+[[Bild:lynx13.jpg|700px]]
+
+{{led|nr=1, röd|namn=?|grad=?|typ=Projekt}}
+
+{{led|nr=2|namn=Le Singe (de Kristineberg)|grad=5A ss|fa=Erik Hagelin|text=Följer tydlig spricklinje tv om mosspartierna i bildens h kant upp till balkongen med mossa 2/3delar upp}}
+
+Det finns säkert möjligheter att göra flera problem här om man vill.
+
+[[Bild:lynx_sydde.jpg]]
+
+{{led|nr=|namn=Le Bebe|grad=?|fa=Sydde|text=}}
+
+{{sidbrytning}}
+
+==Sektor 2==
+[[Bild:lynx21.jpg|700px]]
+
+{{led|nr=1, röd| namn=Presse| grad=6B ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Klurigt 1:a move, top out}}
+{{led|nr=2, blå| namn=Serieux| grad=6C ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Brant start, nästan hela vägen upp}}
+{{led|nr=3, gul| namn=Projekt| grad=?| betyg=| längd=| fa=| bultar=| typ=Projekt| text=}} 
+{{led|nr=4| namn=Double vie| grad=6A ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Tydliga diedern mellan 1 och 2 med start från h sidan.}} 
+
+För övrigt så finns flera projekt som att försöka länka ifrån 3. till 2. samt göra ng mellan 1. och 2.
+
+{{sidbrytning}}
+
+==Sektor 3==
+[[Bild:lynx31.jpg|450px]]
+
+{{led|nr=1, röd| namn=Le Trou| grad=5C ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=juggarna till vänster eliminerade, top out.}} 
+
+[[Bild:lynx_stefan.jpg]]
+
+{{led|nr=| namn=Friction| grad=?| betyg=| längd=| fa=Stefan| bultar=| typ=| text=}} 
+
+{{sidbrytning}}
+[[Bild:lynx32.jpg|500px]]
+
+{{led|nr=2, grön| namn=L'Ombre | grad=7A ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=jugar th om areten eliminerade, top out.}}
+
+{{led|nr=3, gul| namn=C'est comme ca| grad=6C ss| betyg=| längd=| fa=Moritz Kiewitt| bultar=| typ=| text=Kroppsklättring och top out.}}
+
+{{led|nr=4, rosa| namn=Le Vieux Campeur| grad=7A ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Följer tydliga sprickan upp till känslig top out, juggarna till vänster om areten och hela väggen till vänster eliminerade.}}
+
+{{sidbrytning}}
+[[Bild:lynx41.jpg|700px]]
+
+[[Bild:lynx_stefan2.jpg]]
+
+{{led|nr=| namn=Coupin swing| grad=?| betyg=| längd=| fa=Stefan| bultar=| typ=| text=}} 
+
+{{sidbrytning}}
+===Högra delen===
+[[Bild:lynx42.jpg|700px]]
+
+{{led|nr=1, blå| namn=Le Frog| grad=6B+ ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Startar i hål till höger under nischen, sedan upp i denna.}} 
+
+{{led|nr=1a, blå| namn=Friction| grad=6A| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=klurig}} 
+
+{{led|nr=2, gul| namn=Variable| grad=6B+ ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=teknik och balans}}
+
+{{led|nr=3, grön| namn=Coupin| grad=6A+ ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Traversera från starten på [[Lynxklippan/Verso|Verso]] till slutet på [[Lynxklippan/M._Blaireau|M. Blaireau]], top out.}} 
+
+{{led|nr=3a, grön| namn=Coupin Swing| grad=6B+ ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=TRV. Låg variant med skön swing}} 
+
+{{led|nr=4, röd| namn=Verso| grad=6B+/C ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Start i sprickan, rakt upp, slutar stående i nischen.}} 
+
+{{led|nr=5| namn=La Cascade| grad=6B ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Hög, top out...}} 
+
+
+{{sidbrytning}}
+
+===Vänstra delen===
+[[Bild:lynx43.jpg|500px]]
+
+{{led|nr=1, lila| namn=Le Bebe| grad=7B+ ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Hela vägen via areten, top out.}} 
+
+{{led|nr=1a| namn=M. Blaireau| grad=7A+/B ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Insteg via konstig h fingerjam klart när man är ståendes på badkarskanten.}} 
+
+{{led|nr=1b| namn=Mme Blaierau| grad=7A+| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Startar med händerna på badkarskanten och följer sedan areten, top out.}} 
+
+{{led|nr=1c| namn=Silberdachs...| grad=7B+/C ss| fa=Fredrik Andersson|typ=| 
+text=Startar sittande vid "Le Frog" traversera via 1 grepp under linien "Coupin"(dessa grepp ingår ej) och sedan direkt till Badkaret och avslutar med Mme Blaierau.}}
+
+
+{{sidbrytning}}
+
+==Sektor 4==
+[[Bild:lynx51.jpg|700px]]
+
+{{led|nr=1, grön| namn=Vol du Karma| grad=6A ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Stora greppen till höger vid top out eliminerade.}} 
+{{led|nr=2, röd| namn=Kolis| grad=6A ss| betyg=| längd=| fa=Moritz Kiewitt| bultar=| typ=| text=Akta trädet}} 
+
+[[Bild:lynx52.jpg]]
+
+{{led|nr=1, röd| namn=Le Fou| grad=6A+ ss| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Ett ton sten flyttat för detta problem!}} 
+
+[[Kategori:Stockholm]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Saknar ledmall]]

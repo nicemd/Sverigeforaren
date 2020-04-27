@@ -1,0 +1,242 @@
+{{info klippa
+  |lat=59.40170
+  |long=17.76257
+}}
+
+{{komplett}}
+==Allmänt==
+En fin sportklätterklippa precis vid Mälarens strand. (Ta med badkläder!) Mest borrbultade leder och ett riktigt Mekka för den som klättrar graderna 6c-7b. Välsäkrat. 
+
+==Vägbeskrivning==
+[[Bild:GaseborgVagbesk.PNG|thumb|580px|center]]
+
+Kör E18 mot Oslo. Sväng av mot Viksjö. Följ Viksjöleden och sväng vänster in på Hummelmoravägen. Ta vänster in på Basunvägen och parkera på gästparkeringen. (Google-karta finner du på [[Gåseborg/Googlekarta|egen sida]].)
+Gå cykelvägen mot skogen och förbi bommen. Följ stigen och korsa elljusspåret två gånger. Stigen går över en spång och 120 meter efter spången går delar sig stigen. Ta vänster här - stigen du följer är markerad med gula trianglar. Korsa grusvägen och följ gula trianglar/orangea ledmarkeringar. Efter ca 5 minuter kommer du till en ny väg, och ett träd med gul triangel+pil åt vänster samt orangemarkering+pil åt höger - ta höger och följ orange markeringar. Efter ca 20 meter, sväng vänster in på ny stig. 
+
+Du är nu vid fornborgen. Håller du höger kommer du in i fornborgen, håller du vänster kommer du ner till Ravinen.
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Klippor==
+
+Det är lätt att orientera sig vid Gåseborg. '''Ravinen''' är det första du kommer till om du håller vänster vid fornborgen. Det går sedan att gå längst med vattnet och hålla lite höjd, så kommer man upp ungefär vid '''Gula Väggen'''. '''Djävulsväggen''' ligger då ca 75 meter norrut/åt vänster, '''Ovanför ravinen''' ett 20-tal meter söderut/åt höger. Går man mot vattnet från Ovanför ravinen kommer man till en eldstad som ligger precis ovanför Ravinens toppankare. Vill du istället direkt till Djävulsväggen för lite uppvärmning så håller du höger vid fornborgen.
+
+===Ravinen===
+Första delen av lederna är lätt överhängande och sedan går väggen över i brant sva. Flera ankare går att nå uppifrån.
+[[Bild:Gåseborg_ravinen1.png]]
+{|
+|- valign="top"
+| width=250px |
+{{led|nr=1a|namn=Innan Montserrat|grad=4c|betyg=|längd=9|fa=[[Helena Brogren]], [[Andreas Harne]], [[Kathinka Berg]] [[2011|-11]]|bultar=4|typ=sport|text=Ny led till vänster om Vickevire. Slutar med samma ankare. Välsäkrad, mestadels stora grepp med lite layback för den som vill.}}
+
+{{led|nr=1|namn=Vickevire|grad=6b|betyg=|längd=|fa=[[Linnea Larsson]], [[Mikael Widerberg]] [[1998|-98]]|bultar=4|typ=sport|text=Äntligen klätterbar, har fått hängare och ett par nya bultar.}}
+
+{{led|nr=2|namn=En liten Hitler|grad=7b|betyg=|längd=|fa=[[Mikael Widerberg]] [[2001|-01]]|bultar=|typ=sport|text=Första bulten är numera ersatt (Bultkommittén okt -11).}}
+
+{{led|nr=3|namn=Zyklon|grad=6c|betyg=|längd=10|fa=[[Staffan Erlandsson]] [[1995|-95]]|bultar=|typ=sport|text=Nytt ankare och ny bult i insteget (Bultkommittén okt -11).}}
+
+{{led|nr=4|namn=Tudor|grad=6c|betyg=|längd=10|fa=[[Staffan Erlandsson]] [[1995|-95]]|bultar=|typ=sport|text=Ny bult i insteget (Bultkommittén okt -11).}}
+
+{{led|nr=5|namn=Tonys Projekt|grad=6c|betyg=|längd=|fa=[[Tony Johannessen]]|bultar=|typ=}}
+
+{{led|nr=6|namn=Blitz|grad=6b|betyg=1|längd=10|fa=[[Staffan Erlandsson]] [[1995|-95]]|bultar=|typ=sport}}
+
+{{led|nr=7|namn=Flyglottan|grad=6c+|betyg=|längd=12|fa=[[Staffan Erlandsson]], [[Johan Erlandsson]] [[1994|-94]]|bultar=|typ=sport}}
+
+{{led|nr=8|namn=Aerosion|grad=6c+|betyg=|längd=12|fa=[[Staffan Erlandsson]] [[1994|-94]]|bultar=|typ=sport}}
+
+| width=250px |
+
+{{led|nr=9|namn=Spitfire|grad=7a|betyg=|längd=14|fa=[[Johan Luhr]], [[Rikard Hedman]] [[1988|-88]]|bultar=|typ=sport}}
+
+{{led|nr=10|namn=Messerschmitt|grad=7a/7a+|betyg=|längd=14|fa=[[Johan Luhr]] [[1988|-88]]|bultar=|typ=sport}}
+
+{{led|nr=11|namn=Isaxel|grad=7b|betyg=|längd=14|fa=[[Staffan Erlandsson]], [[Johan Erlandsson]] [[1998|-98]]|bultar=|typ=sport}}
+
+{{led|nr=12|namn=Himmler|grad=7a|betyg=2|längd=14|fa=[[Mattias Bergström]] [[1987|-87]]|bultar=|typ=sport}}
+
+{{led|nr=13|namn=Rommel|grad=7a/7a+|betyg=1|längd=14|fa=[[Johan Luhr]], [[Mattias Flodin]] [[1988|-88]]|bultar=|typ=sport}}
+
+{{led|nr=14|namn=Tirpitz|grad=7a+|betyg=1|längd=14|fa=[[Johan Luhr]], [[Mattias Flodin]] [[1988|-88]]|bultar=|typ=sport}}
+
+{{led|nr=15|namn=Stuka|grad=7a+|betyg=1|längd=14|fa=[[Johan Luhr]], [[Mattias Flodin]], [[Rikard Hedman]] [[1988|-88]]|bultar=|typ=sport}}
+
+{{led|nr=16|namn=Ha en fin flygtur|grad=6c+|betyg=2|längd=14|fa=[[Johan Luhr]], [[Mattias Flodin]] [[1988|-88]]|bultar=|typ=sport}}
+
+| width=250px |
+
+{{led|nr=17|namn=Swastika|grad=7a|betyg=|längd=15|fa=[[Staffan Erlandsson]], [[Johan Erlandsson]] [[1996|-96]]|bultar=|typ=sport}}
+
+{{led|nr=18|namn=Fördomsfri|grad=6c+|betyg=|längd=15|fa=[[Henrik Magnusson]] [[1994|-94]]|bultar=|typ=sport|text=Grepp har lossnat, troligen svårare nu.}}
+
+{{led|nr=19|namn=Hog farm|grad=7b+|betyg=|längd=|fa=[[Tony Johannessen]] [[2001|-01]]|bultar=|typ=sport}}
+
+{{led|nr=20|namn=Diktator|grad=6b|betyg=1|längd=16|fa=[[Staffan Erlandsson]], [[Johan Erlandsson]] [[1997|-97]]|bultar=|typ=sport}}
+
+{{led|nr=21|namn=Barnens brevlåda|grad=5+|betyg=|längd=17|fa=[[Staffan Erlandsson]] [[1992|-92]]|bultar=|typ=trad}}
+
+{{led|nr=22|namn=Skicka mer godis|grad=5c|betyg=|längd=|fa=|bultar=|typ=sport}}
+|}
+
+
+[[bild:gåseborg001.jpg|thumb|right|250px|Blitz. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+{{sidbrytning}}
+
+Ravinen fortsättning... Denna del är den första du möter när du kommer till ravinen.
+Det går att komma åt ankare på merparten av dessa leder. 
+
+[[Bild:Gåseborg_ravinen2.png]]
+
+[[Bild:tornrosa.jpg|thumb|200px|right|Mattias Sjölinder toppar ut Törnrosa och blir glad. Foto: [[Användare:Peblin|Per Lindh]]]]
+{|
+|- valign="top"
+| width=250px |
+{{led|nr=23|namn=Prinsen|grad=6b+|betyg=|längd=7|fa=[[Tony Johannessen]]|bultar=3|typ=sport|text=}}
+
+{{led|nr=24|namn=Törnrosa|grad=5b|betyg=2|längd=8|fa=[[Tony Johannessen]]|bultar=4|typ=sport|text=Följer den vänstra flaksprickan. När man väl etablerat sig där är det lättare. Helbultad.}}
+
+{{led|nr=25|namn=Askungen|grad=5c|betyg=|längd=9|fa=[[Tony Johannessen]]|bultar=4|typ=sport|text=Sprickan till höger om Törnrosa. Lite svårare än denna.}}
+
+| width=250px |
+
+{{led|nr=26|namn=Kloker|grad=6b|betyg=|längd=|fa=[[Tony Johannessen]]|bultar=|typ=sport}}
+
+{{led|nr=27|namn=Glader|grad=6c+|betyg=|längd=|fa=[[Tony Johannessen]]|bultar=|typ=sport}}
+
+{{led|nr=28|namn=Projekt 2 TJ|grad=?|betyg=|längd=|fa=|bultar=|typ=}}
+
+{{led|nr=29|namn=Hess mot folkgrupp|grad=6a+|fa=[[Erik Hagelin]][[2010|-10]]|typ=sport|ny=1|text=Areten precis i högersvängen mot Överhängande väggen. }}
+
+
+|}
+
+
+
+{{sidbrytning}}
+
+===Ovanför Ravinen===
+Klippan, som i senaste Stockholmsföraren (1996!) kallades ”Överhängande väggen”, hade sedan tidigare tre rapporterade leder, tillika spår av tidigare aktivitet. Nu finns även ett antal fina sportleder, med borrbultar och firningsankare. Hit kan man bl a ta sig genom att gå rakt förbi eldstaden inne i fornborgen via en liten stig som efter lite scrambling leder direkt till vägggen. Den som vill nå ankarna från ovan, kan med största försiktighet klättra ned, via fornborgen på bergets topp. Fira sista biten, underlaget är löst vid klippans kant... Den branta delen är omkring 10 m hög.
+[[Bild:gåseborg_ovanför_ravinen.jpg]]
+
+{|
+|- valign="top"
+| width=300px |
+
+{{led|nr=1|namn=Afasi|grad=6|längd=15|fa=Okänd [[1991|-91]]|bultar=1|typ=mix|text=Kort brant vägg, sedan sva/spricka. Sällan klättrad.}}
+
+{{led|nr=2|namn=Namnlös 1|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]] [[2000|-00]]|bultar=4|typ=sport|text=Brant start, sedan sva på runda grepp.}}
+
+{{led|nr=3|namn=Kristallnatten|grad=6c+|betyg=|längd=|fa=[[Staffan Lorentz]] [[2000|-00]]|bultar=4|typ=sport|text=Följer det tydliga ljusa bandet.}}
+
+{{led|nr=4|namn=Dynamo|grad=6b+|betyg=|längd=|fa=[[Staffan Lorentz]], [[Johan Erlandsson]] [[2000|-00]]|bultar=3|typ=sport|text=Hårt rakt upp, sen höger mot jugen. }} 
+
+{{led|nr=5|namn=Konvoj|grad=6b+|betyg=|längd=|fa=[[Staffan Lorentz]], [[Johan Erlandsson]] [[2000|-00]]|bultar=3|typ=sport|text=Logiskt insteg till Dynamo.}}
+
+| width=250px |
+
+{{led|nr=6|namn=Krematorium|grad=7a|betyg=|längd=|fa=[[Staffan Lorentz]] [[2001|-01]]|bultar=3|typ=sport|text=Tung start. 1:a bb kan klippas från stenblocket.}}
+
+{{led|nr=7|namn=Propaganda|grad=7a|betyg=|längd=|fa=[[Johan Erlandsson]], [[Staffan Lorentz]] [[2000|-00]]|bultar=3|typ=sport|text=Krimpfest på det röda partiet.}}
+
+{{led|nr=8|namn=Detonator|grad=6a|betyg=|längd=|fa=[[Staffan Lorentz]], [[Johan Erlandsson]] [[2001|-01]]|bultar=3|typ=sport}}
+
+{{led|nr=9|namn=Hitler, kort men jävlig|grad=6+|betyg=|längd=|fa=[[Mattias Bergström]] [[1987|-87]]|bultar=|typ=trad|text=Kort överhängande vägg 2m v Apelsinleden. Sällan klättrad.}}
+
+| width=250px |
+
+{{led|nr=10|namn=Apelsinleden|grad=4+|betyg=|längd=|fa=|bultar=|typ=mix|text=Brant hörn. Rostiga bladbultar.}}
+
+{{led|nr=11|namn=Luftbro|grad=6a|betyg=|längd=|fa=[[Staffan Lorentz]], [[Johan Erlandsson]][[2002|-02]]|bultar=3|typ=sport|text=Firningsankare}}
+
+{{led|nr=12|namn=Annektion|grad=Projekt|betyg=|längd=|fa=|bultar=2|typ=sport|text=Öppet projekt. Firningsankare}}
+
+{{led|nr=|namn=Grådaskig|grad=6|längd=6|fa=okänd [[1991|91]]|bultar=1|text=Kort svaled söder om uppstigningen till fornborgen.}}
+|}
+
+{{sidbrytning}}
+
+===Gula väggen===
+20m till vänster om Ovanför Ravinen
+
+[[Bild:Gåseborg gulaväggen.png]]
+
+{|
+|- valign="top"
+| width=250px |
+{{led|nr=1|namn=För desperata|grad=6a|betyg=|längd=|fa=[[Christer Jansson]], [[Jarmo H]] [[1992|-92]]|bultar=|typ=trad}}
+
+{{led|nr=2|namn=Myrstigen|grad=5-|betyg=|längd=7|fa=[[Sven Blom]] [[198?|-8?]]|bultar=|typ=trad}}
+
+{{led|nr=3|namn=Broken Leeper|grad=6-|betyg=|längd=6|fa=[[Christer Åstrand]] [[1977|-77]]|bultar=|typ=trad}}
+
+{{led|nr=4|namn=Likstel|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+| width=250px |
+
+{{led|nr=5|namn=Ljusstrålen|grad=7b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=6|namn=3:e riket|grad=6b|betyg=|längd=|fa=[[Staffan Lorentz]], [[Staffan Erlandsson]]|bultar=|typ=sport}}
+
+{{led|nr=7|namn=Akilles|grad=6-|betyg=|längd=|fa= Christer Åstrand 95|bultar=2|typ=sport}}
+
+| width=250px |
+
+{{led|nr=8|namn=Draken|grad=6a|betyg=|längd=|fa=[[Tony Johannessen]]|bultar=|typ=sport}}
+
+{{led|nr=9|namn=Bimbo|grad=6c|betyg=|längd=|fa=[[Tony Johannessen]]|bultar=|typ=sport}}
+
+{{led|nr=10|namn=Kort och avig|grad=6-|betyg=|längd=7|fa=FF: [[Daniel Bidner]] [[1983|-83]]|bultar=|typ=trad}}
+|}
+
+{{sidbrytning}}
+===Djävulsväggen===
+Saknar toppankare, men två ordentliga tallar väger upp denna brist.
+
+[[Bild:Djavulstopo_01.jpg]]
+
+{|
+|- valign="top"
+| width=300px |
+
+{{led|namn=Solnedgången|grad=5-|betyg=|längd=10|fa=[[Sven Blom]] [[1982|-82]]|bultar=|typ=trad|text=Börjar på vänster sida om kanten. Traditionellt säkrad, inga bultar (de tillhör "Inga fler Kratrar".)}}
+
+{{led|namn=Inga fler kratrar|grad=6c+|betyg=|längd=10|fa=[[Anders Grahne]], [[Andreas Harne]] [[2006|-06]]|bultar=4|typ=sport|text=Leden startar precis vid en inristning i berget; "Till minne av..." ca en meter t v om insteget till Wall Hall. Den fortsätter på svat/platten ca 1- 1,5 m v om Wall Hall hela vägen (utan att tangera den) upp till tallen. Går man ut till kanten som man har ett par m på v sida blir leden betydligt enklare. Leden lättar av när man passerat kruxet efter andra bulten, men håller en kvalitativ klättring hela vägen upp. En lite rakare, finare linje än Wall Hall och betydligt känsligare för fötter och fingrar.}}
+
+{{led|namn=Wall Hall|grad=6-|betyg=|längd=10|fa=[[Daniel Bidner]] [[1983|-83]]|bultar=2|typ=mix|text=Borrbultat insteg leder upp till en fin kilsäkrad flakspricka. Fick nya bultar 2006.}}
+
+{{led|namn=Högra tallen|grad=5-|betyg=|längd=11|fa=|bultar=|typ=}}
+
+{{led|namn=Pungsträckarleden|grad=3+|betyg=|längd=11|fa=[[Jack Berg]]?|bultar=|typ=trad|text=Den uppenbara, breda sprickan som skär tvärs över vänstra delen av väggen. Sprickan slutar på en avsats från vilken det är lätt klättring upp till tallen om man vill fira av från den. Kul och välsäkrad med stora friends.}}
+
+| width=250px |
+
+{{led|namn=Hängpungen|grad=4|betyg=|längd=11|fa=[[Jack Berg]]?|bultar=|typ=trad}}
+
+{{led|namn=Dieder|grad=6|betyg=|längd=14|fa=[[Olle Nordgren]][[1987|-87]]|bultar=2|typ=}}
+
+{{led|namn=Arête|grad=7-|betyg=|längd=14|fa=[[Olle Nordgren]][[1987|-87]]|bultar=3|typ=}}
+
+{{led|namn=Talk är tungt|grad=7-|betyg=1|längd=14|fa=[[Mattias Bergström]] [[1987|-87]]|bultar=3|typ=}}
+
+| width=250px |
+
+{{led|namn=Helikoptern kräks|grad=8|betyg=1|längd=14|fa=[[Magnus Löfberg]], [[Johan Luhr]] [[1987|-87]]|bultar=5|typ=}}
+
+{{led|namn=Camp Romsdal|grad=6|betyg=1|längd=12|fa=ff: [[Daniel Bidner]], [[Jacob Sjöstrand]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|namn=Kylslaget|grad=7|betyg=|längd=12|fa=[[Johan Luhr]], [[Lars Thorén]] [[1989|-89]]|bultar=3|typ=mix}}
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Topprep]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Sva]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

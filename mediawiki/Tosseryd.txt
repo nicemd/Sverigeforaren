@@ -1,0 +1,102 @@
+{{info klippa
+  |lat=57.75789
+  |long=12.97018
+}}
+
+{{utkast}}
+[[Kategori:Västergötland]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+
+==Allmänt==
+Ett område med ganska många leder.. 
+
+==Vägbeskrivning==
+Borås. 
+Parkeringen enl. guiden är inte helt OK enligt de boende. Det ska gå att parkera utmed Fristadsvägen, i en liten ficka som ligger på andra sidan vägen, mittemot den skogsvägen som leder fram till klippan. Det ska finnas plats för 3-4 bilar. Tack för info Gustav Widén.
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja|klättring i göteborg med omnejd (2006)=ja}}
+
+==Väggar==
+
+===Vänster sida===
+Följande förändringar finns inte med i 2012 föraren:
+Vänstra sprickan och HB har nu ett gemensamt ankare.
+Hix har fått ett ankare och en ny bult.
+Det finn en ny led mellan Hix och Surt sa räven som heter Trix.
+På hyllan ovanför Surt sa räven finns det numera ett firningsankare.
+Byhåla har fått två bultar till i insteget.
+Bröderna djup har en ny bult i slutet av leden.
+
+{{led|nr=1|namn=TREBULTEN|grad=5c|typ=sport}}
+{{led|nr=2|namn=BLIXT|grad=4-|typ=trad}}
+{{led|nr=3|namn=FINGERFROST|grad=4+|typ=trad}}
+{{led|nr=4|namn=KALLE PÅ SPÅNGEN|grad=4|typ=trad}}
+{{led|nr=5|namn=HÖRNET|grad=4|typ=trad}}
+{{led|nr=6|namn=TINTIN|grad=5+|typ=trad}}
+{{led|nr=7|namn=HEJ & HÅ|grad=5+|typ=trad}}
+{{led|nr=8|namn=NINA|grad=5-|typ=trad}}
+{{led|nr=9|namn=VÄNSTRA SPRICKAN|grad=5+|typ=trad}}
+{{led|nr=10|namn=HB|grad=6|typ=trad}}
+{{led|nr=11|namn=LÖS MEN TRÅKIG|grad=4+|typ=trad}}
+{{led|nr=12|namn=NAM NAM|grad=5-|typ=trad}}
+{{led|nr=13|namn=SPIFF|grad=6b|typ=sport}}
+{{led|nr=14|namn=HIX|grad=6b|typ=sport}}
+{{led|nr=15|namn=TRIX|grad=6a+|typ=sport}}
+{{led|nr=16|namn=SURT SA RÄVEN|grad=5|typ=trad}}
+{{led|nr=17|namn=BYHÅLA|grad=6c|typ=sport}}
+{{led|nr=18|namn=KNÄSVAG|grad=6c+|typ=sport}}
+{{led|nr=19|namn=HYLANDS HÖRNA|grad=5+|typ=trad}}
+{{led|nr=20|namn=BRÖDERNA DJUP|grad=6b|typ=sport}}
+{{led|nr=21|namn=SVART ALF|grad=6c|typ=sport}}
+{{led|nr=22|namn=KNALLELEDEN 1|grad=3+|typ=trad}}
+{{led|nr=23|namn=KNALLELEDEN 2|grad=3+|typ=trad}}
+
+===Höger sida===
+Följande förändringar finns inte med i 2012 föraren: Leden Röde orm har nu mera ett eget ankare.
+
+{{led|nr=1|namn=DEPRAVERAD|grad=3+|typ=trad}}
+{{led|nr=2|namn=ÄRRET|grad=4|typ=trad}}
+{{led|nr=3|namn=KONCIS|grad=6-|typ=trad}}
+{{led|nr=4|namn=ARÉTE SO DU SCHET|grad=6a+|typ=sport}}
+{{led|nr=5|namn=ORMEN LÅNGE|grad=5+|typ=trad}}
+{{led|nr=6|namn=RÖDE ORM|grad=6b|typ=sport}}
+{{led|nr=7|namn=BOKHYLLAN|grad=5+|typ=trad}}
+{{led|nr=8|namn=UPP TILL 13|grad=4|typ=trad}}
+
+===Elaka Trollet===
+Följande förändringar finns inte med i 2012 föraren: Elaka trollet och Torsk har fått varsin ny bult i insteget. Vloeibare zeep har fått ett ankare.
+
+{{led|nr=1|namn=FARFARS VISA|grad=5c|typ=sport}}
+{{led|nr=2|namn=SKODA|grad=7b|typ=sport}}
+{{led|nr=3|namn=ELAKA TROLLET|grad=6b|typ=sport}}
+{{led|nr=4|namn=SIMPA|grad=6b+|typ=sport}}
+{{led|nr=5|namn=TORSK|grad=6b+|typ=sport}}
+{{led|nr=6|namn=JUDAS PRIEST|grad=6c|typ=sport}}
+{{led|nr=7|namn=SMUTSGRIS|grad=6a+|typ=sport}}
+{{led|nr=8|namn=VLOEIBARE ZEEP|grad=6c|typ=sport}}
+{{led|nr=9|namn=SKOJIG|grad=7-|typ=trad}}
+
+===Kalhygget===
+Följande förändringar finns inte med i 2012 föraren: Korpen flyger har fått en bult till och är nu mera inte mixad. Hallucination och Parentes har fått ett gemensamt ankare på hyllan under toppen. Den rykande vaginan och Bullen har fått en gemensam bult i slutet och är inte längre mixade. Säpo har fått en egen bult i slutet och är inte heller den mixad längre. Första bestigarna skall vara tillfrågade på alla leder där det har bytt från mix till sport.
+
+{{led|nr=1|namn=CRUX 42|grad=6a+|typ=sport}}
+{{led|nr=2|namn=KOCKLANDSLAGET|grad=5a|typ=sport}}
+{{led|nr=3|namn=MUMMA|grad=6c|typ=sport}}
+{{led|nr=4|namn=SETH B|grad=6c|typ=sport}}
+{{led|nr=5|namn=KORPEN FLYGER|grad=5c|typ=sport}}
+{{led|nr=6|namn=SLAV|grad=7a|typ=sport}}
+{{led|nr=7|namn=KURSLEDEN|grad=5c|typ=sport}}
+{{led|nr=8|namn=PARAFLAX|grad=6|typ=mix}}
+{{led|nr=9|namn=CORVUS CORAX|grad=4|typ=trad}}
+{{led|nr=10|namn=WH-49|grad=4+|typ=trad}}
+{{led|nr=11|namn=SURSTRÖMMING|grad=4+|typ=trad}}
+{{led|nr=12|namn=BUTTERFLY|grad=4+|typ=trad}}
+{{led|nr=13|namn=THE BIRD|grad=4+|typ=trad}}
+{{led|nr=14|namn=HALLUCINATION|grad=5-|typ=trad}}
+{{led|nr=15|namn=PARANTES|grad=6-|typ=mix}}
+{{led|nr=16|namn=DEN RYKANDE VAGINAN|grad=6b|typ=sport}}
+{{led|nr=17|namn=BULLEN|grad=6a+|typ=sport}}
+{{led|nr=18|namn=SÄPO|grad=5c|typ=sport}}
+
+[[Kategori:Västergötland]]

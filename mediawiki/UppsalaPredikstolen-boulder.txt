@@ -1,0 +1,16 @@
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+{{boulderstub}}
+
+[[Kategori:Uppsala]]
+
+Ett stort block och en vägg. Finns även en del andra block i närheten.<BR>
+Mossan trivs bra vid Predikstolen, tag med en borste!
+
+=Vägbeskrivning=
+
+Kör Vårdsätravägen ner genom hågadalen, ta sedan höger över bron och parkera direkt vänster. Korsa vägen och följ ridstigen mot Predikstolenklippan. Blocket ligger ett 50-tal meter innan klippan, väggen ovanför klippan.
+
+<googlemap version="0.9" lat="59.809958" lon="17.608166" type="map" zoom="14" width="500">
+59.809187, 17.599851, Predikstolen-boulder
+</googlemap>

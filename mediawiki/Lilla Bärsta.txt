@@ -1,0 +1,99 @@
+{{boulderstub|extern=ja}}
+
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+
+=Allmänt=
+
+
+Fint litet område nära stan. 10-15 block med bra höjd och god stenkvalitet. Stenarna ligger i en luftig och öppen granskog. Generellt sett mycket bra landningar på mossa. 
+
+=Vägbeskrivning=
+
+'''Parkera på vid avfarten mot Hammarskog på gamla busshållplatsen. Åk EJ upp på den privata grusvägen.''' Gå upp på en liten grusväg, förbi ett lite för lågt block på åkern. Det första blocket ligger på vänster sida strax efter skogsbrynet.
+
+<googlemap version="0.9" lat="59.801411" lon="17.58276" type="map" zoom="13" width="500" height="300">
+59.80044, 17.563105, Lilla Bärsta
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=lilla-barsta}}
+
+=Bild=
+
+[[Bild:DSC05219liten.jpg]]
+
+=Förare=
+
+Förare finns här: [[Media:Lilla_Bärsta.pdf]]
+
+
+=Barn=
+Bra lekmöjligheter. Lite mygg. Skuggigt. Möjligt att nå med terrängående barnvagn typ Chariot och liknande.
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Klassklyftan|grad=7A+|typ=Jam,Överhäng|fa=Anders Tväråna|landning=4|betyg=2|fadatum=2007-09-20|sopad=Anders Tväråna|text=Magnifik linje på kluvet block, tre meter handjamtak. Sittstart så långt in som möjligt - ut, över läppen och upp.}}
+{{problem|namn=Stålhandsken|grad=5C|typ=Jam|fa=Magnus Olofsson|landning=4|fadatum=2007-09-20|sopad=Magnus Olofsson|text=Ståstart till Klassklyfta, den vertikala delen av sprickan.}}
+{{problem|namn=Bominsteget|grad=6A|typ=Layback|fa=Magnus Olofsson|landning=3|fadatum=2007-09-20|sopad=Magnus Olofsson|text=På första blocket, vänster sida vägen efter skogsbrynet. Areteartad formation på baksidan, högra varianten.}}
+{{problem|namn=Storpotäten|grad=6A+|typ=Aréte|fa=Thomas Lind & Magnus Olofsson|landning=2|betyg=1|fadatum=2007-09-21|sopad=Thomas Lind & Magnus Olofsson|text=Stor fin sten rakt västerut från bomstenen.}}
+{{problem|namn=Guldkanten|grad=6B+|typ=Aréte|fa=Magnus Olofsson|landning=4|betyg=2|fadatum=2007-09-21|sopad=Magnus Olofsson|text=Håll till vänster om aréten.}}
+{{problem|namn=Bullkanten|grad=6B|typ=Travers H->V|fa=Thomas Lind & Magnus Olofsson|landning=3|betyg=2|fadatum=2007-09-22|sopad=Thomas Lind & Magnus Olofsson|startgrepp=ja|text=Starta längst ut till höger på bomstenen i sprickan, hangla vänster avsluta med bominsteget.}}
+{{problem|namn=I-leden|grad=5B|typ=Spricka|fa=H Skoog
+|landning=3|betyg=2|fadatum=2009-08-23|sopad=Jens Engström och Henric Skoog
+|text=Sprickan till vänster om S-leden, utan den stora rampen till vänster}}
+{{problem|namn=Rock around the block|grad=5A|typ=Travers|fa=J Engström, H Skoog, M Carlsson
+|landning=3|betyg=1|fadatum=2009-05-13|sopad=
+|text=Traversera runt hela obelisken ("under" trädet). Starta exempelvis från stora hyllan.}}
+{{problem|namn=Rönn it out|grad=5B|typ=Arête, Mantling|fa=H Skoog
+|landning=3|betyg=1|fadatum=2009-09-29|sopad=Jens Engström och Henric Skoog
+|text=Arêten närmast rönnen på åkerblocket}}
+{{problem|namn=Koala|grad=6A|typ=Mantling|fa=H Skoog
+|landning=3|betyg=1|fadatum=2009-10-28|sopad=|sittstart=ja|text=Sittstart vid arêten mellan Snabbis och Stånk och stön, med tallen rakt bakom ryggen. VH på stora sidtaget/juggen och HH på sloper. Mantla rakt upp på svaet.}}
+| width="250px" |
+{{problem|namn=Cigaretten|grad=4|typ=Arête|fa=J Engström|landning=2|betyg=|fadatum=2009-08-23|sopad=Jens Engström och Henric Skoog
+|text=Åkerblocket, den höga arêten på åkersidan, klättrad med kroppen på höger sida}}
+{{problem|namn=Gotta lav it|grad=4|typ=Dieder|fa=H Skoog|landning=2|betyg=|fadatum=2009-08-23|sopad=|
+text=Åkerblocket, till höger om Cigaretten}}
+{{problem|namn=Snudda vid avgrunden|grad=6B|typ=|fa=Thomas Lind & Magnus Olofsson|landning=4|betyg=2|fadatum=2007-09-22|sopad=Thomas Lind & Magnus Olofsson|sittstart=ja|text=Till höger om klassklyftan.}}
+{{problem|namn=Spjärnet|grad=6B|typ=|fa=Thomas Lind & Magnus Olofsson|landning=2|betyg=1|fadatum=2007-09-22|sopad=Thomas Lind & Magnus Olofsson|sittstart=ja|text=}}
+{{problem|namn=Sten 1|grad=-|typ=|fadatum=2008-02-23|text=Ett fint block nån kilometer norr om Bärsta, över hyggena man ser från Klassklyfta. Brantare och längre skick än Long John...}}
+{{problem|namn=Sten 2|grad=-|typ=|fadatum=2008-02-23|text=Norr om Bärsta, vid Ekensberg. En fin linje på areten. 4-5 meter, friktionsgrepp. Ett par andra intressanta linjer på blocket.}}
+{{problem|namn=Old School|grad=6C|typ=Aréte|fa=Magnus Crona, Anders Tväråna.|landning=3|betyg=3|fadatum=2008-05-28|sopad=Magnus Crona, Anders Tväråna.|text=På bomstenen. Start strax vänster om Bominsteget, rakt upp.Ett av Uppsalas finaste, alla grader.}}
+{{problem|namn=Stjärnjakt|grad=6C+|typ=Aréte|fa=Magnus Crona, Anders Tväråna.|landning=3|betyg=3|fadatum=2008-05-28|sopad=Magnus Crona, Anders Tväråna.|text=På bomstenen. Vänstra aréten på sidan mot skogen.}}
+{{problem|namn=Lambda-leden|grad=5A|typ=Vägg|fa=J Engström|landning=3|betyg=1|fadatum=2009-08-23|sopad=Jens Engström och Henric Skoog
+|text=Som I-leden, men med start på rampen}}
+{{problem|namn=Höga foten|grad=5A|typ=Mantling|fa=H Skoog|landning=3|betyg=0|fadatum=2009-09-17|text=Går till höger om stenkrossen (som går till höger om Mandeln, som går till höger om Storpotäten). Börja med sidtag å sen upp med foten..}}
+| width="250px" |
+{{problem|namn=Obelisken|grad=-|typ=|fa=Magnus Crona, Anders Tväråna.|landning=3|betyg=3|fadatum=2008-05-28|sopad=Magnus Crona, Anders Tväråna.|text=Följ vägen förbi bomstenen. Kolla höger precis i skogsbrynet. Intressant formation!}}
+{{problem|namn=Först!|grad=5C|typ=Aréte|fa=Magnus Crona, Anders Tväråna.|landning=2|betyg=2|fadatum=2008-05-28|sopad=Magnus Crona, Anders Tväråna.|text=På högt block ca 200m öster om Obelisken. Håll något vänster från gärdeskanten och gå inåt skogen.Aréteformation vid stor gran med många avsågade grenar.}}
+{{problem|namn=Sockiplast|grad=6B|typ=|fa=Anders Tväråna|landning=2|betyg=3|fadatum=2008-05-28|sopad=Anders Tväråna|text=Samma block som "Först!", runt hörnet till höger om denna.Tre stjärnor får man bara om man börjar under listen för vänster hand, dvs med vänster hand på arétekanten.}}
+{{problem|namn=Farmor ärtkropp|grad=-|typ=|landning=3|betyg=3|fadatum=2008-05-28|text=...plötsligt, när jag gett upp efter två timmars blockletande, står jag mitt framför rena jävla Grandma Peabody.Mycket fet sten ca 700 meter väster om Klassklyftan.}}
+{{problem|namn=Stånk och stön|grad=5|typ=Mantling|fa=Björn Sjögen, Emil Lundberg|landning=1|betyg=1|fadatum=2008-??-??|text=Start i stora vänstra juggen, sedan rakt upp till bra grepp på svat.}}
+{{problem|namn=Up and Go|grad=6b|typ=Hangling|fa=Björn Sjögen, Emil Lundberg|landning=2|betyg=2|fadatum=2008-??-??|text=Samma start som Stånk och stön, sedan hangling åt höger upp till toppen. Juggarna uppe på svaet som ingår i Stånk och stön ingår ej.}}
+{{problem|namn=Up and Go assis|grad=6b|typ=Hangling|fa=?|landning=2|betyg=2|fadatum=?|text=Starta sittandes längst ut vid arêten och traversera in i Up and Go.}}
+{{problem|namn=Libero|grad=6c|typ=Hangling|fa=Björn Sjögen, Emil Lundberg|landning=2|betyg=2|fadatum=2008-??-??|text=Start sittande, sedan hangling åt vänster upp till toppen. Det finns många tänkbara starter, normallånga når startgreppen utan dubbelpadda eller annat.}}
+{{problem|namn=Fimpad|grad=4|typ=Vägg|fa=J Engström
+|landning=3|betyg=0|fadatum=2009-09-29|sopad=Jens Engström och Henric Skoog
+|text=Väggen precis till vänster om arêteproblemet Cigaretten på åkerblocket}}
+{{problem|namn=Gubbslem|grad=7A+|typ=Slabb|fa=Fredrik Andersson, Anders Tväråna|landning=1|betyg=2|fadatum=2008-10-10|sopad=Anders Tväråna|text=Slabben till vänter på storpotätblocket.}}
+{{problem|namn=Högspänning|grad=6a|typ=Spricka|fa=M Olofsson
+|landning=5|betyg=3|fadatum=2009-11-29|sopad=Magnus Olofsson
+|text=Nytt block ca 400 m västerut från Gäddhänget, vänstra sprickan}}
+{{problem|namn=Lågspänning|grad=6A|typ=Spricka överhäng|fa=Magnus Olofsson, Thomas Lind |landning=3|betyg=3|fadatum=2009-11-29|sopad=Magnus Olofsson, Thomas Lind|text=Högra sprickan.}}
+{{problem|namn=Lysmasken|grad=6A+|typ=Slabb|fa=Magnus Olofsson, Thomas Lind |landning=3|betyg=2|fadatum=2009-11-29|sopad=Magnus Olofsson, Thomas Lind|text=slabben på östra sidan.}}
+{{problem|namn=Lårbensbrott|grad=6b|typ=Bryt|fa=Peter Reffner, Magnus Olofsson |landning=1|betyg=1|fadatum=2010-07-01|sopad=Magnus Olofsson, Peter Reffner|text=Till höger om lågspänning.}}
+{{problem|namn=Näsan|grad=6C|typ=Arete|fa=Magnus Olofsson |landning=3|betyg=3|fadatum=2010-07-15|sopad=Magnus Olofsson, Thomas Lind|text=Högsta areten tv. högspänning.}}
+
+
+
+|}

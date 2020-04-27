@@ -1,0 +1,145 @@
+{{info klippa
+  |lat=59.28070
+  |long=18.33744
+}}
+
+{{utkast}}
+
+==Allmänt==
+Skärgårdsnära överhängande klättring.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.28070" lon="18.33744" zoom="14" type="map" controls="small">
+59.28070,18.33744,[[Finnsvedsberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Finnsvedsberget
+lat=18337440
+long=59280700
+</slresa>
+</div> 
+
+Kör väg 222 Värmdöleden, avfart Gustavsberg/Ingarö. Tag vänster mot Ingarö. Kör Ingarövägen ca 2km och sedan höger mot Lillängsdal efter bron. Kör Lillängsdalsvägen ca 4km och parkera i korsningen Lillängsdalsvägen/Klintvägen. 
+
+Gå Klintvägen tills dess slut och följ stigen i vägens förlängning. När stigen grenar sig ta första vänster, andra vänster och tredje höger. 
+
+Följ stigen ytterligare 2-300m. Ett röse vid sidan av stigen visar att det är dags att ta vänster ner mot vattnet. Undvik sommarstugorna. Väl nere vid vattnet gå åt höger.
+
+Ett nymonterat firningsankare sitter på svaplattan ovanför vänstra delen av klippan. Från ankaret kan du nå ankarna på Sjöjungfrun - Tintin. För att hitta ankaret, följ stigen knappt hundra meter längre och ett andra röse visar var du ska ta vänster mot vattnet.
+
+<div style="clear:right;"></div>
+
+==Leder==
+===Sjöväggen===
+[[Bild:Finnsvedsberget.jpg|frame|Tintin direkt, Finnsvedsberget]]
+
+{{led|namn=Sjöjungfrun|grad=6a+|fa=LL, MW|typ=sport}}
+
+{{led|namn=Stortorsk|grad=7c+|fa=MW|typ=sport}}
+
+{{led|namn=Kattöga|grad=7c|fa=MW|typ=sport|text=Tidigare graderad 7b+, men ett stort grepp lossnade sommaren 2012 och leden är numera aningen svårare.}}
+
+{{led|namn=Snatch|grad=8a|fa=Scott Mooney|typ=sport|text=Börjar på samma ställe som Kattöga, men går rakt upp.}}
+
+{{led|namn=Finnkampen|grad=7b|fa=MW|typ=sport|text=En diagonal travers över hela väggen. Börjar vid Baggen och slutar i Sjöjungfrun. Saknar hängare?}}
+
+{{led|namn=Baggen|grad=7a+|fa=MW|typ=sport|text=Går rakt upp förbi en tydlig flakformation.}}
+
+{{led|namn=Kvinnofällan|grad=7c|fa=Fredrik Sydstrand|typ=sport|text=Börjar i Baggen, men går vänster och in i Snatch.}}
+
+{{led|namn=Tintin direkt|grad=8a (hela)|fa=Johan Luhr|typ=sport|text=Boulderaktigt insteg. Börjar vid en böjd järnpinne.}}
+
+{{led|namn=Tintin|grad=7c+|fa=Johan Luhr|typ=sport}}
+
+{{led|namn=Milou|grad=7c|fa=Johan Luhr|typ=sport}}
+
+{{led|namn=Kapten Haddock|grad=7a|fa=LL, MW|typ=sport}}
+
+{{led|namn=Fasta former|grad=7b|fa=Johan Luhr|typ=sport}}
+
+{{led|namn=Ada|grad=6a+|fa=MW, LL|typ=sport|text=Osäkrat insteg leder upp till en dieder som sluttar åt höger. Utsteget är brantare och kräver beslutsamhet.}}
+
+{{led|namn=Runda former|grad=6a+|fa=Johan Luhr|typ=sport|text=Fin klättring på goda grepp upp till samma utsteg och ankare som Ada.}}
+
+{{led|namn=Solstorm|grad=6a|typ=sport|längd=16|bultar=5|fa=[[Andreas Harne]][[-13]]|ny=ja|text=Några meter till höger om Runda former. Underhållande klättring upp till en hylla med en stor tall, där ett separat ankare finns.}}
+
+{{led|namn=Havstörst|grad=6a|typ=sport|längd=10|bultar=3|fa=[[Andreas Harne]][[-13]]|ny=ja|text=Går på en liten svavägg till höger om stora väggen. Firningsankare.}}
+
+===Högklint===
+[[Bild:högklint.jpg|thumb|300px|Högklint]]
+
+Överhängande vägg som också ligger vid vattnet. Korta tunga leder. 
+
+'''Vägbeskrivning:''' Som för Sjöväggen, men fortsätt stigen rakt fram. Efter några hundra meter korsar en ledning stigen och strax efter det visar ett tredje röse var du ska vika av höger ned mot vattnet. Lättare att hitta till än Sjöväggen. 
+
+Här finns ett gäng nya leder. Någon som har koll?
+
+{{led|namn=Matrix|grad=7c+|fa=JL|typ=sport|text=Går ihop med Salt Sill?}}
+
+{{led|namn=Salt sill|grad=7c|fa=JL|typ=sport|betyg=2|text=Viker av åt höger?}}
+
+{{led|namn=Törnrosa|grad=8a|typ=sport|text=Stämmer detta? Går ihop med Salt Sill?}}
+
+{{led|namn=Ålen|grad=7a|fa=JL|typ=sport|bultar=5|text=Går till vänster om taket. Gymnastisk klättring för hela kroppen. Hemsk, men rolig. Välbultad.}}
+
+{{led|namn=Ska ni joppa|grad=6b|fa=MO, CT|typ=sport|text=Högra delen av taket. Svårare än vad den ser ut.}}
+
+{{led|namn=Lutande sprickan|grad=7b|fa=JL|typ=sport}}
+
+{{led|namn=Medvind|grad=7b|fa=JL|typ=sport}}
+
+{{led|namn=Motvind|grad=7b|fa=JL|typ=sport}}
+
+[[Bild:Finnsvedsberget_balkongen.png]] 
+
+Balkongen nås via fast rep längst ut till vänster på Högklint. Här finns några ganska fina 5c-leder och några nya, okända leder. Akta taggbuskarna när ni firar ner från led 3 & 4.
+
+{|
+|- valign="top"
+| width=300px |
+{{led|nr=1|namn=Badkrukan|grad=7b|typ=sport}}
+
+{{led|nr=2|namn=Musslan|grad=6c+|fa=JL|typ=sport}}
+
+{{led|nr=3|namn=Ta mig till havet|grad=5c|fa=MJ, JL|typ=sport|text=Inne i hörnet. Ganska fin.}}
+
+{{led|nr=4|namn=Gör mig till kung|grad=5c|fa=JL, MJ|typ=sport}}
+
+{{led|nr=5|namn=Solo|grad=6a|fa=Okänd|typ=sport|text=Väggklättring till vänster om "aréten".}}
+| width=300px |
+{{led|nr=6|namn=Ormbunken|grad=6b+|fa=Okänd|typ=sport|text=Följer "aréten". Cruxet håller kanske 6b/6b+, resten betydligt enklare.}}
+{{litentext|text=Resten av lederna ser hårda ut. Går eventuellt en till linje mellan 7 och 8.}}
+
+{{led|nr=7|namn=Törnrosa|grad=8a|fa=Okänd|typ=sport}}
+
+{{led|nr=8|namn=Draget|grad=7b+|fa=Okänd|typ=sport}}
+
+{{led|nr=9|namn=Rock Johan|grad=7b|fa=Okänd|typ=sport}}
+|}
+
+===Svaväggen===
+
+{{led|namn=Ljungens lag|grad=4c|fa=MO, CT|typ=trad}}
+
+{{led|namn=De som tog och log|grad=4b|fa=MO, CT|typ=trad}}
+
+{{led|namn=Svajmast|grad=5a|fa=MO, CT|typ=mix}}
+
+
+===Lilla väggen===
+
+{{led|namn=No more Mr Nice guy|grad=5c|fa=CT, MT|typ=trad}}
+
+{{led|namn=Meet Dr Nasty|grad=5a|fa=MO, CT|typ=trad}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Category:Trad]]
+[[Category:Sport]]
+[[Category:Överhäng]]

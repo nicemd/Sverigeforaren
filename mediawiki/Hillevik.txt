@@ -1,0 +1,23 @@
+[[Kategori:Saknar allmän info]]
+=Vägbeskrivning=
+För att komma till blocket där HilleBay problemen går kör ni samma väg som till Eskön. När ni svängt av gamla E4:an mot Eskön så tar ni höger in på en grusväg i en skarp vänster kurva några hundra meter från "stora" vägen. 
+(samma väg som till Blåbärsstenarna). Kör på grusvägen och sedan första vägen vänster, kör på den nya vägen några hundra meter och ta sedan första vägen vänster. Parkera i "korsningen" sedan har ni blocket 10meter in i skogen på er högra sida. 
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=HilleBay|grad=6A+|typ=Krimp,Reach|fa=Ronny A|landning=3|betyg=2|fadatum=2007-07-26|sopad=Ronny A|sittstart=ja|startgrepp=ja|text=Sittstart vid pilarna, med vänster hand på låga crimphyllan och höger på större gastonhyllan. Gå sedan vänster mot stora crimphyllan och upp via bullen på aréten, toppa ur rakt upp utan heelhook på högra aréten.}}
+{{problem|nr=2|namn=H.B. Aréten|grad=6A+|typ=Krimp,Aréte,Reach|fa=Ronny A|landning=3|fadatum=2007-07-26|sopad=Ronny A|sittstart=ja|startgrepp=ja|text=Starta lika som HilleBay vid pilarna men gå rakt upp mot den högra lutande aréten via lilla crimpen, fortsätt sen aréten upp till toppen.}}
+| width="250px" |
+{{problem|nr=3|namn=H.B. Dynot|grad=6C+|typ=Dyno|fa=Ronny A|landning=3|betyg=1|fadatum=2007-07-26|sopad=Ronny A|startgrepp=ja|text=Starta vid pilen på den stora crimphyllan som HilleBay går förbi. Dyno rakt upp till översta hyllan utan att använda bullen på aréten.}}
+| width="250px" |
+{{problem|nr=4|namn=H.B. Slabben|grad=6A+|typ=Krimp,Slab|fa=Ronny A|landning=3|fadatum=2007-07-26|sopad=Ronny A|text=Går runt hörnet till vänster sett från HilleBay. Starta vid pilen och gå rakt upp.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

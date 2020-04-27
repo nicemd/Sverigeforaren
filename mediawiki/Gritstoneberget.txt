@@ -1,0 +1,114 @@
+{{info klippa
+  |lat=59.20144
+  |long=18.39136
+}}
+
+{{komplett}}
+
+==Allmänt==
+Litet men trevligt väggparti på norra delen av Ällmoraberget.
+
+==Beskrivning==
+Den intressantaste delen av väggen är ca 50 m lång och 20–25 m hög. En bred hylla går över väggen ca 10 m över marken och det stora flertalet av klippans drygt 30 leder börjar på denna. Till h om detta väggparti fortsätter den övre delen som en lägre och flackare klippa med bara ett par leder. Klippan är ganska kompakt med i huvudsak mycket tunna sprickor och ett ordentligt sortiment av små vajerkilar samt förmågan att kunna placera dessa är nödvändigt för att kunna säkra tillfredsställande. Klättringen är framför allt brant väggklättring på små, goda grepp och flera av de svårare lederna ger teknisk, sparsamt säkrad klättring av hög klass. Med modern säkringsteknik (läs borrbultar!) går det att klättra i stort sett överallt vilket har medfört att lederna på sina ställen ligger mycket tätt. De finare lederna är dock fortfarande att betrakta som självständiga sådana. En mycket populär klippa. 
+
+==Access {{access}}==
+<accessDB>
+ id=6
+ width=500
+ height=300
+</accessDB>
+'''Hänsyn till boende.''' På senare år har relationerna med sommarstugeägarna nedanför vägen successivt försämrats. Under vintern 91/92 satte någon – olagligt – upp skyltar längs med vägen där det står tillträde förbjudet. Området är ett naturskyddsområde men Länsstyrelsen har hittills inte infört några restriktioner för klättring. För att konflikten inte skall förvärras måsta alla som klättrar här hjälpas åt. Allt som sägs uppe på klippan hörs otroligt väl nere vid sommarstugorna. Undvik därför att skrika och hojta i onödan. Många av parkeringsfickorna längs med vägen tillhör sommarstugorna, parkera klokt. Välj andra klippor för klätterkurser och dylika arrangemang.
+
+==Miljö==
+Sydväst, öppet för solen och rent förutom nedre väggen som är skuggig och mossig. 
+
+==Vägbeskrivning:==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.20144" lon="18.39136" zoom="14" type="map" controls="small">
+59.20144,18.39136,[[Gritstoneberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Gritstoneberget
+lat=18391360
+long=59201440
+</slresa>
+</div> 
+
+Ällmoraberget ligger längs norra sidan av Ällmoravägen på västsidan av halvön. Gritstone-klippan ligger 30 m från vägen uppe i skogen mitt emot tomt nr 92-94-96. Parkera längs med vägen.
+Nya koordinater: Lat: 59.12.00 Long: 18.23.34
+
+==Kommunikationer==
+Ta buss 873/875 från Gullmarsplan till Tyresö centrum (873) eller Lagergrensväg (875). Byt till 805 mot Ällmora (ändhållplats). Vardagar, försök att pricka in snabbussen 815. Väl där, följ Ällmoravägen ca 1 km tills du är mitt emot tomt nr 92-94-96.
+
+==Leder==
+[[Bild:Gritstone.png]]
+
+===Övre väggen===
+Den definitivt attraktivaste delen av klippan är den övre delen och den stora hyllan är också den naturliga platsen att ha sina grejor på. Hyllan är lätt att komma upp på, både från h och v. Lederna beskrivs i den ordning de kommer om du går upp från v. En markant spricklinje, Amandas lov, i vänstra delen samt några mosstråk lite längre åt h tjänar som bra orienteringspunkter. 
+
+{{led|nr=1|namn=Sunt och Gott|grad=5|längd=15|fa=[[Harri Sporrevik]] [[-88]]}}
+{{led|nr=2|namn=Sakral dermoid|grad=5|längd=16|fa=[[Jan Liliemark]], [[Lars Grankvist]] [[-80]]}}
+{{led|nr=3|namn=Fjärt i kosmos|grad=4+|längd=16|fa=[[Harri Sporrevik]], [[Per Calleberg]] [[-86]]}}
+{{led|nr=4|namn=Slå mej med slickepotten|grad=6/6+|längd=16|fa=[[Claes Jelinek]], [[Martin Andersson]] [[-86]]}}
+{{led|nr=5|namn=Tummeliten|grad=6-/6|längd=16|fa=[[Lars Grankvist]], [[Lars Svadängs]] [[-81]]}}
+{{led|nr=6|namn=Den joggande myran|grad=5|längd=16|fa=[[Rikard Hedman]], [[Lars Svadängs]] [[-81]]|text= 2m till vänster om den stora tydliga sprickan (Amandas Lov). Brant och fin 5:a klättring med bra säkringar där det behövs.}}
+{{litentext|text=Den fina spricklinjen th är början på det finaste partiet av väggen. Detta parti innehåller flera av klippans finaste leder, med en definitiv klassiker som alla som kan bara måste göra!}} 
+
+{{led|nr=7|namn=Amandas lov|grad=4-|längd=16|fa=[[Lars Grankvist]], [[Lars Johansson]] [[-80]]|text=Den stora tydliga sprickan.}}
+{{led|nr=8|namn=Jinx|grad=6+/7-|längd=16|fa=[[Björn Alber]], [[Lars Svadängs]] [[-86]]}}
+{{led|nr=9|namn=Svettiga grisen|grad=6|längd=16|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[-80]]|betyg=3|text=En fin led som biter ifrån redan i insteget och aldrig släpper taget. Starta i dubbelsprickan vid eken. Följ sedan den uppenbara linjen uppåt.}}
+{{led|nr=9a|namn=Direktutsteg|grad=6+|längd=7|fa=[[Björn Myrer-Lund]] -8?|text=Drygt mitten på leden finns en fantastisk nötsäkring. När denna är placerad, kliv lite åt höger, sedan rakt upp. Runout hela vägen upp till toppen.}}
+{{led|nr=10|namn=Skrik som en gris|grad=6|längd=16|fa=[[Claes Jelinek]], [[Ingemar Gustafsson]], [[Mats Almlöf]] [[-86]]}}
+{{led|nr=11|namn=Stäppvargen|grad=4+/5-|längd=16|fa=[[Lars Svadängs]], [[Kenneth Nolkrantz]] [[-80]]}}
+{{led|nr=12|namn=Massmossa|grad=6-|längd=16|fa=[[Gunnar Woodsack]], [[Mats Larsson]] [[-89]]}}
+{{led|nr=13|namn=Tveksamma trender|grad=7-|längd=16|fa=[[Lars Svadängs]], [[Christer Åstrand]] [[-88]]}}
+{{led|nr=14|namn=Skorpionen|grad=5/5+|längd=16|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[-80]]}}
+{{led|nr=15|namn=Himmel blå|grad=6+|längd=15|fa=[[Lars Svadängs]], [[Björn Alber]] [[-87]]}}
+{{led|nr=16|namn=Tvivelaktiga tendenser|grad=6|längd=15|fa=[[Choe Brooks]], [[Jan Liliemark]] [[-80]]}}
+{{led|nr=17|namn=No exit|grad=6-|längd=15|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[-80]]|text= Ojämn led men med ett intressant avslut över bullen.}}
+{{led|nr=18|namn=Examen|grad=6/6+|längd=15|fa=[[Björn Alber]], [[Lars Svadängs]] [[-87]]|text= Nu är denna led rensad och klar för att avnjutas. Leden är förlängd med en 4 meters sva avslutning istället för att som förr kliva åt höger.}}
+{{litentext|text=Th om Examen faller klippan tillbaka något innan den åter reser sig i höjden i form av en brant klippelare.}} 
+{{led|nr=19|namn=Stoppa in produkter|grad=5|längd=15|fa=[[Ingemar Gustafsson]], [[Claes Jelinek]] [[-86]]|text=Med hjälp av en spricka och lite grepp på sidorna tar du dig upp till en mindre hylla, där du kan filosofera över livet och kvaliten på dina säkringar en stund innan du fortsätter till toppen.}}
+{{led|nr=20|namn=Björntjänst|grad=6-|längd=15|fa=[[Björn Alber]], [[Anna Groth]] [[-87]]}}
+{{led|nr=21|namn=Urkki|grad=6/6+|längd=14|fa=[[Petri Lintinen]] [[-81]]}}
+{{led|nr=22|namn=Shift/Control|grad=7-|längd=14|fa=[[Lars Svadängs]], [[Björn Alber]] [[-86]]}}
+{{led|nr=23|namn=Frida|grad=4|längd=14|fa=[[Lars Svadängs]], [[Jan Liliemark]] [[-81]]}}
+{{led|nr=24|namn=Olovlig körning|grad=5+|längd=12|fa=[[Thomas Weber]], [[Ulrika Sundberg]] [[-89]]}}
+
+===Bortre väggen===
+Ytterligare th reser sig ännu ett markant klipparti innan klippan definitivt tappar både stil och höjd! 
+{{led|nr=25|namn=Ballerina|grad=6+/7-|längd=13|fa=[[Rikard Hedman]], [[Birger Hedlund]] [[-83]]}}
+{{led|nr=26|namn=Branta fingrar|grad=7+/8-|längd=13|fa=[[Eva Selin]], [[Anders Lundahl]] [[-91]]}}
+{{led|nr=27|namn=Leroy|grad=6+/7-|längd=13|fa=[[Thomas Hansson]] [[-85]]}}
+{{litentext|text=Följande två leder ligger betydligt längre bort åt h och görs nästan aldrig. Ta er dit så förstår ni varför!}} 
+{{led|nr=28|namn=Ekbusken|grad=4-|längd=10|fa=[[Lars Johansson]], [[Lars Svadängs]] [[-81]]}}
+{{led|nr=29|namn=Struggel och strul|grad=6-|längd=10|fa=[[Lars Svadängs]] [[-81]]}}
+
+===Nedre väggen===
+Lägre och inte så attraktiv som den övre delen. Har en tendens att gro igen om den får chansen. 
+{{led|nr=30|namn=Scenbuddism|grad=5|längd=12|fa=[[Dan Engström]], [[Claes Jelinek]] [[-83]]}}
+{{led|nr=31|namn=Toffelhjälten|grad=7-|längd=12|fa=[[Lars Grankvist]], [[Staffan Ericsson]] [[-87]]}}
+{{led|nr=32|namn=Moderna tider|grad=6+|längd=12|fa=[[Lars Svadängs]], [[Lars Grankvist]], [[Niklas Björnerstedt]] [[-83]]}}
+{{led|nr=33|namn=Stånk och stön|grad=6-|längd=12|fa=[[Lars Grankvist]], [[Lars Svadängs]] [[-81]]}}
+{{litentext|text=Th om Stånk och stön finns en borrbult 5m upp. Den säkrar en 6+ led, klättrad av Lars Grankvist och Lars Svadängs.}} 
+
+===Ällmoraberget===
+[[Bild:Gritstone_mellan.png]]
+
+Snett bakom parkeringsfickan finns ett annat intressant väggparti. Längst tv på klippan finns en tydlig kamindieder med ett kraftigt överhäng på slutet. Det högra partiet kännetecknas av markanta toppöverhäng, en fin spricklinje och ett stort träd som vilar mot klippan. Väggen avslutas åt h av en blockaktig pelare. Th om detta blir klippan av betydligt sämre kvalitet. 
+{{litentext|text=Ett större klippblock brakade sommaren -91 i backen och skrämde upp lokalbefolkningen. Det finns ingen anledning att tro att det skulle hända igen men försök att vara lite diskret om du klättrar här!}} 
+{{led|nr=34|namn=Newtons första|grad=6|längd=12|fa=[[Jan Liliemark]], [[Göran Blomqvist]] [[-80]]}}
+{{led|nr=35|namn=Mistlur|grad=7+/8-|längd=~12|fa=[[Anders Lundahl]] [[-91]]}}
+{{led|nr=36|namn=Mästerlotsen|grad=7+|längd=~12|fa=[[Anders Lundahl]], [[Eva Selin]] [[-91]]}}
+{{led|nr=37|namn=Stormvarning|grad=6/6+|längd=12|fa=[[Eva Selin]], [[Anders Lundahl]] [[-81]]}}
+{{led|nr=38|namn=Groundknallen|grad=7+|längd=~12|fa=[[Eva Selin]], [[Anders Lundahl]] [[-91]]}}
+{{led|nr=39|namn=F = M * a|grad=6-|längd=~12|fa=[[Anders Lundahl]], [[Eva Selin]] [[-81]]}}
+{{litentext|text=Nästa led ligger ett stycke längre söderut:}}
+{{led|nr=40|namn=Sprickan|grad=8-/8|längd=5|fa=[[Johan Luhr]], [[Rikard Hedman]] [[-89]]}}
+{{litentext|text=I övrigt har detta väggparti mycket klippa men lite klättring. Klippan är delvis mycket lös och oinbjudande. Låt den vara!}} 
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Sport]] [[Kategori:Trad]] [[Kategori:Stockholm]] [[Kategori:Tyresö]]

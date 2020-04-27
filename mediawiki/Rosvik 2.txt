@@ -1,0 +1,38 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=2|namn=Skurkstater|grad=6C|typ=Krimp|fa=Magnus Eriksson|landning=1|betyg=1|fadatum=2004-05-04|startgrepp=ja|text=Etablerad start med båda händerna i markerade undertag.}}
+{{problem|nr=3|namn=Bin Laden|grad=6B+|typ=Krimp|fa=Magnus Eriksson|landning=1|betyg=2|fadatum=2003-07-01|sittstart=ja|text=Låg sittstart på små krimpers.}}
+{{problem|nr=4|namn=Mjältbrand|grad=6B|typ=Krimp|fa=Per Lundberg|landning=1|betyg=1|fadatum=2004-07-01|sittstart=ja|text=Sittande start vid siffran, stort sidotag för höger hand sedan upp.}}
+{{problem|nr=5|namn=Bagdad Bob|grad=5C|typ=Krimp|fa=Mikael Eriksson|landning=1|betyg=3|fadatum=2004-07-01|text=Rakt upp vid siffran via krimper mitt på väggen.}}
+{{problem|nr=6|namn=Antrax|grad=6A+|typ=|betyg=1|fadatum=2003-07-01|sittstart=ja|text=På bortre areten av den stora stenen. Sittstart.}}
+{{problem|nr=7|namn=Ondskans axelmakter|grad=5B|typ=Överhäng|fadatum=2003-07-01|sittstart=ja|text=Takproblem strax till höger om föregående.}}
+{{problem|nr=8|namn=Mr President|grad=6B|typ=Travers V->H|betyg=1|fadatum=2003-07-01|sittstart=ja|text=Hängande travers. Starta på markerad sloper och traversera till vänster runt hörnet och ut.}}
+| width="250px" |
+{{problem|nr=9|namn=Hillary Clinton|grad=6A|typ=Aréte|betyg=2|fadatum=2004-06-17|text=Snyggt arete något bortanför "mr president".}}
+{{problem|nr=14|namn=Aung San Suu Kyi|grad=5A|typ=Krimp,Slopers|fa=Lina Brändström|landning=1|betyg=3|fadatum=2004-07-08|text=Rakt upp vid siffran.}}
+{{problem|nr=15|namn=Bader Meinhof|grad=5C|typ=Krimp,Slopers,Mantling|fa=Martin Fransson|landning=4|betyg=1|fadatum=2003-07-08|text=Rakt upp från siffran.}}
+{{problem|nr=16|namn=Femminist va trist|grad=5B|typ=Krimp,Aréte|fa=M.E, L.B, ME, M.F|landning=3|betyg=1|fadatum=2004-07-08|text=Följ Aréten}}
+{{problem|nr=23|namn=M.P.L.A|grad=5B|typ=|fadatum=2003-07-03|sittstart=ja|text=Sittstart och upp. Rolig mantling.}}
+{{problem|nr=24|namn=F.N.L|grad=6A+|typ=|fadatum=2003-07-03|sittstart=ja|text=Sittstart och två markerade krimpers. Rakt upp!}}
+{{problem|nr=25|namn=Pol Pot|grad=5A|typ=Aréte,Jug|fa=M.E, P.L, M.E|landning=4|fadatum=2004-05-04|text=Rakt upp på det tydliga höga aréten.}}
+{{problem|nr=26|namn=I.R.A|grad=5C|typ=|fadatum=2003-07-03|uteslutningar=ja|text=Hukande(?) start med båda händerna på stor list.}}
+| width="250px" |
+{{problem|nr=27|namn=Sapatha|grad=6A+|typ=|fadatum=2003-07-03|sittstart=ja|text=Krystad sittstart med höger hand på stor list}}
+{{problem|nr=28|namn=Marxist Javisst!|grad=6A|typ=|fadatum=2003-07-03|sittstart=ja|text=Sittstart på hörnet. Svårare än man tror!}}
+{{problem|nr=29|namn=Bättre död än röd!|grad=5B|typ=|fadatum=2003-07-03|sittstart=ja|text=}}
+{{problem|nr=30|namn=Sendero Lomunioso|grad=6B|typ=Travers H->V|landning=3|fadatum=2003-07-03|text=Lång travers på slopiga grepp. Starta längst till höger, avsluta till vänster!}}
+{{problem|nr=31|namn=Apburen|grad=5C|typ=Pinch,Mantling,Jug|landning=2|betyg=1|fadatum=2004-06-10|text=Start i den tydliga juggen under taket med  händerna. Vänster hand till pinch, sen rakt upp över läppen. Ligger ca 5m till vänster om Nr. 14}}
+{{problem|nr=33|namn=Burlemur|grad=5B|typ=Mantling|landning=2|betyg=1|fadatum=2004-06-16|startgrepp=ja|text=Markerade startgrepp. Ligger 5m till vänster om nr. 31}}
+{{problem|nr=34|namn=Mama Said|grad=6A+|typ=Krimp,Slopers,Aréte|landning=4|fadatum=2004-06-16|text=Sittstart vid areten. 30m ovanför Nr.9}}
+|}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

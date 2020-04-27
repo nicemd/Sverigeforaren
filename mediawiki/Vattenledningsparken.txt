@@ -1,0 +1,64 @@
+{{info klippa
+  |lat=57.767239
+  |long=14.136014
+}}
+
+{{utkast}}
+<!-- {{komplett}} -->
+
+
+==Allmänt==
+Liten klippa med bra topprepsankare. Ostvänd och har sol på förmiddagen, torkar ganska snabbt. Klättring i graderna runt 5-6 runt 8m hög. På sina ställen mossigt så ta med en borste.
+
+==Karta==
+<googlemap version="0.9" lat="57.768819" lon="14.13168" zoom="15">
+57.767056, 14.131594, Vattenledningsparken
+</googlemap>
+
+
+==Historia==
+Vattenledningsparken finns det gamla Åsenverket, dvs Åsendammen med sina tre infiltrationsdammar. Från 1860-talet fram till 1958 var Åsenverket den vattenreservoar som försåg Jönköpings gamla stad med vatten.
+De gamla fontänerna i infiltrationsdammarna är åter i bruk och tack vare självtryck sprutar de vatten året om. Härigenom bildas under extremt kalla vinterperioder isskulpturer.
+==Vägbeskrivning==
+
+Parkering mitt emot "fontänerna".Från parkeringen, vandra tillbaka efter vägen. Följ stigen till höger ner bland träden.[[Bild:Vattenledningsparkenv.jpg]]
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+[[Bild:Vattenledningsparkenskiss.jpg]]
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Determinant|grad=?|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+
+{{led|nr=2|namn=Dynamometer|grad=5b|typ=sport|betyg=|bultar=4|längd=|fa=|text=Svårare om man är kort}}
+
+{{led|nr=3|namn=Florida|grad=5c|typ=sport|betyg=|bultar=|längd=|fa=|text=Mossig i slutet.}}
+
+{{led|nr=3a|namn=Tampa bay|grad=5b|typ=sport|betyg=|bultar=|längd=|fa=|text=Topprepsvariant på led nr 3}}
+
+{{led|nr=4|namn=Göreme|grad=ca 5|typ=sport|betyg=|bultar=4|längd=|fa=|text=toppankare saknas men verkar vara lätt klättring från sista bulten. Väldigt mossig så ta med borste.}}
+
+
+| width="350px" |
+
+==Övrigt==
+Runt dammarna finns det grillplatser, bord & bänkar. 
+Kan vara vara väldigt mycket myror vid väggen.
+
+Kan vara svårt att nå vissa toppankare uppifrån, om man vill toppa sätta upp topprep, ta det försiktigt.
+
+Tog mig friheten att döpa om lederna då ingen info om första bestigaren gick att hitta.
+|}
+
+
+[[Kategori:sport]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

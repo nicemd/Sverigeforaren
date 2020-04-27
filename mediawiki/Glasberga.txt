@@ -1,0 +1,131 @@
+{{info klippa
+  |lat=59.186123
+  |long=17.684405
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+<!--{{komplett}} -->
+
+==Allmänt==
+
+Ny sport- och tradklippa i närheten av Södertälje. Mycket nyturspotential! Både sport och trad. Klippan står omnämnd i Stockholmsföraren anno 2008 på sidan 282-283. Fler av väggarna har nu utvecklats. Alla projekt är öppna. Svalt och kalasbra stick varma sommardagar, då även en kortare regnskur spelar mindre roll eftersom klippan är någorlunda brant. Andra dagar kan dock klippan upplevas som fuktig, mörk, myggig och ganska inattraktiv. Torkar dessutom väldigt sakta.
+
+De flesta vintrar bildas även ett antal korta men fina isleder på klippan. Väl värt ett stopp för någon timmes lättillgänglig isklättring.
+
+==Vägbeskrivning==
+
+<div style="float: right">
+<googlemap version="0.9" lat="59.186123" lon="17.684405" type="map" zoom="15">
+http://
+59.186123, 17.684405
+</googlemap>
+</div>
+ 
+OBS! Ny parkeringsplats. Se nedan.
+
+Åk E4 mot Södertälje. Sväng av vid trafikplats Moraberg och sikta på skyltar mot väg 225 Nynäshamn genom rondellerna. Kör över E4 och åk tills du kommit igenom första rondellen på 225:an. Tyvärr får man numera parkera i den lilla fickan vid rondellen och fortsätta rakt fram genom rondellen till fots de sista 800-900 metrarna till klippan efter som parkeringen på grusremsan blivit ett dike.  
+
+Markören på kartan anger gamla parkeringen där man går över vägen till sportklättringen - inte någon av klipporna.   
+
+''Till tradturerna:'' Gå ca 800 meter på 225:an på cykelbanan och sväng in vänster i skogen efter ett litet elskåp av något slag. 
+
+''Till sportklättringen:'' Precis innan skylten som hänger över vägen och informerar om "Gärtuna, AstraZeneca och Igelstaverket" efter ca 900 meter gå över vägen och ner till viltstängslet. Följ detta åt höger tills du kommer till en provisorisk, fast stege. Klättra över och fortsätt höger och sedan in till klippan efter 20 meter.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+[[Bild:glasberga-vanster.gif|center]]
+
+'''Vänsterdelen'''
+
+''Minst utvecklade delen av den stora glasbergaväggen. Lite blockig klättring med mycket nyturspotential.'' 
+
+{{led|nr=1|namn=Gå på glas |grad=6c |betyg=2|fa=Erik Hagelin 11| bultar=7 |typ=sport |text=Hård lite morpho start leder till överraskande fin och väldigt varierad klättring. Se upp med de lite lösa skivorna i början av leden.}}
+
+{{led|nr=2|namn=Projekt "Sprucket glas |grad=? |typ=sport |text=Börjar som Gå på Glas och viker av höger upp i den grunda sprickan. Bara att bulta och sända. Ser riktiigt fint ut.}}
+
+
+'''Mittendelen'''
+
+[[Bild:glasberga-mitten.gif|center]]
+
+''Mittendelen är den mest utvecklade delen av klippan. Enormt mycket olika sorters grepp och steg gör att varianterna mellan lederna är väldigt många. Gemensamt för lederna är dock att starterna är glesare på grepp och därför ger en bouldrig karaktär. Ovanför klippan vid det gulmarkerade trädet finns ett arbets- och firningsankare (provisorium med förzinkade bultar och ringhängare).''
+
+
+{{led|nr=1|namn=Upptäck Södertälje |grad=7a |betyg=2|fa=Erik Hagelin 11| bultar=7 |typ=sport |text=Upp längs limbultarna. Balans- och fingerkrävande krux leder till ihållande klättring som otippat avslutas med ett roligt boulderproblem.}} 
+
+{{led|nr=2|namn=Projekt "Upptäck mer |grad=? |betyg=0|typ=sport |text=Travers från Upptäck Södertälje till ankaret på Aldrig fucka upp. Två bultar till behövs här. Borra och sänd!}}
+
+{{led|nr=3|namn=Aldrig fucka upp |grad=6c+ |betyg=1|fa=Erik Hagelin 11| bultar=5 |typ=sport |text=Tung start längst krimpramperna, vila och sedan laybackfest till toppen. Blir lätt pumpande om man gör fel. Ogjort direktinsteg eller kanske en ny led till vänster om bullen till samma ankare går att göra om man borrar några bultar till.}}
+
+{{led|nr=4|namn=Juggjakten |grad=6c |betyg=0|fa=Erik Hagelin 09| bultar=5 |typ=sport |text=Samma start och samma första bult som Aldrig fucka upp. Sedan ut höger.}}
+
+{{led|nr=5|namn=Tjejen som vägde för lite |grad=6b+ |betyg=0|fa=Erik Hagelin 09| bultar=3 |typ=sport |text=Första leden som borstades fram. Antogs vara typ en lätt femma - men skenet bedrog! Starta upp i sprickan mot de slopiga bullarna. Starka klättrare har gått bet - dock inte sandbaggad om man hittar rätt beta och går på lite.}}
+
+{{led|nr=6|namn=Krokiga fingerleden |grad=5c |betyg=0|fa=Anders H 09| bultar=3 |typ=sport |text=Lite avig och pirrig traverersering i blockig terräng. Läskigt att klippa ankaret, men fallet är faktiskt testat ett flertal gånger. Inte överbultat. (Leden är krokig, liksom numera förstebestigarens ringfinger.)}}
+
+{{led|nr=7|namn=Lösa boliner |grad=5a |betyg=0|fa=Anders H 11| bultar=2 |typ=sport |text=Börja bakom trädet och solotraversera mot första bulten på Snabba cash. Och ja, allt är löst. Leden ska rensas och borstas bättre. Tills dess klättra försiktigt.}}
+
+{{led|nr=8|namn=Snabba Cash |grad=6a |betyg=0|fa=Erik Hagelin 11| bultar=2 |typ=sport |text=Ett småkul boulderinsteg leder till helt ok hej-och-hå-klättring mot toppen. Torkar sakta. }}
+
+
+'''Högerdelen'''
+[[Bild:glasberga-hoger.gif|center]]
+
+''Från mittendelen och ut höger blir det betydligt mossigare och mörkare, men under mossan döljer sig ibland finfina formationer. Knalla ca trettio meter längst klippans fot så dyker följande fina leder upp:'' 
+
+{{led|nr=1|namn=En ordinär familjeutflykt |grad=7a |betyg=2|fa=[[Andreas Harne]] [[-11]]| bultar=4 |typ=sport |text=Hård och tung led som kickar in från start och inte släpper taget förrän ankaret är klippt. Några fina flytt! Ser lätt ut. Det är den inte. Men kanske lättare än 7a?}}
+
+{{led|nr=2|namn=Exekution |grad=7b |betyg=1|fa=[[Andreas Harne]] [[-11]]| bultar=3 |typ=sport |text=Ännu tyngre och mer ihållande än grannen. Betvinga den fruktansvärda svängdörren. Glasbergas testpiece nummer ett, ännu så länge i alla fall...}}
+
+{{led|nr=3|namn=Projekt |grad=? |betyg=0|typ=sport |text=Ser kort men intensiv ut. Tyvärr står ett träd i vägen.}}
+
+
+'''Vägväggen'''
+
+''På cykelvägs-sidan av vägen finns några tradturer och potential för fler. Från vänster till höger.'' 
+
+{{led|nr=1|namn=Myror i brallan|grad=4 |betyg=0|fa=Anders H 08 |typ=trad |text=Spricktur längst bort till vänster på väggen.}}
+
+''Lederna 2-5 går på det högsta väggpartiet bakom träden och ovanför detta, och har rapporterats till Plonk.se:''
+
+{{led|nr=2|namn=Kuken i styret|grad=6a+ |betyg=0|fa=Erik Sandelin och David Hässler 08 |typ=trad |text=Går till vänster på klippan upp till och över det svagt överhängande väggpartiet. Fin väggklättring, dåligt säkrad.}}
+
+{{led|nr=3|namn=Projekt |grad=? |betyg=0|typ=trad |text=Längst till höger på den fina höga klippan. Följer den tydliga flaksprickan. När denna svänger mot vänster kan man antingen fortsätta följa den (lätt) eller gå rakt upp (svårare). Testad på topprep men inte gjord ännu. Kemankare finns på toppen.}}
+
+
+''Ca 15 meter till höger om urtoppningen av led nummer 3 finns ett väggparti med två korta men fina sprickturer:''
+
+
+{{led|nr=4|namn=Glädjen i fjället|grad=5b |betyg=0|fa=Erik Sandelin, Mattias Borg 08 |typ=trad |text=Första sprickan.}}
+
+{{led|nr=5|namn=Ro utan åror|grad=6a+ |betyg=0|fa=Erik Sandelin, Björn Khilström 08 |typ=trad |text=Spricktur längst bort till höger på väggen.}}
+
+==Isklättring==
+
+I högerkanten av mellanväggen brukar det bildas en ledbar 25m hög isled. Bökig att komma 
+åt ovanifrån om man vill topprepa
+
+På trad-sidan finns flera kortare leder som kan toppas eller ledas. Den mest uppenbara är en delvis fristående pelare som går rakt ner i kanten av cykelvägen. Lite längre mot Södertälje, innan vägenväggen, finns en kortare vägg uppe i backen
+med 3-4 st kortare men fina isar.  Väggen nås genom en strategiskt placerad grind i viltstängslet.
+
+[[Bild:Glasberga cykelpelaren.jpg|center|thumb|Ispelare vid cykelvägen]]
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:is]]
+<!-- [[Kategori:mix]] -->
+[[Kategori:sva]]
+<!-- [[Kategori:Bouldering]] -->
+[[Kategori:Stockholm]]
+[[Kategori:vertikalt]]
+[[Kategori:Västra Södertörn]] 
+<!-- [[Kategori:överhäng]] -->
+ 
+
+[[kategori:Saknar skrivarformatering]]

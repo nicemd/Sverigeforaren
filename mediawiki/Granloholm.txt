@@ -1,0 +1,24 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=El traversen|grad=5A|typ=Travers V->H|fa=Tony Berglund|landning=4|sopad=Tony Berglund|sittstart=ja|uteslutningar=ja|text=Problemet finns ca 40 m in under elledningen från stenen där de flesta problemen finns. Det är en ca 10 m lång travers, börjar på vä kortsidan, slutar med att gå upp på hö kortsida. Uteslutningarna är den översta läppen på på hela traversen.}}
+{{problem|namn=Likspänning|grad=5A|typ=Travers V->H|fa=Tony Berglund|landning=4|sopad=Tony Berglund|sittstart=ja|variant=ja|text=En variant på El traversen där man bara gör det intressanta slutet. Sittstart ca 3 m innan slutet.}}
+{{problem|nr=1|namn=Tradtravers|grad=5C|typ=Krimp,Travers H->V|fa=Per Wermelin|landning=2|betyg=1|fadatum=2003-04-03|sopad=Per Wermelin|startgrepp=ja|text=Börjar med höger hand på arêten borta till höger, vänster hand i pocket. Traversera till vänster och gå därefter upp via flaket.}}
+| width="250px" |
+{{problem|nr=2|namn=Below zero|grad=6B|typ=Överhäng,Jug|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-03|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar till höger under taket på undercling, går därefter på utsidan av detta och upp på kortsidan.}}
+{{problem|nr=3|namn=Kangaroo|grad=6A|typ=Dyno,Jug|fa=Jon Kågström|landning=4|betyg=2|fadatum=2003-04-03|sopad=Jon Kågström|variant=ja|text=Hoppstart till juggen längst ut på taket, dyna sedan upp till nästa jug och mantla därefter upp.}}
+{{problem|nr=4|namn=Snöpuls|grad=6B+|typ=Krimp|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-03|sopad=Fredrik Bodin|sittstart=ja|uteslutningar=ja|text=Sittstart på kortsidan, går rakt upp utan att använda det stora flaket som är löst.}}
+| width="250px" |
+{{problem|nr=6|namn=Saddam|grad=6A+|typ=Överhäng|fa=Peter Nilsson|landning=1|betyg=2|fadatum=2003-04-09|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Börjar på den tydliga juggen under taket. Sedan rakt upp. Fötterna ska vara på samma sten som händerna.}}
+{{problem|nr=7|namn=Bin-Laaden|grad=5A|typ=Aréte|fa=Peter Nilsson|landning=3|fadatum=2003-04-09|sopad=Peter Nilsson|sittstart=ja|text=Börjar längst ut till vänster på terror-stenen. Rakt upp efter aréten.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,105 @@
+{{info klippa
+  |lat=59.785465
+  |long=17.642654
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!-- {{stub}} -->
+{{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+Omkring 7-10 m hög 60° svaklippa inne i Granebergsparken med några lätta linjer som går att säkra naturligt.
+
+==Introduktion==
+Lättillgänglig klippa om man bor i de södra delarna av Uppsala. Det har klättrats där tidigare men klippan verkade vara bortglömd och rensades/borstades återigen omsorgsfullt under hösten 2011. Topprepsmöjligheterna är ok, men ta med ordentligt långa slingor/statiskt rep och/eller några kilar, eftersom träden står en bit från klippkanten. Många linjer går dock så snett på klippan att dessa inte går att göra på topprep.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300  version="0.9" lat="59.785465" lon="17.642654" type="map" controls="small">
+59.785465, 17.642654, Granebergsklippan
+</googlemap>
+</div>
+
+Från Granebergsvägen svänger man av på Rådjursstigen till Allnäs friluftsgård (skyltat, KFUK/KFUM). Efter 450 meter ser du parkeringen till Allnäs på höger sida. Ta stigen västerut in i skogen just innan parkering. Efter 150 meter kommer du att se väggen på höger sida. 
+
+Längst västerut (bortanför 'Ficktjuven') finns en stig upp till toppen av klippan.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Skiss==
+<br/>
+[[Bild:Granebergsklippan - Skiss.jpg]]
+
+<div style="clear: right;"></div>
+
+[http://www.sverigeforaren.se/images/5/5f/Granebergsklippan-Skiss_HighRes.png Högupplöst version] - 
+[http://www.sverigeforaren.se/images/2/2a/Granebergsklippan-Skiss.svg SVG]
+
+==Leder==
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Ficktjuven|grad=5|typ=trad|betyg=1|längd=8|fa=[[Okänt, troligen inte David]] -11|text=Efter ett halvhårt instegskrux går leden vidare längs en trevlig fickliknade spricka, lätt efter insteget, välsäkrad!}}
+
+{{led|nr=1b|namn=Ficktjuvens medbrottsling|grad=4+|typ=trad|betyg=1|längd=8|fa=[[Okänt, troligen inte David]] -11|text=Ett alternativt insteg till Ficktjuven.}}
+
+{{led|nr=2|namn=Kluven|grad=3+|typ=trad|betyg=|längd=10|fa=[[Okänt, troligen inte Sjoerd]] -11|text=Trevligt klättring. Fötter i sprickan nedanför huvudsprickan. }}
+
+{{led|nr=3|namn=Ensam|grad=3|typ=trad|betyg=|längd=9|fa=[[Okänt, troligen inte Sjoerd]] -11|text=Andra hälften bortanför Ficktjuven saknar säkringsmöjligheter!}}
+
+{{led|nr=4,4b|namn=Vandringsleden|grad=2|betyg=|typ=trad|längd=15|fa=[[Okänt, troligen inte Sjoerd]] -11|text=Stora sprickan från vänster till höger, och varianten tillbaka till vänster mot trädet.}}
+
+{{led|nr=5|namn=Enkelriktat|grad=4|betyg=|typ=trad|längd=12|fa=[[Okänt, troligen inte David]] -11|text=Enkel klättring med cruxet på slutet.}}
+
+| width="350px" |
+
+{{led|nr=6|namn=Rakt på|grad=3|betyg=|typ=trad|längd=9|fa=[[Okänt, troligen inte Sjoerd]] -11|text=Nästan rakt på över flak.}}
+
+{{led|nr=7|namn=Den Djärve|grad=5|betyg=|typ=trad|längd=8|fa=[[Okänt, troligen inte David]] -11|text=Saknar säkringsmöjligheter ovanför 'Vandringsleden'.}}
+
+{{led|nr=7b|namn=Den Kloke|grad=5-|betyg=|typ=trad|längd=8|fa=[[Okänt, troligen inte David]] -11|text=Den kloka varianten med säkringsmöjligheter.}}
+
+{{led|nr=8|namn=...|grad=3|betyg=|typ=trad|längd=10|fa=[[Okänt, troligen inte Sjoerd]] -11|text=Mycket enkel klättring, svårt att säkra.}}
+
+{{led|nr=9|namn=Höga Granebergstraversen|grad=4|betyg=|typ=trad|längd=25|fa=[[Okänt, troligen inte David & Sjoerd]] -11|text=Höga traversen från höger till vänster, starta från marken och toppa ur bortanför 'Ensam'. Enkel klättring, svårsäkrat krux.}}
+
+{{led|nr=10|namn=Låga Granebergstraversen|grad=4?|betyg=|typ=trad|längd=15|fa=[[Okänt, troligen inte Spider-Man]] -11|text=Låga boulder-traversen, höger till vänster eller vänster till höger.}}
+
+|}
+
+==Bilder==
+{|
+|- valign="top"
+| width="350px" |
+
+[[Bild:Granebergsklippan1 350.jpg]]
+
+| width="350px" |
+[[Bild:Granebergsklippan2 350.jpg]]
+
+<div style="clear: right;"></div>
+
+|}
+
+
+==Övrigt==
+
+Författarna till denna sida har fått bekräftelse på att det klättrats tidigare på denna klippa. Däremot har ingen information kunnat hittas om leder, namn, förstabestigningar osv. Förhoppningvis hör du av dig eller korrigerar direkt om det finns dylik information hos dig som läser detta. Det viktiga för oss var att snabbt presentera denna svaklack som ett ytterligare alternativ kring det inte alltför klipptäta Uppsala. 
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+[[Kategori:sva]]
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+<!-- [[kategori:Saknar skrivarformatering]] -->
+
+[[kategori:Svealand]]
+[[kategori:Uppland]]

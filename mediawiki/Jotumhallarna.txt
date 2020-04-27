@@ -1,0 +1,62 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=60.348165
+  |long=12.997661
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!-- {{stub}} -->
+{{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+Ganska sällan klättrad klippa ca 1km från närmaste körbara väg. "Permanenta" toppsäkringar uppsatta av Vildmark i Värmland (Fasta installationer runt tallar på toppen av klippan). Klippan bjuder på ett antal leder i 5 och 6:a registret samt möjligheter till svårare väggklättring.
+Borstning av klippan behövs om man vill klättra några av de mer svaiga ledera medans de vertikala lederna är i princip körbara som de är.
+Klippan ligger i söderläge men pga relativt tät och närbevuxen granskog torkar den på vissa ställen långsamt.
+På vissa ställen på toppen av klippan ligger det några suspekta block som bör undvikas när man toppar ur.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="60.348118" lon="12.997628" zoom="15">
+60.348186, 12.997684, Jotumhallarna
+</googlemap>
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Kör norrut från Kyrkan i Vitsand, vid fotbollsplanerna tag av höger. Följ grusvägen till ett stort grustag, parkera och följ stigen upp till Jotumhallarna, klippan finns på vänster sida efter cirka 1km.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+Dessa leder har bara klättras på topprep och grader är därför topprepsgrad. Inga bult finns men tradklättring kan ju med fördel utövas av den vågade. Okänt om det finns några etablerade leder och/eller FAs.
+[[Bild:IMG_0854.jpg]]
+Denna led håller runt 5b, kan klättras i två varianter i slutet varav vänsteralternativet är lite tunnare men svaigare.
+
+[[Bild:IMG_0851.jpg]]
+Höger led följer sprickan upp och håller troligen runt 6b i grad. Vänster led är lite svårare, 6c (6c+?) och innehåller några lösa grepp i starten. Båda dessa leder är i princip vertikala och riktigt bra.
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Värmland]]

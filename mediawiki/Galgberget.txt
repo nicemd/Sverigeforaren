@@ -1,0 +1,62 @@
+{{info klippa
+  |lat=57.652358841426924
+  |long=18.30867290496826
+}}
+
+{{komplett}}
+
+
+==Allmänt==
+Överhängande kalkstensklippa, 10 - 15 meter hög. Klippan ger ett
+något löst intryck men är ändå hyggligt fast. Ganska rolig och pumpande
+klättring och helt OK om man nu ändå råkar vara på Gotland.
+
+
+Förstabestigare på dom flesta lederna är [[Patrik Agerkrans]].
+
+==Miljö==
+<div style="float: right; width: 305px; height: 205px">
+<googlemap lat="57.652358841426924" lon="18.30867290496826" zoom="11" type="map" width="300" height="200">
+57.652358841426924,18.30867290496826,Galgberget
+</googlemap>
+</div>
+Västvänd. Väggen får en del skugga av träden.
+
+<div style="clear:both"></div>
+
+==Vägbeskrivning==
+[[Bild:Galgberget_vagbesk.png|right]]
+Klippan är belägen ca 1,5 km
+utanför Norra delen av ringmuren.
+Från parkeringen; följ stig upp till
+vänster ca 150 meter, och vik
+därefter av höger. Ta av vänster
+alldeles före trappan och klippan
+dyker upp eft ca 20 meter.
+
+
+<div style="clear:both"></div>
+==Leder==
+[[Bild:Galgberget.png]]
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=1|namn=Lianer i Baken|grad=6c|bultar=5}}
+{{led|namn=Banan|grad=5a|text=Toprepsled från ankaret mitt på den enklaste väggen till vänster om trollriten}}
+{{led|nr=2|namn=Trollritten|grad=6c|bultar=6}}
+{{led|nr=3|namn=Aporna konung|grad=6c+|bultar=6}}
+{{led|nr=4|namn=Måndansen|grad=6c+|bultar=7|betyg=3|text=väggens finaste led, väldigt jämn och pumpande klättring på stora grepp.}}
+{{led|nr=NY|namn=Shere Khan|grad=7b+|bultar=5}}
+{{led|nr=5|namn=Djungelvrål|grad=7b|bultar=7|betyg=2|text=grepp har lossnat i starten vilket gör den hårdare. kanske 7b+?}}
+| width="300" |
+{{led|nr=6|namn=Kalkstensdrömmar|grad=6a|bultar=5|betyg=2}}
+{{led|nr=7|namn=Alt insteg till Kalkstensdrömmar|grad=6a+|bultar=1}}
+{{led|nr=8|namn=Alt insteg till Kalkstensdrömmar|grad=5c|bultar=3}}
+{{led|nr=9|namn=Grottfeber|grad=6a+|bultar=3}}
+{{led|nr=10|namn=Hård mango|grad=6c|bultar=3}}
+|}
+[[Kategori:Gotland]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Sport]]
+[[Kategori:Gotland]]

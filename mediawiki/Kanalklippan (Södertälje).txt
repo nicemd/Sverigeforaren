@@ -1,0 +1,48 @@
+{{info klippa
+  |lat=59.20672222
+  |long=17.62437
+}}
+
+{{komplett}}<br>
+{{lagerbild|bakgrund=Bild:Kanalklippan_talje_retuch.png|lager1=Bild:Kanalklippan_talje_leder.png}}
+{{lagerbild|bakgrund=Bild:Kanalklippan_talje_grey.jpg|lager1=Bild:Kanalklippan_talje_leder.png}}
+<!--
+[[Bild:Kanalklippan_talje_grey.jpg|frame|Kanalklippan i Södertälje. Skiss: Anders Henriksson, uppladdad med tillstånd.]]
+[[Bild:Kanalklippan_talje_foto.jpg|frame|Kanalklippan i Södertälje. Foto: Anders Henriksson, uppladdat med tillstånd.]]
+-->
+==Allmänt==
+Liten klippa mitt i Södertälje.
+
+==Vägbeskrivning==
+Från Stockholm (E4) mot Södertälje centrum, vid Birkakorset (rödljus) tag höger, sedan första vänster. Kör ner mot kanalen, höger (Bergviksgatan) följ kanalen tills du passerat minigolfbanan. Klippan syns tydligt på höger hand med den markanta porten i centrum.
+
+Tips!
+Mittemot klippan på andra sidan vattnet, men snett uppströms, finns ytterligare en klippa. Man kan parkera vid den närliggande båtklubben och promenera 100 m inåt centrum, på höger hand ligger då en klippa upp i den lilla skog som finns längs vägen. Ankare av det ambitiösare slaget finns på minst två ställen. Klippan syns inte på avstånd.
+
+
+<googlemap width=350 height=300 lat="59.20672222" lon="17.62437" zoom="11" type="map" controls="small">
+59.20672222,17.62437,[[Kanalklippan]]
+</googlemap>
+
+==Miljö==
+Soligt läge med gräsplan nedanför klippan, badmöjligheter i Kanalen. Klippan torkar snabbt i sitt västliga läge (kvällssol). Lättillgängligt med parkering alldeles vid klippan. Byggprojekt (bostadsrätter) omedelbart till vänster om klippan pågår. Accessen än så länge opåverkad.
+Sett från kanalen ligger ytterligare en vägg bakom minigolfbanorna. Där finns en tydlig linje på det brantaste och högsta. Leden är topprepad omkring 2004, men då särskilt nedre delen av klippan är lös så har den varken letts på kil eller bultats. Svårighetsgraden kanske kan vara 4+, och den övre delen är i alla fall lite luftig vilket gör den klättervärd om man nu klarat av de övriga lederna.
+
+==Leder==
+Klippan har klättrats länge på topprep. Två leder är gjorda. Ankare finns i form av ett antal gamla järnöglor i klippan, repet bör vara minst 30 m vid topprepsklättring, slingor+karbiner behövs. Ca 15 klättermeter per led. (17 m från marken till fasta ankare, flackt sva sista biten.)
+
+1. {{led|namn=Tre par skor|grad=6-|fa=Anna Söderberg, Anders Johansson 1996|typ=sport|text=Lätt till andra borrbulten. Utsteget säkrades med kil, där någon nu placerat en bb av okänt ursprung. Lednamnet kommer av det antal skor som behövde provas innan leden sattes.}}
+
+2. {{led|namn=No Concrete|grad=5+|fa=Anders Johansson 1996|typ=sport|text=Följ kanten av porten, (ursprungligen gjort utan betongberöring, därav lednamn), förstärk med kil mellan 1:a och 2:a bb. Lite klurigt insteg och krux vid 2:a borrbult.}}
+
+===Topprepsleder===
+
+Fler topprepsleder finns bland annat en lätt; <br>
+3. {{led|namn=Farfars led|grad=3+|text=Till höger om porten.}}
+
+{{led|namn=Parkbänken|grad=5+|text=Knivigare bakom parkbänken 20 m höger om dörren. Insteg i sprängd klippa sedan vidare rakt upp till tallen på fina lister.}}
+
+==Bilder==
+Skissen är gjord av Anders Henriksson som också tagit fotot. Skiss och foto används med tillstånd.
+
+[[Kategori:Södermanland]]

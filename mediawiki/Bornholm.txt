@@ -1,0 +1,29 @@
+{{info klippa
+  |lat=55.13178958302214
+  |long=14.8974609375
+}}
+
+{{stub|extern=ja}}
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="55.13178958302214" lon="14.8974609375" zoom="8" type="map">
+
+55.13178958302214,14.8974609375,Bornholm
+
+</googlemap>
+</div>
+==Allmänt==
+Okej, Bornholm tillhör danmark. Men det ligger närmre skåne än danmark och det finns en del klättring på ön.
+
+==Extern förare==
+Kolla in [http://rockclimbing.dk/wiki/index.php?title=Bornholm] Dansk nätförare över bornholm
+
+
+<div style="float:right">
+http://bornholm.danskbjergklub.dk/gfx/anders-layback-bornholm.jpg
+<p>Layback Risset 6-, Vang, Bornholm</p>
+</div>
+
+[[Kategori:Skåne]]
+[[Kategori:Danmark]]
+[[Kategori:Bornholm]]

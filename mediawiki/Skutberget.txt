@@ -1,0 +1,62 @@
+
+{{info klippa
+  |lat=59.37637
+  |long=13.373194
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+
+ {{boulderutkast}} 
+<!-- {{boulderkomplett}} -->
+
+==Allmänt==
+Ett fåtal mediokra och lätta vertikalväggar... och så Karlstads brantaste och hårdaste tak som skön kontrast. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.407355" lon="13.432159" type="map" zoom="10">59.37637, 13.373194, Skutberget - Bomstad</googlemap>
+</div>
+
+Kör från Karlstad mot Skutberget, sväng av på bomstadvägen. Kör på denna en knapp kilometer? Till höger tangerar ett löpspår vägen och du kan också köra ner vänster mot husvagsparkering o.dyl. Du ska följa löparspåret/elljusspåret. Koordinaterna endast uppskattade. Knalla in på elljusspåret och gå längs denna några hundratal meter förbi åtminstone ett fritidshus på höger sida och ett på vänster. Var uppmärksam på skyltar som indikerar cykelstig. När du hittar en sådan vik av på cykelstigen till höger och följ denna 100 meter och du börjar ana klippor i terrängen till vänster. Vik av från cykelstigen och knata upp 50-100 meter och du bör inom kort hitta det du söker. 
+
+Oklart var du bör parkera. Använd sunt förnuft och stör inte friluftslivet. Kanske till vänster från där du ska in på spåret?
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Problem==
+
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Mantla den här Johan Lovén | grad=6b? | typ=mantling | fa=Sören Danielsson | landning=3 | fadatum=2011-06 | sittstart= | sopad= | text= Hängstart på bulliga limpformationen ute vid läppen framför taket. Utgång rakt upp och dit tar du dig vid mantling eller strääääck. 
+}}
+
+{{problem | nr=2 | namn=Nils-Magne, hard as a rock| grad=7a? | typ=knälås, heelhook, tak, mantling | fa=Sören Danielsson 2011-06 | landning=3 | fadatum= | betyg=2 | sittstart=ja | sopad= | text= Sittstart längst inne i taket på bra grepp. Vänster klippformation får användas. Utnyttja detta för att låsa av och leta dig ut rakt ut genom taket. Avslutas med mantla den här Johan Lovén. Fördel långa personer. Graden extremt oviss pga ovanlig (dock väldigt rolig) klättring. }}
+
+
+| width="350px" |
+
+{{problem|nr=3 | namn=Projekt | grad=??? | typ=tak | betyg= | fadatum= | sopad= | sittstart=ja |fa=projekt | text=Du får inte använda någon av höger eller vänster klippformation. Det är endast taket och detta "fristående" block som gäller. Första movet går väl an, men ser blir allt väldigt hårt. Möjlig lösning att utan avlastning gå låååångt till usel crimp? Inovativ beta efterlyses för att det alls ska gå att göra?}}
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+ [[Kategori:vertikalt]]
+ [[Kategori:överhäng]] 
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Värmland]]

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="640"
+   height="480"
+   id="svg2431">
+  <defs
+     id="defs2433">
+    <filter
+       height="1.0515167"
+       y="-0.025758283"
+       width="1.3112639"
+       x="-0.15563196"
+       id="filter3501">
+      <feGaussianBlur
+         id="feGaussianBlur3503"
+         stdDeviation="0.82411922"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.0496339"
+       y="-0.024816941"
+       width="1.4482335"
+       x="-0.22411673"
+       id="filter3505">
+      <feGaussianBlur
+         id="feGaussianBlur3507"
+         stdDeviation="0.82411922"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <path
+       d="M 229.12621,30.485437 C 252.42718,64.466019 252.42718,64.466019 252.42718,64.466019 L 281.5534,92.621359 L 301.94175,127.57282 L 305.82524,147.96117 L 315.53398,170.29126 L 314.56311,201.35922 L 333.00971,247.96117 L 380.58252,283.8835 L 403.8835,310.09709 L 424.27184,339.2233 L 431.06796,367.37864 L 451.45631,406.21359 L 477.6699,447.96117"
+       id="path2575"
+       style="fill:none;fill-rule:evenodd;stroke:#848484;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 423.30097,339.2233 L 466.01942,257.6699 L 498.05825,214.95146 L 495.14563,204.27184 L 479.61165,170.29126 L 462.13592,138.25243 L 446.60194,91.650485 L 451.45631,78.058252 L 466.01942,62.524272 L 483.49515,53.786408 L 500.97087,32.427184"
+       id="path2577"
+       style="fill:none;fill-rule:evenodd;stroke:#848484;stroke-width:2.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="M 456.31068,69.320388 L 426.21359,61.553398 L 416.50485,71.262136"
+       id="path2579"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 340.7767,346.01942 L 340.7767,353.78641 L 354.36893,364.46602 L 358.25243,373.20388 L 369.90291,385.82524 L 368.93204,395.53398 L 381.5534,385.82524 L 385.43689,374.17476 L 397.08738,359.61165 L 396.1165,346.99029 L 372.81553,336.31068 L 355.33981,345.04854 L 340.7767,346.01942 z"
+       id="path3351"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="M 390.29126,158.64078 L 399.02913,160.58252 L 402.91262,156.69903 L 436.8932,167.37864 L 447.57282,154.75728 L 427.18447,125.63107 L 417.47573,122.71845 L 410.67961,97.475728 L 404.85437,101.35922 L 389.32039,105.24272 L 394.17476,124.66019 L 387.37864,138.25243 L 392.23301,142.13592 L 398.05825,131.45631 L 401.94175,143.1068 L 390.29126,158.64078 z"
+       id="path3355"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="M 340.7767,345.04854 L 313.59223,317.86408 L 307.76699,300.38835 L 306.79612,273.20388 L 301.94175,259.61165 L 297.08738,246.01942 L 301.94175,229.51456 L 301.94175,210.09709 L 305.82524,174.17476 L 301.94175,146.99029 L 305.82524,130.48544 L 313.59223,127.57282 L 329.12621,140.19417 L 343.68932,145.04854 L 360.19417,133.39806 L 361.16505,118.83495 L 354.36893,105.24272 L 360.19417,76.116505 L 378.64078,61.553398 L 387.37864,61.553398 L 397.08738,86.796117 L 399.02913,102.3301"
+       id="path3357"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="M 214.56311,249.90291 L 235.92233,247.96117 L 246.60194,250.87379 L 274.75728,248.93204 L 285.43689,241.16505 L 286.40777,229.51456 L 301.94175,223.68932"
+       id="path3359"
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d=""
+       id="path3361"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#848484;stroke-width:2.23300958;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 296.1165,121.74757 L 283.49515,128.54369 L 273.78641,106.21359"
+       id="path3369"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 284.46602,128.54369 L 290.29126,141.16505 L 292.23301,159.61165 L 292.23301,169.32039 L 277.6699,174.17476 L 259.2233,181.94175 L 254.36893,192.62136"
+       id="path3371"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 292.23301,169.32039 L 290.29126,192.62136 L 288.34951,207.18447 L 291.26214,221.74757 L 292.23301,234.36893 L 289.32039,247.96117 L 291.26214,268.34951 L 297.08738,295.53398"
+       id="path3379"
+       style="fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 292.23301,280 L 279.61165,290.67961 L 263.1068,295.53398"
+       id="path3381"
+       style="fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 278.64078,290.67961 L 276.69903,307.18447 L 264.07767,315.92233 L 253.39806,327.57282"
+       id="path3383"
+       style="fill:none;fill-rule:evenodd;stroke:#626262;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 236.8932,148.93204 L 244.66019,169.32039 L 246.60194,202.3301 L 237.86408,222.71845"
+       id="path3385"
+       style="fill:none;fill-rule:evenodd;stroke:#2a2a2a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3501)" />
+    <path
+       d="M 249.51457,311.06796 L 248.54369,338.25243 L 254.36894,363.49515 L 250.48544,387.76699"
+       id="path3387"
+       style="fill:none;fill-rule:evenodd;stroke:#2a2a2a;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3505)" />
+    <rect
+       width="4.8543692"
+       height="4.8543692"
+       ry="2.4271846"
+       x="261.60501"
+       y="99.637459"
+       id="rect3513"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       width="4.8543692"
+       height="3.8834951"
+       ry="1.9417475"
+       x="269.37201"
+       y="127.35283"
+       id="rect3515"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       width="3.8834951"
+       height="2.9126213"
+       ry="1.4563106"
+       x="409.70874"
+       y="70.29126"
+       id="rect3517"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       x="313.59222"
+       y="409.12622"
+       id="text3519"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="313.59222"
+         y="409.12622"
+         id="tspan3523">Snottertjärnen</tspan></text>
+    <text
+       x="388.34952"
+       y="178.05826"
+       id="text3527"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="388.34952"
+         y="178.05826"
+         id="tspan3529">Klapptjärnen</tspan></text>
+    <text
+       x="401.94174"
+       y="58.640778"
+       id="text3531"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="401.94174"
+         y="58.640778"
+         id="tspan3533">Raststuga</tspan></text>
+    <text
+       x="227.18446"
+       y="101.35922"
+       id="text3535"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="227.18446"
+         y="101.35922"
+         id="tspan3537">Dass</tspan></text>
+    <text
+       x="203.94174"
+       y="133.39806"
+       id="text3539"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="203.94174"
+         y="133.39806"
+         id="tspan3541">Vindskydd</tspan></text>
+    <text
+       x="279.88446"
+       y="232.55624"
+       id="text3543"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="279.88446"
+         y="232.55624"
+         id="tspan3545">Bro</tspan></text>
+    <text
+       x="199.34004"
+       y="173.11295"
+       id="text3547"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="199.34004"
+         y="173.11295"
+         id="tspan3549">Stora</tspan><tspan
+         x="199.34004"
+         y="187.11295"
+         id="tspan3551">väggen</tspan></text>
+    <text
+       x="204.54344"
+       y="342.92496"
+       id="text3553"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="204.54344"
+         y="342.92496"
+         id="tspan3555">Lilla</tspan><tspan
+         x="204.54344"
+         y="356.92496"
+         id="tspan3557">väggen</tspan></text>
+    <path
+       d="M 370.39,389.61165 C 370.97307,385.90347 370.74026,385.44328 365.23267,379.41748 C 362.06029,375.9466 358.43453,370.92233 357.17543,368.25243 C 355.47692,364.65081 353.22214,362.14531 348.43813,358.54369 C 342.51499,354.08449 341.98814,353.39295 341.96593,350.04854 L 341.94175,346.40777 L 348.2396,346.40777 C 353.78935,346.40777 355.62391,345.86806 363.68418,341.86413 L 372.83096,337.32047 L 383.9593,342.46638 L 395.0876,347.61229 L 395.69304,353.40453 L 396.29842,359.19677 L 390.41475,366.39719 C 386.53092,371.1502 383.86441,375.57164 382.56981,379.40518 C 380.64366,385.10874 380.12056,385.70693 371.15182,392.46151 C 370.00469,393.32545 369.87961,392.85758 370.39,389.61165 z"
+       id="path3559"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.97087377;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 419.12621,160.87952 C 403.09859,155.65331 401.95325,155.45326 400.19417,157.57282 C 398.88853,159.14602 395.59961,159.47251 393.6332,158.22413 C 392.74435,157.65983 393.84648,155.53155 397.68339,150.40301 L 402.95474,143.35717 L 401.07853,137.84361 C 400.04658,134.81118 398.96663,131.69108 398.6786,130.91005 C 398.33817,129.98692 397.06783,131.40468 395.04833,134.96156 C 392.24159,139.90503 391.77209,140.30873 390.18385,139.14417 C 388.51783,137.92257 388.60334,137.50297 391.81926,131.11701 L 395.21258,124.37882 L 392.86848,115.24766 C 391.5792,110.22552 390.5156,106.05434 390.50489,105.97837 C 390.49421,105.90238 393.65291,105.07897 397.52427,104.14853 C 401.39563,103.2181 405.75113,101.7741 407.20314,100.93965 C 408.65515,100.10518 409.99828,99.617942 410.18786,99.856864 C 410.49021,100.23791 411.95929,105.59431 415.64783,119.76461 C 416.60331,123.4352 417.00382,123.7887 421.5185,124.94578 C 426.29477,126.16987 426.5023,126.38584 436.0945,140.1128 C 441.44638,147.77168 445.82524,154.32678 445.82524,154.6797 C 445.82524,156.25297 436.68912,165.81513 435.27042,165.72672 C 434.40081,165.67251 427.13592,163.49128 419.12621,160.87951 L 419.12621,160.87952 z"
+       id="path3561"
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0.97087377;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       x="288.34952"
+       y="117.86408"
+       id="text3563"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="288.34952"
+         y="117.86408"
+         id="tspan3565">Parkering</tspan></text>
+    <text
+       x="183.39235"
+       y="25.091707"
+       id="text2425"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="183.39235"
+         y="25.091707"
+         id="tspan2427">Mot Övre Nyland</tspan></text>
+    <text
+       x="435.85452"
+       y="462.13708"
+       id="text2429"
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Times;-inkscape-font-specification:Times"><tspan
+         x="435.85452"
+         y="462.13708"
+         id="tspan2431">Mot Nedre Nyland</tspan></text>
+  </g>
+</svg>

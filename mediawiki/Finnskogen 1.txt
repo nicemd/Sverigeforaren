@@ -1,0 +1,117 @@
+{{info klippa
+  |lat=59.657509
+  |long=12.314558
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{boulderutkast}}
+{{utkast}}
+{{isutkast}}
+
+<!-- {{komplett}} -->
+
+==Allmänt==
+Liten men tuff repklippa med offwidths och kaminer, ett antal fina boulders och en is-vägg gör Finnskogen till ett måste för alla värmlandsklättrare under vinterhalvåret.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.680222" lon="12.44339" type="map" zoom="10">
+59.657509, 12.314558, finnskogen 1 (ungefärlig position)
+</googlemap>
+</div>
+
+
+Kör från Arvika mot Årjäng väg 172 (ej 175 som det stått här innan!). Vid skylt S Örsjön sväng åt höger in på en liten grusväg. Följ grusvägen en bra bit till en T-korsning. Parkera här om det inte är plogat längre. Sväng annars höger. Stanna någon km längre in uppe på ett krön innan en brant nedförsbacke. Parkera på vägkanten på höger sida. Följ traktorstigen rakt in åt höger över bäcken och vidare några hundra meter. Nu kommer du rakt på is-väggen. Följ klippan åt vänster för att komma till Rep-klippa och boulders.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Topo_finnskogen_1.JPG|700px]]
+
+Här följer lederna på repklippan. Bold trad / Highball / kamin- och offwidth-skola. 
+{|
+|- valign="top"
+| width="350px" |
+
+==Rep-klättringen==
+
+{{led|nr=1|namn=Skolleden|grad=5|typ=trad|betyg=|bultar=|längd=|fa=[[Martin Jurander]] -09|text=Stora sprickan längst till vänster.}}
+
+{{led|nr=2|namn=Kaminskolan|grad=4+|typ=trad|betyg=2|bultar=|längd=|fa=[[Martin Jurander]] -09|text=Största sprickan på väggen, fin teknisk kaminklättring.}}
+
+{{led|nr=3|namn=Engelska Aréten|grad=7|typ=trad|betyg=3|bultar=|längd=|fa=[[Martin Jurander]] -09|text=Aréten precis till höger om kaminen.Highball eller om du vill finns en säkringspunkt en bit upp... Grymt fin klättring, rekommenderas!}}
+
+{{led|nr=4|namn=Finn Crisp|grad=7|typ=trad|betyg=1|bultar=|längd=|fa=[[Martin Jurander]] -09|text=Väggklättring med två säkringspunkter en bit upp.}}
+
+{{led|nr=5|namn=Skräckskolan|grad=5|typ=trad|betyg=|bultar=|längd=|fa=[[Moa Wall]] -09|text=Sprickan med de stora blocken. Finns bra säkringar, se upp för lös sten.}}
+
+{{led|nr=6|namn=Crack is wack|grad=6+|typ=trad|betyg=|bultar=|längd=|fa=[[Martin Jurander]] -09|text=Den vänstra sprickan i det branta partiet till höger.}}
+
+{{led|nr=7|namn=Craig|grad=6|typ=trad|betyg=|bultar=|längd=|fa=[[Martin Jurander]] -09|text=Den högra sprickan i det branta partiet till höger.}}
+
+| width="350px" |
+
+==Boulderproblem==
+
+<!-- Använd denna som problem-mall vid skapande av nya problem. Byt ut texten
+
+{{problem | nr=XXX | namn=problemets namn | betyg=3 | grad=7b+ | typ=crimp, överhäng | fa=Gunde Svan | landning=3 | fadatum=090810 | sittstart=ja | sopad=Göran Persson 090802 | text= Start på sidogrepp och undercling. Skicka sedan till kanten, etablera dig och gå sedan ut åt höger med hjälp av känsliga fotsteg. Gjordes första gången i strumplästen av barbar från storstan. orepeterad sedan förstabestigning. }}
+
+-->
+
+Numera återfinns alla boulderproblem med korrekta beskrivningar, problem, bilder osv på Arvika boulderförare som hittas på följande länk [http://27crags.com/crags/finnskogen-1 http://27crags.com/crags/finnskogen-1] Sluta läsa här utan klicka på länken. klicka då! KLICKA! 
+
+{{problem|nr=1|namn=kanten|grad=6a|typ=|betyg=|sittstart=ja|fa=|text=På första stenen , liten intressant kantproblematik, som sen svingar vänster.Sittstart}}
+
+{{problem|nr=2|namn=väggen|grad=5b-6a|typ=|betyg=||fa=|text=På första stenen, bra uppvärmningsvägg, många varianter.}}
+
+{{problem|nr=3|namn=grytväggen|grad=6a|typ=|betyg=1|sittstart=ja|landning=|fa=|text=På första stenen, vänstra sidan,  greppen är av kristall och genererar en del glädje. Sittstart}}
+
+{{problem|nr=4|namn=väggen|grad=5c|typ=|sittstart=ja|betyg=|landning=|sittstart=|fa=|text=På andra stenen, den ståtliga väggen du möts av vid denna sten, sittstart.}}
+
+{{problem|nr=5|namn=projekt|grad=?|typ=|betyg=|sittstart=ja|landning=|fa=|text=På andra stenen, arete till vänster om smulpaj, sittstart.}}
+
+{{problem|nr=6|namn=smulpaj|grad=6b|typ=|betyg=|sittstart=ja|landning=|fa=|text=På andra stenen, ganska brant vägg, lär av namnet och padda upp, sittstart .}}
+
+{{problem|nr=7|namn=LiLiLee|grad=7a+|typ=överhäng|sittstart=ja|landning= |betyg=2||fa=Martin Jurander|text=På andra stenen, brant komprimerat problem som har spottat av många superstars!, sittstart.}}
+
+{{problem|nr=8|namn=variantos|grad=5c-6b|typ=|betyg=|sittstart|landning=|fa=|text=På andra stenen, till höger om lililee har många varianter gjorts för att glädja egot.}}
+
+|}
+
+==Isklättringen==
+
+Värmlands mest besökta isklätterställe??
+
+Höjd ungefär 15 meter. Mer svaig is i platåer allra längst till höger. Blir hårdare och mer vertikalt för att bli helt vertikalt på klippans vänstra del. Vissa möjligheter till mixklättring finns. 
+Isen oftast bra att skruva i, men också ganska enkelt att gå runt och sätta topprep. 
+
+Inga uppgifter finns om förstabestigare osv. Någon som vet får gärna fylla i.  
+
+Mer info kanske kommer. Utgå annars från beskrivning, karta och bilder för att bilda en uppfattning om stället. Finns en liten video också. 
+
+{{led|nr=|namn=MMA|grad=M6/7|typ=mix|betyg=|bultar=|längd=|fa=[[Martin Jurander]] -10|text=Mixled till vänster på stora överhänget, vid fa användes förplacerat friends och pitonger.Känslig och en bra träningsled inför grannleden till höger!|}}
+
+{{led|nr=|namn=Festis|grad=M8|typ=mix|betyg=3|bultar=|längd=|fa=[[Martin Jurander]] -11|text=Mixled som startar på den hängande tappen , sedan tungt känsligt och alldeles underbart upp via nästa istapp.Förplacerat |}}
+
+
+
+
+[[Bild:Finnskogen.jpg|300px]]
+[[Bild:Finnskogen2.jpg|200px]]
+[[Bild:Finnskogen3.jpg|200px]]
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:mix]] -->
+
+[[Kategori:trad]] 
+[[Kategori:Video]] 
+[[Kategori:bouldering]]
+[[Kategori:vertikalt]] 
+[[Kategori:överhäng]] 
+[[kategori:Saknar skrivarformatering]]
+[[Category:Värmland]]

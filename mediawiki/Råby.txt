@@ -1,0 +1,65 @@
+=Allmänt=
+Råby bjuder på ett flertal stenar av varierande karaktär. Här finns ett flertal lättare problem och även ett antal mer krävande utmaningar. Till en av dessa hör Karma Junior som jag menar hör till en av Västerås vackraste linjer. Leden har tre stjärnor och uppmanar i sig till ett besök i den myggrika Råbyskogen. Just myggen och den bitvis täta skogen kategoriserar området som ett vår- respektive höstområde.  
+
+=Karta=
+<googlemap version="0.9" lat="59.60596" lon="16.504984" zoom="15">
+59.606947, 16.502672, Svampblocket
+59.606542, 16.505992, Stora blocket, Farbrorblocket, Träskblocket
+59.605891, 16.508653, Skuggblocket
+</googlemap>
+
+=Vägbeskrivning=
+Beläget intill Narvavägen i Västerås. Från E18, sväng av vid Vallbymotet och följ huvudleden mot norr. Passera brandstationen, följ vägen åt vänster. Sväng av Vallbyleden till vänster, vid Syrisk Ortodoxa kyrkan. Fortsätt under E18, på Narvavägen söderut till OKQ8. Klättringen finns i skogen till höger om vägen. Parkera genom att köra i en vänstervriden spiral runt macken och under Narvavägen. Sväng in vänster på Morkullegatan och parkera i dess bortre del. Blocken finns i Morkullegatans förlängning, parallellt med Narvavägen ca 150 m in i skogen.
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Den sista aréten|grad=5A|typ=Mantling|fa=Okänd|landning=3|sopad=Okänd|text=Stora blocket, precis innanför löpspåret, 100 m väster om Skuggblocket. Aréten sydväst. Kort med en avslutande fin mantling.}}
+{{problem|nr=2|namn=Stålpuls|grad=6A+|typ=Layback,Mantling|fa=Jörgen Sjölander|landning=3|betyg=2|sopad=Jörgen Sjölander|text=Stora blocket. Mitt på östväggen, den skuggiga sidan. Fin mantling.}}
+{{problem|nr=3|namn=Monsterlåret|grad=6B|typ=Krimp,Slopers|fa=Okänd|landning=3|betyg=1|sopad=Okänd|text=Stora blocket. Till höger om Wallraffigt. Klättra den nordöstra aréten rakt upp.}}
+{{problem|nr=4|namn=Siddvårta|grad=5B|typ=|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|text=Stora blocket. Den nordvända väggen, i dess mitt ett undercling sedan rakt upp.}}
+{{problem|nr=5|namn=Sittande hoppet i Råby|grad=7A|typ=Krimp,Slopers,Dyno|fa=Peter Viktorsson|landning=4|betyg=2|sopad=Peter Viktorsson|sittstart=ja|text=Stora blocket. Sittstart i högra kanten på nordsidan. Teknisk klättring med dragning mot det nordvästra hörnet. Avluta med en dyna innan fin mantling. Få repetitioner.}}
+{{problem|nr=6|namn=Sittande under i Råby|grad=7A|typ=Travers V->H|fa=Timo Kero, Peter Viktorsson|landning=4|betyg=1|sopad=Timo Kero, Peter Viktorsson|variant=ja|startgrepp=ja|text=Stora blocket. Förlängd Sittande hoppet i Råby. Starta mitt på nordsidan. Händerna brett sedan vidare åt höger.}}
+{{problem|nr=7|namn=På tunn is|grad=6B|typ=Travers V->H|fa=Marcus Engström|sopad=Marcus Engström|text=Stora blocket. Travers från sydvästhörnet till nordvästhörnet, mao. från Den sista aréten till Sittande hoppet i Råby aréten. Klättra den långa vägen från vänster till höger, i blockets överkant.}}
+{{problem|nr=8|namn=The wall live|grad=6A+|typ=Krimp|fa=Marcus Engström m.fl.|landning=3|sopad=Marcus Engström m.fl.|text=Stora blocket. Rakt upp mitt på sydväggen. Trickig start.}}
+{{problem|nr=9|namn=Timos Hook|grad=6B|typ=Slopers,Pinch,Aréte|fa=Timo Kero|landning=4|sopad=Timo Kero|sittstart=ja|text=Finneblocket. Beläget mellan Stora blocket och Träskblocket. Alla block finns innanför löpspårets nordvästra rundning. Balansig sittstart under spetsen och sedan aréten upp.}}
+{{problem|nr=10|namn=Farbror Fräck|grad=6B+|typ=Slopers,Mantling|fa=Peter Viktorsson|sopad=Peter Viktorsson|sittstart=ja|text=Farbrorblocket. Granne med Träskblocket. Starta sittande vid låga kanten, nordhörnet, och sedan upp över läppen. Tekniskt!}}
+{{problem|nr=11|namn=Farbror Gunnar|grad=5A|typ=|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|text=Farbrorblocket. Rakt upp där blocket är som högst, på sydvästsidan.}}
+| width="250px" |
+{{problem|nr=12|namn=Farbror Blå|grad=6B+|typ=|fa=Okänd|landning=3|sopad=Okänd|sittstart=ja|text=Farbrorblocket. Sittande vid sydvästsidans högra kant och rakt upp, strax höger om stenens högsta punkt.}}
+{{problem|nr=13|namn=Farbror Barbro|grad=6B+|typ=Dyno|fa=Okänd|landning=3|sopad=Okänd|sittstart=ja|text=Farbrorblocket. Sittande i sydhörnet (mot träsket) och sedan upp.}}
+{{problem|nr=14|namn=Farbror Frej|grad=6B+|typ=|fa=Okänd|landning=3|sopad=Okänd|text=Farbrorblocket. Variant på Farbror Blå men med utsteg till höger.}}
+{{problem|nr=15|namn=Farbror Bosse|grad=6B|typ=Travers H->V|fa=Jörgen Sjölander|sopad=Jörgen Sjölander|text=Farbrorblocket. Start till höger om taket på sydliga sidan. Traversera till vänster och mantla upp på Farbror Blå eller -Barbro.}}
+{{problem|nr=16|namn=Farbror Bosse, nypigare|grad=7A+|typ=Överhäng,Travers H->V,Heel hook|landning=3|variant=ja|text=Farbrorblocket. Samma som Farbror Bosse men utan de övre kantgreppen. Klättra en låg travers in i Farbror Blå sedan upp.}}
+{{problem|nr=18|namn=Träskmonstret|grad=6C|typ=|fa=Marcus Engström|landning=5|sopad=Marcus Engström|sittstart=ja|text=Träskblocket. -Du hittar! Sittstart vid nordöstra hörnet, på kanten mot Farbrorblocket. Få repetitioner, vilket förklaras av läget.}}
+{{problem|nr=19|namn=Jason lever|grad=6C|typ=Travers V->H|fa=Jörgen Sjölander|landning=5|sopad=Jörgen Sjölander|text=Träskblocket. Travers som avslutas i Träskmonstret.}}
+{{problem|nr=20|namn=Vit flugsvamp|grad=6A|typ=Layback|fa=Marcus Engström|landning=3|sopad=Marcus Engström|text=Svampblocket. Beläget i skogens nordvästra hörn, där cykelbanan avskiljer Morkullegatan från Råbykorset. Klättra den västvänd rampen. Sittstart 6B.}}
+{{problem|nr=21|namn=Mandrake|grad=6B+|typ=Aréte|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|text=Svampblocket. Sydvästra aréten, halvsittande start.}}
+{{problem|nr=22|namn=Diktatorn och Champinjonen|grad=6C+|typ=Pinch,Layback,Dyno|fa=Peter Viktorsson|landning=3|betyg=1|sopad=Peter Viktorsson|sittstart=ja|text=Svampblocket. Sittande start till höger om sydvästhörnet och sedan in i Mandrake.}}
+{{problem|nr=23|namn=Röd flugsvamp|grad=3C|typ=|landning=3|text=Svampblocket. Stenens sydliga sida, rakt upp över kanten. Sittstart är ett projekt.}}
+{{problem|nr=25|namn=Den falska kantarellen|grad=6A|typ=|fa=Stefan Lindblom|sopad=Stefan Lindblom|sittstart=ja|text=Svampblocket. Sittande vid höger kant på sydsidan, som även är den soliga framsidan.}}
+{{problem|nr=26|namn=Giftsvampen|grad=6A+|typ=|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|sittstart=ja|text=Svampblocket. Sittande start på den högra delen av östsidan.}}
+| width="250px" |
+{{problem|nr=27|namn=Röksvampen|grad=6B|typ=Travers H->V|fa=Peter Viktorsson|landning=3|fadatum=2007-05-07|sopad=Peter Viktorsson|sittstart=ja|text=Svampblocket. Sittande/liggande start under läppen på östsidans högra del. Klättra lågt åt höger, upp över kanten på nordsidans "spets".}}
+{{problem|nr=28|namn=Den stora svamptraversen|grad=6C+|typ=Travers H->V|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|text=Svampblocket. Klättra från nordsidan, traversera vänster runt stenen och avsluta i Mandrake.}}
+{{problem|nr=29|namn=Karma Junior|grad=7A|typ=Slopers,Mantling,Travers H->V|fa=Marcus Engström|landning=3|betyg=3|sopad=Marcus Engström|text=Skuggblocket. Blocket ligger där Narvavägen och Månstigen möts i ett T-kort. Skuggigt och svalt. Starta halvsittande vid låga sidan på blocket, sydväst sidan. Slopig travers med en avslutande fin mantling. Vackraste linjen i stan!}}
+{{problem|nr=30|namn=Karma Knatte|grad=6A+|typ=Mantling,Travers H->V|fa=Patrik Hagman, Tommy Torsne|landning=3|sopad=Patrik Hagman, Tommy Torsne|variant=ja|text=Skuggblocket. Som Karma Junior men med utsteg 1 m före det tekniskt tunga.}}
+{{problem|nr=31|namn=Knatte|grad=5A|typ=Mantling|fa=Patrik Hagman, Tommy Torsne|landning=3|sopad=Patrik Hagman, Tommy Torsne|text=Skuggblocket. Mantling till höger om Karma Juniors utsteg.}}
+{{problem|nr=32|namn=IFÖ|grad=6A|typ=|fa=Okänd|landning=3|sopad=Okänd|sittstart=ja|text=Parblocken. 150 meter in på stigen från parkeringen kommer Spetsiga blocket (endast proj.), 30 m till söder om detta block ligger parblocken. Sittande start till vänster sedan upp.}}
+{{problem|nr=33|namn=Gustavsberg|grad=6A+|typ=|fa=Okänd|landning=3|sopad=Okänd|sittstart=ja|text=Parblocken. Sittande start till höger, "i grottan".}}
+{{problem|nr=34|namn=Minimaster Edge|grad=6A|typ=Aréte|fa=Okänd|landning=3|sopad=Okänd|text=Parblocken, det östra. Aréte kort och gott.}}
+{{problem|nr=35|namn=Berlinmuren|grad=6A|typ=|fa=Timo Kero, Peter Viktorsson|landning=3|sopad=Timo Kero, Peter Viktorsson|uteslutningar=ja|text=Parblocken. Den högra väggen, rakt upp utan kanter.}}
+{{problem|nr=36|namn=Goofy|grad=6C|typ=|fa=Marcus Axman|landning=3|sopad=Marcus Axman|sittstart=ja|startgrepp=ja|text=Stora blocket. Startar sittandes på sydsidans vänstra (syd-väst) hörn under taket. V. hand i taket, h. hand på väggen strax till höger. Klättra rakt upp...}}
+{{problem|nr=37|namn=Goofy, assis|grad=7a+|typ=|fa=|landning=3|sopad=Marcus Axman|sittstart=ja|startgrepp=ja|text=Stora blocket. Sittstart till Goofy. Båda händerna på listen under taket. Drag åt höger sedan upp...}}
+
+{{problem|nr=38|namn=Goofy Offset|grad=6c|typ=|fa=|landning=|sopad=|sittstart=ja|startgrepp=ja|text=Stora blocket. Starta sittande på små krimpar till höger om syd-västra areten. Avsluta i Goofy.}}
+
+{{problem|nr=39|namn=Slutsvampat, assis|grad=7b|typ=Mantling|fa=Robert Kostelac|landning=3|sopad=|sittstart=ja|startgrepp=ja|text=Svampblocket. Sittstart på juggen (samma som Diktatorn och Champinjonen) och sedan rakt upp utan areter.}}
+|}
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

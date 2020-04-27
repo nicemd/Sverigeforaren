@@ -1,0 +1,45 @@
+{{info klippa
+  |lat=57.971000
+  |long=15.652000
+}}
+
+{{utkast}}
+[[Kategori:Östergötland]][[Kategori:Vertikalt]][[Kategori:Sva]][[Kategori:Sport]]
+
+==Vägbeskrivning==
+
+Kör söderut på väg 34 från Kisa mot Vimmerby ca 1 km, tills du ser ett bergsmassiv på vänster sida. Sväng vänster in på liten väg efter vägräcket. Vägen har vägbom. Öppna bommen och parkera vid skyttebanan. Följ igenvuxen skogsväg med lite stormfällda träd över tillbaka norrut, följ bergväggen, gå upp höger i första ravinen tills du ser bultarna. Långbyxor rekommenderas för anmarschen.
+
+<googlemap width=600 height=400 lat="57.980" lon="15.64" zoom="12" type="map" controls="small">
+57.971000,15.652000,[[Kisaberget]]
+</googlemap>
+
+==Klippan==
+
+====Syltväggen====
+
+{{led|nr=1|namn=Jordgubbssylt|grad=5a|fa=Erik Kuiper 2007|typ=sport}}
+
+{{led|nr=2|namn=Apelsinmarmelad|grad=5c|fa=Erik Kuiper 2007|typ=sport}}
+
+====Konditorväggen====
+
+{{led|nr=1|namn=Forsocker|grad=6a+|fa=Erik Kuiper 2007|typ=sport}}
+
+{{led|nr=2|namn=Kristyr|grad=5c|fa=Erik Kuiper 2007|typ=sport}}
+
+{{led|nr=3|namn=Strössel|grad=5|fa=Erik Kuiper 2007|typ=trad}}
+
+{{led|nr=4|namn=Kanelsnäckan|grad=6b|fa=Stina Sterner 2002|typ=sport}}
+
+{{led|nr=5|namn=Butterkakan|grad=7a|fa=Christian Eriksson 2002|typ=sport}}
+
+{{led|nr=6|namn=Skogshuggaren|grad=6c+|fa=Stina Sterner 2002|typ=sport}}
+
+{{led|nr=7|namn=Slyröjaren|grad=7b+|fa=Christian Eriksson 2002|typ=sport}}
+
+==Länkar==
+
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+http://linkopingsklatterklubb.se/index.php/forare.html

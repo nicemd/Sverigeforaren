@@ -1,0 +1,26 @@
+{{komplett}}
+==Allmänt==
+
+En liten men naggande god klippa vid Pampas marina. Lederna är mellan 5-7 meter långa och klättras med eget rack eller solo. Spår av tidigare aktivitet finns i form av en ensam borrbult.
+
+==Vägbeskrivning==
+
+Från Stockholm sväng av Solna och följ skylt mot Pampas marina där du svänger in och sedan direkt höger. Kör igenom parkeringen som tillhör arbetsmiljöverket som ligger på din vänstra sida kör mot kolonilotterna och följ vägen som svänger vänster parkera på den lilla parkeringen vid kolonilotterna.
+Gå sedan tillbaka till Pampas marina och ut på stora vägen (Ekelundsvägen) gå höger och under Essingeleden då ska du se en betongbyggnad till vänster gå in bakom den och ta dig över en trasig grind nu borde du se klippan till vänster.
+
+==Leder==
+
+http://www.sverigeforaren.se/images/a/a7/Pampasklippan.jpg
+
+{{led|namn=Securitas|grad=6b|betyg=1|längd=5|fa=[[Mikael Söderström solo 11]]|bultar=|typ=trad}} kort krux
+ 
+{{led|namn=?|grad=6c|betyg=1|längd=6|fa=[[?]]|bultar=1|typ=sport}}Går att tradda
+
+{{led|namn=Vad gör du?|grad=6c|betyg=1|längd=7|fa=[[Mikael Söderström solo 11]]|bultar=|typ=trad}}Två olika utsteg där det högra är lite lättare men gillar du tvåfingerpockets så rekommenderas det vänstra.
+
+{{led|namn=Jag har sett klottrare men inte klättrare|grad=5c|betyg=1|längd=4|fa=[[Mikael Söderström solo 11]]|bultar=|typ=trad}} Mer en boulder, startar en bit upp i rasbranten.
+
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]
+[[Kategori:Trad]]
+[[Kategori:vertikalt]]

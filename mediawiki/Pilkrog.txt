@@ -1,0 +1,37 @@
+{{info klippa
+  |lat=59.07246111
+  |long=17.60524444
+}}
+
+{{komplett}}
+[[Bild:Pilkrog.jpg]]
+[[Kategori:Södermanland]]
+
+==Allmänt==
+Liten klippa nära Järna med ett par leder.
+Omnämns i Stockholmsföraren 1996 som "Håknäs".
+
+==Vägbeskrivning==
+Sväng av motorvägen vid Järna trafikplats. Åk landsvägen söderut under motorvägen, för att sedan åka mot Vagnhärad på gamla Riksettan.
+
+Passera infarten till Saltå kvarn och skylten Pilkrog. Efter ett par hundra meter uppenbarar sig klippan på åkern på vänster sida av vägen.
+
+<googlemap width=350 height=300 lat="59.07246111" lon="17.60524444" zoom="11" type="map" controls="small">
+59.07246111,17.60524444,[[Klippa Pilkrog]]
+</googlemap>
+
+==Access {{access}}==
+Parkera förståndigt på små avtagsvägar i närheten eller liknande. Åkern som klippan ligger på är ibland odlad. Ta hänsyn till detta och kör aldrig bil till själva klippan även om det är stubbåker e d. Markägaren är positiv till klättring, men förtjänar vederbörlig hänsyn!
+
+==Leder== 
+Det finns ett par tydliga leder, varav en är rapporterad och bultad. Övriga leder har klättrats men förstebestigare okänd. "Ankare" över båda lederna i mitten, dubbla kembultar resp singelbult med ring.
+
+:"Antons ramp" längst till vänster. Kanske 3 (6 m?)
+:Lättsam layback om man vill.
+:''Thank you David'', 6. Tre bultar, efter andra bult så är väl tanken att det ska läggas en kil. Därefter rätt långt till sista bulten. Oklart om utsteget göres genom att mantla upp på svaet och gå ned, eller om sista bulten ska betraktas som ett sportankare.
+:Till höger om den bultade leden (som återfinns i Stockholmsföraren), finns en spricka (fast inte direkt sprickklättring, då det finns gott om steg och grepp), 5-,
+:Kan avslutas med ett långt och lite flackt sva, finns numera (singel-) toppankare, ovanför svaet ovanför sprickan. Topprepning kan arrangeras genom detta (back-up-kilar är lättplacerade), repfriktionen över svaet är dock stor. Möjligen ska graden upp en aning...
+
+:Leden kan säkras naturligt, även om den nedre halvan har lite tveksamma kilsprickor.
+
+:Finns en spricka till, ytterligare till höger, men av lägre klass och kortare led.

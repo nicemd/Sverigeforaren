@@ -1,0 +1,305 @@
+{{info klippa
+  |lat=60.375775
+  |long=15.012817
+}}
+
+{{komplett}}
+
+==Allmänt==
+Predikstolen (Tansväggen) mellan Gagnef och Ludvika.
+
+== Beskrivning ==
+
+[[Bild:predikstolen_överblick.gif]]
+
+[http://www.utsidan.se/forum/showthread.php?t=44717 Tråd på Utsidan]
+
+[http://dalaklatter.org/Predikstolen-Tansvaggen.php Regler för klättringen vid Predikstolen]
+
+==Access {{access}}==
+[[bild:Predikstolen_tavla.png|thumb|300px|right]]
+
+Hela klippan ligger inom Natura 2000 område och de delar av klippan som ligger i Gagnef kommun är även naturreservat. 
+
+På hela klippan råder att största möjliga försiktighet skall iakttas vad gäller påverkan på naturmiljön. Detta gäller särskilt påverkan på klippvegetation och slitage på rasbranter, i enlighet med de bevarandeplaner som gäller för Natura 2000 områdena. 
+Det är ej heller tillåtet att någonstans på klippan fira av från träd! (Fler ankare för firning/säkring kommer att sättas upp så småningom). 
+
+För de delar av klippan som ligger i Gagnefs Kommun gäller i första hand följande regler:
+* Det är förbjudet att klättra under tiden 1 mars till och med 30 juni.
+* Inga nyturer får göras. Klättra endast befintliga leder.
+* Det är inte tillåtet att fira med träd som ankare. Gå runt istället.
+* Flora och fauna (antal, yta och volym) skall '''minst''' bibehållas på rådande nivå.
+* Slit inte på den känsliga vegetationen på eller nedanför/ovanför klippan.
+
+Reservatsreglerna: http://www.w.lst.se/template/NewsPage.aspx?id=3108
+
+Natura 2000 reglerna: http://www.w.lst.se/upload/8666/0620231.pdf
+
+Reservatet börjar ett tiotal meter söder om den stora klyftan Trollgatan, som är en av nedstigningsvägarna. Markeringar för reservatsgränsen är markerad träd. Den nordligast belägna (höger sett nedifrån) leden utanför reservatsgränsen är ”Rampfeber”.
+
+För de delar av klippan som ligger i Ludvika Kommun gäller i första hand följande regler:
+* Det är tillåtet att klättra under hela året.
+* Flora och fauna (antal, yta och volym) skall '''minst''' bibehållas på rådande nivå.
+* Nyturer som kräver rensning/bultning får inte göras.
+* Slit inte på den känsliga vegetationen på eller nedanför/ovanför klippan. 
+
+Natura 2000 reglerna:  http://www.w.lst.se/upload/8666/0620188.pdf
+
+Sedan finns det några enkla förhållningsregler som gäller var vi än rör oss:
+* Skräp hör inte hemma i naturen. Ta med skräpet hem, både ditt och andras.
+* Om du lämnar din packning ovanför klippan medan du är nere och klättrar, tänk då på att lägga den på ett sätt så att den inte hindrar andra människor från att njuta av platsen. Låt inte din packning ockupera hela utsiktspunkten eller vindskyddet.
+* Det förekommer att fåglar häckar även utanför reservatet. Undvik att störa dessa.
+* Om du skall elda, gör det endast då förhållandena tillåter. Elda inte i reservatet. Elda inte på klippan, den spricker då. Släck elden mycket noga.
+* Respektera allemansrätten och reservatsreglerna. Glöm inte att ha trevligt!
+
+
+Genom att följa och respektera ovanstående enkla regler som gäller vid Predikstolen och förstå innebörden av allemansrätten hjälper alla klättrare individuellt till att bidra till förebyggande accessarbete. Varje klättrare är en representant för samtliga klättrare gentemot allmänheten varje gång man är ute och klättrar.
+
+Då det vid några tillfällen har hänt att andra besökare missuppfattat reglerna och på felaktiga grunder skällt ut/hotat klättrare (för att inte lyda förbudet, trots att de varit långt in på tillåtet område) så ombeds ni i de fall det behövs att på ett vänligt sätt förklara reglerna.
+
+{{AccessDB|klippa=predikstolen-tansvaggarna}}
+
+==Vägbeskrivning==
+<div style="float: right; margin: 6px; border: solid 1px gray;">
+<googlemap lat="60.375775" lon="15.012817" zoom="11" width="350" height="200" type="map">
+60.375775,15.012817,Predikstolen
+</googlemap>
+</div>
+Sväng av riksväg 247 vi skylt mot Mockfjärd. Därefter följer du skyltar mot Tanstjärn och efter ganska exakt 6 km svänger du vänster och följer i stället skyltar mot Predikstolen. Efter ytterligare någon km är du framme. 
+
+[[Bild:predikstolen_karta.gif]]
+
+==Leder==
+Leder med tillägget trad. är med stor sannolikhet från början gjorda av Tommy Sandberg m.fl. i en
+eller annan stil under sextiotalet.
+Klippan i Predikstolen är som regel inte direkt bombfast. Eftersom dessutom turisterna anländer
+ovanpå berget och gärna vill kasta ned saker så är det inte alls dumt att bära hjälm här!
+På våren brukar ett korppar häcka i Predikstolen. De brukar bygga sitt bo på Rampfeber eller
+Klockstapeln. Något år har de valt framtidsväggen istället. Stör dem inte! De brukar vara klara runt
+månadsskiftet maj-juni.<br/>
+[[Bild:nedresexaväggen.gif]]
+Nedre Sexaväggen och CADväggen ligger långt till vänster och nås lättast genom en firning över Sir Väs eller nedklättring t. v. om densamme. Du står då nedanför övre Sexaväggen och kan härifrån lätt gå ned till nedre. Ett annat alternativ är att gå runt berget till vänster nedifrån sett vilket inte tar mer än 5 minuter. Lederna är runt 20 m. långa. CADväggen är den vänstraste väggen i predikstolen och ligger strax nedanför till vänster om nedre Sexaväggen.
+
+===CAD-väggen===
+{|
+|- valign="top"
+| width="350px" |
+{{led|namn=Plant Design|nr=1a|grad=6+|betyg=2|längd=|fa=[[Arne Johnsen]] [[1998|-98]]|bultar=6|typ=sport|text=Inte lika prydlig linjeföring som Solid Edge men ihållande och fin klättring i alla fall. Ankare finns.}}
+
+| width="350px" |
+
+{{led|namn=Solid Edge|nr=1b|grad=6-|betyg=3|längd=|fa=[[Arne Johnsen]] [[1998|-98]]|bultar=7|typ=sport|text=En av de finaste lederna i Predikstolen. Ligger mellan 1a och 1 på skissen. Ihållande brant klättring på goda grepp. Ankare finns.}}
+|}
+
+===Nedre Sexaväggen===
+{|
+|- valign="top"
+| width="350px" |
+{{led|namn=Luftslottet|nr=1|grad=6-|betyg=2|längd=|fa=[[Erik Hansson]], [[Göran Nordgren]] [[1995|-95]]|bultar=2|typ=mix|text=Den fina sprickan som börjar precis där marken börjar plana ut, ihållande och välsäkrat även om det kan vara svårt att få till säkringarna. Där sprickan tar slut, vidare förbi de två borrbultarna. En fin tur!}}
+
+{{led|namn=Ompa på Trälhavet|nr=2|grad=6-|betyg=2|längd=|fa=[[Göran Nordegren]], [[Erik Hansson]] [[1995|-95]]|bultar=2 (+2 gemensamt med led nr 1)|typ=sport|text=Nästa spricka, ca. 2 m. t. v. om föregående led. Tunt insteg förbi två borrbultar, följ sedan sprickan så långt som möjligt innan du traverserar vänster bort till nedre borrbulten på föregående led. Klart värd att göra!}}
+
+| width="350px" |
+
+{{led|namn=Skygglappen|nr=3|grad=5+|betyg=|längd=|fa=[[Gunnar Renström]] [[1995|-95]]|bultar=|typ=trad|text=Ytterligare en spricka längre åt höger, som följs tills att den sammanfaller med föregående led. Ganska svårsäkrad!}}
+
+{{led|namn=Charlies Led|nr=3a|grad=4+|betyg=|längd=|fa=[[Erik Hansson]], [[M. Mellberg]] [[1996|-96]]|bultar=2|typ=|text=Kort led som leder upp till hyllan nedanför Övre Sexaväggen.}}
+|}
+
+===Övre Sexaväggen===
+Ligger strax ovanför och till höger om den nedre. Se föregående anmarsch.
+{|
+|- valign="top"
+| width="350px" |
+{{led|namn=?|nr=4a|grad=4+|betyg=|längd=|fa=[[J. Spännar]] [[1996|-96]]|bultar=|typ=trad|text=Ett par meter till vänster om Sir Väs. Fin klättring i undre fyraregistret. Säkringsmöjligheterna är dock näst intill obefintliga. Leden är inte rensad.}}
+
+{{led|namn=Sir Väs|nr=4|grad=6-|betyg=1|längd=|fa=[[E. Hansson]], [[Lars Frisk]], [[Stefan Hermansson]]  [[1987|-87]]|bultar=3|typ=mix|text=Ännu en fin tur i undre sexaregistret! Rakt upp förbi tre borrbultar. Ta med någon TCU (mini friend) eller kil! Två bultar moderniserade -95}}
+
+| width="350px" |
+
+{{led|namn=Rättrogna lutheraner|nr=5|grad=6|betyg= |längd=|fa=[[E. Hansson]], [[G. Nordgren]] [[1995|-95]]|bultar=5|typ=sport|text=Håller sig hela tiden omkring den tydliga flaklinjen. Insteg ungefär fem meter h. om Sir Väs. Upp till borrbulten, sedan snett upp åt vänster där någon kil kan vara på sin plats. En något konstlad led men hyfsad klättring. Egentligen rätt onödig...}}
+
+{{led|namn=Uttorkad och vidbränd|nr=6|grad=6-|betyg=3|längd=|fa=[[G. Nordgren]], [[E. Hansson]] [[1995|-95]]|bultar=3|typ=mix|text=Börja som föregående, men dra istället lite åt höger vid första borrbulten och fortsätt upp i det stora diedret. Friends är bra att ha! En klassisk linje!}}
+|}
+
+===Sportväggen===
+
+Alla leder utom Klockstapeln är rena sportturer och säkras med borrbultar. Väggen ser kanske vid en
+första anblick inte så tilltalande ut men lederna håller hög klass. Brant och varierat... OBS! På
+Sportväggen finns ett antal projekt som ännu inte blivit realiserade.
+Övertyga dig om att du inte stjäl någons led!
+
+7c. *** Nya tag, 7+/A0, 8 bb+firningsmojäng. Mikael. Hellberg, E. Hansson -96
+Mycket brant led som börjar på det ruskiga jätteblocket som håller på att välta ut ifrån
+väggen (andremannen bör stå till höger om detsamma). Går i princip rakt upp med
+någon teknisk punkt i början.
+
+7. *** El No Hay!, 7, 7bb+firningsstation. E. Hansson -95
+Bergets finaste? Börjar innanför en kådig gran ett par meter till vänster om det stora
+blocket som ligger på marken precis intill väggen. I stort sett rakt upp, följ bara bultarna.
+Oerhört varierande led med hyfsad pumpfaktor.
+
+7a. ** Ödmjukhet är min styrka, 7+, 8-9 bb+firningsmojäng. E. Hansson -95
+Vid femte bulten på El No Hay! traverserar man vänster några meter därefter rakt upp. Rolig
+och ihållande led med mycket klättring. Firningsmojängen (gemensam med Nya tag) sitter till
+vänster och syns inte förrän man nästan är framme!
+
+7b. ** Trip to Goa, 7-, 7bb+firningsstation. M. Hellberg, E. Hansson -96
+Börjar på toppen av blocket som ligger intill väggen. Drar iväg snett åt höger, sedan rakt upp i
+nnan man sneddar tillbaks åt vänster ovanför överhänget. Samma firningsstation som El No
+Hay!
+
+8. ** Fjöntarna på fortet, 8-, 7bb+firn.st. E. Hansson -95
+Predikstolens svåraste led hösten 1995. Nedre hälften är ihållande hård med några rätt så
+påkostade rörelser, sedan fortsatt brant med flera delikata positioner. Det är nte slut förrän
+man kopplat firningsmojängen.
+
+8a. * Eternal universal journey. 8-, 7 bb+gem. firn.moj. med Fpf. E. Hansson, M. Hellberg -96
+Ett par meter till höger om Fpf. följ bultlinjen upp och iväg åt vänster. Går ihop med Fpf. uppe
+vid dieder/arete-formationen.
+
+9. Klockstapeln, 6-, X-rated. A. Johnsen, T. Sandberg -8?
+En storslagen linje och ganska storslaget seriös. Tre stjärnor och tre dödskallar! Börja vid det
+hängande blocket, fortsätt över de ihåliga skivorna upp till ett fastare område där man kan
+samla sig.Vidare förbi två gamla bultar upp till taket som passeras längst till vänster. Fortsätt
+upp som om inget har hänt! En mycket bra tur för den som vågar...
+
+=== Framtidsväggen ===
+Till höger om Klockstapeln kommer en arete där sedan en sidovägg leder in till en överhängande
+vägg, Framtidsväggen. I dess högra kant leder en svaramp upp åt höger. I det fuktiga hörnet mellan rampen och väggen ligger leden “En höstsak”. Ute runt hörnet börjar en brant vägg som på mitten bryts av ett överhäng/ taksystem. Några meter ut från klippan står en fristående pinnakel. Innanför denna, upp genom taket går “Motörhead”.
+
+[[Bild:framtidsväggen.gif]]
+
+10. En höstsak, 5+. A. Johnsen, T. Sandberg -8?
+Sällan klättrad led som följer det oftast fuktiga hörnet, förbi gamla bultar, tills en borstad linje leder rakt upp för den branta toppväggen.
+
+11b. *Flockbollar i omloppsbana runt Venus, 7(?), 4bb+ kilar, E. Hansson, M. Flodin -96
+Några meter till v. om ”Laserdiscobollar...” Tungt, rakt upp
+
+11a. *Laserdiscobollar är flockbollar, 6+, 4bb+kilar. E. Hansson, A. Johnssen -96
+Börjar som Motörhead men sticker lite åt vänster efter första bb. Snett tillbaka åt
+höger ovanför taket och sedan Motörheads utsteg.
+
+11. * Motörhead, 7-, 3bb+ett par friends, G. Nordgren, E. Hansson -96
+(I ärlighetens namn nödgas jag erkänna att andrabestigningen skedde ett år tidigare
+då den klättrades av Hampus Eriksson!)
+Insteg vid blocket på marken, sedan dragning upp åt höger innan man går rätt upp
+genom taket. En något ojämn led men positionen i kruxet är fantastisk!
+Direkt till höger om pinnakeln börjar Rockväggen. Då standplatstallen ovanför “Det är här det är
+rock!” har blåst omkull så är det lättast att fira över “Femminushörnet”.
+
+12. ** Det är här det är rock!, 5-. trad? f. d. f. b. G. Nordgren, K. Granlund -92.
+Direktinsteg, 6. G. Nordgren -93
+Börjar på det stora blocket som sticker ut från väggen. Slemma upp ifrån vänster, eller klättra
+direktinsteget som ger fem meter osäkrad sexaklättring. Klättra i stort sett rakt upp från
+blocket längs olika sorts formationer. Ganska välsäkrad även om vissa säkringar kan vara
+svåra att få till. En museal bult strax före toppen.
+
+13. * Punkrock, 6-. G. Nordgren, A. Johnsen -95
+Klättra Det är här det är rock! upp till tvärsprickan som leder iväg ut över den släta väggen till höger. Traversera här och och fly sedan ut på hyllan t. h. För att stilpoäng skall utdelas så klättrar man istället vidare rakt upp efter traversen. Graden blir då ca. 6 och slutet är litet läskigt.
+
+14. Flygarbäbyn A2, E. Hansson, Marianne Svensson Jan -93
+* Hårdrock, 7-. M. Flodin -94 o.s.
+En led med ett storslaget men tämligen seriöst krux. Slemma upp i det mossiga hörnet om du
+vill klättra leden korrekt, följ annars Det är här... till den grova tvärsprickan som leder ut till vinkeln mellan taket och areten. Rakt upp för den vackra men svårsäkrade sprickan...
+
+15. * Femminushörnet, 5-. trad? f. d. f. b. G. Nordgren -93
+Ganska jordig och igengrodd linje som dock har några delikata rörelser på slutet.
+Kräver ett säkert umgänge med kilar... (Leden har tidigare haft oförtjänt dåligt rykte och är numera en av bergets mest klättrade. Mycket välsäkrat om man har små friends till utsteget.) 
+
+Till höger om denna led ligger en arete och sedan börjar ett väggparti som slutar vid nedstigningen. Strax före denna finns väggens, för närvarande, enda tur.
+
+15c. * LEGO, 6-, 2bb+kilar, H. och N. Lundenmark -96
+Börjar i den tydliga nischen några meter till v. om Portello. Först snett åt höger, sedan rakt
+upp tills man traverserar bort längs hyllan till firn. moj. ovanför Sockeplast.
+15a. ** Portello, 5, 4bb+kilar. Hans och Nils Lundenmark -96
+Börjar i en tydlig spricka ett par meter till vänster om en gran. Klättra sprickan tillsden tar slut och forsätt sedan rakt upp förbi borrbultarna. Skojig!
+
+15b. *** Sockeplast, 6+, 8bb + firn. stn. H. & N. Lundenmark -96
+Börjar strax till höger om samma gran. Ihållande upp till den lilla tallen halvvägs, sedan något
+lite lättare. En jämn led med mycket klättring!
+16. * Försten upp, 6-, 3bb+kil. G.Nordgren -94
+Börjar precis till höger om det svaga diedret (2bb), korsar det (kil), och sedan rakt upp förbi
+sista borrisen på den brantare toppväggen. OBS! Inga hängare på bultarna, trä kil
+bakom muttern istället. Bultarna är långa, 120mm, så de sitter...
+
+Sedan följer nedstigningen och till höger om denna står en uppbruten svavägg i vinkel rakt österut. Här går två borrbultade leder i 3-4 registret med firningsankare. Det stora liggande diedret,”Grynlavens förbannelse” ligger till höger om svaplattan. Fortsätter man sedan så kommer man ned i mörka skogen. Där finns en hård bouldertravers signerad M. Flodin. Den är ännu i Maj -96 inte gjord i sin helhet.
+
+=== Kalle Anka väggen ===
+När man sedan kommer ut ur skogen igen börjar nästa parti, Kalle Anka väggen, som sträcker sig
+bort till den fantastiska nedstigningsklöften Trollgatan.
+
+[[Bild:kalleankaväggen.gif]]
+
+16a. ** Grynlavens förbannelse, 4, G. Regnström, T. Ingels -96
+Det stora liggande diedret på den sydvända vinkelväggen. Undvik att kliva av leden då du
+passerar den stora hyllan, följ istället linjen hela vägen. Detta ger runt 40m. jämn och fin
+fyraklättring. Går även utmärkt att göra i två replängder.
+
+17. ** Kalle Anka, 6-, A. Johnsen, T. Sandberg -8?
+Starta med en spricka snett upp åt vänster några meter. Brant, ihållande och avig
+klättring leder upp för den blockaktiga branta väggen, ganska svårsäkrat, 1 v-bult.
+Sedan följer en välsäkrad svaplatta, snett tillbaka åt höger, som leder upp till toppen. Häftig
+eller stånkig.
+
+Ett väggparti som bryts av stora tak och överhäng innehåller leden "I gränslandet", sedan kommer den tydliga rampen där Rampfeber går.
+
+18a. (ej inritad) *** I gränslandet, 7+, G. Nordgren, A. Johnsen 2000
+En extraordinärt exponerad sporttur. Borrbultad men saknar dessvärre ankare än så länge. Mellan Kalle Anka och Rampfeber. Bultarna är målade i en röd-lila kulört och svåra att se. Ta dig upp på piedistalen t.h. och kliv sedan ut på den till synes släta väggen t.v. Upp för denna till taket som passeras i v. del. På toppväggen blir linjen aningen sökt, men du skall hålla dig på den branta väggen istället för att ta dig upp på svaet (Kalle Anka). Teknisk, pumpande och mycket luftig!
+
+18. ** Rampfeber, 6-, A. Johnsen, T. Sandberg -8?
+Klättra den fina, välsäkrade rampen upp till hyllan där den slutar. Kliv sedan ut på väggen åt
+vänster och vidare upp på svaet. Denna passage säkras med några gamla bultar som
+eventuellt kommer ersättas med någon borrbult. En av bergets klassiker!
+
+Bortanför Trollgatan kommer sedan de norra delarna med spridda leder. En hel del möjligheter för
+riktigt branta och svåra nyturer. Några ramper leder upp snett åt höger över den annars genuint
+överhängande väggen. På dessa går lederna 19-21.
+
+19. Politikern, 4, G. Nordgren, N. van Brüggen -91 o.s.
+En lätt men seriös tur, då den är både lös och dåligt säkrad. En led där andremansfall kan
+vara lika farliga som förstemans. Linjen är dock snygg!
+
+20. ** Nybörjarsprickan, 3, trad.
+Nästa stora formation, en ramp med två stora flaksprickor. Predikstolen lättaste led.
+
+20a. **Inget för familjefädrer, 6-, Kasper Kotake -97
+Den stora överhängande off-width sprickan som ligger rakt ovanför insteget till ”Du och jag..”.
+Den som inte äger Camalot 5 bör se leden som en soloklättring!
+
+21. * Du och jag och Stirling Moss, 5- (kort 6- i utsteget), G. Nordgren, P Andersson -
+94o.s
+
+Ytterligare kanske 10 meter åt höger leder en svaramp upp åt höger. Denna bjuder på fin
+klättring upp till en hylla där man har två möjligheter. Klättra antingen Metkrokens utsteg (3m,
+6-) eller titta om det har kommit upp hängare på borrbultarna ute till höger ca. 6+.
+
+22. ** Metkroken, 6-, G. Nordgren, K. Granlund -92
+Vidare några meter till höger. Startar på hyllan med den mycket krokiga björken.
+Starta i hörnet och svinga ut åt vänster. Klättra den överhängande sprickan med det
+karaktäristiska klämblocket, själva Metkroken, som inte är så löst som man kan tro.
+Uppe på hyllan väljer du den vänstra delen av T-sprickan. En av bergets mest klättrade leder!
+Brant och välsäkrat!
+Strax till höger om metkroken börjar väggen lägga omkull sig till en moderatare lutning igen. Om man fortsätter bort åt höger kommer man till en kamin.
+
+23a. Kaminen, 3, G. Nordgren (solo) -96
+Kaminen som inte är rensad ser inte särskilt trevlig ut. Det är dock en kamin som för
+ovanlighetens skull går att säkra, åtminstone i övre delen där man använder "baksidan" av
+Änglaspels spricka.
+
+Utanför Kaminen, till höger, ligger så väggen med följande turer.
+
+23. Änglaspel, 4+/5-, A. Johnsen, G. Nordgren -95
+Trevlig men lite lös och bitvis svårsäkrad klättring. Följer en spricka med en gran på
+mitten.
+
+24. Sakristina, 3+, G. Regnström -95
+En kort spricka ännu en bit åt höger. Predikstolens högraste led. Inte så lös som den ser ut.
+
+Sist men inte minst, se till att inte lämna skräp! Turisterna slänger ned oerhörda mängder skräp som vi säkert kommer att få skulden för. Det ser på många ställen bedrövligt ut nedanför klippan så ta gärna med lite hem!
+
+[[Kategori:Dalarna]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar ledmall]]

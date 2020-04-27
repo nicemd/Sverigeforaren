@@ -1,0 +1,57 @@
+{{info klippa
+  |lat=57.685
+  |long=14.329
+}}
+
+{{utkast}}
+
+
+==Allmänt==
+Uvberget
+Uvberget ligger fint belägen vid Tenhultasjön. Klippan är cirka 15-20 meter hög, västvänd och överhängande. Alla lederna hänger över mer än de ser ut att göra, dessutom är det riktigt kul klättring. Solen skiner på klippan fram till 13 tiden. Access / Klippan har fågelskydd och får därför inte klättras på under större delen av sommaren. Det brukar dock ändå ta fram till hösten innnan klippan är ordentligt torr. Leder från 6b+ till 7c+. Hårdare projekt finns. 
+
+
+==Vägbeskrivning==
+Vägbeskrivning: I Tenhult tag vägen söderut mot Ödestugu. Forstätt 1,5 km från badplatsen, i en uppförsbacke står en av vägverkets sandboxar på höger sida, sväng in vänster 10 meter efter denna (vid en brevlåda på vänster sida, hus på höger sida). Parkera i gläntan. Följ stigen 20 meter, när den svänger vänster fortsätt rakt fram och leta dig nerför branten längs en något otydlig stig (fortsätter du på stigen kommer du till toppen av klippan). Följ sjön några hundra meter norrut och klippan blir synlig.
+<googlemap lat="57.685" lon="14.329" zoom="9" type="map">
+57.685,14.329,Uvberget
+</googlemap>
+
+
+==Access {{access}}==
+
+{{AccessDB|klippa=uvberget}}
+
+==Leder==
+[[Bild:Uvberget skiss1.jpg]]
+
+{{led|nr=1|namn=Catchvind|grad=7a|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+
+{{led|nr=2|namn=X9|grad=7a|typ=sport|betyg=|bultar=4bb|längd=|fa=|text=Lättare om du klättrar ut vänster efter tredje bulten. Klättring i diedret. }}
+
+{{led|nr=3|namn=Zypher|grad=Projekt|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+
+{{led|nr=4|namn=Den glada Uven|grad=7c+|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+
+{{led|nr=5|namn=SPLAT|grad=7b|typ=sport|betyg=|bultar=6bb|längd=|fa=|text=}}
+
+{{led|nr=6|namn=Projekt|grad=Ej bultad|typ=|betyg=|bultar=|längd=|fa=|text=}}
+
+{{led|nr=7|namn=Bora|grad=7b+|typ=sport|betyg=|bultar=9bb|längd=|fa=|text=}}
+
+{{led|nr=8|namn=Gudrun|grad=6b+|typ=sport|betyg=|bultar=8bb|längd=|fa=|text=Klättring på mestadels bra grepp.}}
+
+{{led|nr=9|namn=Nordan vind|grad=7a|typ=sport|betyg=|bultar=9bb|längd=|fa=|text=Utsteg genom taket.}}
+
+{{led|nr=10|namn=Östan vind|grad=6c|typ=sport|betyg=|bultar=9bb|längd=|fa=|text=Utsteg till höger. Längst till höger på klippan. }}
+
+{{led|nr=A|namn=Boulder|grad=6c|typ=boulder|betyg=|bultar=9bb|längd=|fa=|text=Traversera vänster och mantla ut.}}
+
+==Förare==
+* [http://www12.speedyshare.com/files/29771890/download/uvberget.pdf Förare]
+
+
+[[Kategori:Småland]]
+[[Kategori:sport]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]

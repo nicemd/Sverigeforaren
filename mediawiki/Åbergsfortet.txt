@@ -1,0 +1,28 @@
+<!-- Detta gör det möjligt att markera klippan på kartor-->
+{{info klippa
+  |lat=65.7857
+  |long=21.7011
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub|extern=ja}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Bultad sprängklippa utanför Boden. Längre ner på samma berg ligger [[Åberget]], som inte är lika utsatt för vind.
+
+==Miljö==
+[[Bild:åbergsfortet.jpg|frame|Elin chillar vid Åbergsfortet.<br>Foto: Fredrik Nyberg]]
+Klippan är vänd åt sydväst. Klippan kan kännas lite såpig ibland.
+
+==Vägbeskrivning==
+Följ vägbeskrivningen till [[Åberget]], men sväng inte vänster in på den sandiga/steniga sämre vägen, utan fortsätt på den asfalterade vägen ca 1 km. Här blockeras vägen av en bom. Parkera 20 meter innan bommen, och följ vägen till fots fram mot fortet. I bortre delen av fortets högra kant (sett från bommen) finns lederna.
+
+==Leder==
+Dussinet leder, huvudsakligen från 5c till 6b+, ca 10 m höga. Slopers och crimpar dominerar. Lednamn finns målade på väggen. Om man vill sätta topprep utan att leda upp kan man använda stegar och en upphängd kedja till vänster om väggen, innanför grinden.
+
+==Förare==
+http://www.borrbult.nu
+[[Kategori:sport]] [[Kategori:vertikalt]]
+[[Kategori:Norrbotten]]

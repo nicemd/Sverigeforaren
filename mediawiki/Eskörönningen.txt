@@ -1,0 +1,37 @@
+[[Kategori:Saknar allmän info]]
+=Vägbeskrivning=
+Kör gamla E4:an norrut. Sväng av mot Eskön och Hillevik. Precis innan ni kommer ut till Eskön står det en skylt ESKÖRÖNNINGEN, sväng vänster där. Du kör förbi ett antal småhus tills du kommer fram till en stor öppen plats på vänster sida. Parkera här. Gå in mot skogen där ni ser en naturstig. Innan naturstigen på högersida finns en liten stig, följ den stigen ner mot vattnet och håll vänster när ni ser strandkanten. Efter ett par hundra meter får ni en lång svavägg på er vänstra sida. Här börjar området.
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Lost|grad=7A|typ=|fa=David Hallman|landning=3|betyg=3|fadatum=2005-09-15|sopad=David Hallman|text=}}
+{{problem|namn=Butterfly|grad=7B|typ=Slopers|fa=David Hallman|landning=3|betyg=2|fadatum=2005-09-11|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Isis|grad=7B|typ=Krimp,Dyno|fa=David Hallman|landning=3|betyg=2|fadatum=2005-10-17|sopad=David Hallman|startgrepp=ja|text=etablering med vänstern på undercling}}
+{{problem|namn=Idioten|grad=7A|typ=Krimp,Mantling|fa=David|landning=3|betyg=1|fadatum=2005-10-17|sopad=David|sittstart=ja|text=Ligger på samma vägg som isis ( branta väggen)starta på crimparna, rakt upp}}
+{{problem|namn=Lost|grad=6C|typ=|fa=David|landning=4|betyg=2|fadatum=2005-10-17|sopad=David|sittstart=ja|text=Ligger på Butterfly blocket.Vänstern på lågt sidotag högern på Kanten.}}
+{{problem|namn=Silly|grad=6C|typ=Krimp,Slopers|fa=David Hallman|landning=1|betyg=1|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=Problemet ligger på blocket mitt emot Willy Wonka (nära Butterfly blocket).}}
+{{problem|namn=Chilly|grad=6A+|typ=Slopers,Travers H->V|fa=David Hallman|landning=1|betyg=2|fadatum=2005-10-17|sopad=David Hallman|startgrepp=ja|text=Samma sten som silly (fontan slopar). Travers åt vänster.}}
+{{problem|namn=Love supreme|grad=6B+|typ=Krimp|fa=David Hallman|landning=1|betyg=1|fadatum=2005-10-17|sopad=David Hallman|startgrepp=ja|text=Ligger på Aladdin väggen. Väster på sido crimp och höger på liten crimp}}
+| width="250px" |
+{{problem|namn=Zeitgeist|grad=7B|typ=Överhäng,Aréte|fa=David Hallman|landning=3|betyg=2|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=fint problem.}}
+{{problem|namn=bratwurst|grad=6B+|typ=Krimp|fa=David Hallman|landning=3|betyg=1|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=samma block som zeitgeist. rakt upp på högra areten}}
+{{problem|namn=Olyckan|grad=6B+|typ=Slopers,Överhäng|fa=David Hallman|landning=1|betyg=3|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=starta under stenen, följ areten rakt upp.}}
+{{problem|namn=Kosmologen|grad=6A|typ=Aréte|fa=David Hallman|landning=1|betyg=1|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=Blocket ligger där väggarna tar slut. följ väggen upp mot skogen.}}
+{{problem|namn=Alkemisten|grad=6C|typ=Travers H->V|fa=David Hallman|landning=1|betyg=3|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=Traversera hela blocket åt vänster. starta vid areten.}}
+{{problem|namn=Caligula|grad=6C|typ=|fa=David Hallman|landning=3|betyg=2|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=rakt upp. samma sten som kosmologen.}}
+{{problem|namn=Introverten|grad=6B+|typ=Överhäng|fa=David Hallman|landning=3|fadatum=2005-10-17|sopad=David Hallman|sittstart=ja|text=starta under stenen.}}
+| width="250px" |
+{{problem|namn=alpin stil|grad=7C|typ=Överhäng|fa=Mattias Flodin|landning=1|betyg=2|fadatum=2005-11-22|sopad=Mattias Flodin|sittstart=ja|text=Ligger på butterfly blocket. starta på utmärkta grepp under taket}}
+{{problem|nr=2|namn=En riktigt ful en|grad=6A+|typ=Slopers,Mantling|fa=Stefan Hedin, Ronny Andersson|landning=2|fadatum=2005-08-25|sopad=Stefan Hedin, Ronny Andersson|sittstart=ja|text=Går på samma block som 11år sen sist fast längst till vänster}}
+{{problem|nr=3|namn=Foot balance|grad=6B|typ=Krimp,Dyno|fa=Stefan Hedin, Ronny Andersson|landning=3|betyg=3|fadatum=2005-08-25|sopad=Stefan Hedin, Ronny Andersson|text=Riktigt balansigt problem som går på ett block till vänster om det fina uppvärmingsblocket mitt på området.}}
+{{problem|nr=5|namn=Bra fin|grad=7A|typ=Krimp,Reach,Heel hook|fa=Kristoffer Pettersson, Ronny Andersson|landning=2|betyg=3|fadatum=2005-08-25|sopad=Kristoffer Pettersson, Ronny Andersson|sittstart=ja|text=Starta sittande på de tydliga greppen under taket, gå sedan rakt upp utan att gå runt aréten.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

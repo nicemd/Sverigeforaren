@@ -1,0 +1,108 @@
+{{info klippa
+  |lat=58.440130
+  |long=11.511376
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{komplett}} 
+
+==Allmänt==
+Brunna (lokalt är berget sedan länge känt under detta namn) består av en nordvänd vägg och en
+västvänd vägg. Stora ängar ligger framför dessa 30 meter höga väggar.
+Lederna i 5-6 registret är alla kilsäkrade
+
+== Övrigt ==
+[[Mörkrets hjärta]] (berget saknar lokalt namn) upptäckte Jappe Pålsgård när han var ute och sprang för några år sedan. På väg därifrån lade han märke till ett berg på andra sidan av en stor äng – "Brunna". Bergen ligger mellan [[Hallinden]] och [[Brodalen]]
+
+Anders på Staxängs gård äger marken framför bägge väggarna, traktorväg med en mindre
+parkeringsficka och dessutom själva berget Mörkrets hjärta.
+Brunna ägs av Jon på Tvetens gård.
+En något större parkeringsyta – för åtkomst till bägge bergen(P2 på nästa bild) – ägs av Jan-Åke på
+Kanekärr.
+Jappe har god kontakt med Anders – som är positiv till klättring på sin mark, och även till parkering på
+P1(dock inte vintertid!) Jan Leyon har även kontakt med Anders.
+Jan har god kontakt med Jan-Åke – som inte haft någonting emot att man parkerar på hans mark.
+Jan har träffat Jon som inte har någonting emot att vi klättrar på Brunna
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.439063" lon="11.503136" zoom="14">
+58.439063, 11.503136, Parkering P1
+58.437014, 11.505132, Parkering P2
+58.440130, 11.511376, Brunna
+</googlemap>
+
+</div>
+
+Kör väg 162 från Hallinden mot Lysekil
+
+'''För parkering på P1 :'''
+Efter någon kilometer väg in till vänster mittemot busshållplats "Staxäng". 90 grader höger och efter en bit 90 grader vänster och sedan uppför en backe. Mitt i denna en traktorväg på vänster sida. Kör in på denna och parkera.
+
+'''För parkering på P2 :'''
+Fortsätt förbi hållplats "Staxäng" ytterligare 700 meter. Sväng vänster och håll höger när vägen så
+småningom delar sig. När du passerat sommarstugan på vänster hand ser du Jan-Åkes hus framme till
+vänster - bakom några uthus. Gå över ängen som ligger öster om Jan-Åkes hus och igenom ett kortare platt skogsparti. Du kommer då fram till den stora äng som ligger framför Brunna
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+===Nordväggen===
+Uppstigning/nedstigning – enkel - till vänster om väggen.
+Två leder är gjorda på väggen:
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=|namn=Här och nu|grad=5+|typ=trad|betyg=|bultar=|längd=25|fa=[[Jan Leyon]], [[Geir Eriksen]] 2011|text=Långt till vänster på väggen. Insteg i ett stort hörn och rätt upp i den uppenbara sprickan. Tall vid utsteget. Jämn i graden}}
+
+{{led|nr=|namn=Bara en promenad, sa du..|grad=5|typ=trad|längd=35|fa=[[Geir Eriksen]], [[Jan Leyon]] 2011|text=Långt till höger på väggen. Insteg i en handspricka under två block. Travers vänster och så upp i sprickan och vidare i sprickformationer till en tall på toppen. Insteget är nästan ledens krux – och traversen är inte bara en promenad..}}
+
+| width="350px" |
+
+|}
+
+===Västväggen===
+Uppstigning/nedstigning – enkel - till vänster om Nordväggen.
+Tre leder är gjorda på väggen:
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=|namn=(Blott en dag) Ett ögonblick i sänder|grad=6+|typ=trad|betyg=|bultar=|längd=30|fa=[[Jan Leyon]], [[Geir Eriksen]] 2010|text=Längst till vänster på väggen. Insteg i det uppenbara vänstervända diedret. Kruxet kommer nästan direkt – med precis lagom med säkringar så att det känns roligt. Du får sedan belöningen i form av 25 meters kalasklättring på lite större formationer!}}
+
+
+{{led|nr=|namn=Koskräck|grad=6|typ=trad|längd=40|fa=[[Edvin Mellergård]], [[Marcus von Schmalensee]] 2013-08-28|text=Rpl. 1. (Grad 6) Startar 50 m till vänster om "En tjur och nio kvigor". Klättra flak formationer upp till den tydliga sprickan/försvagningen i det stora taket. Passera detta och fortsätt uppför flak och sprickor till en stor hylla. Rpl 2.(Grad 6/5-) Fortsätt antingen direkt upp åt höger i hörnet(grad 5-, smutsigt) eller gå några meter åt vänster och klättra det tydliga spricksystemet.(Grad 6)}}
+
+{{led|nr=|namn=En tjur och nio kvigor|grad=6|typ=trad|längd=25|fa=[[Geir Eriksen]], [[Jan Leyon]] 2010|text=Långt till höger på väggen. Börja bakom ett stort block, i det vänstervända diedret. Leden är överhängande i början men är här lättare än vad den ser ut. Sedan minskar lutningen och svårigheterna ökar. Firningsslinga med länk i en tall 10 meter till höger om utsteget}}
+
+{{led|nr=|namn=Livets skatt|grad=6|typ=trad|längd=20|fa=[[Geir Eriksen]], [[Jan Leyon]] 2011|text=10 meter till höger om föregående led. Scrambla upp till en hylla med två träd, 5 meter ovan marken. Upp i kaminen till överhänget. Använd dig initialt av bägge sprickorna för att sedan göra utsteget i den vänstra. Fina handjam på kruxet! Firningsslinga med länk i en tall 5 meter ovan utsteget}}
+
+| width="350px" |
+
+|}
+
+[[Bild:Brunna_Västväggen.jpg|500px]]
+
+== Mer info ==
+Kontakta [[Jan Leyon]]
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]

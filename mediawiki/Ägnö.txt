@@ -1,0 +1,56 @@
+{{info klippa
+  |lat=59.240210410427196
+  |long=18.39682102203369
+}}
+
+{{utkast}}
+[[Bild:Ägnö.jpg|thumb|right|250px|Ägnö. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+==Allmänt==
+Stor och kraftigt kuperad ö, norr om Härsö. Hela södra delen är ett stort bergsmassiv med ganska flacka svaplattor och mitt på ön finns ett högt väggparti. Tyvärr gör den kompakta och sprickfattiga klippan att det inte finns så många möjligheter här som man först skulle kunna tro. Lederna ligger på den största klippan.
+
+==Miljö:==
+Västvänd. Öppet och inte speciellt mossigt.
+
+{{clear}}
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap width="400" height="250" lat="59.24113224001171" lon="18.397808074951172" zoom="12" type="map">
+59.240210410427196,18.39682102203369,Ägnö
+</googlemap>
+</div>
+Egen båt. Har du vägarna förbi ligger [[Härsö]] och [[Stora Korpmaren]] alldeles i närheten.
+{{clear}}
+==Leder==
+===Mittpartiet===
+Mitt på väggen finns ett sva och ovanför det en skarpt skuren dieder med en väldigt slät högervägg.
+
+{{led|nr=1|namn=Martins tur|grad=A2|längd=15|fa=[[Martin Jacobsson]] [[-96]]}}
+{{led|nr=2|namn=Clear blue|grad=A2|längd=10|fa=[[Jesper Andersson]] [[-96]]}}
+{{led|nr=3|namn=Acceptance, forgiveness & love|grad=A3|längd=12|fa=[[Ludde Hagberg]] [[-96]]}}
+{{led|nr=4|namn=True happiness this way lies|grad=A3-|längd=25|fa=[[Ludde Hagberg]] [[-96]]}}
+{{led|nr=5|namn=All these moments will be lost in time like tears in rain|grad=A3-|längd=15|fa=[[Ludde Hagberg]] [[-96]]}}
+{{led|nr=6|namn=Casper, the dopest ghost in town|grad=A2+|längd=15|fa=[[Marco Kupiainen]] [[-96]]}}
+
+===Högra svaet===
+{{litentext|text=Följande leder ligger längst th på klippan och startar från en stor hylla ca 10m ovanför marken. }}
+{{led|nr=7|namn=Vårrus|grad=6+|längd=20|fa=[[Niklas Björnerstedt]], [[Jan Ahrens]] [[-95]]}}
+{{led|nr=8|namn=Tjejtramp|grad=5-|längd=15|fa=[[Jan Ahrens]], [[Niklas Björnerstedt]] [[-95]]}}
+
+==Mer information==
+Tråd på [http://www.bloxc.com/forum/viewtopic.php?t=1536 Bloxc] med bilder.
+
+==Bilder==
+[[bild:Agno002.jpg|thumb|center|700px|Ägnö. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+{{clear}}
+[[Bild:IMG 9725.jpg|thumb|left|300px|Ägnö. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+[[bild:Agno001.jpg|thumb|right|300px|Ägnö. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+{{clear}}
+[[bild:Agno003.jpg|thumb|left|300px|Ägnö. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+[[Category:Överhäng]]
+[[Category:Oklättrat]]
+[[Kategori:Stockholm]]
+[[Kategori:Tyresö]]
+[[Kategori:Stockholms Skärgård]]

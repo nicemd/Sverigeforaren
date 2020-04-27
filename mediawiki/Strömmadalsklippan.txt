@@ -1,0 +1,20 @@
+{{info klippa
+  |lat=59.303333
+  |long=18.541111
+}}
+
+{{boulderstub|extern=ja}}
+
+<googlemap version="0.9" lat="59.293241" lon="18.539429" type="map" zoom="13">
+59.303333, 18.541111, Strömmadalsklippan
+</googlemap>
+
+Förare: http://www.klatterverket.se/bloc/sdk.html
+
+Vi har fått ok att lägga upp denna förare på Sverigeföraren.
+
+Se även [[Kraftsten]] som inte ligger långt ifrån Strömmadalsklippan. (samma parkering).
+
+
+[[Kategori:Stockholm]]
+[[Kategori:Nacka-Värmdö]]

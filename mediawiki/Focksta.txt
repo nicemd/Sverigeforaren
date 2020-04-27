@@ -1,0 +1,484 @@
+==Allmänt==
+'''OBS!!! Det råder nytursförbud i hela Fockstaområdet. Respektera förbudet, annars riskeras framtida access.'''
+
+Väldigt vidsträckt blockområde sydväst om Uppsala med flera hundra problem. [[{{PAGENAME}}/Bilder|Bilder från området finns på separat sida.]]
+
+Uppbloc, ny (2008) boulderförare över Uppsala finns att köpa via uppblocSNABELAgmail.com
+
+==Vägbeskrivning==
+Kör väg 55 mot Enköping från Uppsala, sväng av i Säva mot Focksta kvarn. Parkera helst vid kvarnens parkeringsplats under sommarmånaderna.
+
+<googlemap version="0.9" lat="59.786816" lon="17.388268" type="map" height="300">
+59.789796, 17.364063, Focksta
+</googlemap>
+
+
+==Access {{access}}==
+
+{{AccessDB|klippa=focksta}}
+
+==Sektorer==
+
+===Söderängarna===
+
+Följ grusvägen tillbaka från parkeringen, sväng sedan av höger in på den andra grusvägen. De första blocken ser du rakt fram.
+{|
+|- valign="top"
+| width="250px" |
+
+{{problem|namn=Styx|grad=7A+|typ=Krimp,Aréte|fa=Olof och Jon|landning=3|betyg=2|sopad=Olof och Jon|text=Arêten bakom Split Personality.}}
+
+{{problem|namn=Last|grad=7A+|typ=Aréte|fa=J Smedsaas|landning=4|betyg=2|fadatum=2004-08-01|sopad=J Smedsaas|sittstart=ja|text=Sittstart till Lust på jaktblocket. Morpho.}}
+
+{{problem|namn=Füültjack assis|grad=7A+|typ=Slopers,Överhäng|fa=J Smedsaas|landning=4|betyg=2|fadatum=2006-03-22|sopad=J Smedsaas|sittstart=ja|text=Gå längst bort på söderängarna, ta av höger på en lite stig och korsa en äng (ca 200 m) förbi ett älgpass. Problemet går i överhänget på det lilla blocket på höjden.}}
+
+{{problem|namn=Med ena foten i pölen|grad=7A+|typ=Slopers,Överhäng,Dyno|fa=J Smedsaas|landning=4|fadatum=2006-03-23|sopad=J Smedsaas|sittstart=ja|variant=ja|text=Elimineringsproblem på blocket med sprickan nära Stress. Sittstart med enbart vä sida sprickan, sedan till sloper vänster och catch upp i Fat ass standing utan att stå i sprickan.}}
+
+{{problem|namn=Candy Man escape|grad=7A|typ=Aréte|fa=Okänd|landning=4|betyg=2|sopad=Okänd|variant=ja|text=Sittstart vid stubben med två kanter.}}
+{{problem|namn=Deer hunter|grad=7A|typ=Dyno|fa=J Smedsaas|landning=2|sopad=J Smedsaas|sittstart=ja|text=Det låga blocket nedanför jaktblocket. Sittstarta till höger med slopers och catcha upp vänster.}}
+
+{{problem|namn=Konrad|grad=7A|typ=Krimp,Överhäng|fa=J Smedsaas|landning=3|sopad=J Smedsaas|sittstart=ja|uteslutningar=ja|text=Eliminationsproblem. Sittstart mitt i överhänget, klättra rakt upp via list och sidtag i diedret.}}
+
+{{problem|namn=Lust|grad=6C+|typ=Aréte|fa=J Smedsaas|landning=4|betyg=2|sopad=J Smedsaas|text=Arêten på jaktblocket. Etablerad start, ingen svingstart.}}
+
+{{problem|namn=Lustens Förvandlingar|grad=7A|typ=Krimp|fa=Borg, Antonsson, Jesper A|landning=3|betyg=1|sopad=Borg, Antonsson, Jesper A|text=Starta vänster om Lust-arêten, klättra upp höger på vassa krimpar in i Lust.}}
+
+{{problem|namn=Den lilla stenen på prärien (låg start)|grad=7A|typ=Överhäng|fa=Stefan E|landning=2|sopad=Stefan E|startgrepp=ja|text=Blockröset mitt emot Fräschorama. Starta lågt vid den överhängande arêten med en liten sloper och dålig pinch.}}
+
+{{problem|namn=Parasit|grad=7A+|typ=Krimp,Slopers,Överhäng|fa=J Smedsaas|landning=2|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Stort block med överhängande sida 100 m innanför obeliskblocket. Sittstart och klättra ut höger.}}
+
+{{problem|namn=Stress|grad=7A|typ=Slopers,Aréte|fa=Olof och Stefan|landning=3|betyg=2|sopad=Olof och Stefan|startgrepp=ja|text=Blocket med vita fläcken. Etablerad start i överhänget med stort sidtag och liten undercut, följ sedan arêten ut till hornet.}}
+{{problem|namn=Intressekonflikt|grad=6B+|typ=Slopers,Mantling|fa=Stefan E|landning=3|betyg=1|fadatum=2006-06-03|sopad=Stefan E|text=Det vänstra av de första två blocken. Starta vänster om arêten med slopers.}}
+{{problem|namn=Sister Vanilla (statisk)|grad=6C|typ=Reach,Heel hook|fa=Stefan|landning=2|betyg=1|fadatum=2006-06-15|sopad=Stefan|sittstart=ja|text=Går på blocket närmast vägen där man går in mot Obelisken. Start som 6a+:en som går där (sittstart med stor sluttande hylla), sedan rakt upp via sidtag.}}
+{{problem|namn=Gloria|grad=7A|typ=Överhäng|fa=Stefan E|landning=2|betyg=1|fadatum=2006-06-15|sopad=Stefan E|sittstart=ja|startgrepp=ja|text=Står som projekt i föraren, går på blocket vid vägen utanför obelisken. Sittstart med båda händerna i underclings.}}
+{{problem|namn=Sister Vanilla (dyno)|grad=7A|typ=Dyno|fa=Stefan|landning=2|fadatum=2006-06-22|sopad=Stefan|sittstart=ja|uteslutningar=ja|text=Sittstart som statiska varianten men strunta i sidtaget och hoppa direkt till kanten. Skoj om man gillar dynos och kan väl få stå som eget problem trots allt...}}
+{{problem|namn=Tatuerade snutkukar|grad=7A+|typ=Överhäng,Slab|fa=Fredrik Andersson|landning=3|betyg=2|fadatum=2007-04-02|sopad=Fredrik Andersson|text=Slabben mitt emellan Idol och Fräscorama. Börjar något åt höger.}}
+{{problem|namn=Raketforskning|grad=-|typ=Dyno|fa=Fredrik Andersson, Anders Tväråna|landning=2|betyg=1|fadatum=2007-04-02|sopad=Fredrik Andersson, Anders Tväråna|text=Starta på stenen till vänster om Obelisken, dubbeldyna ut och upp till obeliskkanten.}}
+{{problem|namn=Cättvikt|grad=5B|typ=Slab|fa=Smith/Boye/Bergholm|landning=3|fadatum=2007-04-02|sopad=Smith/Boye/Bergholm|text=Slabben mittemot Candyman.Rensning fullständigt underkänd. Ny FA Anders Jacobsen. Fint och värt att göra.}}
+| width="250px" |
+{{problem|namn=Antigone|grad=5B|typ=Slab|fa=Tväråna|landning=2|betyg=1|fadatum=2007-04-04|sopad=Tväråna|text=På stenen mittemot Fräschorama, ut mot vägen. Starta mitt på väggen med fötterna på bra steg. Rakt upp till kanten.}}
+{{problem|namn=Metafor|grad=4B|typ=|fa=Tväråna|landning=2|fadatum=2007-04-04|sopad=Tväråna|text=På blocket mittemot Fräschorama, ut mot vägen. Till vänster på väggen, börja med vänster hand  i undercling runt kanten. Lätt och fin.}}
+{{problem|namn=Den orena handen|grad=4B|typ=|fa=at, Olle Morén, Jens Svensson|landning=2|betyg=1|fadatum=2007-04-13|sopad=at, Olle Morén, Jens Svensson|text=Sittstart runt hörnet till höger om Cättvikt, mittemot Candyman. Runda hörnet och hangla till toppen av blocket.Perfekt uppvärmning, fram och tillbaka, höger eller vänster hand.}}
+{{problem|namn=Fasans makt|grad=6B|typ=|fa=Stefan Eklund, Rickard Hedman|landning=2|betyg=2|fadatum=2007-04-04|sopad=Stefan Eklund, Rickard Hedman|text=På stenen vid vägen mittemot Idolblocket. Längst till höger om Metafor och Antigone. Rakt upp.Sittstart kommer.}}
+{{problem|namn=Kalsongmannen|grad=6A+|typ=|fa=Tväråna|landning=1|betyg=1|fadatum=2007-05-31|sopad=Tväråna|text=Tittar man på Candyman har man det rätt fina blocket 50 m rakt bakåt, vid hörnet av energiskogen. Uppför högsta delen, 6c i jeans.}}
+
+{{problem|namn=Hjärnspöken|grad=4B|typ=|fa=Tväråna|landning=1|fadatum=2007-05-31|sopad=Tväråna|text=Tittar man på Candyman har man det rätt fina blocket 50 m rakt bakåt, vid hörnet av energiskogen.Upp för vänstra delen av väggen, till vänster om kalsongmannen.}}
+
+{{problem|namn=Mantling 2|grad=5C|typ=|fa=?|landning=1|betyg=1|fadatum=2007-05-31|sopad=?|text=Den nedre mantlingen på Mamma Mu-blocket, närmast hörnet. Ven gjorde den först? Och vad heter den?Återrensad 0705.}}
+
+{{problem|namn=Ät gräs|grad=5B|typ=|fa=Rikard, Stefan|landning=3|fadatum=2006-07-16|sopad=Rikard, Stefan|sittstart=ja|text=Lägsta areten på mamma mu-blocket. Sittstart från stenen.}}
+
+{{problem|namn=Mantling 1|grad=5A|typ=|fa=?|landning=1|sopad=?|text=Den översta mantlingen på Mamma Mu-blocket. Vem gjorde den först?Återrensad 0705.}}
+
+{{problem|namn=Den magiska gropen|grad=6B+|typ=Mantling,Överhäng|fa=Stefan Eklund, Anders Tväråna|landning=1|betyg=1|fadatum=2007-08-18|sopad=Stefan Eklund, Anders Tväråna|sittstart=ja|text=På blocket mittemot Fräschorama och Idol, samma som Antigone och Fasans makt. Sittstart under överhänget på änden mot granen. Upp till kanten och vidare.Tänkte den kunde heta Untermench.}}
+
+{{problem|namn=Fasans makt assis|grad=7A|typ=|fa=Anders Tväråna|landning=3|betyg=1|fadatum=2007-09-02|sopad=Anders Tväråna|sittstart=ja|text=Fasanslakt... Lätt efter många försök.}}
+
+{{problem|namn=Under isen|grad=5B|typ=|fa=Anders Tväråna, Grim Söderin|landning=1|fadatum=2007-09-02|sopad=Anders Tväråna, Grim Söderin|sittstart=ja|text=På blocket mittemot Fräschorama/Idol. Sittstart på kanten till höger om "den magiska gropen". Ett långt drag upp till kanten, sen kan man vika upp över slabben.}}
+
+{{problem|namn=Candy Man original|grad=7A|typ=Aréte,Reach|fa=Dylan|landning=4|betyg=3|fadatum=2007-09-23|sopad=Dylan|text=Rakt upp, dvs inget användande av steg ute på slabben. Inte svårare än escapen, men finare och något mer utsatt.}}
+{{problem|namn=Jagad|grad=6A|typ=Reach,Spricka|fa=JS, RH|landning=5|betyg=2|sopad=JS, RH|text=Sprickan till höger om Lust på Jaktstugeblocket.}}
+{{problem|namn=Fräschorama assis|grad=7B|typ=Aréte|fa=Bosma|landning=3|betyg=1|sopad=Bosma|sittstart=ja|text=Precis som det låter, sittstarta arêten. Grad?}}
+{{problem|namn=Hammock|grad=7A+|typ=Krimp,Mantling,Överhäng|fa=Stefan och Matte N|landning=4|fadatum=2007-10-21|sopad=Stefan och Matte N|sittstart=ja|text=Sittstart i ett överhäng med pissiga krimpar, catcha kanten och gör den jobbiga urtoppningen. Ligger på ett litet hygge, gå ca 200m in i skogen vid Stress och håll lite vänster till det öppnar upp. Går på det högra blocket, överhänget.}}
+{{problem|namn=Smiley|grad=6C+|typ=Krimp,Överhäng|fa=Stefan och Matte N|landning=4|fadatum=2007-10-21|sopad=Stefan och Matte N|sittstart=ja|text=Blocket vänster om hammock, sittstart höger med ett par krimpar på smileyrampen och börja campusera.}}
+{{problem|namn=Arnold|grad=7B|typ=Slopers,Överhäng,Aréte|fa=Stefan|landning=4|fadatum=2007-10-21|sopad=Stefan|sittstart=ja|text=Den branta megaslopiga arêten höger om hammock från assis.}}
+{{problem|namn=Svältfödd|grad=6B|typ=Aréte|fa=Stefan|landning=3|betyg=1|fadatum=2007-10-21|sopad=Stefan|sittstart=ja|text=Arêten vänster om "en fråga om balans", går även att göra från ståstart-marginellt lättare.}}
+| width="250px" |
+{{problem|namn=En fråga om balans|grad=7B|typ=Krimp,Slopers,Överhäng|fa=Stefan|landning=3|betyg=2|fadatum=2007-10-21|sopad=Stefan|startgrepp=ja|text=Gå från Stress längs skogskanten mot Utsikten, blocket ligger ca 10 m in i skogen halvvägs dit. Problemet går på baksidan, starta matchat på juggen nere till höger.}}
+{{problem|namn=Martin mä svetsen|grad=7A+|typ=Krimp|fa=Anders Tväråna|landning=1|betyg=1|fadatum=2008-01-27|sopad=Anders Tväråna|text=På första blocket. Rakt upp till vänster om Mamma mu, på väggen direkt till höger om aréten. Krimpig start och taskiga steg.}}
+{{problem|namn=Split personality|grad=6C+|typ=Layback,Överhäng|fa=Dylan Smith|landning=2|betyg=2|fadatum=2008-02-23|sopad=Dylan Smith|sittstart=ja|text=Det spruckna uppallade blocket.}}
+{{problem|namn=Hets|grad=7B|typ=Överhäng|fa=Jon S, Anders T, Fredrik S|landning=1|fadatum=2008-02-25|sopad=Jon S, Anders T, Fredrik S|sittstart=ja|text=Starta som Parasit. Följ sprickan ut åt vänster.Kan man egentligen döpa problemet till något annat med tanke på den stämning som rådde där i lördags. Sydde hade en fräck fa-vittring.}}
+{{problem|namn=Avoid the mossa|grad=6A|typ=|fa=Jenny Bäckström|landning=2|fadatum=2008-02-23|sopad=Jenny Bäckström|sittstart=ja|text=Till höger runt hörnet om Parasit. Start i undercling för v.h och sidtag för h.h}}
+{{problem|namn=A boy in a box|grad=6C+|typ=|fa=Olof och Sydde|landning=3|sopad=Olof och Sydde|startgrepp=ja|text=Start vid EFOB; ta ett litet undercling och skicka till kanten.}}
+{{problem|namn=Moonscape|grad=7A|typ=Slopers|fa=Matte N och Stefan|landning=2|fadatum=2008-03-21|sopad=Matte N och Stefan|sittstart=ja|text=Sittstarta väggen mitt emot Parasit. Skojigare än det såg ut.}}
+{{problem|namn=Rotnetto|grad=7A+|typ=|fa=Anders Tväråna|landning=3|betyg=2|fadatum=2008-04-05|sopad=Anders Tväråna|text=Vänstra areten på ett stort block rätt nära Arnold, mot utsikten till.}}
+{{problem|namn=Skate or die|grad=6B+|typ=|fa=Andreas Spångberg|fadatum=2009-09-05|sopad=Andreas Spångberg|sittstart=ja|text=block bakom Rotnetto blocket. Sittstarta på bra grepp, ut vänster och skicka till kanten.}}
+{{problem|namn=Vilse i pannkakan|grad=7B|typ=|fa=Anders Tväråna|landning=4|betyg=2|fadatum=2008-04-15|sopad=Anders Tväråna|startgrepp=ja|text=Samma block som "presenten".Start på jug inne i det överhängande diedret, placera fötterna rätt och glid upp.}}
+
+{{problem|namn=J-Man|grad=7C|typ=|fa=J-Man|landning=4|fadatum=2008-04-20|sopad=J-Man|uteslutningar=ja|text=Sittstart som Presenten, sedan rakt upp mellan Presenten och Vilse i Pannkakan.}}
+
+{{problem|namn=Presenten|grad=7B|typ=Pinch,Överhäng|fa=Anders Tväråna|landning=2|betyg=2|fadatum=2008-04-15|sopad=Anders Tväråna|sittstart=ja|text=Sittstart i två undergrepp, sedan flera nyp och långt sträck till toppen.Blocket ligger inne i skogen bakom candyman. Gå förbi jaktstugan och fortsätt rakt fram in i skogen där vägen svänger. 100m in, över en stenig ås.}}
+
+{{problem|namn=Copyleft|grad=6B+|typ=|fa=Anders Tväråna|landning=4|fadatum=2008-04-17|sopad=Anders Tväråna|sittstart=ja|text=Presentblocket.Sittstart vid långsidans högra aréte. Upp åt vänster och mantla.}}
+
+{{problem|namn=Katarsis|grad=7A+|typ=Mantling|fa=Anders Tväråna|landning=2|betyg=1|fadatum=2008-04-17|sopad=Anders Tväråna|startgrepp=ja|text=Samma block som "Vilse i pannkakan", till höger om den.Starta på två krimpar, gå till kanten och över.}}
+
+{{problem|namn=Verkshöjd|grad=6A+|typ=|fa=Anders Tväråna|landning=3|betyg=2|fadatum=2008-04-17|sopad=Anders Tväråna|sittstart=ja|text=Presentblocket.Sittstart något till höger om "copyleft", på nästa arétekant. Rakt upp, avslutar något höger.}}
+
+{{problem|namn=S-man|grad=7A|typ=|fa=S-Man mfl.|landning=2|fadatum=2008-04-19|sopad=S-Man mfl.|sittstart=ja|uteslutningar=ja|text=Anders block. Längst höger, ss höger om sprickan/diedret och klättra rakt upp på lister utan att använda greppen i och i anslutning till ovan nämnda spricka.}}
+
+{{problem|namn=Allmänbildning|grad=6C|typ=Mantling|fa=Anders Tväråna|landning=3|betyg=1|fadatum=2008-04-20|sopad=Anders Tväråna|text=Presentblocket.Mantling till höger om Katarsis, vid hörnet. Ta kanten och dra över.}}
+
+{{problem|namn=Poäng!|grad=7A|typ=Slab|fa=Stefan Eklund, Anders Tväråna, Dag Löwenvald|landning=3|betyg=2|fadatum=2008-04-20|sopad=Stefan Eklund, Anders Tväråna, Dag Löwenvald|text=Slabb ca 50 meter öster om presentblocket.Slät och fin!}}
+
+{{problem|namn=Presstopp|grad=6B+|typ=Slab|fa=Magnus Crona, Olof Eriksson, Anders Tväråna|landning=2|fadatum=2008-04-22|sopad=Magnus Crona, Olof Eriksson, Anders Tväråna|text=Slabben på baksidan av "Poäng!".}}
+
+{{problem|namn=Uberfrench|grad=7A|typ=Slab|fa=Magnus C|landning=4|betyg=1|fadatum=2008-06-13|sopad=Magnus C|text=Framborstad av Grim. Vägg t h om Untermensch. Starta i undercling/crimp sedan rakt upp. Morpho.}}
+|}
+
+{{problem|namn=Untermensch!|grad=7C|typ=|fa=Jon|landning=1|betyg=1|fadatum=2008-04-20|sopad=Jon|text=Starta som Dumbo. Klättra ut vänster genom överhänget.}}
+
+===Utsikten===
+Följ grusvägen tillbaka från parkeringen, passera de båda grusvägarna in åt höger. Ta sedan upp höger in i hagen och följ skogskanten åt vänster. Du ser två låga block rakt fram, Utsikten börjar här och sträcker sig söderut. Blocken är generellt sett stora, landningarna bra och läget öppet och fint.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Jumpin' Jack|grad=7A|typ=Krimp,Dyno|fa=Stefan E|landning=3|betyg=1|sopad=Stefan E|sittstart=ja|text=Sittstart på det högra av de två första blocken man kommer till.}}
+{{problem|namn=Sub-Zero|grad=6C+|typ=Slopers|fa=Stefan E|landning=3|sopad=Stefan E|sittstart=ja|text=Det vänstra av de två första, låga blocken. Sittstart vid arêten och dra rakt upp till slopers och mantla. 6c-7a nånstans.}}
+{{problem|namn=Dubbelmacka|grad=6C|typ=Krimp,Slopers,Reach|fa=stefan|landning=5|sopad=stefan|startgrepp=ja|text=Gå in mellan de två första stora blocken, problemet går på det "hängande" blocket man ser rakt fram. Starta med det låga listerna och sträck upp till slopers.}}
+| width="250px" |
+{{problem|namn=Nackskott|grad=6C+|typ=Dyno|fa=stefan|landning=5|sopad=stefan|sittstart=ja|text=Sittstart mitt emot Pimp my Ride. Lyft kylskåpet och catcha till hyllan. Rätt hårt move och väldigt mycket morpho. Landningen underbar bortsett från stenspetsen som pekar mot bakhuvudet.}}
+{{problem|namn=Fjärde stjärnan|grad=6A+|typ=|fa=Anders Tväråna, Fredrik Andersson|landning=3|fadatum=2007-08-27|sopad=Anders Tväråna, Fredrik Andersson|text=På ensamt block över hagen mot söderängarna när man går in. Samma sittstart som Stefans problem (namn?), men snika runt kanten till vänster. Ryggträning.}}
+{{problem|namn=Biff i vardande|grad=4A|typ=|fa=Anders Tväråna|landning=3|betyg=1|fadatum=2007-08-27|sopad=Anders Tväråna|text=På ensamt block över hagen mot söderängarna när man går in, samma sten som Fjärde stjärnan. På sidan mot vägen. Mantling från bra grepp mitt på.}}
+| width="250px" |
+{{problem|namn=Jobba Jobba Jobba!|grad=6B+|typ=Slopers|fa=S Eklund/R Hedman|landning=2|betyg=1|sopad=S Eklund/R Hedman|sittstart=ja|text=}}
+{{problem|namn=Sweden can go to the shit!|grad=6C|typ=|fa=Grim och Stefan|landning=4|betyg=1|sopad=Grim och Stefan|sittstart=ja|text=På blocket rakt in i hagen. Sittstart med stora sidtag och klättra sedan upp höger på slopers.}}
+|}
+===Bivacken===
+Nordligaste delen av Focksta, ligger på åsen. Gå tillbaka längs grusvägen från parkeringen och ta sedan in höger längs den första grusvägen. Passera torpet på höger sida, korsa sedan ängen på höger sida mot det nordvästra hörnet upp på åsen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Hatets Sånger|grad=7B|typ=Mantling,Överhäng,Spricka|fa=F Andersson|landning=4|betyg=2|sopad=F Andersson|sittstart=ja|text=Överhänget på bussblocket, sittstarta från stenen och klättra sprickan.}}
+{{problem|namn=Arétolito|grad=7A|typ=Överhäng,Aréte|fa=Ola och Jon|landning=4|sopad=Ola och Jon|sittstart=ja|text=Första stora blocket vid bivacken. Den överhängande arêten till vänster.}}
+{{problem|namn=Hes|grad=7A|typ=Överhäng|fa=Sydde|landning=5|betyg=1|fadatum=2006-05-14|sopad=Sydde|text=Hängstart i två småkrimpar}}
+{{problem|namn=Hoppfenan|grad=6C|typ=Dyno|fa=Stefan / Nisse / Sydde|landning=4|betyg=2|fadatum=2006-05-14|sopad=Stefan / Nisse / Sydde|text=Hoppstart. VH på aréten, sedan skuttar man till bra list för HH.}}
+{{problem|namn=En katolsk hemvändare|grad=6B|typ=Överhäng,Dyno|fa=grym, steffe, fredrik, nisse|landning=2|betyg=1|fadatum=2006-05-16|sopad=grym, steffe, fredrik, nisse|text=dra från krimpar till kanten och mantla. nya blocken bakom bussen.}}
+{{problem|namn=kottar smakar som kottar|grad=6B+|typ=Aréte|fa=grim|landning=3|fadatum=2006-05-16|sopad=grim|uteslutningar=ja|text=areten vänster om sprickan, stora grepp till vänster på väggen är självklart off! men krimparn får man leka med. passera bussen ner för backen gå mot vänster en bit.}}
+{{problem|namn=franco var en hyvens man|grad=6A|typ=Krimp|fa=grim|landning=2|fadatum=2006-05-16|sopad=grim|text=väggen till vänster om kottar...heter man stefan kan man sittstarta.}}
+{{problem|namn=jag ska ha namnlösa barn|grad=5B|typ=|fa=grim|landning=2|fadatum=2006-05-16|sopad=grim|text=samma block som kottar... men på den andra delen. dieder start och sedan lite halvmantling eller något sådant}}
+{{problem|namn=En katolsk kommunist|grad=6C+|typ=Dyno|fa=Fredrik, Grim, Stef, Nisse|landning=3|betyg=1|fadatum=2006-05-14|sopad=Fredrik, Grim, Stef, Nisse|text=Start i (typ) samma grepp som "En katolsk hemvändare". Dra till vänstra kanten och mantla upp. Skönt fotsläpp rekomenderas.}}
+{{problem|namn=Solskensarêten|grad=6B+|typ=Highball,Aréte|fa=Dylan och Daniel|landning=5|betyg=3|fadatum=2006-06-03|sopad=Dylan och Daniel|text=Gå rakt norrut från Norrängarna, blocket ligger uppe på åsen, går inte att missa. Klättra den höga arêten.}}
+{{problem|namn=Big greasy|grad=6B+|typ=Dyno|fa=Stefan E|landning=4|fadatum=2006-06-03|sopad=Stefan E|startgrepp=ja|uteslutningar=ja|text=Baksidan av blocket med höga arêten (Instinkt). Starta vänster om vänstra arêten med slopig hylla, dyna rakt upp till kanten, dvs gå inte runt åt höger.}}
+{{problem|namn=Bugs are back in town|grad=6B|typ=Krimp,Aréte|fa=Stefan E|landning=4|fadatum=2006-06-03|sopad=Stefan E|sittstart=ja|text=Baksidan av blocket med höga arêten. Sittstart borta vid vänstra arêten (höger om stenen), dra upp längs arêten och avsluta mot klykan.}}
+{{problem|namn=Campusnisse|grad=6C|typ=Överhäng|fa=Nisse, Stefan|landning=4|betyg=1|fadatum=2006-06-03|sopad=Nisse, Stefan|startgrepp=ja|text=Blocket som ligger nedanför Instinkt på åsen. Hängstart med båda händerna på lägsta listerna till höger. Eliminationsvariant; gå direkt ut till rampen utan krimpen rakt upp är 7a.}}
+{{problem|namn=Bakom flötet|grad=6B|typ=Krimp,Slopers|fa=Stefan och Rikard|landning=4|fadatum=2006-07-15|sopad=Stefan och Rikard|uteslutningar=ja|text=Rakt upp höger om sprickan, sprickan och greppen vänster om denna är off.}}
+| width="250px" |
+{{problem|namn=I väntan på något stort|grad=6B|typ=Krimp,Mantling|fa=Stefan och Rikard|landning=2|fadatum=2006-07-15|sopad=Stefan och Rikard|text=Arêten höger om bakom flötet. Mantla upp vänster på sva.}}
+{{problem|namn=hjulterfett|grad=4A|typ=Aréte|fa=grim,stefan|landning=3|fadatum=2006-08-11|sopad=grim,stefan|text=området bakom bivacken, sten bredvid blocket med "i väntan på något stort".areten upp.}}
+{{problem|namn=tryfterkul|grad=6A|typ=Krimp|fa=grim,stefan|landning=3|fadatum=2006-08-11|sopad=grim,stefan|text=väggen höger om hjulterfett. högeer om den lilla stenen, gå inte höger till areten. sittstart gjord av stefan 6b+}}
+{{problem|namn=Sin Corteza Culo|grad=6B|typ=Krimp,Överhäng|fa=Olof, Stefan och Jon|landning=4|betyg=1|sopad=Olof, Stefan och Jon|sittstart=ja|text=Sittstart till Sin Corteza, start från sten.}}
+{{problem|namn=Mantelarêten|grad=5A|typ=Aréte|fa=Jon|landning=4|sopad=Jon|sittstart=ja|text=Det vänstra av de första blocken. Sittstarta arêten.}}
+{{problem|namn=Bättre än kjuge|grad=5C|typ=Överhäng,Dyno|fa=Stefan, Olof, Rikard och Jon|landning=3|sopad=Stefan, Olof, Rikard och Jon|sittstart=ja|text=Första blocet, sittstart vid stora hyllan.}}
+{{problem|namn=Rikard och Jons klassikertravers|grad=5B|typ=Travers H->V|fa=Rikard och Jon|landning=4|sopad=Rikard och Jon|sittstart=ja|text=Första blocket vid bivacken, sittstart höger, traversera förbi trädet (trångt).}}
+{{problem|namn=Swoosh|grad=6A+|typ=Aréte|fa=Rikard, Stefan, Jon, Grim|landning=3|betyg=1|sopad=Rikard, Stefan, Jon, Grim|text=Arêten på svampblocket.}}
+{{problem|namn=Sopad och stulen|grad=6C|typ=Slopers,Travers V->H|fa=Jon|landning=3|sopad=Jon|sittstart=ja|text=Svampblocket, sittstart vänster och följ kanen in i swoosh.}}
+{{problem|namn=Caterpillar|grad=5C|typ=Mantling|fa=Stefan|landning=4|sopad=Stefan|sittstart=ja|text=Svampblocket, sittstart vänster och mantla upp på sva.}}
+{{problem|namn=Duel för idioter|grad=3C|typ=Slab|fa=Rikard, Katrin och Stefan|landning=4|sopad=Rikard, Katrin och Stefan|text=Sva 20 m höger om Grims sva.}}
+{{problem|namn=Sva för dummies|grad=5B|typ=Slab|fa=Stefan, Grim och (dåvarande) Borgen|landning=3|betyg=1|sopad=Stefan, Grim och (dåvarande) Borgen|text=Grims sva, högra delen. Om man inte använder något av "greppen" (sidtag + spricka) blir det skoj, ca 6a.}}
+{{problem|namn=Ben Johnson|grad=-|typ=Slab|fa=Stefan och Grim|landning=3|sopad=Stefan och Grim|text=Spring upp till högsta delen av Grims sva. Bör göras i god stil (= sneakers)}}
+{{problem|namn=Fakir|grad=3A|typ=Slab|fa=Borg mfl.|landning=3|sopad=Borg mfl.|text=Vänstra delen av Grims sva, no hands-variant 6a/b.}}
+{{problem|namn=Apkalas|grad=6B|typ=Överhäng,Aréte|fa=Stefan|landning=4|sopad=Stefan|sittstart=ja|text=Längst höger på slavskeppet. Sittstart vid slopig hylla.}}
+{{problem|namn=Motorisk Afasi|grad=6A|typ=Mantling|fa=Borg mfl.|landning=4|sopad=Borg mfl.|text=Mitt på slavskeppet. starta med slopers på kanten.}}
+{{problem|namn=Slavskeppet|grad=6C+|typ=Slopers,Överhäng,Aréte|fa=Stefan|landning=5|betyg=1|sopad=Stefan|sittstart=ja|text=Kort slapproblem. sittstart sker från den lilla stenen.}}
+{{problem|namn=Ukrainsk Britney|grad=6A|typ=Slab|fa=Katrin, Tväråna och Stefan|landning=4|sopad=Katrin, Tväråna och Stefan|text=Sva bredvid uppvärmningsblocket. Vänstra delen med pocket.}}
+{{problem|namn=Nanaynanana Eller en ukrainsk Gessle|grad=5C|typ=Slab|fa=Katrin, Tväråna och Stefan|landning=4|sopad=Katrin, Tväråna och Stefan|text=Sva bredvid uppvärmningsblocket. Högra delen.}}
+| width="250px" |
+{{problem|namn=Abnormalia|grad=6C+|typ=|fa=Jon|landning=3|betyg=1|sopad=Jon|text=Till vänster på uppvärmningsblocket. Når man det bra sidtaget eller hoppar till det är det ca 6b+. Etablerad lågstart hård 6c+.}}
+{{problem|namn=Jag vill hälsa till mamma|grad=6B|typ=Krimp,Slopers|fa=Katrin Svensson|landning=3|sopad=Katrin Svensson|text=Uppvärmningsblocket, start vid Buff men gå upp vänster utan jughyllan. Jobbig.}}
+{{problem|namn=Buff|grad=4C|typ=Jug|fa=Stefan, Jon, Katrin och Rikard|landning=3|sopad=Stefan, Jon, Katrin och Rikard|text=Rakt upp till höger på uppvärmningsblocket.}}
+{{problem|namn=Upp o värm|grad=5A|typ=Aréte|fa=Stefan, Jon och Rikard|landning=4|sopad=Stefan, Jon och Rikard|text=Uppvärmningsblocket, högra arêten, sträck runt åt höger.}}
+{{problem|namn=Primo Victoria|grad=6C+|typ=Slab|fa=J Antonsson och Tväråna|landning=3|betyg=2|sopad=J Antonsson och Tväråna|text=Vänstra slabben på bussblocket, svingstart till krimpar, upp via mono.}}
+{{problem|namn=Fettet|grad=7A+|typ=Slopers,Överhäng|fa=F Andersson och Tväråna|landning=4|betyg=1|sopad=F Andersson och Tväråna|text=Bussblocket, hoppstart från liten sten i överhänget. Jobbig slopercampus, bör vara möjligt med hoppstart från marken.}}
+{{problem|namn=Ultramagnetic|grad=7C|typ=Dyno|fa=Stefan|landning=4|betyg=2|fadatum=2006-12-30|sopad=Stefan|text=Låg start med pockets, dvs ingen reachstart till den stora pocketen. Ligger nedanför backen bakom bussblocket.}}
+{{problem|namn=Jon|grad=4A|typ=Överhäng|fa=JS AT|landning=5|fadatum=2007-03-19|sopad=JS AT|text=Starta nere i hålet på väggen till höger om En katolsk hemvändare. Lätt överhängande uppvärmningsproblem.}}
+{{problem|namn=Handledaren|grad=8A|typ=|fa=Mattias Flodin|landning=4|betyg=3|fadatum=2007-03-22|sopad=Mattias Flodin|sittstart=ja|text=Taket med sittstart (bussblocket).}}
+{{problem|namn=Prins Valiant|grad=7B|typ=|fa=Team ProjectCleaners feat. Stefan, Tväråna och Jon|landning=4|betyg=2|fadatum=2008-04-12|sopad=Team ProjectCleaners feat. Stefan, Tväråna och Jon|text=På daskblocket, starta vid den slopiga rampen och klättra upp vänster (typ samma startgrepp som Sin Corteza). Mycket finare än man kunde tänkt sig.}}
+{{problem|namn=Chicken Rib|grad=6C+|typ=|fa=Cannonball|landning=5|fadatum=2008-04-12|sopad=Cannonball|startgrepp=ja|text=Nere bakom bivacken... Går på blocket 10m vä om katolsk hemvändare - starta på sidtaget inne i diedret och klättra sedan upp på den slopiga arêten.}}
+{{problem|namn=Pappadagar|grad=7A+|typ=Krimp,Överhäng,Dyno|fa=Anders Tväråna|landning=3|fadatum=2008-04-12|sopad=Anders Tväråna|startgrepp=ja|text=Samma start som "Calles" men ut till areten vid "Swoosh".Nästansittstart... Börjar med bra men vasst hål på kanten. Korsa till krimp och skicka kanten.}}
+{{problem|namn=Valley girl|grad=7B+|typ=|fa=Stefan|landning=4|fadatum=2008-04-15|sopad=Stefan|sittstart=ja|text=Sloperproblem på samma block som Hes och Hoppfenan. Sittstarta med stora hyllan. Mycket, mycket jobbigare än det såg ut.}}
+{{problem|namn=Alliansen|grad=7C+|typ=|fa=Stefan|landning=3|betyg=2|fadatum=2008-04-15|sopad=Stefan|sittstart=ja|text=Sittstarten till en katolsk hemvändare.}}
+|}
+===Kaoset===
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{problem|namn=Billybob|grad=7B|typ=Överhäng,Aréte|fa=Jon och Olof|landning=4|betyg=3|fadatum=2005-06-01|sopad=Jon och Olof|text=Den överhängande arêten på pyramiden. Variant; originalmetoden med vä hand till pinch vid toppen 7b+.}}
+
+{{problem|namn=Humble in the Jumble|grad=7A+|typ=Slopers,Aréte|fa=S Eklund|landning=5|betyg=2|sopad=S Eklund|text=Den sluttande arêten på kometblocket.}}
+
+{{problem|namn=Sylt|grad=6A|typ=Jam|fa=Rikard|landning=3|betyg=1|fadatum=2006-07-15|sopad=Rikard|sittstart=ja|text=Sprickan på baksidan av kometblocket.}}
+
+{{problem|namn=99 år, 364 dagar|grad=7A|typ=Krimp,Aréte|fa=L Hagberg|landning=5|sopad=L Hagberg|text=Arêten höger om Guldmagistern på pyramiden.}}
+
+{{problem|namn=Besatt|grad=6C+|typ=Slopers,Dyno|fa=J Smedsaas|landning=4|betyg=1|sopad=J Smedsaas|uteslutningar=ja|text=Pyramiden. Vänster om stora sprickan, från stort grepp rakt upp till slopers utan sprickan/kanten till höger.}}
+
+{{problem|namn=Guldmagistern|grad=7A|typ=Krimp,Överhäng|fa=J Smedsaas|landning=4|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Pyramiden, sittstarta höger om stora sprickan och klättra rakt upp.}}
+
+{{problem|namn=Journal de Crèation|grad=7A|typ=Krimp,Highball|fa=J Smedsaas|landning=4|betyg=3|fadatum=2006-03-23|sopad=J Smedsaas|text=Ahlgrensblocket. Rakt upp från små lister till pocket, fortsätt vidare upp höger till jättepocket.}}
+
+{{problem|namn=Kryss|grad=4C|typ=Överhäng|fa=Stefan, Björn, Rikard|landning=3|sopad=Stefan, Björn, Rikard|sittstart=ja|text=Baksidan ahlgrens, start som Jailhouse rock men gå upp höger.}}
+
+{{problem|namn=När Jon Dog|grad=6C+|typ=Highball,Aréte|fa=Jon|landning=6|betyg=3|sopad=Jon|text=Starta med Pockets på pyramiden, följ arêten. 3 stjärnor trots landningen.}}
+
+{{problem|namn=Verstopfung|grad=6A|typ=Överhäng,Reach|fa=Nisse|landning=5|fadatum=2006-05-06|sopad=Nisse|sittstart=ja|text=På Ahlgrensblocket. Start som för Moustique, sedan rakt upp (ingen escape åt vänster vid urtoppningen)}}
+
+{{problem|namn=back to  the granit|grad=6A|typ=Aréte|fa=grim, rickard|landning=3|fadatum=2006-05-16|sopad=grim, rickard|text=blocken bakom algren. högra areten på sidan mot träsket, men med vänster på areten.super öppet projekt att göra väggen utan areten, roligt grepp!}}
+
+{{problem|namn=med hela foten i träsket|grad=6A|typ=Krimp,Aréte|fa=grim, rickard|landning=5|betyg=1|fadatum=2006-05-16|sopad=grim, rickard|text=blocket bakom algren. vänster arete med höger landning i träsket om man har otur.}}
+
+{{problem|namn=gradera mera|grad=5B|typ=Aréte|fa=grim, rikard|landning=3|fadatum=2006-05-16|sopad=grim, rikard|text=bakom algren igen. vänstra areten mot träsket.}}
+
+{{problem|namn=nej|grad=5C|typ=Krimp,Layback|fa=grim, rickard|landning=4|fadatum=2006-05-16|sopad=grim, rickard|sittstart=ja|text=annat block bakom algren, höger om lätt problem som jag inte orkar raportera. ge fan i att gå till de oborsade juggarna till vänster! upp i layback och slapp till högerkant är det som gäller.}}
+
+{{problem|namn=Död mans hand|grad=7A|typ=Krimp|fa=Stefan E|landning=2|fadatum=2006-06-03|sopad=Stefan E|uteslutningar=ja|text=Inne bakom ahlgrensblocket. Den snygga väggen skall klättras utan arêten och sprickan. Låter sugigt men grymt problem! Coolaste greppet i Uppsala.}}
+
+{{problem|namn=Mera myggmedel|grad=4C|typ=|fa=Rikard, Stefan|landning=2|fadatum=2006-07-16|sopad=Rikard, Stefan|text=Bakom ahlgrens, areten höger om roadkill.}}
+
+{{problem|namn=Liten tomte|grad=5A|typ=Layback,Dyno|fa=Rikard, Stefan|landning=2|fadatum=2006-07-16|sopad=Rikard, Stefan|uteslutningar=ja|text=Blocket bakom ahlgrens, vänster om enfingerproblemet, inget vänster om stora sprickan ingår.}}
+
+{{problem|namn=Disco Boy|grad=6C|typ=Dyno|fa=Stefan E och Nisse|landning=2|betyg=1|fadatum=2006-06-03|sopad=Stefan E och Nisse|startgrepp=ja|text=Inne bakom ahlgrensblocket. Start med jughyllan vid Fanny, sedan dyno upp till kanten.}}
+
+{{problem|namn=White heat|grad=7A|typ=|fa=Stefan|landning=3|betyg=2|fadatum=2006-06-17|sopad=Stefan|text=Går på största blocket närmast vägen, höger om projektarêten. Etablerat start gäller.}}
+{{problem|namn=Anders Hoppborg|grad=5A|typ=Reach|fa=Stefan och nisse|landning=6|betyg=1|fadatum=2006-06-17|sopad=Stefan och nisse|text=På största blocket nära vägen. Rakt upp vid Chokladmedaljongs-formationen. Det finns en krimp ute till vänster som gör att man kan gå statiskt vilket är lite synd...}}
+
+{{problem|namn=Död mans hand assis|grad=7B|typ=Krimp|fa=Stefan|landning=3|fadatum=2006-07-01|sopad=Stefan|sittstart=ja|uteslutningar=ja|text=Nu med sittstart. Start mitt på med 2 gastons, sedan upp i ståstarten (alltså utan arêten och sprickan). Kanske 7b.}}
+
+{{problem|namn=Roadkill|grad=6B|typ=Krimp|fa=Stefan|landning=3|fadatum=2006-07-01|sopad=Stefan|uteslutningar=ja|text=Blocken innnanför ahlgrens, väggen som delas av sprickan. Start höger om sprickan (som ej ingår) med ett par bra krimpar och gå rakt upp.}}
+
+{{problem|namn=Alibi|grad=6A|typ=Krimp,Heel hook|fa=Stefan och Rikard|landning=4|fadatum=2006-07-15|sopad=Stefan och Rikard|startgrepp=ja|text=På D-dagsblocket. Start vid överhänget med krimpar i sprickan, sedan lättaste vägen upp.}}
+
+{{problem|namn=Revolver (stå)|grad=6C|typ=Dyno|fa=Stefan|landning=3|fadatum=2006-07-15|sopad=Stefan|startgrepp=ja|uteslutningar=ja|text=Start som alibi på D-dagsblocket. Sedan lång slapcatch upp vänster till sloper, följ med på liten krimp eller matcha och fortsätt upp vänster. Dvs sidtaget och juggen till höger i alibi är off.}}
+
+{{problem|namn=Revolver|grad=7A|typ=Krimp,Överhäng,Dyno|fa=Stefan|landning=3|fadatum=2006-07-15|sopad=Stefan|sittstart=ja|uteslutningar=ja|text=På D-dagsblocket. Sittstart vid vänstra arêten i överhänget, länka in i Alibi. Dubbelpadda ok för korta som inte når startgreppet på arêten.}}
+
+{{problem|namn=En nervös mardröm om grit|grad=6A|typ=Krimp,Layback,Highball|fa=grim|landning=2|betyg=2|fadatum=2006-08-11|sopad=grim|text=jätteblocket nära vägen. mitt på stora väggen,start i det stora greppet sedan snett upp till vänster. turligt nog lätt urtoppning.}}
+
+{{problem|namn=skrällen|grad=4A|typ=Slab|fa=Stefan|landning=3|sopad=Stefan|text=no-hands sva på ahlgrensblocket. Har börjat växa igen.}}
+
+{{problem|namn=Bosse bildoktorn|grad=4C|typ=Travers V->H|fa=rikard mfl.|landning=3|sopad=rikard mfl.|text=Hangel från vä till hö på ahlgrensblocket.}}
+
+{{problem|namn=Bosse bildoktorn assis|grad=6A|typ=Travers V->H|fa=rikard mfl.|landning=3|sopad=rikard mfl.|sittstart=ja|text=Ss till BB.}}
+
+{{problem|namn=Finns bara ett sätt|grad=4C|typ=Krimp|fa=Stefan, Jon och Rikard|landning=2|sopad=Stefan, Jon och Rikard|text=Krimpproblem till vänster på Ahlgrensblocket.}}
+
+{{problem|namn=Dean's broken heart|grad=6A+|typ=Dyno|fa=stefan, calle och jon|landning=3|sopad=stefan, calle och jon|startgrepp=ja|text=Mitt på Ahlgrensblockets högsta vägg, etablerad start med små krimpar, catcha juggen.}}
+
+{{problem|namn=Calles escape|grad=6C|typ=Krimp|fa=Jon och Calle D|landning=3|sopad=Jon och Calle D|text=Start som Journal de...  på Ahlgrensblocket, gå ut vänster vid första pocketen.}}
+
+{{problem|namn=Stoppa den i munnen!|grad=6A|typ=Överhäng,Travers H->V|fa=Jon|landning=4|sopad=Jon|sittstart=ja|text=Baksidan ahlgrens, start längst ner till höger, traversera lågt vänster in i Jailhouse rock.}}
+
+| width="250px" |
+
+{{problem|namn=Moustique|grad=4C|typ=Överhäng|fa=stefan, calle och jon|landning=4|betyg=1|sopad=stefan, calle och jon|sittstart=ja|text=Baksidan ahlgrens, start längst ner till höger, följ rampen.}}
+
+{{problem|namn=Jailhouse rock|grad=5C|typ=Överhäng|fa=Calle D|landning=3|sopad=Calle D|sittstart=ja|text=Baksidan ahlgrens, sittstart mitt på vid sloperjug, upp vänster.}}
+
+{{problem|namn=Jons frequent flyer|grad=4A|typ=Jug|fa=Calle D|landning=3|sopad=Calle D|sittstart=ja|text=Baksidan ahlgrens, start vänster vid stort sidtag.}}
+
+{{problem|namn=Strul|grad=4C|typ=Slab|fa=Stefan, Björn, Rikard|landning=4|sopad=Stefan, Björn, Rikard|text=Start som strato men gå ut höger till stora grepp.}}
+
+{{problem|namn=Strato|grad=6C|typ=Slab|fa=Stefan|landning=2|sopad=Stefan|text=Höger om ågren asfet på ahlgrensslabben. Dra rakt upp till list från krimpar i spricka.}}
+
+{{problem|namn=Ågren asfet|grad=6B+|typ=Slab|fa=Stefan och Jon|landning=2|sopad=Stefan och Jon|text=Slabben höger om ahlgrens arête. Start vänster med svart pinch + nåt mer, sträck upp vänster till krimp. Jon tyckte tre stjärnor men vet inte riktigt...}}
+{{problem|namn=Ahlgrens arête|grad=5A|typ=Aréte|fa=Calle, Björn B och Rikard|landning=2|betyg=1|sopad=Calle, Björn B och Rikard|text=Högra arêten på ahlgrens.}}
+{{problem|namn=Beat höger|grad=6A+|typ=Krimp,Reach|fa=Katrin Svensson|landning=3|betyg=1|sopad=Katrin Svensson|text=Beat on the brat med greppen (fotsteg) på arêten.}}
+{{problem|namn=Beat on the Brat|grad=6C|typ=Krimp,Dyno|fa=Jon, Stefan, Rikard|landning=3|betyg=1|sopad=Jon, Stefan, Rikard|uteslutningar=ja|text=Till höger på ahlgrens, utan arêten och greppen i anslutning till denna.}}
+{{problem|namn=Mysk|grad=5B|typ=Aréte|fa=Stefan och Rikard|landning=3|sopad=Stefan och Rikard|sittstart=ja|text=Blocken inne bakom ahlgrens. Sittstart vid dubbelarêten.}}
+{{problem|namn=Long john kalle silver|grad=7C|typ=Överhäng,Dyno,Highball|fa=Dylan Smith|landning=4|betyg=3|sopad=Dylan Smith|text=Den höga överhängande väggen på pyramiden, start höger från stenen.}}
+{{problem|namn=Fanny|grad=5C|typ=Reach|fa=Stefan och Rikard|landning=1|betyg=1|sopad=Stefan och Rikard|sittstart=ja|text=Blocken inne bakom ahlgrens. Sittstart vid stora hyllan, gå upp statiskt med mono.}}
+{{problem|namn=Señor Greaser|grad=4C|typ=Spricka|fa=Stefan|landning=3|sopad=Stefan|text=Blocken inne bakom ahlgrens. Sprickan.}}
+{{problem|namn=Ett minne blott|grad=5C|typ=Aréte|fa=Stefan|landning=4|sopad=Stefan|sittstart=ja|text=Das Kapital-stenen, baksidan - sittstart från stenen.}}
+{{problem|namn=No head, no backstage pass!|grad=6B|typ=Överhäng|fa=Stefan, Björn, Rikard|landning=5|sopad=Stefan, Björn, Rikard|sittstart=ja|text=Nedanför pyramiden, sittstart under överhänget med underclings i sprickan.}}
+{{problem|namn=Giljotinen|grad=4C|typ=Spricka|fa=Stefan, Björn, Rikard|landning=3|sopad=Stefan, Björn, Rikard|sittstart=ja|text=Nedanför pyramiden, sittstart upp längs sprickan.}}
+{{problem|namn=Diamond|grad=6C|typ=Slopers|fa=Stefan|landning=4|sopad=Stefan|sittstart=ja|text=Nedanför pyramiden, start höger om stenen vid bra grepp, klättra upp höger utan att gå ut vänster över slabben.}}
+{{problem|namn=Kvarten|grad=6A|typ=Aréte|fa=Björn, Rikard, Stefan|landning=3|sopad=Björn, Rikard, Stefan|sittstart=ja|text=Litet block 20 m innanför pyramiden, vid arêten.}}
+{{problem|namn=På en sten, i en skog|grad=6A|typ=Aréte|fa=Katrin Svensson|landning=5|betyg=1|sopad=Katrin Svensson|text=Den lättaste arêten på pyramiden, hoppa till stort grepp.}}
+{{problem|namn=Koka vatten|grad=3C|typ=Slab|fa=Rikard och Stefan|landning=4|sopad=Rikard och Stefan|text=Svasidan på pyramiden. längst till vänster.}}
+{{problem|namn=Baddaren|grad=3A|typ=Slab|fa=Rikard och Jon|landning=4|sopad=Rikard och Jon|sittstart=ja|text=Slabben på pyramiden, mitt på och rakt upp. Med sittstart 4c.}}
+{{problem|namn=Järnfisken|grad=3B|typ=Slab|fa=Rikard och Jon|landning=4|sopad=Rikard och Jon|text=Start som Baddaren på pyramiden, sedan upp åt höger. Med sittstart 5b.}}
+{{problem|namn=Biragubben|grad=3A|typ=Spricka|fa=Rikard och Jon|landning=4|sopad=Rikard och Jon|text=Nedstigningssprickan på pyramiden.}}
+{{problem|namn=Korvstånd|grad=4A|typ=|fa=Rikard och Jon|landning=4|sopad=Rikard och Jon|text=Vänster om nedstigningssprickan på pyramiden, utan sprickan. Med sittstart 5a.}}
+{{problem|namn=Addicted|grad=6A|typ=Spricka|fa=Rikard och Jon|landning=4|sopad=Rikard och Jon|text=Sprickan på överhängssidan av pyramiden, laybacka upp vänstersidan.}}
+{{problem|namn=Fensim|grad=5A|typ=Spricka|fa=Rikard och Jon|landning=4|sopad=Rikard och Jon|sittstart=ja|text=Sittstart vä om guldmagistern och klättra sprickan.}}
+{{problem|namn=Björnkram|grad=5A|typ=Aréte|fa=Björn, Rikard, Stefan|landning=3|sopad=Björn, Rikard, Stefan|sittstart=ja|text=Lågt block bredvid pyramiden, ss höger.}}
+{{problem|namn=Krambjörn|grad=5B|typ=Aréte|fa=Björn, Rikard, Stefan|landning=3|sopad=Björn, Rikard, Stefan|sittstart=ja|text=Lågt block bredvid pyramiden, ss vänster.}}
+{{problem|namn=Trailer|grad=6B+|typ=Överhäng|fa=Björn B och M Flodin|landning=3|betyg=1|sopad=Björn B och M Flodin|sittstart=ja|text=Bakom pyramiden, ss i överhänget.}}
+{{problem|namn=Ta av dig din truckerkeps!|grad=6C+|typ=Krimp|fa=M Flodin|landning=3|sopad=M Flodin|sittstart=ja|uteslutningar=ja|text=Runt till vänster om Trailer, ss vid stort sidtag, utan arêten.}}
+{{problem|namn=Compensator|grad=5B|typ=Krimp|fa=Stefan och Rikard|landning=4|sopad=Stefan och Rikard|sittstart=ja|text=Bredvid kometblocket, pelarformad liten sten.}}
+{{problem|namn=Nummer Fem|grad=6A+|typ=Krimp|fa=Stefan och Rikard|landning=4|sopad=Stefan och Rikard|sittstart=ja|text=Längst höger på d-dagsblocket.}}
+{{problem|namn=Stå still|grad=4C|typ=Spricka|fa=Stefan och Rikard|landning=4|sopad=Stefan och Rikard|text=Sprickan till höger på D-dagsblocket, gå ut höger till pockets, start från marken.}}
+{{problem|namn=Flaskpost|grad=5A|typ=Spricka|fa=Stefan och Rikard|landning=4|sopad=Stefan och Rikard|text=Sprickan till höger på D-dagsblocket, start från marken.}}
+{{problem|namn=D-dagen|grad=5B|typ=Krimp,Slopers|fa=Stefan och Rikard|landning=4|betyg=1|sopad=Stefan och Rikard|text=Mitt på d-dagsblocket, fint.}}
+| width="250px" |
+{{problem|namn=Korsdrag|grad=5B|typ=|fa=Stefan och Rikard|landning=5|sopad=Stefan och Rikard|sittstart=ja|text=Sittstart från stenen till vänster vid d-dagsblocket.}}
+{{problem|namn=Fusksprickan|grad=5A|typ=Highball,Spricka|fa=Rikard och Stefan|landning=6|betyg=2|sopad=Rikard och Stefan|text=Sprickan på kometblocket, ramla inte av.}}
+{{problem|namn=Från en annan värld|grad=3C|typ=Highball|fa=Rikard och Stefan|landning=4|betyg=1|sopad=Rikard och Stefan|sittstart=ja|text=Höger på kometblocket, sittstart och rakt upp till sprickan på sva.}}
+{{problem|namn=Venuspassagen|grad=4C|typ=Highball|fa=Rikard och Stefan|landning=4|betyg=1|sopad=Rikard och Stefan|sittstart=ja|text=Höger på kometblocket, ss upp åt vänster.}}
+{{problem|namn=Smooth|grad=6A+|typ=Dyno|fa=Stefan|landning=4|sopad=Stefan|sittstart=ja|text=Kortsidan kometblocket, sittstart vid bra grepp.}}
+{{problem|namn=Gelébjörnen|grad=4C|typ=Aréte|fa=Shawn B och Emil L|landning=4|sopad=Shawn B och Emil L|text=Arête på ljust block på gränsen mot "hygget".}}
+{{problem|namn=Hard candy|grad=6A|typ=Krimp|fa=Shawn B och Emil L|landning=4|betyg=1|sopad=Shawn B och Emil L|text=Som gelebjörnen men utan arêten.}}
+{{problem|namn=Miss piggy|grad=5C|typ=Överhäng|fa=Stefan och Tväråna|landning=3|sopad=Stefan och Tväråna|startgrepp=ja|text=Bortanför kometblocket mellan stenarna, hoppa till stort grepp.}}
+{{problem|namn=Rötter|grad=5B|typ=Reach|fa=Stefan|landning=3|sopad=Stefan|sittstart=ja|text=Mellan blocken innanför kometblocket, ss vid stora hyllan.}}
+{{problem|namn=Grims arête|grad=5A|typ=Aréte|fa=Grim|landning=4|sopad=Grim|sittstart=ja|text=Ut mot hygget, vänster om sprickan.}}
+{{problem|namn=No more food|grad=6A|typ=Aréte|fa=Grim|landning=4|sopad=Grim|sittstart=ja|text=Ut mot hygget, höger om sprickan.}}
+{{problem|namn=Fantomas|grad=5B|typ=Mantling|fa=Stefan och Rikard|landning=3|sopad=Stefan och Rikard|text=Innanför amfiteatern, litet överhängande block.}}
+{{problem|namn=Rotrötan|grad=6B+|typ=Slopers|fa=Jon|landning=3|betyg=1|sopad=Jon|sittstart=ja|text=Sloperproblem innanför amfiteatern.}}
+{{problem|namn=Leksaker|grad=2|typ=Slab|fa=Jon, Stefan, Shawn|landning=4|betyg=1|sopad=Jon, Stefan, Shawn|text=Svart vägg nära vägen.}}
+{{problem|namn=Blomkålsfantasier|grad=6A+|typ=Aréte|fa=Stefan|landning=4|sopad=Stefan|text=Vä om amfiteaterns sett från vägen, kort överhängande arête.}}
+{{problem|namn=Toppen av isberget|grad=5A|typ=Reach|fa=Stefan|landning=3|sopad=Stefan|sittstart=ja|text=Inne i amfiteatern, vid vertikala väggen.}}
+{{problem|namn=Kapten Krok|grad=6C|typ=Krimp,Slopers|fa=Stefan och Jon|landning=3|betyg=1|sopad=Stefan och Jon|text=Inne i amfiteatern på det rundade blocket, lättaste vägen upp.}}
+{{problem|namn=Orkanens öga|grad=6A|typ=Mantling|fa=Stefan|landning=3|sopad=Stefan|sittstart=ja|text=I amfiteatern sittstart under taket och mantla upp.}}
+{{problem|namn=I dag ska jag ramla ner så jävla högt upp ifrån|grad=6A|typ=Highball|fa=Fredrik Andersson, Anders Tväråna|landning=6|betyg=1|fadatum=2007-04-28|sopad=Fredrik Andersson, Anders Tväråna|text=På jätteblocket vid vägen, samma som white heat och mardrömmar om grit. Högra aréten. Fem meter, men med fin landning. Att gå in och pusta ut på hyllan ger färre poäng.}}
+{{problem|namn=Med hela foten i träsket ss|grad=7A|typ=Krimp,Aréte|fa=Iain och dr daniel|landning=3|betyg=2|fadatum=2007-10-20|sopad=Iain och dr daniel|sittstart=ja|variant=ja|uteslutningar=ja|text=Starta ss med högerhand på areten tv om "dödmanshand". Areten till vän om dig är utesluten i den fina versionen. Tungstart som övergår i balans och soft slut.}}
+{{problem|namn=Ekefalketik|grad=4B|typ=Slab|fa=Tomas Ekefalk, Jenny Körlin|landning=4|fadatum=2008-02-25|sopad=Tomas Ekefalk, Jenny Körlin|text=På samma block som 38, Leksaker och 39, projekt i guiden. Slabben mellan desamma. Starta stående på marken, inte på stenen.}}
+{{problem|namn=Jenny plast|grad=5B|typ=Mantling,Travers H->V|fa=Tomas Ekefalk, Jenny Körlin, Anders Tväråna|landning=3|fadatum=2008-02-25|sopad=Tomas Ekefalk, Jenny Körlin, Anders Tväråna|sittstart=ja|text=På blocket mittemot Ekefalketik. Sittstart, traverera vänster och mantla vid trädet.}}
+{{problem|namn=Andersborg|grad=5B|typ=Mantling|fa=Anders Tväråna, Jenny Körlin|landning=2|betyg=1|fadatum=2008-02-25|sopad=Anders Tväråna, Jenny Körlin|text=På blocket mittemot Ekefalketik. Mantla mellan blocket och trädet. Konstigt nog är ingetdera ivägen.}}
+{{problem|namn=Sulas kant|grad=6B|typ=Överhäng|fa=Tomas Ekefalk. Anders Tväråna|landning=3|betyg=2|fadatum=2008-02-25|sopad=Tomas Ekefalk. Anders Tväråna|sittstart=ja|text=Samma block som Ekefalketik. Sittstart vid hörnet. Följ arteten upp. Kryper man ner och sittstartar i kylskåpsposition blir det Sulas custom och minst en siffergrad hårdare. Ej gjort än.}}
+{{problem|namn=Sulas custom|grad=7B+|typ=Överhäng|fa=Tomas Ekefalk|landning=3|betyg=2|fadatum=2008-03-04|sopad=Tomas Ekefalk|sittstart=ja|text=Nummer 39 i guiden. Startar i kylskåpsposition sittande på "pottan". Rätt mycket morfo, korta kan möjligen dubbeldyna förbi.}}
+{{problem|namn=VLMF|grad=6C+|typ=Highball|fa=Anders Tväråna|landning=5|betyg=2|fadatum=2008-04-20|sopad=Anders Tväråna|text=Storstenen.Längst till vänster på stora väggen. Rakt upp via små grepp. Fin om man har luftmadrass.}}
+{{problem|namn=Humble in the jumble ss|grad=7B+|typ=|fa=Stefan|landning=5|betyg=1|fadatum=2008-04-20|sopad=Stefan|sittstart=ja|text=Den (inte särskilt) efterlängtade sittstarten till Humble in the jumble. Sittstart vid bullen/hornet.}}
+{{problem|nr=1|namn=Trasiga skor|grad=6A+|typ=Krimp,Aréte|fa=Stefan och Henrik|landning=4|sopad=Stefan och Henrik|sittstart=ja|text=Lågt block in mot kaoset från ahlgrens.}}
+{{problem|nr=2|namn=Shove it right in|grad=3A|typ=Aréte|fa=stefan, rikard, henrik|landning=4|sopad=stefan, rikard, henrik|text=Lågt block in mot kaoset från ahlgrens, sittstart vid pocketarêten. Gå vänster eller höger.}}
+{{problem|nr=4|namn=Das Kapital|grad=6C|typ=Överhäng|fa=Stefan och Rikard|landning=4|betyg=1|sopad=Stefan och Rikard|sittstart=ja|text=Kort överhäng innan pyramiden, gå rakt upp inte runt arêten åt vänster.}}
+|}
+
+===Hygget===
+
+Efter att ha svängt av väg i Säva, åk ca 500 m och sväng sedan av vänster på en liten grusväg. Om du passerar det stora blocket på åkern har du åkt för lång och missat grusvägen. Parkera med vett nära stugan. Blocken ligger på det lilla hygget söder om stugan.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Angel Eyes|grad=7A+|typ=Krimp,Dyno|fa=Stefan E|landning=4|betyg=2|fadatum=2006-03-11|sopad=Stefan E|sittstart=ja|text=Sittstart höger om stenen med ett sidtag, dra sedan upp till tvärsprickan. Blocket ligger på övre delen av hygget och är det första man kommer upp till från stugan.}}
+{{problem|namn=Angel Eyes stående|grad=6C|typ=Dyno|fa=Olof E|landning=4|fadatum=2005-06-01|sopad=Olof E|text=Catcha kanten från greppen i sprickan.}}
+{{problem|namn=Medley ss|grad=7A|typ=Krimp,Överhäng|fa=M Flodin|landning=3|betyg=2|sopad=M Flodin|sittstart=ja|text=Sittstarta vid arêten, klättra upp höger.}}
+{{problem|namn=Thutan|grad=6A|typ=Aréte|fa=Rikard och Stefan|landning=3|sopad=Rikard och Stefan|sittstart=ja|text=Högra arêten på pyramidväggen.}}
+{{problem|namn=Kheops ss|grad=6B+|typ=|fa=Stefan|landning=3|sopad=Stefan|sittstart=ja|text=Sittstart upp i Kheops, utan stenen.}}
+{{problem|namn=Kheops|grad=5C|typ=Krimp|fa=Rikard och Stefan|landning=3|sopad=Rikard och Stefan|text=Mitt på pyramidväggen.}}
+{{problem|namn=It hurts me too|grad=6C|typ=Travers V->H|fa=S Eklund|landning=3|betyg=1|sopad=S Eklund|sittstart=ja|text=Sittstart som 2005 på pyramiden, traversera lågt höger till högra arêten.}}
+{{problem|namn=2005|grad=6B|typ=Aréte|fa=Stefan och Rikard|landning=3|sopad=Stefan och Rikard|sittstart=ja|text=Vänstra arêten på den lilla pyramiden.}}
+{{problem|namn=Snöblind|grad=6A|typ=Reach|fa=Rikard och Stefan|landning=4|sopad=Rikard och Stefan|startgrepp=ja|text=Längst höger på vita blocket, etablerad start med list och undercut.}}
+{{problem|namn=Flip Flopper|grad=4A|typ=|fa=Stefan och Rikard|landning=3|sopad=Stefan och Rikard|text=På vita blocket, mitt på - start med jug.}}
+
+{{problem|namn=Vitae|grad=2|typ=Layback|fa=Stefan och Rikard|landning=3|sopad=Stefan och Rikard|text=Uppför laybackkanten på vita blocket.}}
+
+| width="250px" |
+{{problem|namn=Skuld|grad=3A|typ=|fa=Stefan och Rikard|landning=4|sopad=Stefan och Rikard|text=På vita blocket. Längst till vänster.}}
+
+{{problem|namn=Det våras för Ricky|grad=6A|typ=Aréte|fa=Rikard och Stefan|landning=3|betyg=1|sopad=Rikard och Stefan|sittstart=ja|text=Blocket bredvid Medley, sittstart uppför arêten.}}
+
+{{problem|namn=Medley|grad=6B+|typ=Överhäng|fa=Stefan och Rikard|landning=4|betyg=1|sopad=Stefan och Rikard|startgrepp=ja|text=Starta med krimpar höger om arêten, skicka upp höger.}}
+
+{{problem|namn=Trip ss|grad=6C+|typ=Överhäng,Aréte|fa=S Eklund|landning=3|betyg=1|sopad=S Eklund|sittstart=ja|text=Sittstart som Medley men klättra uppför arêten.}}
+
+{{problem|namn=Trip|grad=6B|typ=Aréte|fa=Stefan och Rikard|landning=3|betyg=1|sopad=Stefan och Rikard|text=Start vid Medley men gå uppför arêten.}}
+
+{{problem|namn=Borta med vinden|grad=6A+|typ=Slab|fa=Grim, Stefan och Daniel|landning=4|betyg=1|sopad=Grim, Stefan och Daniel|text=Svaproblem på Medleyblocket.}}
+
+{{problem|namn=Sax|grad=4A|typ=Aréte|fa=Rikard och Stefan|landning=3|sopad=Rikard och Stefan|text=Kort arête nere på hygget.}}
+
+{{problem|namn=Sten|grad=4C|typ=|fa=Rikard och Stefan|landning=3|sopad=Rikard och Stefan|text=Vänster om Sax.}}
+
+{{problem|namn=Fred från Lidingö|grad=6B+|typ=Krimp,Reach|fa=Fred och Grim|landning=3|sopad=Fred och Grim|sittstart=ja|text=Start som Spree killer men gå rakt upp i sprickan.}}
+
+{{problem|namn=Spree Killer|grad=6B+|typ=Överhäng|fa=Ola|landning=4|betyg=1|sopad=Ola|sittstart=ja|text=Sittstart under den lilla takformationen på första blocket man kommer upp till. Går runt åt vänster.}}
+
+{{problem|namn=Jumper|grad=6A+|typ=Dyno|fa=S Eklund|landning=4|sopad=S Eklund|startgrepp=ja|text=Uppvärmningsblocket. Start höger om arêten med tydliga lister och hoppa till kanten. Kanske lite hårdare.}}
+
+| width="250px" |
+{{problem|namn=Fuskgubben|grad=4A|typ=Slopers|fa=S Eklund|landning=3|sopad=S Eklund|sittstart=ja|text=Uppvärmningsblocket, sittstart till höger och upp i försvagningen.}}
+{{problem|namn=Jambalaya ss|grad=6B|typ=Dyno|fa=S Eklund|landning=3|sopad=S Eklund|sittstart=ja|uteslutningar=ja|text=Sittstart till Jambalaya, avslutar man med dubbeldyno är det 6b+/6c.}}
+{{problem|namn=Jambalaya|grad=6A|typ=Dyno|fa=S Eklund|landning=3|betyg=1|sopad=S Eklund|startgrepp=ja|uteslutningar=ja|text=Uppvärmningsblocket, går mitt på. Start med sloper och pinch, dyno till toppen. Dubbeldyno är 6b.}}
+{{problem|namn=Fraktfritt|grad=5B|typ=Travers V->H|fa=S Eklund|landning=3|sopad=S Eklund|text=På uppvärmningsblocket längst norrut. Sittstart vänster, klättra upp höger.}}
+{{problem|namn=Captain Bringdown|grad=7A+|typ=Överhäng|fa=-|landning=3|betyg=2|fadatum=2007-10-13|sopad=-|sittstart=ja|text=Den högra överhängande linjen på svälthammaren, assis vid sloperrampen.}}
+{{problem|namn=The Watchtower|grad=7C|typ=Slopers,Pinch,Överhäng|fa=Stefan E|landning=4|betyg=3|fadatum=2007-10-17|sopad=Stefan E|text=Den vänstra linjen på svälthammaren, dvs den stora monoliten ute på åkerns som skådas när man kör in mot Focksta. Start med en klosspinch på arêten, sedan upp höger till rampen och rakt upp.}}
+{{problem|namn=Route du Sydd|grad=7A+|typ=|fa=Stefan, Olof, Sydde mfl.|landning=4|sopad=Stefan, Olof, Sydde mfl.|sittstart=ja|text=20 m "ovanför" blocket med Medley på hygget. Sittstart mitt på en vägg och gör ett långt reachmove till en alldeles för liten krimp. Många bud om graden så då kan det ju bara bli...7a+}}
+|}
+===Norrängarna===
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Käften, Fattis!|grad=7A+|typ=Krimp,Överhäng|fa=J Smedsaas|landning=3|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Sittstart till den rosa kolonnen. Ligger inne i dungen.}}
+{{problem|namn=Likmasken|grad=5C|typ=Aréte|fa=CD,JS,SE|sopad=CD,JS,SE|sittstart=ja|text=Sittstart vid aréten.}}
+{{problem|namn=Sommarscener|grad=4A|typ=Slab|fa=JS,SE,CD|betyg=1|sopad=JS,SE,CD|text=Rakt upp vid tvärsprickan.}}
+{{problem|namn=Mitt kvarter|grad=3C|typ=|fa=JS,CD,SE|sopad=JS,CD,SE|text=starta vid bullen,klättra höger}}
+{{problem|namn=Pum-Pum|grad=4B|typ=Aréte|fa=JS,CD,SE|landning=1|betyg=1|sopad=JS,CD,SE|text=Upp längst aréten.}}
+{{problem|namn=morgongåva|grad=4A|typ=Travers H->V|fa=Stefan E|landning=1|sopad=Stefan E|text=Starta vid stubben, traversera sprickan åt vänster.}}
+{{problem|namn=Kapten Aristidis|grad=5B|typ=|fa=C Dinges/B Bergmark|landning=1|sopad=C Dinges/B Bergmark|sittstart=ja|text=Sittstart med stor hylla.}}
+{{problem|namn=Far Cry|grad=5B|typ=Travers V->H,Heel hook|fa=C Dinges|landning=1|sopad=C Dinges|sittstart=ja|text=Sittstart till vänster traversera höger till akterseglad.}}
+{{problem|namn=Akterseglad|grad=6A+|typ=|fa=C Dinges|landning=1|sopad=C Dinges|sittstart=ja|text=Sittstart med list och stort sidtag vänster om aréten.}}
+{{problem|namn=Belinea|grad=3A|typ=Aréte|fa=JS,SE,CD|landning=1|sopad=JS,SE,CD|text=}}
+{{problem|namn=Belinea Sittstart|grad=6A|typ=Aréte|fa=S Eklund|landning=1|sopad=S Eklund|sittstart=ja|text=}}
+{{problem|namn=Jord auf lera|grad=4C|typ=Mantling|fa=J Smedsaas|landning=1|sopad=J Smedsaas|sittstart=ja|text=Sittstart vid tallen}}
+{{problem|namn=problemnazisten|grad=4A|typ=|fa=JS,SE,CD|landning=1|sopad=JS,SE,CD|text=Starta med stor slopig list.}}
+{{problem|namn=Zum-Zum|grad=6C|typ=Överhäng|fa=J Smedsaas, C Dinges|sopad=J Smedsaas, C Dinges|sittstart=ja|text=Sitstart med lister, sedan till sloper.}}
+{{problem|namn=Annalkande Fara|grad=5B|typ=Mantling|fa=C Dinges|betyg=1|sopad=C Dinges|text=}}
+{{problem|namn=PROJEKT|grad=-|typ=Överhäng|landning=4|betyg=1|sittstart=ja|text=Blocket intill vägen, sittstart med underclings i taket.}}
+| width="250px" |
+{{problem|namn=Höstlegender|grad=5A|typ=Aréte|fa=Rikard, Stefan och Staffan|landning=3|sopad=Rikard, Stefan och Staffan|sittstart=ja|text=Lågt block inne i dungen, sittstart vid hornet.}}
+{{problem|namn=Skamfläcken|grad=5C|typ=Aréte|fa=Rikard, Stefan och Staffan|landning=3|sopad=Rikard, Stefan och Staffan|sittstart=ja|startgrepp=ja|text=Vänster om höstlegender, start med sidtag och sloper.}}
+{{problem|namn=Stavgång|grad=5A|typ=Aréte|fa=Rikard och Stefan|landning=4|sopad=Rikard och Stefan|sittstart=ja|text=Sittstart från stenen. Ligger mitt i dungen.}}
+{{problem|namn=Kuddkrig|grad=5B|typ=Aréte|fa=Rikard och Stefan|landning=4|sopad=Rikard och Stefan|text=I dungen, start stående nere i hålet.}}
+{{problem|namn=upp och ner|grad=4B|typ=Aréte|fa=Rikard och Stefan|landning=4|sopad=Rikard och Stefan|sittstart=ja|text=Nedstigningen på kolonnblocket.}}
+{{problem|namn=Connys klubba|grad=3A|typ=|fa=Jon och Calle D|landning=4|sopad=Jon och Calle D|text=Lättaste vägen upp på baksidan kolonnblocket.}}
+{{problem|namn=Glenn Å:s Isterfobi|grad=5B|typ=Krimp|fa=Jon och Calle D|landning=4|sopad=Jon och Calle D|sittstart=ja|text=Baksidan kolonnblocket. Sittstart höger med uc + gaston i spricka, sedan upp vänster utan jughyllan.}}
+{{problem|namn=Doom3|grad=6B+|typ=Överhäng,Aréte|fa=S Eklund|landning=4|sopad=S Eklund|sittstart=ja|text=Sittstart vid arêten vänster om rosa kolonnen. Catch från undercling till hylla.}}
+{{problem|namn=Den rosa kolonnen|grad=6A|typ=Mantling|fa=Jon|landning=3|betyg=1|sopad=Jon|text=Rakt uppför väggen på kolonnblocket, gå upp åt vänster på slutet om du inte är feg.}}
+{{problem|namn=Hattar och mössor|grad=6A+|typ=Aréte|fa=Stefan|landning=3|sopad=Stefan|sittstart=ja|text=Ligger på block på åsen mot parkeringen/kvarnen till. Sittstart till vänster med sidtag och sloper på det lägre blocket.}}
+{{problem|namn=Blod i skägget|grad=6A+|typ=Aréte|fa=Stefan|landning=3|sopad=Stefan|sittstart=ja|text=Ligger på block på åsen mot parkeringen/kvarnen till. Sittstart höger med stora sidtag, på det låga blocket.}}
+| width="250px" |
+{{problem|namn=Skägget|grad=4A|typ=Aréte|fa=Henrik B och Stefan|landning=3|sopad=Henrik B och Stefan|sittstart=ja|text=Ligger på block på åsen mot parkeringen/kvarnen till. Det låga blocket, sittstart vänster.}}
+{{problem|namn=Fin i kanten|grad=5A|typ=Aréte|fa=Rikard och Stefan|landning=4|sopad=Rikard och Stefan|text=Ligger på block på åsen mot parkeringen/kvarnen till. Tydliga arêten vänster.}}
+{{problem|namn=Pocketarêten|grad=3C|typ=Aréte|fa=Jon, Stefan och Calle|landning=4|sopad=Jon, Stefan och Calle|text=Arête med pockets bakom dungen mot bivacken. Start från marken. Finns sittstart ca 6a.}}
+{{problem|namn=!?|grad=1|typ=Slab|fa=Jon|landning=3|sopad=Jon|text=Superlätt sva med skojigt grepp. Innanför dungen mot bivacken till.}}
+{{problem|namn=Olas ätstörningar|grad=6A|typ=Travers H->V|fa=Jon|landning=2|sopad=Jon|sittstart=ja|text=Sittstart som Jugs fatta, traversera vänster in i Rosa kolonnen.}}
+{{problem|namn=Jugs fatta|grad=5A|typ=Jug|fa=Jon, Rikard och Calle|landning=2|sopad=Jon, Rikard och Calle|sittstart=ja|text=Sittstart höger om Rosa kolonnen.}}
+{{problem|namn=Calles|grad=5C|typ=Reach|fa=Calle D|landning=3|sopad=Calle D|sittstart=ja|text=Svampblocket. Sittstart höger om arêten.}}
+{{problem|namn=Sitt still|grad=5B|typ=Aréte|fa=Rikard och Stefan|landning=5|sopad=Rikard och Stefan|sittstart=ja|text=Lutande blocket, längst vänster. Sittstart från stora stenen.}}
+{{problem|namn=Sin Corteza|grad=4C|typ=Jug|fa=olof, stefan, jon, rikard|landning=4|sopad=olof, stefan, jon, rikard|text=Lutande blocket, lättaste vägen upp vid rampen.}}
+{{problem|namn=Slappedasken|grad=6C+|typ=Slopers,Dyno|fa=Jon och Olof|landning=4|betyg=1|sopad=Jon och Olof|sittstart=ja|text=Det lutande blocket. Högra arêten, sittstarta inte från stenen. Vik runt hörnet ganska tidigt, fortsättning hela vägen till toppen är projekt.}}
+|}
+===Torsätra===
+En kilometer rakt öster om Fockstaparkeringen, över åkrar och Sävaån kommer nya block i halvöppen terräng. En liten väg går in från 55:an en kilometer innan vanliga avtaget. Massor av små block som vanligt, men ett och annat är stort nog. Klart värt ytterligare rekognosering.
+
+Ytterligare rekognosering gjord utan direkta resultat...
+
+===the Outer outskirts===
+Kör 55:an mot Enköping. Sväng av mot Skogstibble. Efter 1 km, parkera på grusvägen till höger. Följ grusvägen 30 meter. Ta vänster in på fältet och följ skogskanten 200m. Vid stenmuren går du rakt in i skogen och blocken dyker upp efter 40 meter. Huvudblocket har möjlighet till några få problem, landningarna är bra och läget öppet och fint. Ingår inte i det nya naturreservatet, och det finns därmed inga restriktioner angående nyturer. 
+{|
+[[Bild:Tidelagstaket.jpg]]
+|- valign="top"
+| width="250px" |
+
+{{problem|namn=Babe den kåta lilla grisen (AKA. Tidelagstaket)|grad=7c /+|typ=Tak,Krimp,Dyno|fa=Jocke Berglund|landning=3|betyg=3|sopad=Olof E|sittstart=ja|text=Sittstart med båda händerna på bra list i den mest vänstra delen av taket. Areten ingår EJ. Klättra höger genom hela taket via krimpar och sidotag. Dyna till kanten längst ut och upp höger. Toppa ut.}}
+
+{{problem|namn=Lockfågel|grad=7b+|typ=Tak,Krimp|fa=Olof Eriksson|landning=3|betyg=2|sopad=Olof Eriksson|sittstart=ja|text=Sittstart med båda händerna på mycket bra grepp i botten av taket. Klättra rakt upp genom taket via krimpar och sidotag. Toppa ut.}}
+
+{{problem|namn=Fågelskrämma|grad=7b+|typ=Tak,Krimp,Dyno|fa=Jocke Berglund|landning=3|betyg=3|sopad=Olof E|sittstart=ja|text=Sittstart Klättra Lockfågel men gå ut till höger in i Banjoduellen. Dyna till kanten längst ut och upp höger. Toppa ut.}}
+
+{{problem|namn=Fubar|grad=6C|typ=Tak, Sloopers, heelhooks, morpho|fa=Magnus Crona|landning=3|betyg=|sittstart=ja|text=Sittstart med båda händerna på bra list i den mest vänstra delen av taket. Klättra och följ hela aréten åt höger.}}
+
+| width="250px" |
+
+{{problem|namn=Fubar direkt|grad=6C+|typ=Tak, Sloopers, mantling, morpho|fa=Magnus Crona|landning=3|betyg=1|sittstart=ja|text=Sittstart med båda händerna på bra list i den mest vänstra delen av taket. Klättra och följ aréten åt höger, mantla ur i klykan vid björken.}}
+
+{{problem|namn=Grisfarmen|grad=5c|typ=Tak, Sloopers, mantling|fa=Magnus Crona|landning=3|betyg=1|sittstart=ja|text=Sittstart med båda händerna på bra list i den mest vänstra delen av taket. Mantla upp på svaet till vänster ganska snart vid flaket, valfri urtoppning.}}
+
+{{problem|namn=Banjoduellen|grad=6B+|typ=Dyno|fa=Olof E|landning=3|betyg=0|sopad=Olof E|sittstart=ja|text=Starta i högra delen av taket, från den stora stenen. Höger och vänster hand på små crimpar. Dyno till kanten. Toppa ut.}}
+
+{{problem|namn=Den sista färden|grad=6C|typ=Krimp,Dyno|fa=Olof E|landning=3|betyg=1|sopad=Magnus Crona|text=Går på den vänstra delen av den vertikala väggen. Starta med båda händerna på en bra list. Klättra rakt upp via stor sloper. Halvdynamiskt till kanten. Toppa ut.}}
+
+| width="250px" |
+
+{{problem|namn=Six finger county|grad=6A+|typ=Krimp,Sloper|fa=Magnus Crona|landning=3|betyg=0|sopad=Magnus Crona|text=Starta som Den sista färden men klättra höger från slopern via bra lister. Toppa ut.}}
+
+{{problem|namn=Trailer park Welly |grad=6b|typ=Balans, layback|fa=Magnus Crona|landning=1|betyg=1|sopad=Magnus Crona|text=Ståstarta/hoppstarta upp och på den vänstra aréten till vänster om Den sista färden. Toppa ut.}}
+
+{{problem|namn=Let's Zumba|grad=7c|typ=heel hooks, travers|fa=Stefan Eklund|betyg=2|sopad=Magnus Crona|text=Sittstart på låg hylla, traversera längs kanten åt höger och avsluta i Trailer park Welly.}}
+
+{{problem|namn=Miffot|grad=6a|typ=mantling, ingen highball|betyg=|sopad=Magnus Crona|text=Norra blocket, sittstart hö hand pinch, mantla upp på hyllan.}}
+
+{{problem|namn=Civilisationens utpost|grad=5c|typ=layback, spricka|betyg=1|fa=Anders Tväråna|text=Stora sprickan på baksidan. Finare än det ser ut.}}
+|}
+
+
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

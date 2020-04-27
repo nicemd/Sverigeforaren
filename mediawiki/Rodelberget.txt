@@ -1,0 +1,63 @@
+{{utkast}}
+==Allmänt==
+Klippa i alldeles intill rodelbanan i Saltsjöbaden. Liten men brant. Övervägande sportklättring.
+Nya solo/toprepsturer på övre väggen.
+
+==Miljö==
+Västvänt men skuggigt. Övre väggen hamnar i skuggan vid 15 tiden.
+
+==Vägbeskrivning==
+Åk till Solsidans station och sväng v alldeles efter denna. Därefter direkt h på Slalomvägen och fortsätt ca 200 m innan du tar h igen i kurvan där Slalomvägen delar sig. Följ vägen till dess slut och parkera med omsorg. Klippan ligger ett hundratal meter norrut. Antika koordinater: '''10 I NO 752 423'''
+
+==Leder==
+{{led|nr=1|namn=I am the walrus|grad=6-|längd=10|fa=[[Mats Olofsson]], [[Johan Hvenmark]] [[-95]]}}
+
+{{led|nr=2|namn=The walrus goes royal|grad=6/6+|längd=8|fa=[[Mats Olofsson]], [[Johan Hvenmark]] [[-95]]}}
+
+{{led|nr=3|namn=2-mans snorbobba|grad=6|längd=10|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+
+{{led|nr=4|namn=Mi primita|grad=6+|längd=12|fa=[[Johan Hvenmark]], [[Jakob Silverhielm]] [[-91]]}}
+
+{{led|nr=5|namn=Datanerd|grad=6|längd=10|fa=[[Jakob Silverhielm]], [[Johan Hvenmark]] [[-91]]}}
+
+{{led|nr=6|namn=Boracho pero macho|grad=6+|längd=10|fa=[[Johan Hvenmark]], [[Mats Olofsson]] [[-95]]}}
+
+{{led|nr=7|namn=Kebabflott i skägget|grad=6+|längd=10|fa=[[Johan Hvenmark]], [[Mats Olofsson]] [[-95]]}}
+
+{{led|nr=8|namn=Hål i huvet|grad=6|längd=8|fa=[[Mats Olofsson]], [[Jakob Silverhielm]] [[-95]]}}
+
+{{led|nr=9|namn=Highway to hell|grad=3|längd=8|fa=[[Jakob Silverhielm]], [[Johan Hvenmark]] [[-87]]}}
+
+{{led|nr=10 |namn=Gräddhyllan|grad=7a|fa=M.Söderström|text=Går på areten till vänster om Liten. Solad.}}
+
+{{led|nr=11|namn=Liten|grad=7b|fa=JL|text= kort och hård.}}
+
+{{litentext|text= Rännan är solad baklänges och th om denna går:}}
+
+{{led|nr=12|namn=En masse|grad=6+|längd=6|fa=[[Mats Olofsson]], [[Henrik Magnusson]] [[-95]]}}
+
+
+
+==Övre väggen==
+
+[[Fil:Rodelberget.JPG]]
+
+{{led||namn=Den andra vägen|grad=6b+|fa=M.Söderström|text=Markant krux på slutet. Solad.}}
+{{led||namn=Hillary step|grad=3- alpin stil|text=Den Korta traversen mellan Den andra vägen och den Rätta vägen. Mest för skoj.}}
+{{led||namn=Den rätta vägen|grad=6c|fa=M. Söderström|text=Du kan vända vid Hillary step. Solad}}
+
+
+[[Fil:Rodelberget2.jpg]]
+
+{{led||namn=Högfärdig|grad=7a|fa=M.Söderström|text=Insteget är leden. Akta trädet. Solad.}}
+{{led||namn=Snobb|grad=6a|fa=M.Söderström|text=Fin spricklättring. Solad.}}
+{{led||namn=Prutt|grad=5b|fa=M.Söderström|text=Bekväm klättring. Solad.}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Sport]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar kolumner]]
+[[kategori:Saknar skiss]]

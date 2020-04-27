@@ -1,0 +1,17 @@
+{{info klippa
+  |lat=57.5560
+  |long=15.8517
+}}
+
+{{stub|extern=ja}}
+
+==Allmänt==
+En mindre klippa med de flesta leder kring grad 6.
+
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Småland]][[Kategori:vertikalt]][[Kategori:Sport]][[Kategori:Trad]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

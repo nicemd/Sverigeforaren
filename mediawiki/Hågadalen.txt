@@ -1,0 +1,41 @@
+{{utkast}}
+
+==Allmänt==
+Topprepsklippa.
+
+==Leder==
+
+[[Bild:HagadalenRoutesLeft.jpg]]
+
+{{led|nr=1|namn=Svasprickan|grad=3?|fa=?
+ |typ=trad|text=Vet inte om denna led är klättrad. Mycket mossig men bör ej borstas pga naturreservat. Är troligen inte klätterbar.}}
+
+{{led|nr=2|namn=Grottan|grad=4|fa=?
+ |typ=trad|text=Klättras på flaket ej i sprickan/grottan vilket Uppsala föraren föreslår.}}
+
+{{led|nr=3|namn=Skäran|grad=5-|fa=?|typ=trad|text=Mycket bred spricka. Välsäkrad med näst största Camaloten.}}
+
+{{led|nr=4|namn=Väggen|grad=?|fa=?
+ |typ=topprepsled|text=Vertikal väggklättring.}}
+
+{{led|nr=5|namn=Blockrännan|grad=?|fa=?
+ |typ=trad|text=Scrambling.}}
+
+[[Bild:HagadalenRoutesRight.jpg]]
+
+{{led|nr=6|namn=Raka sprickan|grad=7?|fa=?
+ |typ=trad|text=Säkras med mickrokilar.}}
+
+{{led|nr=7|namn=Senvägen|grad=7-|betyg=2|fa=Erik Terenius och Bertil Dyvell 1990, topprep|typ=topprepsled}}
+
+{{led|nr=8|namn=Genvägen|grad=4+|fa= Erik Terenius och Bertil Dyvell 1990, topprep
+ |typ=topprepsled}}
+
+{{led|nr=9|namn=Omvägen|grad=5+|fa= Erik Terenius och Bertil Dyvell 1990, topprep
+ |typ=topprepsled}}
+
+{{led|nr=10|namn=Blocket|grad=3|fa= Erik Terenius 1990, solo|typ=boulder}}
+
+
+[[Kategori:Uppland]]
+[[Kategori:Saknar karta]][[Kategori:Saknar vägbeskrivning]]

@@ -1,0 +1,23 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Daniel Bertilssons Dyno|grad=6B+|typ=Dyno,Jug|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2005-06-27|sopad=Fredrik Bodin|startgrepp=ja|text=Startar med händerna på det tydliga greppet under skylten, dyno till toppen.}}
+{{problem|namn=Ironfist|grad=7B|typ=Krimp,Pinch|fa=Fredrik Bodin & Peter Nilsson|landning=3|betyg=3|fadatum=2005-06-15|sopad=Fredrik Bodin & Peter Nilsson|sittstart=ja|uteslutningar=ja|text=Sittstart till höger i överhänget, går upp med lätt dragning åt vänster. Högra areten är ej med.}}
+{{problem|namn=Akilles|grad=7A+|typ=Krimp,Slopers,Heel hook|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2005-06-15|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart mellan "Ironfist" och "Lejdaren", går rakt upp. Håll kroppen mellan de båda areterna.}}
+| width="250px" |
+{{problem|namn=Lejdaren|grad=4C|typ=Krimp,Jug|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2005-06-15|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart vid de bra greppen, går rakt upp.}}
+{{problem|namn=Oui-Oui|grad=6B|typ=Krimp,Överhäng|fa=Per Wermelin och Fredrik Bodin|landning=2|betyg=1|fadatum=2006-09-13|sopad=Per Wermelin och Fredrik Bodin|sittstart=ja|uteslutningar=ja|text=Starta i den horisontella sprickan och klättra sen rakt upp och över överhänget. Väggen till höger om sprickan är inte med.Slutar när du har händerna på stora hyllan.}}
+| width="250px" |
+{{problem|namn=Cellskräck|grad=7A|typ=Krimp,Överhäng,Spricka|fa=Fredrik Bodin|landning=4|fadatum=2006-09-13|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Startar på juggen längst in, går sedan rakt ut över taket och slutar på den stora hyllan. Väggne till vänster är ej med.}}
+{{problem|namn=Dora utforskaren|grad=6A|typ=Krimp,Överhäng|fa=Per Wermelin|landning=3|fadatum=2006-09-21|sopad=Per Wermelin|sittstart=ja|text=Starta under taket och klättra sen rakt upp}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,16 @@
+
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+{{boulderstub|extern=ja}}
+
+[[Kategori:Uppsala]]
+
+En vägg med ett fåtal fina problem, de hårdaste är bäst. Stenkvaliteten är mycket bra.
+
+=Vägbeskrivning=
+
+Åk väg 72 mot Sala, sväng höger vid Ålands kyrka. Väggen ligger direkt till höger.
+
+<googlemap version="0.9" lat="59.874466" lon="17.278919" type="map" zoom="13" width="500" height="300">
+59.878289, 17.288017, Ålandsdal
+</googlemap>

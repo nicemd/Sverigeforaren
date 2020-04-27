@@ -1,0 +1,82 @@
+{{info klippa
+  |lat=63.322858
+  |long=12.079811
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+En klippa bredvid E14 vid norska gränsen. Endast traditionell klättring och/eller topprep. Ta med myggmedel.
+
+==Vägbeskrivning==
+  
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="63.322858" lon="12.079811" zoom="13">
+63.324672, 12.067258, Lilla helvetet
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Klippan hittas på höger sida strax bredvid E14 och den parkering som ligger några hundra meter efter gränskontrollen i Storlien. På andra sidan om vägen går en markerad vandringsled ner till brudslöjan. 
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+Den lilla sjön går till stor del går hela vägen fram till klippan. Längden på lederna är ca 10 - 25 meter?? <br>
+
+<!--[[Bild:Skiss.gif]]   -->
+Skiss finns på [http://www.coronn.com/TOPOS/readersTOPOS/readersTOPOS/Lilla_Helvetet.pdf www.coronn.com]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Lilla diedret|grad=5+|typ=trad|betyg=|bultar=|längd=|fa= |text=}}
+{{led|nr=2|namn=Spindeltarzan|grad=5+|typ=trad|betyg=|bultar=|längd=|fa=|text=Topprepsankare}}
+{{led|nr=3|namn=Vattenskräck|grad=6-|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=4|namn=My friend|grad=4+|typ=trad|betyg=|bultar=|längd=|fa=|text=Fira ner till start}}
+{{led|nr=5|namn=My friend variant|grad=4+|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=6|namn=Rulltrappan|grad=4-|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=7|namn=Hyllmeter|grad=4+|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+
+
+| valign="top" width="350px" |
+
+{{led|nr=8|namn=Vattenplopp|grad=5|typ=|betyg=|bultar=|längd=|fa=|text=Toprep?}}
+{{led|nr=9|namn=Tvillingleden|grad=5-|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=10|namn=Hålleden|grad=5-|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=11|namn=Kort och fin|grad=5-|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=12|namn=Easy run|grad=4|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=13|namn=Dilemmat|grad=7-|typ=Topprep|betyg=|bultar=|längd=|fa=|text=Topprep}}
+{{led|nr=14|namn=Trackbite|grad=6-|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+
+|}
+
+Informationen är hämtad från Mikael Larsons förare på [http://www.coronn.com/TOPOS/readersTOPOS/readersTOPOS/Lilla_Helvetet.pdf www.coronn.com] (2004). Skiss finns i föraren men får ligga kvar pga. eventuellt tjorv med copyright. 
+''Finns fler förare på [http://www.coronn.com/TOPOS/readersTOPOS_download.html coronn] för den nyfikne''
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+
+
+[[Category:Jämtland]]

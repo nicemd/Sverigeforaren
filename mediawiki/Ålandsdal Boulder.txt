@@ -1,0 +1,37 @@
+
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+=Allmänt=
+En vägg med ett fåtal fina problem, de hårdaste är bäst. Stenkvaliteten är mycket bra.
+=Vägbeskrivning=
+Åk väg 72 mot Sala, sväng höger vid Ålands kyrka. Väggen ligger direkt till höger.
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Homegrown|grad=4B|typ=Mantling|fa=J Smedsaas / S Boye|sopad=J Smedsaas / S Boye|text=}}
+{{problem|nr=2|namn=Shawnomania|grad=4B|typ=Mantling|fa=J Smedsaas|sopad=J Smedsaas|text=}}
+{{problem|nr=3|namn=Kovariant|grad=4C|typ=|fa=J Smedsaas / S Eklund|sopad=J Smedsaas / S Eklund|text=}}
+{{problem|nr=4|namn=Falköga|grad=6B|typ=Slopers|fa=O Eriksson / J Smedsaas|betyg=1|sopad=O Eriksson / J Smedsaas|text=Starta med sidtag, rakt upp.}}
+{{problem|nr=4|namn=Falköga Assis|grad=6C+|typ=Krimp,Slopers|fa=J Smedsaas|betyg=1|sopad=J Smedsaas|sittstart=ja|variant=ja|text=}}
+{{problem|nr=4|namn=Falkögas Son|grad=6A|typ=Krimp|fa=OE / JS / K Svensson / S Boye|sopad=OE / JS / K Svensson / S Boye|variant=ja|text=Starta med sidtag, upp till vänster.}}
+{{problem|nr=5|namn=Fula Gubben|grad=6A|typ=Slopers|fa=OE / JS / K Svensson / S Boye|betyg=1|sopad=OE / JS / K Svensson / S Boye|uteslutningar=ja|text=Utan högerkanten.}}
+| width="250px" |
+{{problem|nr=5|namn=Fula Gubben Assis|grad=6B+|typ=Slopers|fa=OE / JS / K Svensson / S Boye|sopad=OE / JS / K Svensson / S Boye|sittstart=ja|variant=ja|uteslutningar=ja|text=}}
+{{problem|nr=6|namn=Näsbrännan|grad=4C|typ=Mantling|fa=J Smedsaas|sopad=J Smedsaas|text=Upp längs kanten.}}
+{{problem|nr=6|namn=Banjoland|grad=6A+|typ=Slopers|fa=D Andersson|betyg=1|sopad=D Andersson|startgrepp=ja|uteslutningar=ja|text=Starta med pinch, avsluta höger utan kanten till vänster.}}
+{{problem|nr=7|namn=Herbal Field|grad=6C|typ=Mantling|fa=S Mooney|betyg=2|sopad=S Mooney|text=}}
+{{problem|nr=8|namn=PROJEKT|grad=-|typ=Slopers,Överhäng|fa=-|landning=4|betyg=2|sopad=-|text=Höger om Herbal field, rejäl urtoppning.}}
+{{problem|nr=9|namn=African herbsmen|grad=7B|typ=Slopers,Dyno|fa=J Smedsaas|landning=4|betyg=3|sopad=J Smedsaas|text=Den högra delen av överhängande väggen. Från spricka upp vänster till sidtag, avsluta upp höger till sloper.}}
+| width="250px" |
+{{problem|nr=9|namn=Strass A|grad=7B+|typ=Krimp,Överhäng|fa=J Smedsaas|landning=4|betyg=1|sopad=J Smedsaas|variant=ja|uteslutningar=ja|text=Direktversion av African Herbsmen. Avsluta rakt upp med lister utan slopern uppe till höger.}}
+{{problem|nr=10|namn=Born a Pussycat|grad=5C|typ=Spricka|fa=JS / S Mooney / D Andersson|betyg=1|sopad=JS / S Mooney / D Andersson|uteslutningar=ja|text=Starta med sidtag, följ sprickan till toppen utan escape till höger (avsluta vänster på slopers 6a+).}}
+|}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

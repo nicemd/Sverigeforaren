@@ -1,0 +1,85 @@
+{{info klippa
+  |lat=56.361028
+  |long=13.020483
+}}
+
+{{komplett}} 
+
+==Allmänt==
+Klippan är belägen uppe på Hallandsåsen mellan Skåne och Halland, Klippan är mellan 6-10m och har riktigt god friktion och bjuder på en hel del fin jamklättring därför är det lämpligt att ta med friends eller häxor. För tillfället finns 12st leder. Lederna behöver ett par dagars uppehållsväder efter regn för att inte vara blöta.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="56.361028" lon="13.020483" zoom="14">56.361028, 13.020483, Virsehatt</googlemap>
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Vägbeskrivning: från E6 ta av vid Hjärnarp och vidare upp mot Ugglehult/Lerbäckshult. Kör förbi Faxeröd, snart går den asfalterade vägen över till grusväg. Man passera vägen till djurholmen och kör sedan 1 km och får då en väg på vänstersida denna väg följs ca 2 km. En stuga och sjö dyker upp på högersida några hundrameter till och kolugnsvägen dyker upp på högerhand. Parkera här och gå de sista 300m på Kolungnsvägen. Klippan syns ny på vänster sida 40m in i skogen. 
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Nysnapphane.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Mögel|grad=5|typ=trad|betyg=1|bultar=|längd=8|fa=[[M Gullvert P Karlsson]] -04|text=Sprickan längst till höger.}}
+
+{{led|nr=2|namn=Fingersvamp|grad=5+|typ=trad|betyg=1|bultar=|längd=8|fa=[[M Gullvert p Karlsson]] -04|text=Crux i toppen.}}
+
+{{led|nr=3|namn=Stenmurkla|grad=4-|typ=trad|betyg=1|bultar=|längd=8|fa=[[M Gullvert P Karlsson]] -04|text=Kan vara fuktig, lite lös i mitten, välsäkrad.}}
+
+{{led|nr=4|namn=Taggsvamp|grad=6-|typ=trad|betyg=1|bultar=|längd=8|fa=[[M Gullvert J Dejmec]] -04|text=Smålurig handjam i toppen, välsäkrad. }}
+
+{{led|nr=5|namn=Fotsvamp|grad=5-|typ=trad|betyg=2|bultar=|längd=8|fa=[[M Gullvert P Karlsson]] -04|text=Fin, välsäkrad klättring med jam och sträck. }}
+
+{{led|nr=6|namn=Djävulssopp|grad=6+|typ=trad|betyg=2|bultar=|längd=7|fa=[[M Gullvert P Karlsson]] -04|text=Upp till crimpen mitt på väggen, en näve i vänster sprickan är tillåten. }}
+
+{{led|nr=7|namn=Den tjocke och den fete|grad=3|typ=trad|betyg=1|bultar=|längd=7|fa=[[P Karlsson J Dejmec]] -04|text=Upp i kaminen till vänster, välsäkrad. }}
+
+{{led|nr=8|namn=Öljäst|grad=3|typ=trad|betyg=1|bultar=|längd=7|fa=[[P Karlsson J Dejmec]] -04|text=Upp i kaminen till höger, välsäkrad. }}
+
+{{led|nr=9|namn=Liksvamp|grad=4+|typ=trad|betyg=2|bultar=|längd=12|fa=[[M Gullvert]] -04|text=Traversera från höger till vänster i den låga sprickan. }}
+
+{{led|nr=10|namn=Röksvamp|grad=5-|typ=trad|betyg=2|bultar=|längd=12|fa=[[M Gullvert]] -04|text=Traversera från vänster till höger i den höga spickan. Avsluta vid toppen av Öljäst }}
+
+{{led|nr=11|namn=Lömsk flugsvamp|grad=5+|typ=trad|betyg=2|bultar=|längd=24|fa=[[M Gullvert]] -04|text=Traversera från vänster till höger i den höga spickan. Avsluta vid toppen av Öljäst }}
+
+==Kontakt==
+
+För mer info och bilder kolla [http://www.eskapader.se Eskapader]
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+ [[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]] 
+[[Kategori:överhäng]] 
+
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar karta]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Halland]]

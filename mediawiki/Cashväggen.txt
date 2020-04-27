@@ -1,0 +1,39 @@
+{{boulderkomplett}}
+
+==Allmänt==
+Två mindre väggar i Runby, Upptäckt 2011. Några ytterligare problem finns definitivt att förstabestiga! Den finaste linjen (nr 1) borde va runt 6c-7a och väntar på förstabestigning. Går säkert att borsta fram ytterligare 3-4 problem t.vä om nr 1.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.519286" lon="17.880943" zoom="14" type="map" controls="small">
+59.56914,17.82467,[[Runsa]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Runsa
+lat=17824670
+long=59569140
+</slresa>
+</div> 
+Väggarna ligger i Runby, Upplands Väsby. Med bil: Säng av E4 från Stockholm mot Upplands Väsby c, sväng vänster i rondellen in på Mälarvägen. Sväng höger i rondellen just efter Hemköp. Sväng vänster in på Törnbyvägen. Parkera vid slutet av Törnbyvägens. Rakt fram i törnbyvägens riktning ser du en liten stig (gå in där, passera en träspärr).  Ta första stigen åt höger följ ängskanten/ skogsbrynet  ca 100m, till höger ser du väggarna. 
+<div style="clear:right;"></div>
+
+==Leder==
+
+[[Bild:Cashväggen.jpeg]]
+[[Bild:cashväggen2.jpeg]]
+
+{{problem|nr=1|namn=How to make it in Runby|grad=6A+|text= Starta i markant sidogrepp, vidare rakt upp via krimp, undercling till sloper. (FA. Christoffer Olander & Tommy Zetterman)}}
+
+{{problem|nr=2|namn=Cashewnötter|grad=6a+*|text=Sprickan. (T.Rönnbäck 2011)}}
+
+{{problem|nr=3|namn=Hundra spänn|grad=5a*|text=SS vid snedhylla, upp till höger. (T.Rönnbäck 2011)}}
+
+{{problem|nr=4|namn=Guldpengen|grad=5C** |text= Start i sidjugg, rakt upp. (T.Rönnbäck, 2011)}}
+
+{{problem|nr=5|namn=Börsras|grad=5a*|text= Ss nederst i sprickan, rakt upp. (T.Rönnbäck, 2011)}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

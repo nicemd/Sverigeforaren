@@ -1,0 +1,32 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=?|grad=7A+|typ=Krimp,Överhäng|fa=Stefan Hedin|landning=3|betyg=3|fadatum=2003-08-13|sopad=Stefan Hedin|sittstart=ja|startgrepp=ja|text=Sittstart med vänster han på undercling och höger hand på crimp, går rakt ut genom taket.(Vindkraftverksstenen)}}
+{{problem|namn=?|grad=6B|typ=Krimp,Slopers,Travers H->V,Jug|fa=Stefan Hedin|landning=3|betyg=2|fadatum=2003-08-13|sopad=Stefan Hedin|sittstart=ja|text=Sittstart längst ner på högra kanten av överhänget. Följer sedan denna hela vägen ut, gå upp på kortsidan.(Vindkraftverksstenen)}}
+{{problem|namn=Propeller|grad=7A+|typ=Krimp,Dyno,Jug|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-08-13|sopad=Fredrik Bodin|startgrepp=ja|text=Startar på med händerna på jugen i överhänget, dyna sedan ut åt höger till listen som är på sidan av stenen. Gå därefter rakt upp.}}
+{{problem|namn=Kinetik|grad=6A|typ=Slab|fa=Per Wermelin|landning=3|betyg=2|fadatum=2004-05-12|sopad=Per Wermelin|uteslutningar=ja|text=Ståstart lite till höger om 6b traversen, blocket på rampen till höger är inte med. Följ svaplattan till toppen. (Vindkraftverksstenen)}}
+{{problem|nr=1|namn=Fishbone|grad=6B|typ=Krimp,Slopers,Aréte|fa=Niklas Melinder|landning=3|betyg=2|fadatum=2003-04-08|sopad=Niklas Melinder|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på den stora listen, följer sedan arêten upp.}}
+| width="250px" |
+{{problem|nr=3|namn=?|grad=6B|typ=Slopers,Layback,Aréte|fa=Stefan Hedin|landning=1|betyg=2|fadatum=2003-08-13|sopad=Stefan Hedin|sittstart=ja|text=Sittstart vid arêten, följer denna upp}}
+{{problem|nr=5|namn=Morpho|grad=7A|typ=Krimp,Reach|fa=Fredrik Bodin|landning=2|betyg=2|sopad=Fredrik Bodin|text=Börjar vid den lilla pocketen och går sedan rakt upp.}}
+{{problem|nr=6|namn=Talgbollar|grad=6A|typ=Krimp|fa=Stefan Hedin|landning=3|betyg=1|fadatum=2003-04-02|sopad=Stefan Hedin|startgrepp=ja|text=Börjar vid den stora pocketen och går rakt upp.}}
+{{problem|nr=7|namn=Svål|grad=6C|typ=Krimp|fa=Fredrik Bodin|landning=2|betyg=1|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med vänster hand på det bra greppet, går sedan rakt upp.}}
+{{problem|nr=8|namn=Nazistdyno|grad=6C+|typ=Krimp,Dyno|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-02|sopad=Fredrik Bodin & Christofer Björklund|startgrepp=ja|text=Börjar med de två pocketarna, går sedan via underclinget rakt upp.}}
+{{problem|nr=9|namn=Merlot|grad=6B|typ=Krimp|fa=Christofer Björklund|landning=3|betyg=3|fadatum=2003-04-02|sopad=Christofer Björklund|startgrepp=ja|text=Börjar lite till vänster om "Stairmaster" på samma hylla, går rakt upp via ett antal lister.}}
+| width="250px" |
+{{problem|nr=10|namn=Stairmaster|grad=6B+|typ=Slopers|fa=Fredrik Bodin|landning=3|betyg=2|fadatum=2003-04-02|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar med händerna på den nedersta hyllan, går rakt upp.}}
+{{problem|nr=11|namn=Henkes hörna|grad=6C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-04-02|sopad=Fredrik Bodin|startgrepp=ja|text=Startar i det lilla diedret, med vänster han på arêten och höger hand nere i sprickan, går rakt upp.}}
+{{problem|nr=12|namn=Pocketeer|grad=6C+|typ=Krimp,Layback|fa=Christofer Björklund|landning=3|betyg=2|fadatum=2003-04-02|sopad=Christofer Björklund|startgrepp=ja|text=Startar på det tydliga sideclinget, går sedan rakt upp via den stora pocketen.}}
+{{problem|nr=13|namn=Mutanto|grad=7B|typ=Krimp,Aréte|fa=Fredrik Bodin|landning=3|betyg=3|fadatum=2003-04-02|sopad=Fredrik Bodin|startgrepp=ja|text=Startar med händerna i pocketen, etablera kroppen och gå sedan rakt upp.}}
+{{problem|nr=14|namn=Mutanto (ss)|grad=7C|typ=Krimp,Överhäng,Dyno|fa=Fredrik Bodin|landning=2|betyg=3|fadatum=2007-04-15|sopad=Fredrik Bodin|sittstart=ja|variant=ja|text=Sittstart till "Mutanto". Börjar nere till höger utanför grottan/hålet.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

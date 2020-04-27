@@ -1,0 +1,100 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=57.70330
+  |long=15.56783
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+En stor klippa uppåt 40 meter hög och runt 500 meter lång. Några tidiga bestigningar gjordes på 80- och 90-talet i övrigt har utvecklingen startas 2011 av Simon Talltorp och har i dagsläget ett 10-tal leder i 5/6-registret. Stora möjligheter till förstabestigningar finns för den som vill sopa!
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="57.705844" lon="15.567842" zoom="15">
+57.70378, 15.56752, Övrakulla
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Skriv vägbeskrivning här.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+[[Bild:XXX]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+== Södra flanken ==
+
+{{led|nr=1|namn=Nerds 2^2 ever|grad=6-/6|typ=trad|betyg=2|bultar=|längd=30|fa=[[Simon Talltorp]] -11|text=Leden ligger lite off, längst söder ut på det södra massivet. En mycket fin led som bjuder på gott om handjam. Traversera ut höger under det första taket och gå därefter rakt upp. Leden är delad av två hyllor och utsteget är bergets finaste utsiktsplats. }}
+
+== Stora väggen, vänstra delen ==
+
+{{led|nr=2|namn=Trainspoting|grad=6-|typ=trad|betyg=2|bultar=|längd=23|fa=[[Simon Talltorp]] -11|text=Tydligt dieder. Övre delen kräver några större säkringar för komforten. }}
+
+{{led|nr=3|namn=The definition of awesome|grad=4|typ=trad|betyg=|bultar=|längd=7|fa=[[Kristoffer Hellberg]] -11|text=börjar vid Trainspotings utsteg. En kort uppstigningsled till toppen för den som hellre vill upp än ner.}}
+
+== Stora väggen, mittendelen ==
+
+{{led|nr=4|namn=I came to dance|grad=6-|typ=trad|betyg=1|bultar=|längd=25|fa=[[Simon Talltorp]] -11|text=Börjar till höger om den stora granen. går rakt upp till en liten hylla och vidare upp igenom ett tak. Följer därefter två tydliga sprickor upp till stora hyllan.}}
+
+{{led|nr=5|namn=Naken, blästrad och skitsur|grad=5+|typ=trad|betyg=2|bultar=|längd=25|fa=[[Simon Talltorp]] -11|text=Klättra rakt upp till diedret tar slut, kliv lite höger och gå rakt upp en kort bit för att därefter ansluta till sprickorna strax till vänster om dig. Följ sprickan till hyllan.}}
+
+{{led|nr=6|namn=The moose is loose|grad=6/6+|typ=trad|betyg=1|bultar=|längd=30|fa=[[Simon Talltorp]] -11|text=Gå upp till vänster under taketoch etablera dig i sprickan. Följ därefter den breda sprickan upp till toppen. Några camalot #3 och #4 behövs för den övre sprickan, ganska hög första säkring.}}
+
+== Stora väggen, högra delen ==
+
+{{led|nr=7|namn=Trollsaga|grad=5-|typ=trad|betyg=0|bultar=|längd=30|fa=[[Tommy Schultz]] 80-talet|text=Det mäktiga diedret som blir brantare och brantare för att avsluta i vertikal klättring. några större kamsäkringar krävs för bekväm säkring.}}
+
+{{led|nr=8|namn=Electrolüx|grad=6-/6|typ=trad|betyg=2|bultar=|längd=30|fa=[[Simon Talltorp]] -11|text=Ett mäktigt kylskåp som klättras på facet efter att man klivit upp till höger om det. vuxet säkrad och inte särskilt onsightvänlig.}}
+
+{{led|nr=9|namn=Born to raise hell|grad=5|typ=trad|betyg=0|bultar=|längd=30|fa=[[Simon Talltorp]] -11|text=En ovanlig klättring som följer ett system av flareade sprickor. Bitvis runout och inte helt uppenbart säkrad.}}
+
+== Lätta väggen ==
+
+{{led|nr=10|namn=En norsk|grad=5|typ=trad|betyg=0|bultar=|längd=25|fa=[[Simon Talltorp]] -11|text=Den tydliga sprickan mitt på väggen. Följ linjen till toppen.}}
+
+{{led|nr=11|namn=En Bellman|grad=5|typ=trad|betyg=0|bultar=|längd=25|fa=[[Simon Talltorp]] -11|text=Går ca 1,5 meter till höger om EN NORSK. Undvik att använda EN NORSKs spricka då det är två oberoende linjer.}}
+
+== Norra huvudväggen ==
+
+{{led|nr=12|namn=???|grad=A?|typ=Aid|betyg=0|bultar=|längd=25|fa=[[Tommy Schultz och Janne Stenström]] 90-talet|text=Aidtur. Börjar troligtvis på vänstersidan av väggen, vid en kvarlämnad copperhead.}}
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<-- [[Kategori:aid]] -->
+<-- [[Kategori:trad]] -->
+<-- [[Kategori:mix]] -->
+<-- [[Kategori:sva]] -->
+<-- [[Kategori:vertikalt]] -->
+<-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

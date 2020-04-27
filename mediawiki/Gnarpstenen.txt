@@ -1,0 +1,29 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Hyena|grad=7B+|typ=Krimp,Reach|fa=Johan Andersson|landning=2|betyg=3|fadatum=2003-06-16|sopad=Johan Andersson|sittstart=ja|startgrepp=ja|text=Sittstart vid arêten gå åt höger via flaket och sedan upp vid sprickan.}}
+{{problem|namn=Röda vita rosen|grad=6A|typ=Krimp|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2003-08-18|sopad=Christofer Björklund|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på listerna, går rakt upp. Slutar uppe på jugen.}}
+{{problem|namn=High heels|grad=6B+|typ=Krimp|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2003-08-18|sopad=Christofer Björklund|sittstart=ja|startgrepp=ja|text=Sittstart med händerna i sprickan, går sedan rakt upp, balans krux. Slutar med händerna på jug.}}
+{{problem|namn=?|grad=6C|typ=Krimp|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2003-08-18|sopad=Christofer Björklund|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på flaket, går rakt upp slutar med händerna på list.}}
+| width="250px" |
+{{problem|namn=Toit d'anniversaire de Jons|grad=6C+|typ=Krimp,Överhäng,Dyno|fa=Jon Kågström|landning=3|betyg=2|fadatum=2004-05-24|sopad=Jon Kågström|text=Startar under taket, gå rakt ut och upp.}}
+{{problem|namn=Minstingen|grad=7B+|typ=Krimp|fa=Johan Andersson|landning=2|fadatum=2004-05-24|sopad=Johan Andersson|sittstart=ja|text=sittstart under hyenablockets lägsta kant. ryck till kanten och mantla}}
+{{problem|namn=Penetratorn|grad=7A+|typ=Överhäng|fa=Johan Andersson|landning=3|betyg=2|fadatum=2004-05-24|sopad=Johan Andersson|sittstart=ja|uteslutningar=ja|text=sittstart till höger i överhänget på andra blocket 5 m bakom minstingen. areterna ingår ej}}
+{{problem|namn=Drottning Silvia|grad=7A|typ=Layback,Spricka|fa=Johan Anderson|landning=3|betyg=2|fadatum=2004-05-24|sopad=Johan Anderson|sittstart=ja|text=sittstart under sprickan 2 m till vänster om minstingen}}
+{{problem|namn=Dingo|grad=7B+|typ=Krimp,Slopers|fa=Christofer Björklund|landning=2|betyg=3|fadatum=2005-09-15|sopad=Christofer Björklund|sittstart=ja|text=Sittstart med händerna på rampen, gå vidare till flaket ute till vänster och sedan upp.}}
+| width="250px" |
+{{problem|namn=Hynda|grad=7B|typ=Krimp,Aréte|fa=Stefan Pettersson|landning=2|betyg=1|fadatum=2006-05-07|sopad=Stefan Pettersson|sittstart=ja|text=Startar lika som "Dingo", korsar "Hyena" och går sedan upp för areten.}}
+{{problem|namn=Hyde|grad=7C|typ=Krimp|fa=Dylan Smith|landning=2|betyg=1|fadatum=2006-05-07|sopad=Dylan Smith|sittstart=ja|variant=ja|text=Startar lika som "Dingo", går sedan rakt upp.}}
+{{problem|namn=Finaste jävla problemet i hela häraden|grad=6C|typ=Överhäng|fa=Jon Smedsaas med mera|landning=1|fadatum=2006-07-05|sopad=Jon Smedsaas med mera|sittstart=ja|text=Klättra areten vänster om Hyena.}}
+{{problem|nr=43|namn=Dominatorn|grad=7B+|typ=Aréte|fa=Johan Andersson|landning=3|betyg=2|fadatum=2005-06-26|sopad=Johan Andersson|sittstart=ja|text=Sittstart på vänstra areten bredvid Penetratorn, går rakt upp.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

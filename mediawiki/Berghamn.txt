@@ -1,0 +1,31 @@
+{{info klippa
+  |lat=59.287454975162454
+  |long=18.72516632080078
+}}
+
+{{utkast}}
+==Allmänt==
+På ön Södra Berghamn utanför Stavsnäs finns denna klippa som är upp mot 20 meter som högst. Lätt och medelsvår klättring. Ett bra ställe för nybörjare då det finns bra träd sätta upp topprep i. Vänstra delen av klippan har bra kvalitet. Några leder har klättrats på topprep (Grad ung 6a - 6c+)
+ 
+==Vägbeskrivning==
+Om det är en lugn dag går det utmärkt att lägga båten precis under klippan. På sommaren då det är mycket vågor eller då det blåser är viken som vätter mot norra Berghamn ett bättre ställe.
+
+<googlemap lat="59.287454975162454" lon="18.72516632080078" zoom="12" type="karta">
+59.287454975162454,18.72516632080078,Berghamn
+
+</googlemap>
+
+==Leder==
+{{led|namn=PungGuns Hörn|nr=1|grad=6-|betyg=|längd=10|fa=[[David Kleman]], [[Love Calissendorff]], [[2007|-07]]|bultar=|typ=trad|text=Det tydliga diedret på vänstra delen av klippan. Krux på mitten. Säkras med ett par små friends.}}
+
+
+[[bild:Berghamn001.jpg|thumb|left|500px|Berghamn. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+[[bild:Berghamn003.jpg|thumb|right|500px|Berghamn DWS. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+
+[[bild:Berghamn002.jpg|thumb|left|300px|Berghamn DWS. Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+[[Kategori:DWS]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Saknar skiss]]

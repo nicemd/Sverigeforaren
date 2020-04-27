@@ -1,0 +1,616 @@
+{{info klippa
+  |lat=59.23743
+  |long=17.88190
+}}
+
+{{komplett}}
+[[Bild:Häggsta.jpeg|thumb|center|750px]]
+
+[[Kategori:Vertikalt]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]
+
+==Allmänt==
+Tradklippa med anor från svensk klättrings pionjärepok. Häggsta ligger ca 2 mil SV om Stockholm vid Albysjöns östra strand. Detta är verkligt klassisk terräng med den äldsta (30-talet) dokumenterade klättringen i Stockholm. Lederna har sitt ursprung från bl a de glada dagar då det var hampa i repet, men naturligtvis har beståndet fyllts på även under t ex 80-talet. Idag är nog klippan tämligen färdigutvecklad men en mindre vägg till höger om huvudväggen har fått flera nya leder under 2008.
+
+==Häggstaträffen==
+Stockholms klätterklubb ordnar årligen en klätterträff på Häggsta. Oftast hålls träffen första helgen i september. Ambitionsnivån och deltagarantalet på dessa träffar har varierat kraftigt, men de kan rekommenderas för såväl gamla rävar som gärna sitter och drar historier om forna tider som nybörjare som vill pröva på lite topprepsklättring på rampväggen eller skaffa nya klätterkontakter.
+
+==Karaktär==
+Häggstaberget är en förkastningsbrant, vars västra sida är en sjösida och vars södra sida vetter åt Glömsta äng. Väggarna är tillsammans ca 350 m långa och som högst närmare 40 m. Bergarten är gnejs som bildar släta formationer som dock har ganska god friktion om man bortser från vissa polerade partier. Här finns ett drygt hundratal någorlunda självständiga leder samt ett otal varianter. Klippan är oftast fast och fin och ovanligt ren. Det sitter ett flertal fasta bultar, av skiftande ålder och kvalitet, i berget. Dessa bör, där det är möjligt, förstärkas med kilar. Något som är unikt för Häggsta bland Stockholms klippor är förekomsten av ett antal rejäla ringbultar på diverse standplatser och utsteg. Dessa borrades fast i början av sjuttiotalet och bör inte litas blint på, ett par har plockats ut för hand.
+
+Gnejsväggarna erbjuder alltså en exposé av bladbultar, lost arrows och annat rostigt skrot, medan det är relativt glest mellan de modernare borrbultarna. De allra flesta lederna är trad, med nån enstaka kompletterande bult. Mer eller mindre helbultade leder finns dock, exempelvis '''Bilbos Arête''', '''Lösa Block Direkt''' och linjerna på Nya väggen som ligger till höger om Långfredagsväggen. Vad som räknas till helbultat är naturligvis inte helt objektivt. Sprickorna är inte kända för att svälja kilarna med den bestämdhet som man kan önska, utan gör väl snarare vad de kan för att spotta ut dem. Dock finns det som regel gott om placeringar att välja mellan.
+
+Leder finns i alla grader, och inte minst finns det många tvårepors leder för nybörjaren, som ger känslan av riktig klättring - med lite höjdkänsla och exponerade partier trots tekniskt lätt klättring, på det relativt stora berget. Längsta leden är strax över 40 klättermeter.
+
+Det går att toppa några av de längre lederna från ankare vid utsteg eller standplats. Rampväggen i den ände som ligger närmare sjön, erbjuder annars typiska topprepsleder på under 15 m. Berget är annars ganska typiskt för de som gillar att leda.
+
+===Tältning & fika m.m.===
+Nedanför det stora berget (söder om), är det parkliknande ängsmark. Utmärkt för fika, tältning eller lek för barn.
+Två eldstäder finns, en vid Rampväggen och en nedanför Diretissemaväggen/Ekleden.
+För en kopp kaffe under en kortare kvällsklättring rekommenderas dock den platta toppen ovan Långfredagsväggen.
+
+Det går att tälta både på ängen nedanför klippan och på gräsmattan borta vid husen på andra sidan bäcken. En brunn med dricksvatten finns en bit upp på vänstra sidan (norra) av bäcken. Ett gammalt dass finns 30 m bortom husen. I pumphuset vid sjön finns en toalett som Stockholms klätterklubb förfogar över nyckel till (klen tröst när man är nödig). Telefon och soptunna finns vid kyrkans servering.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=200 lat="59.23743" lon="17.88190" zoom="12" type="map" controls="small">
+59.23743,17.88190,[[Häggsta]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Haggsta
+lat=17881900
+long=59237430
+</slresa>
+</div>
+
+Från E4:an, sväng av vid avfart mot Huddinge (väg 259), och fortsätt sedan mot Huddinge. Du kommer upp på Glömstavägen. 
+
+Från Glömstavägen följer man vägen mot St Botvids begravningsplats. Kör rakt fram mot kapellet istället för mot Flottsbrobacken strax innan själva kyrkogården.
+
+Åker du kommunalt finns två alternativ:
+* Tunnelbana till Masmo, därifrån en knapp halvtimmes promenad i sydlig riktning till Häggsta. 
+* Pendeltåg till Huddinge station, därifrån med buss 740 längs Glömstavägen. Stig av vid vägen till S:t Botvids kapell och gå därifrån (ca 1,5 km). Vissa turer går ända in till S:t Botvid (2–3 om dagen!).
+
+<div style="clear:right;"></div>
+
+==Access {{access}}==
+Markägaren är positiv till klättring, men vill att parkering endast sker på den större parkeringen innan kapellet. Det finns ett par rutor närmare berget, men dessa är tidsbegränsade till 2 timmar och avsedda för besökare till kyrkogården.
+Stölder i parkerade bilar har förekommit.
+
+==Leder==
+
+[[Bild:Haggsta_oversikt.png|center]]
+
+===Häggstatraversen===
+En smått klassisk heldagsutflykt. Poängen är att hålla sig från marken så länge som möjligt. Det går självfallet att kombinera leder efter egen smak, den sträckning som är den vanligaste är: Gillis platta, Tors travers, Helmuts travers, Tveksamheten, (firning), Pierres travers, Rosentraversen, Münchenertraversen, Münchenerplattan, Sjuochenhalvan, Tomas travers, Hasses utsteg, Topptraversen, Tors platta. 
+
+Se det som träning för alperna!
+
+{{sidbrytning}}
+== Sjösidan ==
+[[Bild:Haggsta_sjosidan_v.png|500px]]
+
+{|
+|- valign="top"
+| width=250px |
+{{led|nr=1|namn=Sjötraversen|grad=3|betyg=|längd=50|fa=|bultar=|typ=|text=}}
+
+{{led|nr=2|namn=Sjötaket/Eliminator|grad=9|längd=|fa=[[Thomas Hansson]] [[1990|-90]]|text=Förstabestigningen gjord på förplacerade pitonger. Repeterad utan förplacerade säkringar av [[Peter Bosma]] -00(?)}}
+
+{{led|nr=2a|namn=Sanninges ögonblick|grad=7+|betyg=|längd=10|fa=FF: [[Anders Lundahl]][[1989|-89]]|bultar=|typ=|text=}}
+
+{{led|nr=3|namn=Direkta fåtöljen|grad=6-|betyg=|längd=7|fa=FF: [[Rikard Hedman]], [[Jan Liljemark]][[10980|-80]]|bultar=|typ=|text=}}
+
+{{led|nr=3a|namn=Vardagsångest|grad=A2+|betyg=|längd=7|fa=|bultar=|typ=aid|text=}}
+
+{{led|nr=3b|namn=Festångest|grad=A2+|betyg=|längd=7|fa=|bultar=|typ=aid|text=}}
+{{litentext|text=Från hyllan ovanför Fåtöljen startar flera "leder".}}
+
+{{led|nr=4|namn=Sjötakstraversen|grad=6+|betyg=|längd=5|fa=|bultar=|typ=|text=}}
+
+| width=250px |
+
+{{led|nr=5|namn=Lido|grad=A2|betyg=|längd=10|fa=|bultar=|typ=aid|text=}}
+
+{{led|nr=6|namn=Göken|grad=7-|betyg=|längd=10|fa=FF: [[Choe Brooks]], [[Jan liljemark]][[1980|-80]]|bultar=|typ=|text=}}
+
+{{led|nr=7|namn=Idiotsprickan|grad=6-|betyg=|längd=9|fa=[[Hans Steyskal]], [[Jack Berg]][[1965|-65]]|bultar=|typ=|text=}}
+
+{{led|nr=7a|namn=Superidioten|grad=6|betyg=|längd=8|fa=FF: [[Anders Lundahl]], [[Eva Selin]][[1979|-79]]|bultar=|typ=|text=}}
+
+{{led|nr=8|namn=Tomteleden/ Sommartomten|grad=6-|betyg=|längd=30|fa=|bultar=|typ=|text=}}
+
+{{led|nr=8a|namn=Fåtöljen|grad=5-|betyg=|längd=7|fa=|bultar=|typ=|text=}}
+
+{{led|nr=8b|namn=Tomteutsteget|grad=5+|betyg=|längd=6|fa=|bultar=|typ=|text=}}
+
+{{led|nr=8c|namn=Tomteplattan|grad=4+|betyg=|längd=11|fa=|bultar=|typ=|text=}}
+
+| width=250px |
+
+{{led|nr=9|namn=Blodige Bart|grad=6-|betyg=|längd=12|fa=[[Thomas Hansson]], [[Gary Hansson]][[1989|-89]]|bultar=|typ=|text=}}
+{{litentext|text=En bit in på land reser sig (!) en tydlig pelare.}}
+
+{{led|nr=10|namn=Deperado Colorado|grad=6-|betyg=|längd=10|fa=|bultar=|typ=|text=}}
+
+{{led|nr=11|namn=Projektil|grad=6|betyg=|längd=15|fa=[[Per Willén]], [[Johnny Carlén]]|bultar=|typ=|text=}}
+
+{{led|nr=12|namn=Fred på jorden|grad=7-|betyg=|längd=15|fa=[[Anders Lundahl]], [[Eva Selin]][[1991|-91]]|bultar=|typ=|text=}}
+
+{{led|nr=13|namn=Pirater|grad=7-|betyg=|längd=|fa=[[Eva Selin]], [[Anders Lundahl]][[1989|-89]]|bultar=|typ=|text=}}
+
+{{led|nr=13a|namn=Projekt direkt|grad=7-|betyg=|längd=9|fa=[[Johnny Carlén]] [[Per Willén]] [[1993|-93]]|bultar=|typ=|text=}}
+|}
+
+{{sidbrytning}}
+[[Bild:Haggsta_sjosidan_h.png|600px]]
+
+{|
+|- valign="top"
+| width=250px |
+{{litentext|text=Ovanför grottan ligger en stor hylla omgärdad av väggar.}}
+
+{{led|nr=14|namn=Freds travers|grad=4+|betyg=|längd=15|fa=[[Fred Waldvogel]], [[Sune Olsäter]], [[Sven Wicklund]][[1950|-50]]|bultar=|typ=|text=}}
+
+{{led|nr=14a|namn=Bodils utsteg|grad=4-|betyg=|längd=10|fa=[[Bodil Eriksson]], [[Carl-Axel Bladsjö]][[1969|-69]]|bultar=|typ=|text=}}
+
+{{led|nr=15|namn=Dulfersprickan|grad=4-|betyg=|längd=6|fa=|bultar=|typ=|text=}}
+
+{{led|nr=16|namn=Dukat|grad=5+|betyg=|längd=8|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|bultar=|typ=|text=}}
+
+{{led|nr=17|namn=Skolkaminen|grad=3+|betyg=|längd=5|fa=|bultar=|typ=|text=}}
+
+{{led|nr=18|namn=Anders travers|grad=5|betyg=|längd=15|fa=[[Anders Lundahl]], [[Stefan Bergström]][[1976|-76]]|bultar=|typ=|text=}}
+
+{{led|nr=19|namn=Ruttenheten|grad=A1|betyg=|längd=13|fa=[[Tomas Carlström]], [[Jack Berg]]|bultar=|typ=aid|text=}}
+{{litentext|text=Från den sluttande hyllan ovanför vattnet startar ett antal korta men ack så tunga turer.}}
+
+{{led|nr=20|namn=Ormens väg på Hälleberget|grad=7-|betyg=|längd=8|fa=[[Eva Selin]], [[Anders Lundahl]][[1991|-91]]|bultar=|typ=|text=}}
+
+| width=250px |
+
+{{led|nr=21|namn=Newtons syntes|grad=6-|betyg=|längd=8|fa=[[Anders Lundahl]], [[Eva Selin]][[1981|-81]]|bultar=|typ=|text=}}
+
+{{led|nr=22|namn=Den onde|grad=7-/7|betyg=|längd=8|fa=[[Thomas Hansson]], [[Gary Hansson]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=23|namn=Den gode|grad=7|betyg=|längd=8|fa=[[Thomas Hansson]], [[Gary Hansson]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=24|namn=Den fule|grad=7-|betyg=|längd=8|fa=[[Thomas Hansson]], [[Gary Hansson]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=25|namn=Luhrad|grad=7/7+|betyg=|längd=8|fa=[[Johan Luhr]],[[Daniel  Bidner]][[1989|-89]]|bultar=|typ=mix|text=}}
+
+{{led|nr=26|namn=Ultra Plus|grad=6+|betyg=|längd=8|fa=[[Anders Lundahl]], [[Eva Selin]][[1982|-82]]|bultar=|typ=|text=}}
+
+{{led|nr=27|namn=Vad pojkar vill ha|grad=7|betyg=|längd=8|fa=[[Daniel Bidner]][[1985|-85]]|bultar=|typ=|text=}}
+
+{{led|nr=28|namn=Skalla en fralla|grad=8-|betyg=|längd=8|fa=[[Thomas Hansson]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=29|namn=Nu kan man räkna till tio på Etruskiska|grad=7-|betyg=|längd=8|fa=[[Jacob Sjöstrand]], [[Daniel Bidner]][[1985|-85]]|bultar=|typ=|text=}}
+
+| width=250px |
+
+{{led|nr=30|namn=Tele töisen tuntun|grad=7-|betyg=|längd=8|fa=[[Johan Luhr]], [[Daniel Bidner]][[1989|-89]]|bultar=|typ=|text=}}
+{{litentext|text=Efter hyllan krymper väggen ytterligare. "Lederna" på denna vägg har mer karaktären av boulderproblem.}}
+
+{{led|nr=31|namn=Jugs|grad=5+|betyg=|längd=5|fa=[[Anders Lundahl]], [[Eva Selin]][[1982|-82]]|bultar=|typ=|text=}}
+
+{{led|nr=32|namn=Hejartaget|grad=5|betyg=|längd=5|fa=FF: [[Anders Lundahl]], [[Lars Lindberg]][[1975|-75]]|bultar=|typ=|text=}}
+
+{{led|nr=33|namn=Alubulten|grad=6/6+|betyg=|längd=5|fa=FF:[[Christer Åstrand]][[1978|-78]]|bultar=|typ=|text=}}
+
+{{led|nr=34|namn=En apelsin med urverk|grad=6|betyg=|längd=5|fa=[[Per Allmqvist]][[1992|-92]]|bultar=|typ=|text=}}
+
+{{led|nr=35|namn=Invasioner|grad=7-|betyg=|längd=5|fa=[[Jacob Sjöstrand]][[1985|-85]]|bultar=|typ=|text=}}
+
+|}
+{{sidbrytning}}
+==Rampväggen==
+[[Bild:Haggsta_1.png|450px]]
+
+
+Första väggpartiet på ”ängssidan” är en kort, men speciellt i sitt mittparti, mycket brant vägg. Längst tv på väggen finns några borrbultade lätta leder som används på en del klätterkurser.
+
+Samtliga leder mellan leden längst till vänster och Bengts bultspricka är utrustade med eget alternativt närliggande topprepsankare. Totalt 8 ankare. Borrbultsankarna med stålringar är placerade -08.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=36|namn=Nian|grad=3+|betyg=|längd=12|fa=|bultar=|typ=trad}}
+
+{{led|nr=37|namn=Gerikomplex|grad=5|betyg=|längd=12|fa=[[Harry Sporrevik]][[1988|-88]]|bultar=|typ=trad}}
+
+{{led|nr=38|namn=Direktrampen|grad=3+|betyg=1|längd=12|fa=|bultar=|typ=trad|text=Första erfarenheten av att leda på kil för många. En trevlig erfarenhet, dessutom. Direktrampen är nog kanske lite lättare än vad graden anger, om man jämför med t ex Sjuan (3) på just Häggsta. Rampväggen topprepas ofta, och ett smidigt sätt är att leda uppför Direktrampen, och med ett topprep placerat i ankaret ovanför denna, kan Direktrampen, Rampen och Superrampen toppas. I början av leden, strax nedan mitten, finns en pitong, men det finns även relativt gott om tillfredsställande kilplaceringar. Medtag gärna långa slingor (ca 3 m från ankare till väggens kant.)}}
+
+{{led|nr=39|namn=Superrampen|grad=5|betyg=|längd=12|fa=[[Tomas Carlström]], [[Lars Ceder]][[1964|-64]]|bultar=|typ=trad|text=Leden ska kunna säkras med småkilar, men risken är stor att alla kilarna hänger kvar i selen, när man toppar ut... Väggklättring på små grepp och steg. För att leden ska hålla graden gäller att man håller sig borta från Direktrampen, vilket gör att ett par lite balansiga flytt krävs. }}
+
+{{led|nr=40|namn=Rampfebern|grad=6+|betyg=|längd=12|fa=[[Hans Hellström]], [[Tomas Carlström]][[1966|-66]] FF: [[Anders Lundahl]], [[Eva Selin]][[1978|-78]]|bultar=|typ=trad|text=En kort och intensiv andra halva av leden gör att den håller graden. Den andra halvan är inte trivial att säkra, även om det går att hitta placeringar.}}
+
+| width="250px" |
+
+{{led|nr=41|namn=Gå på moln|grad=8/8+|betyg=1|längd=12|fa=[[Anders Lundahl]][[1989|-89]]|bultar=4|typ=sport}}
+
+{{led|nr=41a|namn=Okänd|grad=?|betyg=|längd=12|fa=[[?]][[20??|-??]]|bultar=3|typ=sport|text=Okänd led på väggen mellan Gå på moln och Bengts bultspricka. Nån som har info?}}
+
+{{led|nr=42|namn=Rampen|grad=4|betyg=2|längd=15|fa=|bultar=|typ=trad|text=Den enda leden på rampväggen som går åt motsatt håll, dvs åt vänster. En ganska traverserande led, som följer en tydlig ramp. Insteget kan göras från rampens start i princip vid marken, eller så kan man gå mer direkt i lite grova steg någon enstaka meter från rampens börja. Ytterligare ett alternativ är att kliva in i Rampen via Rampfeber, som inte har sin hårda del förrän på andra sidan Rampen. Ett naturligt sätt att göra Rampen på är nog att snarare hangla på den flakkant som i princip utgör själva rampen, och gå med fötterna på en parallell list nedan. I något parti kan det nog även fungera att ha förtterna i själva rampen.}}
+
+{{led|nr=43|namn=Bengts bultspricka|grad=7|betyg=2|längd=11|fa=[[Bengt hansson]], [[Tomas Carlström]][[1962|-62]] FF: [[Jan Liliemark]][[1978|-78]]|bultar=|typ=trad|text=Sveriges första 7:a.}}
+
+{{led|nr=44|namn=Snoopys crack|grad=7+|betyg=1|längd=11|fa=[[Jan Nyström]][[1972|-72]] FF: [[Anders Lundahl]][[1982|-82]]|bultar=2|typ=sport}}
+
+{{led|nr=45|namn=Tio små negerfingrar|grad=8+|betyg=1|längd=10|fa=[[Thomas Hansson]], [[Johan Luhr]][[1982|-89]]|bultar=2|typ=sport|text=Ultrahård smågreppsklättring. Troligtvis inte repeterad sedan första bestigningen. Borrbulten borde bytas, kanske också pitongerna. Jag tror att Dave MacLeod gjorde den första dagen när han var här och undervisade lite, men någon som var där får rätta mig/texten om jag har fel.}}
+
+| width="250px" |
+
+{{led|nr=46|namn=Superhooket Kurt|grad=7+|betyg=|längd=7|fa=[[Anders Lundahl]][[1978|-78]] FF: [[Rick McGregor]][[1982|-82]] (solo) |text=Topprep, solo eller väldigt högt boulderproblem?}}
+
+{{led|nr=47|namn=Egotripp|grad=7|betyg=|längd=7|fa=[[Anders Lundahl]][[1981|-81]] (solo) |bultar=|typ=trad|text=Topprep, solo eller väldigt högt boulderproblem?}}
+
+{{led|nr=48|namn=Bullen|grad=5|betyg=1|längd=8|fa=[[Bengt Hansson]], [[Tomas Carlström]][[1962|-62]] FF: [[Jack Berg]][[1967|-67]]|bultar=|typ=trad}}
+{{litentext|text=Strax till höger om Bullen har en obetydlig led gjorts, Kakan. I den stora rännan går en upp- och nedstigningsled:}}
+{{led|namn=Köksleden|grad=2|text=Se upp med småstenarna ovanför nedre rännan.}}
+|}
+
+{{sidbrytning}}
+
+== Trean-väggen ==
+<div style="float:left">[[Bild:Haggsta_2.png|450px]]</div>
+<div style="float:left">
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=49a|namn=De vises sten|grad=6-|betyg=|längd=10|fa=[[Buster Delin]], [[Per Calleberg]][[2008|-08]]|bultar=5|typ=sport|text=Ej med på skiss. Startar nedanför det stora blocket mitt på Köksleden och följer en linje i högerkanten av den vertikala väggen runt hörnet och till vänster om Bilbos arête. Ganska ihållande klättring, avslutas med en lätt dragning åt vänster, upp till ankaret på Bilbos arête. Välsäkrad med fem borrbultar och, om man så vill, med en gammal bult på Frodos Hörn som leden korsar.}}
+
+{{led|nr=49|namn=Bilbos arête|grad=5/5-|betyg=1|längd=20|fa=[[Buster Delin]], [[Mia Persson]][[1988|-88]]|bultar=2|typ=mix|text=Starten säkras med en kil eller två, sedan är det "välbultat". Trevlig led som dessutom går att toppa om du tar med ett statiskt rep.}}
+
+{{led|nr=50|namn=Gollums platta|grad=5-|betyg=|längd=20|fa=[[Anders Lundahl]][[1975|-75]]|bultar=|typ=trad}}
+
+{{led|nr=51|namn=Frodos hörn|grad=4|betyg=|längd=8|fa=|bultar=|typ=trad}}
+
+{{led|nr=52|namn=Gillis platta|grad=4+|betyg=|längd=24|fa=[[Gillis Billing]][[1940?|-40?]]|bultar=|typ=trad}}
+
+{{led|nr=52a|namn=Gillis insteg|grad=5+|betyg=|längd=7|fa=|bultar=|typ=trad}}
+
+{{led|nr=53|namn=Lösa block, direkt|grad=6-|betyg=|längd=15|fa=[[Buster Delin]], [[Peter Brolin]][[1990|-90]]|bultar=5|typ=mix|text=Insteget brant, och ju mer till vänster, desto hårdare. Lätt klättring över plattan till det jobbigare men välsäkrade utsteget.}}
+
+{{led|nr=54|namn=Tvåan|grad=3+|betyg=|längd=13|fa=[[Emmerich Rossipal]][[1934|- 34]]|bultar=|typ=trad}}
+
+{{led|nr=55|namn=Kosmisk assymetri|grad=6+|betyg=|längd=8|fa=[[Anders Lundahl]][[1981|-81]]|bultar=1|typ=mix}}
+
+|}
+</div>
+<div style="float:left">
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=56|namn=Fyran|grad=4+|betyg=2|längd=40|fa=|bultar=|typ=trad|text=Lång och fin led "mitt på Häggsta". Insteget går över en svarygg (lätt men sparsamt säkrad), men det är vanligare att starta med insteget till Gillis platta, traversera en aning höger över Gandalfs felsteg, för att fortsätta över slutet av svaryggen till korsningen av Trean. Därefter en mantling som kan vara ledens krux (bult), och vidare över lätt men exponerat parti till stand. Standplatsen beskrivs i äldre förare som bultad, men saknar ankare. Strax ovan t v om standplatshyllan, finns en exponerad men rymlig hylla, vid den finns tre pitonger, men i den naturliga standplats som ligger på själva leden, finns goda möjligheter att bygga stand; gå gärna upp ett steg (1,5 m?) om det till en början verkar ont om bra sprickor. Andra replängden är kort, men brantare, genom nåt som kan beskrivas som en off-width. Denna utstegsspricka har dock gott om grepp och steg och är välsäkrad. (Det är svårt att göra leden i en replängd p g a repdrag för den som inte varit mycket sparsam med säkringarna. Lite längre slingor ''måste'' användas på ev säkringar på Gillis platta samt på den hylla med pitonger som följer efter att Trean korsats!) En eller två kamsäkringar av lite halvstor modell kan vara bra att ha.}}
+
+{{led|nr=56a|namn=Prövostenen|grad=5+|betyg=|längd=13|fa=[[Hans Hellström]][[1966|-66]]|bultar=|typ=trad}}
+
+{{led|nr=57|namn=Trean|grad=4|betyg=1|längd=35|fa=[[Gillis Billing]][[1938|-38]]|bultar=|typ=trad|text=Första replängden startar nära insteget för {{ledlänk|namn=Det vilda i min bur}}, följer den tydliga rampen snett uppåt till vänster. Den som inte vill sola rampen, har stor glädje av små kamkilar - eller mer eftertänksamma kilplaceringar. Pitong på det flacka svaet nån meter efter insteget. }}
+
+| width="250px" |
+{{litentext|text='''Trean, forts...''' Efter rampen upp på en sluttande hylla, därefter nån meter uppåt höger till bekväm standplatshylla (med ring) innan den lite mer prövande andra replängden. Andra replängden följer den tydliga diedern något till vänster om stand. Aningen svårsäkrat i början av replängden, för den troende finns dock en tunn bladbult under ett litet tak t h om diedern.}}
+{{led|nr=57a|namn=Varappe|grad=4|betyg=|längd=6|fa=|bultar=|typ=trad}}
+
+{{led|nr=57b|namn=Lösa block|grad=4+|betyg=|längd=8|fa=|bultar=|typ=trad}}
+
+{{led|nr=57c|namn=Kvällsarêten|grad=6|betyg=|längd=10|fa=[[Mikael Wegrelius]][[1984|-84]]|bultar=3|typ=mix}}
+
+{{led|nr=57d|namn=Supermoderaten|grad=6+|betyg=|längd=13|fa=[[Eva Selin]], [[Anders Lundahl]][[1982|-82]]|bultar=|typ=trad}}
+
+{{led|nr=57e|namn=Vänsterns väg|grad=6|betyg=1|längd=10|fa=[[Hans Hellström]], [[Erik Holmgren]][[1967|-67]]|bultar=|typ=mix}}
+
+{{led|nr=57f|namn=Treochenhalvan|grad=4+|betyg=1|längd=13|fa=|bultar=|typ=trad}}
+
+{{led|nr=57g|namn=Tors travers|grad=5|betyg=|längd=22|fa=[[Thor Kleppen]], [[Jack Berg]][[1965|-65]]|bultar=|typ=trad}}
+
+{{led|nr=57h|namn=Apans utsöndringar|grad=7-|betyg=|längd=13|fa=[[Daniel Bidner]], [[Claes Jelinek]][[1986|-86]]|bultar=|typ=trad}}
+{{litentext|text=På den svagt överhängande väggen ovanför Treans ramp finns flera korta leder och några långa.}}
+
+{{led|nr=58|namn=Fyrsprickan|grad=6|betyg=1|längd=8|fa=[[Olle Håkansson]], [[Sven Wicklund]][[1950|-50]] FF: [[Jan Liljemark]][[1977|-77]]|bultar=|typ=trad}}
+
+| width="250px" |
+
+{{led|nr=59|namn=Häxrisset|grad=6+|betyg=|längd=8|fa=[[Anders Lundahl]][[1979|-79]]|bultar=|typ=trad}}
+
+{{led|nr=60|namn=Déjà vue|grad=7|betyg=|längd=9|fa=[[Anders Lundahl]], [[Eva Selin]][[1984|-84]]|bultar=|typ=trad}}
+
+{{led|nr=61|namn=Månskensleden|grad=6+|betyg=|längd=30|fa=[[Choe Brooks]], [[Jan Liljemark]][[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=62|namn=Det vilda i min bur|grad=6-|betyg=1|längd=30|fa=[[Anders Lundahl]], [[Eva Selin]][[1989|-89]]|bultar=5|typ=sport|text=Kruxet har bjudit på många luftfärder, men fallen blir rena och odramatiska. Övre delen är glesare bultad. 2011 kompletterades med några bultar varför leden nu kan betraktas som helbultad. Svaet ovan kruxet aningen glest bultat.}}
+{{litentext|text=Följande två leder är från början artificiella insteg till Femman men har i kraft av sin svårighetsgrad fått status av egna leder med egna namn.}}
+
+{{led|nr=63|namn=Russels paradox|grad=7-|betyg=1|längd=8|fa=[[Anders Lundahl]][[1979|-79]]|bultar=|typ=trad}}
+
+{{led|nr=63a|namn=Kapten Järnfinger|grad=6|betyg=|längd=6|fa=[[Christer Åstrand]][[1978|-78]]|bultar=|typ=trad}}
+
+{{led|nr=64|namn=Femman|grad=5|betyg=1|längd=30|fa=40-talet?|bultar=|typ=trad}}
+
+{{led|nr=65|namn=Sexans kamin|grad=5|betyg=1|längd=20|fa=|bultar=|typ=trad}}
+
+{{led|nr=65a|namn=Sexan|grad=4-|betyg=-1|längd=20|fa=Okänd [[1938|-38]]?|bultar=|typ=trad}}
+|}
+</div>
+<div style="clear: both"></div>
+{{sidbrytning}}
+
+== Franska Väggen ==
+[[Bild:Haggsta_3.png|400px]]
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=66|namn=Franska leden|grad=7-|betyg=|längd=22|fa=[[Birger Hall]], [[Sven sköld]][[1960|-60]]. FF:[[Rick McGregor]][[1979|-79]]|bultar=|typ=|text=}}
+
+{{led|nr=66a|namn=Franska leden orginal|grad=7|betyg=|längd=22|fa=[[Anders Lundahl]][[1982|-82]]|bultar=|typ=|text=}}
+
+{{led|nr=66b|namn=He-man|grad=7+|betyg=|längd=22|fa= [[Johan Luhr]][[1988|-88]]|bultar=6|typ=mix|text=På slutväggen kan man använda sista bulten på Dalarambo/Nosferatu alternativt lägga någon kil eller en liten friend.}}
+
+{{led|nr=67|namn=Helmuts Travers|grad=6-|betyg=|längd=20|fa=[[Helmut Wopfner]][[1949|-49]]|bultar=|typ=|text=}}
+
+{{led|nr=68|namn=Nosferatu åt vänster|grad=8-/8|betyg=|längd=|fa=[[Per-Olof Lidström]][[1980|-80]]. FF:[[Johan Luhr]][[1991|-91]]|bultar=|typ=|text=}}
+
+| width="250px" |
+
+{{led|nr=69|namn=Dracula|grad=7+|betyg=|längd=22|fa=[[Jan Nyström]]. FF: [[Anders Lundahl]][[1983|-83]]|bultar=|typ=|text=}}
+
+{{led|nr=70|namn=Dalarambo|grad=8|betyg=|längd=25|fa= [[Johan Luhr]], [[Mårten Dahlström]], [[Patrik Anderssson]][[1990|-90]]|bultar=7|typ=sport|text=Bultlinje genom taket till vänster om Dracula}}
+
+{{led|nr=71|namn=Lien|grad=7+|betyg=|längd=8|fa=FF: [[Anders Lundahl]][[1982|-82]]|bultar=|typ=|text=}}
+
+{{led|nr=72|namn=Umeåleden|grad=6+/7-|betyg=|längd=20|fa=[[Lars-Göran Johansson]], [[Ulla Bjernehed]][[1967|-67]]. FF: [[Choe Brooks]], [[Jan Liljemark]][[1980|-80]] (övre). [[Anders Lundahl]][[1981|-81]] (undre)|bultar=|typ=|text=}}
+
+| width="250px" |
+
+{{led|nr=72a|namn=Testikelafton|grad=7-|betyg=|längd=15|fa=[[Claes Jelinek]], [[Johan Luhr]][[1988|-88]]|bultar=|typ=|text=}}
+
+{{led|nr=72b|namn=Schweizerführe|grad=6|betyg=|längd=9|fa=[[Ernst Glaus]], [[Emil Schar]][[1964|-64]]|bultar=|typ=|text=}}
+
+{{led|nr=72c|namn=Dennis|grad=8-|betyg=|längd=9|fa=[[Johan Luhr]], [[Anders Lindfors]][[1993|-93]]|bultar=|typ=|text=}}
+
+{{led|nr=73|namn=Bengts gräns|grad=5+|betyg=|längd=7|fa=[[Bengt Hansson]][[1965|-65]]|bultar=|typ=|text=}}
+|}
+{{sidbrytning}}
+
+==Direttissimaväggen==
+[[Bild:Haggsta_4.png|400px]]
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=74|namn=Tunn springa av ljus|grad=6-|betyg=|längd=9|fa=[[Christer Astrand]], [[Alve Henriksson]], [[Anders Lundahl]][[1978|-78]]|bultar=|typ=|text=Inga sakringar}}
+
+{{led|nr=75|namn=Direttissiman|grad=5-|betyg=3|längd=35|fa=|bultar=|typ=mix}}{{litentext|text=Klassiker. Starta på vänsterkanten av svaformationen. Gå rakt upp till en slagen v-bult, traversera höger mot det lilla taket, följ takkanten/sprickan t v mot grund dieder, följ grunda diedern rakt upp. Stand skymtas m stor ringbult ovan diedern. Från stand finns fler vägar, men originalleden går ganska rakt upp bakom stand. Säkringsbeta finns om du klickar på rubriken.}}
+
+{{led|nr=75a|namn=Tors platta|grad=4+|betyg=2|längd=20|fa=[[Thor Kleppen]], [[P-O Mårtensson]] [[1962|-62]]|bultar=|typ=mix}}
+
+{{led|nr=76|namn=Solskensleden|grad=5|betyg=|längd=40|fa=[[Jack Berg]] [[1964|-64]]|bultar=|typ=trad}}
+
+{{led|nr=76a|namn=PO:s tak|grad=6-|betyg=|längd=4|fa=[[Per-Olof Bergström]] [[1977|-77]]|bultar=|typ=trad}}
+
+{{led|nr=76b|namn=Ernsts travers|grad=5+|betyg=|längd=8|fa=[[Ernst Glaus]], [[Emil Schär]] [[1964|-64]]|bultar=|typ=trad}}
+
+{{led|nr=76c|namn=Direkta solskensleden|grad=6-|betyg=|längd=8|fa=[[Håkan Bjerneld]], [[Torbjörn Berg]] [1968|-68]] FF:[[Jan Liliemark]], [[Anders Lundahl]] [[1977|-77]]|bultar=|typ=trad}}
+
+{{led|nr=76d|namn=Psykotisk orgasm|grad=7-|betyg=1|längd=10|fa=[[Ståle Ekelund]], [[Claes Jelinek]] [[1990|-90]]|bultar=|typ=trad}}
+
+{{led|nr=77|namn=Superdirettissiman|grad=6|betyg=|längd=35|fa=[[Jürgen Rauscher]], [[Bengt Hansson]] [[1963|-63]]|bultar=|typ=trad}}
+{{litentext|text=Under och runt Superdirettissiman finns några fina boulderproblem. '''Hangeltraversen (Tomas Carlström -63)''', är Häggstas absolut populäraste boulderproblem. Tappar ett grep om året och blir stadigt svårare. Startar vid Jacks insteg och traverserar hela vägen förbi Ekledens insteg.}}
+
+| width="250px" |
+{{litentext|text=Över och under (!) Hangeltraversen finns en del problem, t ex '''Smygtraversen (Jim Wasmuth -82?)''', som använder grepp under Hangeltraversen. '''Lasses insteg (Lasse Grankvist -85)''', är ett desperat topprepsproblem som bouldrar upp tv om Superdirettissiman. '''No pro (Patrik Alseby -94)''' går 2m tv om Lasses insteg. '''Superdåren (Torbjörn Berg -73)''' ligger th om Superdirettissiman. Kort, febril och om man klättrar vidare, osäkrad.}}
+
+{{led|nr=77a|namn=Jacks insteg|grad=6-|betyg=|längd=6|fa=[[Jack Berg]] [[1965|-65]]|bultar=|typ=trad}}
+
+{{led|nr=77b|namn=Tycka list e trist|grad=8-|betyg=|längd=6|fa=[[Johan Luhr]] [[1990|-90]]|bultar=2|typ=sport}}
+
+{{led|nr=78|namn=Ekleden|grad=3+|betyg=|längd=38|fa=|bultar=|typ=mix|text=Ytterligare en Häggstaled som passar den som börjar leda trad. Gör den då, för sen känns den för lätt (och det är ju synd). Det är gott om bladbultar på vägen, standplats på mitten och ringbult vid utsteget. Hög "gammal alpinist"-faktor: gör i storskor, pösiga byxor och med hamparep för maximal effekt. Skänk dock de gamla slagna bultarna (bara) det förtroende de förtjänar. Bygg hellre standplatsen något åt sidan där det finns bra sprickor istället för att lita på ringbultarna. Den gamla v-bulten i början av slutdiedret är nu ersatt av syrafast bult, den gamla bulten hade rostat av på halva längden, när den enkelt knackades loss.}}
+{{litentext|text=Ovanför Ekleden finns två klassiska problem. På den vänstra väggen går '''1.80-metersväggen''' och på den högra går '''Gymnastikblocket'''. På Gymnastikblocket är poängen att man inte får använda sidorna av blocket.}}
+
+| width="250px" |
+{{led|nr=78a|namn=Logikos finish|grad=5|betyg=|längd=10|fa=[[Anders Lundahl]], [[Lars Svadängs]] [1977|-77]]|bultar=|typ=trad}}
+
+{{led|nr=78b|namn=Gubben på månen|grad=5|betyg=|längd=6|fa=[[Jurij Radon]] [[1981|-81]]|bultar=|typ=trad}}
+
+{{led|nr=79|namn=Blåsippan|grad=3-|betyg=|längd=30|fa=|bultar=|typ=trad}}
+{{litentext|text=Th om insteget på Blåsippan finns två korta och sällan repeterade dieder.}}
+
+{{led|nr=79a|namn=Moss diedre|grad=3|betyg=|längd=10|fa=[[Anders Lundahl]][[1975|-75]]|bultar=|typ=trad}}
+
+{{led|nr=79b|namn=Clean corner|grad=5+|betyg=|längd=10|fa=[[Anders Lundahl]] [[1978|-78]]|bultar=|typ=mix}}
+
+{{led|nr=80|namn=Halvmånen|grad=6-|betyg=1|längd=7|fa=[[Birger Hall]], [[Sven Sköld]] [[1964|-64]] FF:[[Hans Hellström]] [[1966|-66]]|bultar=|typ=trad}}
+{{litentext|text=I hörnet går en kaminliknande ränna, '''Blockrännan, 3'''. Inget vackert eller positivt kan sägas om denna ränna som dessutom är lös.}}
+
+|}
+{{sidbrytning}}
+
+==Omöjliga väggen-väggen==
+[[Bild:Haggsta_5.png|500px]]
+{|
+|- valign="top"
+| width="250px" |
+{{litentext|text=Längst upp tv, genom det lilla taket ovanför Blockrännan, går '''Bland alver och troll, 6+''', Mikael Wegrelius. Säkras med två bb. En obetydlighet.}}
+
+{{led|nr=81|namn=Oroliga väggen|grad=7|fa=[[Anders Lundahl]], [[Lars Svadängs]][[1979|-79]]}}
+
+{{led|nr=82|namn=Omöjliga väggen|grad=6|betyg=3|längd=20|typ=trad|fa=[[Tomas Carlström]], [[Ralph Höibakk]][[1965|-65]]|bultar=|typ=trad|text=Häggstas superklassiker! Normsexa sedan länge. Lite svårsäkrad. Tidigare har leden haft bladbultar men sedan aug-07 är de flesta av dessa bortplockade och leden ledd helt på egna säkringar. Leden kan behöva torka ordentligt efter regn. Det har sagts att man skall undvika att kalla sig sexaklättrare innan man lett denna led! Leden startar mitt på väggen, går först lite höger, sedan snett åt vänster och så snett höger igen upp till nischen. Ledens krux är att komma ur nischen och fortsätta rakt upp längs sprickan. "Välsäkrat" och tungt. Fira av från ett ankare. Möjligt att fortsätta hela vägen upp, men det är enkel och tråkig klättring.   }}
+
+{{led|nr=82a|namn=Hasses utsteg|grad=6-|betyg=|längd=15|fa=[[Hans Steyskal]], [[Tomas Carlström]][[1963|-63]]|bultar=|typ=|text=}}
+
+{{led|nr=82b|namn=Tveksamheten|grad=5|betyg=|längd=10|fa=[[Jürgen Rauscher]], [[Tomas Carlström]], [[Bengt Hansson]][[1962|-62]]|bultar=|typ=|text=}}
+
+{{led|nr=82c|namn=Tomas travers|grad=6+|betyg=|längd=20|fa=[[Tomas Carlstrom]],[[P-O Martensson]][[1962|-62]]. FF: [[Olof Ogren]][[1974|-74]]|bultar=|typ=|text=}}
+
+| width="250px" |
+
+{{led|nr=82d|namn=Stålfarfar|grad=6-|betyg=|längd=20|fa=[[Stale Ekelund]], [[Torbjörn Berg]][[1994|-94]]|bultar=|typ=|text=}}
+
+{{led|nr=83|namn=Änglamark|grad=7|betyg=|längd=33|fa=[[Rikard Hedman]],  [[Claes Jelinek]] (Ovre)[[1984|-84]]. [[Birger Hedlund]], [[Rikard Hedman]] (Nedre) [[1984|-84]]|bultar=|typ=|text=}}
+
+{{led|nr=83a|namn=Bongo-Kongo|grad=7+|betyg=|längd=15|fa=[[Marten Dahlstrom]][[1987|-87]]|bultar=|typ=|text=}}
+
+{{led|nr=83b|namn=Direktvariant till Bongo-Kongo|grad=7+|betyg=|längd=9|fa=[[Johan Luhr]][[1990|-90]]|bultar=|typ=|text=}}
+
+{{led|nr=84|namn=Otroliga väggen|grad=7-|betyg=|längd=33|fa=[[Lars Grankvist]][[1981|-81]]|bultar=|typ=|text=}}
+
+{{led|nr=85|namn=Topptraversen|grad=4+|betyg=|längd=25|fa=[[Hans Steyskal]][[1963|-63]]|bultar=|typ=|text=}}
+
+{{led|nr=86|namn=Pierres Travers|grad=5-|betyg=|längd=25|fa=[[Pierre Fellman]][[1965|-65]]|bultar=|typ=|text= Första vertikala delen bra säkrad, sen finns ingenting på tio meter innan det börjar gå uppåt igen. De pitonger som suttit sedan leden gjordes har plockats bort.}}
+
+{{led|nr=86a|namn=Direkta Pierre|grad=5+|betyg=|längd=20|fa=[[Jürgen Rauscher]], [[Hans Steyskal]][[1964|-64]]|bultar=|typ=|text=}}
+
+{{led|namn=Följ ditt samvete|grad=6+|betyg=|längd=20|fa=[[Stefan Kalén]][[2012|-12]]||bultar=4|typ=mix|text=Start 3 m till höger om Direkta Pierre. Första halvan går i rak linje, sedan svag dragning till höger.}}
+
+{{led|nr=86b|namn=Pierrvers|grad=6|betyg=|längd=20|fa=[[Rikard Hedman]], [[Birger Hedlund]][[1985|-85]]|bultar=|typ=|text=}}
+
+{{led|nr=86c|namn=Rokoko|grad=6|betyg=|längd=8|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|bultar=|typ=|text=}}
+
+| width="250px" |
+
+{{led|nr=86d|namn=Superpierre|grad=6|betyg=|längd=5|fa=[[Anders Lundahl]], [[Eva Selin]][[1979|-79]]|bultar=|typ=|text=}}
+
+{{led|nr=87|namn=Fåfängligheten|grad=6+|betyg=1|längd=20||bultar=|typ=trad|text=Ett härligt motsträvigt krux som säkras med en eller två halvstora kamsäkringar. Mellanpartiet (5-) kan upplevas som lite seriöst eftersom den är säkrad av en gammal bladbult som är islagen snett underifrån. Det är dock lätt att fira ned från ett ankare på toppen för att nå och sätta upp topprep på de två gedigna borrbultsankare som finns ovanför denna led och Omöjligaväggen. En jug har lossnat (2013) efter diedret vilket piffar upp avslutningen en smula.}}
+
+{{led|nr=87a|namn=HETS|grad=7?|betyg=|längd=20|fa=[[Rikard Hedman]], [[Birger Hedlund]][[1985|-85]]|bultar=|typ=|text=Har blivit svårare (var 7- från början) sedan ett nyckelgrepp försvann och mer seriös då bladbulten som säkrade kruxet också försvann. Den nya sekvensen håller sig lite mer till höger och det går att använda bultarna och kompletterande kilar på Fåfängligheten. En testpiece.}}
+
+{{led|nr=87b|namn=Fåfängans marknad|grad=6+|betyg=|längd=8|fa=[[Mikael Wegrelius]], [[Kjell Carlsson]][[1985|-85]]|bultar=|typ=|text=}}
+
+{{led|nr=87c|namn=Caligula|grad=7-/7|betyg=|längd=10|fa=[[Rikard Hedman]], [[Jan Liljemark]][[1985|-85]]|bultar=|typ=|text=}}
+
+{{led|nr=87d|namn=Direkta Fåfängligheten|grad=6+/7-|betyg=|längd=10|fa=[[Rikard Hedman]], [[Jan Liljemark]][[1985|-85]]|bultar=|typ=|text=}}
+{{litentext|text=Här finns också ett populärt boulderproblem: '''Spagattraversen''', som är den horisontella sprickan under Superpierre. Marknära och trevlig nöt.}}
+|}
+{{sidbrytning}}
+
+==Fyrbultsväggen==
+<div style="float: left">[[Bild:Haggsta_6.png|400px]]</div>
+<div style="float: left">
+{| 
+|- valign="top"
+| width="250px" |
+
+{{led|nr=88|namn=Fyrbulten|grad=4-|betyg=2|längd=35|fa=|bultar=|typ=trad|text=Klassiker, med för sin grad givande klättring. Som synes lite alternativa vägar upp till stand.  Mellanstora kilar eller små kammar kan fungera, men viss försiktighet vid placeringarna - det finns en hel del lösa block i olika storlekar längs leden. Orginalinsteget har en pitong som kan klippas i förbifarten, därefter en travers åt vänster för att komma upp i sprickan på väg till den välordnade standplatsen med ringankare. Lite luftig fortsättning från stand, fortsatt välsäkrat med kilar. Ringbult en bit från utsteget. För nedfärd är det smidigt att fira av från ankaret på Palmsöndagsleden.''Standplatsen har nu en modern expanderbult som back-upp till den gamla jätteringbulten. Ett hål har funnits sedan många år, och nu sitter det en bult i det hålet.''}}
+
+{{led|nr=88a|namn=Direkta fyrbulten|grad=4|betyg=|längd=6|fa=|bultar=1|typ=trad|text=Brantare (finare?) och rakare start på Fyrbulten. Lite svårare men mer välsäkrad. Bb vid "kruxet". Kan göras som en replängd om man fortsätter rakt uppåt istället för att vika höger mot standplats.}}
+
+{{led|nr=88b|namn=Direktbulten|grad=5+|betyg=|längd=12|fa=[[Eva Selin]][[1981|-81]]|bultar=|typ=trad|text=Klättra originalinsteget på fyrbulten (nr 3 i skissen) men traversera inte ut åt vänster utan gå snett uppåt åt höger in på Palmsöndagsleden. Osäkrad?}}
+
+{{led|nr=88c|namn=Rosentraversen|grad=4-|betyg=|längd=12|fa=[[Pinchas Moses]], [[Tomas Carlström]][[1963|-63]]|bultar=|typ=trad|text=Travers från orginalinsteget på Fyrbulten till ringbulten mitt på Sjuan.}}
+
+|}
+</div>
+<div style="float: left">
+{| style="float:left"
+|- valign="top"
+| width="250px" |
+
+{{led|nr=89|namn=Palmsöndagsleden|grad=5-|betyg=|längd=32|fa=[[Jürgen Rauscher]], [[Bengt Hansson]][[1962|-62]]|bultar=|typ=trad|text=Ordentligt firningsankare - två bultar med kätting och en extra kembult. Första halvan är lite svårsäkrad, på andra halvan ska du helt enkelt låta bli att falla.}}
+
+{{led|nr=89a|namn=Direkta palmsöndagsleden|grad=5|betyg=1|längd=32|fa=[[Ernst Glaus]], [[Emil Schär]][[1964|-64]]|bultar=|typ=mix|text=Ta med gott om kurage till den här: fall i den sparsamt säkrade starten eller ovanför den sista hyllan rekommenderas inte.}}
+
+{{led|nr=89b|namn=Termos|grad=5-|betyg=0|längd=8|typ=mix|text=Några meter till höger om Palmsöndagens originalutsteg ger två bultar och en kil en säkrad variant uppför toppväggen. (Ej inritad)}}
+
+| width="250px" |
+
+{{led|nr=90|namn=Sjuan|grad=3|betyg=2|längd=25|fa=[[Gillis Billing]][[1936|-36]]|bultar=|typ=trad|text=Perfekt för den ovane. Välsäkrad, välordnat stand med dubbla ringankare. Men luftig och lite brant mot slutet, vilket gör det till en upplevelse för den som är i början av sin utomhuskarriär, och även en trevlig tur för den lite mer rutinerade. Startar i hörnet mellan Fyrbultsväggen och Långfredagsväggen och går tämligen rakt upp i denna dieder. Klättra gärna första replängden i sprickan/ -or ca 2 m till v om själva innerhörnet. Brantare, men lätt och bättre säkringsmöjligheter än längst in i hörnet. För nedfärd är det smidigt att fira av från ankaret på Palmsöndagsleden.}}
+
+| width="250px" |
+
+{{led|nr=90a|namn=Splasch!|grad=5+|betyg=|längd=15|fa=[[Göran Sahlin]][[1986|-86]]|bultar=3|typ=mix|text=Från ringbulten på Sjuan, klättra upp i högra delen av väggen mellan Palmsöndagsleden och Sjuan. Nya bultar 2010.}}
+
+{{led|nr=90b|namn=Sjuochenhalvan|grad=3+|betyg=2|längd=55|fa=|bultar=|typ=trad|text=Första replängden gemensam med ''Sjuan'', men den andra traverserar ut på en balkong på Långfredagsväggen. Mycket luftigt utsteg, med sista säkring i ringankare på balkongen. Bleka klättrare har även setts fira av från balkongen.}}
+|}
+</div>
+
+<div style="clear: both"></div>
+{{sidbrytning}}
+
+==Långfredagsväggen==
+[[Bild:Firning_Langfredagsvaggen.jpg|frame|right|Firning från balkongen på Långfredagsväggen. Foto: [[Användare:Peblin|Per Lindh]]]][[Bild:Haggsta_7.png|450px]]
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=90b|namn=Sjuochenhalvan|grad=3+|längd=15}}
+
+{{led|nr=90c|namn=Vinledstraversen|grad=3+|längd=15}}
+
+{{led|nr=91|namn=Svärje, Svärje|grad=7-|längd=15|fa=[[Daniel Bidner]] [[1985|-85]]}}
+
+{{led|nr=92|namn=Doppelmayr|grad=6+|längd=15|fa=[[Claes Jelinek]], [[Ståle Ekelund]] [[1992|-92]]}}
+
+{{led|nr=92a|namn=Golgata|grad=6+|längd= 8|fa=[[Jan Liliemark]], [[Anders Lundahl]], [[Lars Möller]] [[1980|-80]]}}
+
+{{led|nr=92b|namn=Nu får det vara nog|grad=7|längd=10|fa=[[Johan Luhr]], [[Rikard Hedman]], [[Daniel Bidner]] [[1989|-89]]}}
+
+{{led|nr=92c|namn=Än kan gubben|grad=8|längd=~6|fa=[[Johan Luhr]], [[Patrik Andersson]] [[1992|-92]]}}
+
+{{led|nr=93|namn=Långfredagsleden|grad=6-|betyg=1|längd=30|fa=[[Jürgen Rauscher]], [[Bengt Hansson]] [[1962|-62]]. FF: [[Hans Hellström]] [[1966|-66]]|bultar=|typ=trad|text=Fin led som följer det blockiga "dietret" på balkongens vänstra sida. På leden finns två rostiga pitonger från hedenhös av mycket, mycket tveksam hållfasthet. En hel del halvlösa block ger krydda åt dina friendplaceringar.}}
+
+{{led|nr=93a|namn=Banana split|grad=6-|betyg=|längd=8|fa=[[Jan Nyström]][[1972|-72]]. FF: [[Anders Lundahl]][[1983|-83]]|bultar=|typ=|text=}}
+
+| width="250px" |
+
+{{led|nr=93b|namn=Steilhang|grad=7/7+|betyg=|längd=7|fa=[[Claes Jelinek]], [[Stale Ekelund]][[1992|-92]]|bultar=3|typ=|text=}}
+
+{{led|nr=93c|namn=Scheisse ins Gesicht|grad=7-|betyg=|längd=7|fa=[[Claes Jelinek]][[1987|-87]]|bultar=1|typ=|text=}}
+
+{{led|nr=93d|namn=Sacramento|grad=6|betyg=|längd=10|fa=[[Torbjörn Berg]][[Håkan Bjerneld]][1972?|-72?]]. FF: [[Jan Liljemark]][[1978|-78]]|bultar=|typ=|text=}}
+
+{{led|nr=94|namn=Vinleden|grad=6+|längd=25|fa=[[Hans Steyskal]], [[Hans Hellström]], [[Olle Håkansson]], [[1967]]. FF: [[Jan Liliemark]], [[1977]]|text=Spännande led med en del bladbultar. Tung avslutning.}}
+
+{{led|nr=|namn=Modiga mindre män|grad=6/6+|betyg=|längd=|fa=[[Eva Selin]][[1981|-81]]|bultar=|typ=|text=En utstegsvariant till vinleden.}}
+
+{{led|nr=94a|namn=Något riktigt alpint|grad=7/7+|längd=10|fa=[[Johan Luhr]] [[1988|-88]]}}
+
+{{led|nr=94b|namn=Munchentraversen|grad=5+|betyg=|längd=15|fa=[[Jürgen Rauscher]], [[Bengt Hansson]], [[Tomas Carlström]][[1962|-62]]. FF: [[Tomas Carlström]], [[Hans Steystal]][[1967|-67]]|bultar=|typ=|text=Klassisk led. Intressant krux.}}
+
+{{led|nr=95|namn=Munchenerplattan|grad=6-|betyg=|längd=|fa=[[Jürgen Rauscher]], [[Tomas Carlström]], [[Pinchas Moses]][[1961|-61]]|bultar=|typ=|text=Luftig och pirrig led.}}
+
+| width="250px" |
+
+{{led|nr=95a|namn=Munchhausens kåtstövlar|grad=7|betyg=|längd=7|fa=[[Claes Jelinek]][[1986|-86]]|bultar=|typ=|text=}}
+
+{{led|nr=96|namn=Fylltraversen|grad=6-|betyg=|längd=8|fa=[[Anders Lundahl]][1974|-74]]. FF:[[Anders Lundahl]][[1978|-78]]|bultar=|typ=|text=}}
+
+{{led|nr=97|namn=Önskeplattan|grad=5+|betyg=|längd=12|fa=[[Hans Steystal]][[1967|-67]]|bultar=|typ=|text=}}
+
+{{led|nr=97a|namn=Dalabrigaden|grad=8-|betyg=|längd=7|fa=[[Johan Luhr]], [[Marten Dahlström]][[1990|-90]]|bultar=2|typ=|text=}}
+
+{{led|nr=97b|namn=Tessils tak|grad=7|betyg=|längd=7|fa=[[Jan Liljemark]],[[Claes Jelinek]][[1983|-83]]|bultar=2|typ=|text=}}
+
+{{led|nr=98|namn=Hahnenkamm|grad=7+/8-|betyg=|längd=|fa=[[CLaes Jelinek]] (undre) [[1993|-93]], [[CLaes Jelinek]], [[Goran Wennerbrandt]] (övre) [[1994|-94]]|bultar=6|typ=mix|text=}}
+
+{{led|nr=99|namn=Utlandsvägen|grad=6+|betyg=|längd=12|fa=[[Jürgen Rauscher]], [[Thor Kleppen]][[1963|-63]]. FF: [[Jan Liljemark]][[1976|-76]]|bultar=|typ=|text=}}
+
+{{led|nr=99a|namn=Superåttan|grad=7-|betyg=|längd=8|fa=[[Lars Grankvist]][[1983|-83]]|bultar=|typ=|text=}}
+
+{{led|nr=100|namn=Åttan|grad=3|betyg=2|längd=35|fa=[[Gillis Billing]] [[1936|-36]]?}}
+{{litentext|text='''Barfotasprickan''', '''Direkta Barfotasprickan''' och '''Right wall''', finner man på svaförbygget under Åttan. Kul, men ack så halt!}}
+|}
+{{led|nr=101|namn=Jubileumsleden|grad=3|betyg=|längd=25|fa=[[Christer Åstrand, Eva Karlsson,Kenth Lindström, Torbjörn Berg, Anders Kamb, Marianne Kamb, Harald Brandt, Mike Crossdal, Kenneth Nolkrantz, Lars Grankvist, Robin Grankvist, Olle Hjort, Anna Lindam, Helena Brogren, Katarina Berg, Johan Winge, Johan Kviberg, Catarina Hedman, Jan Liljemark, Kaj Söderin, Staffan Ericsson, Anna Billman, Mats Holmgren, Carin Malmberg, Kent Andersson, P-O Englund, Stefan Bergström]][[2013|2013]]|trad=2|typ=|text=Ny led till höger om Åttan bra säkrad med kilar och små kammar, förstabestigning av leden gjordes av ett enda replag på 25 personer med en sammanlagd ålder på 1357år!! }}
+
+==Nya väggen==
+Mellan Häggstas stora vägg och kapellet finns ett mindre väggparti. Efter en del arbete -08 finns här nu sex trevliga lätta turer. Eftersom det är ont om bra naturliga säkringspunkter har lederna med visst ekonomiskt bistånd från Bultkommittén försetts med bultar och ankare för att också kunna användas som kurs- och introduktionsleder. Mycket välbultade och lämpliga för den som vill känna på skarpa änden av repet för första gången. Följ stigen som börjar vid Långfredagsväggen och som leder åt höger upp på berget. Vik av efter 50 meter och gå uppför sluttningen mot väggen som skymtar mellan träden. Ta gärna med en stålborste då vissa leder inte är helt renrensade.
+
+Från vänster till höger är lederna:
+
+1. Spider-pig V- 13m.
+Björn Peck, Andreas Bengtsson 2008. 
+Lite småstegsklättring i mittpartiet, sen lättare. 
+
+2.
+Rännan III  13m.
+Björn Peck, Göran Sahlin 2008. 
+Några meters svaklättring och sedan upp genom tydlig ränna. Säkra i ankaret ovanför Spider-pig.
+
+3.
+Vitterheten V-  12m.
+Björn Peck repsolo 2008. 
+Transportklättring till liten vägg som klättras rakt upp med småteknisk och kul undercling. En del flak låter suspekt men är testade.
+
+4.
+Enväggskommunikation IV+  12m.
+Andreas Bengtsson, Björn Peck 2008. 
+Till höger om den lilla enen mitt på väggen. Svaklättring till några sprickor och kort utstegskrux.
+
+5.
+Steinway IV-  20m.
+Björn Peck, Johan Peck 2008. 
+Varierad klättring som tangerar två hyllor. Utsteg på pelarens vänstra sida. 
+
+6.
+Lederhosen III  20m.
+Björn Peck, Johan Peck 2008. 
+Insteg vänster om stor gran. Svaklättring till en kort vägg som klättras intill och höger om bulten. Sen uppför pelaren mot grund ränna och ankare. Genusskletterei!
+
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}

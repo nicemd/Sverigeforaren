@@ -1,0 +1,44 @@
+{{info klippa
+  |lat=57.79375
+  |long=12.0287
+}}
+
+{{isutkast}}
+<googlemap lat="57.79375" lon="12.0287" zoom="9" type="map">
+57.79375,12.0287,Agnesberg
+</googlemap>
+[[Kategori:Göteborg]]
+[[Kategori:Is]]
+
+
+{{utkast}}
+== Allmänt ==
+Ett antal isfall pryder sprängväggarna intill väg 159, i backen upp ifrån väg 40 mot Angered. Inte världens mysigaste miljö, men man står i alla fall skyddad av betongsuggor. Parkera med förstånd i närområdet, självklart inte på motorvägen, duh... '''Se upp för frånvarande brunnslock under snön när du går i diket under väggen'''.
+
+== Karaktär ==
+Ett flertal långa och snudd på vertikala leder. Sällan ledbart men inte ovanligt med topprepsmöjligheter. Lättaste vägen upp görs via en krypramp i högerkant.
+
+==Access==
+Det finns vissa accessproblem i Agnesberg.
+Parkera skall man göra nere vid Steken, finns oftast gott om platser där. Alternativt uppe i Hammarkullen och gå ned.
+Se till att inte röra er på vägen och stanna (eller parkera) ALDRIG bilen längs med Angeredsleden. Polisen brukar få flera samtal varje år från irriterade/oroade bilister.
+
+== Leder ==
+4-5 leder, de flesta ganska branta . En svaig variant i diedret en bit till höger.
+
+{{led|nr=1|namn=Längst till vänster(?)|grad=WI3+ till WI5|betyg=3|längd=30|fa=|typ=is|text=Fin jämn och lång klättring rakt under kraftledningarna. Ofta ganska tunn.}}
+
+== Vackra bilder ==
+Lite bilder så att eventuella spekulanter förstår hur naturskön klippan är. 
+
+
+[[bild:VackraAgnesberg.jpg|thumb|200px|Högsta fallet:]]
+
+
+[[bild:Vackersomendag.jpg|thumb|200px|Högsta fallet:]]
+
+
+[[bild:agnesbergvacker.jpg|thumb|200px|Här lägger du topprepet för det högsta fallet. ]] 
+
+
+[[bild:vackerAgnesberg.jpg|thumb|200px|Kortare fallen.]]

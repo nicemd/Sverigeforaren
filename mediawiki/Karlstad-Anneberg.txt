@@ -1,0 +1,158 @@
+{{info klippa
+  |lat=59.412312
+  |long=13.51151
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+
+{{boulderstub}}
+<!-- {{boulderutkast}} -->
+<!-- {{boulderkomplett}} -->
+
+
+==Allmänt==
+
+Vid nya radhusen Anneberg i stadsdelen Färjestad finns dessa klippor. En handfull olika väggar på ca 3-5 meters höjd. En del spektakulära problem försvarar ett besök. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.412312" lon="13.51151" type="map" zoom="11">
+59.411308, 13.511252, Anneberg
+</googlemap>
+
+</div>
+
+'''från Karlstad centrum'''
+Sväng av E18 mot stadsdelen Rud och Färjestad, följ skyltning mot Färjestad BK's arena Löfbergs Lila Arena. Innan parkeringen till arenan och travbanan, sväng upp höger och du befinner dig strax på radhusidyllen Anneberg. Kör försiktigt och stör inte barnfamiljerna. Parkera på lämpligt ställe. Vändplatsen efter fartguppen är INTE ett lämpligt ställe. Vänd om och gör rätt. Vid vändplanen följ grusvägen längs skogskanten åt höger (mot stan). Kolla efter putsade klippor i skogskanten som uppenbarar sig efter några minuter. 
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Om klättringen + Sektioner==
+[[Bild:annebergleft.jpg|thumb|200px|Vänsterpartiet]]
+[[Bild:anneberg-middleleft.jpg|thumb|200px|Vänster-mitten]]
+[[Bild:anneberg-middle.jpg|thumb|200px|mittenpartiet (taket)]]
+[[Bild:anneberg-middle2.jpg|thumb|200px|mittenpartiet (taket)]]
+[[Bild:anneberg-middleright.jpg|thumb|200px|Mitten-höger]]
+[[Bild:anneberg-middleright2.jpg|thumb|200px|Mitten-höger]]
+[[Bild:anneberg-right.jpg|thumb|200px|Högerpartiet]]
+
+Väggarna delar upp sig på en handfull väggar med lite olika utseende och karaktär. 
+De olika blocken bjuder på många olika sorts problem (till skillnad från närliggande Hästspåret som primärt erbjuder vertikal krimpig klättring). En del spektakulära problem med tak och intressanta bulliga formationer. För taken rekommenderas spotter och mer än en padda. Men vet aldrig var pendeln efter catchen tar dig. 
+
+Här kommer så småningom klättrare från Karlstad Klätterklubb fylla i med FA, namn, grader osv. 
+
+Sektionerna är uppräknade från vänster till höger.  
+
+===Vänsterpartiet===
+
+{|
+|- valign="top"
+| width="350px" |
+
+Vänster kolumn
+
+{{problem | nr=1 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=2 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+| width="350px" |
+
+Höger kolumn. 
+
+{{problem | nr=3 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=4 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+|}
+
+===Vänster-mitten===
+
+Problemen uppräknade från vänster till höger. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=2 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+| width="350px" |
+
+{{problem | nr=3 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=4 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+|}
+
+===Mittenpartiet (taket)===
+
+Utmärker sig då det har ett kraftigt överhäng/tak. 
+
+Problemen uppräknade från vänster till höger. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Born of a broken man | grad=6c+ | typ=överhäng, catch | fa=Jim Gruntman? | landning=4 | fadatum= | sittstart= | sopad= | text=Börjar på tydliga grepp, etablera dig via formation upp till höger i taket och skicka till läppen. Där tar ett något exponerat, hööögt, men relativt snällt utsteg vid. Pallra upp flertalet paddor och ha gärna mer än en spotter, då man sällan vet var man hamnar. Mycket fint problem som påminner starkt om Bas Cuviers Helikoptere för er som provat/gjort den. Topp 5 i Karlstad! Utsteget oborstad juli 2012. Gå lös med en stålborste innan du ger dig hän!}} 
+
+{{problem | nr=2 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+| width="350px" |
+
+{{problem | nr=3 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=4 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+|}
+
+===Mitten-höger===
+
+Problemen uppräknade från vänster till höger. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=2 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+| width="350px" |
+
+{{problem | nr=3 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=4 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+|}
+
+
+===Högerpartiet===
+
+Problemen uppräknade från vänster till höger. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=2 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+
+| width="350px" |
+
+{{problem | nr=3 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+{{problem | nr=4 | namn=namn på problemet | grad=5b | typ=överhäng, catch | fa=Rocky Balboa | landning=3 | fadatum=2009-01-01 | sittstart= | sopad= | text=förklarande text om problemet}} 
+
+|}
+
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+[[Kategori:bouldering]]
+[[Category:Värmland]]

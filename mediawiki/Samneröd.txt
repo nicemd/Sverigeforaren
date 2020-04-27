@@ -1,0 +1,151 @@
+{{Utkast}}
+{{info klippa
+  |lat=58.356991
+  |long=11.963215
+}}
+
+
+== Introduktion ==
+
+== Karaktär ==
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="58.356745" lon="11.962137" zoom="16">
+58.356991, 11.963215, Samneröd
+58.35664, 11.961126, Nedre väggen
+58.357019, 11.960061, Övre väggen
+58.357193, 11.964782, Sprängväggen och Glömda väggen
+58.357813, 11.963527, Pelaren
+</googlemap>
+</div>
+
+Från 44:an sväng av mot Bengtsfors (väg 172). Sväng in vid Shellstationen och parkera på grusplanen bakom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+==Leder==
+
+===Övre väggen===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Skadeskjuten|grad=5|betyg=0|längd=5|fa=Joakim Olofsson, Wendelin Zobel -91|typ=|text=}}
+
+{{led|namn=Smith & Wesson|grad=6-|betyg=0|längd=10|fa=Rickard Larsson, Joakim Olofsson, Wendelin Zobel -92|typ=|text=}}
+
+{{led|namn=Elevation|grad=6-|betyg=0|längd=7|fa=Björn Holmgren, Kurt Wiklander -90|typ=|text=}}
+
+{{led|namn=Army of lovers|grad=7-/7|betyg=0|längd=8|fa=Michael Jansson|typ=|text=}}
+
+| width=300px|
+
+{{led|namn=Skjutvarning|grad=6|betyg=0|längd=9|fa=Joakim Olofsson, Kurt Wiklander, Björn Holmgren -91
+ |typ=|text=}}
+
+{{led|namn=Rekyl|grad=7-|betyg=0|längd=9|fa=Lars Jonsson, Ulf Johansson, John "Spooky" Williams -97|typ=|text=}}
+
+{{led|namn=Ingemars K-pistbana|grad=6+|betyg=0|längd=8|fa=Niklas Alm -97|typ=|text=}}
+|}
+
+===Nedre väggen===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Lösplugg|grad=3+|betyg=0|längd=7|fa=Joakim Olofsson (solo) -92|typ=|text=}}
+
+{{led|namn=Skjutet|grad=6-|betyg=0|längd=10|fa=Fredrik Gustavsson, Michael Jansson -91|typ=|text=}}
+
+{{led|namn=Skyttegraven|grad=5|betyg=0|längd=10|fa=Kurt Wiklander, Rickard Larsson, Joakim Olofsson -91|typ=|text=}}
+
+{{led|namn=Rickochetten|grad=5|betyg=0|längd=10|fa=Kurt Wiklander, Björn Holmgren -90|typ=|text=}}
+
+{{led|namn=Mauser|grad=7|betyg=0|längd=10|fa=Joakim Olofsson|typ=|text=}}
+
+{{led|namn=Tjuvskytten|grad=7-|betyg=0|längd=12|fa=Joakim Olofsson -92|typ=|text=}}
+
+| width=300px|
+
+{{led|namn=Korthålet|grad=4+|betyg=0|längd=15|fa=Björn Holmgren, Kurt Wiklander -90|typ=|text=}}
+
+{{led|namn=Prickskytten|grad=5-|betyg=0|längd=10|fa=Joakim Olofsson, Wendelin Zobel, Johan Nord -91|typ=|text=}}
+
+{{led|namn=Det gör ont|grad=6|betyg=0|längd=12|fa=Mikale Ylinen, Tobias Ryberg, Greger Andersson -08-09|typ=|text=}}
+
+{{led|namn=Deerhunter|grad=6-|betyg=0|längd=8|fa=Peter Andersson, Niclas Andersson -92|typ=|text=}}
+
+{{led|namn=Snakecharmer|grad=5-|betyg=0|längd=8|fa=Peter Andersson (Solo) -92|typ=|text=}}
+|}
+
+===Pelaren===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Var är Pianisten?|grad=4+|betyg=0|längd=15|fa=Johan Nord, Wendelin Zobel, Peter Andersson -92|typ=|text=}}
+
+| width=300px|
+
+{{led|namn=Rocketer|grad=6-|betyg=0|längd=12|fa=Peter Andersson, Kurt Wiklander -92|typ=|text=}}
+|}
+===Sprängväggen===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Vikariatet|grad=7|betyg=0|längd=12|fa=Niklas Alm, Leif Jägerbrand -97|typ=|text=}}
+
+{{led|namn=Magister Tung|grad=7+|betyg=0|längd=12|fa=|typ=|text=Niklas Alm -97}}
+
+| width=300px|
+
+{{led|namn=Fröken Lätt|grad=6|betyg=0|längd=12|fa=Niklas Alm -97|typ=|text=}}
+
+{{led|namn=Vaktmästaren|grad=4|betyg=0|längd=12|fa=Ulf Johansson, Stefan Skarp -97|typ=|text=}}
+|}
+
+===Glömda väggen===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Rainman|grad=6|betyg=0|längd=7|fa=Lars Jonsson, Ulf Johansson -97|typ=|text=}}
+
+{{led|namn=Tricky|grad=6+|betyg=0|längd=8|fa=Joakim Olofsson -97|typ=|text=}}
+
+| width=300px|
+
+{{led|namn=Pumpkin|grad=6|betyg=0|längd=8|fa=Joakim Olofsson -97|typ=|text=}}
+|}
+
+[[Kategori:Bohuslän]]

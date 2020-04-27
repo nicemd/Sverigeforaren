@@ -1,0 +1,24 @@
+{{info klippa
+  |lat=57.753333
+  |long=16.6769444}}
+
+{{boulderstub|extern=ja}}
+
+==Allmänt==
+Lucerna är ett gammalt klassikt boulderställe nära Västerviks centrum. Klipporna består av grovkornig granit. 
+Många linjer har en borrbult som toppankare. Särskilt rekommenderade linjer markeras med en stjärna.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.753333" lon="16.6769444" type="map" zoom="13" controls="small">
+57.753333, 16.6769444, Lucerna (parkering)
+</googlemap>
+</div>
+<div style="clear:both"></div>
+
+== Extern förare ==
+http://www.vastervikclimbing.se/klattercentret/pdfer/
+
+[[Kategori:Småland]]
+[[Kategori:Västervik]]

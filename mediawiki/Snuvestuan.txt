@@ -1,0 +1,146 @@
+{{info klippa
+  |lat=56.04716402350692
+  |long=13.1396484375
+}}
+
+{{komplett}}
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="56.04716402350692" lon="13.1396484375" zoom="9" type="map" controls="small">
+56.04716402350692,13.1396484375,Snuvestuan
+
+</googlemap>
+</div>
+
+[[Bild:SnuveLÅG004.jpg|400 px|thumb|Mathias Sjöberg lägger en friend på {{ledlänk|namn=Kanske El Cap}}<BR>Foto: [[Användare:Frapp|Fredrik Rapp]]]]
+
+== Access ==
+Kattuggla eller Berguv har siktats vid/i C-väggen, precis i en håla på mitten av "ormus bunkus". På våren under fågelns häckningsperiod (april-maj) kan det vara känsligt.
+
+B-,C- & D-väggarna var alla mer eller mindre igenväxta och i princip oanvändbara vid ett besök den 25 Juli 2009. Här behövs en ordentlig uppröjning.
+
+== Allmänt ==
+
+Snuvestuan består av en samling väggar som ligger inne i ett skogsområde, mellan Stenestad och Klåveröd, uppe på söderåsen i Skåne. Klättringen här är av lite mer trad-betonad karaktär, då de allra flesta lederna säkras med egna bitar. Området bjuder idag på 16 leder ifrån 5- till 6+, men möjlighet för fler turer finns. Höjden varierar från 6 till 13 meter. Klippan är grovkornig och på någon av lederna lite smulig, men bjuder på bra friktion.
+Området består av 5 mindre väggar döpta som A-E, A väggen är den första du kommer till och orienterandet till de övriga väggarna utgår därifrån (förutom E-väggen).
+Själva "Snuvestuan" är en liten grotta som ligger under ett uppbrutet klipparti mellan A och B-väggarna. Enligt sägnen ska den elaka "skogssnuvan" bo i grottan, om du får syn på henne är det viktigt att vända jackan utochin och kepsen bakochfram, mer info om det finns på skyltarna vid parkeringen.<br>
+
+
+== Vägbeskrivning ==
+
+
+'''Från Malmö:''' Ta E6an mot Göteborg. Vid avfart Lomma tar du sedan väg 103 mot Lund som senare övergår i väg 108 mot Kävlinge. Kör mot Röstånga genom Teckomatorp och vidare mot Svalöv. I Svalöv följer du sedan skyltningen mot Kågeröd. Kör vidare mot Stenestad rakt genom Kågeröd, men ta höger mot Klåveröd innan du når Stenestad (ca 6 km efter kågeröd). Följ sedan vägen ca 2 kilometer. Ta vänster in på den tydliga grusvägen efter en liten rastplats, denna väg är skyltad Vargadalen(obs skylten är liten och av trä så titta noga). Sen är det bara att följa grusvägen till du når en tydlig parkering. Följ sen en markerad stig mot Snuvestuan.<br>
+
+'''Från Göteborg:''' Ta av från E6 vid Strövelstorp en mil norr om Helsingborg och sväng vänster mot Bjuv. När du når väg 110 svänger du vänster. Kör förbi Bjuv och ta vänster mot Kågeröd på väg 109 när du når Billesholm. I Kågeröd ta vänster mot Stenestad.
+Ta höger mot Klåveröd innan du når Stenestad (ca 6 km efter kågeröd). Följ sedan vägen ca 2 kilometer. Ta vänster in på den tydliga grusvägen efter en liten rastplats, denna väg är skyltad Vargadalen(obs skylten är liten och av trä så titta noga). Sen är det bara att följa grusvägen till du når en tydlig parkering. Följ sen en markerad stig mot Snuvestuan.<br>
+
+== Historia ==
+
+Torbjörn Winther utvecklade lederna vid vägg A tillsammans med Ralph Meima 1994. Men sen föll väggpartiet i glömska för att inte få speciellt många besök förrän 1999, då nytursutvecklingen åter tog fart. Denna gång var det Ola Knutsson och Fredrik Rapp som stod för ledmakandet. Flera nya väggar upptäcktes och utvecklades.
+
+
+
+
+== A-väggen ==
+Detta är den första och kanske mest karakteristiska väggen som du kommer till. För alla leder här bygger man enkelt ett ankare i träden på toppen.
+
+[[bild:A-vaggen.gif]]
+
+{{led|nr=1|namn=Sökhunden tuggar, hjälp!|grad=3+|betyg=0|längd=11
+ |fa=Ralph Meima/Torbjörn Winther 1994|typ=trad|text=Försvagning/dieder till vänster om pelaren. (Igenvuxen 2007)}}
+
+{{led|nr=2|namn=Kanske El Cap|grad=6-|betyg=2|längd=11
+ |fa=Torbjörn Winther/Ralph Meima 1994|typ=trad|text=Fin väggklättring precis till höger om tydliga pelarkanten förbi diverse horisontalsprickor. Välsäkrad med små TCU:s.}}
+
+{{led|nr=3|namn=Fina Fisten|grad=5+|betyg=0|längd=11
+ |fa=Torbjörn Winther/Ralph Meima 1994|typ=trad|text=Den spikraka spricklinjen.}}
+
+{{led|nr=4|namn=Sökhundarna är här igen|grad=5|betyg=0|längd=11
+ |fa=Petter Åsander & Martin Weberg 2007|typ=trad|text=Något sökt linje, hade varit fin om det inte varit för avikningsmöjligheterna och brötet på höger sida}}
+
+{{led|nr=5|namn=Planet Kullen|grad=5|betyg=1|längd=11
+ |fa=Ralph Meima/Torbjörn Winther 1994|typ=trad|text=Väggklättring leder upp till en välsäkrad spricka.}}
+
+{{led|nr=6|namn=Stirrande damen|grad=5|längd=10
+ |fa=Petter Åsander & Martin Weberg|typ=trad|text=Välsäkrad sprickklättring med relativt gott om grepp utanför sprickan. Finare än den ser ut.}}
+
+{{led|nr=7|namn=Namnlös|grad=5|längd=10
+ |fa=okänd 90-tal|typ=trad|text=Spricka vill vänster om Sticksågsmassakern led.}}
+
+{{led|nr=8|namn=Sticksågsmassakern|grad=6-|betyg=2|längd=10
+ |fa=Torbjörn Winther/Ralph Meima 1994|bultar=3|typ=sport|text=Fövånansvärt fin väggklättring uppför väggens högra del. Några ihåliga flak.}}
+
+
+[[Bild:SnuveLÅG005.jpg|frame|A-väggen i snuvestuan en sommarkväll.<BR>Foto: [[Användare:Frapp|Fredrik Rapp]]]]
+
+== B-väggen ==
+Om du fortsätter i förlängning av A-väggen passerar du en eldstad och själva snuvestuan, snart syns B-väggen till höger.
+
+[[bild:B-vaggen.gif]]
+
+{{led|nr=1|namn=Feta Hörnet|grad=5|betyg=0|längd=7
+ |fa=Ola Knutsson, Mathias Sjöberg, Fredrik Rapp 99|typ=trad|text=Knytnävssprickan i hörnet, bakom ett stort träd}}
+
+{{led|nr=2a|namn=Naken i skogen|grad=6|betyg=1|längd=8
+ |fa=Ola Knutsson 09|typ=trad|text=Vänster om aréten. Starta på väggen och klättra snett upp åt höger och följ kanten till toppen. Svårsäkrad.}}
+
+{{led|nr=2|namn=Passin Thru|grad=6+|betyg=1|längd=8
+ |fa=Fredrik Rapp 99|typ=trad|text=Spännande klättring upp längs den branta areten. Svårsäkrad.}}
+
+{{led|nr=3|namn=No danger on the roof|grad=6-|betyg=1|längd=7
+ |fa=Ola Knutssson 09|typ=trad|text=Sva och tak till höger om föregående led. Delikat crux på svaet utan att använda blocken bakom ryggen och till höger. Lätt genom taket på stora grepp. Taket går att säkra.}}
+
+== C-väggen ==
+Om du vrider 90 grader vänster när du står vid eldstaden och går ca. 150 meter in i skogen, först över en liten kulle sen ner i en blöt sänka som du följer till vänster så befinner du dig strax vid C-väggen.
+
+[[Bild:C-vaggen.gif]]
+
+{{led|nr=1|namn=Ormus Bunkus|grad=3|betyg=0|längd=10
+ |fa=Ola Knutsson, Åsa Knutsson 00|typ=trad|text=Enklare led till vänster om Jungel Jim. Välsäkrad.}}
+
+{{led|nr=2|namn=Djungel Jim|grad=5+|betyg=2|längd=10
+ |fa=Ola Knutsson, Fredrik Rapp 99|bultar=3|typ=sport|text=Superfin klättring upp för svaet. Ankare i träd. (aningen mossig men klätterbar sommaren 2007)}}
+
+{{led|nr=3|namn=Tunt är Fint|grad=6-|betyg=1|längd=8
+ |fa=Fredrik Rapp, Ola Knutsson 99|typ=trad|text=Häftigt slut upp för topppelaren. Hyggligt säkrad med lite smått och gott. Leden är fel inritad på skissen. Den går runt hörnet till höger om djungel jim, upp för en halvtydlig pelarformation. Diverse tunna sprickor.}}
+
+== D-väggen ==
+Hör ihop med föregående vägg, och ligger bara ett stenkast längre bort från denna<br>
+
+'''Vänstra delen'''<br>
+
+[[Bild:D-vaggen1.gif]]
+
+{{led|nr=1|namn=Tarzan hade snuva|grad=5+|betyg=0|längd=9
+ |fa=Ola Knutsson 99|typ=trad|text=Mycket markant pelare bakom ett träd. Kan vara lite mossig.}}
+
+{{led|nr=2|namn=Sträck på dig|grad=6|betyg=1|längd=13
+ |fa=Fredrik Rapp, Ola Knutsson 99|bultar=2|typ=mix|text=Följ sprickan upp till överhänget och bultarna. Den svåra klättringen är bultsäkrad. Kilar till ankare.}}<br>
+
+'''Högra delen'''
+
+[[Bild:D-vaggen.gif]]
+
+{{led|nr=3|namn=Dödsskvadronen|grad=6|betyg=0|längd=10
+ |fa=Fredrik Rapp, Ola Knutsson 99|typ=trad|text=Sned och tydlig sick-sackande spricka längst bort till höger. Välsäkrad men pumpande}}
+
+== E-väggen ==
+För att komma till E- väggen fortsätter du en liten bit till på grusvägen, förbi en vägbom och sedan nerför en backe. När backen tar slut och en liten bäck rinner under vägen så ser du klippan tydligt precis till vänster om vägen.<br>
+
+'''Vänstra delen'''
+
+[[Bild:E-vaggen.gif]]
+
+
+{{led|nr=1|namn=Inomhusleden|grad=6-|betyg=0|längd=10
+ |fa=Fredrik Rapp 99|bultar=2|typ=sport|text=Inomhusaktig klättring. Klarar endel regn, då det hänger över. Träd till ankare.}}
+
+{{led|nr=2|namn=Think twice|grad=6-|betyg=0|längd=10
+ |fa=Ola Knutsson 99|typ=trad|text=Går på vinkelväggen precis till höger om "Inomhusleden". Klurig väggklättring i toppen. Sparsamt säkrad.}}
+
+
+
+
+
+[[Kategori:trad]] [[Kategori:mix]]
+[[Kategori:Skåne]]

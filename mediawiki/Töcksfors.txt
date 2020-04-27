@@ -1,0 +1,137 @@
+<!-- Detta gör det möjligt att markera klippan på kartor-->
+{{info klippa
+  |lat=59.500727
+  |long=11.87283
+}}
+
+
+{{komplett}}
+
+==Allmänt==
+Sportklätterklippa (med lite tradklättring) Totalt 21 leder från grad 4-8-  intill E18 precis utanför Töcksfors.Perfekt bensträckarklippa på väg till/från norge. Kort anmarsch. Har även en handfull bultade leder i det lättare registret vilket gör det utmärkt som övningsberg. Den branta sektorn är relativt regnsäker och det är västra värmlands bästa sommarklippa då den ligger i skugga mestadels.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.503014" lon="11.873131" type="map" zoom="13">
+59.500727, 11.87283, Töcksforsklippan ungefärlig pos.
+</googlemap>
+</div>
+
+För att nå klippan finns två varianter. Både beskrivna från Årjäng. 
+
+1. Precis innan du anländer Töcksfors går en grusväg ner åt vänster. Kör in på denna och efter ungefär 500 meter finns en liten avstickare åt höger i en vänstersväng. Det ser ut som ett eljusspår då elledningar går ovanför, men det finns inga lampor e.dyl. Parkera här, så du kommer bort från den relativt vältrafikerade grusvägen. 
+Om du når Töcksfors "hamn" och kommer upp i Töcksfors industriområde, så har du kört för långt. Vänd och leta. 
+Från avstickaren/parkeringen går du 2 minuter längs stigen och ser berget högre upp i terrängen. 
+
+2. Kör ända fram till Töcksfors. Vänd på lämplig plats och kör tillbaka mot Årjäng igen. 
+Efter industriområdet dyker parkeringsfickor upp på höger sida. Kör förbi den första, men var uppmärksam på den andra. När du ser den har du nästan kört förbi då den dyker upp vid ett krön. Parkera på denna och bege dig rakt in i skogen till höger och du hittar klippan efter 100-200m. 
+
+Man kan inte se klippan från varken grusvägen eller E18, men det är inte långt ifrån.
+
+==Beskrivning==
+[[Bild:Tocksfors3.jpg|200px|thumb|Svalederna till vänster. Slets stålborsten ut innan högerleden borstades? :) ]]
+Berget är bitvis fast och fint, bitvis tendens till löst och poröst. Kan dock bero på liten klätteraktivitet. Höjden spänner mellan 10 till 15 meter och är uppdelat i olika sektioner med lite brötigt berg däremellan. Totalt ett par hundra meter brett? 
+
+Fram till nyligen var bultare, förstabestigare och därmed grader och namn okända. Ett blåsigt men gemytligt climb-in 2009 klarnade mycket av mystiken då herr bultare (tillika ofta förstabestigare) gav sig tillkänna. 
+
+Berget är främst etablerat som en sportklätterklippa. Några igenvuxna sprickor och linjer kan nog bli fina om någon orkar dra några tag med stålborsten.
+
+I skydd under överhänget vid {{ledlänk|namn=sillmjölken och jag}} finns en crag-bänk att vila röven på efter dina sessioner. 
+
+Tidigare ägde kommunen klippan och skogen intill. Numera privatperson som har gett samtycke till borstning, bultning och allmän klätternärvaro. Respektera denna fina gest genom att plocka undan skräp och inte göra åverkan utöver denna överenskommelse. En förfrågan har ställts till markägaren om tillstånd att fälla de stora granar som står framför berget. Tyvärr nekande svar. Detta hade annars gjort att solen träffat berget under nästan hela dagen och torkat/värmt det och förhoppningsvis bromsat upp mossans framfart. 
+[[Bild:Tocksfors5.jpg|200px|thumb|första halvan av {{ledlänk|namn=sillmjölken och jag}}]]
+Generellt gäller att lederna fått väldigt få bestigningar varpå graderna är svåra att säga. Låt systemet med denna wiki-förare göra att det justeras rätt på sikt. 
+
+Någon tidigare förare har aldrig skapats, utan det är det här som gäller.
+
+==Leder==
+
+Leder, sektioner osv räknas upp från vänster till höger. 
+
+===Vänsterdelen===
+
+Vänsterdelen hyser ett par sva-leder. Behöver underhållas för att inte gro igen. Potential till en handfull fler sva-turer för den intresserade. 
+
+{{led|nr=1|namn=???|grad=5-6?|typ=sport|betyg=|bultar=5?|längd=14?|fa=Ulf Albinsson |text=Den borstade svaleden längst till vänster. toppankare om inte minnet sviker, ej fått något namn av FA ännu. Graden oviss.}}
+
+{{led|nr=2|namn=???|grad=5-6?|typ=sport|betyg=|bultar=5?|längd=14?|fa=Ulf Albinsson |text=Den mossiga (var det 2008/2009 åtminstone) svaleden intill led nr 1. Gemensamt ankare med led nr1. Ej fått något namn av FA ännu. Graden oviss.}}
+
+{{led|nr=3|namn=Rot|grad=4-5|typ=trad|betyg=|bultar=|längd=|fa=Ulf Albinsson |text=En lite uppbruten "rotig" spricka mellan sva-lederna och taket. Kanske inte bergets finaste.}}
+[[Bild:Tocksfors6-1.jpg|200px|thumb|andra halvan av {{ledlänk|namn=sillmjölken och jag}}]]
+{{led|nr=4|namn=projekt|grad=grad oviss|typ=trad|betyg=|bultar=|längd=|fa=|text=Variant på {{ledlänk|namn=rot}} är att gå från dess spricka, ta ut höger i diagonalspricka och sedan fortsätta uppåt.}}
+
+===Boulder===
+
+se mer på www.27crags.com/varmlandskollektivet
+
+
+I sektionen Taket går det att göra många olika varianter på boulders. Traverserna är kanske de mest intressanta (enda som nämns nedan). En variant för att öva Ap-index är att göra {{ledlänk|namn=Halvvägs till nirvana}} med endast 4 handflytt. Go go gadget arm. 
+När du nått slutet på bouldertraverserna kan du börja jobba på returen. 
+{{ledlänk|namn=äntligen i nirvana}} känns som ett uthållighetsprojekt för den svenska bouldereliten. 
+
+{{led|nr=1|namn=Halvvägs till nirvana|grad=6A+|typ=boulder|betyg=|bultar=|längd=|fa=Sören Danielsson, Filip Arvidsson -08|text=Travers under taket i marknivå. Börja med halvliggstart på blocket till vänster. Förflytta dig via postlådor och snälla grepp åt höger. Innan sprickan blir helt fördjävlig ska du upp ett snäpp och matcha på listen under där berget bildar en vattenslipad "skål".}}
+
+{{led|nr=2|namn=Nästan i Nirvana|grad=projekt (7-isch?)|typ=boulder|betyg=|bultar=|längd=|fa= |text=Fortsätt förbi "halvvägs till nirvana". Postlådorna är nu borta och sprickan elak, samtidigt som fötterna blir svårhittade. När du kommit till den bultade leden genom taket så har du gjort leden.}}
+[[Bild:Tocksfors9.jpg|200px|thumb|tak med tokiga tradprojekt eller kluriga sportmöjligheter.]]
+{{led|nr=3|namn=Äntligen i Nirvana|grad=projekt (7-8-isch?)|typ=boulder|betyg=|bultar=|längd=|fa= |text=Fortsätt traversen förbi "Nästan i Nirvana" tills du når längst till höger på klippan (förbi björken). Här övergår överhänget/taket till att bli vertikalt och rörelserna annorlunda.}}
+
+===Taket===
+
+De tydliga tak och överhäng som finns ungefär mitt på berget. Graderna är bara uppskattade ,nästan alla leder på denna sektor består av korta intensiva crux vilket gör det svårt att sätta grad. Ändra gärna om ni tycker nån grad är helt galen.
+
+{{led|nr=5|namn=Thonsumera mera|grad=6a+|typ=sport|betyg=1|bultar=4|längd=12|fa=MJ -13 Repsolo|text=Precis innan de stora överhängen börjar, startar från ett stort block. 4 borrbultar plus toppankare .  }}
+
+{{led|nr=6|namn=Thonåring |grad=7a+ |typ=Sport|betyg=|längd=14|fa=MJ |text=5 bb delar ankare med nästa led.Fin! .}}
+
+{{led|nr=7|namn=Thon fiskar på svenskt vatten |grad=7b |typ=Sport|betyg=|längd=14|fa=MJ |text=Tre meter till vänster om Ta Thon. 6 bb + toppankare.}}
+
+{{led|nr=8|namn=Ta Thon|grad=7a+|typ=Sport|betyg=1|längd=14|fa=M.Jurander |text=Börjar i den polerade grooven, sen upp genom taket via juggar . Lite smuligt emellanåt men spektakulär klättring. 6 bb + toppankare.}}
+
+{{led|nr=9|namn=Thonart|grad=7a+ |typ=Sport|betyg=2|längd=14|fa=MJ |text=Börjar med Shopaholics upp till hyllan och sedan via små men bra grepp förbi taket . 5 bultar plus toppankare.}}
+
+{{led|nr=10|namn=Sillmjölken och jag|grad=6b+|typ=sport|betyg=2|bultar=5|längd=14?|fa= |text=Den bultade leden som startar i ett dieder nästan längst till höger på överhänget. Riktigt kul grobianklättring a klättergyms-apa med juggar och snälla grepp. Stundtals rejält överhängande vilket gör den pumpande och tung och sätter graden. Fikahylla på mitten underlättar avsevärt. toppankare}}
+
+{{led|nr=11|namn=Areten (projekt)|grad=grad oviss|typ=|betyg=|bultar=|längd=|fa= |text=10-15 meter till höger om sillmjölken finns en intressant arete (som är klättrad på topprep?). projektnamn = Areten}}
+
+===Tolkien-väggen===
+
+En fin vägg som tydligt utmärker sig med ett stort block som lossnat från berget längst till vänster och en tydlig lodrätt spricka på mitten. Utgå sedan från bultlinjer och beskrivningar för att hitta. 
+
+[[Bild:Tocksfors8.jpg|thumb|200px|Tolkienväggen. Ungefär 15m högt]]
+
+
+{{led|nr=12|namn=Helms klyfta|grad=5b/5c|typ=sport|betyg=|bultar=5?|längd=12?|fa=Sören Danielsson -08|text=Till höger på klippan finns ett stort block som skiljer sig från övriga berget med en halvmeter. På blocket börjar leden med två bultar. Övergår sedan till övriga berget. Krux i slutet när man ska gå ut för att klippa sista bulten och ankaret. Namnet hämtat ur J.RR's värld}}
+
+{{led|nr=13|namn=Skorta|grad=5|typ=trad|betyg=2|längd=12?|fa=Ulf Albinsson|text=Börjar i kaminen precis till höger om {{ledlänk|namn=Helms klyfta}}. Följ den tydliga sprickan rakt upp, avsluta antingen vid ankaret mitt på väggen högst upp, eller gå upp vänster på hyllan. Fin! Skorta=Klöft=Spricka hos lokalbefolkningen.}}
+
+{{led|nr=14|namn=Caradras|grad=6b|typ=sport|betyg=|bultar=6|längd=15|fa=Ulf Albinsson |text=Tunn lite knepig sportled med toppankare.Grad 6a -6c beroende på hur man klättrar, hårdare åt höger. Namnet hämtat ur J.RR's värld}}
+
+{{led|nr=15|namn=Square Nothing|grad=6b|typ=sport|betyg=1|bultar=5|längd=16|fa=Ulf Albinsson |text=Sportled över facet som slutar upp och avslutas i samma ankare som {{ledlänk|namn=Caradras}}. Att koppla första bulten på Caradras kan vara klokt.  In flames inspirerat namn.}}
+
+{{led|nr=16|namn=Nasgul|grad=7-|typ=mix|betyg=2|bultar=4|längd=15|fa=Ulf Albinsson |text=Mixled över facet, 4bb plus några egna säkringar i sprickan. Toppankare. Namnet hämtat ur J.RR's värld }}
+
+[[Bild:Tocksfors4-1.jpg|200px|thumb|till vänster går {{ledlänk|namn=Stora sprecken}} som utgör en dröm för den aspirerande tradentusiasten.]]
+
+{{led|nr=17|namn=Thongivande|grad=7a|typ=sport|betyg=2|bultar=5|längd=14|fa=M Jurander repsolo -13|text=Tunn led över facet . Delar första bulten med nasgul. }}
+
+{{led|nr=18|namn=Stora sprecken|grad=4+|typ=trad|betyg=3|bultar=|längd=18 |fa=Per Sjöquist(?) -88 |text=Inbjudande och tydliga lodräta sprickan i mitten på Tolkien-väggen. Utmärkt nybörjarled för dig som vill börja lägga dina egna säkringar. Stora handtag där man förväntar sig, jämn stor spricka som sväljer stora stabila säkringar i form av kamkilar, hexor och kilar. Fina hyllor ger total vila vilket avspeglas i den låga graderingen. Fortfarande aktiv (2009) klättrare knep förstabestigningen när värmländsk klättring fortfarande var ung.}}
+
+{{led|nr=19|namn=???|grad=6a|typ=sport|betyg=2|bultar=6|längd=14?|fa=Ulf Albinsson|text=Fin led till höger om den mycket tydliga helt lodräta sprickan till höger på berget. Leden sträcker sig snett upp åt höger till en hylla. Smart bultad med fina handtag vid de flesta klippen. graden endast uppskattad. Pump framkallades så nog tyngre än den ser ut. Namnet på leden och grad har FA lovat leverera. Vi väntar... toppankare.}}
+
+{{led|nr=20|namn=Att traversera Morias grottor | grad=5/5+| typ=mix| betyg= |bultar=2 |längd=15 |fa=Sören Danielsson -08 |text=Till höger om  led nr 16 står två granar intill väggen. Leden börjar till höger om den högra granen. Fortsätt upp någon meter och traversera vänster längs hyllsystemet och dess tydliga säkringsmöjligheter tills du möter upp led nr 16. Delar bultar och ankare med denna led. Lägg säkringarna bra och förläng dem, så kanske du slipper en del av repdraget. Namnet hämtat från J.RR's värld}}
+
+{{led|nr=21|namn=Thonsai |grad=6c+|typ=sport|betyg=2|bultar=5|längd=|fa=MJ|text=Längst till höger, fin klättring hela vägen.Toppankare }}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:mix]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+[[Category:Värmland]]

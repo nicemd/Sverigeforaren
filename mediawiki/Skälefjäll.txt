@@ -1,0 +1,205 @@
+{{info klippa
+  |lat=58.364123
+  |long=11.472601
+}}
+
+{{utkast}}
+== Introduktion ==
+På Skälefjäll går flera av de finaste svåra lederna i Bohuslän, och kanske saknar leden Electric avenue motstycke inom Sverige. Det finns även lättare leder av världsklass, där Granitbiten är en given klassiker.
+
+== Karaktär ==
+Nordvästvänd klippa med skugga till sent på eftermiddagen. Renskurna linjer, sprickor, hörn och väggar. Både naturligt säkrat och bultat.
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="58.364123" lon="11.472601" type="map" zoom="13" height="300">
+58.364123, 11.472601
+</googlemap>
+
+</div>
+
+Söderut på väg 162, sväng höger mot Rixö i rondellen i Brastad och följ vägen cirka en kilometer. Sväng vänster och sen höger. Parkera längs vägen vid industrin, inte vid föreningsgården som anvisas i Bohusguiden 2002. Vardagar ska plats lämnas så stora långtradare kan komma in till fabriken. En liten stig leder genom skogen över en kulle till skogsvägen som går framför berget.
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+== Access ==
+ 
+{{AccessDB|klippa=skalefjall}}
+
+==Leder==
+=== Vänster ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Tradjazz|grad=9-|betyg=1|längd=20|fa=[[Johan Svensson]]
+ |typ=trad|text=Längst till vänster på berget. Snygg linje på en grönaktig vägg. Starta uppe på blocket, traversera vänster ut till linjen. Svårsäkrad i början.}}
+
+{{led|namn=Legalize|grad=9-/9|betyg=|längd=20|fa=[[Said Belhaj -05]]
+ |typ=spor|text=Startar i ett litet hörn och går över en bulle/tak, strax höger om Tradjazz. Bultad.}}
+
+{{led|namn=Cowboy Corner|grad=7-|betyg=|längd=15|fa=[[Simon Thyr -97]]
+ |typ=trad|text=Hörn höger om Legalize. Sällan klättrad.}}
+
+{{led|namn=Snusdosan|grad=7-|betyg=|längd=10|fa=[[Johan Svensson -97]]
+ |typ=trad|text=Kort rundad arete med sprickor i. Sällan klättrad.}}
+
+{{led|namn=Snus Direkt|grad=6+|betyg=|längd=15|fa=[[Ann-Sofie Andersson -99]]
+ |typ=trad|text=Variant på Snusdosan, viker av vänster ut i ett grunt hörn.}}
+
+| width=300px|
+
+{{led|namn=Backdraft|grad=9-|betyg=2|längd=15|fa=[[Petter Restorp -08]]
+ |typ=trad|text=Kort och intensiv sprickklättring. Den vänstra av sprickorna på en liten vägg strax vänster om Electric avenue. Firningsankare.}}
+
+{{led|namn=Borrbulta Hela Bohuslän Boys|grad=7+|betyg=|längd=15|fa=[[Niklas Alm, Leif Jägerbrand -97]]
+ |typ=sport|text=Startar på en hylla uppe till vänster om Electric avenue. }}
+
+{{led|namn=Kungsgatan|grad=9-/9|betyg=|längd=30+|fa=[[Stefan Wulf, Henrik Bolander 2010-07]]
+ |typ=mix|text=Vänster om Electric avenue. Startar i Offwidhsprickan, ut höger där bultarna börjar. Någon stor kam i startsprickan och någon mindre i överdelen.}}
+
+{{led|namn=Electric Avenue|grad=9-|betyg=3|längd=30|fa=[[Henrik Bolander -97]]
+ |typ=trad|text=Fantastisk led mitt på den stora rödaktiga väggen.}}
+
+{{led|namn=Gamzatti|grad=7+|betyg=2|längd=30|fa=[[Eugenia Bolander -97]]
+ |typ=mix|text=Startar som Electric avenue, men följer linjen upp åt höger istället. Mycket bra led.}}
+
+|}
+
+=== Mitten ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Jamspricka nr 3|grad=5+|betyg=|längd=30|fa=[[Petter Restorp, Erik Heyman -05]]
+ |typ=trad|text=Bred spricka i hörnet till vänster om ''Berberis''}}
+
+{{led|namn=Berberis|grad=7|betyg=1|längd=25|fa=[[Patrik Jakobsson]]
+ |typ=trad|text=Leden går på kanten till vänster om Odon. Insteg på aréten och vidare upp i det ljusröda diedret. Därefter ut åt höger och sedan rakt upp över två bulliga formationer. Luftig men välsäkrad med kilar i början, 4 st limbultar på slutet och ankare på hyllan.}}
+
+{{led|namn=Odon|grad=9-|betyg=1|längd=40|fa=[[Henrik Bolander -98]]
+ |typ=sport|text=Fantastisk led på väggen vänster om Hallon. Första replängden är grad 7. Andra replängden flackar av och tunnar ut...}}
+
+{{led|namn=Hallon|grad=6+ A0 eller 7|betyg=1|längd=40|fa=[[Niklas Björnerstedt, Lars Svadängs -92]]
+ |typ=trad|text=Kalaslinje på den stora väggen till vänster om granitbitenpartiet. Startar i flakformationen, upp till dieder och spricka. Travers höger via en borrbult på slutet.}}
+
+| width=300px|
+
+{{led|namn=Blåbär|grad=5+|betyg=|längd=25|fa=[[Mikael Jansson, Joakim Olofsson -93]]
+ |typ=trad|text=Vällustig dieder som sällan torkar upp. Finner du den torr har du ingen ursäkt, även om den mossat igen de sista åren.}}
+
+{{led|namn=Granitbiten|grad=7-|betyg=3|längd=25|fa=[[Lars Grankvist, Niklas Björnerstedt -92]]
+ |typ=trad|text=Kalasspricka på den smala tvärställda väggen. }}
+
+{{led|namn=Razors Edge|grad=9-/9|betyg=|längd=25|fa=[[Stefan Wulf -98]]
+ |typ=sport|text=Areten mellan Granitbiten och Hassan chop. Marig.}}
+
+{{led|namn=Hassan Chop|grad=7+|betyg=3|längd=20|fa=[[Niklas Björnerstedt, Lars Grankvist -92]]
+ |typ=trad|text=Kalasdieder. Osedvanligt renskuren.}}
+
+{{led|namn=En Liten Bit Granit|grad=6|betyg=1|längd=15|fa=[[Eugenia Bolander -99]]
+ |typ=trad|text=Kort och fin spricklinje. Kopplas med fördel ihop med överdelen på Hassan chop, vilket ökar längden men inte svårigheten.}}
+
+|}
+
+=== Höger ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Jamspricka nr 2|grad=6|betyg=|längd=30|fa=[[Niklas Björnerstedt, Jeremy Sheeham, Pål Nylander -95]]
+ |typ=trad|text=Den inbjudande handjamdiedern en bit upp. Lite skitig i starten, men det är ingen ursäkt.}}
+
+{{led|namn=Borderline|grad=7+|betyg=|längd=20|fa=[[Johan Svensson, Robin Qwint -02]]
+ |typ=mix|text=Startar uppe på det stående blocket höger om Jamspricka nr2. Klättra upp i minidiedret och vidare upp och förbi 2 st borrbultar. Kliv sedan ut på aréten och förbi en tredje borrbult. På hyllan ovanför sitter 2 limbultar som även kan nyttjas som ankare för Tvärviggen. Glöm inte småkilar/rp's samt några friends i de mindre storlekarna.}}
+
+{{led|namn=Tidal Wave|grad=8/8+|betyg=|längd=23|fa=[[Henrik Bolander, Stefan Wulf -04]]
+ |typ=sport|text=Leden går på högra arête kanten mellan Jamspricka nr2 och Tvärviggen. Ihållande arête klättring som säkras med 7 borrbultar. Utsteg åt höger mot toppankaret.}}
+
+{{led|namn=Tvärviggen|grad=6+|betyg=|längd=25|fa=[[Lars Grankvist, Lars Svadängs -92]]
+ |typ=trad|text=Den stora diedern. Ofta blöt och kan vara lite smutsig. I torrt skick är den fantastisk. Försiktigt säkrad de första metrarna.}}
+
+{{led|namn=Stiltje|grad=7+|betyg=|längd=25|fa=[[Henrik Bolander, Eugenia Bolander -04]]
+ |typ=sport|text=Fin väggtur till höger om Tvärviggen. Även denna smutsar igen fort. Säkras med 6 borrbultar.}}
+
+{{led|namn=Seven|grad=7|betyg=|längd=25|fa=[[Henrik Bolander -00]]
+ |typ=sport|text=Arete som börjar med tunga sekvenser på kanten av ett tak. Sju borrbultar. Vissa vill gärna lägga en liten kam på slutet.}}
+
+{{led|namn=Tortelini|grad=6+|betyg=|längd=22|fa=[[Lars Grankvist, Jan Ahrens 9-2]]
+ |typ=trad|text=Prövande led med diedertema. Ihållande svårsäkrat i starten, var noga med mässingsorkestern.}}
+
+{{led|namn=Namn?|grad=8-?|betyg=|längd=23|fa=[[Öystein K Johnsen?]]
+ |typ=trad|text=Dieder som brantar på, upp till en björk.}}
+
+| width=300px|
+
+{{led|namn=Hot'n'Tots|grad=6|betyg=|längd=23|fa=[[Lars Svadängs, Lars Grankvist, Jan Ahrens -92]]
+ |typ=trad|text=Svalaybackdieder upp till ett tak som passeras åt höger. Upp i sprickor på svaet ovanför.}}
+
+{{led|namn=Tur|grad=5|betyg=|längd=25|fa=[[Pia Fagernes, Niklas Björnerstedt -94 ]]
+ |typ=trad|text=Det finns två utsteg. Originalet till vänster, varianten till höger.}}
+
+{{led|namn=Stålfål|grad=6-|betyg=1|längd=15|fa=[[Jan Ahrenes, Jeremy Sheeham -95]]
+ |typ=trad|text=Kort och klockren dieder.}}
+
+{{led|namn=Startpistolen|grad=6+ R|betyg=|längd=15|fa=[[Simon Thyr -99]]
+ |typ=trad|text=Areten mellan Stålfål och Machete. Startar till vänster och går sedan på högersidan till toppen. Om areten följs strikt är det ganska långt mellan säkringarna.}}
+
+{{led|namn=Machete|grad=6|betyg=1|längd=15|fa=[[Joakim Olofsson, Mikael Janson -93]]
+ |typ=trad|text=Kort och fin fingerspricka upp till en hylla med björk.}}
+
+{{led|namn=Namn?|grad=8+?|betyg=|längd=20|fa=[[Johan Luhr?]]
+ |typ=sport|text=Bultad led.}}
+
+{{led|namn=Rakt av|grad=6-|betyg=|längd=15|fa=[[Johan Svensson -00]]
+ |typ=trad|text=Spricka/hörn som startar på en hylla, fira dit.}}
+
+{{led|namn=Blåbärsriset|grad=5|betyg=|längd=22|fa=[[Jan Ahrenes, Katarina Ståhl -92]]
+ |typ=trad|text=}}
+
+{{led|namn=Björnbärssnårigt|grad=6|betyg=3|längd=20|fa=[[Jan Ahrens -92]]
+ |typ=trad|text=}}
+
+{{led|namn=Pojkstrecket|grad=8|betyg=2|längd=20|fa=[[Oskar Alexandersson, Petter Restorp -09]]
+ |typ=trad|text=Tunna sprickor till vänster om Mithrandir. Klättrad förut?}}
+
+{{led|namn=Mithrandir|grad=7+ A0|betyg=1|längd=20|fa=[[Joakim Olofsson -01]]
+ |typ=trad|text=}}
+
+{{led|namn=Jamspricka nr 4|grad=6|betyg=|längd=20|fa=[[Jesper Gren, Erik Gustafsson -13]]
+ |typ=trad|text=Upp på vagt hörn höger om Mithrandir, in i en bred spricka. Stora händer och stora säkringar som t.ex. camalot 4 & 5 underlättar. Efter fist/offwidth-partiet travers vänster.}}
+
+
+|}
+
+==In English==
+===Description===
+
+Northwest-facing cliff which is not sunlit until late in the afternoon, and therefore a popular crag in the summer. Mostly trad routes but some harder bolted routes can be found.
+
+===Directions===
+Turn towards Rixö in the small town of Brastad. Follow the road for approx. 1 km then take a left and then a right. Park in the designated lot on the right hand side of the road at the cement factory.
+
+
+
+[[Kategori:Engelska]]
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sport]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:access]]

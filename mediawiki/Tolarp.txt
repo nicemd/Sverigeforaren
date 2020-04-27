@@ -1,0 +1,92 @@
+{{info klippa
+  |lat=57.805444
+  |long=14.130607
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+<!-- {{komplett}} -->
+
+
+
+
+==Allmänt==
+Lättillgänglig klippa i jönköping. Bjuder på klättring ifrån 5c till 7c. Klättringen varierar ifrån vertikal till överhängande.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="57.805444" lon="14.130607" zoom="15">
+57.803387, 14.130285, Tolarp
+Grusväg in till klippan
+</googlemap>
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+jönköping, väg mot bankeryd (kortebovägen), sväng vid garageportsexperten (björnebergsvägen), när backen når sitt slut och husen tar slut sväng vänster, ta nästa höger mot tolarp  och sen första höger in på en liten (men körbar) skogsväg, kör tills du ser klippan på vänster sida
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=?|grad=?|typ=sport|betyg=|bultar=|längd=|fa=[[Patrik Jansson]] |text=Lättare led uppför ett mossigt hyllsystem}}
+
+{{led|nr=2|namn=No God|grad=6c|typ=sport|betyg=|bultar=|längd=|fa=[[Nisse larsson]] -92|text=Går i högerkanten av ett överhäng.}}
+
+{{led|nr=3|namn=?|grad=5c|typ=sport|betyg=|bultar=|längd=|fa=[[Nisse larsson eller Anders Sjöberg]] -92|text=Hårt insteg, fortsätt sedan upp på den uppbrutna pelaren.}}
+
+{{led|nr=?|namn=Nypet|grad=6c|typ=sport|betyg=|bultar=|längd=|fa=[[Anders Sjöberg]] -92|text=Börjar vid en arete med ett nypgrepp.}}
+
+{{led|nr=4|namn=Adreadre|grad=6c|typ=sport|betyg=1|bultar=|längd=|fa=[[Nisse larsson]] -92|text=Startar 2 m till höger om föregående led, ovanför ett betongtak. Små och vassa grepp i slutet.}}
+
+{{led|nr=5|namn=Hyllningen|grad=7c|typ=sport|betyg=2|bultar=|längd=|fa=[[Oskar Råström eller Fredrik Arlbrandt]] -02|text=Börjar mellan porten och det stora stenblocket. Ganska vass och fingrig klättring.}}
+
+{{led|nr=6|namn=Pionjären|grad=6c|typ=sport|betyg=|bultar=|längd=|fa=[[Nisse Larsson]] -92|text=Startar ovanpå det stora blocket och följer en svagt överhängande traversspricka. Samma firningsankare som Adreadre och Hyllningen.}}
+
+{{led|nr=7|namn=?|grad=?|typ=sport|betyg=|bultar=|längd=|text=Samma insteg som Pionjären, men viker av åt höger upp i en dieder.}}
+
+{{led|nr=8|namn=Elmia|grad=7b|typ=sport|betyg=|bultar=|längd=|fa=[[Nisse Larsson eller Henrik Bolander]] |text=Stundtals överhängande led som börjar till höger om en stor port. Har även klättrats utan hjälp av betongpelaren... Ska eventuellt också ha klättrats av Fredrik Arlbrandt/Magnus Råström och fått namnet Pelargången.}}
+
+{{led|nr=9|namn=Chili |grad=?|typ=sport|betyg=|bultar=|längd=|text=}}
+
+{{led|nr=10|namn=Curry |grad=6c+|typ=sport|betyg=|bultar=|längd=|text=Samma insteg som Chili, men håll sedan åt höger. Avslutning i en tydlig liten dieder.}}
+
+{{led|nr=11|namn=Wannabe|grad=6c|typ=sport|betyg=|bultar=|längd=|fa=[[Anders Sjöberg]] - 92|text=En av de mest populära lederna. Följer arêten. Lätt klättring i början, sedan blir det svårare.}}
+
+{{led|nr=11a|namn=?|grad=5a|typ=sport|betyg=|bultar=|längd=|text= Topprepsvariant: börja som 11 och vid hyllan gå över i 12:an och avlsuta med sprickan. nr 12s ankare bör användas.}}
+
+{{led|nr=12|namn=Beavis|grad=5c/6a|typ=trad|betyg=1|bultar=|längd=|fa=[[Anders Sjöberg]] |text=Kilsäkrad spricka.}}
+
+{{led|nr=13|namn=Butthead|grad=5c/6a|typ=trad|betyg=|bultar=|längd=|fa=[[Anders Sjöberg]] |text=Sprickan till höger om föregående led.}}
+
+
+| width="350px" |
+
+|}
+
+
+[[Kategori:sport]]
+[[Kategori:Is]]
+[[Kategori:trad]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+
+[[Category:Småland]]
+
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]

@@ -1,0 +1,70 @@
+{{info klippa
+  |lat=60.115153
+  |long=13.92236
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}} 
+<!-- {{komplett}} -->
+
+==Allmänt==
+
+Naturskönt belägen klippa med porlande öringbäck några meter från insteget. Ett fåtal gjorda leder med potential för det dubbla. 
+
+==Beskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="60.062099" lon="13.677979" type="map" zoom="8" width="300" height="300">
+60.115153, 13.92236, Skilsmässostupet
+</googlemap>
+</div>
+
+Vertikalt till lätt överhängande. 
+Namnet antyder att det är dit man åker på nåder och stannar en kort stund för intakt husfrid. I anslutning till klippan bedriver ett turistföretag ibland kommersiell verksamhet. Visa då hänsyn och fråga gärna huruvida klättring är acceptabelt.
+
+==Vägbeskrivning==
+
+Här kommer det så småningom hamna en vägbeskrivning. Tillsvidare får man utgå från kartan.
+
+<!-- ta bort denna rad och nedan rad för att få "nytt stycke"
+<div style="clear:right;"></div>
+{{sidbrytning}}
+Denna rad måste också tas bort för att få "nytt stycke" enligt ovan -->
+
+==Leder==
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led | nr=1 | namn=Revenge of scaphoideum | grad=7a | betyg=0 | längd=13 | fa=[[Jonas Hasselroth]] 2008 | typ=sport | text= Tekniskt, lätt överhängande. Toppankare.}} 
+
+{{led | nr=2 | namn=Bultfeber | grad=6a | betyg=0 | längd=14 | fa=[[Jonas Hasselroth]] 2005 | typ=sport | text= Grepprikt med ett okynnigt placerat toppankare. }} 
+
+{{led | nr=3 | namn=Projekt | grad=? | betyg=0 | längd=12? | fa= | typ=sport | text= }}
+
+{{led | nr=4 | namn=Borde bultas | grad=6 | betyg=0 | längd=12 | fa=[[Jonas Hasselroth]] 2005 | typ=trad | text= Välsäkrat längs den tydliga sprickan bakom flaket. }} 
+
+{{led | nr=5| namn=Jo förfan, det går!! | grad=7a+ | betyg=0 | längd=10 | fa=[[Kari Nikumaa]] 2005 | typ=sport| text= Toppankare.}} 
+
+{{led | nr=6| namn=Klyftan | grad=6 | betyg=0 | längd=7 | fa=[[Michael Salomonsson]] 2005 | typ=trad| text=Spricka i hörnet som syns tydligt från stigen till toppen. }} 
+
+| width="350px" |
+
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]] 
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]] 
+[[Kategori:överhäng]] 
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Värmland]]

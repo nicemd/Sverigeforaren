@@ -1,0 +1,57 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Dirk Diggler|grad=7A|typ=Krimp|fa=Magnus Kempe|landning=3|betyg=1|fadatum=2003-08-14|sopad=Magnus Kempe|sittstart=ja|text=Sittstart nere till vänster, går snett upp åt höger till spetsen och sedan rakt upp.}}
+{{problem|namn=Do or Die|grad=6C+|typ=Krimp,Highball|fa=Magnus Kempe|landning=4|betyg=3|fadatum=2003-09-10|sopad=Magnus Kempe|startgrepp=ja|uteslutningar=ja|text=Startar i layback i den feta vertikala  sprickan nere till vänster,traversera höger på listerna och gå sedan rakt upp över båda blocken utan att använda någonav areterna.}}
+{{problem|namn=CocaCola röv|grad=7A+|typ=Krimp|fa=Per Wermelin|landning=2|betyg=1|fadatum=2004-06-07|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Startar under ett litet överhäng i ett undercling och en crimplist. Klättra sedan rakt upp.}}
+{{problem|namn=Crystal Ball|grad=7A+|typ=Krimp|fa=Fredrik Bodin|landning=5|betyg=2|fadatum=2004-06-07|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart under överhänget, går rakt ut och upp över bullen.}}
+{{problem|namn=Illger|grad=7A|typ=Krimp|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2004-06-21|sopad=Fredrik Bodin|text=Startar vid sprickan, går rakt upp.Går på den överhängande väggen ovanför hoppbacken.}}
+{{problem|namn=Luger|grad=6C+|typ=Layback,Aréte|fa=Magnus Kempe|landning=3|betyg=1|sopad=Magnus Kempe|text=Följer arêten rakt upp, längdberoende. Går på den överhängande väggen ovanför hoppbacken.}}
+{{problem|namn=Blockspel|grad=6C+|typ=Krimp|fa=Fredrik Bodin & Björn Knutsson|landning=2|fadatum=2004-07-17|sopad=Fredrik Bodin & Björn Knutsson|sittstart=ja|variant=ja|text=Sittstartsvariant till Lille-Skutt.}}
+{{problem|namn=Absinthe|grad=7B|typ=Krimp,Överhäng,Dyno|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2007-06-03|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på sidepullrampen, går rakt ut och upp över bullen.}}
+{{problem|namn=Rövaren|grad=6C+|typ=Krimp,Jug,Heel hook|fa=Fredrik Bodin|landning=2|fadatum=2007-06-03|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart med händerna på jugen som är längst ut under taket, går rakt ut åt höger och upp (pil finns i taket). Kanten till vänster ovanför taket är utesluten.}}
+{{problem|nr=1|namn=Jedi maser|grad=7A+|typ=Krimp,Slopers,Highball|fa=Fredrik Bodin|landning=5|betyg=3|fadatum=2003-04-02|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på listen. Följer sedan kanten/kammen snett upp åt vänster. Lite grad för höjd/landning.}}
+{{problem|nr=2|namn=Jabba|grad=6A|typ=Mantling|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-04-02|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Börjar hängandes på läppen. Bryt över kanten och sedan upp.}}
+{{problem|nr=3|namn=Garmont|grad=5B|typ=Krimp,Dyno|fa=Fredrik Bodin|fadatum=2003-04-02|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på crimprarna. Halvdynamiskt move upp till kanten}}
+{{problem|nr=4|namn=?|grad=5C|typ=Krimp|fa=Fredrik Lund|landning=2|fadatum=2003-04-02|sopad=Fredrik Lund|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på sidepullisten. Gå sedan rakt upp via någon list till kanten.}}
+{{problem|nr=5|namn=Axmurder|grad=6C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=5|betyg=2|fadatum=2003-04-02|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart med vänster hand på slopen runt arêten och höger hand på crimp i överhänget. Gå sedan rakt upp, håll till höger. Luftigt utsteg.}}
+| width="250px" |
+{{problem|nr=6|namn=Rodrodrillen|grad=6A|typ=Mantling|fa=Fredrik Bodin|landning=2|fadatum=2003-04-02|sopad=Fredrik Bodin|sittstart=ja|text=Börja under den utstickande spetsen, med ryggen in mot stenen. Häv upp kroppen, så att du hamnar sittande på spetsen. Mongolidproblem}}
+{{problem|nr=7|namn=Sideway|grad=6B|typ=Dyno|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-04-02|sopad=Fredrik Bodin|startgrepp=ja|text=Startar på läppen längst ner till vänster på väggen. Dyno upp till kanten, snett upp åt höger}}
+{{problem|nr=8|namn=White men can jump|grad=6C|typ=Dyno|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-02|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar på de två listerna under det lilla taket. Dyno upp till kanten på hyllan.}}
+{{problem|nr=9|namn=Kung Fu|grad=6C|typ=Krimp,Travers V->H|fa=Peter Nilsson|landning=4|betyg=1|fadatum=2003-04-02|sopad=Peter Nilsson|startgrepp=ja|text=Travers som börjar på det stora greppet nere till vänster. Traversera ca 10 meter till höger och avsluta med händerna på den tydliga hyllan.}}
+{{problem|nr=10|namn=Oborstad|grad=6A|typ=Highball,Aréte|fa=Stefan Hedin|landning=5|fadatum=2003-04-02|text=Följer den tydliga arêten upp på hyllan. Lättast är att fira från hyllan när man skall ner. Problemet är oborstat, därav namnet.}}
+{{problem|nr=11|namn=?|grad=6B|typ=Krimp,Layback,Jug,Spricka|fa=Magnus Kempe|landning=3|fadatum=2003-08-18|sopad=Magnus Kempe|sittstart=ja|text=Startar med sittstart längst in under taket, går ut genom detta och sedan upp via sprickan.}}
+{{problem|nr=12|namn=Snatch|grad=7B|typ=Krimp,Slopers,Dyno|fa=Fredrik Bodin|landning=2|betyg=3|fadatum=2003-04-02|sopad=Magnus Kempe & Fredrik Bodin|startgrepp=ja|text=Börjar med en spektakulär hoppstart upp till slopen. Går först aningen åt vänster, för att sedan gå rakt upp via den tydliga sprickan.}}
+{{problem|nr=12|namn=Ballbreaker|grad=5C|typ=Slopers,Mantling|fa=Magnus Kempe|landning=3|betyg=1|fadatum=2003-04-02|sopad=Magnus Kempe|startgrepp=ja|text=Börjar till höger om "bullen", traversera vänster på denna, sedan upp i sprickan. Problemet slutar när du står på "bullen". Se bild!}}
+{{problem|nr=12|namn=Big pinch|grad=6C|typ=Slopers|fa=Magnus Kempe|landning=3|betyg=1|fadatum=2003-04-02|sopad=Magnus Kempe|text=Startar i sprickan, utan att stå på backen eller klipphällen. Går sedan via kanten ut till arêten och därefter upp.}}
+{{problem|nr=12|namn=Kapten Zoom|grad=6B|typ=Slopers,Mantling|fa=Magnus Kempe|betyg=2|fadatum=2003-04-02|sopad=Magnus Kempe|startgrepp=ja|text=Startar lika som "Big pinch", gå bort till hyllan och därefter upp. Se bild!}}
+{{problem|nr=12|namn=South paw|grad=6A+|typ=Slopers|fa=Magnus Kempe|landning=3|betyg=1|fadatum=2003-04-02|sopad=Magnus Kempe|startgrepp=ja|text=Startar lika som "Big pinch", går därefter åt vänster bort till "Lille skutt", sedan mantling.}}
+{{problem|nr=12|namn=Lille skutt|grad=6A|typ=Krimp,Mantling|fa=Magnus Kempe|landning=3|betyg=1|fadatum=2003-04-02|sopad=Magnus Kempe|startgrepp=ja|text=Börjar på långt ner på listerna, gå därefter upp till kanten och upp.}}
+{{problem|nr=12|namn=Köttjuven|grad=5C|typ=Spricka|fa=Magnus Kempe|landning=3|betyg=1|fadatum=2003-04-02|sopad=Magnus Kempe|uteslutningar=ja|text=Går rakt upp i sprickan, utan att stå på klipphällen i början. Problemet slutar när du står på "bullen".}}
+| width="250px" |
+{{problem|nr=13|namn=Bloodgod|grad=5C|typ=Krimp,Slopers,Mantling|fa=Magnus Kempe|landning=3|betyg=2|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|startgrepp=ja|text=Börjar inne i "grottan", går därefter ut och sedan rakt upp.}}
+{{problem|nr=13|namn=La Magra|grad=6C|typ=Krimp,Mantling|fa=Magnus Kempe|landning=3|betyg=2|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|variant=ja|startgrepp=ja|text=Börjar lika som "Bloodgod", går efter ut till den stora listen och därefter upp.}}
+{{problem|nr=13|namn=Whistler|grad=6B+|typ=Krimp,Aréte|fa=Magnus Kempe|landning=5|betyg=2|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|variant=ja|startgrepp=ja|text=Går likadant som "La Magra", ut till den stora listen. Därefter går man upp via arêten.}}
+{{problem|nr=14|namn=Take of|grad=6C|typ=Mantling,Dyno|fa=Magnus Kempe|landning=2|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|text=Leden börjar med en hoppstart upp till kanten, därefter mantling. Lättare om man är lång.}}
+{{problem|nr=15|namn=Hasse var nära|grad=5C|typ=Krimp|fa=Magnus Kempe|landning=2|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|startgrepp=ja|text=Börjar i sprickan, inne i grottan, går sedan rakt ut och upp.}}
+{{problem|nr=15|namn=Stjärt|grad=6C|typ=Krimp,Slopers,Överhäng,Spricka|fa=Magnus Kempe|landning=2|betyg=2|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|variant=ja|startgrepp=ja|text=Startar på samma ställe som "Hasse var nära", följer sedan taket rakt ut och upp.}}
+{{problem|nr=15|namn=F.Ä.B.|grad=7A|typ=Slopers,Överhäng,Dyno,Spricka|fa=Magnus Kempe|landning=2|betyg=2|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|variant=ja|startgrepp=ja|text=Börjar lika som "Stjärt", går sedan ut där taket är som längst. Dynamiskt move ut till kanten.}}
+{{problem|nr=15|namn=All the way|grad=6A|typ=Krimp,Överhäng,Spricka|fa=Magnus Kempe|landning=2|betyg=2|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|variant=ja|startgrepp=ja|text=Börjar lika som "Stjärt", går därefter under taket bort åt vänster och därefter upp.}}
+{{problem|nr=16|namn=Ännu en regnig dag|grad=6B|typ=|fa=Magnus Kempe|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|startgrepp=ja|text=Börjar med händerna på flaket. Problemet slutar när du står på hyllan.}}
+{{problem|nr=17|namn=Storebror|grad=6C|typ=Överhäng|fa=Magnus Kempe|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|startgrepp=ja|text=Börjar under taket, går sedan rakt ut över detta.}}
+{{problem|nr=18|namn=Mars 99|grad=6A+|typ=Överhäng,Spricka|fa=Magnus Kempe|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|startgrepp=ja|text=Börjar lika som "Storebror", går sedan åt vänster och upp i sprickan.}}
+{{problem|nr=19|namn=Holy smoke|grad=6A|typ=Överhäng,Aréte|fa=Magnus Kempe|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|startgrepp=ja|text=Går lika som "Mars 99", men fortsätter åt vänster och följer sedan arêten upp.}}
+{{problem|nr=20|namn=Rövsmör|grad=5B|typ=Spricka|fa=Magnus Kempe|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|startgrepp=ja|text=Sittstart, följer sedan den tydliga sprickan.}}
+{{problem|nr=21|namn=Pungseglet|grad=6B|typ=Krimp|fa=Magnus Kempe|betyg=1|fadatum=2003-04-03|sopad=Magnus Kempe|sittstart=ja|text=Går rakt upp till höger om "Rövsmör". Börjar med sittstart.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,89 @@
+{{info klippa
+  |lat=60.3135
+  |long=12.7641
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+{{utkast}} 
+<!-- {{komplett}} -->
+
+==Allmänt==
+Nyupptäckt klippa cirka 5 km norr om Östmark. Klippan ligger i västerläge med ganska tät skog direkt invid. Klippan har potential till cirka 10-15 tradleder och 10-20 sportleder. Det verkar finnas möjlighet för bouldering i anslutning till klippan. Klippans höjd ligger kring 6-12 meter och cirka 100 meter bred. 
+
+==Vägbeskrivning==
+Kör E45 till Torsby och sväng av mot Östmark. Efter Östmarks kyrka sväng höger i korsningen vid ICA-butiken mot Kristinefors. Kör cirka 4-5 km till Metbäcken, sväng höger precis före skylten över en bro, parkera på vänster sida efter bron. Följ vägen till vänster längs åkerkanten tills en liten sommarlada dyker upp på höger sida, där finns en skogsbilväg på höger sida (kan vara svår att se på grund av buskage), följ denna genom skogen tills vägen kör en kraftig vänstersväng och går brant uppåt. Vid denna position välj att gå rakt fram genom skogen och du kommer fram till Klippan. 
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="60.3135" lon="12.7641" type="map">
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+Tre tradlinjer är gjorda hittills, det krävs en del rensningsarbete innan det går att uttala sig till fullo hur klippans kvalitet är. Av de tre gjorda linjerna är två fina leder, dom skulle dock gärna varit lite längre. Klippan har vissa lösa partier samt något ställe som verkar svårtorkat. Klippan har 3-4 sektioner med varierande typ av klättring med ofta överhängande start. Några av lederna har fina spricklinjer som tilltalar en kilfantast i början av karriären.
+
+Markägaren tycker att det är ok att klättring sker, frågor om att bulta har ännu inte ställts.
+
+Mer information kommer.
+
+[[Bild:kallerhorn.jpg|200px|thumb]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Kallerhorn|grad=5-|typ=trad|betyg=2|bultar=|längd=10-12|fa=Mathias Nilsson (John-Olov Larsson) 120908|text=Varierad klättring med blöt start, möjlighet att välja en alternativ start via en platå med en gran. Från cirka 3-4 meter och uppåt följer en fin välsäkrad spricklinje. Diederklättring med lite knix för att ta sig över en rygg till höger. I övrigt rätt fina jamgrepp och listor, dock behöver sprickan borstas ur djupare, just nu ställer mycket jord till intressanta problem. Leden avslutades med att klättra upp på "hornet" till vänster. }}
+
+
+|}
+
+
+
+[[Fil:kallesnr2.jpg|200px|thumb]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=2|namn=Kalles nr 2|grad=4-|typ=trad|betyg=1|bultar=|längd=8-10|fa=Mathias Nilsson (Conny Andersson) 120908|text=Välsäkrad spricklinje med en något tung start, därefter enkelt till toppen. Leden sväljer kamkilar i en tills dels djup spricka full av rötter och jord. }}
+
+
+|}
+
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=3|namn=Kalles Crack|grad=4+|typ=trad|betyg=2|bultar=|längd=7|fa=Conny Andersson (Mathias Nilsson) 120908|text=Välsäkrad spricklinje med fina steg hela vägen. }}
+
+
+|}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Värmland]]

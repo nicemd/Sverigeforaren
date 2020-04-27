@@ -1,0 +1,73 @@
+{{info klippa
+  |lat=58.066891563094586
+  |long=11.73314094543457
+}}
+
+{{stub}}
+
+==Introduktion==
+En mycket lättillgänglig sportklippa. Parkera inte vid klippan under några som helst omständigheter. Finns badplats i närheten. 
+
+== Access == 
+{{accessDB|klippa=tjornbroklippan}} 
+==Karaktär==
+Brant. Heltbultad. Håller sig hyfsat torr.
+
+Leder från 6a och uppåt.
+
+==Vägbeskrivning==
+<googlemap lat="58.066891563094586" lon="11.73314094543457" zoom="12" type="karta">
+58.066891563094586,11.73314094543457,Tjörnbroklippan
+</googlemap>
+Parkera söder om väg 160, på en parkeringsplats, och ta gångtunneln under vägen.
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+<youtube>v=LS46D1Y5kuM</youtube>
+
+==Leder==
+{{led|ny=1|grad=6a|text=Till vänster i skogen|typ=sport|namn=Pluto|fa=Jens Larsen}}
+{{led|ny=1|grad=6c|typ=topprep|text=Till vänster i skogen|fa=|namn=Mimmi}}
+
+{{led|fa=|namn=Enfingret|grad=6a+}}
+{{led|fa=|namn=Farmor Anka|grad=6a+}}
+{{led|fa=|namn=Fabror Luhr|grad=6c}}
+{{led|fa=|namn=Ingen Pump|grad=6c+}}
+{{led|fa=|namn=Kom igen Kompis|grad=7a}}
+{{led|fa=|namn=Mowgli|grad=6c+}}
+{{led|namn=Svarte Mowgli|grad=6c+}}
+{{led|fa=|namn=Svarte Petter|grad=7b}}
+{{led|fa=|namn=Stora stygga vargen|grad=7c+}}
+{{led|fa=|namn=Tjuren Ferdinand|grad=7a+}}
+{{led|fa=|namn=Goofy|grad=7a}}
+{{led|fa=|namn=Farbror Joakim|grad=7a+}}
+{{led|fa=|namn=Kalle Anka|grad|grad=6b+}}
+{{led|fa=|namn=Baloo|grad=6c}}
+{{led|fa=|namn=Björnligan|grad=6b}}
+{{led|fa=|namn=King Louie|grad=6c+}}
+{{led|fa=|namn=Lurad|grad=7a}}
+{{led|fa=|namn=??|grad=?|fa=|text=Projekt nr 17}}
+{{led|fa=|namn=Bamse|grad=6c|ny=1}}
+{{led|fa=|namn=Törnrosa|grad=6c}}
+{{led|fa=|namn=Freepoint|grad=7b}}
+{{led|fa=|namn=Pinochio|grad=7b}}
+{{led|fa=|namn=Hoola Bandola|grad=7b+}}
+{{led|fa=|namn=Hej Babberibba|grad=7c}}
+{{led|fa=|namn=Armageddon|grad=7b+}}
+{{led|fa=|namn=Valhalla|grad=?}}
+{{led|fa=|namn=Ragnarök|grad=8a}}
+{{led|fa=|namn=Långnäsa|grad=6c+}}
+{{led|fa=|namn=?|grad=?|text=Projekt nr 27}}
+{{led|fa=|namn=Katastrof|grad=7c}}
+{{led|fa=|namn=Grevinnan|grad=?}}
+{{led|fa=|namn=Epikuré|grad=7c+}}
+{{led|fa=|namn=Epicentrum|grad=7c+}}
+{{led|fa=|namn=Epidemi|grad=7c}}
+{{led|fa=|namn=Big Bang|grad=8a+}}
+{{led|fa=|namn=Crash Boom bang|grad=7b+}}
+
+[[category:Överhäng]]
+[[category:Sport]]
+[[category:Barnvänligt]]
+[[category:Video]]
+[[Kategori:Bohuslän]]

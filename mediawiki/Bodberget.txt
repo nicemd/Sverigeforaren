@@ -1,0 +1,188 @@
+{{info klippa
+  |lat=61.44779398698079
+  |long=16.501121520996094
+}}
+
+{{komplett}}
+[[Bild:Krakel.jpg|thumb|300px|right|Kent Andersson på Krakel Spektakel (5), Bodberget, 1982. Foto: Per Calleberg]]
+
+==Allmänt==
+Bodberget ligger ca 4 mil från Söderhamn, 7 kilometer från Arbrå. Det är det högra av de tre bergen öster om byn Flästa. [[Norrberget]] ligger nära, liksom [[Hisnopp]] och [[Torpberget]].
+
+==Access {{access}}==
+Det finns häckande fåglar på Bodberget vilket innebär klätterförbud fram till 1:a Augusti.
+
+{{AccessDB|klippa=bodberget}}
+
+== Kommunikationer ==
+<div style="float:right">
+<googlemap lat="61.45616167347874" lon="16.443099975585938" width="400" height="200" zoom="12" type="map">
+61.44779398698079,16.501121520996094,Bodberget (ungefärlig plats)
+</googlemap>
+</div>
+Mest praktiskt är att åka bil. Från Söderhamn åker man länsväg 301 mot Bollnäs. Efter ca två mil befinner man sig i byn Glössbo, där svänger man höger vid en skylt "ARBRÅ 27". Efter ca 18 km kommer man till byn Flästa. Här svänger man höger vid en skylt "ÖJUNGEN 6". Efter en och en halv kilometer befinner man sig rakt nedanför Bodberget. 100 meter bortanför det andra militära förrådet efter vägen finns parkeringemöjligheter. Härifrån följer man ett gammalt skogsmaskinspår upp i skogen. Följ snitslingen fram till berget. Det är även möjligt att åka buss. Från Bollnäs får man åka till Arbrå, där man sedan byter till en buss som går till Flästa. Där den vänder, i bortre änden av Flästa, vid skylten "ÖJUNGEN 6", kliver man av och sedan får man gå sista biten (drygt en och en halv km). 
+GPS-koordinater för klippan: Lat: N 61º 26' 47.15" Long: E 16º 30' 56.38"
+
+{{sidbrytning}}
+==Väggar==
+[[Bild:bodberget.jpg]]
+
+Väggarna vätter mot söder. Längst till höger finns Östpelaren med två stora tydliga överhäng. Till vänster om denna ligger huvudväggen, vilken är som en stor amfiteater, urgröpt ur berget. Den är ungefär 100 m bred och 50 m hög, men ger ett rätt uppbrutet intryck. Till vänster om huvudväggen syns en tydlig klipprygg, en pelare som sluttar ca 60 grader lutning upp mot bergets topp, den s k Kvicksilverpelaren. Till vänster om pelaren finns en lös ränna, vilken tidigare begagnades som nedstigningsled. Till vänster om rännan ligger den s k övniningsklippan. Den är ca 75 m bred och 20 m hög och har åtminstone tidigare, när berget var mer frekventerat, varit så gott som renborstad från lavar och andra otrevligheter. Nedstigningen är helt problemfri och går i skogen till vänster om övningsklippan
+
+{{sidbrytning}}
+=== Övningsklippan ===
+[[Bild:BB_ovning.jpg]]
+
+[[Bild:Journey.jpg|thumb|300px|right|Kent Andersson gör första fria bestigningen av Journey to Glory (4+), Bodberget, 1981. Foto: Per Calleberg]]
+{{led|nr=1|namn=Kebab|längd=7|grad=4+|gruv=a|typ=trad|fa=Thomas Johnsson och Buster Delin 1983|text=(vid nedstigning) 75 m upp längs nedstigningnen räknat från röset vid "Endast för galningars" insteg, ligger en grov knytnävsspricka.  }}
+
+{{led|nr=2|namn=Iskalla Killen|längd=8|grad=3+|gruv=d|typ=trad|fa=Buster Delin och Claes Renström 1983|text=30 m upp längs nedstigningen från röset räknat. Startar från en odefinierad pelare och sedan vidare upp på en fem m svaplatta. Avslutas med en hangeltravers vänster längs svaets topp. Osäkrad.  }}
+
+{{led|nr=3|namn=Älvdansen|längd=20|grad=4|gruv=b|typ=trad|fa=Buster Delin och Torbjörn Nilsson 1983|text=Startar bakom tallen ca 10 m till vänster om röset. Startar vid en sned spricka, vid några utskjutande kloppblock. Ca 4 m upp kliver man höger över en bulle, ut på en list, sen följer man sprickor rakt upp mot toppen.  }}
+
+{{led|nr=4|namn=Journey to Glory|längd=20|grad=4+|gruv=b|betyg=2|typ=trad|fa=Pär Nolgård m topprep 1981|text=Fritt: Kent Andersson, Per Calleberg och Pär Nolgård, 1981 Insteg på väggen strax till höger om föregående led. Följer tunna sprickor snett upp åt höger till ett rött dieder, korsas åt höger genom ett spagatsteg. Följer sedan den tydliga sprickan rätt upp på väggen till en tall. }}
+
+{{led|nr=5|namn=Änglavakt|längd=20|grad=4|gruv=b|typ=trad|fa=Mikael Bäckman 1979|text=Startar i ett litet hörn till höger om föregående led. Följer sedan den röda diederformationen till toppen.  }}
+
+{{led|nr=6|namn=Maiden Voyage|längd=20|grad=5-|gruv=b|typ=trad|fa=Kent Andersson och Gunnar Larsson 1981|text=En tämligen slingrig och krystad linje. Startar till höger om "Änglavakt" med ett kliv in på densamma. Ca 6 m upp, kort travers höger till en nisch. Därifrån följer man den högra av två parallella sprickor diagonalt upp mot vänster. Sen följs ett ruttet dieder upp till toppen.  }}
+
+{{led|nr=7|namn=Endast för Galningar|längd=20|grad=4+|gruv=c|typ=trad|fa=Mikael Bäckman m topprep 1980)|text=Fritt: Mikael Bäckman, Anders Dahl och Kent Andersson, 1980 Startar på den släta plattan mittför röset. Rakt upp till nischen, sen höger upp på en hylla. Vidare höger ut på väggen och sen rätt upp.  }}
+
+{{led|nr=8|namn=Vårled|längd=20|grad=4-|gruv=b|betyg=1|typ=trad|fa=Per Calleberg och Eva-Lotte Andersson 1982|text=Startar i hörnet bakom tallen till höger om röset. Klättra snett uppåt vänster till nischen. Fortsätt rakt upp i den vänstra av de två diagonalsprickorna. Sprickan tar en till en hylla, från hyllan klättrar man rakt upp till toppen. 2 bultar.  }}
+
+[[Bild:TheBisquit.jpg|thumb|300px|right|Per Calleberg gör första fria bestigningen av The Bisquit 1982. Foto: Per Callebergs arkiv.]]
+
+{{led|nr=9|namn=After Shave|längd=8|grad=5+|gruv=b|betyg=1|bultar=1|typ=mix|fa=Buster Delin, Per Calleberg och Peter Brolin 1986|text=Från hyllan på "Endast för galningar" klättrar man snett upp åt vänster till bultar, sedan rakt upp förbi en borrbult genom små tak tills man kommer in på "Le Freak"s utstegsspricka, som följs.  }}
+
+{{led|nr=10|namn=Le Freak|längd=20|grad=5|gruv=c|betyg=1|bultar=1|typ=mix|fa=Kent Andersson m topprep 1981|text=Fritt: Kent Andersson, 1983 Samma insteg som Vårled, sedan rakt upp över ett litet överhäng. Klättra förbi en borrbult och sen det tydliga diedret upp. Vik sedan av åt vänster och följ en diagonal spricka till toppen. Starta i samma hörn som för "Vårled", men gå höger över hyllan och nå det stora, tydliga flaket. Följ kanten på flaket och stå upp på hyllan ovanpå. Fortsätt snett upp åt höger förbi bultar.  }}
+
+{{led|nr=11|namn=The Bisquit|längd=20|grad=5|gruv=c|betyg=1|typ=trad|fa=Eva-Lotte Andersson m topprep 1981|text=Fritt: Per Calleberg och Kent Andersson, 1982  Starta i samma hörn som för "Vårled", men gå höger över hyllan och nå det stora, tydliga flaket. Följ kanten på flaket och stå upp på hyllan ovanpå. Fortsätt snett upp åt höger förbi bultar.  }}
+
+{{led|nr=12|namn=Främlingsvägen|längd=20|grad=5|gruv=b|betyg=2|bultar=1|typ=mix|fa=Per Calleberg m topprep 1982|text=Fritt: Per Calleberg och Pär Nolgård, 1983 Följ räfflan på väggen någon meter till vänster om "Hybris". När flaket som leder upp till "The Bisquit" nås, kliver man ut åt höger och följer "Hybris" ett par meter upp. Så snart det är möjligt kliver man tillbaka ut åt vänster och klättrar rakt upp över den branta väggen.  }}
+
+{{led|nr=13|namn=Hybris|längd=17|grad=4-|gruv=b|typ=trad|fa=Kent Andersson, Hans Lindgren och Per Calleberg 1981|text=Starta i ett kort hörn drygt fem m till höger om röset. Sedan upp över hyllor och det uppbrutna stråket av röd klippa under den tydliga, sluttande skivan.  }}
+
+{{led|nr=14|namn=Utsvävningen|längd=5|grad=5-|gruv=a|typ=trad|fa=Per Calleberg 1982|text=Utstegsvariant på "Hybris". Går rakt ut åt höger i den tydliga sprickan i den stora, sluttande stenskivan}}
+
+
+{{sidbrytning}}
+
+=== Övningsklippan - Plattan ===
+[[Bild:BB_plattan.jpg]]
+
+{{led|nr=15|namn=Dynghålet|längd=17|grad=4+|gruv=b†|typ=trad|fa=Kent Andersson och Per Calleberg 1982|text=Klättra uppför en kort vägg upp på en inte så brant häll. Klättra upp till björken och följ den tydliga rännan som separerar övningsväggen från den tydliga plattan till höger. Skitig och kan inte rekomenderas.  }}
+
+{{led|nr=16|namn=Tilltaget|längd=20|grad=5|gruv=b|betyg=1|bultar=1|typ=trad|fa=Per Calleberg m topprep 1982|text=Fritt: Per Calleberg och Kent Andersson, 1982  Klättra uppför en kort vägg. Snedda upp över hällen till en björk. Följ räfflorna i plattans vänsterkant, förbi en borrbult, och vidare upp till toppen förbi en bult.  }}
+
+{{led|nr=17|namn=Upptaget|längd=20|grad=4|gruv=c|typ=trad|fa=Torbjörn Nilsson m topprep 1982|text=Fritt: Buster Delin och Kent Andersson, 1984  Klättra uppför hällen till basen av plattan. Följ en serie ojämnheter rakt uppför mitten på plattan. Säkra med fördel i "Tilltaget"'s borrbult. Har tyvärr en tendens att växa igen snabbt.  }}
+
+{{led|nr=18|namn=Handtaget|längd=20|grad=4-|gruv=d|typ=trad|fa=Kent Andersson m topprep 1982|text=Fritt: Buster Delin, 1984  Klättra uppför hällen till basen av plattan. Följ en serie ojämnheter i plattans högerkant. Osäkrad.  }}
+
+{{led|nr=19|namn=Sol o vår|längd=10|grad=3-|gruv=a|typ=trad|fa=Kent Andersson 1982|text=Startar från svackan till vänster om den lösa rännan. Följer en diederformation upp till en platta och sen en diagonal travers åt höger.  }}
+
+{{led|nr=20|namn=Det ska vi fira|grad=?|text=Mellan Övningsklippan och Kvicksilverpelaren finns en lös ränna (Det ska vi fira) som förr användes som nedstigning. Den är dock lös och bör undvikas. }}
+
+
+{{sidbrytning}}
+
+=== Kvicksilverpelaren - nedre delen ===
+[[Bild:BB_kvick_ned.jpg]]
+[[Bild:%C3%96stpelaren_Bodberget.jpg|thumb|300px|right|Kvicksilverpelaren på Bodberget sedd från Östpelaren. Foto: Per Calleberg]]
+{{led|nr=21|namn=Frysleden|längd=120|grad=2|gruv=a†|typ=trad|fa=Olov Nilsson och Gunnar Larsson 1979|text=Följer vänsterkanten på kvicksilverpelaren. Efter ca replängd går man höger upp på själva pelaren och fortsätter rakt upp till toppen på berget. Lös. Bör undvikas, åtminstone sommartid, p g a risk för stenras.  }}
+
+{{led|nr=22|namn=Över noll|längd=35|grad=4-|gruv=b|betyg=2|typ=trad|fa=Mikael Bäckman och Per Calleberg 1980|text=Friktionsklättring längs toppen på kvicksilverpelaren. En replängd, 2 bultar. Standplats till höger vid en stor tall. Lätt nedklättring till vänster, runt hörnet. Man kommer så småningom ned till "Det skall vi fira", som så långt ned inte är särskilt lös.  }}
+
+{{led|nr=23|namn=Stegen|längd=10|grad=3+|gruv=b|typ=trad|fa=Torbjörn Nilsson 1982|text=Väggklättring tre meter till vänster om "Take Off". Går ihop med "Take Off" efter ca 10 meter. 2 eller 3 bultar.  }}
+
+{{led|nr=24|namn=Take Off|längd=20|grad=4-|gruv=a|typ=trad|fa=Kent Andersson och Per Calleberg 1981|text=25 m upp på högersidan på kvicksilverpelaren finns en tydlig diederformation som toppas av ett överhäng. Klättra diedret, traversera vänster under taket, sen rännan upp till standplatstallenpå "Över noll". Variant: runda taket på dess högra sida.  }}
+
+{{led|nr=25|namn=Stridspiloten|längd=20|grad=5-|gruv=c|betyg=3|bultar=1|typ=trad|fa=Per Calleberg m topprep 1981|text=Fritt: Kent Andersson och Torbjörn Nilsson, 1982 Går uppför den sprickiga väggen alldeles till höger om "Take Off". Vidare upp på svaplattan ovanför. 1 borrbult på svaet. Standplats som för "Över noll".  }}
+
+{{led|nr=26|namn=Venuspassagen|längd=20|grad=5-|gruv=c|betyg=1|typ=trad|fa=Kent Andersson m topprep 1982|text=Fritt: Kent Andersson, Torbjörn Nilsson och Åke Englund, 1983  Starta som för "Stridspiloten", men vik av åt höger under ett litet tak. Kliv upp i en diagonal spricka och följ den snett upp åt höger till toppen. Om man vill förlänga klättringen, kan man kliva ut på "Stridspiloten"'s slutmetrar när man kommit upp på en hylla efter den diagonala sprickan. Standplats som för "Över noll".  }}
+
+{{led|nr=27|namn=Sarras Sahara|längd=18|grad=5+|gruv=c|typ=trad|fa=Buster Delin och Per Calleberg 1984|text=Insteg 7 meter t h om "Venuspassagen". Följ sprickan upp till 2 bultar islagna bredvid varandra. Härifrån leder ett grunt och något svårsäkrat dieder rakt upp (krux).  }}
+
+{{led|nr=28|namn=Ritten|längd=50|grad=5-|gruv=c|typ=trad|fa=Torbjörn Nilsson 1982|text=Starta som för "Stridspiloten", men traversera strax höger och följ "Venuspassagen" upp någon meter. Fortsätt sedan den stigande traversen en full replängd. Standplats vid ett stort flak alldeles (snett) nedanför ett stort, sluttande överhäng. Bitvis dåligt säkrad.}}
+
+
+{{sidbrytning}}
+
+=== Kvicksilverpelaren - övre delen ===
+[[Bild:BB_kvick_ovre.jpg]]
+[[Bild:Den_Onde.jpg|thumb|200px|right|Torbjörn Nilsson toppar Den onde 1982. Foto: Per Calleberg]]
+{{led|nr=29|namn=Den gode|längd=15|grad=4+|gruv=a|betyg=1|typ=trad|fa=Torbjörn Nilsson 1982|text=Fin flak-klättring. På väggen till vänster om "Den onde" går denna led. Klättra de tydliga flaken och avsluta med en spricka.  }}
+
+{{led|nr=30|namn=Den onde|längd=25|grad=5+|gruv=c|bultar=1|typ=trad|fa=Torbjörn Nilsson m topprep 1982|text=Fritt: Torbjörn Nilsson och Anders Byfält, 1983 Tydlig spricklös diederformation som ligger ca 75 m upp i backen från insteget på "Take Off". I vänsterkanten av det sluttande överhänget finns en V-formad urgröpning. För att nå denna klättrar man "Den gode" någon meter och tar sedan ett jättekliv över i V-et. Sedan V-formen är klättrad traverserar man vänster någon meter och kliver upp, över en bulle, på ett sva, som sedan klättras. Säkras med en borrbult. Andremannen bör inte ta ur repet ur borrbulten innnan han//hon etablerat sig i V-et!  }}
+
+{{led|nr=31|namn=Den fule|längd=15|grad=4+|gruv=b|typ=trad|fa=Torbjörn Nilsson m topprep 1982|text=Fritt: Torbjörn Nilsson och Buster Delin, 1983 Från insteget på "Den onde" går man höger på en häll, under ett sluttande överhäng och kliver ut på en egg, och sedan vidare.}}
+
+{{sidbrytning}}
+
+=== Huvudväggen ===
+[[Bild:BB_huvud.jpg]]
+
+{{led|nr=32|namn=Skitleden|längd=50|grad=4+|gruv=b†|typ=trad|fa=Mikael Bäckman och Per Calleberg 1980|text=Leden följer den kamin som finnns i skärningen mellan huvudväggen och pelaren till vänster och har en uttalad karaktär av fjällklättring. Klättra en kort kamin bakom en stenplatta. Fortsätt upp i ett hörn och klättra själva kaminen, "Skithålet". När man kommer ur kaminen går man vänster längs två hyllor och klättrar en kort spricka upp till en tall. Standplats. Höger bakom ett stort stenblock och sedan rakt upp till topppen i en ränna.  }}
+
+{{led|nr=33|namn=Svart som natten|längd=25|grad=6-|gruv=d|typ=trad|fa=Buster Delin och Tony Holmberg 1986|text=Startar i ett tydligt svart stråk mellan "Skitleden" och det stora överhänget som korsas av "Överheten". Kliv sedan vänster och fortsätt rakt upp. Något ojämn klättring säkrad med ett par fasta bultar, men i övrigt inte så mycket.  }}
+
+{{led|nr=34|namn=Överheten|längd=50|grad=A2|gruv=a|betyg=1|fa=Kent Andersson och Per Calleberg 1982|text=Klättra lättast möjliga väg upp till början på diedret på "Genesis". Traversera vänster tio meter och klättra rakt upp under stora taket. (Som en variant kan man klättra diedret på Genesis och sedan göra en skyhook-travers ut åt vänster direkt uppe under taket). I och med en fast bult börjar den artificiella klättringen, som blir allt besvärligare ju högre upp man kommer. Till slut kommer man upp på lingonrisfyllda hyllor och traverserar så vänster en lång bit till en standplatstall.  }}
+
+[[Bild:%C3%96verhet.jpg|thumb|300px|right|Kent Andersson på Överheten (A2), Bodberget, 1982. Foto: Per Callebergs arkiv]]
+
+{{led|nr=35|namn=Genesis|längd=40|grad=4+|gruv=b|betyg=1|typ=trad|fa=Per Calleberg och Mikael Bäckman 1980|text=Denna led följer det stora, tydliga diedret mitt på huvudväggen. Klättra en överhängande nisch i vit klippa upp till en björk under ett överhäng. Gå vänster och upp och klättra sedan diedret upp till en stor hylla. Fortsätt vidare upp åt höger till en stor hylla med en stor tall och stora stenblock på. Om man letar i en spricka här, hittar man eventuellt fortfarande en burk med en gästbok i. Skriv i så fall i den! Härifrån följer man rännan som börjar vid hyllans vänsterkant, uppåt till toppen.  }}
+
+{{led|nr=36|namn=Exodus|längd=8|grad=4+|gruv=c|betyg=1|typ=trad|fa=Buster Delin och Peter Brolin 1985|text=Traversera vänster under det markerade taket t v om "Genesis" utsteg. Här kommer man att stå bredbent rakt över en otäck stenskiva, varför ett fall just därifrån skulle kunna få mycket olyckliga konsekvenser. Klättra sedan rakt upp över väggen ovanför. Tänk på att enochenhalvans friend kan vara bra att ha.  }}
+
+{{led|nr=37|namn=Traverstvärs|längd=8|grad=3-|gruv=a|typ=trad|fa=Åke Englund fågelskådande 19??|text=Inte mycket till led egentligen, utan används för att variera utstegen på "Genesis" och "Anabola stereoider".  }}
+
+{{led|nr=38|namn=Leviticus|längd=10|grad=5|gruv=b|betyg=1|typ=trad|fa=Buster Delin, Per Calleberg och Peter Brolin 1986|text=Från mitt på "Traverstvärs" leder en kort jamspricka upp till högerkanten av ett stort tak. Klättra den och traversera sedan vänster till "Genesis" utsteg.  }}
+
+{{led|nr=39|namn=Stjärnornas Krog|längd=18|grad=5+|gruv=b|betyg=1|typ=trad|fa=Kent Andersson och Per Calleberg 1981|text=I vänsterkanten på den tydliga röda väggen finns en tunn spricka som går snett uppåt vänster förbi ett tydligt flak, upp till högerkanten av en liten hylla. Följ sprickorna rakt upp till stora tallen på "Genesis" standplats. Tung i början.  }}
+
+{{led|nr=40|namn=Rymdimperiet Slår tillbaka|längd=10|grad=4+|gruv=b|typ=trad|fa=Kent Andersson 1982|text=Start som för "Stjärnornas krog", men vid den lilla hyllan går man vänster och ut runt ett hörn, in i ett dieder. Klättra rakt upp till ett överhäng. Här kliver man snett upp åt höger och går rakt upp i en ränna till "Genesis"'s standplats.  }}
+
+{{led|nr=41|namn=Mr Skywalker|längd=10|grad=5-|gruv=a|typ=trad|fa=Per Calleberg m topprep 1982|text=Följ "Rymdimperiet slår tillbaka" upp till överhänget. Traversera ut vänster en bit och gå upp i sprickan ovanför överhänget. Fortsätt rakt upp till "Genesis"'s standplats.  }}
+
+{{led|nr=42|namn=Anabola Steroider|längd=40|grad=5+|gruv=b|betyg=1|typ=trad|fa=Mikael Bäckman och Åke Englund 1981|text=Starta från en hylla nedanför en tydlig röd vägg. Klättra rakt uppför väggen, strax till vänster om ett hörn som vetter åt vänster, tills det börjar överhänga. Kliv höger ut runt hörnet och kliv med svårighet upp på en smal list. Gå något höger och klättra rakt upp till en liten hylla med en liten rönn på. Fortsätt rakt upp i den grova sprickan till en avrundad hylla. Standplats. Härifrån kan man antingen klättra rakt upp till toppen över något lös och svårsäkrad klippa, eller göra en travers vänster till "Genesis"'s utsteg.  }}
+
+[[Bild:AnabolaSteroider.jpg|thumb|300px|right|Mikael Bäckman gör förstabestigningen av Anabola Steroider, 1981. Foto: Per Calleberg]]
+
+{{led|nr=43|namn=Domedag|längd=12|grad=6|gruv=b|typ=trad|fa=Per Calleberg, Mikael Bäckman och Lennart Östlund 1980|text=Fritt: Mikael Bäckman, 1986 En variant till "Anabola stereoider". Fortsätt rakt upp där det börjar överhänga och upp längs stenplattans vänsterkant tills dess överkant nås. Traversera sedan höger på "Anabola stereoider".  }}
+
+[[Bild:Domedag.jpg|thumb|300px|right|Mikael Bäckman försöker friklättra Domedag, 1980. Foto: Per Calleberg]]
+
+{{led|nr=44|namn=Testosteron|längd=10|grad=6|gruv=c|betyg=3|bultar=1|typ=trad|fa=Buster Delin och Peter Brolin 1986|text=På väggen t h om "Anabola steroider"'s instegsdieder finns en borrbult. Klättra upp till denna, sedan följer en kort travers höger till en bult. Här går man rakt upp och in på "Anabola steroider".  }}
+
+{{led|nr=45|namn=DNA|längd=14|grad=5|gruv=c|typ=trad|fa=Buster Delin 1984|text=Väggtur bestående av två korta partier med hylla emellan. Utsteg strax t v om "Rock & Roll"'s insteg. Leden ligger alltså egentligen på ett mindre väggparti nedanför huvudväggen, vilket har en tendens att växa igen rätt fort och nu går leden knappast att göra utan en rejäl rensning, om någon ens kan hitta den längre... 2 bultar.  }}
+
+{{led|nr=46|namn=Juke Box|längd=14|grad=5-|gruv=b|betyg=3|typ=trad|fa=Buster Delin och Daniel Nolgård 1984|text=Starta som för "Rock & Roll" och klättra nästan hela denna. Vik sedan av åt vänster och följ ett diedersystem upp till en hylla. Här går man igenom ett överhäng och efter en kort travers vänster kan man följa en spricka rakt upp till toppen. Luftig. 2 bultar.  }}
+
+{{led|nr=47|namn=Rock & Roll|längd=20|grad=4+|gruv=b|betyg=1|typ=trad|fa=Torbjörn Nilsson och Thomas Lindholm 1982|text=Starta vid "Bäckfallet"'s insteg, men klättra upp åt vänster och följ det tydliga diedret upp. Leden går ihop med "Bäckfallet" ovanför den stora hyllan halvvägs.  }}
+
+{{led|nr=48|namn=Bäckfallet|längd=30|grad=4|gruv=b|typ=trad|fa=Mikael Bäckman och Lennart Östlund 1980|text=Följer hörnet i väggens högerkant, till höger om en tydlig, stor "näsa". Klättra rakt upp i det tydliga hörnet, rakt upp till en stor hylla ovanpå "näsan". (Ev standplats.) Fortsätt upp i hörnet ovanför, som avslutas med en kort layback och sedan utsteg åt höger.  }}
+
+{{led|nr=55|namn=Panik i Kubik|längd=12|grad=5-|gruv=c|betyg=1|typ=trad|fa=Buster Delin, Torbjörn Nilsson och Per Calleberg 1983|text=Flack, numera bortglömd väggtur i ravinen på baksidan av Bodbergets högra pelare. 2 bultar.  }}
+
+{{led|nr=56|namn=Sidvind|längd=6|grad=5+|gruv=a|typ=trad|fa=Buster Delin m topprep 1984|text=Kompakt dieder på östsidan av det största stenblocket i rasbranten nedanför huvudväggen. }}
+
+{{sidbrytning}}
+
+=== Östpelaren ===
+[[Bild:BB_ostp.jpg]]
+
+[[Bild:Trolldom.jpg|thumb|300px|right|Torbjörn Nilsson på Flygande trolldom (5+), Bodberget, 1982. Foto: Per Calleberg]]
+{{led|nr=49|namn=Den Muterade Hackspetten|längd=15|grad=6-|gruv=b|betyg=2|bultar=1|typ=mix|fa=Kent Andersson och Per Calleberg 1982|text=Klättra upp någon meter längs en spricka alldeles till höger om "Bäckfallet". Traversera höger till en bult. Klättra upp och sedan snett åt vänster förbi en bult. Klättra rakt upp till vänster om borrbult (krux) tills ett bra grepp nås i kanten av en nisch. Kliv upp i nischen, men fortsätt omedelbart ut åt vänster och sedan upp på hyllan.  }}
+
+{{led|nr=50|namn=Flygande Trolldom|längd=15|grad=5+|gruv=a|betyg=1|bultar=1|typ=mix|fa=Per Calleberg och Kent Andersson 1982|text=Starta som för "Den muterade hackspetten", men klättra rakt upp från första bulten, till nischen med tallen. 1 borrbult och 2 bultar.  }}
+
+{{led|nr=51|namn=Valdagen|längd=60|grad=5|gruv=b|typ=trad|fa=Torbjörn Nilsson och Per Calleberg 1982|text=Startar till vänster om "Krakel Spektakel". Klättra upp över lätt terräng till en hylla under stora taket. Upp till tydlig jamspricka. Alldeles under taket, går man vänster förbi en bult. Så småningom kommer man ner till "Bäckfallet"'s insteg. Standplats. Andra replängden följer till att börja med, en spricka parallellt med "Bäckfallet", men viker sen av åt höger och kommer upp på en stor hylla. Härifrån klättras den grova diagonalsprickan till toppen.  }}
+
+{{led|nr=52a|namn=Stillheten, Piskad till underkastelse|längd=9|grad=7+|gruv=b|betyg=2|typ=trad|fa=Johan Luhr och Arne Johnsen 1987|text=Bodbergets gamla klassiska, desperata topprepsproblem blev så småningom lett. Tunn väggklättring på väggen till vänster om Kusin vitamin. Börjar svårt, och blir bara vidrigare ju högre upp man kommer. 2 borrbultar. Förstabestigaren förplacerade en kil vid utsteget under firningsinspektion.  }}
+
+{{led|nr=52b|namn=Kusin Vitamin|längd=8|grad=4|gruv=a|typ=trad|fa=Mikael Bäckman och Torbjörn Nilsson 1982|text=I vänsterkanten på den stora hyllan där "Krakel Spektakel" slutar, klättrar man upp några block och når så två tunna, parallella sprickor, som leder snett uppåt höger. Följ den grova sprickan till toppen.  }}
+
+{{led|nr=53|namn=Krakel Spektakel|längd=45|grad=5|gruv=c|typ=trad|fa=Mikael Bäckman och Torbjörn Nilsson 1982|text=Klättra uppför lätt klippa i det stora hörnet på högra pelaren. Standplats på hyllan under det stora taket. Klättra rakt ut i sprickan under taket (stora kilar) och gå rakt upp förbi taket när det är möjligt. Vidare i en lätt ränna till en stor hylla.  }}
+
+{{led|nr=54|namn=Theresa|längd=25|grad=6-|gruv=a|typ=trad|fa=Buster Delin och Per Järnefors 1984|text=Följer den överhängande, diagonala spricklinjen på väggen t h om "Krakel Spektakel". Sedan viker man av åt vänster uppför ett kort sva och klättrar sedan det överhängande diedret ovanför.}}
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

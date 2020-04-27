@@ -1,0 +1,26 @@
+{{info klippa
+  |lat=58.6886
+  |long=15.9307
+}}
+
+{{stub|extern=ja}}
+
+==Allmänt==
+Det är en mycket fin och överhängande klippa nära korsningen Väg 51 och Rejmyrevägen. Klippan är även känd som Vistingeklippan.
+
+
+==Klättringen==
+Klippa med ett antal hårda leder (6a - 7b+) och en eller två 5a-6a. De flesta av dessa turer är gjorda av Johan Luhr.
+
+==Vägbeskrivning==
+
+Man kan ta in på vägen mot Rejmyre och svänga direkt till höger igen (in på en gård) och följa den smala och gamla vägen ut mellan fälten.
+
+Parkera så att man inte står ivägen för bonden när han skall upp eller ned på fältet så ska det vara OK.
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]][[Kategori:överhäng]][[Kategori:Sport]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

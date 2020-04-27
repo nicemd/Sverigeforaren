@@ -1,0 +1,33 @@
+{{komplett}}
+==Allmänt==
+Väggen vätter mot syd-syd-öst och är som högst 17 meter. Klippan är
+grovkornig gnejs av en mycket finare kvalitet än de andra bergen i
+Flästa och påminner mer om klipporna på Mörkberget. Nedstigningen är
+problemfri och går i en vid sväng t h om klippan.
+
+==Vägbeskrivning==
+Torpberget ligger ca 1 km från byn Flästa, i skogen nedanför
+Norrberget. Klippan skymtar mellan träden.
+
+Ca 300 m öster om byn Flästa (Se [[Bodberget]] för kommunikationer till
+Flästa) går en väg mellan två åkrar, i riktning mot [[Norrberget]]. Efter
+ca 300 m kommer man till en gård. Här parkerar man. 200 m lätt
+promenad leder till klippan.
+
+Mycket ungefärliga GPS-koordinater: Lat: N 61º 27' 13.51" Long: E 16º 27' 42.27"
+
+==Väggen==
+[[Bild:torpberget.jpg]]
+
+
+{{led|nr=1|namn=Konterfej|längd=17|grad=4+|gruv=a|betyg=1|typ=trad|fa=[[Buster Delin]], [[Peter Brolin]] och [[Per Calleberg]] 1986|text= Markerat dieder t v om den tydliga areten. Insteget är en kort layback. Välsäkrad.}}
+
+{{led|nr=2|namn=Farfar på nocken|längd=8|grad=5|gruv=c|betyg=1|typ=trad|fa=[[Buster Delin]], [[Peter Brolin]] och [[Per Calleberg]] 1986|text= Insteg som för "Vägen till Jylland", sedan följer man areten rakt upp. En bult vid utsteget.}}
+
+{{led|nr=3|namn=Vägen till Jylland|längd=15|grad=5+|gruv=c|betyg=1|typ=trad|fa=[[Buster Delin]], [[Per Calleberg]] och [[Peter Brolin]] 1986|text= Startar strax t h om ar/^eten. Följer dieder- och hyllsystemet snett upp åt höger tills det är möjligt att gå rakt upp genom ett litet överhäng.}}
+
+{{led|nr=4|namn=Skit i traditionerna|längd=10|grad=6|gruv=c|betyg=3|typ=trad|fa=[[Buster Delin]], [[Per Calleberg]] och [[Peter Brolin]] 1986|text= Tunn, ihållande och inte överdrivet välsäkrad, men mycket fin väggklättring rakt upp till utsteget på "Vägen till Jylland". En dålig bult på kruxet.}}
+
+[[Kategori:Saknar karta]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

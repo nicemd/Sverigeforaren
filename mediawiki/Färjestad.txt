@@ -1,0 +1,422 @@
+{{info klippa
+  |lat=59.4194963537055
+  |long=13.4918975830078
+}}
+
+{{boulderkomplett}}
+
+
+== Allmänt ==
+
+I skogen norr om Färjestad bara kilometer från Karlstad centrum finns ett antal boulderväggar och en lite högre sva-vägg.
+
+==Vägbeskrivning==
+<googlemap version="0.9" lat="59.406307" lon="13.496704" type="map">
+59.419496, 13.491898
+Färjestad
+</googlemap>
+
+Från E18 sväng av mot Färjestad/Rud. Hittar du inte så fråga efter vägen till Löfbergs Lila Arena eller travbanan. Alla i området vet var detta ligger. Fortsätt förbi Löfbergs Lila Arena och travbanan. Sväng höger vid smådjurssjukhuset. Följ skylt och grusväg mot tyrstugan. Parkera vid klubbhuset (eller vad det är för byggnad) och gå uppför det branta elljusspåret tills det planar ut. Fortsätt ett hundratal meter(?) till. Vid skarp högersväng, en halvrutten träbänk och en eldstad(?) gå rakt fram och håll lätt vänster. Från träbänken till väggen max 1-2 minuter. Håll utkik efter stenhögar som är skapade för att man ska hitta. Sök och du skall finna. 
+Många har irrat omkring uppe på höjden utan att hitta rätt. Är du en sådan oturlig rackare, så forcera hellre hela klippväggen och ta dig längst ner. Följ hästspåret tills du hittar rådjursutfodringen och de block som ligger intill. Härifrån är det enklare att orientera sig. 
+
+==Övrigt==
+
+Troligtvis Karlstads äldsta boulderområde. Tillhör samma förkastning som [http://www.sverigeforaren.se/index.php/Karlstad-Anneberg Anneberg], [http://www.sverigeforaren.se/index.php/Karlstad-Djupdalen Djupdalen] och [http://www.sverigeforaren.se/index.php/H%C3%A4stspåret Hästspåret].
+
+Mestadels vertikal klättring på utspridda väggpartier. 
+Svårighetsgraden spänner mellan 3 och 7b/7b+ med fokus på det lägre registret. 
+
+Innehållet i denna förare är hämtad från en gammal pdf-fil som [http://www.karlstadklatterklubb.se Karlstad Klätterklubb] haft på sin gamla hemsida. Den är inte helt uppdaterad och behöver kompletteras. Vet DU om andra problem, förstabestigare, övrig information, så hjälp gärna till genom att klicka på redigera högre upp på sidan och ändra. Det är enkelt och går snabbt! 
+
+==Topo==
+[[Bild:Farjestad.JPG|700px]]
+
+==Problemen==
+Varje vägg har tilldelats ett nummer i topon. bokstaven efter siffran indikerar var på klippväggen problemet finns. 
+Problem med nummer 32a tillhör alltså vägg 32 i topo och bokstaven a indikerar var på väggen problemet finns. Något oklart och inte självklart hur man hittar. 
+Förhoppningsvis kommer fotografier över klippväggarna att utgöra topo i framtiden. Till dess gäller det som återfinns i denna förare.
+
+De problem som har en liten video-ikon (ex Bad Dog och Silent Scream) är klickbara och visar bestigning på video. Om du är på jakt efter beta eller bara undrar om du är vid rätt sten/vägg. Förhoppningsvis kan vi få fler bestigningar på film, så att arkivet utökas.  
+
+===Svaväggen===
+
+Längst till vänster i Färjestad. 
+Flera klippartier som löper snett upp åt höger i terrängen från den stora tydliga svaväggen som utmärker området.  
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Fleshy Nuptuals | grad=3 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=1a | namn=Peos led | grad=5b | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Start vid sidepullgrepp precis till höger om nr 1. svår mitt och lättare utsteg i 1:s spricka.}} 
+
+{{problem | nr=1b | namn=Miko | grad=6c+/7a | typ=slabb, balans | fa=Oskar? | betyg=1 | landning= | fadatum= | sittstart= | sopad= | text=Klättra bara på facet mellan sprickorna. Ryktet säger att den är tunn, balansig och fin.}} 
+
+{{problem | nr=1c | namn=??? | grad=5c | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Sprickan till höger om Miko.}} 
+
+| width="350px" |
+
+{{problem | nr=1d | namn=??? | grad=4c | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Spricka ytterligare ett snäpp höger som går snett upp åt höger.}} 
+
+{{problem | nr=1e | namn=??? | grad=3 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Lätt led upp till hylla med träd. Sedan lätt till toppen via hyllor.}} 
+
+{{problem | nr=1f | namn=??? | grad=3 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Insteg till höger i diedret. Sedan lätt via hyllor till toppen.}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=2a | namn=Ninja Turtles | grad=6c+ | typ=topprep, sva | fa= | landning= | fadatum= | sittstart= | sopad= | text=Längsta problemet på svaat. Använd endast den vänstra delen av facet och gå upp i den minimala sprickan på slutet. Endast gjord på topprep, så den som har tillräckligt stora cohones kan plocka en rejäl skalp här. ca 10m hög.}} 
+
+| width="350px" |
+
+{{problem | nr=2b | namn=Trickle Down Theory | grad=5c | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Sprickan till höger om Ninja turtles. Efter Trickle down finns 4st problem som är ca 4-4+ Numb nuts är en av dessa.}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=4a | namn=Cruise Control | grad=4- | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=4b | namn=Crash and Burn | grad=5a | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+===Grytan===
+
+Ett kompakt litet område. Bland träden hänger fortfarande kvar en repstege sedan intensiva träningspass under tidigt 2000-tal. Numera mest kuriosa, men prova för all del.
+Grytan är mångas första kontakt med Färjestad eftersom detta ofta är första stället man stöter på när man kommer från elljusspåret. Något sandbaggat (hårdare än graden visar) kan tyckas vid första anblick, men det är förmodligen för att du inte är van vid att tassa lätt och precist med fötterna. Tidigare karlstadklättrares besök i fontan känns ibland avspeglat i graden. There's always a trick my friend. En bänk/stock finns att vila röven på mellan sessionerna. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=5a | namn=Cool your Jets | grad=5b | typ=vertikalt | fa= | betyg= | landning=3 | fadatum= | sittstart= | sopad= | text=Längst till vänster, fin uppvärmning}} 
+
+{{problem | nr=5b | namn=Absolutely Immune | grad=5c | typ= | fa= | betyg= | landning= | fadatum= | sittstart= | sopad= | text=Tillsammans med Cool your jets Grytans mest välklättrade problem. Letar sig snett upp åt vänster och utsteg strax till höger om föregående problem.}} 
+
+{{problem | nr=5bb | namn=Absolutely Immune variant | grad=6a | typ= | betyg=1 | variant=ja | fa= | landning= | fadatum= | sittstart= | sopad= | text=Start vid hålet och rakt upp. Sikta på en liten knopp under utsteget. Det är nämligen här du ska upp}} 
+
+{{problem | nr=5bbb | namn=Execute | grad=6c | typ= | uteslutningar=ja | variant=ja | fa= | landning= | fadatum= | sittstart= | sopad= | text=En eliminiation som startar ungefär vid hålet, men som utesluter detta. Mellan hålet och ca 1m åt höger.}} 
+
+| width="350px" |
+
+{{problem | nr=5c | namn=Tight ass | grad=5b | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Bara areten}} 
+
+{{problem | nr=5d | namn=Once is Enough | grad=4 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=5e | namn=Too Cool | grad=3+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=5ee | namn=??? | grad=4+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Travers}} 
+
+|}
+
+
+===Norgeväggen===
+[[Bild:farjestad-norgevaggen.jpg]]
+[http://maps.google.com/maps?q=59.422107,13.490082 Visa på karta]
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=8a | namn=Guleböj | grad=2+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=8b | namn=Skulleliten | grad=4 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Skutta från tvärsprickan till toppen.}} 
+
+{{problem | nr=8c | namn=Nästan som Norge | grad=3 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Stora sprickan mitt på väggen.}} 
+
+{{problem | nr=8d | namn=Mettemarit | grad=4- | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Endast facet undvik sprickorna på Nästan som Norge och Juleribba.}} 
+
+| width="350px" |
+
+{{problem | nr=8e | namn=Juleribba | grad=3+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Gå längs den vänstra sprickan.}} 
+
+{{problem | nr=8f | namn=Aretén | grad=4- | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Runt hörnet på stenen. Startar på lilla hyllan.}} 
+
+{{problem | nr=8g | namn=Hjältarna från telemarken | grad=4- | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+Ytterligare 20 m upp ligger en liten bulle där tre problem med slopiga utsteg ligger. Grader runt 4-5. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=9a | namn=Trollmor | grad=6a+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=9b | namn=Trollnäsa | grad=5b | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=9c | namn=Viktors | grad=3+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+===Silent Scream väggen===
+
+Området ligger mellan Norgeväggen och Rådjursutfodringen nere vid träningsbanan. Från rådjursutfodringen ska du upp en nivå i terrängen och 50(?) meter åt vänster. Kommer du denna vägen kommer du se väggen i samma stund som du går in i den. En enbuske hänger ut över toppen. Operation fogsvans har aldrig verkställts, trots att många tänkt tanken. En klassiker gör det värt att leta sig hit och blir namnsättande för hela området. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=11a | namn=Silent Scream | grad=6c+ | betyg=3 | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=Läckert problem som bjuder på sidoförflyttningar med tassiga fötter och crimpiga fingrar innan skick till bra kant. Börja till höger på väggen och leta dig snett upp åt vänster. Soft enligt vissa, men oavsett en färjestadklassiker!}} 
+
+{{problem | nr=11b | namn=Hot Tuna | grad=5a | typ= | fa= | landning= | fadatum= | sittstart=ja | sopad= | text=Sittstart}} 
+
+| width="350px" |
+
+{{problem | nr=11c | namn=Gay bikers on acid | grad=5a | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=14a | namn=Huevos Grande | grad=5b | betyg= | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=14b | namn=Walk the walk | grad=6b | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=14c | namn=Pissing in the Wind | grad=4+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=14d | namn=Fly away | grad=5c | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+===Rådjursutfodringen===
+
+Nu har vi letat oss ner till övningsspåret för travhästar som är nere "i dalen" i Färjestad. Utfodringsplatsen är kvar (2011). Dvs hö-stället som man matar villebrådet med finns kvar. 
+Så vedertaget begrepp bland bouldrarna i Karlstad med omnejd att stället alltid kallats just rådjursutfodringen. Populärt ställe med en del fina linjer. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=19a | namn=Immigrant flake | grad=4- | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text="areten" längst till vänster på tydliga väggen direkt till vänster om boulderaktiga blocket där no fat chicks går.}} 
+
+| width="350px" |
+
+{{problem | nr=19b | namn=Bad Dog | grad=6c | typ=catch | fa= | betyg=2 | landning= | fadatum= | sittstart= | sopad= | text=På plattväggen direkt till vänster om immigrant flake. Börjar på fina steg och med grepp tillräckliga för att åtminstone hålla balansen. Avståndet till kanten är frustrerande kort. Låt dig inte luras. Många går i god för graden. Väldigt fint problem, men ack så avigt att hoppa från startpositionen.}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=20a | namn=projekt | grad=? | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=på extremt tunna facet till vänster om areten?}} 
+
+{{problem | nr=20b | namn=No Fat Chicks | grad=5b | typ= | fa= | betyg=3 | landning= | fadatum= | sittstart= | sopad= | text=Läckert nästan helt fristående block som skapar variation bland alla vertikala småväggar. Fina flytt upp längs aretén och problemet är förmodligen det mest klättrade i Färjestad. En klassiker!}}
+
+{{problem | nr=20d | namn=No Fat Chicks SS| grad=6A | typ= | fa=Fredric Gånheim och Purr Engdahl | betyg=3 | landning= | fadatum=2012-07-04 | sittstart= | sopad= | text=Händerna på rampen, med evt jam och skick till startgreppen. Mycket små fötter elelr smear.}} 
+
+| width="350px" |
+
+{{problem | nr=20c | namn=BFD | grad=5a | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=21 | namn=Flipper | grad=5c | betyg= | typ=mantling | fa= | landning= | fadatum= | sittstart=ja | sopad= | text=Mantlingsproblem från sittstart. Fötterna på stenarna under blocket}} 
+
+| width="350px" |
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=22 | namn=isvägg | grad=? | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=isvägg}} 
+
+| width="350px" |
+
+{{problem | nr=23 | namn=isvägg | grad=? | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=isvägg}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=24 | namn=The thing that ate Sweden | grad=6a | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=till höger om the thing är en isvägg. }} 
+
+| width="350px" |
+
+|}
+
+===Mellan rådjursutfodringen och Karma Roof===
+
+Ett område som sträcker sig från rådjursutfodringen snett upp i terrängen. Väggarna avlöser varandra. Utgå från topo för att hitta rätt. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=25a | namn=Double Digit Inflation | grad=4+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=25b | namn=First Flight | grad=5b | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=27a | namn=One Short Crank | grad=5b | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=27b | namn=Random Chicks | grad=5c | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=27c | namn=Jam This | grad=4+ | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=27d | namn=Druid Women | grad=6c | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=27dd | namn=Travers | grad=6a | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=låghöjdstravers. Jans höga travers startar på höger sida i kristallbandet uppe på druid}} 
+
+{{problem | nr=27e | namn=Rock a´round the clock | grad=? | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Gå upp 'Jam This' och traversera vänster, gå ned längs aretén och avsluta med låghöjdstraversen}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=28 | namn=isvägg | grad=? | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=29 | namn=isvägg | grad=? | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=32a | namn=Cowpolk | grad=4+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Dessa nötkreaturinspirerade problem befinner sig alla på en egen låg liten vägg. Inte så många rörelser pga den låga höjden, men ändå ok. }} 
+
+{{problem | nr=32b | namn=Cowgirl | grad=5a | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=32c | namn=Cow punch | grad=4+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=32d | namn=Rustler | grad=3- | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=32dd | namn=Travers | grad=5a | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+===Karma Roof===
+
+Detta är Färjestads enda egentliga överhängande parti. Består av en grottformation. Fall från övre delarna kan betyda att du lägger ryggen över en stor hylla vilket ger rejäla aj aj. 3 lösningar. 
+1. Se till att dina kamrater spottar bra. 
+2. Trilla rätt. 
+3. Trilla inte. 
+ 
+Golvet i grottan är ofta en vattenpöl. Vid långvarig seriös shredding, kan denna med fördel borstas bort/ut. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=32aa | namn=Nudisten | grad=7B+ | betyg=1 | typ=crimp | fa=David Sjöquist | landning=3 | fadatum=2005-09-21 | sittstart=ja | sopad= | text=Sittstart längst till vänster i Karma Roof. Upp via mer eller mindre desperata crimpar och pinchslooper tills du når juggarna högre upp. crimpstyrka, bålstabilitet och jävlar anamma bra framgångsfaktorer.}} 
+
+{{problem | nr=32a | namn=Razors Edge | grad=5b | typ= | fa= | landning=4 | fadatum= | sittstart=ja | sopad= | text=Sittstart till höger om nudisten. Upp via snällare grepp till flaket med dess tydliga omkringliggande sprickor. Farlig landning.}} 
+
+| width="350px" |
+
+{{problem | nr=32ab | namn=Sjöquist tak | grad=7b | typ= | fa=Martin Jurander | landning=5 | fadatum=20110526 | sittstart= | sopad=2011-05 |text= Mitt genom grottformationen. Lång sträckning från ståstarten till krimpigt grepp under läppen sedan blir det bara svårare och svårare tills du når slutjuggen . Ladda upp med paddor, även ut över kanten vid riset. Efter förstarepetitionen lossnade nyckelcrimpen i taket vilket kraftigt försvårar graden då man måste använda ett obefintligt grepp intill. Välkommen hem David !}} 
+
+{{problem | nr= | namn=Sjöquist tak låg | grad=7b+ | typ= | fa=David Sjöquist | landning=5 | fadatum= | sittstart= | sopad=2011-05 |text= Den riktiga starten i sprickan ! }} 
+
+{{problem | nr=32b | namn=Karma Roof | grad=5b | typ= | betyg=2 | fa= | landning=3 | fadatum= | sittstart=ja | sopad= | text=Sittstart, men ståstarten också vanlig. Till höger i grottöppningen och rakt upp via tydliga och snälla grepp. Fin!}} 
+
+{{problem | nr=32bb | namn=Karma Campus | grad=5b | typ= | betyg=1 | fa= | landning=3 | fadatum= | sittstart= | sopad= | text=Ståstart vid två tydliga grepp, sedan campus hela vägen.}} 
+
+|}
+
+===Golden väggen===
+
+Klassiska Goldenväggen. Flera fina linjer som korsar horisontella sprickor som inbjuder till crimpfestival. Från tydliga och lättidentifierade Karma-grottan ska du leta dig upp i terrängen och åt höger sett nedifrån. En stig visar vägen. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=36 | namn=Genom taket | grad=4+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+|}
+
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=37a | namn=Solid Gold | grad=6c+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=37b | namn=Golden Shower | grad=6c+/7a | betyg=2 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=länge oklättrat crimpmonster som numera fått flera bestigningar. Börjar i mitten och drar sig snett upp åt vänster över tvärsprickorna. Ska du trilla, så gör inte det över hyllkanten. Den ser ut att bjuda in till stukade fötter. Pallra upp med paddor och spottare}} 
+
+| width="350px" |
+
+{{problem | nr=37c | namn=Golden Child | grad=6b | betyg=2 | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=ej sandbaggad när man hittar rätt sekvens. Fina grejer.}} 
+
+{{problem | nr=37d | namn=Goldfinger | grad=4+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=37dd | namn=Travers | grad=? | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Någon som gjort den? Svår.}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=39a | namn=Turning the tide | grad=3+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+{{problem | nr=39b | namn=Stand and deliver | grad=5a | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+| width="350px" |
+
+{{problem | nr=39c | namn=projekt | grad=? | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=oklättrad?}} 
+
+{{problem | nr=39d | namn=Simpleton | grad=3 | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=Fin spricka}} 
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=40a | namn=Knoll | grad=2 | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+
+| width="350px" |
+
+{{problem | nr=40b | namn=Tott | grad=2+ | betyg= | typ= | fa= | landning= | fadatum= | sittstart= | sopad= | text=}} 
+
+|}
+
+[[Kategori:Värmland]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:bouldering]]

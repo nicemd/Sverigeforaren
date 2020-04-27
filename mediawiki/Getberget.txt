@@ -1,0 +1,78 @@
+{{info klippa
+  |lat=62.50855
+  |long=16.05483
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Fin tradklättring i mitten av Sverige, med en samling av givna spricklinjer. Ett utmärkt ställe för er som gillar att jamma i sprickor. Getberget ligger efter E14 ungefär 50 minuters färd från Sundsvall.
+
+==Introduktion==
+Än så länge är det mest givna sprickor som utvecklats. Ett standardrack för Getberget bör innehålla kamkilar upp till Camelot #4. Flera leder kräver ännu större kamkilar, upp till camelot #5 & #6. Lederna är oftast 15-30 långa. För leder som det behövs speciellt rack för kommer information att presenteras i ledbeskrivningen. 
+Det är väldigt lätt att hitta lederna, instegen har oftast en referenssten med namn & grad för att göra det lätt att orientera sig. Det här är inte din vanliga sportklippa, inga uteslutna grepp här... 
+
+Bara för att en led inte har några stjärnor behöver inte det betyda att leden inte är värd att klättras. Stjärnmarkeringarna finns till för att nya besökare lättare ska kunna hitta de allra finaste lederna. Klippkvalitetet är generellt mycket god, men  
+hjälm är en fördel nu när området är nytt eftersom det än så länge kan rasa en del småsten. 
+Det finns inget vatten vid klippan så ta med det dricksvatten du behöver. 
+
+Sugen på att göra nyturer? Sundsvalls klätterklubb hjälper gärna till med material om du behöver! Hör bara av dig till någon i styrelsen. Om ni gör nyturer och inte rensar fram dem så skippa gärna att registrera dem. Det stora jobbet är att rensa dem
+
+[[Bild:Getberget.jpg|thumb|700px|center|Utsikt från Getberget]]
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="[62.50855]" lon="16.05483" width="300" height="200" type="map" zoom="7">
+62.50855, 16.05483
+</googlemap></div>
+
+Getberget ligger längs med E14 precis ovanför Ljungaverk. Sväng av från E14 vid skylt upp till Getbergets skidanläggning. Åk hela vägen upp till Toppstugan & parkera där. Följ stigen mot utsiktsplatsen & fortsätt sedan förbi grillplatsen ytterligare 300 meter efter en tydlig stig längs med staketet. När staketet tar slut så följ stigen neråt runt klippan, följ stigen tills den planar ut och följ klippväggen åt vänster efter 50 meter från att man har lämnat stigen så dyker de första lederna, den första väggen som kommer upp är övre östra klipporna. 
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+===1. Övre östra väggarna===
+[[Bild:nangijala.jpg|250 px|thumb| David vid Nangijala.<br>
+Foto: Anders Lidström]]
+{{led|namn=Nanglialia|grad=6+/7-|betyg=3|längd=15|fa=[[Anders Lidström]] [[2011|-11]]|bultar=|typ=trad|text=Den tydliga tunna sprickan. Stand i träd}}
+{{led|namn= Två bleka kompisar |grad=5 & 7-|betyg=3|längd=35|fa=[[ Johan Hedman & Jonas Bäckström]] [[2011|-11]]|bultar=|typ=trad|text= Två replängder, första replängden grad 5, 2a replängden 7-, det är den som ger stjärnorna. Bultade ankare. Ett 60m rep räcker precis ner från översta ankaret. För att minska repdraget kan man göra en naturlig stand på hyllan under starten till 2rpl.  }}
+{{led|namn=Vildvittran|grad=7|betyg=3|längd=15|fa=[[Johan Hedman]] [[2011|-11]]|bultar=|typ=trad|text=Bultat ankare}}
+{{led|namn=Camelot ett sprickan|grad=6-/6|betyg=2|längd=20|fa=[[Johan Hedman & Pär Åslund]] [[2010|-10]]|bultar=|typ=trad|text=Kanonled med grymma handjam. Stand i träd.}}
+{{led|namn=Dubbelsprickan|grad=5+|betyg=3|längd=15|fa=[[Johan Hedman & Pär Åslund]] [[2010|-10]]|bultar=|typ=trad|text=Bultat ankare}}
+{{led|namn=Helvetesgapet|grad=6|betyg=3|längd=15|fa=[[Anders Lidström]] [[2011|-11]]|bultar=|typ=trad|text=En Camalot #4 är bra att ha med sig. Bultat ankare}}
+{{led|namn=Jonas osopade projekt|grad=6-/6|betyg=|längd=20|fa=[[Jonas Liden & Katarina Reiz om de vill kännas vid den]] [[2010|-10]]|bultar=|typ=trad|text=Stand i träd}}
+{{led|namn=Jag ser ljuset Jonathan|grad=6-|betyg=2|längd=20|fa=[[Johan Hedman]] [[2010|-10]]|bultar=|typ=trad|text=Offwidth gärna camelot 5 har du en sexa så släng med den. Stand i träd}}
+{{led|namn=Herr Nilsson|grad=6+|betyg=2|längd=20|fa=[[Anders Lidström & Peter Ålander]] [[2010|-10]]|bultar=|typ=trad|text=Stand i träd}}
+{{led|namn=Pilutta dig|grad=6-/6|betyg=1|längd=20|fa=[[Johan Hedman]] [[2010|-10]]|bultar=|typ=trad|text=Stand i träd}}
+{{led|namn=Tjorven|grad=6|betyg=1|längd=15|fa=[[Anders Lidström]] [[2010|-10]]|bultar=|typ=trad|text=Offwidth börjar med camelot 5, camelot 6 räcker en bit. har du en bigbro så släng med den. Glöm inte små för övre sprickan. Stand i träd}}
+===2. Övre västra väggarna===
+{{led|namn=Anders led|grad=6+|betyg=3|längd=20|fa=[[Anders Lidström]] [[2011|-10]]|bultar=|typ=trad|text=1:a repan upp till under taket där finns bultat standplats, 2:a Stand i träd}}
+{{led|namn=Dieder|grad=6-/6|betyg=3|längd=30|fa=[[Johan Hedman]] [[2011|-10]]|bultar=|typ=trad|text=bultat ankare}}
+{{led|namn=Obs sittstart|grad=6|betyg=1|längd=30|fa=[[Johan Hedman]] [[2010|-10]]|bultar=|typ=trad|text=bultat ankare}}
+{{led|namn=Ormen långe|grad=7-|betyg=3|längd=30|fa=[[Johan Hedman]] [[2010|-10]]|bultar=|typ=trad|text=bultat ankare}}
+
+
+{|
+|- valign="top"
+| width="350px" |
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:trad]] -->
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+[[Kategori:trad]]
+[[Category:Medelpad]]
+[[Kategori:vertikalt]]

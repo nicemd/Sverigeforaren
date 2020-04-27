@@ -1,0 +1,66 @@
+{{info klippa
+  |lat=58.378206
+  |long=11.446552
+}}
+
+{{komplett}}
+== Introduktion ==
+{|
+|- valign="top"
+| width=500px|
+Ett berg med ganska få leder, vilka dock håller hög kvalitet. Klippan är cirka 40 meter hög. Samtliga leder är vertikala. Orange mekanism är att betrakta som en superklassiker i Bohus och ett givet tick för den ambitiöse!
+
+== Karaktär ==
+Vertikala leder på fast och fin röd granit.
+
+== Vägbeskrivning ==
+<googlemap version="0.9" lat="58.380749" lon="11.467323" type="map" zoom="13" width="400" height="300">58.378206, 11.446552, Holländaröd</googlemap>
+
+{|
+|- valign="top"
+| width=500px|
+
+Kör söder mot Lysekil på väg 162. Sväng höger i Brastad, mot Rixö. Kör någon km och ta höger mot Holländaröd. Kör några hundra meter och ta vänster. Efter ytterligare några hundra meter syns klippan på vänster sida bakom villorna. Ta återigen vänster och följ vägen förbi klippan tills det är möjligt att parkera på en grusplan på höger sida av vägen (om du kommer ner till en hamn har du kört för långt). En stig leder snett "tillbaka" mot klippan in i skogen.
+
+OBS! Pilen på google-kartan stämmer ej exakt!
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+== Access ==
+
+{{AccessDB|klippa=hollandarod}}
+Störningskänslig häckningsplats vid Holländaröd. 
+Klättring ska undvikas tom 15/7. Även vistelse nedanför och på toppen av berget kan orsaka störning. Varnande rovfåglar indikerar att du stör. Håll så låg profil som möjligt. Störning av häckande rovfågel är olagligt. Hjälp till att undvika formellt beträdnadsförbud genom att följa dessa riktlinjer.
+
+==Leder==
+{|
+|- valign="top"
+| width=300px|
+{{led|nr=1|namn=Whistler|grad=7-|betyg=|längd=30|fa=[[Fredrik Schlyter]]
+ |typ=mix|text=Lång och maffig led med mycket klättring. Linjen på bilden är något osäker}}
+
+{{led|nr=2|namn=Extra|grad=6+|betyg=1|längd=20|fa=[[Henrik Bolander -96]]
+ |typ=mix|text=Börjar 10m till vänster om ''Orange Mekanism''. Spricklinje upp till taket, där 1bb finns. Bra med lite microkilar och småfriends. Firningsankare.}}
+
+{{led|nr=3|namn=Spektra|grad=5+|betyg=2|längd=20|fa=[[Henrik Bolander -96]]
+ |typ=trad|text=Börjar 2m till höger om ''Extra''. Spricklinje rakt upp till ankare. Trevlig lite enklare led. Firningsankare.}}
+
+{{led|nr=4|namn=Pisslunk|grad=7-|betyg=2|längd=25|fa=[[Torkel Røisli -03]]
+ |typ=trad|text=Startar första 7m tillsammans med Spektra och viker sen av ut höger i sprickor till vänster om''Orange Mekanism''. En fin led med ett knepigt krux. Firningsankare.}}
+
+| width=300px|
+
+{{led|nr=5|namn=Orange Mekanism|grad=7+|betyg=3|längd=30|fa=[[Henrik Bolander, Jonas Böttiger]]
+ |typ=trad|text=Startar vid stenplattan. Upp till halvmånen, drar vänster ett par meter sedan rakt upp. En fantastisk resa utan dess like i bohus! Mycket välsäkrad. Firningsankare på hyllan där leden slutar samt på toppen.}}
+
+{{led|nr=6|namn=Omeprazole|grad=5|betyg=|längd=35|fa=[[Krister Stoltz, Maria Palm -96]]
+ |typ=trad|text=30m till höger om Orange mekanism. Följer den tydliga sprickan i nästa väggs vänstra del. Brant start. Linjen på bilden är något osäker.}}
+|}
+
+[[Bild:Hollandarod.jpg|thumb|700px|left]]
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:access]]

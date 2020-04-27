@@ -1,0 +1,122 @@
+{{utkast}}
+[[Kategori:Västergötland]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Överhäng]]
+[[Kategori:Barnvänligt]]
+[[Kategori:Saknar leder]]
+
+== Introduktion ==
+
+Gamla berget har borrbultade och naturligt säkrade och mixade leder. Klättringen här är av annan karaktär och av mer varierad längd. Stenen är inte så grepprik och det finns mer formationer som ger en annorlunda klättring jämfört med Nya berget. Gradering är tuffare vid gamla berget än vid det nya.
+
+Klippan är vänd mot syd eller sydöst och har sol framemot tre. Gamla berget ligger öppet mot ett jordbrukslandskap men skuggas av en del träd. Berget ligger nära vägen och parkeringen. Markägaren har iordningställt en parkeringsplats och tar ut en klätteravgift på 20 kr per person och dygn. Efter långvariga regn har berget svårt att torka då vatten rinner ner från mossmarkerna ovanför. Våren 2004 var det inte riktigt torrt förrän i slutet av mars.
+
+== Historia ==
+
+Gamla berget eller Ljungsslättsberget som "the locals" kallar det är en bitvis ganska brant klippa utrustad med många tak och arêter. Klippan är mycket fast med bra friktion och greppen är oftast fingervänliga. Berget upptäcktes 1988 av den nyinflyttade stockholmaren Mikael Wegrelius som var på jakt efter ett lämpligt ställe att träna bergsbestigning på. Mikael satte tillsammans med sin fru Lena och några andra raskt upp ett 25-tal leder. De flesta av dessa var rena kilturer t.ex. Gåsamarsch grad 6b (6)
+
+År 1991 var ett stort år i bergets historia. Bygdens klättrare hade upptäckt meningen med livet -sportklättring. I ett rasande tempo sattes det upp nyturer försedda med blänkande borrbultar och firningsankare. Även ett antal mycket fina, men sällan klättrade kilturer bultades. En av dessa är superklassikern Ankdammen (grad 6c+), som innan bultningen troligen hade mindre än 5 repetitioner.
+
+I dag finns det ca 60 leder på berget, av dessa är nästan 30 rena sportturer av hög kvalité. De flesta sportturerna på berget ligger i intervallet 6a+ - 7a, det finns endast ett fåtal turer i de svårare registret. Nyturspotentialen vid klippan får anses som låg, det går kanske att bulta upp en sex-åtta turer till. ''Under våren kommer dock Mark-klättrarna i första hand arbeta med att transformera ett antal leder av det förhatliga "mixade" slaget till rena sportturer.''
+
+Våren 1996 uppstod konflikt mellan markägare och klättrare. 
+
+Klippan ligger sydvänd (solbelyst fram till ca 16) och är relativt vindexponerad, det kan bli lite väl kyligt här tidig vår/sen höst. De brantare lederna brukar vara fullt klätterbara även om det regnar.
+
+== Vägbeskrivning ==
+
+Från Göteborg tag väg 40 mot Borås. Sväng av mot Hyssna, väg 156. Vid Hyssna vänster mot Bollebygd/Seglora därefter en mindre väg till Seglora (ca. en mil)
+
+Från Borås: ta gamla Varbergvägen mot Viskafors. Efter Seglorakyrka höger mot Hyssna. Gamla berget dyker upp på höger sida. 
+
+{{tryckt förare|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+== Access {{access}} ==
+Markägaren har iordningställt en parkeringsplats och tar ut en klätteravgift på 20 kr per person och dygn. Våren 1996 uppstod konflikt mellan markägare och klättrare, pga allt rännande på hans mark. Detta löstes i och med parkeringsavgiften.
+
+{{AccessDB|klippa=seglora}}
+
+== Pettson ==
+
+{{led|namn=Butthole Surfers|grad=6a|typ=sport|text=|fa=}}
+{{led|namn=Kackel i grönsakslandet|grad=6a+|fa=Tomas Juhlin|typ=sport}}
+{{led|namn=Fuck the farmer|grad=6b|typ=sport|fa=}}
+{{led|namn=Pannkakstårtan|grad=6a+}}
+
+
+{{led|namn=Onkel Tuca|grad=7b|fa=Petter From}}
+
+
+{{led|namn=Livets ryttare|grad=6-|typ=trad|fa=Mikael Wegrelius}}
+{{led|namn=Matildas Groggveranda|fa=Mikal Wegrelius|grad=6c+}}
+{{led|namn=Milda matilda|typ=mix|fa=Mikael Wegrelius|grad=7}}
+{{led|namn=Vilda Malin|fa=Bo Läck|typ=mix|grad=6-}}
+{{led|namn=Genesis|grad=5+|typ=mix|fa=Bo Läck}}
+{{led|namn=Mixed Combo|grad=6-|typ=mix|fa=Mikael Wegrelius}}
+{{led|namn=Kasta gris|grad=6-|typ=mix|fa=Jonas Nygren}}
+
+== Ankdammen ==
+{{led|namn=Halmstad Hammers|grad=6b+|fa=Jens Larssen}}
+{{led|namn=Apornas planet|grad=6c}}
+{{led|namn=Gåsmarsch|grad=6|typ|trad|fa=Mikael Wegrelius}}
+{{led|namn=Picknick i Hönshuset|grad=7}}
+{{led|namn=Mörkdarkaninen|typt=mix|fa=Mikael Wegrelius|grad=7}}
+{{led|namn=Ankdammen|grad=6c+|betyg=2|längd=15|fa=Mikael Wegrelius|text=Till höger om diedret. Ihållande överhängande klättring av förnämlig kvalitet. Ursprungligen traditionellt säkrad.}}
+{{led|namn=Bläckfisken|grad=6b+|fa=Mikael Wegrelius|typ=sport}}
+{{led|namn=Kastrationsångest|grad=6c|betyg=1|längd=15|fa=Mattias Karlssons|text=En klassiker. Följer den skarpa areten.}}
+
+{{led|namn=Fransk Mammut|grad=6c+|fa=Mikaele Karlsson}}
+{{led|namn=Lika grym|grad=7a}}
+{{led|namn=Grymmer|grad=6c+|fa=Mikael Wegrelius}}
+{{led|namn=Tintins växtvärk|grad=6+|fa=Mikael Wegrelius}}
+{{led|namn=Svepner|grad=7a+|fa=Jonas Nygren}}
+{{led|namn=Hybris|grad=7b+}}
+{{led|namn=Hybrid|grad=7c}}
+{{led|namn=Hydran|grad=8a}}
+
+== Ugglan==
+{{led|namn=Stulet projekt|grad=6b+/6c+}}
+{{led|namn=Pyssling|typ=mix|grad=6-|fa=Lena Wegrelius}}
+{{led|namn=Ugglan|grad=6c|fa=Mikael Wegrelius}}
+{{led|namn=Häxan och lejonet|grad=7-|fa=Jonas Nygren|typ=mix}}
+{{led|namn=Delikat|grad=6b+}}
+{{led|namn=Delikatessen|grad=6c}}
+{{led|grad=7a+|namn=Begagnade blöjor}}
+
+
+{{led|namn=Korvspad|grad=4-}}
+{{led|namn=Lite smått och gått|grad=4}}
+{{led|namn=Grönösakslandet|grad=4}}
+{{led|namn=Spice Girl|grad=7c|fa=Johan Luhr}}
+{{led|namn=Space Boy|grad=8a|fa=Said Belhaj|typ=sport}}
+
+{{led|namn=Luftvägen|fa=Lena Wegrelius|typ=mix|grad=7-}}
+{{led|namn=Trimmad vespa|fa=|grad=7b|text=}}
+{{led|namn=Vespa|grad=7-|typ|mix}}
+{{led|namn=Getingen|typ=trad|fa=Lena Wegrelius}}
+{{led|namn=Basalt|typ=sport|grad=6a|fa=Martin Dahlberg}}
+{{led|namn=Morbid forever|typ=mix|grad=6-}}
+{{led|namn=Söndagsutflykten|grad=6-|typ=mix}}
+{{led|namn=Flensost|grad=6-|typ=mix|fa=Tomas Juhlin}}
+
+== Punsch==
+{{led|namn=Exodus|grad=5-}}
+{{led|namn=Trötter|grad=6c+|betyg=0|längd=15|fa=Jonas Nygren|text=Krystat eliminationsproblem. Går mitt emellan de uppenbara sprickorna.}}
+{{led|namn=Tröttsam|grad=6a|betyg=0|längd=15|fa=|text=Den mer naturliga varianten där sprickorna ingår, företrädesvis den högra.}}
+
+{{led|namn=Vino tinto|grad=6|typ=trad|fa=Petter From}}
+{{led|namn=Trippel|typ=mix|fa=Lena Wegrelius|grad=6+}}
+{{led|namn=En Gurus död|grad=7-|typ=mix|fa=Mikael Wegrelius}}
+
+
+{{led|namn=Lheviticus|grad=4}}
+{{led|namn=Kosmoskatten|grad=5a+|fa=Anna Wickberg}}
+{{led|namn=Uppstigningsleden|grad=3|text=....|typ=trad|fa=Bo Läck.}}
+{{led|namn=Kill Closseau|grad=6+|typ=trad}}
+{{led|namn=Kronärtskockans flykt|grad=6c}}
+{{led|namn=Sigge Fröjd|grad=6c}}
+{{led|namn=Elefantiasis|grad=7a|typ=sport|fa=|text=}}
+{{led|namn=Punsch|grad=6a|typ=sport|fa=Jonas Nygren}}
+{{led|namn=Silverfisken|grad=6a|fa=}}

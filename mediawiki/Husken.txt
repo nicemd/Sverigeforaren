@@ -1,0 +1,85 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+[[Bild:Husken.jpg|600px|]]
+
+==Allmänt==
+Upptill 8 meter hög Klintkant av blandad stenkvalitet belägen på nordöstra Gotland mellan Valleviken och Lergrav alldeles invid havet. Klippan är västvänd och erbjuder boulder i alla svårighetgrader. Den vänstra delen har bäst sten och är den mest utvecklade. Området är naturreservat vilket betyder att vi inte förstör något och tar med allt skräp från platsen. Läs informationstavlan. Parkera på parkeringsplatsen 100 meter upp i skogen.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Strax norr om Valleviken, sväng in mot Puttersjaus. Håll höger när vägen delar sig. Sväng in vid den lilla "kringelskylten". Parkera alldeles därefter. Om du kommer från Lergravshållet: Passera Furillenavfarten och sväng vänster när kringelskylten dyker upp.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+'''PoPoPopcornpartiet'''
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Bokhyllan|grad=5A|fa=[[Alexander Sjöstrand]] -13|text=Ståstart en hand på varje vägg, upp på vänstra väggen, urtoppning i hörnet}}
+
+{{led|nr=2|namn=Törst|grad=6A|typ=|fa=[[Per Bäckström]] -13|text=Samma start som Bokhyllan men längre in i hörnet och urtoppning rakt upp på den överhängande väggen.}}
+
+{{led|nr=3|namn=PoPoPopcorn|grad=6C|typ=|fa=[[Per-Ola Nilsson]] -13|text=}}
+
+
+'''Soltiderpartiet'''
+
+{{led|nr=4|namn=Kris|grad=5A|typ=|fa=[[Per Bäckström]] -13|text=Sittstart,direkt till vänster om de två övre vertikala sprickorna, rakt upp, urtoppning.}}
+
+{{led|nr=5|namn=Soltider|grad=7A|betyg=2|typ=|fa=[[Magnus Nilsson]] -13|text=}}
+
+{{led|nr=6|namn=En behaglig resa|grad=6B+|typ=|fa=[[Magnus Nilsson]] -13|text=}}
+
+{{led|nr=7|namn=Rakt på Per|grad=6B|typ=|fa=[[Helena Lundgren]] -13|text=}}
+
+{{led|nr=8|namn=Calles klätterpläd|grad=6B|typ=|fa=[[Carl Quick]] -13|text=}}
+
+{{led|nr=9|namn=Kylskåpsdansen|grad=6A|typ=|fa=[[Carl Quick]] -13|text=}}
+
+
+
+
+
+
+
+
+
+
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Gotland]]

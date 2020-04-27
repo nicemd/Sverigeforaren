@@ -1,0 +1,77 @@
+{{info klippa
+  |lat=59.08156
+  |long=17.75603
+}}
+
+{{komplett}}
+
+==Allmänt==
+En ca 50 m bred och som maximalt 30 m hög svaplatta med ett tiotal leder. Flera av lederna erbjuder kortare passager med svår småstegs- och friktionsklättring och ett par ger sammanhängande svaklättring av en längd som är sällsynt runt Stockholm. Det handlar mera om små grepp och steg än om ren friktion, vilket är tur då den lustiga, lite skifferaktiga bergarten har ganska dålig friktion. Säkring sker mestadels med småkilar i tunna sprickor. Några leder har dock ett mindre antal borrbultar.
+
+
+
+==Miljö==
+[[Fil:Fullbroberget.jpg]]
+Sydost, öppet för solen. Ett par vattenstråk påverkar några av lederna. En röjning 2012 av träd och buskar närmast klippan har gett den ett mera öppet läge och den är numera inte så svår att upptäcka.
+
+Klippan är ganska mossig på de nedre delarna tyvärr.
+
+Parkering omedelbart i anslutning till klippan, trevlig fikaäng mellan klippan och stranden. Goda möjligheter till bad i Himmerfjärden.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.08156" lon="17.75603" zoom="11" type="map" controls="small">
+59.08156,17.75603,[[Fullbroberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Fullbroberget
+lat=17756030
+long=59081560
+</slresa>
+</div> 
+Ta av Nynäshamnsvägen åt h in på en skogsväg, skyltad med en badplatsvägvisningsskylt, och följ sedan diverse skogsvägar i ca 2,5 km ned till ett friluftsbad. Berget ligger alldeles th om vägen, precis innan badet.
+
+==Kommunikationer:==
+Gå av buss 783 vid Stutbyvägen som är hållplatsen innan Fitunavägen vid färd mot Nynäshamn. Fortsätt framåt ca 500 m längs Nynäshamnsvägen. Därifrån 2,5 km promenad enligt ovan. Det är dock tveksamt om det är värt besväret att åka buss till just denna klippa.
+
+
+
+<div style="clear:right;"></div>
+==Leder==
+[[Bild:Fullbro.ill.png|center]]
+
+{{led|nr=1|namn=Gipskatten|grad=4|betyg=|längd=15|fa=[[Börje Sjögren]] [[1982|-82]]|bultar=|typ=trad}}
+
+{{led|nr=2|namn=Snöflingan|grad=5-|betyg=|längd=20|fa=[[Lars Svadängs]], [[Torgil Abrahamsson]] [[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=3|namn=Brigitte|grad=3+|betyg=|längd=20|fa=[[Per-Elof Lidström]] [[1982|-82]]|bultar=3|typ=mix}}
+
+{{led|nr=4|namn=Marilyn|grad=4|betyg=|längd=20|fa=[[Per-Elof Lidström]] [[1982|-82]]|bultar=2|typ=mix}}
+
+{{led|nr=5|namn=Porrpulten|grad=5+|betyg=|längd=21|fa=[[Roger Pyddoke]], [[Per-Elof Lidström]] [[1981|-81]]|bultar=|typ=trad}}
+
+{{led|nr=6|namn=Sva|grad=5-|betyg=|längd=25|fa=[[Per-Elof Lidström]], [[Thomas Heide]] [[1983|-83]]|bultar=|typ=trad}}
+{{litentext|text= Sprickorna th ger en ganska lätt upp- och nedstigningsmöjlighet, ca 3-. Den branta svaplattan th leder upp till en smal hylla i jämnhöjd med tallen som växer i sprickan. Mitt på denna platta sitter vanligtvis en bb. 2 bb sitter också i vänstra kanten av överlappningen ovanför hyllan. Topprepsfäste?}}
+
+{{led|nr=7|namn=Borrbulten|grad=6-|betyg=|längd=15|fa=[[Per-Elof Lidström]], [[Roger Pyddoke]] [[1981|-81]]|bultar=|typ=trad}}
+
+{{led|nr=8|namn=Status quo|grad=6|betyg=|längd=30|fa=[[Per-Elof Lidström]], [[Roger Pyddoke]], [[Kjell Carlsson]] [[1982|-82]]|bultar=|typ=trad}}
+
+{{led|nr=9|namn=En tunn strimla av hopp|grad=6-|betyg=2|längd=30|fa=[[Torgil Abrahamsson]], [[Lars Svadängs]] [[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=10|namn=Svartfötter|grad=4+|betyg=1|längd=25|fa=[[Rikard Hedman]], [[Torgil Abrahamsson]] [[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=11|namn=Svettfötterna|grad=6-|betyg=|längd=25|fa=[[Gunnar Woodsack]], [[Vivi-Ann Friberg]] [[1986|-86]]|bultar=|typ=trad|text=Osäkrat krux}}
+
+{{led|nr=12|namn=Incognito|grad=?|betyg=|längd=15|fa=[[Okända]] [[1990|-90]]|bultar=1|typ=mix|text=Slutar på hylla. Firningsslinga}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Sva]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Stockholm]]
+[[Kategori:Fituna]]
+[[Kategori:Saknar kolumner]]

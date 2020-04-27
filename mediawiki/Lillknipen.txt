@@ -1,0 +1,17 @@
+{{info klippa
+  |lat=58.2512
+  |long=11.9771
+}}
+{{stub}}
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+==Access {{access}}==
+
+{{AccessDB|klippa=lillknipen}}
+
+[[category:Topprep]]
+[[category:trad]]
+[[category:saknar_leder]]
+[[category:saknar_skiss]]
+[[Kategori:Bohuslän]]

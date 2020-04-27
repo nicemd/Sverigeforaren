@@ -1,0 +1,28 @@
+{{info klippa
+  |lat=59.23777777777778
+  |long=17.069166666666667}}
+
+{{boulderkomplett}}
+
+==Allmänt==
+Litet boulderområde vid Åkers Styckebruk.
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap version="0.9" lat="59.245522" lon="17.088203" type="map" height="300">
+59.237778, 17.069167
+Parkera här
+</googlemap>
+</div>
+
+Kör E20 västerut från Södertälje och sväng av efter ca 30 km mot Åkers styckebruk. Kör igenom Åkers styckebruk förbi en statoilmack och håll vänster 200 m senare vid fabriken. Följ vägen runt fabriken och ta sedan vänster på grusvägen som följer efter Köpingevägen. Korsa åkrarna på denna, håll vänster när vägen delar sig och fortsätt sedan fram till grillplatsen vid sjön där det också går att parkera (Kommer du fram till stugorna har du åkt för långt). 
+
+Följ stigen från parkeringen uppför sluttningen så kommer du till klätterområdet efter ca 150-200 meter.
+
+{{clear}}
+
+== Förare ==
+[[Media:åkers.pdf]]
+
+[[Kategori:Södermanland]]
+[[Kategori:Stockholm]]

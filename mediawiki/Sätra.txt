@@ -1,0 +1,37 @@
+{{boulderutkast}}
+
+==Vägbeskrivning==
+Stenen ligger i bostadsområdet Sätra, norr om Gävle centrum.
+Den ligger bakom ”Sätrahöjdensdagcenter” som har adress Sätrahöjden 28.
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Supernova|grad=6A|typ=Krimp,Aréte|fa=Daniel Hultgren|landning=2|betyg=1|sopad=Daniel Hultgren|sittstart=ja|text=Går på blocket vid Skvattramsvägen.}}
+{{problem|namn=Travrundan|grad=5B|typ=Krimp,Slopers,Travers V->H|fa=Torbjörn Molén|landning=5|betyg=2|fadatum=2005-04-14|sopad=Torbjörn Molén|sittstart=ja|text=Börjar vid insteget för Dr snuggles. och följ listen (travers)till strax ovanför insteget för Kapten zoom, därefter följ kapten zoom upp.}}
+{{problem|nr=3|namn=Dr Snuggles|grad=7A+|typ=Slopers,Pinch,Överhäng|fa=Daniel Hultgren|landning=3|betyg=3|fadatum=2003-04-10|sopad=Daniel Hultgren|sittstart=ja|text=}}
+{{problem|nr=4|namn=Yoshi|grad=6A+|typ=Slopers,Mantling|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2003-10-16|sopad=Daniel Hultgren|sittstart=ja|uteslutningar=ja|text=Använd ej greppen på Kapten Zoom}}
+{{problem|nr=5|namn=Kapten Zoom|grad=5A|typ=Mantling,Jug|fa=Daniel Hultgren|landning=3|betyg=1|sopad=Daniel Hultgren|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=6|namn=Minnas problem|grad=4C|typ=Jug|fa=Minna Carlsson|landning=3|betyg=2|sopad=Minna Carlsson|sittstart=ja|text=}}
+{{problem|nr=7|namn=Dunderklumpen|grad=6A|typ=Krimp,Reach|fa=David Hallman|landning=2|betyg=2|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|nr=8|namn=Hallmans travers|grad=7A+|typ=Krimp,Slopers,Travers V->H|fa=David Hallman|landning=2|betyg=2|fadatum=2004-04-01|sopad=David Hallman|startgrepp=ja|text=}}
+{{problem|nr=9|namn=Cartman|grad=5C|typ=Layback,Spricka|fa=Daniel Hultgren|landning=2|betyg=1|sopad=Daniel Hultgren|text=}}
+{{problem|nr=10|namn=Pelle Gnillot|grad=6B+|typ=Slopers|fa=David Hallman|landning=4|betyg=2|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|nr=10|namn=Stefans dyno|grad=6C|typ=Dyno|fa=Stefan Hedin|landning=4|betyg=2|sopad=Stefan Hedin|variant=ja|startgrepp=ja|text=Startar på två tydliga grepp mitt på väggen.}}
+| width="250px" |
+{{problem|nr=11|namn=Drutten|grad=6C|typ=Krimp|fa=Daniel Hultgren|landning=2|betyg=3|fadatum=2003-04-05|sopad=Daniel Hultgren|sittstart=ja|text=}}
+{{problem|nr=12|namn=& Gena|grad=6C|typ=Krimp|fa=David Hallman|landning=2|betyg=2|fadatum=2003-04-05|sopad=David Hallman|sittstart=ja|text=Samma start som Drutten därefter upp åt höger.}}
+{{problem|nr=13|namn=Malte|grad=6A|typ=Överhäng|fa=David Hallman|landning=2|betyg=2|fadatum=2003-03-10|sopad=Daniel Hultgren|text=}}
+{{problem|nr=14|namn=Pentii Varg|grad=5B|typ=Slab|fa=Daniel Hultgren|landning=2|betyg=1|sopad=Daniel Hultgren|text=}}
+{{problem|nr=15|namn=Zig Zag|grad=5B|typ=Highball|fa=Johan Andersson|landning=4|betyg=2|sopad=Johan Andersson & Ronny Andersson|text=}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

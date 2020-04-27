@@ -1,0 +1,40 @@
+{{info klippa|lat=59.22140687777778|long=18.269350358333334}}
+{{utkast}}
+
+==Allmänt==
+Klippa i Tyresta naturreservat med fantastiskt läge. Klippan ligger längs med Sörmlandsleden med utsikt över sjön Tyresö-Flaten. Nyborstad hösten 2008.
+
+==Miljö==
+Västvänd. Öppet, sol från kl 12.
+
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap version="0.9" lat="59.230596" lon="18.247604" type="map" width="300" height="200">
+59.221407, 18.26935
+Tyresö-Flaten
+</googlemap>
+</div>
+Bil kan parkeras innan vändplan. Med buss, ta buss 803 eller 813 till ändhållplatsen Nyfors. Följ Nyforsvägen och ta v efter 200 m. Följ Sörmlandsleden från vändplan. Efter 400m dyker klippan upp på v sida vid sjön Tyresö-Flatens nordöstra strand. Från bussen är det ca 1 km att gå.
+
+{{clear}}
+==Leder==
+===Kojklippan===
+Denna nordvända vägg ligger i en liten ravin under huvudväggen.
+{{led|nr=1|namn=Flottstokken|grad=6-|längd=10|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=2|namn=The Butthole Surfers (Det bruna ögat)|grad=7+|längd=8|fa=[[Marco Kupiainen]] [[-95]]}}
+
+===Huvudväggen===
+{{led|nr=3|namn=Bromsspåret|grad=6+/7-|längd=8|fa=[[Marco Kupiainen]], [[Mats Olofsson]] [[-95]]}}
+{{led|nr=4|namn=Sprutlackerad|grad=6-|längd=8|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=5|namn=Bajdynan|grad=5|längd=8|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{litentext|text=Rännan är en skitig 4:a.}}
+{{led|nr=6|namn=Kanelsnurran|grad=5+|längd=8|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=7|namn=Eriks solotur|grad=6|längd=10|fa=[[Erik Massih]]([[solo]] [[-95]]}}
+{{led|nr=8|namn=Tagen i tvåan|grad=6+|längd=10|fa=[[Marco Kupiainen]], [[Mats Olofsson]] [[-95]]}}
+{{led|nr=9|namn=Dajmkrysset|grad=5-|längd=10|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=10|namn=Bakomfumlaren|grad=6|längd=12|fa=[[Marco Kupiainen]], [[Mats Olofsson]] [[-95]]}}
+{{led|nr=11|namn=Mökken|grad=6-|längd=8|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=12|namn=HiroChirac|grad=5-|längd=10|fa=[[Marco Kupiainen]]([[solo]] [[-95]]}}
+{{litentext|text=Till höger om HiroChirac går 2 orapporterad borrbultade leder.}}
+
+[[Kategori:Tyresö]] [[Kategori:Stockholm]] [[Kategori:Sport]] [[Kategori:Trad]] [[Kategori:Saknar kolumner]] [[Kategori:Saknar skiss]]

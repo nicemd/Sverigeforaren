@@ -1,0 +1,16 @@
+{{info klippa
+  |lat=59.297185
+  |long=18.579082}}
+
+{{boulderstub}}
+
+obs! Positionen är ungefärlig
+<googlemap version="0.9" lat="59.297624" lon="18.557625" type="map" zoom="11">
+59.297185, 18.579082, Korpberget (Värmdö)
+</googlemap>
+
+
+http://animalstrength.blogspot.com/2008/05/franz-jaeger.html
+
+[[Kategori:Stockholm]]
+[[Kategori:Nacka-Värmdö]]

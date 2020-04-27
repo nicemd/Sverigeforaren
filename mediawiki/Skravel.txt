@@ -1,0 +1,392 @@
+=Allmänt=
+Umeås största boulderområde med många fina problem. Sedan hösten 2008 har området '''totalt klätterförbud på obestämd tid'''! Respektera förbudet!
+
+=Access {{access}}=
+
+OBS! '''Området "Skravel" vid Djäknebölsklinten innehar för närvarande totalt klätterförbud på obestämd tid. Vänligen respektera detta så kanske vi kan återfå förtroendet från markägarna i framtiden!'''
+
+{{AccessDB|klippa=skravelsjo}}
+
+[http://justanotherboulderingblog.blogspot.com/2008/10/skravelsj-is-closed.html The Umeå Show har mer info]
+
+=Vägbeskrivning=
+Kör över Tegsbron och ta höger direkt efter viadukten. Sväng vänster i rondellen in på Gräsmyrsvägen. Följ Gräsmyrsvägen hela vägen förbi Röbäck. Någon kilometer efter det att Röbäck slutat kommer en skylt som pekar höger mot Skravelsjö, fortsätt rakt fram förbi skylten. Efter byn kör du ner i en svacka och sen kommer en uppförsbacke. På toppen svänger du vänster in på en liten grusväg. 
+
+Det dyker upp en bom efter ca 150 meter om du är på rätt grusväg. Fortsätt tills det dyker upp ett sandtag, parkera längst in i sandtaget. Ta höger vid Y-korsningen och fortsätt uppför den ännu mindre vägen. Passera en vägbom och gå vidare till masten och den röda stugan. Därifrån följer du den breda stigen med orange markering på träden fram till området.
+=Sektorer=
+==Introväggen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=82|namn=Kung Haakon|grad=6A+|typ=Jam,Layback,Spricka|fa=JW,HS|landning=4|betyg=2|sopad=Håkan|text=Lätt överhängande spricka. Hoppas den håller sig torr och mossfri!}}
+{{problem|nr=83|namn=Den Korta Flykten|grad=5C|typ=Spricka|fa=Jonas W & friends|landning=3|betyg=1|sopad=Jonas W & friends|text=Sprickan till vänster om Kung Haakon på introväggen.}}
+{{problem|nr=84|namn=Le Roi du fétechisme|grad=7A|typ=Highball,Aréte|fa=Jonas Wiklund|landning=5|betyg=2|sopad=JW, JN, DK|text=Startar vid siffran och siktar snett upp mot aretet till vänster. Händerna ska hela tiden vara på huvudväggen, dvs ingen intraversering från vänster!}}
+{{problem|nr=105|namn=Didriks Dilemma|grad=4C|typ=Krimp,Slopers,Jug|fa=DK & JN|landning=4|betyg=1|sopad=JN & DK|text=Semi-highball, trevligt problem.}}
+{{problem|nr=107|namn=Archimedes Avslut|grad=5B|typ=Mantling|fa=?|landning=3|sopad=?|text=Sjysst problem.}}
+{{problem|nr=108|namn=K.C.K. Original|grad=6B|typ=Krimp,Slopers,Reach|fa=DK, JN|landning=3|sopad=DK, JN|sittstart=ja|uteslutningar=ja|text=K.C.K. = Kejsare Campus Karamell. Sittstart. Många verkar tro att detta är en variant men det är alltså tvärt om. Detta [orginalet] går rakt upp UTAN att användra arêtet till vänster och alla grepp som hör till det. Skön slope-avslutning.}}
+| width="250px" |
+{{problem|nr=108|namn=K.C.K. Tickdjävul|grad=5C|typ=Krimp,Slopers,Reach|fa=?? (under SBO 2002)|landning=3|sopad=DK, JN|sittstart=ja|variant=ja|text=K.C.K. = Kejsare Campus Karamell. Variant där arêtet till V också får användas. Blir då betydligt lättare men inte roligare. Varianten "tvingades" fram under SBO 2002 då flera deltagare klättrade den på detta vis, kanske borde varit orginalet?}}
+{{problem|nr=109|namn=Pervokris|grad=6B+|typ=Krimp,Slopers,Reach|fa=JN, DK|landning=3|betyg=1|sopad=JN, DK|sittstart=ja|text=Går på "introväggen" rakt nedanför domarbordet. Gjordes inför SBO 2002. Ganska fin & något känslig. Troligtvis finast av dom 3 i närheten.}}
+{{problem|nr=110|namn=Moss i torvharven|grad=4C|typ=Krimp,Spricka|fa=DK & JN|landning=3|sopad=JN & DK|uteslutningar=ja|text=Hyllan till höger är inte med.}}
+| width="250px" |
+{{problem|nr=180|namn=Regnbågsbarnen|grad=5C|typ=Mantling,Reach,Jug|fa=JN, DK|landning=4|betyg=2|fadatum=2003-09-16|sopad=JN, DK|text=Ett av dom finare problemen som borstades fram inför sbo 2003. Ibland går det verkligen att trolla med en motorsåg! Går på introväggen, 10m till höger om nr 82 Kung Haakon.}}
+{{problem|nr=181|namn=Connect The God Damn Dots|grad=6B|typ=Krimp,Reach,Spricka|fa=DK, JN|landning=4|betyg=1|fadatum=2003-09-18|sopad=DK, JN|text=Industrialiserad landning (kolla in den bort-baxade stenen bakom!) gör att den inte känns så farlig trots höjden. Går på introväggen, till höger om nr 82 Kung Haakon.}}
+|}
+==Hyllan==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=17|namn=Fetch|grad=5C|typ=Krimp,Travers H->V,Reach|fa=JN|landning=5|betyg=1|fadatum=2000-01-01|sopad=JN|uteslutningar=ja|text=Starta på höger sida om aretet. Traversera snett uppåt förbi aretet och etablera dig på väggen på andra sidan. Sen rakt upp utan arete. Finare än det låter.}}
+{{problem|nr=18|namn=Garfield|grad=4C|typ=|fa=JN|landning=3|fadatum=2000-01-01|sopad=JN|uteslutningar=ja|text=}}
+{{problem|nr=36|namn=Breathless|grad=4C|typ=Krimp,Jug|fa=JN|landning=3|sopad=JN|text=Du tappar knappast andan. Varken svår, hög eller fin, men funkar bra som uppvärmning.}}
+{{problem|nr=36|namn=Hipoxisk|grad=5C|typ=Krimp,Highball|fa=Daniel Widell (denna putsning)|landning=4|fadatum=2003-06-22|sopad=Danne W & Pär L|text=Börja en meter till vänster om nr 45 Stabil/Labil och gå på några sjyssta krimpar snett upp åt vänster. Anslut där till Fetch Direkt för en härligt luftig uttoppning. 5B-klättring + luft ger graden.}}
+{{problem|nr=37|namn=Crag Cruiser|grad=3C|typ=Spricka|fa=JN|landning=3|sopad=JN|uteslutningar=ja|text=Bara sprickan till toppen (tror jag, länge sen..) om det verkar orimligt så gör som du vill. Problemet är INTE hårdare än ovan nämnd grad.}}
+| width="250px" |
+{{problem|nr=38|namn=One way|grad=4A|typ=Krimp,Jug|fa=JN|landning=3|sopad=JN|text=Ja va fan ska man säga. Klättra upp, kryssa i ticklistan och du slipper tänka på den här i fortsättningen.}}
+{{problem|nr=39|namn=Free Ride|grad=4A|typ=Krimp,Jug|fa=JN|landning=3|sopad=JN|text=Upp vid siffran - plättlätt}}
+{{problem|nr=45|namn=Stabil/Labil|grad=6B+|typ=Krimp,Slopers,Mantling|fa=Hans Stenlund|landning=4|betyg=2|sopad=JN|text=Bra landning men fallhöjden kan göra att det smäller bra ändå om man ramlar från slutet. Mysko mantel-krux.}}
+{{problem|nr=139|namn=Fullkomligt Skogstokig|grad=3C|typ=Jug|fa=Pär Lindholm|landning=1|betyg=1|fadatum=2003-06-15|sopad=Pär Lindholm|sittstart=ja|text=Längst till höger på väggen till höger om Stabil/Labil, precis brevid där stigen går ner. Enkelt problem på positiva grepp. Sittstart.}}
+{{problem|nr=140|namn=Multitool for women|grad=5B|typ=Krimp,Layback|fa=Daniel Widell|landning=1|fadatum=2003-06-15|sopad=DW, Pär Lindholm, Emma Fager|uteslutningar=ja|text=Runt hörnet till höger om nr 73, Auviux Campeur. Hyllan och kanten till vänster samt sprickan till höger är uteslutna.}}
+{{problem|nr=140|namn=Multitool for women|grad=5C|typ=Krimp|fa=Daniel Widell|landning=1|fadatum=2003-06-15|sopad=DW, Pär Lindholm, Emma Fager|sittstart=ja|variant=ja|uteslutningar=ja|text=Runt hörnet till höger om nr 73, Auviux Campeur. Sittstart. Hyllan och kanten till vänster samt sprickan till höger är uteslutna. Roligt och tungt.}}
+| width="250px" |
+{{problem|nr=141|namn=Sva-ha-ha-ha|grad=3B|typ=Slab|fa=Daniel Widell|landning=3|fadatum=2003-06-15|sopad=Nej|text=Om man står med ryggen mot Stabil/Labil och går rakt fram så kommer man till uttoppningen av Sva-ha-ha-ha. OK litet problem.}}
+{{problem|nr=154|namn=Dyno för dvärgar|grad=3B|typ=Dyno|fa=Daniel Widell|landning=1|fadatum=2003-06-15|sopad=Daniel Widell, Pär Lindholm|text=Till vänster på väggen till höger om Stabil/Labil. Sug det stora greppet och tokskicka på toppen. Tungt som fan om du är 1m20cm, annars kakbit...}}
+{{problem|nr=157|namn=Stenkåt|grad=6A|typ=Krimp,Dyno,Aréte|fa=Henrik Johansson|landning=5|betyg=1|fadatum=2003-06-25|sopad=Urban Dufva|text=Mellan Mulitool och Svahaha på ett arete. Startgrepp ganska självklara på var sin sida om aretet. Sen rakt upp...}}
+|}
+
+==Låglandet==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=All you need is love|grad=6A|typ=Krimp,Pinch,Aréte|fa=Carlos & Crille|landning=3|fadatum=2005-10-22|sopad=Carlos & Crille|sittstart=ja|startgrepp=ja|text=Ligger till 10 meter höger om 210.  Startar på markerade grepp och sedan följa rampen upp.}}
+{{problem|namn=Tsunami|grad=7A+|typ=Slopers,Travers H->V|fa=Urban Dufva & Carlos|landning=3|betyg=1|fadatum=2005-10-23|sopad=Urban Dufva & Carlos|sittstart=ja|text=Ligger 20 meter till höger om Rövpropp, nr 210. Klättra det omkullvältna lilla blocket. Start nere till hö. i jug och undercling, följ rampen uppåt vä. och mantla över, väldigt lik Habanero i Krokviken.}}
+{{problem|nr=61|namn=Lilla My|grad=5A|typ=Krimp|fa=Eva Knekta|landning=1|sopad=Eva Knekta|text=Går på den ensamma lilla stenen, nedanför Mary väggen. Inte så kul men inte så tråkig heller.}}
+{{problem|nr=62|namn=Running Wild|grad=5C|typ=Krimp|fa=Fredrik Wågberg|landning=3|betyg=1|sopad=Fredrik Wågberg, Carola Sigurd|text=Fint och givet problem på en ensam sten.}}
+{{problem|nr=62|namn=Sjövild|grad=6C|typ=Travers V->H|fa=JW|landning=1|fadatum=2003-08-25|variant=ja|startgrepp=ja|text=Variant. Startar med båda händer på rampen längs till vänster på Running Wild (#62) Travers åt höger till Roskildefredens start och klättra den.}}
+{{problem|nr=63|namn=Maybe next Year|grad=6B|typ=Krimp|fa=Fredrik Wågberg|landning=3|sopad=Carola Sigurd, Fredrik Wågberg|text=Små krimprar gör ont. Mer V än H.}}
+{{problem|nr=76|namn=Half-Life|grad=6A+|typ=Krimp,Reach,Spricka|fa=DK, JN|landning=3|sopad=DK, JN|sittstart=ja|uteslutningar=ja|text=Bökig start inne i ett hörn och sen en bökig avslutning. Bökig och ganska bökig.}}
+{{problem|nr=101|namn=Vattenfallet|grad=5B|typ=Krimp,Spricka|fa=Urban Dufva|landning=5|sopad=Urban Dufva|text=}}
+{{problem|nr=103|namn=Red Hot Chili|grad=6C|typ=Krimp,Slab|fa=Urban Dufva|landning=4|betyg=3|sopad=Urban Dufva|text=Håll till vänster om sprickan. Finaste sva-problemet i skogen.}}
+{{problem|nr=115|namn=Gradjägaren|grad=2|typ=Jug|landning=4|text=Grad ok?}}
+{{problem|nr=116|namn=Skamgrepp|grad=4C|typ=Aréte,Spricka|fa=Johannes Nilsson|landning=3|betyg=2|sopad=Johannes Nilsson|text=Sprickan/arêtet rakt upp. Togs fram för SBO 2002. Fin.}}
+{{problem|nr=126|namn=Supercrack|grad=5C|typ=Jam|fa=Fredrik Wågberg|landning=1|sopad=Fredrik Wågberg|sittstart=ja|text=Starta sittande men inte på stenen.}}
+{{problem|nr=130|namn=Man vs Slab|grad=7B|typ=Krimp|fa=Magnus Eriksson|landning=3|betyg=1|fadatum=2003-05-13|sopad=Mange E & Urban Dufva|variant=ja|uteslutningar=ja|text=Rakt upp UTAN aréten. Ser fantastiskt blank ut.}}
+{{problem|nr=130|namn=Man vs Rock|grad=6C+|typ=Krimp|fa=Urban Dufva|landning=3|sopad=Urban Dufva|text=Start på krimp, sedan ut höger och upp via aréten.}}
+{{problem|nr=131|namn=Milkyway Light|grad=6B+|typ=Krimp,Slopers|fa=Urban Dufva|landning=3|fadatum=2003-03-31|sopad=Urban Dufva|uteslutningar=ja|text=Händerna följer sprickan, fötterna håller sig på slabben.}}
+{{problem|nr=131|namn=Milkyway Light Body Jam|grad=5C|typ=Krimp,Slopers,Jam|fa=Urban Dufva|landning=3|sopad=Urban Dufva|variant=ja|uteslutningar=ja|text=Hela sprickan får användas.}}
+{{problem|nr=149|namn=Highbål|grad=3C|typ=Highball|fa=Carlos|landning=4|fadatum=2003-03-27|sopad=nej|text=Mitt emot Chevrolet Silverado (137:2) (nedanför Hakkuh (68:2)) Går på den högsta väggen, slutar mellan två tallar, oborstad och lätt.}}
+| width="250px" |
+{{problem|nr=150|namn=Gummiarm|grad=5B|typ=|fa=Carlos?|landning=1|fadatum=2003-06-01|sopad=Carlos mfl|text=Lägsta problemet i Skravel? Startgreppen märkta + endast stenen i mitten för fötterna (ni lär väl se). Problemet finns mellan 101 och 102 i en liten sänka.}}
+{{problem|nr=151|namn=Tro|grad=6A+|typ=Krimp,Slab|fa=Johan Öhman|landning=4|fadatum=2003-05-22|sopad=Johan Öhman|text=Mellan Maybe Next Year, nr 63, och Crack Whore, nr 75. Lite lös klippa. Se upp så du inte rullar baklänges vid fall.}}
+{{problem|nr=159|namn=Roskildefreden|grad=6A|typ=Aréte|fa=Jonas Wiklund|landning=3|betyg=2|fadatum=2003-06-27|sopad=Christian Lundh|uteslutningar=ja|text=Aretet till höger om #62 (Running Wild) på plan 2. Ett av de finaste i Skravel i sin grad. Klättra arétet, juggen till höger är uteslutet.}}
+{{problem|nr=160|namn=Kalmarunionen|grad=6C+|typ=Travers H->V|fa=Jonas?|landning=3|fadatum=2003-06-27|sopad=Christian|startgrepp=ja|text=Traverserar H->V från krimp (markerad med två kritstreck) så långt åt höger man rimligtvis vill starta. Använder naturligtvis inte jugrampen för att traversera ut till "Roskildefreden" där den går upp. Mycket osäker grad pga varmt väder}}
+{{problem|nr=167|namn=Solguden Ra|grad=6B|typ=|fa=JW|landning=1|betyg=1|fadatum=2003-08-27|sopad=Jonas W|text=På en ensam vägg 10 meter nedanför 115,116, och 117. Går på väggen rakt framför granen och till höger om den tydliga sprickan, skön mantling på toppen. Med hoppstart är den kanske 6A+ eller så. Typisk "skravel-klättring".}}
+{{problem|nr=168|namn=Kinapuff|grad=7A+|typ=Slopers,Heel hook|fa=JW|landning=5|betyg=2|fadatum=2003-08-28|sopad=JW, JN, DK|text=Går på näsan på det stora stenblocket nedanför "Red Hot Chili". På denna Aerodynamite-kopia får man rimligtvis bara stå på en padda på starten.}}
+{{problem|nr=169|namn=Single Malt|grad=6B|typ=Krimp,Slopers|fa=Urban|landning=4|betyg=2|fadatum=2003-08-30|sopad=Urban|sittstart=ja|text=Problemet ligger en meter till vänster om Pingu. Startar sittande på krimpers, rakt upp till hyfsad jug och toppa sedan ut via den slopiga toppen}}
+{{problem|nr=170|namn=Pingu|grad=7A|typ=Överhäng|landning=3|fadatum=2003-09-08|startgrepp=ja|text=En bit bortanför #138, på en överhängande bulle snett mitt emot en fristående sten. Startar med en liten klack för vänster hand, går rakt upp, och är graderad för bestigningar utan hoppstart.}}
+{{problem|nr=171|namn=Green Chili|grad=6B|typ=Layback,Slab,Dyno|fa=JW|landning=1|fadatum=2003-09-08|sopad=Carlos Cabrera, Fredrik Ekström|text=Klättra sprickan till vänster om Red Hot Chili.}}
+{{problem|nr=179|namn=Fuel|grad=6B|typ=Slopers,Mantling|fa=DK -03|landning=4|betyg=1|fadatum=2003-10-17|sopad=UB, DK, HJ|text=Går på ovansidan av Kinapuff-stenen. Den givna mantlingen till höger. Håll dig borta från arêtet, annars rakt upp på alla tänkbara vis. Helt ok rent mantlingsproblem.}}
+{{problem|nr=182|namn=A.I.|grad=6C|typ=Slopers,Mantling|fa=DK|landning=3|betyg=1|fadatum=2003-09-18|sopad=DK, JN, HJ, CO|startgrepp=ja|text=Ett bra exempel på vad man kan trolla fram genom att modifiera landningen lite. Marken sänktes ca 1 m under problemet och gjorde det betydligt finare. Ligger på en egen sten precis till höger om nr 168 Kinapuff.}}
+{{problem|nr=183|namn=En Rosa Helikopter|grad=7A|typ=Krimp,Dyno|fa=JN|landning=4|betyg=1|fadatum=2003-09-18|sopad=JN, DK|text=Klockrent problem på den stora kinapuff-stenen. Sug tag i miniatyrgreppen, ställ dig på stenen (Ja - den ÄR med) och hoppa. Ligger till vänster om nr 168 Kinapuff.}}
+| width="250px" |
+{{problem|nr=184|namn=Arousal|grad=6B+|typ=Krimp,Aréte,Heel hook|fa=DK, HJ -03|landning=5|betyg=2|fadatum=2003-10-17|sopad=HJ, UD|text=Går på Kinapuff-stenen (ovansidan). Det vänstra arêtet. Inga direkta uteslutningar  men håll dig på arêtet. Mkt fin klättring men tyvärr dålig landning, ska se om jag kan förbättre den lite.}}
+{{problem|nr=194|namn=Bärnsten|grad=7B|typ=Krimp|fa=HS,JW|landning=3|betyg=2|sopad=JW, mfl|text=Startar i sprickan i huvudhöjd och rakt upp till mikrokrimper och sloper. Kul mantling på rund sten. (Tror att numret var 194, till hö om chevrolet silverado nr137)}}
+{{problem|nr=195|namn=De små tingens Gud|grad=7A|typ=Slopers|fa=DK, JW|landning=2|fadatum=2003-10-28|sopad=JW|sittstart=ja|startgrepp=ja|text=Sittstart till vänster om Chevrolet Silverado. För att missförstånd ej ska uppstå är startgreppen märkta.}}
+{{problem|nr=198|namn=Biceps|grad=4B|typ=Jug,Spricka|fa=Fredrik Ekström|landning=4|betyg=1|fadatum=2003-08-23|sopad=FE|text=Ganska fin stor spricka till höger om "Red hot Chili". Startar nära trädet.}}
+{{problem|nr=202|namn=Dyna Den Som Vill|grad=5A|typ=Dyno,Reach,Jug|fa=DK -03|landning=4|fadatum=2003-10-19|sopad=DK, JW|uteslutningar=ja|text=Går till höger om Pingu 7a på samma vägg. Starta i stort givet grepp i midje/bröst höjd. Skicka, hoppa (från marken) eller stata sen till rampen och så upp. Arêtet till höger är uteslutet. Mycket osäker på graden.}}
+{{problem|nr=209|namn=Booby Trap|grad=6C|typ=Slopers,Pinch,Överhäng|fa=DK, Tatt, Peter Nilsson|landning=4|betyg=3|fadatum=2004-05-03|sopad=DK, Tatt, PN, HS, AS|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Går på den låga branta stenen 15m nedanför/bakom Bernsten. Samma start som Booty Trap (dvs stenen i sprickan) men sen går den åt vänster ut över pinchen och vidare vänster via slopes. Sprickan får ej användas annat än i starten. Brytig & fin.}}
+{{problem|nr=210|namn=Rövpropp|grad=6B|typ=Slopers,Mantling|fa=Andreas Ström|landning=3|betyg=1|fadatum=2004-05-03|sopad=AS, DK, JN, HS, Peter Nilsson|sittstart=ja|uteslutningar=ja|text=Går på den låga branta stenen 15m nedanför/bakom Bernsten. Sittstart längst till höger, starta med händerna på sloperampen och mantla rakt upp. Sprickan till vänster utesluten.}}
+{{problem|nr=211|namn=Booty Trap|grad=6A|typ=Överhäng,Spricka|fa=DK, Tatt, Peter Nilsson|landning=4|betyg=1|fadatum=2004-05-03|sopad=DK, Tatt, PN, HS, AS|sittstart=ja|startgrepp=ja|text=Går på den låga branta stenen 15m nedanför/bakom Bernsten. Sprickan som går rakt genom taket. Ett fast startgrepp - du ska ha den ena handen på stenen i sprickan i starten, sen rakt upp som du vill.}}
+{{problem|nr=212|namn=TamTam|grad=6C+|typ=Slopers,Mantling|fa=DK|landning=4|fadatum=2004-05-05|sopad=UD, DK|text=Går mitt över #132 Rivjärn. Ta tag i kanten och mantla rakt upp. väldigt svårt att göra fel men självklart får man inte traversera ut till hörnet och gå upp där, rakt upp ska man, rent mantlingsproblem. Givet när man väl är på plats.}}
+{{problem|nr=237|namn=sneöga|grad=6A|typ=Slopers,Mantling,Aréte|fa=jonas m.fl|landning=3|fadatum=2006-08-16|sopad=jonas m.fl|sittstart=ja|text=sittstart vid aretet till vänster om De små tingens gud, följ aretet och toppa ur samma som Tingen}}
+|}
+==Anna-Lotta==
+Problemen som ligger i närheten av Anna-Lotta-kammaren. Klassiker som Eriks Extension och Prozak.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=2|namn=KF 75 År|grad=4B|typ=Reach|fa=DK, JN|landning=3|fadatum=2000-01-01|sopad=DK, JN|text=Hoppa till kanten och mantla. Svårare för korta.}}
+{{problem|nr=3|namn=Eriks Extension|grad=5B|typ=Travers V->H,Reach|fa=Erik Nilsson|landning=3|betyg=1|fadatum=1999-01-01|sopad=EN, JN|text=Föjl pilen åt H och sen upp bortanför trädet.}}
+{{problem|nr=25|namn=Atletique|grad=5C|typ=Layback,Mantling,Jug|fa=JN|landning=1|sopad=JN|text=Börja till höger, följ aréten upp, gå sedan runt till vänster innan du mantlar.}}
+{{problem|nr=26|namn=Mission Possible|grad=6B|typ=Krimp,Överhäng,Reach|fa=Johannes Nilsson|landning=4|sopad=JN|startgrepp=ja|uteslutningar=ja|text=Skumt problem på baksidan av Atletique stenen. Går uppför "arêtet" via konstiga move men ändå ganska fint.}}
+{{problem|nr=35|namn=Supernova|grad=6B+|typ=Krimp,Reach,Spricka|fa=JN|landning=5|betyg=1|sopad=JN, DK|sittstart=ja|text=Rakt över det "breda arêtet". Äcklig avslutning med långt fall om du misslyckas. Se till att ha en bra spotter, det hade förstabestigaren ;)}}
+{{problem|nr=65|namn=Sitting Bull|grad=5C|typ=Överhäng,Reach|fa=Fredrik Wågberg|landning=3|sopad=FW, Carola Sigurd|sittstart=ja|startgrepp=ja|text=Starta på startprickarna under det lilla taket, sträck ut och mantla upp.}}
+{{problem|nr=66|namn=Genvägar är senvägar|grad=4C|typ=Krimp,Layback|fa=JN|landning=1|betyg=1|sopad=JN|startgrepp=ja|text=Gå med undercling hela vägen. Och kom ihåg! Genvägar är senvägar!}}
+{{problem|nr=71|namn=Ford F-150|grad=4A|typ=Jug|landning=2|text=Gå upp över högsta punkten.}}
+{{problem|nr=71|namn=Ford F-150|grad=6A|typ=Krimp|landning=2|sittstart=ja|variant=ja|text=}}
+{{problem|nr=71|namn=Rökheroin|grad=6B+|typ=Krimp|fa=Jonas Wiklund|landning=1|sittstart=ja|variant=ja|text=Sittstart till höger om sprickan #71 sedan rakt upp.}}
+{{problem|nr=79|namn=TV für alle|grad=4C|typ=Slopers,Mantling|landning=1|betyg=1|text=Perfekt mantlings-problem. Tuffare för korta.}}
+{{problem|nr=80|namn=Tomten, Dragan och jag|grad=5B|typ=Slopers,Mantling|fa=JW, HS|landning=2|sopad=JW|text=Ett sittstartprojekt som trots allt är ganska roligt även som ståstart, dock mycket längdberoende. Under 180 cm = hård, över 180 cm = lätt. Prova gärna sittstarten som lär bli kring 7C.}}
+{{problem|nr=85|namn=Prozac|grad=5C|typ=Krimp,Överhäng,Highball|fa=Jens Åström|landning=5|betyg=1|sopad=Jens|text=Highball på den stora väggen ovanför Anna-Lotta kammaren. Lite smårisig landning men ett mycket fint problem. Fall inte.}}
+| width="250px" |
+{{problem|nr=86|namn=Bonified|grad=4C|typ=Slopers,Dyno,Jug|fa=DK|landning=3|sopad=DK|uteslutningar=ja|text=Dyna från sprickan till toppen. Stenen till vänster utesluten och även arêtet/sprickan till vänster. Gjordes till SBO 2002 för att fylla ut 4-registret..}}
+{{problem|nr=93|namn=Lothlorian|grad=5A|typ=Slopers,Mantling|fa=Carola Sigurd|landning=3|betyg=1|sopad=Carola Sigurd|text=Straight up by the number.}}
+{{problem|nr=94|namn=På Förtvivlans Krön|grad=6A|typ=Slopers,Mantling|fa=Jonas Wiklund|landning=3|betyg=2|sopad=Carola Sigurd, Fredrik Wågberg|sittstart=ja|uteslutningar=ja|text=Mantla inte för långt till vänster.}}
+{{problem|nr=95|namn=Överunderuppochigenom|grad=4B|typ=|fa=Carola Sigurd|landning=1|sopad=Carola Sigurd|text=Tämligen meningslöst.}}
+{{problem|nr=96|namn=Bredsladd|grad=4B|typ=|fa=Jonas Wiklund|landning=1|sopad=JW|sittstart=ja|text=Tämligen meningslöst.}}
+{{problem|nr=97|namn=Zipramil|grad=5C|typ=Highball|fa=Jonas Wiklund|landning=7|sopad=Jonas W|text=Troligtvis områdets värsta landning vid ett ev. fall. Du bör vet vad du gör innan du går på denna. Gå ut vänster innan de något lösa jättekristallerna. Varning.}}
+{{problem|nr=129|namn=Habla-habla|grad=4B|typ=Slab|fa=Carlos Cabrera|landning=5|fadatum=2003-06-04|sopad=Carlos Cabrera|text=Cirka 10m till vänster om nr 97, Zipramil.}}
+{{problem|nr=158|namn=Stenhård|grad=4A|typ=Slab|fa=Anders Linder|landning=4|fadatum=2003-06-24|sopad=Anders Linder|text=Bakom nr 26, Mission Possible, och snett upp till höger från nr 32, Da Copa.}}
+{{problem|nr=164|namn=Retrete|grad=6A|typ=Highball|fa=Carlos Cabrera|landning=6|betyg=1|fadatum=2003-06-04|sopad=Carlos Cabrera|text=Finns ca. 20m till vänster om nr 97, Zipramil. Retrete anspelar på spanska betydelsen av ordet (Toalettstol) och likheten med svenskan. Enkel led att skada sig på, men har alla mojligheter till en snabb retratt.}}
+{{problem|nr=185|namn=Sexuell Frustration|grad=6C|typ=Dyno,Aréte|fa=JN|landning=4|betyg=2|fadatum=2003-09-16|sopad=JN, HJ, DK|text=En av dom finare på sbo 2003. Långt dyno till bra grepp, som ändå verkar svårt att hålla kvar i. Under sbo hoppade de flesta från marken men problemet ska göras med en etablering på väggen och sen ett skutt. Ligger "runt hörnet" till hö om nr 32 Da Copa'.}}
+{{problem|nr=185|namn=Sexuell Frustration SS|grad=7A|typ=Dyno,Aréte|fa=Urban Dufva|landning=4|sopad=Urban Dufva|sittstart=ja|variant=ja|text=Sittstarten.}}
+| width="250px" |
+{{problem|nr=186|namn=Blåbärsprincessan|grad=4A|typ=|fa=JN|landning=3|fadatum=2003-09-17|sopad=Johannes Nilsson|text=Sattes upp inför sbo 2003. Halv-bökigt dieder som troligtvis fått en grymt felaktig grad (graderades i mörker med pannlampa och gympaskor). Ligger ca 25m till vänster om nr 97 Zipramil, bakom en stor gran.}}
+{{problem|nr=187|namn=Elup|grad=6A+|typ=Layback,Mantling,Aréte|fa=JN, HJ|landning=3|fadatum=2003-09-18|sopad=JN, HJ|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Starta sittande på prickarna. Stenen till höger utesluten. Något krystad & bänglig start men ändå helt ok. Går ca 25m till vänster om nr 97 Zipramil. Bakom en stor gran.}}
+{{problem|nr=196|namn=Skravel Kravel|grad=5C|typ=Slopers,Mantling,Travers H->V|fa=JN|landning=3|fadatum=2003-09-15|sopad=JN, DK|startgrepp=ja|text=Starta till höger, skavla till vänter och kravla sen upp över kanten. Finns på en egen liten sten strax bakom nr 66 Genvägar är Senvägar.}}
+{{problem|nr=199|namn=Carabinée|grad=6C+|typ=Mantling,Överhäng,Jug|fa=Johan Nordlund|landning=3|betyg=3|fadatum=2003-10-18|sopad=Tatt, Damp, Lorden & Urban|sittstart=ja|startgrepp=ja|text=I Anna-Lotta kammaren, "Dagbrottet". Hård start i ett undercling (spricka), sen armiga, grymma takmove upp ur grottan (mantla upp helt ur grottan). Klart värd sina stjärnor!}}
+{{problem|nr=203|namn=Bill|grad=4B|typ=Slab|fa=Johan Öhman|landning=3|sopad=Johan Öhman|text=Givet problem nedanför Erik's extension mfl. Går på "mittenslabben". Trots dess höjd, ändock ett småtrevligt problem.}}
+{{problem|nr=204|namn=Bull|grad=5B|typ=Slab|fa=Johan Öhman|landning=3|sopad=Johan Öhman|text=Något barskare svaproblem än dess vänstra granne - Bill. Svårare start, lättare urtoppning.}}
+{{problem|nr=215|namn=Achilles Häl|grad=6C+|typ=Slopers,Heel hook|fa=Tatt, Lord, Damp|landning=5|betyg=1|fadatum=2004-05-15|sopad=Lord, Tatt, Damp|startgrepp=ja|text=Ligger rakt utanför Anna-Lotta kammaren. Starta i givet stort bra grepp långt ner och sen fritt fram till toppen. Sten i landningen drar ner betyget men den kanske försvinner en vacker dag, den som lever får se :)}}
+{{problem|nr=221|namn=Alkoläsk|grad=5C|typ=Överhäng|landning=2|sittstart=ja|startgrepp=ja|text=Startar sittande under det lilla taket till vänster om Da Copa/Eriks extension/F 150. Börjar med båda händer i en given jug långt under taket. Semiläskig topout då man får lite gratisexponering.}}
+|}
+
+==Mellanområdet==
+Mellanområdet är det område som i höjd ligger mellan låglandet och Milkyway-området. Längst till vänster i mellanområdet ligger franska taket och sen har vi de höga Virgin Mary och Bloody Mary och sen längst till höger Hakkuh och Dodge Grand Caravan. 
+
+Tack vare sitt öppna läge brukar det gå att klättra här tidigt på säsongen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Le toit Français|grad=7A+|typ=Krimp,Slopers|fa=JW|landning=4|betyg=2|fadatum=2004-11-07|sopad=JW|text=Klättra franska taket mellan #14 "le ballant" och #15 "Porte de grange". Ett totalproblem som innehåller lite av varje: Gaston, krimp, slopers, catch, och delikat utsteg en bit ovan marken. Grad mycket osäker pga grusiga grepp vid 1a-best.}}
+{{problem|namn=Twisted Logic|grad=8A|typ=Krimp,Överhäng|fa=Per Lindmark|landning=2|betyg=3|fadatum=2008-01-03|sopad=Per Lindmark|sittstart=ja|text=Sittstart längst till vänster på 10 dollar hooker klippan. Går sedan under taket och avslutar upp för den mindre vertikala vägen.}}
+{{problem|nr=14|namn=Le Ballant|grad=6A+|typ=Pinch,Överhäng,Dyno|fa=DK, JN|landning=4|betyg=1|fadatum=2000-01-01|sopad=JN, DK|startgrepp=ja|uteslutningar=ja|text=Starta under taket på en liten list som ser ut att lossna (det gör den inte). Skicka ut till jug. "Hörnet" till H är uteslutet.}}
+{{problem|nr=14|namn=Crochet de point|grad=6C|typ=Krimp,Överhäng|fa=J.W. & M.E.|landning=1|betyg=1|sopad=?|variant=ja|uteslutningar=ja|text=Startar som 14 men går ut åt vänster via små krimpers. I övrigt samma restriktioner som "Le Ballant"}}
+{{problem|nr=15|namn=Porte de Grange assis[ss]|grad=7A|typ=Pinch,Layback,Överhäng|fa=Jonas Wiklund|landning=3|betyg=3|sopad=JW, JN, DK|sittstart=ja|variant=ja|startgrepp=ja|text=Starta i markerade lister under taket. Sen rakt upp via laybackrampen och ett bökigt knälås. Cool men kroppstung.}}
+{{problem|nr=15|namn=Port de Grange|grad=6B|typ=Layback,Spricka|fa=Dag & Johannes|landning=3|betyg=2|sopad=Dag & Johannes|text=}}
+{{problem|nr=16|namn=Crochet de Talon|grad=6A+|typ=Krimp,Slopers,Reach|fa=DK|landning=4|betyg=1|fadatum=2001-01-01|sopad=DK, JN, Anton Bingebo|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Starta med båda händerna i sprickan och dra sedan långt upp till list. Böka dig upp och fortsätt över hyllan. Förbjudet att vika av hyllan åt vänster på slutet.}}
+{{problem|nr=17|namn=Fetch direkt|grad=5A|typ=Highball|fa=?|landning=4|sopad=?|variant=ja|text=Starta som Fetch men vik aldrig runt hörnet utan gå helt enkelt rakt upp till höger om arétet. LÄSKIGT är ordet.}}
+| width="250px" |
+{{problem|nr=33|namn=Zeunerts|grad=5B|typ=Krimp|fa=JN, DK|landning=4|sopad=JN, DK|uteslutningar=ja|text=Går längst till V på den stora väggen brevid franska taket. Inget utmärkande problem på något vis, en list, en list, en list och så toppen.. Sprickan till vänster är utesluten.}}
+{{problem|nr=34|namn=Mot alla odds|grad=6C|typ=Krimp,Överhäng,Dyno|fa=Johannes Nilsson|landning=3|sopad=JN|text=Orginalet startar statiskt utan hopp. Den variant som de flesta kör är med hoppastart till den givna listen och sen dyno till kanten, denna variant är 6B+.  Stenen bakom fortfarande utesluten.}}
+{{problem|nr=46|namn=Bloody Mary|grad=5A|typ=Krimp,Mantling,Highball|fa=Jonas Wiklund|landning=7|sopad=Jonas Wiklund|text=Läskigt hög. Var säker på grad och att du uppskattar livet innan du går på.}}
+{{problem|nr=49|namn=Virgin Mary|grad=5C|typ=Krimp,Highball,Reach|fa=Hasse, Lotta & Jonas|landning=5|sopad=Hasse, Lotta & Jonas|text=Highball på den stora väggen till H om franska taket. Som namnet antyder är detta lillasyrran till Bloody Mary. Lägre och mindre blodig men svårare i grad. Fall inte från slutet.}}
+{{problem|nr=57|namn=Forgotten Silver|grad=6B|typ=|landning=3|text=Ståstart till höger på taknäsan 10 meter nedanför/till höger om franska taket, just till h. om bloody/virgin mary. Bryt upp från det bra greppet.}}
+{{problem|nr=57|namn=Mossa och hagel|grad=5A|typ=Spricka|fa=Johan G, Tomas B|landning=5|betyg=1|fadatum=2004-05-20|sopad=Johan G, Tomas B|variant=ja|uteslutningar=ja|text=Offwidthsprickan till höger om nr 57. Hyllan ovanför siffran 57 utesluten.}}
+{{problem|nr=64|namn=Softis|grad=4A|typ=Spricka|fa=?|landning=3|betyg=1|sopad=?|text=En av de bättre lätta problemen.}}
+{{problem|nr=68|namn=Hakkuh|grad=6A|typ=Krimp|fa=DK?|landning=2|betyg=1|sopad=DK, JN|text=Fint problem!}}
+{{problem|nr=78|namn=Dodge Grand Caravan|grad=5C|typ=Slopers,Layback|fa=Anders Linder|landning=2|betyg=1|sopad=Pär Lindholm|text=Borstades fram för att fixa ett fint sloper-problem.}}
+{{problem|nr=78|namn=Dodge Grand Caravan - variant|grad=6A+|typ=Slopers|fa=Urban Dufva|landning=2|betyg=1|fadatum=2003-05-09|sopad=Pär Lindholm|variant=ja|uteslutningar=ja|text=Kanten till höger utesluten, även för fötterna. Väldigt fint sloperproblem!}}
+| width="250px" |
+{{problem|nr=125|namn=Piggelin|grad=5B|typ=|fa=Carola Sigurd|landning=1|sopad=Carola Sigurd|sittstart=ja|text=Riktigt lågt problem som är förvånansvärt roligt!}}
+{{problem|nr=137|namn=Chevrolet Silverado|grad=6A|typ=Jam,Layback|fa=Hans Stenlund|landning=3|betyg=1|sopad=Pär Lindholm|text=Fint problem. Gå upp i sprickan.}}
+{{problem|nr=152|namn=Step-a-side|grad=6A|typ=Layback|fa=Johan Öhman|landning=1|sopad=Johan Ö och Daniel?|sittstart=ja|uteslutningar=ja|text=Till vänster om nr 68, Hakkuh. Layback-spricka, som tyvärr är lite låg. Hade gärna fått fortsätta någon meter till. Namnet anspelar på var man bör sätta fötterna, och ivern hos förstabestigarna när problemet gjordes. Fötterna hålls till höger om sprickan.}}
+{{problem|nr=162|namn=Tattisch|grad=4B|typ=Krimp,Reach|fa=Johan "Tatt" Nordlund|landning=2|fadatum=2003-07-13|sopad=Ingen ännu.|text=Bara ett problem till i mängden. Men fint ändå. Ännu inte borstat, så varsegod!. går på vägg till v om 152.}}
+{{problem|nr=166|namn=Solitär|grad=6B|typ=Slopers,Aréte|fa=JW|landning=3|betyg=2|fadatum=2003-08-24|text=Klättra den hängande rampen till vänster om "Mot alla odds" no 34. Slopig och med dåliga fotsteg.}}
+{{problem|nr=191|namn=FlankIs|grad=6A|typ=Krimp,Travers H->V,Reach|fa=Eva Knekta, Sofia Nording|landning=3|fadatum=2003-09-15|sopad=EK, SF|text=Lång travers sedan rakt upp vid väggens vänstra del. Går på samma vägg som (och korsar) nr 64 Softis. Den verkar tyckas barsk för sin orginalgrad 6a.}}
+{{problem|nr=207|namn=10$ Hooker|grad=6C|typ=Krimp,Heel hook|fa=JW & Andreas Ström|landning=3|betyg=1|fadatum=2004-04-05|sopad=JW & Strömmen|text=Startar 3 meter till höger om "Bloody Mary" mitt på den utskjutande skivan.}}
+{{problem|nr=213|namn=Futurekids|grad=4A|typ=Slopers,Slab|fa=Pär Lindholm|landning=4|fadatum=2004-05-10|sopad=PL, DK, UD|text=Ligger på hörnet till höger från Hakkuh (#68) och till vänster om Dodge G.C. (#78) Ett enkelt och av någon anledning otrevligt problem.}}
+|}
+==Södra åsen==
+Gå upp på berget ovanför introväggen och gå sedan vänster. Följ åsen ner ungefär 100 meter så kommer du till Tigerman, det första problemet i sektorn.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Kadaver|grad=6C|typ=Krimp,Mantling,Dyno|fa=Sydde & Danne W|landning=3|betyg=2|fadatum=2004-10-05|sopad=Sydde & Danne W|text=Starta etablerat i den vertikala sprickan och gå sen rakt upp via den horisontala sprickan. Hoppstart 6B. Ligger 15 meter till höger från Twin & Peak, precis runt hörnet.}}
+{{problem|nr=40|namn=Hold me closer [variant]|grad=4B|typ=Krimp,Aréte,Travers V->H|fa=JN, DK|landning=1|sopad=JN, DK|sittstart=ja|startgrepp=ja|text=Traversera åt höger och gå upp längs arêtet. För dom som hatar att dyna, övriga hänvisas till orginalet som är betydligt finare.}}
+{{problem|nr=41|namn=Hold me closer|grad=5A|typ=Krimp,Slopers,Dyno|fa=JN, DK|landning=1|sopad=JN, DK|startgrepp=ja|text=Dyna till toppen från startprickarna. Lätt men kul.}}
+{{problem|nr=42|namn=Love me tender|grad=4C|typ=Slopers,Dyno|fa=JN, DK|landning=2|sopad=JN, DK|text=Lätt men kul dyno}}
+{{problem|nr=55|namn=Tigerman|grad=5A|typ=Krimp,Jug,Spricka|fa=Calle Ohlsson|landning=3|betyg=3|sopad=CO|text=Superfint problem med perfekt höjd! Rekommenderas.}}
+{{problem|nr=56|namn=In The Getto|grad=4C|typ=Krimp,Layback,Spricka|fa=CO, SBO Crew|landning=2|sopad=CO, SBO Crew|text=Borstades fram inför SBO 2001 av SBO teamet (främst av Calle). Har sedan dess av nån märklig anledning fått ett annat namn (Dödsfällan) och en ny FA. Infon är nu ändrad till den korrekta.}}
+| width="250px" |
+{{problem|nr=105|namn=Peak|grad=5B|typ=|fa=Fredrik&Carola|landning=2|sopad=Fredrik&Carola|text=Balansigt problem, ganska roligt!}}
+{{problem|nr=120|namn=Twin|grad=5B|typ=|fa=Fredrik&Carola|landning=3|sopad=Fredrik&Carola|text=Balansigt problem, ganska roligt!}}
+{{problem|nr=155|namn=Triceratops|grad=5C|typ=Mantling|fa=Johan Öhman|landning=2|sopad=Johan Ö och Olov Wallin|sittstart=ja|text=Beläget på sidoväggen brevid nr 55, Tigerman. Kul litet problem, som kräver en del balans. Sittstarten ger, om man är svag och lite kort (som jag), finfin tricepsträning. Går rakt upp, via de tre "topparna".}}
+{{problem|nr=156|namn=Isabelle|grad=4C|typ=Mantling|fa=Johan Öhman och Isabelle|landning=3|sopad=Johan Ö|text=Går på sidoväggen bredvid nr 55, Tigerman, till vänster om Triceratops. Ganska trevlig om än (halv-) krystat problem. Rakt upp via juggar. Varning för barr när du ska mantla och grenar i ansiktet på toppen.}}
+{{problem|nr=188|namn=Björnfrossa|grad=4C|typ=Krimp,Aréte,Jug|fa=JN, DK|landning=3|fadatum=2003-09-17|sopad=JN, DK|text=Lätt men givet arête som tog betydligt längre tid att borsta än att klättra. Bra uppvärning inför resten av problemen på stenen. Går på en egen liten sten mellan nr 52 (y-front) och 42, lite off och halvsvår att se.}}
+| width="250px" |
+{{problem|nr=189|namn=Stenhjärta|grad=6C|typ=Krimp,Slopers,Reach|fa=JN|landning=3|betyg=1|fadatum=2003-09-17|sopad=JN, DK|startgrepp=ja|text=Startar med krimp i sprickan, skicka upp på sloperrampen. Stenens mest givna problem. Går på en egen liten sten mellan nr 52 (y-front) och 42, lite off och halvsvår att se.}}
+{{problem|nr=192|namn=Pilsnerkorv|grad=6C+|typ=Slopers,Mantling,Reach|fa=DK, JN|landning=3|betyg=1|fadatum=2003-09-17|sopad=JN, DK|text=Ännu ett exempel på en härligt modifierad landning. Se stenhögen bakom. Också detta ett sbo 2003 problem, ett av dom finare. Går på en egen liten sten mellan nr 52 (y-front) och 42, lite off och halvsvår att se.}}
+{{problem|nr=216|namn=El bisonte|grad=5B|typ=|fa=Thomas P, Johan S|landning=2|fadatum=2004-06-03|sopad=Thomas P, Johan S|text=Ligger 5m vänster om nr:105 Peak, startar under den lilla björken och rakt upp.}}
+{{problem|nr=222|namn=Vit hand|grad=5B|typ=Mantling,Reach|fa=Daniel Widell|landning=3|betyg=1|fadatum=2004-08-25|sopad=Daniel Widell|text=Ligger precis till höger om Twin och Peak, på nästa sten nedöver.Problemet består av en 2.5m bred vägg med 2 st, i höjdled jämnt fördelade, tvärsprickor som passeras på lättaste sätt till en rundad mantling.}}
+|}
+==Milkyway==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=13|namn=Bullkungen|grad=4A|typ=Slab|fa=JN|landning=2|betyg=3|sopad=JN, DK|text=Kanske Skravelsjös största klassiker. Ett av dom absolut första problemen med namn & grad i området.}}
+{{problem|nr=48|namn=Waste of Time|grad=4C|typ=|fa=Hans Stenlund|landning=2|sopad=HS|text=Låg semi-sunkig travers. Det andra problemet på den här väggen är finare.}}
+{{problem|nr=50|namn=Gallo|grad=6A|typ=Krimp,Slopers,Överhäng|fa=Calle Ohlsson, JN|landning=1|betyg=2|sopad=CO, JN|sittstart=ja|text=Löjligt lågt men ändå mycket bra problem! Sittstart och så skick runt H hörnet och sen slappa dig upp m heelhooks.}}
+{{problem|nr=67|namn=Kappa|grad=5C|typ=Krimp|fa=Calle Ohlsson|landning=2|betyg=1|sopad=Calle Ohlsson|text=Travers och sen upp. Grad något osäker.}}
+{{problem|nr=67|namn=Kappa Direkt|grad=6B+|typ=Överhäng,Reach|fa=CO|landning=2|fadatum=2003-08-19|sopad=CO|sittstart=ja|variant=ja|startgrepp=ja|text=Starta i samma grepp som för Kappa men gå direkt rakt upp i stället för travers till vänster.}}
+{{problem|nr=87|namn=Skrubbsår|grad=6C|typ=Travers V->H|betyg=2|text=Travers v->h sedan rakt upp över bullen.}}
+| width="250px" |
+{{problem|nr=88|namn=Kometen kommer|grad=4C|typ=|text=}}
+{{problem|nr=89|namn=Asteroid|grad=6B+|typ=Slopers,Överhäng,Travers H->V|fa=JW|landning=2|betyg=2|sopad=JW, JN, ME|sittstart=ja|text=Travers H -> V sedan rakt upp på näsan. Små pilar på stenen visar vägen.}}
+{{problem|nr=90|namn=Stjärnfall|grad=6B|typ=Krimp,Mantling|fa=Hans Stenlund|landning=3|betyg=1|sittstart=ja|text=LÅG sittstart, annars roligt!}}
+{{problem|nr=91|namn=Rampfeber|grad=7A+|typ=Slopers,Travers H->V,Reach|fa=Hans Stenlund|landning=2|sopad=JW|text=Traversera från start på Stjärnfall, #90, till Milkyway, #92, och klättra den.}}
+{{problem|nr=92|namn=Milkyway|grad=7A|typ=Slopers,Reach|fa=Carlos Cabrera|landning=2|betyg=3|sopad=JW|text=Sloper galore. Tejpa fingertopparna, gott folk! (Något lättare [6C+] om man använder list till höger vid skick till toppen.)}}
+{{problem|nr=117|namn=Taskig Timing|grad=6B|typ=Krimp,Dyno|fa=JN|betyg=1|sopad=JN|text=Dyna från givna bra lister till toppen. Lite halvlångt och väldigt trevligt.}}
+{{problem|nr=133|namn=Jalapeño|grad=5C|typ=|fa=Urban Dufva|sopad=Urban Dufva|sittstart=ja|text=(Är det sittstart?)}}
+| width="250px" |
+{{problem|nr=134|namn=Piri-piri|grad=6C|typ=Krimp|fa=Urban Dufva|landning=3|sopad=Urban Dufva|sittstart=ja|uteslutningar=ja|text=Rakt upp över högsta punken. Hyllan och aretén till både höger och vänster är uteslutna.}}
+{{problem|nr=134|namn=Piri-piri - variant|grad=5B|typ=Krimp|fa=Pär Lindholm|landning=3|sopad=Urban Dufva|variant=ja|text=Ståstart av Piri-piri. Inga uteslutningar. Rakt upp över toppen. Gjordes egentligen innan Piri-Piri av en snikig jäkel som snodde den eminenta sopare på hans FA... :)}}
+{{problem|nr=165|namn=Haploid|grad=4C|typ=Slopers,Travers H->V|fa=Olof Wallin|landning=3|fadatum=2003-08-10|sopad=Olof & Emil Wallin|sittstart=ja|text=Slopertravers i vinkel med Asteroid. Starta sittande i "stolnichen" vid björken och traversera mot starten till Asteroid där den slutar.}}
+{{problem|nr=205|namn=Andromeda|grad=7B|typ=Krimp,Slopers|fa=Jonas Wiklund|landning=2|betyg=1|fadatum=2004-02-22|sopad=Jonas Wiklund|uteslutningar=ja|text=Följ krimprampen till höger om Milkyway rakt upp utan att escapa ut till vänster.}}
+|}
+==Offspring==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Uppriven|grad=5C|typ=Slopers,Mantling|fa=Anders Lidman & Pär Lindholm|landning=1|fadatum=2005-04-29|sopad=Anders Lidman & Pär Lindholm|startgrepp=ja|text=Går 2 meter till vänster om nr 10, MP5. Starta hängande med båda händerna på slopern (lite tungt) och kanske en fot på hyllan under?}}
+{{problem|nr=4|namn=Pretty Fly 4 A Short Guy|grad=7A|typ=Krimp,Dyno|fa=JN|landning=3|betyg=1|fadatum=2000-01-01|sopad=JN|text=Sug surkrimprarna, sätt upp foten och flyyyg}}
+{{problem|nr=5|namn=Time To Relax|grad=4C|typ=|fa=JN|landning=1|fadatum=2000-01-01|sopad=JN|uteslutningar=ja|text=Sprickorna till höger är uteslutna.}}
+{{problem|nr=6|namn=Unpleasant Surprise|grad=5C|typ=Krimp,Reach|fa=CO, DK|landning=4|fadatum=2001-01-01|sopad=DK, CO|text=Skum men charmig}}
+{{problem|nr=7|namn=Bad Habit|grad=3A|typ=Layback,Spricka|fa=DK, JN|landning=5|betyg=1|fadatum=2000-01-01|sopad=JN, DK|text=Rakt upp i den stora sprickan.}}
+{{problem|nr=8|namn=Self Esteem|grad=5C|typ=Krimp,Layback|fa=JN, DK|landning=3|betyg=1|sopad=JN, DK|uteslutningar=ja|text=Halvhögt problem på Offspring-blocket. Greppet du vill ta snett ute till vänster är inte med. Nästa grepp efter sidepull-rampen är precis rakt upp.}}
+| width="250px" |
+{{problem|nr=9|namn=Nitro|grad=6A|typ=Krimp,Aréte|fa=JN|landning=4|betyg=2|fadatum=2000-01-01|sopad=JN|text=Snyggt men bängligt arete.}}
+{{problem|nr=9|namn=Nitroglycerin|grad=7B|typ=Överhäng,Aréte,Heel hook|fa=Linus|landning=3|betyg=2|fadatum=2008-06-08|sopad=Linus|sittstart=ja|variant=ja|startgrepp=ja|text=Start med händerna på stor list längst ned i sprickan i nederkant av stenen. Gå ut till Nitro.}}
+{{problem|nr=10|namn=MP5|grad=6A|typ=Krimp,Reach|fa=DK, CO|landning=3|sopad=DK, CO|uteslutningar=ja|text=Går på den lilla ensamma väggen just brevid Offspring blocket. Stora fetingen till höger utesluten. En sittstart kan även göras, boostar inte graden så värst men ett måste för sittstartälskaren.}}
+{{problem|nr=32|namn=Da Copa|grad=5C|typ=Dyno,Reach|fa=DK, JN|landning=4|sopad=DK, JN|text=Mycket skumt problem, inte så kul och svårt att gradera. Är du 1.90 så är det bara att ta tag och är du 1.50 så lycka till...}}
+| width="250px" |
+{{problem|nr=43|namn=Genocide|grad=6B|typ=Krimp,Aréte,Reach|fa=JN|landning=4|sopad=JN|text=Mysko problem som många misslyckats på. Ett skumt hopp till kanten verkar vare det enda som funkar.}}
+{{problem|nr=77|namn=Something To Belive In|grad=7A+|typ=Krimp,Slopers,Dyno|fa=Johannes Nilsson|landning=3|sopad=JN|variant=ja|text=Startar som "Time to Relax" och traverserar sedan runt hörnet, avsluta med "Pretty Fly". Var 6C+ från början men få repetitioner har dragit upp graden. Svårare för korta.}}
+{{problem|nr=143|namn=Solsemester|grad=5B|typ=Krimp,Dyno|fa=Magnus Öberg|landning=4|fadatum=2003-05-22|sopad=Magnus Öberg|text=Till vänster om Da Copa, nr 32. Dyno från sjysst krimp till toppen. Kanten är med om man vill men håll fötterna borta från stenen till vänster.}}
+|}
+==(Ravinen)==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Snake eyes|grad=6C|typ=Highball|fa=Johannes Nilsson|landning=4|betyg=1|sopad=Johannes Nilsson|text=Direkt till höger om Trad är Gay. Osäker grad, Johannes kom inte riktigt ihåg.}}
+{{problem|nr=1|namn=För Sverige i tiden|grad=5B|typ=Krimp,Slopers,Pinch|landning=4|fadatum=2000-07-01|text=Tråkig landning}}
+{{problem|nr=1|namn=För Sverige i tiden - sittstart|grad=6A|typ=Krimp,Aréte|fa=DK|landning=5|sopad=DK, JN|sittstart=ja|variant=ja|text=Starta under taket och sen samma som den vanliga "För Sverige I Tiden". Boostar graden något. Kom gärna med kommentarer om graden.}}
+{{problem|nr=19|namn=U-Turn|grad=4A|typ=Krimp|fa=JN, DK|fadatum=2000-01-01|sopad=JN, DK|text=}}
+{{problem|nr=20|namn=Ape Index Depending|grad=6C|typ=Krimp,Reach|fa=Johannes Nilsson|landning=5|sopad=JN|uteslutningar=ja|text=Ett groteskt sträck upp till toppen eller massiv krimpstyrka är vad som krävs. Arêtet till H är uteslutet. Spottaren står på stenen bakom och drar klättraren till sig vid fall.}}
+{{problem|nr=21|namn=Kameleonten|grad=2|typ=Jug|fa=JN, DK|landning=5|sopad=DK, JN|text=Vacker sten ger namnet. Otroligt lätt men skön som uppmjukning inför dagens uppvärmning.}}
+{{problem|nr=22|namn=Leap of Death|grad=5B|typ=Mantling,Dyno|landning=3|variant=ja|text=Hoppa från "andra sidan" till toppen av 22 och mantla upp.}}
+{{problem|nr=22|namn=Stämjärnet|grad=5A|typ=|fa=DK|landning=4|betyg=1|sopad=DK|text=MYCKET annorlunda problem. Rekommenderas! Du ska alltså stämma med hela kroppen mot väggen bakom tills du når toppen med händerna och då släppa in fötterna och sen mantla upp. Väldigt morpho på sitt sätt.}}
+{{problem|nr=23|namn=The Rock|grad=6B|typ=Slopers,Mantling|fa=Johannes Nilsson|landning=3|sopad=JN|sittstart=ja|startgrepp=ja|text=Starta längst till H på löjligt låg sten och traversera sedan längs kanten ända runt hörnet på V sida. Mantla upp på kortsidan.}}
+{{problem|nr=24|namn=Chicka-Boom|grad=5C|typ=Dyno,Jug|fa=DK, JN|landning=2|betyg=1|sopad=DK, JN|uteslutningar=ja|text=Dyna från den nedre kanten till den övre. Inga statiska medel tillåtna.}}
+{{problem|nr=47|namn=Trad är Gay|grad=6A|typ=Layback,Highball,Reach|fa=Jonas Wiklund|landning=5|betyg=3|sopad=Jonas mfl|text=Halv-Highball mitt på den största väggen. Med ett högt krux och ett känsligt sista move har det här blvit en omtalad gobit.}}
+{{problem|nr=51|namn=Another Bis|grad=7B+|typ=Krimp,Överhäng,Reach|fa=Hans Stenlund|landning=4|betyg=3|fadatum=2002-01-01|sopad=JW, DK, JN|sittstart=ja|variant=ja|startgrepp=ja|text=Starta i undercling/sidepull med hö hand och slope i sprickan med vä hand och fötterna långt nere. Sen är det fri fart till toppen. Lååångt sträck till risig crimp som man sen tvingas hålla allt för länge.}}
+| width="250px" |
+{{problem|nr=51|namn=Another Jam From The Miracle Makerz|grad=6C+|typ=Överhäng,Reach,Spricka|fa=DK|landning=4|betyg=3|sopad=DK, JN|text=Grymt fint problem, ligger dock lite tråkigt till i skuggsida men den fina klättringen väger upp. En sittstart gjordes några månader efter FA av Hans Stenlund och fick områdets hårdaste grad.}}
+{{problem|nr=51|namn=Yet another...|grad=7B+|typ=Krimp,Överhäng,Spricka|fa=Urban Dufva|landning=3|betyg=2|fadatum=2005-10-14|sopad=Urban Dufva|sittstart=ja|variant=ja|startgrepp=ja|text=Självklar "linkup"! Samma start som "Another Biz" [ss]. Avsluta med "Magistratet" till vänster.}}
+{{problem|nr=69|namn=Testbild|grad=5C|typ=Layback,Highball,Spricka|landning=6|betyg=1|text=}}
+{{problem|nr=70|namn=Bootylisious|grad=6B|typ=Slopers,Reach|fa=DK|landning=4|sopad=DK, JN|startgrepp=ja|text=Starta på märkta startgrepp. Traversera längs rampen och sen upp i änden. Småbökig & småkul.}}
+{{problem|nr=72|namn=Damn that´s a long reach|grad=5B|typ=Krimp,Highball|landning=3|fadatum=2002-10-21|text=Går numera förbi de markerade greppen till toppen.}}
+{{problem|nr=73|namn=Auvieux Campeur|grad=3B|typ=Jug,Spricka|fa=DK|landning=4|sopad=DK|text=Riktigt skitproblem. Tillverkades endast i syfte att fylla ut under en SBO tävling. Klättra & kryssa i, inget mer.}}
+{{problem|nr=74|namn=Ultralight|grad=3A|typ=Highball,Jug,Spricka|fa=?? (nån gång på 80-talet)|landning=7|betyg=1|sopad=?? (nån gång i tidernas begynnelse)|text=Mycket hög men också mycket lätt. Kul på sitt sätt men var säker på att komma upp. Att falla finns inte här.}}
+{{problem|nr=81|namn=Smash|grad=-|typ=Dyno|fa=Jonas?|landning=5|sopad=Jonas?|text=Sprickan och areten till höger är utesluten. Kliv upp på hyllan, stå no-hands och ladda... Helt ograderbar från 4A-6A beroende på längd och mental status...}}
+{{problem|nr=98|namn=(Okänt)|grad=3B|typ=Spricka|fa=?|landning=5|sopad=?|text=Hög spricka, troligtvis klättrad första gången för 100 år sen... Namnförslag någon?}}
+{{problem|nr=144|namn=Bitvarg|grad=6C|typ=Slopers,Travers V->H|fa=Jonas Wiklund|landning=4|sopad=Jonas Wiklund|startgrepp=ja|text=Häng in vid startgreppen, traversera höger en meter och gå upp samma utstem som nr 70, Bootylisious.}}
+{{problem|nr=145|namn=Pisspaus|grad=5A|typ=Krimp,Aréte|fa=Jonas Wiklund|landning=5|fadatum=2003-06-10|sopad=Jonas Wiklund|text=Ytterhörnet 5 meter till höger om #1 (För Sverige i tiden).}}
+{{problem|nr=153|namn=Slabbjävel|grad=6B|typ=Krimp,Slab|fa=Magnus Eriksson|landning=3|fadatum=2003-05-08|sopad=Magnus Eriksson|uteslutningar=ja|text=Till höger om #22. Sprickan till vänster och kanten till höger är givetvis uteslutna (ni förstår varför när ni ser det).}}
+{{problem|nr=173|namn=Blockfång|grad=5C|typ=Krimp,Överhäng|fa=HJ, UB|landning=4|fadatum=2003-09-16|sopad=HJ, UB, DK, JN|uteslutningar=ja|text=Inte direkt några uteslutningar men man får hålla sig i mitten. "Linjen" skådades för länge sen men det var inte föränn landningen renoverades inför sbo 2003 som den borstades och klättrades. Går ca 5m till höger om nr 1 För Sverige I Tiden.}}
+| width="250px" |
+{{problem|nr=174|namn=Snuvad på Palten|grad=4B|typ=Aréte,Jug|fa=JN|landning=4|fadatum=2003-09-16|sopad=Johannes Nilsson|text=Skapad för sbo 2003. Det dåliga namnet har en bra förklaring. Ligger snett mitt i mot nr 51 Another Biz, långt till vänster på stora väggen allstå.}}
+{{problem|nr=175|namn=Syrus the Virus|grad=5A|typ=|fa=UD|landning=4|fadatum=2003-09-18|sopad=Urban Dufva|text=Klassiskt sur-dieder som borstades av Dufva inför sbo 2003. Numera helt ok pga förbättrad landning. Ligger ca 5m till höer om nr 1 För Sverige i Tiden.}}
+{{problem|nr=176|namn=And Justice For All|grad=6A|typ=Krimp,Pinch,Reach|fa=DK, JN, HJ|landning=5|betyg=1|fadatum=2003-09-15|sopad=DK, JN, HJ|text=Bakom en rönnjävel hittades detta ganska trevliga problem. Rakt upp vid siffra mitt på väggen, arête-hyllan på slutet är med. Lite synd på landningen dock (sten & stubbe). Går längst till vänster på stora väggen, snett mitt i mot nr 51 - Another Biz.}}
+{{problem|nr=177|namn=Bajs Brejk|grad=4A|typ=Jug,Spricka|fa=JN|landning=4|fadatum=2003-09-18|sopad=Johannes Nilsson|text=Efter en renovering av den dåliga landningen gjordes inför sbo 2003. Något svårare än den ser ut men fortfarande lätt. Ligger ca 5m till höger om nr 1 För Sverige i Tiden.}}
+{{problem|nr=197|namn=Lavskägge|grad=5A|typ=Mantling,Aréte,Jug|fa=JN, HJ|landning=5|fadatum=2003-09-13|sopad=JN, HJ, DK|text=Det givna arêtet mitt i mot Anoter Biz. Ligger till vänster om nr 20 A.I.D.Ta med en vaken spottare och en padda om du inte garenterat kommer upp på en gång.}}
+{{problem|nr=201|namn=Oktoberfesten|grad=6B+|typ=Slab,Highball|fa=JW -03|landning=3|betyg=1|fadatum=2003-10-19|sopad=JW|text=Svaplattan till vänster om Trad är Gay. Gå mitt på väggen till vänster om den grova sprickan som naturligtvis inte får användas.}}
+{{problem|nr=217|namn=Magistratet|grad=7A|typ=Överhäng|landning=3|betyg=1|fadatum=2004-06-14|startgrepp=ja|uteslutningar=ja|text=Går till vänster om #51 Another Jam. Den stora vertikala sprickan på Bizen är utesluten. Startar med höger hand i tvärsprickan.}}
+{{problem|nr=236|namn=Forza|grad=6B+|typ=Slopers,Mantling|fa=jag m.fl|landning=4|fadatum=2006-08-16|sopad=jag m.fl|uteslutningar=ja|text=start vid siffran mitt på läppen just till vänster om starten på bootylisous, häng in och surmantla utan att glida över varken till höger eller vänster}}
+|}
+==(Gamla damen)==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=58|namn=Chicken Run|grad=4C|typ=Krimp|fa=JN & DK|landning=5|sopad=DK & JN|text=Går på blocket mitt emot Pingu. På den "branta" sidan. Inget märkvärdigt att gå hit för men helt ok om du ska köra nåt annat i närheten.}}
+{{problem|nr=138|namn=Walk in the park|grad=5C|typ=Spricka|fa=Urban Dufva|landning=3|betyg=1|sopad=Urban Dufva|text=Fin fingerspricka}}
+{{problem|nr=161|namn=Den gamla damen|grad=6A+|typ=Krimp,Layback|fa=Urban Dufva|landning=2|betyg=2|sopad=Urban Dufva|text=Om du står vid Walk in the Park sett nerifrån så ligger problemet ca 40 m till vänster på en bred vägg. Startprickar finns just nu innan siffror målas dit. Gå till höger om ett litet tak rakt upp.}}
+| width="250px" |
+{{problem|nr=163|namn=Tripp, trapp, trull|grad=5B|typ=Krimp|fa=Urban Dufva|landning=2|betyg=1|fadatum=2003-07-12|sopad=Urban Dufva|text=Problemet ligger ca 5 m till höger om Den gamla damen. Syns ganska tydligt vart det är sopat. Ett par problem till är framsopade i detta område men är ännu projekt}}
+| width="250px" |
+{{problem|nr=214|namn=Liiroj den andre|grad=6B+|typ=Slopers,Överhäng|fa=Jens Åström|landning=3|betyg=1|sopad=Urban Dufva, Jens Åström|text=Ligger 2 meter till vänster om nr 161, Den Gamla Damen. Upp över det lilla taket. Sprickan till höger används inte vid mantlingen.}}
+|}
+==Y-front-skogen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Den bortglömda sprickan|grad=6A+|typ=Spricka|fa=Peter Berggren?|landning=3|betyg=1|sopad=Peter Berggren?|sittstart=ja|text=100% givet. Starta i sprickan och följ den till toppen. Ligger 20 meter längre ner i skogen sett från #44 Backdraft.}}
+{{problem|nr=44|namn=Backdraft|grad=7A|typ=Krimp,Reach|fa=JN|landning=3|sopad=JN, DK|startgrepp=ja|text=Starta i dåligt sidepull för H hand och lite bättre sidepull för V hand. Svårt förstamove sen lite lättare. Fin på sitt vis men kan vara ganska frustrerande. Var 6C från början men har åkt upp sen dess. OBS! Hopp ej tillåtet!}}
+{{problem|nr=52|namn=Farfars Y-front|grad=7A|typ=Krimp,Reach|fa=Jonas Wiklund?|landning=1|sopad=Jonas Wiklund?|text=Startar, med båda händerna, i den stora vågräta sprickan. Vi som inte har händer i damstorlek har väldiga problem att göra mer än just starta. Rekommenderas om du har smala [och starka] fingrar!}}
+{{problem|nr=53|namn=Cirkusdvärgar|grad=6A|typ=Krimp,Layback,Travers V->H|fa=JW (?)|landning=1|sopad=JW (?)|text=Traversera längst startsprickan av "Farfars Y-Front" (starta aningen till V om Y-Front)tills du kommer till ett flak, följ flaket till kanten. Svårare för långa.}}
+{{problem|nr=54|namn=Crimp Master Flash|grad=7A|typ=Krimp,Slopers,Mantling|fa=JW, HS|landning=3|betyg=3|sopad=JW|sittstart=ja|text=Klockren fontan-avslutning. Områdets hårdaste topout men väl värd några försök. Sittstarten suger också lite kraft men det är på slutet som folk brukar falla.}}
+| width="250px" |
+{{problem|nr=112|namn=Jam Bastard Trash|grad=5A|typ=Spricka|fa=JN|landning=3|sopad=JN|text=Sprickan till vänster om Crimp Master Flash. Gjordes inför SBO 2002 för att få fram lite lättare saker.}}
+{{problem|nr=113|namn=Singel Är Super|grad=6A+|typ=Krimp,Mantling|fa=JN, FW|landning=3|sopad=FW, JN|text=Sittstart i listerna under taket sen mer eller mindre direkt upp till kanten. 1 eller 2 move + mantling beroende på längd. Ingenting för crimphatare.}}
+{{problem|nr=114|namn=Ensam är stark|grad=6C|typ=Slopers|fa=Johannes Nilsson|landning=4|sopad=JN|sittstart=ja|text=Se till att ha aktiva spottare så blir det nog bra.}}
+{{problem|nr=121|namn=Nagelbandet|grad=6A|typ=Travers H->V|fa=Carola Sigurd|landning=2|sopad=Carola Sigurd|sittstart=ja|startgrepp=ja|text=En väldigt låg travers (i starten) som går runt ett hörn och sedan upp.}}
+{{problem|nr=122|namn=Lille Skutt|grad=4C|typ=|fa=Carola Sigurd|landning=3|sopad=Carola Sigurd|text=}}
+{{problem|nr=123|namn=Skalman|grad=5B|typ=Krimp,Layback,Spricka|fa=Carola Sigurd|landning=3|sopad=Carola Sigurd|text=Sjysst problem.}}
+{{problem|nr=124|namn=Solen i ögat|grad=5B|typ=|fa=Carola Sigurd|landning=3|sopad=Carola Sigurd|text=}}
+{{problem|nr=127|namn=Why bother|grad=5B|typ=Krimp|fa=Carola Sigurd|landning=1|sopad=Carola Sigurd|sittstart=ja|text=En av de sämre problemen i skogen. Ska glömmas bort.}}
+| width="250px" |
+{{problem|nr=128|namn=Myran|grad=3C|typ=Jug,Spricka|fa=Carola Sigurd|landning=3|betyg=1|sopad=Carola Sigurd|text=Fint lätt problem!}}
+{{problem|nr=135|namn=Frans|grad=4C|typ=Krimp|fa=Urban Dufva|landning=4|sopad=Urban Dufva|text=Rakt upp vid siffran.}}
+{{problem|nr=147|namn=The Gimp|grad=5C|typ=|fa=Magnus Ö/Micke E|landning=3|fadatum=2003-05-11|sopad=Magnus Ö/Micke E|text=Precis till vänster om 112, restriktionerna är att hålla sej mellan sprickorna (rätt naturligt när man ser problemet) graden är runt 5Cish och namnet är The Gimp.}}
+{{problem|nr=148|namn=Jens bortglömda problem|grad=6A|typ=|fa=Jens Åström|sopad=Jens Åström|text=Löst block som nyckelgrepp tar ner kvalitén. Annars kul, bra att va smålång! Fin friktion på stenen! Just under 30 m åt vänster om man tittar på Crimp Master Flash.}}
+{{problem|nr=190|namn=Bärmos|grad=7A|typ=Slopers|fa=JN|landning=3|fadatum=2003-09-18|sopad=Johannes Nilsson|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Låg sten och lågt problem. De flesta hade mkt svårt för denna på sbo 2003 och graden 6c verkar lite väl låg. Stenarna under är uteslutna, bara huvudstenen är med. Ligger ca 15 m ovan/till hö om nr 52 Farfars Y-Front. Testa och kommentera!}}
+|}
+==Norra åsen==
+Gå upp på berget ovanför introväggen och gå sedan höger.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=11|namn=Nästan För Lätt|grad=3C|typ=|fa=DK, JN|landning=4|fadatum=2000-01-01|sopad=DK, JN|text=Stora grepp och mkt mossa}}
+{{problem|nr=12|namn=Last Hope|grad=5A|typ=|fa=JN, DK|landning=6|fadatum=2000-01-01|sopad=JN, DK|text=En stor sten föll ner här, nu är den.. .annorlunda}}
+{{problem|nr=28|namn=Chucky|grad=5C|typ=Layback,Spricka|fa=Johannes Nilsson|landning=5|sopad=JN|text=Följ sprickan upp höger från siffran. Borstades fram inför första SBO tävlingen.}}
+{{problem|nr=29|namn=Det|grad=6A|typ=|fa=JN|landning=4|sopad=JN|uteslutningar=ja|text=Håll dig mellan sprickorna på båda sidor så håller den graden, annars betydligt lättare.}}
+{{problem|nr=30|namn=Motorsågsmassakern|grad=6B|typ=Mantling|fa=JN & DK|landning=5|betyg=2|sopad=JN & DK|text=Fint och högt problem där tyvärr en stubbe gör mantlingen ytterliggare ett snäpp nervös.}}
+| width="250px" |
+{{problem|nr=31|namn=Mosquito|grad=5B|typ=Överhäng,Reach,Jug|fa=DK, JN|landning=4|sopad=JN, DK|sittstart=ja|startgrepp=ja|text=Börjar inne i en liten mini-grotta och sen rakt ut över taket och mantla. Bökig om man är lång då fötterna lätt tar i marken. Även sk. skitproblem.}}
+{{problem|nr=60|namn=Freddie Cruger|grad=5C|typ=Jam,Spricka|fa=DK, JN|landning=3|sopad=DK JN|text=Tryck in händerna i ett rejält jam och så är det bara att böka sig upp. Lättare för långa personer som når högre i början. Bör gå att sittstarta på om det nu ger nånting förutom grad.}}
+{{problem|nr=75|namn=Crack Whore|grad=5C|typ=Jam,Spricka|fa=JN, DK|landning=2|sopad=JN, DK|sittstart=ja|uteslutningar=ja|text=Handjam spricka m sittstart. Använd bara sprickan. TEJPA INNAN!}}
+{{problem|nr=142|namn=Hälsning till mor|grad=4B|typ=Krimp,Jug|fa=Urban Dufva|landning=1|sopad=Urban Dufva|startgrepp=ja|text=Ett problem lite vid sidan av. Balans krävs.}}
+| width="250px" |
+{{problem|nr=218|namn=Doktor Tox|grad=5A|typ=Jug|fa=CC;CW|landning=4|betyg=1|fadatum=2004-06-22|sopad=CC;CW|sittstart=ja|text=4m till höger om nr 31 Mosquito. Börja längst in i diedret och klättra sedan snett t.v. mot aretet.}}
+{{problem|nr=220|namn=Läderringen|grad=6A|typ=Mantling,Spricka|fa=CC,CW|landning=6|betyg=1|fadatum=2004-06-22|sopad=CC,CW|uteslutningar=ja|text=6m till höger om nr 31 Mosqito. Starta in djupt mellan 2 stenar med händerna i tvärprickan, fötterna bör vara uppe på väggen innan du startar. Högra diederformationen utesluten. Sedan bara rakt upp. Lite skrämmande...}}
+|}
+==Obelix==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Tjoosan|grad=3C|typ=Jug|fa=Cathis|landning=2|fadatum=2005-07-18|sopad=Cathis|sittstart=ja|text=Ligger direkt till vänster om Jay Lenos haka. Starta sittande inne i klykan. Sen autobahn upp.}}
+{{problem|namn=Luuk|grad=6A|typ=Slab|fa=Hazzo|landning=2|fadatum=2005-07-18|sopad=Hazzo|sittstart=ja|text=Direkt till höger om Jay Leno. Starta vid lilla aretet sen rakt upp.}}
+{{problem|namn=Glamour|grad=4B|typ=Mantling|fa=Hazzo|landning=2|fadatum=2005-07-18|sopad=Hazzo|text=Runt hörnet till vänster om Jay Leno. Starta i tvärspricka till höger på väggen sen rakt upp över högsta punkt.}}
+{{problem|namn=Löve|grad=5A|typ=Jug|fa=Hazzo|landning=2|betyg=1|fadatum=2005-07-18|sopad=Hazzo|text=Runt hörnet till vänster om Jay Leno. Starta i tvärsprickan längst till vänster på väggen, linje med det lilla trädet på toppen, sen rakt upp}}
+| width="250px" |
+{{problem|namn=Miffo|grad=-|typ=|fa=Hazzo|landning=2|fadatum=2005-07-18|sopad=Hazzo|sittstart=ja|text=Bakom Obelix på en ensam liten vägg. Starta sittande i den låga tvärsprickan sen rakt upp via en krimp.}}
+{{problem|namn=Tåspjärn|grad=4A|typ=Spricka|fa=Hazzo|landning=2|fadatum=2005-07-18|sopad=Hazzo|text=Bakom Obelix på en ensam liten vägg. Starta  i sprickan till höger om miffo sen rakt upp}}
+{{problem|nr=206|namn=Obelix|grad=6A+|typ=Krimp,Aréte,Reach|fa=DK, JW, UD|landning=3|betyg=1|fadatum=2003-10-28|sopad=JW, DK, UD|sittstart=ja|text=Starta sittade på aretet och följ det upp. Ganska fritt med grepp men man ska går upp längs aretet och inte vika av för mkt åt vänster. Ganska givet. Stenen hittas genom att gå "rakt fram" genom sand/sten taget vid masten.}}
+| width="250px" |
+{{problem|nr=208|namn=Jay Leno's Haka|grad=6B|typ=Överhäng,Aréte|fa=Daniel Widell|landning=1|fadatum=2004-04-26|sopad=Knappt sopad alls av DW,HS.|sittstart=ja|text=Ligger 30 m till vänster om Obelix.Sittstart rakt under hakan. När väl baken är av marken så klättra på uppåt via stora goda grepp mitt på hakan (aréten).}}
+{{problem|nr=219|namn=Gamgubbarna|grad=6A|typ=Aréte|fa=CC,CW|landning=2|fadatum=2004-06-22|sopad=CC,CW|startgrepp=ja|text=På högra aretet i "Obelixstenen". Lägg händerna på aretet (brösthöjd) och etablera fötterna på stenytan först innan du börjar klättra. Rolig aretklättring}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=27|namn=Nebulosa|grad=5C|typ=Krimp,Reach|fa=JN ?|landning=3|sopad=JN|text=Rakt upp vid siffran...}}
+{{problem|nr=59|namn=(Ledigt nummer)|grad=-|typ=|fa=Jens Åström|text=Nummret är ledigt.}}
+{{problem|nr=99|namn=Contrived|grad=5C|typ=Slopers,Mantling|fa=Jonas Wiklund?|landning=3|uteslutningar=ja|text=Håller sig mellan #75 och #76, dvs sprickan till vänster och väggen till höger är uteslutna. Krystat utsteg men ändå ett fint problem. Grad?}}
+{{problem|nr=102|namn=Uppåhoppa|grad=4C|typ=Jug|fa=Urban Dufva|landning=3|sopad=Urban Dufva|text=Kruxig att komma upp från backen.}}
+{{problem|nr=104|namn=Blås på|grad=5B|typ=Krimp|fa=UD|sopad=UD|text=Makalöst lågt problem.}}
+{{problem|nr=111|namn=(Okänt)|grad=6B+|typ=Travers H->V|text=Travers H->V som avslutas med en intressant mantling. Starta inne i hörnet och traversera ut till pilen och sedan upp.}}
+| width="250px" |
+{{problem|nr=118|namn=Pim-Pim|grad=3B|typ=Jug|fa=Fredrik&Carola|landning=4|sopad=Fredrik&Carola|text=}}
+{{problem|nr=119|namn=Svarte Petter|grad=4C|typ=Jug|fa=Fredrik&Carola|landning=4|sopad=Fredrik&Carola|text=Grad?}}
+{{problem|nr=132|namn=Rivjärn [projekt]|grad=-|typ=Slopers,Överhäng,Travers V->H|fa=-|landning=4|sopad=Urban Dufva|text=V->h sedan ut som #133. Behöver avkristalliseras en hel del innan den kan klättras. Borde inte bli allt för hård men det är nog bara ingen som orkat ännu.}}
+{{problem|nr=193|namn=Skavsår|grad=6C|typ=Slopers,Mantling,Reach|fa=DK, JN, UB|landning=3|betyg=1|fadatum=2003-09-15|sopad=JN, UB, DK|startgrepp=ja|uteslutningar=ja|text=Ännu ett problem för sbo 2003. Arêtet är uteslutet. Starta i prickarna och kravla dig upp. Namnet kom ganska naturligt. Ligger på samma sten (samma start) som nr 87 Skrubbsår.}}
+| width="250px" |
+
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

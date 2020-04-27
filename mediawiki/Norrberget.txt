@@ -1,0 +1,40 @@
+{{info klippa
+  |lat=61.4574
+  |long=16.4748
+}}
+{{utkast}}
+
+==Allmänt==
+Norrberget är det man ser rakt norrut från Flästa, dvs det andra
+berget väster om Bodberget.
+
+==Kommunikationer==
+GPS-koordinater: Lat: N 61º 27' 26.57" Long: E 16º 28' 6.62"
+
+Se [[Bodberget]]
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="61.4574" lon="16.4748" zoom="11" type="map" width="355" height="300">
+61.4574, 16.4748 Norrberget</googlemap>
+</div>
+<div style="clear:right;"></div>
+
+==Väggen==
+[[Bild:norrberget.jpg]]
+
+Väggen har samma karakteristik som [[Bodberget]].
+Bäst är att fira sig från toppen för att nå lederna. Till toppen tar
+man sig genom att följa en stig från en bondgård nere i byn Flästa. På
+toppen finns några grottor, härifrån har man också en mycket fin
+utsikt. Här har klättrats nästan lika länge som på Bodberget, men
+förstabestigare och lednamn är aldrig antecknade. För att bevara lite
+av nyupptäckarglädjen har vi inte forskat närmare i detta och inte
+gjort några närmare ledbeskrivningar än att rita in de leder som är
+gjorda, på skissen. Svårighetsgraden är ungefär 4-6, mestadels fin
+spricklättring.
+
+[[Kategori:Saknar leder]] [[Kategori:Saknar karta]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

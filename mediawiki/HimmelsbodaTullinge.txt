@@ -1,0 +1,68 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Liten klippsnutt kanske inte värd någon längre resa men lite äventyrligt och skoj att ta sej dit.
+Topprep eller solo är det som gäller. Ett par hårdare superkorta turer går att göra till vänster och några lätta i mitten.
+
+==Vägbeskrivning==
+Åk till Storvreten i Tumba där letar du rätt på Stockstigen och parkerar på lämplig plats. Gå sedan på grusvägen över ängen och ta andra vänster.  Gå förbi gården som ligger på vänster sida och när vägen svänger lite vänster så ligger klippan rakt fram inne bland träden vid åkeskanten.
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+[[Bild:Klippa.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Måndagens fiasko övergick i Söndagens triumf|grad=7a|typ=Solo/toprep|betyg=2|bultar=|längd=5|fa=[[M.Söderström]] -2012 Solo|text=Padda upp ordenkligt  om du ska sola den.}}
+
+| width="350px" |
+
+
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Stockholm]]
+[[Kategori:Västra Södertörn]]

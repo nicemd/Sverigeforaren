@@ -1,0 +1,9 @@
+{{stub}}
+[[Kategori:Bohuslän]]
+== Introduktion ==
+== Karaktär ==
+== Vägbeskrivning ==
+== Access ==
+==Access {{access}}==
+
+{{AccessDB|klippa=svaneberget-sotenas}}

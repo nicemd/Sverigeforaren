@@ -1,0 +1,50 @@
+{{info klippa
+  |lat=59.31407517684315
+  |long=18.04234027862549
+}}
+
+{{komplett}}
+[[Kategori:Sport]]
+[[Kategori:Stockholm]]
+[[Kategori:Stockholm City]]
+
+==Allmänt==
+Själlös sprängklippa. Oftast blöt. Men läget!
+
+== Vägbeskrivning ==
+<div style="width: 295; height:245; style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=300 height=250 lat="59.31411897893376" lon="18.040666580200195" zoom="15" type="hybrid" controls="small">
+59.31407517684315,18.04234027862549,[[Tanto]]
+</googlemap>
+<googlemapkml>KML</googlemapkml>
+</div>
+<slresa>
+ titel=Tantoklippan
+ lat=18042340
+ long=59314075
+</slresa>
+Det ska sägas på en gång: Det här är inte direkt stockholms bästa klättring.<br>
+Å andra sidan finns det knappast någon mer lättillgänglig klippa och klättring är ju alltid klättring. Ta tunnelbanan till hornstull och kryssa genom parken mellan solbadare, glassätande barn och a-lagare. Klippan ligger längs cykelbanan mot zinken.
+<div style="clear:right"></div>
+
+== Leder ==
+[[Bild:Tanto.jpeg|thumb|650px|center]]
+
+Oklart vilka av dessa som finns kvar.<br>
+Beskrivningen kommer från [http://www.bloxc.com/forum/viewtopic.php?t=996 bloxc]
+
+{{led|namn=Reclaim the city|grad=5+|betyg=|längd=12|fa=MO, CT 00|bultar=3|typ=sport|text=Längst till vänster. Svagt överhängande tur som drar åt höger, trevlig. 3 bb + ankare. }}
+
+{{led|namn=Peter Siepen och fjollan|grad=8|betyg=|längd=10|fa=|bultar=3|typ=sport|text=3m th ”Reclaim..” Svår teknisk tur rakt upp mot ankaret.}}
+
+{{led|namn=Med fanan i näven|grad=5+|betyg=|längd=10|fa=MO, CT 00|bultar=1|typ=mix|text=Det uppenbara svaga hörnet. Småtrevlig klättring med en borrbult i början och därefter kilar. Ankare.}}
+
+{{led|namn=White men don´t jump|grad=5+|betyg=|längd=10|fa=MO, CT 00|bultar=3|typ=sport|text=2m th ”Med fanan…”. Omväxlande klättring på kanten. 3 bb + föregående ankare. }}
+
+{{led|namn=Två tanter i Tanto|grad=6|betyg=|längd=5|fa=CT 00|bultar=2|typ=sport|text=Precis bakom trädet. Någon krystat men fin klättring rakt upp.}}
+
+{{led|namn=Old men don´t jump|grad=7-|betyg=|längd=|fa=CT 00|bultar=2|typ=sport|text=Tv ”Min pappa…”. För hög för att sola. Kort gorillatur med få steg.}}
+
+{{led|namn=”Aerobics? Tror du att jag är bög eller!?”|grad=7|betyg=|längd=5|fa=CT|typ=sport|text=1m th ”Old men…” Knepig inklämd tur, använd omgivande bultar. }}
+
+{{led|namn=Pappa är pedolog|grad=7-|betyg=|längd=5|fa=CT 00|bultar=1|typ=sport|text=Längst till höger. Teknisk pillrig tur med 1 bb och ankare.}}

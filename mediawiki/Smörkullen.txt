@@ -1,0 +1,57 @@
+{{info klippa
+  |lat=58.41890
+  |long=11.43736
+}}
+
+{{utkast}}
+== Introduktion ==
+'''Smörkullen'''
+== Karaktär ==
+Sydvänd klippa som torkar fort efter regn.
+
+
+== Vägbeskrivning ==
+<googlemap version="0.9" lat="58.41890" lon="11.43736" zoom="10">
+58.41890, 11.43736, Smörkullen
+</googlemap>
+
+Parkera vid ladan på Röe gård och följ vandringstigen norrut ca:200m efter åkern.
+Klippan syns från parkeringen.
+
+==Access {{access}}==
+
+
+
+Foto visar Smörkullen sed från parkeringen vid Röe gård.
+[[Bild:Smör.jpg]]
+
+== Rekommenderade leder ==
+[[Bild:Smörkullen_översikt2.jpg]]
+Lederna och namn från vänster till höger på skissen
+
+{{led|namn=Veras led|grad=4+ längd=15
+|typ=trad|text=Svakrux på slutet, samma början som Eiras led.}}
+Stefan Weddmark / Stefan Bäckström
+
+{{led|namn=Eiras led|grad=6- längd=15
+|typ=trad|text=Svagt överhängande på slutet.}}
+Stefan Bäckström / Stefan Weddmark 
+
+
+{{led|namn=Siris led|grad=5+ längd=15
+|typ=trad|text=Svårare än det ser ut.}}
+Stefan Bäckström / Stefan Weddmark 
+
+
+{{led|namn=Moas led|grad=6- längd=15
+|typ=trad|text=Hårdare än det ser ut, samma utsteg som Siris led.}}
+Stefan Weddmark / Stefan Bäckström
+
+
+ [[category:trad]]
+ [[category:saknar_skiss]]
+[[Kategori:Bohuslän]]
+
+
+
+--[[Användare:Bultfeber|Bultfeber]] 21 maj 2012 kl. 09.14 (CEST)

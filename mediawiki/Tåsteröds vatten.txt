@@ -1,0 +1,48 @@
+{{stub}}
+[[Kategori:Bohuslän]]
+{{info klippa
+  |lat=
+  |long=
+}}
+
+{{utkast}}
+== Introduktion ==
+På  
+
+== Karaktär ==
+Sydvänt men stora träd skuggar nederdelen av klippan. 
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="58.364123" lon="11.472601" type="map" zoom="13" height="300">
+58.364123, 11.472601
+</googlemap>
+
+</div>
+
+Från Bärfendal mot Bovallstrand på väg 174. Höger mot Bottna och uppför en brant backe. Parkera på toppen av backen, vänster sida. Parkera så traktorn kan komma förbi. Fortsätt till fots på vägen och ta vänster vid binghultsskylten, på en traktorstig. Följ denna över ett kalhygge över en kulle och det går nedåt, mot Tåsteröds vatten. Berget ligger nedåt vänster och vetter söderut mot sjön.  
+
+
+
+
+
+
+
+
+
+
+
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+== Access ==
+ 
+
+==Leder==
+=== Från vänster ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Fredagsflex|grad=7|betyg=|längd=10|fa=[[Ann-Sofie andersson]]
+ |typ=trad|text=Tunn spricka på lilla väggen. Något svårsäkrad och intensiv i början. Rp`s kan hjälpa dig.}}

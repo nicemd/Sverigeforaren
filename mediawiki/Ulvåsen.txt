@@ -1,0 +1,91 @@
+{{info klippa
+  |lat=57.749999685553796
+  |long=12.100324630737304
+}}
+
+{{utkast}}
+
+[[Bild:ulvåsen översikt.jpg]]
+
+== Allmänt ==
+
+Väldigt fint, men lite undangömt område som tyvärr tycks besökas mer sällan än mer kända klippor närmare centrum. Ingen bebyggelse i sikte, inget oväsen från E20.
+
+== Access == 
+{{accessDB|klippa=ulvasen}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+== Karaktär ==
+Utpräglad jam-karaktär med tyngdpunkt runt grad 6. Turer på 10-20 meter. Hög kvalitet!
+
+== Vägbeskrivning ==
+<googlemap lat="57.749999685553796" lon="12.100324630737304" zoom="12" type="karta">
+57.749999685553796,12.100324630737304,Ulvåsen
+
+</googlemap>
+För att hitta hit med cykel från centrala Göteborg, ta Utbyvägen från Gamlestan, fortsätt förbi Utby, och sväng vänster någon kilometer senare in på Paradisvägen. Där Paradisvägen sedan tar av åt höger fortsätter du istället uppför den branta backen åt vänster, på Gavelåsvägen. Där vägen tar slut (efter ytterliggare en tuff uppförsbacke) börjar en välpreparerad stig. Ta stigen uppåt, dvs åt vänster. Sväng av stigen åt höger efter 5-10 minuter, där en skylt med en skidåkare sitter uppspikad. Ta dig fram över träsket på ruttna spänger. Klipporna ligger på din högra sida.
+
+== Leder ==
+=== Ulvåsen 1 ===
+Klippan längst bort. Ligger längs samma berg som de andra klipporna, men det är något hundratal meter genom buskarna från Ulvåsen 3. Knata på så hittar du.
+
+{{led | namn=Castor | grad=6- | text= Sprickan längst till vänster. Välsäkrad om man har några extra Camalot 2-3 eller motsvarande. Lätt för sin grad|fa=}}
+
+{{led | namn=Pollux | grad=5 | text=Sprickan bredvid. Går förbi ett träd. |längd=12|betyg=1|fa=}} 
+
+{{led|namn=Klytaimestra|grad=6-|text=Startar under taket|fa=Jan Machek & Tomas Machek}}
+{{led|namn=Adduktur|grad=7b+|text=Aréte vänster om First aid|typ=sport|fa=Johan Lindström}}
+{{led|namn=First Aid|fa=Fredrik Rapp & Johannes Rodin|grad=A2+|text=Den riktigt tunna sprickan höger om Adduktur och vänster om Neverest. |typ=aid }}
+
+{{led|namn=Neverest|grad=6+|betyg=2|längd=15|fa=Jan Machek & Anton Malak
+ |typ=trad|text=Brant dieder med fina handjam. Välsäkrad, gärna med 2-3 Camalot #2.}}
+
+{{led|namn=Vilse i blåbärsskogen|fa=Magnus Högström 2009|grad=8b}}
+{{led|namn=Inflammerad led|grad=5-}}
+{{led|namn=Sans Balance|grad=7b|typ=sport}}
+{{led|namn=Kantarellmonstret|grad=8a+}}
+{{led|namn=I feel moody|grad=8a}}
+{{led|namn=Putte P|grad=7b+}}
+{{led|namn=Karusellen|grad=7c+}}
+{{led|namn=Trappan|grad=4-|fa=|text=högerlutande "trappa"}}
+{{led|namn=Björnen|grad=7b+}}
+{{led|namn=Lejonet|grad=7b}}
+
+=== Ulvåsen 2 ===
+{{led|namn=Kolla, ett UFO!|grad=6/6+|text=Spricka vänster om Medusa|fa=Stefan Nilsson & Patrik Jacobson}}
+{{led|namn=Medusa|grad=6-|text=Spricka nr2|fa=Anton Malak & Tomas Machek}}
+{{led|namn=Megera|grad=6|betyg=3|längd=15|fa=Jan Machek & Tomas Machek
+ |typ=trad|text=Grymt fin fingerspricka. Jämn och välsäkrad.}}
+
+{{led|namn=Nemesis|grad=5+}}
+{{led|namn=Furie|grad=6-}}
+
+=== Ulvåsen 3 ===
+{{led|namn=Achilles|fa=|grad=6/a0}}
+{{led|namn=Sysyfos|grad=5}}
+{{led|namn=Den gamle och klippan|grad=6}}
+{{led|namn=Ulvens tand|grad=6-|fa=|text=Börjar i nischen men går ganska över till sprickan som är i vänsterdelen av det vackra svaet, sikta på ett block som ser ut som en huggtand, ca 1½ meter stor. Varierande och förvånansvärt jämn klättring.|gruvsamhet=a}}
+{{led|namn=Odysseus|grad=5}}
+{{led|namn=Fenix|grad=6}}
+{{led|namn=Damokles svärd|grad=5}}
+{{led|namn=Cantilena|grad=6+|betyg=2|längd=20|fa=Tomas Machek & Anton Malak
+ |typ=trad|text=Iögonfallande linje längs areten. Mycket tung.}}
+{{led|namn=Träskmonstret|grad=6-|text=Offwidth|fa=Tomas Machek & Anton Malak}}
+{{led|namn=Fistfight|grad=6}}
+
+=== Ulvåsen 4 ===
+Den första klippan du kommer till, och här slipper du träsket.
+
+{{led|namn=Scylla|grad=6|betyg=3|längd=20|fa=Tomas Machek & Anton Malak
+ |typ=trad|text=Varierad och spännande linje i vänsterkant på klippan.}}
+{{led|namn=Charybdis|grad=5-}}
+{{led|namn=Midsommarrled|grad=5}}
+{{led|namn=Bird on a Wire|grad=5+}}
+{{led|namn=Grävlingen|grad=5|betyg=1|längd=20|fa=Anton Malak & Tomas Machek
+ |typ=trad|text=Först lite bökig och uppbruten, sedan kalasfina handjam.}}
+
+==Ulvåsen mer åt höger==
+{{led|namn=??|grad=a1+|fa=|text=Startar i ett överhäng, traversera ut höger, följ det lösa flaket upp, traversa vänster i horisentalsprickan och därefter upp emot enen. Antagligen lätt frigrad.}}
+[[Kategori:Göteborg]]
+[[Category:trad]]

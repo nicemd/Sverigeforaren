@@ -1,0 +1,21 @@
+{{boulderstub}}
+
+=Allmänt=
+Några block i Hagaparken, Stockholm.
+
+=Vägbeskrivning=
+<googlemap version="0.9" lat="59.367078" lon="18.036976" zoom="13">
+59.365569, 18.037834
+Stockholm, Sverige
+</googlemap>
+=Problem=
+
+se även: http://web.archive.org/web/20010526180246/www.klatterverket.se/bloc/
+
+{{problem|nr=|namn=Kvart i midnatt|grad=6b/6b+|typ=|text=}}
+
+{{problem|nr=|namn=Bambi|grad=6b/6b+|typ=|text=}}
+
+
+[[Kategori:Bouldering]]
+[[Kategori:Stockholm]]

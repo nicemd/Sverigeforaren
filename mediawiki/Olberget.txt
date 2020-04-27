@@ -1,0 +1,147 @@
+{{komplett}}
+
+{{info klippa
+  |lat=61.307342
+  |long=16.812859
+}}
+
+==Allmänt==
+Olberget ligger 13.5 km från Söderhamn, nära riksväg 50 mot Bollnäs.
+Huvudväggen är en 20-25 m hög, kraftigt överhängande sydvägg. Klippan
+är kompakt, men de sprickor som finns är rena och fina.
+Nedanför huvudväggen finns en enklare fikaplats.
+
+==Kommunikationer==
+
+<div style="float:right; width:405px; margin: 5px">
+<googlemap version="0.9" lat="61.30965" lon="16.804619" width="400" height="250" type="map" 
+>61.307342, 16.812859,Olberget
+</googlemap>
+</div>
+
+Från Söderhamn:  Åk mot Bollnäs på riksväg 50. Ca 1 km efter avtagsvägen till Mohed ser du en bilskrot/däckfirma på vänster sida, sväng av höger på första vägen efter denna. (Vägen kan ibland vara i dåligt skick, parkera då på parkeringsfickan som finns på riksväg 50).
+Kör förbi åkrarna och huset på vänster sida, parkera sedan vid det gamla övergivna huset på höger sida. Klippan och blocken ligger uppe i skogen på vänster sida.
+
+Med buss: Från Söderhamn: Ta linje 100 mot Bollnäs. Be chauffören
+att stanna vid vägen mellan hållplatserna Näcktjärn N och Östbo.
+
+GPS-koordinater för klippan: N61 18 36.0 E16 48 42.0
+
+{{sidbrytning}}
+
+==Väggar==
+
+Huvudväggen är en 20-25 m hög, kraftigt överhängande sydvägg. Klippan
+är kompakt, men de sprickor som finns är rena och fina. Berget är
+gnejs. Till vänster om huvudväggen finns ett område med mindre väggar
+och stora flyttblock. Lättaste nedstigningen går till höger om
+huvudväggen.
+
+===Huvudväggen===
+
+Skiss av Jörgen Lundgren.
+
+[[Bild:Olberget_Huvudvagg.png]]
+
+[[Bild:ZombieWoof.jpg|thumb|200px|right|Mikael Bäckman gör första fria bestigningen av Zombie Woof 1982. Foto: Per Calleberg]]
+
+[[Bild:Lunchrast.jpg|thumb|200px|right|Per Calleberg gör förstabestigningen av Lunchrast 1986. Foto: Eva Pettersson/Per Callebergs arkiv.]]
+
+[[Bild:Turist.jpg|thumb|right|200px|Jan Liliemark under den första fria bestigningen av Turist i tillvaron 1983. Foto: Per Calleberg]]
+
+{|
+|- valign="top"
+| width=450px|
+{{led|nr=1|namn=Apostrophe|längd=4|grad=6+/7-|gruv=d|typ=trad|fa=Mikael Bäckman 1986|text= Kort, osäkrat väggproblem längst till höger på berget. Utsteget är kruxet}}
+
+{{led|nr=2|namn=Smutsiga vanor|längd=10|grad=6-|gruv=b|typ=trad|fa=Mikael Bäckman 1986|text= Startar på den otydliga areten mellan "Zombie Woof" och "Apostrophe". Avigt insteg i det sluttande diedret ovanför. 1 bult}}
+
+{{led|nr=3|namn=Zombie Woof|längd=20|grad=6+|betyg=1|typ=trad|fa=Kent Andersson m topprep 1981|text= Fritt: Upp till hyllan: Mikael Bäckman och Per Calleberg, 1982 Fritt: Från hyllan: ("Dina-Moe-Hum") Mikael Bäckman, 1986 Överhängande dieder/spricka i högerkanten på väggen. Var noga med kilplaceringarna. Från hyllan strax under toppen leder ett tydligt dieder upp. Något svårsäkrat.}}
+
+{{led|nr=4|namn=Pojama People|längd=5|grad=6+|gruv=b|typ=trad|fa=Mikael Bäckman 1986|text= Alternativutsteg till "Zombie Woof", i vänsterkanten av hyllan.}}
+
+{{led|nr=5|namn=Twenty years later|längd=7|grad=7c+|betyg=3|bultar=5|typ=sport|fa=Johan Luhr 2007|text= Kraftigt överhängande, krimpig. 1 bult som ankare.}}
+
+{{led|nr=6|namn=Holy Diver|längd=20|grad=ca 7c|betyg=1|bultar=7|typ=sport|fa=Jesper Orrhult 1995|text= Ankare med kedja.}}
+
+{{led|nr=7|namn="Dannes led"|längd=20|grad=ca 7c|betyg=1|bultar=7|typ=sport|fa=Okänd|text= Ankare med kedja.}}
+
+{{led|nr=8|namn=Så var det dags|längd=20|grad=8a|betyg=2|bultar=9|typ=sport|fa=Johan Luhr 2007|text= Hälsinglands första 8a. Ankare med kedja.}}
+
+{{led|nr=9|namn=Turbo Lover|längd=22|grad=7+|betyg=1|bultar=2|typ=mix|fa=Johan Luhr och Mahtias Flodin 1987|text= Överhängande, desperat väggklättring och layback ett par meter till höger om Sunset Crack. Leder upp till högra grenen av Sunset Crack. 2 borrbultar. Ombultad 2008.}}
+
+{{led|nr=10|namn=Sunset Crack|längd=22|grad=7+|betyg=3|typ=trad|fa=Mikael Bäckman och Per Calleberg 1981|text= Fritt: Johan Luhr och Mathias Flodin, 1987 Tydlig spricka rakt uppför väggen. Insteget är ett slags urtag, som bildar ett litet tak. Följ sprickan, med avgjorda svårigheter på sina ställen, rakt upp. En bit under toppen, där svårigheterna är över, nås en stor sluttande hylla. Travers höger någon meter, och sedan lättare klättring rakt upp i ett hörn till toppen. Klippans finaste led. Topprepsankare uppsatt 2007.}}
+
+{{led|nr=10a|namn=Variant: Sunset högra|längd=25|grad=7|gruv=b|typ=trad|fa=Johan Lurh och Mathias Flodin 1987|text= Följ den högra grenen på sprickan, istället för att gå rakt upp under hyllan. På detta vis blir hela leden grad 7.}}
+
+{{led|nr=11|namn=Lunchrast|längd=25|grad=A2|betyg=1|fa=Per Calleberg och Peter Brolin 1986 |text= Första biten, "Kafferast" (A1), upp till borrbulten gjordes av Mikael Bäckman och Per Calleberg 1979. Tunn bultspricka som leder upp till en borrbult vid sprickans slut. Vidare kommer man med en "rivet" och skyhooks upp till ett flak som leder upp till en sluttande hylla. Härifrån följer man den tydliga sprickan upp.}}
+
+{{led|nr=12|namn=Lunchrast|längd=15|grad=7c+|betyg=2|bultar=5|typ=sport|fa=Johan Luhr 2007|text= Vertikal krimpfest. Ankare med kedja.}}
+
+{{led|nr=13|namn=Turist i Tillvaron|längd=20|grad=7|betyg=1|typ=trad|fa=Mikael Bäckman och Per Calleberg 1982|text= Fritt: Jan Liliemark, 1983 Tydlig, kraftigt överhängande spricka alldeles till höger om en överhängande kamin. Klättra först upp på en hylla nedanför sprickan. Klättra sedan på goda grepp uppför blocken upp i sprickan. Jamma/sprajsa upp till en slags nisch. Klättra snett uppåt vänster upp på en stor hylla och fortsätt rakt upp i en tydlig, grov spricka till toppen. Välsäkrad. Om friends används rekomenderas en viss försiktighet, då repet lätt kan trycka in Frienden in i sprickan.}}
+
+{{led|nr=14|namn=Sri Chimnoy|längd=10|grad=6|gruv=c|typ=trad|fa=Mikael Bäckman 1986|text= Följer den tydliga, överhängande off-width kaminen till vänster om "Turist i tillvaron". Smaklös linje.}}
+
+{{led|nr=15|namn=Fotonen|längd=25|grad=6/6+|gruv=b|typ=trad|fa=Mikael Bäckman och Per Calleberg 1982|text= På pelaren till vänster om "Turist i tillvaron" finns en tunn spricka som leder upp till ett block och en spricka som leder diagonalt upp åt vänster. Från ett flyttblock kliver man över till den tunna sprickan och klättrar med svårighet upp till blocket. Härifrån leder en avsevärt lättare spricka snett uppåt vänster, förbi en liten björk, till en liten hylla. Härifrån gör man en lätt, men osäkrad travers mot en tydlig egg som kliver upp på och över, så att man kommer upp på en stor hylla med en död björk på. Härifrån följer man en smutsig ramp snett uppåt vänster till toppen.}}
+
+{{led|nr=15a|namn=Reflektorn|längd=4|grad=5|typ=trad|fa=Per Calleberg m topprep 1982|text= Direktutsteg till "Fotonen". Från den stora hyllan klättrar man rakt uppför en konkav vägg, bakom den döda björken. Osäkrad.}}
+
+{{led|nr=16|namn=Finally started|längd=20|grad=4-|gruv=a|typ=trad|fa=Dennis Butler m topprep 1981|text= Fritt: Kent Andersson och Dennis Butler, 1981 Denna led återfinns i vänsterkanten av väggen. Klättra uppför en lätt, något skitig häll upp till en hylla. Klättra rakt upp och följ hörnet med den grova jamsprickan ovanför. Välsäkrad.}}
+
+{{led|nr=16a|namn=Variant: Finurlig start|längd=6|grad=3+|gruv=a|typ=trad|fa=Kent Andersson och Per Calleberg 1982|text= Följ den lätta, något skitiga hällen upp till hyllan, men klättra härifrån upp i ett hörn på högra sidan en egg. Vid basen av den grova jamsprickan på "Finally started" kliver man vänster över en vass egg och följer sedan sprickan upp.}}
+
+{{led|nr=16b|namn=Variant: Direktinsteg|längd=5|grad=4-|gruv=a|typ=trad|fa=Per Calleberg och Peter Brolin 1986|text= Kort dieder rakt under "Finally Started".}}
+|}
+
+{{sidbrytning}}
+===Lilla väggen===
+Skiss av Jörgen Lundgren.
+
+Ligger 30 meter uppåt vänster från Huvudväggen. Bilder från i huvudsak Lilla väggen finns på Bollnäs klätterklubbs sida: http://www.bollnasklatterklubb.se/fotoalbum/2008/ute/olbergetapril6/index.html
+
+[[Bild:olb_vanstra_2.png]]
+
+{|
+|- valign="top"
+| width=350px|
+{{led|nr=17|namn=Sunrise|längd=7|grad=6b+|betyg=2|bultar=3|typ=sport|fa=Jesper Orrhult 1995|text= Fin varierande klättring. Ankare med kedja.}}
+
+{{led|nr=18|namn=One size fits all|längd=8|grad=5+|gruv=b|typ=trad|fa=Mikael Bäckman 1986|text= Grov spricklinje som leder snett upp åt vänster.}}
+
+{{led|nr=19|namn=Odöpt|längd=7|grad=5+|betyg=1|typ=trad|fa=Torbjörn Nilsson och Peter Brolin 1984|text= Rak spricklinje alldeles t h om "Sauervotze". Sammanfaller med "One Size Fits All" alldeles under toppen.}}
+
+{{led|nr=20|namn=Sauervotze|längd=7|grad=3+|gruv=b|typ=trad|fa=Jan Liliemark 1983|text= Tydligt dieder upp till en stor krokig björk.}}
+
+{{led|nr=21|namn=MR. Fantastic|längd=6|grad=ca 7a|betyg=1|bultar=3|typ=sport|fa=Jesper Orrhult 1995|text= }}
+
+{{led|nr=22|namn=Annikis hörn|längd=7|grad=5-/5|betyg=1|typ=trad|fa=Jan och Anniki Liliemark 1983|text= Första diedret till vänster om "Sauervotze". Startar bakom ett mindre flyttblock.}}
+
+| width=350px|
+
+{{led|nr=23|namn=Nåja|längd=12|grad=3-|gruv=a|typ=trad|fa=Per Calleberg 1986|text= Utanför skiss: Ligger 10 m till vänster om "Annikis hörn". Startar i en kort fingerspricka. Travers vänster och sedan scrambling uppför ett flackt dieder.}}
+
+{{led|nr=24|namn=En Quartz led|längd=6|grad=4+|gruv=b|typ=trad|fa=Peter Brolin 1986|text= Ligger ca 15 m till vänster om "Annikis hörn", alldeles i början av en trång ravin. Går uppför väggen som utgör ravinens högra sida, rakt upp vid en tydlig, vit kvartsfläck. Osäkrad.}}
+
+{{led|nr=25|namn=Åppiravinen|längd=6|grad=4-|gruv=a|typ=trad|fa=Per Calleberg 1986|text= Utanför skiss: Ligger ca 5 m in i ravinen. Tydlig spricka.}}
+
+{{led|nr=26|namn=Räddaren i nöden|längd=6|grad=5+|gruv=b|typ=trad|fa=Torbjörn Nilsson och Per Calleberg 1983|text= Utanför skiss: Ligger på en liten vägg, dold bakom flyttblock, drygt 50 m till vänster om "Sauervotze", bakom en stor kraftig björk. Överhängande hörn med knytnävsspricka.}}
+|}
+
+{{sidbrytning}}
+===Sudoku-väggen===
+Ligger 200 meter vänster om huvudväggen på ett stort block. Bilder från i huvudsak Sudoku-väggen finns på Bollnäs klätterklubbs sida: http://www.bollnasklatterklubb.se/fotoalbum/2008/ute/Olberget19april/index.html
+
+{{led|nr=27|namn=Sudoku|längd=10|grad=6c+|betyg=2|bultar=5|typ=sport|fa=Daniel Hultgren 2005|text= Tunn start.}}
+
+[[Bild:Fotonen.jpg|thumb|200px|left|Per Calleberg på Fotonen 1982. Foto: Per Callebergs arkiv.]]
+
+[[Bild:SriChimnoy.jpg|thumb|200px|right|Mikael Bäckman på Sri Chimnoy 1982. Foto: Per Calleberg]]
+
+===Bouldering===
+Boulderingen vid Olberget finns separat beskrivet i Sverigeföraren: = Olberget =
+Olberget finns beskrivet separat i Sverigeföraren: http://www.sverigeforaren.se/index.php/Olberget_%28bimbo%29
+
+[[Kategori:Saknar kolumner]]
+[[Kategori:sport]] [[Kategori:trad]] [[Kategori:sva]] [[Kategori:vertikalt]] [[Kategori:överhäng]]
+[[Kategori:Hälsingland]]
+[[Kategori:Hälsingland]]

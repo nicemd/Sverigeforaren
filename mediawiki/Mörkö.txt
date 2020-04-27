@@ -1,0 +1,27 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Berghuset==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Rock Molester|grad=7B+|typ=Överhäng|fa=Jon Smedsaas|landning=3|betyg=2|fadatum=2007-04-02|sopad=Jon Smedsaas|sittstart=ja|text=Den uppenbara sittstarten till höger på den höga södra väggen. 6 meter kontinuerligt överhängande problem som är svårast i början.}}
+{{problem|namn=Pruttlukt|grad=6C|typ=|fa=Crell och John P|landning=7|fadatum=2007-04-03|sopad=Crell och John P|text=Livsfarligt problem som går till höger om Rock Molester.}}
+{{problem|namn=Golden Reciever|grad=7B+|typ=Överhäng,Dyno|fa=Jon Smedsaas|landning=5|betyg=2|fadatum=2007-04-03|sopad=Jon Smedsaas|sittstart=ja|text=Catch vid den lilla mynningen till grottan. Start på två sidtag. Avig vatch till bra grepp. Något morfo. Merd några paddor är landning ok.}}
+| width="250px" |
+{{problem|namn=Golden Reciever SS|grad=7C+|typ=Överhäng,Dyno|fa=Jon Smedsaas|landning=5|betyg=2|fadatum=2007-04-03|sopad=Jon Smedsaas|sittstart=ja|text=SS till Golden Reciever. Morfo.}}
+{{problem|namn=Betonghäck|grad=7B+|typ=Krimp,Överhäng|fa=Jon Smedsaas|landning=1|fadatum=2007-04-03|sopad=Jon Smedsaas|sittstart=ja|text=Brant underclingproblem i tak på liten sten bakom berghuset. Förnedrande jobbig start.}}
+{{problem|namn=Den Onde|grad=7B+|typ=|fa=Stefan Pettersson|landning=4|fadatum=2007-04-03|sopad=Stefan Pettersson|sittstart=ja|text=Ondskefullt problem till höger om grottans mynning.}}
+{{problem|namn=Grottbjörnens folk|grad=7A|typ=|fa=Stefan Pettersson|landning=4|betyg=2|fadatum=2007-04-03|sopad=Stefan Pettersson|sittstart=ja|text=Takproblem under Berghuset. Lättaste vägen tills det börjar bli svårt.}}
+| width="250px" |
+{{problem|namn=Crazy Roof Problem|grad=7C|typ=|fa=Stefan Pettersson|landning=4|betyg=2|fadatum=2007-04-03|sopad=Stefan Pettersson|sittstart=ja|text=Takproblem under Berghuset}}
+{{problem|namn=Mammutjägarna|grad=7C+|typ=|fa=Stefan Pettersson|landning=4|betyg=2|fadatum=2007-04-03|sopad=Stefan Pettersson|sittstart=ja|text=Takproblem under Berghuset http://users.grevture.com/~stogroweb/images/berghuset1.jpg}}
+|}
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

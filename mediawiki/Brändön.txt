@@ -1,0 +1,92 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Puukkojunkkarit|grad=7A+|typ=|landning=4|sittstart=ja|uteslutningar=ja|text=Till höger om nr 51. Rakt upp utan att använda aréten!}}
+{{problem|namn=Scouten från Avafors|grad=6B+|typ=Krimp,Mantling,Överhäng|landning=3|fadatum=2006-09-25|startgrepp=ja|uteslutningar=ja|text=Till höger om "Hustler VIP". Ståstart en meter till vänster om stora sprickan. Rakt upp. Anything goes! Starta på två tydliga lister. Klättra upp och mantla. Sprickan till höger är utesluten.}}
+{{problem|namn=Turfens Revenge|grad=6B|typ=Krimp,Slopers,Aréte|landning=4|fadatum=2006-10-11|text=Rakt upp vid arétet till höger om finnarnas problem.}}
+{{problem|namn=Captain Jack Sparrow|grad=7B|typ=Krimp,Överhäng,Heel hook|landning=2|betyg=1|fadatum=2007-03-29|sittstart=ja|text=Matcha på start juggen och dra långt ut till vänster. Högra areten uteslutn.}}
+{{problem|namn=Master blaster|grad=7B|typ=Krimp,Dyno|landning=3|fadatum=2007-03-29|variant=ja|startgrepp=ja|uteslutningar=ja|text=Starta på samma list som Snatch men dra istället rakt upp till kanten.}}
+{{problem|namn=Run Forrest|grad=7B+|typ=Krimp,Slopers,Mantling|landning=4|betyg=2|fadatum=2007-04-24|sittstart=ja|text=Sittstart till v om Hustler VIP på två uppenbara krimpar traversera sen höger och mantla ut på Scouten från Avanfors}}
+{{problem|nr=1|namn=Catch me if you can|grad=5C|typ=Krimp,Överhäng,Jug|fa=Martin Fransson|landning=1|betyg=1|sittstart=ja|startgrepp=ja|text=Start på tydlig list sedan catch till höger!}}
+{{problem|nr=2|namn=Matrix|grad=5C|typ=Krimp|fa=Mats Nordlund|landning=1|sittstart=ja|text=}}
+{{problem|nr=3|namn=Magnolia|grad=3C|typ=Krimp|fa=Martin Fransson|sittstart=ja|startgrepp=ja|text=Rakt upp och ut!}}
+{{problem|nr=4|namn=The fast and the furious|grad=6A|typ=|fa=Robin Forsberg|landning=1|betyg=1|startgrepp=ja|text=}}
+{{problem|nr=5|namn=Psycho|grad=5A|typ=Spricka|fadatum=2004-05-30|sittstart=ja|text=Sprickan}}
+{{problem|nr=6|namn=Taxi driver|grad=4B|typ=Krimp|landning=3|fadatum=2004-05-30|text=}}
+{{problem|nr=7|namn=Pulp fiction|grad=5A|typ=Aréte|landning=3|fadatum=2004-05-30|sittstart=ja|text=}}
+{{problem|nr=8|namn=Casino|grad=6A+|typ=|landning=3|fadatum=2004-05-30|sittstart=ja|text=Aretet uteslutet}}
+{{problem|nr=9|namn=Snatch|grad=6A|typ=Krimp|landning=3|fadatum=2004-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=10|namn=White man can´t jump|grad=6A|typ=|landning=7|fadatum=2004-05-30|text=Hopp från den lilla stenen till kanten på nr 11.}}
+{{problem|nr=11|namn=Natural born killers|grad=5C|typ=Överhäng|fadatum=2004-05-30|text=}}
+{{problem|nr=12|namn=Tändhatt|grad=6C|typ=Krimp,Slopers,Reach|landning=3|fadatum=2004-05-30|text=Start vid siffran med hö hand på areten. Snett åt vänster...}}
+{{problem|nr=12|namn=Tändhatt direkt|grad=7A+|typ=Slopers,Pinch,Heel hook|landning=3|fadatum=2007-04-30|variant=ja|uteslutningar=ja|text=Klättra aretet utan krimpen långt till vänster.}}
+{{problem|nr=13|namn=Knallpulver|grad=5C|typ=Krimp|landning=3|betyg=1|fadatum=2004-05-25|text=Start vid siffran.}}
+{{problem|nr=14|namn=Krutrök|grad=7A|typ=Krimp|fa=Magnus Eriksson|landning=3|betyg=2|sittstart=ja|uteslutningar=ja|text=Sittstart vid siffran. Det stora greppet på nr 13 är utesluten!}}
+{{problem|nr=15|namn=Knallkork|grad=7A+|typ=Krimp,Slopers,Pinch,Överhäng,Aréte,Heel hook|landning=3|betyg=3|fadatum=2004-05-30|text=Start vid siffran och klättra upp på hö sida om areten.}}
+{{problem|nr=15|namn=Knallkork ss|grad=7B+|typ=Slopers,Aréte|landning=3|betyg=3|fadatum=2005-10-07|sittstart=ja|variant=ja|text=Det är bra att ha långa armar. (utförligare beskrivning önskas av herr fransson).}}
+| width="250px" |
+{{problem|nr=16|namn=Pers lilla lätta|grad=4B|typ=|landning=4|betyg=1|fadatum=2004-05-25|text=Rakt upp vid skravlet.}}
+{{problem|nr=17|namn=Grepprik|grad=6B|typ=Slab|landning=3|fadatum=2004-05-23|text=Den tydliga slabben utan grepp. Start mitt för siffran.}}
+{{problem|nr=18|namn=Slabbmats|grad=5A|typ=Krimp,Slab|landning=4|betyg=1|fadatum=2004-06-04|text=}}
+{{problem|nr=19|namn=Sälen|grad=5C|typ=|landning=4|betyg=2|fadatum=2004-05-23|text=Etablera vid siffran och mantla!}}
+{{problem|nr=20|namn=Hemkörd|grad=6A|typ=Slopers|landning=3|betyg=1|fadatum=2004-05-30|startgrepp=ja|text=Startgrepp i markerade undertag. Rakt upp!}}
+{{problem|nr=21|namn=Svart Katt|grad=3C|typ=|landning=4|betyg=1|fadatum=2004-05-30|text=}}
+{{problem|nr=22|namn=Vit Katt|grad=3A|typ=|landning=4|betyg=1|fadatum=2004-05-30|text=}}
+{{problem|nr=23|namn=Jonas Arete|grad=3A|typ=|landning=4|fadatum=2004-05-30|text=Vid siffran... Rakt upp längst vad du vill!}}
+{{problem|nr=24|namn=Blyröv|grad=6B|typ=Slab|landning=4|fadatum=2004-05-30|text=Rakt upp vid siffran.}}
+{{problem|nr=25|namn=Svettläpp|grad=6A|typ=|landning=4|betyg=1|fadatum=2004-05-30|text=}}
+{{problem|nr=26|namn=Gnutten|grad=5A|typ=Spricka|landning=3|fadatum=2004-05-30|sittstart=ja|text=Sprickan. Sittstart på stenen.}}
+{{problem|nr=27|namn=Flaxkikaren|grad=7A+|typ=Dyno|landning=3|betyg=2|fadatum=2004-05-30|uteslutningar=ja|text=Till vänster om sprickan.}}
+{{problem|nr=28|namn=Bobo|grad=6B+|typ=Aréte|landning=4|fadatum=2004-05-30|text=Klättra aretet på hö sida.}}
+{{problem|nr=29|namn=Putte|grad=4A|typ=Krimp,Slab|landning=4|fadatum=2004-06-01|text=}}
+{{problem|nr=30|namn=Den gröna hatten|grad=2|typ=Krimp,Slab|landning=4|fadatum=2004-06-01|text=Rakt upp på den lätta slabben}}
+{{problem|nr=31|namn=Gnuttätaren|grad=5B|typ=Krimp,Slopers,Mantling,Överhäng|landning=3|betyg=1|fadatum=2004-06-01|sittstart=ja|text=}}
+{{problem|nr=32|namn=Kalla fötter|grad=4B|typ=|landning=3|betyg=2|fadatum=2004-05-25|text=}}
+{{problem|nr=33|namn=Full Kareta|grad=7B+|typ=Krimp,Slopers,Överhäng|landning=3|fadatum=2004-06-07|text=Tak. Start med båda händer på tydligt grepp under taket. Upp och ut åt höger via slopers.}}
+{{problem|nr=34|namn=Martins slabb|grad=6A+|typ=Krimp,Slab|landning=3|betyg=1|fadatum=2004-06-07|text=Start rakt för siffran. Sedan upp på "slabben" och till topps!}}
+{{problem|nr=35|namn=Kill Bill|grad=7A|typ=Krimp,Reach|betyg=1|fadatum=2004-06-07|text=Rakt upp från tydlig list en bit upp. Osäker grad!}}
+{{problem|nr=36|namn=Projekt-tjyven|grad=6C|typ=Krimp,Slab|landning=4|fadatum=2004-06-07|text=Rakt upp för areten. Inga grepp och dåliga steg.}}
+{{problem|nr=37|namn=Hagel|grad=7A|typ=Krimp,Slopers,Överhäng|landning=4|fadatum=2004-06-01|sittstart=ja|text=Sittstart bakom trädet. Sedan upp åt höger via aréte-rampen.}}
+{{problem|nr=38|namn=Regn|grad=6A+|typ=Krimp,Slopers,Reach|landning=4|betyg=3|fadatum=2004-06-01|text=Given ramp mitt på väggen. Rakt upp!}}
+{{problem|nr=39|namn=Snö|grad=6A|typ=Krimp,Slopers,Pinch,Aréte|landning=4|betyg=2|fadatum=2004-06-01|text=På högra sidan om areten.}}
+{{problem|nr=40|namn=Rullsten och granris|grad=4B|typ=Aréte,Jug,Spricka|landning=3|betyg=2|fadatum=2004-06-01|sittstart=ja|text=Sprickan. Sedan ut efter rampen till höger!}}
+{{problem|nr=40|namn=Rullsten i Tibet|grad=7A+|typ=Travers V->H|landning=3|betyg=2|fadatum=2004-06-11|sittstart=ja|variant=ja|text=Sittstart på nr 40. Sedan den "låga" traversen efter den (bitvis) slopiga rampen. Avsluta med nr 44!}}
+{{problem|nr=41|namn=Tintin i Tibet|grad=6A|typ=Krimp|landning=4|betyg=2|fadatum=2004-06-01|sittstart=ja|text=Rakt upp!}}
+| width="250px" |
+{{problem|nr=42|namn=Uffe|grad=5C|typ=Mantling,Jug|landning=4|betyg=2|fadatum=2004-06-01|sittstart=ja|text=}}
+{{problem|nr=43|namn=Free Tibet|grad=5C|typ=|landning=4|betyg=2|fadatum=2004-06-01|sittstart=ja|text=Sittstart vid siffran}}
+{{problem|nr=44|namn=7 år i Tibet|grad=7A|typ=Krimp,Slopers,Pinch,Aréte,Reach,Heel hook|landning=4|betyg=2|fadatum=2004-06-01|sittstart=ja|text=Den högra areten! Sittstart med båda händerna på stora juggen. Sedan ut längst areten!}}
+{{problem|nr=45|namn=Jammaren|grad=5C|typ=Jam,Jug,Spricka|landning=3|fadatum=2004-06-03|sittstart=ja|text=}}
+{{problem|nr=46|namn=Fräna arêten|grad=6A+|typ=Aréte|landning=5|betyg=3|fadatum=2004-06-03|text=}}
+{{problem|nr=46|namn=Fräna Areten - Sittstart|grad=6B+|typ=Layback,Aréte|landning=5|betyg=3|sittstart=ja|variant=ja|text=Sittstart på Brändöns coolaste problem.}}
+{{problem|nr=47|namn=Boston Blue|grad=5C|typ=Slopers,Aréte|landning=4|fadatum=2004-06-04|text=Etableringsproblem. Det högra arêtet.}}
+{{problem|nr=48|namn=Måsen|grad=6B|typ=Slopers,Pinch|landning=2|betyg=3|fadatum=2004-06-04|sittstart=ja|text=}}
+{{problem|nr=49|namn=Traddaren|grad=5B|typ=Layback|landning=4|betyg=1|fadatum=2004-06-04|text=Det stora "flaket".}}
+{{problem|nr=50|namn=Krälarn|grad=5C|typ=Slab,Aréte|landning=5|betyg=1|fadatum=2004-06-04|text=}}
+{{problem|nr=51|namn=Slopers bloopers|grad=5B|typ=Slopers,Slab|landning=5|betyg=3|fadatum=2004-06-04|text=Rakt upp via slopers}}
+{{problem|nr=51|namn=Slopers bloopers ss|grad=6A+|typ=Krimp,Slopers,Reach|landning=3|betyg=1|fadatum=2006-06-03|sittstart=ja|variant=ja|text=}}
+{{problem|nr=52|namn=Köttbullemannen|grad=2|typ=Mantling|fadatum=2004-06-07|text=Block 9}}
+{{problem|nr=53|namn=En annan dag|grad=3B|typ=Slopers|fadatum=2004-06-07|text=Block 9}}
+{{problem|nr=54|namn=Nästa press|grad=4A|typ=Aréte|fadatum=2004-06-07|text=Block 9}}
+{{problem|nr=55|namn=För kallt|grad=3A|typ=Mantling|fadatum=2004-06-07|text=Block 9}}
+{{problem|nr=56|namn=För varmt|grad=3A|typ=Slab|fadatum=2004-06-07|uteslutningar=ja|text=Block 9, Inga händer eller armar tillåtna!}}
+{{problem|nr=57|namn=Matvrak|grad=4C|typ=Aréte|fadatum=2004-06-07|text=Block 9}}
+{{problem|nr=58|namn=Jag är för kort|grad=7A+|typ=Slab|landning=4|fadatum=2004-06-07|text=Mitt på väggen.}}
+{{problem|nr=59|namn=Gargamel|grad=6B+|typ=Krimp,Mantling|landning=5|fadatum=2004-06-08|startgrepp=ja|text=Startgrepp och rakt upp (ej fly ut över till höger)!}}
+{{problem|nr=60|namn=Gammelsmurf|grad=4A|typ=Slab|landning=6|fadatum=2004-06-08|text=Dålig landning! Start vid siffran och rätt upp!}}
+{{problem|nr=61|namn=Varma händer|grad=5B|typ=Krimp,Slopers|landning=3|betyg=2|fadatum=2004-06-08|sittstart=ja|text=}}
+{{problem|nr=62|namn=Touching the void|grad=5A|typ=Krimp|landning=2|fadatum=2004-06-08|text=}}
+{{problem|nr=63|namn=Hustler V.I.P|grad=6C|typ=Krimp,Mantling,Travers H->V|landning=1|betyg=2|fadatum=2004-07-03|sittstart=ja|text=Problemet till höger om "Måsen". Sittstart vid hörnet längst till höger. Sedan travers mot "måsen" och mantling där det finner sig naturligt. Kan vara lättare, det var varmt när den gjordes!}}
+{{problem|nr=64|namn=Övertränad!|grad=6A|typ=Krimp,Slopers,Mantling|landning=5|betyg=2|fadatum=2004-07-03|text=Mantling på hörnet till vänster om nr 58 "Jag är för kort". Start vid björken.}}
+{{problem|nr=65|namn=Storm|grad=6A|typ=Krimp,Slopers|landning=4|betyg=2|fadatum=2004-07-03|text=Problemet går rakt bakom granen till hö om nr 38 "Regn". Start med händerna på listen och sedan rakt upp.}}
+|}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

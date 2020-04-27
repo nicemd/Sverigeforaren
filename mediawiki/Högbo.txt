@@ -1,0 +1,27 @@
+=Allmänt=
+Området består än så länge av endast ett stort flyttblock. Men pga dess storlek kan blocket erbjuda många fina problem.
+=Vägbeskrivning=
+Kör till Valbo centrum. Sväng in mot Mio möbler, korsning vid gamla Vivo lågan. Kör vägen rakt fram och rakt igenom korsningen i Bäck. Efter en par km svänger ni höger mot Svartviksstugan. Kör ett par hundra meter så kommer blocket på höger sida.
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=General|grad=6C|typ=Överhäng|fa=Ronny Andersson|landning=2|betyg=3|fadatum=2005-10-09|sopad=Ronny Andersson|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Går på baksidan av blocket sett från vägen, går rakt upp genom överhänget. Sittstart på den stora hyllan, gå sedan rakt upp. Aréten är utesluten.}}
+{{problem|nr=2|namn=Like stealing candy from little David|grad=7A|typ=Aréte|fa=Stefan Hedin, David Hallman|landning=3|betyg=2|fadatum=2005-10-17|sopad=Stefan Hedin, David Hallman|sittstart=ja|text=Går på vänstra aréten på den överhängande delen av blocket. Samma urtoppning som general.}}
+| width="250px" |
+{{problem|nr=4|namn=fortuna|grad=6B+|typ=Layback|fa=David Hallman, Daniel Hultgren|landning=2|betyg=3|fadatum=2006-01-04|sopad=David Hallman, Daniel Hultgren|startgrepp=ja|text=ståstart. Problemet ligger på framsidan av stenen. Mot vägen.}}
+{{problem|nr=5|namn=fredmans aréte|grad=6A+|typ=Överhäng|fa=David Hallman|landning=3|fadatum=2006-01-04|sopad=David Hallman|sittstart=ja|betyg=2|text=den högra arete på baksidan av stora blocket.}}
+{{problem|nr=6|namn=Knox|grad=6C|typ=Krimp,Slab|fa=Patrick Olander|landning=2|betyg=1|fadatum=2006-06-04|sopad=Patrick Olander|text=Går till vänster om aretén. Vänster om Fortuna.}}
+| width="250px" |
+{{problem|nr=7|namn=Högbo dynot|grad=7A|typ=Krimp,Dyno|fa=Patrick Olander, Ronny Andersson|landning=3|fadatum=2006-06-04|sopad=Patrick Olander, Ronny Andersson|uteslutningar=ja|text=Samma start som Fortuna. Sen dyno snett uppåt höger till juggen över kanten. Gå ej vänster som ni gör på Fortuna.}}
+{{problem|nr=8|namn=Gegghålä|grad=6A|typ=Krimp, Slab|fa=Fredrik Andersson, Karin Sundqvist|landning=2|fadatum=2010-06-08|sopad=?|uteslutningar=ja|text=Går på vänstra kanten på vänstra väggen sett från vägen. Startar med hh i tydlig spricka och vh på kanten. Följ kanten utan att gå runt den.}}
+{{problem|nr=9|namn=De tre vise hålen|grad=6B|typ=Layback,Sloper,Reach|fa=Fredrik Andersson, Karin Sundqvist|landning=2|fadatum=2011-06-09|text=Går mellan Knox och Gegghålä. Starta med vh i superb spricka och ta dig sedan rakt upp via sprickorna och slopiga grepp.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

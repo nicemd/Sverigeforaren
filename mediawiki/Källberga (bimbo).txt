@@ -1,0 +1,174 @@
+=Allmänt=
+
+Ett ganska nytt område. Bäst i Uppsala om man vill ha många problem av hög kvalitet på samma ställe. Dessvärre kanske inte så stor framtida utvecklingspotential, men ändå; läget, stenkvaliteten, problemstandarden... - åk dit!
+
+Funkar nästa alla årstider, kan vara myggigt. Överlag bra landningar. Bra ställe för den som släpar med sig en barnvagn, hit kommer du även med de trendigaste caffémodellerna.
+
+
+=Förare=
+[[Bild:Källberga.jpg|thumb|400px|På arêten till vänster går Jaguar.]]
+//trasig länk// [http://tkak.mine.nu/BIMBO/bilder/3130_KB.pdf Förare]
+
+Ny (2008) boulderförare över Uppsala finns att köpa via uppblocSNABELAgmail.com
+
+=Vägbeskrivning=
+
+Kör väg 282 mot Almunge. Sväng av första höger efter bensinmacken i Länna (vid tennisplanen). Kör några kilometer längs grusvägen tills skogen upphör och åkrar tar över. Parkera vid mötsplatsen vid blocket på åkern. Blocken ligger i skogskanten. Källberga - åsen är den ås som ligger längs vägen ett par hundra meter innan man kommer fram till åkrarna. Blocken ligger lite spridda uppe på åsen intill vägen.
+
+<div style="clear:both;"></div>
+
+
+<div style="width: 300; float: right; margin-left: 0px">
+<googlemap version="0.9" lat="59.863479" lon="18.002214" type="map" zoom="14" height="300">
+59.859471, 18.005905, Källberga, plan 2
+59.865375, 18.001099, Källberga, åsen
+</googlemap>
+</div>
+<googlemap version="0.9" lat="59.868262" lon="17.996292" type="map" height="300">
+59.859471, 18.005905, Källberga, plan 2
+59.865375, 18.001099, Källberga, åsen
+</googlemap>
+
+<div style="clear:both;"></div>
+
+=Sektorer=
+==Åsen==
+Ligger på åsen bredvid vägen på väg mot Källberga. Öppet och trevligt, med otroligt fin granitkvalitet och mest överhängande problem.
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Joel Touch|grad=6B+|typ=Överhäng|fa=S Eklund|betyg=1|sopad=S Eklund|text=sittstart, utan arêten (utan den stora listen uppe till höger 6c)}}
+{{problem|nr=2|namn=Dandy|grad=4A|typ=Slab|fa=A Tväråna|sopad=A Tväråna|text=upp vänster vid granen}}
+{{problem|nr=2|namn=Lättingen|grad=5A|typ=Slab|fa=A Tväråna|sopad=A Tväråna|variant=ja|text=starta med undercling}}
+{{problem|nr=3|namn=DKP|grad=6B|typ=Aréte|fa=R Hedman|betyg=1|sopad=R Hedman|text=sittstart, utan greppen till höger}}
+{{problem|nr=4|namn=Chief|grad=4C|typ=Överhäng|fa=S Eklund, D Widman, RH, JB|betyg=1|sopad=S Eklund, D Widman, RH, JB|text=rakt upp med stora greppen (följ rampen höger och avsluta på slopers 5b)}}
+{{problem|nr=5|namn=Desperado|grad=7A+|typ=Överhäng|fa=S Eklund|landning=4|betyg=1|sopad=S Eklund|sittstart=ja|text=Det nordligaste klättrade blocket på åsen. Sittstart till höger i överhänget.}}
+| width="250px" |
+{{problem|nr=6|namn=Tjuven|grad=5B|typ=Krimp|fa=S Eklund|sopad=S Eklund|text=sittstart}}
+{{problem|nr=7|namn=Guldkusten|grad=7A+|typ=Krimp,Överhäng|fa=Stefan E|landning=3|betyg=1|fadatum=2006-03-23|sopad=Stefan E|variant=ja|text=Överhängande block ca 50 innanför Desperado. Typ sittstarta vänster arête.}}
+{{problem|nr=7|namn=Yet another Ricky Brusched|grad=5A|typ=Mantling|fa=S Eklund, R Hedman|sopad=S Eklund, R Hedman|text=hoppstart}}
+{{problem|nr=8|namn=Medicinmannen|grad=5B|typ=Aréte|fa=S Eklund, R Hedman|sopad=S Eklund, R Hedman|text=}}
+{{problem|nr=8|namn=Medicinmannen assis|grad=6B|typ=Överhäng|fa=S Eklund, R Hedman|betyg=1|sopad=S Eklund, R Hedman|variant=ja|text=sittstart från stenen med kanten till vänster och pinch på arêten höger}}
+| width="250px" |
+{{problem|nr=9|namn=Sabotage|grad=5C|typ=Överhäng|fa=S Eklund, D Widman|sopad=S Eklund, D Widman|text=sittstart, rakt upp}}
+{{problem|nr=9|namn=Zulu|grad=6C|typ=Överhäng|fa=S Eklund, D Widman|betyg=1|sopad=S Eklund, D Widman|variant=ja|text=sittstart, sedan upp åt vänster}}
+{{problem|nr=9|namn=Zulu eliminate|grad=6C+|typ=Överhäng|fa=S Eklund, D Widman|betyg=1|sopad=S Eklund, D Widman|variant=ja|text=sittstart med enbart den lägsta hyllan, sedan via sloper upp vänster}}
+{{problem|nr=10|namn=-|grad=6A|typ=Överhäng|fa=S Eklund, D Widman|betyg=1|sopad=S Eklund, D Widman|text=sittstart, rakt upp}}
+{{problem|nr=10|namn=-|grad=6A+|typ=Överhäng|fa=S Eklund, D Widman|sopad=S Eklund, D Widman|variant=ja|text=sittstart, upp åt vänster}}
+|}
+==Huvudområdet==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=På Morfars begäran hade jag skite ner mig|grad=6A|typ=Slab|fa=Niklas Melinder|landning=3|betyg=2|sopad=Niklas Melinder|text=Hög slab (Niklas slab) på baksidan av block nummer två. Lång sträckning i början därefter vidtar ett litet krux som motiverar Pyrets uttalande i problemnamnets Teratologencitat.}}
+{{problem|namn=KB|grad=-|typ=|fa=-|sopad=-|text=}}
+{{problem|namn=Kalypso|grad=5C|typ=Highball|fa=S Boye|landning=4|betyg=2|fadatum=2006-06-10|sopad=S Boye|text=The highball to the right of Snowball. Follow the crack to the top.}}
+{{problem|nr=1|namn=Snowball|grad=5C|typ=Highball,Reach,Jug|fa=Shawn Boye|landning=3|betyg=2|sopad=Shawn Boye|text=Hög vägg på första blocket. Högerinsteg med krimpar är 6b+}}
+{{problem|nr=2|namn=Shadow ss|grad=6B|typ=Överhäng|fa=Shawn|landning=2|sopad=Shawn|sittstart=ja|variant=ja|startgrepp=ja|text=Väggen mot vägen på första blocket, sittstart till vänster inne i diedret med de lägsta greppen, gå ut mot hyllan.}}
+{{problem|nr=2|namn=Shadow|grad=5A|typ=Slab|fa=S Boye|sopad=S Boye|text=upp på sva vid den stora hyllan}}
+{{problem|nr=3|namn=Perlon|grad=6B|typ=Krimp,Överhäng|fa=borg, stefan, shawn|landning=4|betyg=1|fadatum=2006-04-18|sopad=borg, stefan, shawn|sittstart=ja|text=Väggen mot vägen på första blocket, sittstart mitt i överhänget vid jug, klättra rakt upp.}}
+{{problem|nr=4|namn=Simulacrum|grad=6B+|typ=Krimp,Överhäng,Aréte|fa=Borg, stefan, Shawn|landning=3|betyg=1|fadatum=2006-04-18|sopad=Borg, stefan, Shawn|sittstart=ja|text=Väggen mot vägen på första blocket, sittstart höger och klättra upp till juggar på arêteformationen.}}
+{{problem|nr=4|namn=Simulacrum vänster|grad=6C+|typ=Krimp,Överhäng|fa=Stefan|landning=3|betyg=1|sopad=Stefan|sittstart=ja|variant=ja|uteslutningar=ja|text=Start som simulacrum men gå upp åt vänster till incuts på sva utan juggarna på arêten.}}
+{{problem|nr=5|namn=Källbergatraversen|grad=7A|typ=Travers H->V|fa=M Flodin|landning=4|betyg=2|sopad=M Flodin|sittstart=ja|text=Överhänget på första blocket, sittstart längst höger och traversera vänster till stora hyllan och toppa ur.}}
+{{problem|nr=6|namn=-|grad=5C|typ=Aréte|fa=J Berglund, R Hedman|sopad=J Berglund, R Hedman|text=}}
+{{problem|nr=7|namn=-|grad=4A|typ=|fa=K Boye|sopad=K Boye|text=sittstart med stora hyllan, rakt upp}}
+{{problem|nr=7|namn=Pang På|grad=6A|typ=Dyno|fa=S Eklund|sopad=S Eklund|variant=ja|text=sittstart vänster om hyllan, sedan upp vänster utan hyllan}}
+{{problem|nr=8|namn=Leca|grad=4B|typ=|fa=K Boye|sopad=K Boye|text=sittstart, rakt upp}}
+{{problem|nr=9|namn=Svalan traversen|grad=7A|typ=Travers V->H|fa=M Flodin|landning=5|betyg=1|sopad=M Flodin|variant=ja|startgrepp=ja|text=Tunneln mellan de första blocken. Starta på jättehyllan på block 1, traversera höger förbi svalan och avsluta upp runt hörnet via sprickan.}}
+{{problem|nr=9|namn=Svalan|grad=6C|typ=Krimp|fa=stefan och sydde|landning=3|betyg=2|sopad=stefan och sydde|startgrepp=ja|text=mitt emot subway, starta vid stora greppet, gå höger till krimpar och sedan upp mellan blocken.}}
+{{problem|nr=9|namn=Svalan assis|grad=6C+|typ=Krimp,Dyno|fa=S Boye|landning=3|betyg=2|fadatum=2007-04-29|sopad=S Boye|sittstart=ja|variant=ja|text=The obvious sitstart to Svalan... Start on the sidepulls directly under the original problem and topout Svalan without using a heel hook.}}
+{{problem|nr=9|namn=Coco|grad=5A|typ=Slopers|fa=S Eklund|sopad=S Eklund|variant=ja|text=upp vänster vid stora hyllan (utan den stora listen i starten 6a)}}
+{{problem|nr=9|namn=Coco ss|grad=5C|typ=Slopers|fa=S Eklund, E Lundberg|sopad=S Eklund, E Lundberg|variant=ja|text=sittstart med den stora hyllan, sedan vänster (utan listen 6a+)}}
+{{problem|nr=9|namn=Kjell Bergs travers|grad=6B|typ=Travers H->V|fa=S Eklund|sopad=S Eklund|variant=ja|text=sittstart med den stora hyllan, traversera lågt till vänster arête}}
+{{problem|nr=10|namn=Stenad|grad=6A+|typ=Aréte|fa=F Sydstrand, S Eklund|betyg=1|sopad=F Sydstrand, S Eklund|text=sittstart, håll höger om arêten utan kanten till vänster}}
+{{problem|nr=11|namn=Just Climb|grad=4A|typ=Aréte|fa=S Boye|sopad=S Boye|text=}}
+{{problem|nr=11|namn=Just Climb SS|grad=5A|typ=Aréte|fa=S Boye|sopad=S Boye|variant=ja|text=sittstart}}
+{{problem|nr=12|namn=Use Anything You Want|grad=5A|typ=Slab|fa=S Boye|sopad=S Boye|text=}}
+{{problem|nr=13|namn=Lament for a tree|grad=6A+|typ=Aréte|fa=S Eklund, S Boye|sopad=S Eklund, S Boye|text=sittstart, håll höger om arêten}}
+{{problem|nr=14|namn=Subway|grad=7A|typ=Överhäng|fa=Sydde|landning=3|betyg=2|sopad=Sydde|sittstart=ja|text=I tunneln mellan de första blocken. Sittstart med stort grepp, dra upp höger på underclings, slutmatcha på jug under taket (ingen urtoppning).}}
+{{problem|nr=15|namn=Guru Method ss|grad=6B|typ=Krimp,Slopers,Överhäng|fa=Stefan|landning=4|betyg=3|sopad=Stefan|sittstart=ja|variant=ja|text=Arêten på blockskärvan mellan de två första blocken. Sittstarta och klättra upp på polerade slopers. Källbergas bananbänken - fin, låg och soft grad.}}
+| width="250px" |
+{{problem|nr=15|namn=Guru Method|grad=6B|typ=Överhäng|fa=S Eklund|betyg=2|sopad=S Eklund|text=starta med slopers vid arêten}}
+{{problem|nr=16|namn=Trollet|grad=4C|typ=Aréte|fa=K Boye|sopad=K Boye|text=starta lågt med den stora hyllan}}
+{{problem|nr=17|namn=Volvojävel|grad=6A+|typ=Krimp|fa=F Sydstrand|betyg=1|sopad=F Sydstrand|text=sittstart med stort grepp, sedan ut vänster mot arêten}}
+{{problem|nr=17|namn=Kenneth Suger|grad=6B|typ=Krimp|fa=F Sydstrand|betyg=1|sopad=F Sydstrand|variant=ja|text=sittstart med stort grepp, rakt upp}}
+{{problem|nr=18|namn=Raketemensch|grad=6C|typ=Highball|fa=borg och sydde|landning=4|betyg=2|sopad=borg och sydde|text=block 2, den höga väggen. Rakt upp.}}
+{{problem|nr=19|namn=Occidental|grad=5C|typ=Aréte|fa=S Boye|betyg=1|sopad=S Boye|text=}}
+{{problem|nr=20|namn=Deliberation|grad=6C+|typ=Slopers|fa=Sydde, följd av Jon och Stefan|landning=2|betyg=3|fadatum=2006-03-27|sopad=Sydde, följd av Jon och Stefan|text=Den vackra väggen på block 3.}}
+{{problem|nr=21|namn=The Great Hassel|grad=7C+|typ=Krimp,Slopers,Pinch|fa=Jon|landning=3|betyg=2|fadatum=2007-03-28|sopad=Jon|text=Väggen till höger om Deliberation.}}
+{{problem|nr=22|namn=Durchfall im Gesicht|grad=7A+|typ=Krimp,Slopers,Överhäng|fa=J Smedsaas|landning=3|betyg=2|sopad=J Smedsaas|sittstart=ja|variant=ja|text=Vid Jaguar, sittstarta och klättra väggen rakt upp utan att gå ut på greppen vä om arêten. En naturlig linje uteslutningen till trots.}}
+{{problem|nr=22|namn=Jaguar assis|grad=6C|typ=Överhäng,Aréte|fa=S Eklund|landning=2|betyg=2|sopad=S Eklund|sittstart=ja|variant=ja|text=Den fina arêten på block 3.}}
+{{problem|nr=22|namn=Durchfall im Gesicht (stående)|grad=6C+|typ=Slopers,Överhäng|fa=Jon|landning=3|betyg=2|sopad=Jon|variant=ja|startgrepp=ja|uteslutningar=ja|text=Starta med de stora sidtagen, rakt upp.}}
+{{problem|nr=22|namn=Jaguar|grad=6A+|typ=Aréte,Heel hook|fa=F Sydstrand, S Eklund|betyg=1|sopad=F Sydstrand, S Eklund|text=}}
+{{problem|nr=23|namn=Leguan Eliminé|grad=7A|typ=Slopers|fa=J Smedsaas|landning=3|betyg=1|sopad=J Smedsaas|variant=ja|startgrepp=ja|text=Starta med stora greppet som Leguan, dra direkt upp till slopers på kanten utan att gå ut till greppen vänster.}}
+{{problem|nr=23|namn=Leguan|grad=6B+|typ=Överhäng|fa=F Sydstrand, S Eklund, J Smedsaas|betyg=2|sopad=F Sydstrand, S Eklund, J Smedsaas|text=starta vid det stora greppet}}
+{{problem|nr=24|namn=Uttråkad|grad=4C|typ=Aréte|fa=F Sydstrand, S Eklund|sopad=F Sydstrand, S Eklund|text=med sittstart 5a}}
+{{problem|nr=25|namn=Hästarslet|grad=5C|typ=Mantling|fa=S Eklund|sopad=S Eklund|text=sittstart med stor sloper, mantla rakt upp}}
+{{problem|nr=26|namn=Hästarseltraversen|grad=6B|typ=Travers V->H|fa=S Eklund|betyg=1|sopad=S Eklund|text=sittstart vid diedret med stort grepp, traversera höger runt hörnet och mantla}}
+{{problem|nr=26|namn=Thottbot|grad=6A|typ=Överhäng|fa=S Eklund, R Hedman|sopad=S Eklund, R Hedman|variant=ja|text=sittstart vid diedret med stort grepp, rakt upp utan hyllan till höger}}
+{{problem|nr=26|namn=Thottbot vänster|grad=6A+|typ=Överhäng|fa=S Eklund|betyg=1|sopad=S Eklund|variant=ja|text=sittstart diedret med stort grepp, sedan upp vänster ut på arêten}}
+{{problem|nr=27|namn=Allakhazam|grad=6B|typ=Aréte|fa=S Eklund, R Hedman|betyg=1|sopad=S Eklund, R Hedman|text=sittstart med ett undercling och krimp}}
+{{problem|nr=27|namn=Folkskyggheten assis|grad=5A|typ=Slab|fa=S Boye, S Karlsson|sopad=S Boye, S Karlsson|variant=ja|text=sittstart, sedan ut vänster på sva}}
+{{problem|nr=28|namn=Folkskyggheten|grad=4B|typ=Slab|fa=A Tväråna|sopad=A Tväråna|text=}}
+{{problem|nr=28|namn=Ekenstein|grad=5B|typ=Slab|fa=S Boye|sopad=S Boye|variant=ja|text=klättra upp åt vänster mot den högsta punkten av svaet}}
+{{problem|nr=29|namn=Istället för Focksta-Open|grad=4C|typ=|fa=A Tväråna|betyg=1|sopad=A Tväråna|text=vägg}}
+{{problem|nr=29|namn=Istället för Focksta-Open assis|grad=5A|typ=|fa=S Boye, S Karlsson|sopad=S Boye, S Karlsson|variant=ja|text=sittstart, sedan rakt uppför arêtformationen}}
+{{problem|nr=30|namn=Oakenstein|grad=4A|typ=|fa=S Boye|sopad=S Boye|text=vägg}}
+{{problem|nr=31|namn=Horisont|grad=6A+|typ=Överhäng|fa=S Eklund, R Hedman|betyg=1|sopad=S Eklund, R Hedman|text=sittstart med sidtag och undercling}}
+{{problem|nr=32|namn=Long John Silver|grad=6C|typ=Travers H->V|fa=S Eklund|sopad=S Eklund|text=sittstart höger, klättra lågt åt vänster till det stora greppet och toppa ut}}
+{{problem|nr=33|namn=No More Camping For Neurotic Girls|grad=3C|typ=Överhäng|fa=S Boye, J Smedsaas|sopad=S Boye, J Smedsaas|text=följ den stora kanten}}
+{{problem|nr=34|namn=The Golden Guzzlers|grad=6C+|typ=Krimp,Slopers,Överhäng|fa=J Smedsaas|landning=5|betyg=2|sopad=J Smedsaas|text=Baksidan block 5, starta från platån med krimpar och klättra rakt upp till knepig urtoppning.}}
+| width="250px" |
+{{problem|nr=34|namn=Mod en Masse|grad=6C+|typ=Överhäng|fa=Jon S|landning=5|betyg=2|fadatum=2006-04-24|sopad=Jon S|variant=ja|startgrepp=ja|text=Samma startgrepp som för Golden Guzzlers. Klättra ut åt höger. Given linje.}}
+{{problem|nr=35|namn=Dynamische D. Direct assis|grad=7A+|typ=Överhäng|fa=J Smedsaas|landning=3|betyg=2|sopad=J Smedsaas|sittstart=ja|variant=ja|uteslutningar=ja|text=Sittstart, sedan direkt upp höger in i Dynamishe Doppelpack direct.}}
+{{problem|nr=35|namn=Dynamische Doppelpack|grad=6C+|typ=Överhäng|fa=J Smedsaas|landning=3|betyg=3|sopad=J Smedsaas|text=Lättaste vägen från stående. Överhänget på block 5. Med Syddes sekvens kanske 6c+.}}
+{{problem|nr=35|namn=Dynamische Doppelpack assis|grad=7A|typ=Överhäng|fa=J Smedsaas|landning=3|betyg=3|sopad=J Smedsaas|sittstart=ja|variant=ja|text=Lite mera till DD. Sittstarta vid stora hyllan, undvik jättegreppen till vänster.}}
+{{problem|nr=36|namn=Dynamische Doppelpack direct|grad=7A|typ=Överhäng|fa=J Smedsaas|landning=3|betyg=2|fadatum=2006-03-19|sopad=J Smedsaas|uteslutningar=ja|text=Starta vid den stora listen mitt på väggen, sedan rakt upp utan sidtagen ute till vänster.}}
+{{problem|nr=37|namn=Vår Borg är oss en Väldig Gud|grad=6B|typ=|fa=S Eklund, J Smedsaas|betyg=1|sopad=S Eklund, J Smedsaas|text=rakt upp mot diedret}}
+{{problem|nr=37|namn=Borg Dynamique|grad=6C+|typ=Överhäng|fa=F Sydstrand, J Smedsaas|betyg=2|sopad=F Sydstrand, J Smedsaas|variant=ja|text=starta höger, klättra upp vänster in i Dynamische Doppelback}}
+{{problem|nr=38|namn=En sång om Borg och Glädje|grad=6B+|typ=Slopers|fa=S Eklund|sopad=S Eklund|text=sittstart till vänster}}
+{{problem|nr=39|namn=Una-bombaren|grad=4B|typ=Slab|fa=A Tväråna|sopad=A Tväråna|text=}}
+{{problem|nr=40|namn=Mörkret assis|grad=7A|typ=Krimp,Slopers,Överhäng|fa=Stefan och Jon|landning=3|betyg=1|sopad=Stefan och Jon|sittstart=ja|variant=ja|text=Sittstart till mörkret på kashmirblocket.}}
+{{problem|nr=40|namn=Mörkret|grad=6B|typ=Slopers|fa=S Eklund, A Tväråna|landning=3|betyg=2|sopad=S Eklund, A Tväråna|text=}}
+{{problem|nr=41|namn=Kashmir - extension|grad=7A|typ=Travers H->V|fa=J Smedsaas|landning=3|betyg=1|sopad=J Smedsaas|sittstart=ja|variant=ja|text=Sittstarta vid Träskotarzan assis på block 6, traversera vänster in i Kashmir.}}
+{{problem|nr=41|namn=Träskotarzan assis|grad=7A|typ=Krimp,Pinch,Överhäng|fa=J Smedsaas|landning=3|betyg=1|sopad=J Smedsaas|sittstart=ja|variant=ja|text=sittstart till träskotarzan på kashmirblocket.}}
+{{problem|nr=41|namn=Schwarzcommando|grad=5B|typ=|fa=A Tväråna, S Eklund|betyg=1|sopad=A Tväråna, S Eklund|text=starta med pinchen och stora sidtag, sedan rakt upp}}
+{{problem|nr=41|namn=Schwarzcommando assis|grad=6C+|typ=Överhäng|fa=J Smedsaas|sopad=J Smedsaas|variant=ja|text=sittstart}}
+{{problem|nr=41|namn=Träskotarzan|grad=6B|typ=|fa=A Tväråna|betyg=1|sopad=A Tväråna|variant=ja|text=från sidtagen upp vänster mot liten spricka utan greppen till höger}}
+{{problem|nr=42|namn=Kashmir assis|grad=6C|typ=Krimp,Reach|fa=S Eklund|landning=3|betyg=3|sopad=S Eklund|sittstart=ja|variant=ja|text=På block 6. Sittstarta vid stora greppet, rakt upp.}}
+{{problem|nr=42|namn=Sömnlös|grad=7A|typ=Krimp|fa=Magnus Crona|landning=2|fadatum=2006-04-23|sopad=Magnus Crona|sittstart=ja|variant=ja|text=Sittstart vänster om Kashmir, klättra något upp vänster (med greppet ute i grooven till vänster).}}
+{{problem|nr=42|namn=Kashmir|grad=6B|typ=Krimp|fa=A Tväråna, S Eklund, D Widman|betyg=2|sopad=A Tväråna, S Eklund, D Widman|text=}}
+{{problem|nr=43|namn=Pasha|grad=5B|typ=|fa=A Tväråna, S Eklund, D Widman|betyg=1|sopad=A Tväråna, S Eklund, D Widman|text=}}
+{{problem|nr=43|namn=Pasha sittande|grad=6B+|typ=Överhäng|fa=J Smedsaas|sopad=J Smedsaas|variant=ja|text=låg sittstart vid arêten med list och sloper, sedan upp vänster}}
+{{problem|nr=43|namn=Notorisk Apati|grad=6B+|typ=Aréte|fa=A Tväråna|betyg=1|sopad=A Tväråna|variant=ja|text=låg sittstart vid arêten med list och sloper, sedan upp höger}}
+{{problem|nr=44|namn=Rally|grad=5B|typ=Mantling|fa=A Tväråna, S Eklund, D Widman|sopad=A Tväråna, S Eklund, D Widman|text=rakt upp utan kanten till vänster}}
+{{problem|nr=44|namn=Rally assis|grad=6A+|typ=Mantling|fa=S Eklund, A Tväråna|betyg=1|sopad=S Eklund, A Tväråna|variant=ja|text=sittstart}}
+{{problem|nr=45|namn=Bogi|grad=4A|typ=SVA, Highball|fa=Henry Tang Kai|landning=2|betyg=2|fadatum=2010-10-01|sopad=Henry Tang Kai|text=Följ sprickan till vänster om Snowball (ca. 6,35 meter hög)}}
+{{problem|nr=100|namn=The last great line of Källberga|grad=4B|typ=|fa=Söderin och Tväråna|landning=5|betyg=2|fadatum=2007-05-27|sopad=Söderin och Tväråna|text=Till vänster om the Golden Guzzler på baksidan av block fem. Upp för kanten.}}
+|}
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Volvojävel|grad=6B|typ=Krimp,Highball|fa=Sydde|landning=3|betyg=1|fadatum=2006-03-31|sopad=Sydde|text=Mitt på höga väggen block 2. Krimpig start och rätt högt avslut snett vänster.}}
+{{problem|namn=Kenneth suger|grad=6A+|typ=|fa=Sydde, Rikard|landning=3|fadatum=2006-03-31|sopad=Sydde, Rikard|text=Starta lågt i sköna slopar till vänster om Volvojävel på block 2. Traversera snett uppåt vänster och avsluta på blockets vänstra hörn.}}
+{{problem|namn=Sömnlös direkt|grad=7A+|typ=Krimp|fa=Sydde|landning=3|fadatum=2007-05-26|sopad=Sydde|sittstart=ja|variant=ja|uteslutningar=ja|text=Som Sömnlös men gå rakt upp från mikcrokrimparna (alltså inte vänster till "grooven")}}
+| width="250px" |
+{{problem|namn=The Forgotten One|grad=6B+|typ=Krimp|fa=S Boye|landning=3|betyg=2|fadatum=2008-05-21|sopad=S Boye|sittstart=ja|text=Sittstart to the left of Thottbot. Start RH on the crimp on the first sidepull for Thottbot and LH on the crimp a bit higher and to the left. Climb straight up.}}
+{{problem|namn=Den glömda|grad=6B|typ=|fa=Shawn, Patrik, Emil|landning=3|fadatum=2008-05-29|sopad=Shawn, Patrik, Emil|sittstart=ja|variant=ja|startgrepp=ja|text=Variant to The Forgotten One. Sittstart with both hands on the first sidepull for Thottbot and climb straight up. Ignore the LH crimp.}}
+| width="250px" |
+{{problem|nr=13|namn=Just a stone's cry away...|grad=5C|typ=Dyno|fa=Shawn, Grim, Kalle|landning=3|fadatum=2008-05-29|sopad=Shawn, Grim, Kalle|startgrepp=ja|text=Establish for 3 seconds on the 2 sidepulls on the overhanging face to the right of "Lament for a tree". Downclimb and jump to the ledge and top out as for "Lament for a tree". Now just to link it up...}}
+{{problem|nr=13|namn=Foakenstein|grad=5C|betyg=1|typ=Travers|fa=H Skoog, M Carlsson|landning=3|fadatum=2009-10-08|sopad=|sittstart=ja|text=Börja med Istället för Focksta-Open assis, traversera in i Oakenstein och sedan upp och mantla.}}
+{{problem|nr=13|namn=Ekenstein direct|grad=5A|betyg=2|typ=Sva|fa=H Skoog|landning=3|fadatum=2008-05-29|sopad=|startgrepp=ja|text=Börjar till höger om Istället för Focksta-Open och klättra rakt upp. Startar med HH i bra "pocket" under/vänster om den stora listen och VH på krimp.}}
+|}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

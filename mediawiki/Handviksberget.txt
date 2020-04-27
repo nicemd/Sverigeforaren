@@ -1,0 +1,41 @@
+{{utkast}}
+
+==Allmänt==
+Mossigt berg med två väggar, en brant och lite uppsprucken, ca 15 m hög, som är vänd mot sydväst och en annan, bestående av släta svaplattor, 15–20 m höga, vända mot sydost. Här finns ett tiotal leder. Läget och klättringen gör att denna klippa aldrig kommer att räknas till de stora men några leder av potentiellt hyfsad kvalitet finns faktiskt, framför allt på den stora svaplattan. Mycket mossa och mycket arbete innan det blir riktigt trevligt.
+
+==Miljö==
+Sydväst och sydost, skuggigt och mossigt. 
+
+==Vägbeskrivning==
+Berget ligger ca 1,5 km norr om Fituna gård. Kör som för Fullbroberget tills en väg tar tvärt av åt vänster, ca 500 m innan badet. Följ vägen till en vändplats vid en vägbom. Fortsätt vägen till fots fram till ett rött hus, Handvik. Härifrån ser man berget. 
+
+Gamla koordinater: '''10 I SV 518120'''
+
+==Kommunikationer==
+Enklaste sättet att hitta dit är att stiga av buss 783 vid Fitunavägen. Följ denna i ca 500 m och ta sedan av åt h in på en liten skogsväg till Torpängen, ett litet torp efter ca 1 km. Fortsätt sedan på diverse stigar i västlig riktning tills du efter ca 300 m kommer fram till en väg. Följ vägen åt v som ovan.
+
+==Leder==
+{{litentext|text=Längst åt v finns en brant, sydvästvänd vägg, ca 15m hög vägg
+        med flera markanta formationer.}}
+{{led|nr=1|namn=Anita|grad=4-|längd=15|fa=[[Per-Elof Lidström]], [[Kjell Carlsson]] [[-82]]}}
+{{led|nr=2|namn=Laureen|grad=6|längd=15|fa=[[Per-Elof Lidström]], [[Kjell Carlsson]] [[-82]]}}
+{{led|nr=3|namn=Carola|grad=5|längd=15|fa=[[Jan Liliemark]], [[Karl-Erik]]Henriksson}}
+{{led|nr=4|namn=Gina|grad=5|längd=15|fa=[[Roger Pyddoke]], [[Kjell Carlsson]], [[Per-Elof Lidström]] [[-82]]}}
+{{litentext|text= Runt hörnet ligger en kort vägg med ett tydligt dubbeltak i högra delen.}}
+
+{{led|nr=5|namn=November|grad=5-|längd=17|fa=[[Lars Grankvist]], [[Anders Kamb]] [[-79]]}}
+{{led|nr=6|namn=Haren|grad=3|längd=15|fa=[[Karl-Erik Henriksson]] [[-79]]}}
+{{led|nr=7|namn=Chockstone|grad=5-|längd=~15|fa=[[Thomas Leitner]] [[-89]]}}
+{{litentext|text=Th ligger nu en stor, mossig svaplatta som avslutas åt h av en lång dieder, Roger och plastpåsen. Samtliga leder på plattan är sorgligt igengrodda men kan ge fin klättring efter en ordentlig rensningsaktion.}}
+{{led|nr=8|namn=Apocalyps|grad=4|längd=20|fa=[[Lars Grankvist m fl]] [[-80]]}}
+{{led|nr=9|namn=Laibach|grad=6-|längd=20|fa=[[Thomas Leitner]] [[-89]]}}
+{{led|nr=10|namn=46:an|grad=5-|längd=20|fa=[[Lars Svadängs]], [[Rikard Hedman]] [[-82]]}}
+{{led|nr=11|namn=Roger och plastpåsen|grad=5-|längd=20|fa=[[Lars Svadängs]] [[-79]]}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Trad]]
+[[Kategori:Fituna]]
+[[Kategori:Saknar karta]]
+[[Kategori:Sva]]
+[[Kategori:Vertikalt]]
+[[Kategori:Gamla koordinater]]

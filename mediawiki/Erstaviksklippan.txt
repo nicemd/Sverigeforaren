@@ -1,0 +1,7 @@
+{{stub}}
+==Access {{access}}==
+
+{{AccessDB|klippa=erstaviksklippan}}
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]

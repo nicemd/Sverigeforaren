@@ -1,0 +1,141 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.321805
+  |long=18.181772
+}}
+-->
+
+{{boulderkomplett}}
+
+==Allmänt==
+Området ligger stadsnära i Nyckelvikens naturreservat i Nacka och inhyser ca 40-talet problem. 
+
+
+Se även [[Kulberget]] för repklättring.
+
+'''Förare 2008''' ''(Numrering och antalet problem stämmer inte med denna "nyare" nätförare)'':
+[[Media:nyckelviken.pdf]]
+
+
+== Karta & Vägbeskrivning ==
+[[Bild:hittatillnyckelviken.jpg]]
+
+===Bil===
+Åk väg 222 mot Nacka/värmdö. Tag av mot Nacka Strand sedan vänster i rondell och korsa motorvägen. Höger i nästa rondell och sedan följ skyltar mot '''Nyckelviken'''.
+===Buss===
+Åk buss från ''Slussen'' till ''Forum Nacka'' eller ''Ektorp Centrum'' och gå ca 20 minuter. Åker du till ''Ektorp Centrum'' kommer du gå förbi [[Nacka_Sjukhus|väggen vid Nacka Sjukhus]].
+===Hitta från parkeringen===
+Blocken ligger på höger sida strax efter den vinkelräta kurvan på grusvägen på väg mot Nyckelviken.
+Strax efter kurvan, på vänstra sidan finns en P-plats, parkera där. Gå över vägen följ ängens vänstra kant, förbi en sittbänk, mot skogsbrynet, gå ca 100 m in i skogen på en smal stig.
+ <div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Översiktsbild==
+
+[[Bild:Nyckelviken5.jpg]]
+
+{{sidbrytning}}
+
+== Block och -vägg indelning   ==
+
+===A.===
+{|
+| width="450px" |
+{{problem|nr=1|namn=Sälen|grad=5C|sittstart=ja|text=Båda händer på list under bulan, rakt upp.}}
+{{problem|nr=2a|namn=Kantattack|grad=5C|sittstart=ja|text=Startar i list under näsan, använd endast kanten upp.}}
+{{problem|nr=2b|namn=Valrossen|grad=6A+|betyg=1|text=Startar som "Kantattack" och upp via listerna på väggpartiet, kanten och nedre rampen ingår ej.}}
+| width="450px" |
+{{problem|nr=2c|namn=The Gimp|grad=6A|text=Startar som "Kantattack" men vandra vänsterunder listerna.}}
+{{problem|nr=2d|namn=Pomoj|grad=6A|betyg=1|text=Det enda av problemen som går till höger efter starten. Starta med HH i stor jugg nere till höger, VH i startlisten till "Kantattack", matcha på kanten, lägg över VF på högra kanten, skicka HH till höger och klättra upp på den högra sidan.}}
+|}
+{{sidbrytning}}
+
+=== B. ===
+{|
+| width="450px" |
+{{problem|nr=1|namn=Pusher|grad=6A|sittstart=ja|betyg=1|text=Startar med händer på krimp, klättra rakt upp för areten. Akta rygg å skalle!}}
+{{problem|nr=2|namn=Pushing the Limit|grad=7C?|sittstart=ja|text=Samma start som "Pusher" men dra från det stora krimpet till sloperhyllan till höger, skicka VH på slopergaston, kliv upp och skicka till hyfsat krimpgrepp högt upp.}}
+{{problem|nr=3|namn=Skämtet|grad=7A|sittstart=ja|text=Etablera dig i krimparna och skicka upp till sloperskanten.}}
+{{problem|nr=4a|namn=Skämt å Sido|grad=7A|betyg=1|text=Starta i de goda greppen innan slopershyllan, följ hyllan upp till toppen.}}
+| width="450px" |
+{{problem|nr=4b|namn=No Fuckin Joke|betyg=3|grad=7B+|sittstart=ja|text=Starta krimpandes på slopergrepp, klättra upp till starten "Skämt å Sido" å fortsätt längs sloperhyllan opp till topps!.}}
+{{problem|nr=4c|namn=Una Broma|grad=6b+|sittstart=ja|betyg=1|text=Starta krimpandes på slopergrepp, klättra upp till starten "Skämt å Sido" å toppa ut.Direkta Linien, rakt up.}}
+{{problem|nr=5a|namn=Vandraren|grad=6B+|sittstart=ja|betyg=2|text=Starta längst till höger på sprucket block, klättra lågt, stor spricka upp till stenens topp ingår ej, använd krimplisterna istället. Avsluta upp i starten på "Skämt å Sido".}}
+{{problem|nr=5b|namn=Söndagspromenad|grad=5A|sittstart=ja|text=Samma start som ovan fast följ upp i sprickan till vänster.}}
+{{problem|nr=6a|namn=Uppvärmningen|grad=L|sittstart=ja|text=Hangla dig från vänster till höger.}}
+{{problem|nr=6b|namn=Uppvärmningen direkt|grad=L|sittstart=ja|text=Starta i de två goda hålen o toppa ur rakt upp.}}
+|}
+{{sidbrytning}}
+
+=== C. ===
+{|
+| width="450px" |
+{{problem|nr=1|namn=Struntar i etiken Vänster|grad=6A|sittstart=ja|text=Startar med händer på lilla blocket, mantla med hjälp av fotgrepp till vänstern OBS! stå ej på lilla blocket!}}
+{{problem|nr=2|namn=Struntar i etiken Höger|grad=6B+|sittstart=ja|text=Samma som ovan fast dra till höger över kanten i stället.}}
+{{problem|nr=3|namn=Projekt|grad=7A+?|sittstart=ja|text=Startar i startsprickan och klättra i dess längdriktning vidare på små grepp. Klättra över kanten.}}
+{{problem|nr=4|namn=Herr Martin|grad=6C|sittstart=ja|betyg=3|text=Startar i startsprickan, upp via sloper, till utstickande grepp, skicka till kanten och klättra upp.}}
+{{problem|nr=4b|namn=Fröken Niklas|grad=6B+|sittstart=ja|betyg=3|text=Startar i startsprickan, upp via sloper, känsligt bryt åt höger via fler sloopers.}}
+{{problem|nr=5|namn=The Cambist|sittstart=ja|grad=5C|text=Problemet till höger om "Herr Martin", upp snett till vänster.}}
+{{problem|nr=6|namn=Consolation|sittstart=ja|grad=5C|text=Startar på samma sätt som " The Cambist", klättra mer till höger.}}
+{{problem|nr=7|namn=Genvägen|grad=7A|sittstart=ja|betyg=1|text=Som "Super Camakazi fast istället för att avsluta med att klättra under och runt stenen så klättrar du upp i kanten när du når slutet av stenen.}}
+| width="450px" |
+{{problem|nr=8|namn=Super Camakazi|grad=7A+|sittstart=ja|betyg=2|text=Startar längst till vänster och traversera till höger under kanten på slutet och upp, bitigare problem än var det ser ut att vara.}}
+{{problem|nr=9a|namn=Martin´s Send|grad=6A+|sittstart=ja|text=Startar i kanten på stenen, sloper för VH och list under stenen för HH.}}
+{{problem|nr=9b|namn=Camakazi|grad=6A|sittstart=ja|text=Startar i lister under stenen.}}
+{{problem|nr=9c|namn=Camakazi assis|grad=6C|sittstart=ja|betyg=2|text=Starta i match på jugg längst ner till höger. Rumpan i ''marken''! Klättra in i Camakazi och upp.}}
+{{problem|nr=10|namn=Martins håla V|grad=?|sittstart=ja|text=Sloper för VH och crimp för HH, använd ej rampen till fötterna vid start. Upp till vänster.}}
+{{problem|nr=11|namn=Martins håla H|grad=?|sittstart=ja|text=Startar som "Martins håla" men dra till högra kanten, Wierdass!.}}
+{{problem|nr=12|namn=Speculation|grad=?|sittstart=ja|text=För den lille, om det är möjligt starta nere i grottan...}}
+|}
+{{sidbrytning}}
+
+=== D. ===
+{{problem|nr=1|namn=Smygarn|grad=L|sittstart=ja|text=Klättra längs den högra kanten upp.}}
+{{sidbrytning}}
+
+=== E. ===
+{|
+| width="450px" |
+{{problem|nr=1|namn=?|grad=6?|sittstart=ja|text=?.}}
+| width="450px" |
+{{problem|nr=2|namn=?|grad=6?|sittstart=ja|text=?.}}
+|}
+{{sidbrytning}}
+
+=== F. ===
+{|
+| width="450px" |
+{{problem|nr=1|namn=Fjällskravel|grad=L|sittstart=ja|text=Klättra upp på stenen med den vassa högra kanten.}}
+{{problem|nr=2a|namn=Holy Smoke|grad=6C|sittstart=ja|betyg=3|text=Balansigt och krimpigt, vänster finger till hål, HH i gastonlist, kliv upp, flagga med VF på väggen, skicka till nästa list, korsa över till jugg.}}
+{{problem|nr=2b|namn=Pekfinger|grad=6A+|betyg=1|text=Etablerad start med vänster finger i hålet, HH på list. Skicka HH till gastonlist, VH till krimp...}}
+| width="450px" |
+{{problem|nr=3a|namn=Tall och Taff|grad=6B+|sittstart=ja|betyg=1|text=Klättra upp för areten.}}
+{{problem|nr=3b|namn=For the tall and tough|grad=6A|text=Dyno till ngt vass månformad list lite till höger.}}
+{{problem|nr=4a|namn=For the tall and tender|grad=5B|text=Använd månformade listen för att nå slutet dynamiskt.}}
+{{problem|nr=4b|namn=Född utan Tänder|grad=6B|sittstart=ja|betyg=1|text=Klättra via listerna upp till den månformade listen...sträck på dig till slutgreppet!}}
+{{problem|nr=5|namn=Jannas brant|grad=5C|text= Just vid gränsen mellan F och E. SS, Startgrepp=matcha stenes vassa högerkant, HF på högra berget endast vid start. Rakt upp via 2juggar. Avsluta ståendes med händerna i stora sprickan}}
+|}
+{{sidbrytning}}
+
+=== G. ===
+{|
+| width="450px" |
+{{problem|nr=1|namn=Slutet|grad=5C|sittstart=ja|text=Klättra i det korta diedret rakt upp.}}
+{{problem|nr=2|namn=Toaster|grad=6?|text=Hangeltravers för den som vågar. Knepig landning!}}
+{{problem|nr=3|namn=Vandringen|grad=L|text=No hands på ett litet block...}}
+| width="450px" |
+{{problem|nr=4|namn=Go gasch|grad=L|text=Lättare än det ser ut att vara....}}
+{{problem|nr=5|namn=Backa|grad=L|text=Ngt trixigare än "Go gasch"...}}
+{{problem|nr=6|namn=Joans travers|grad=5c|text= Starta vid "Go gasch", traversera t h runt hörnet, håll dig lågt! Krimpig}}
+|}
+
+
+{|
+
+
+|}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Category:Stockholm]]
+[[Category:Nacka-Värmdö]]

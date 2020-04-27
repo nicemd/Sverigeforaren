@@ -1,0 +1,26 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Shambala|grad=5A|typ=Slab|fa=Jon Kågström|landning=2|betyg=2|fadatum=2003-06-01|sopad=Jon Kågström|text=Rakt upp.}}
+{{problem|nr=5|namn=Blåbär|grad=5B|typ=Layback|fa=Ulf Moberg|landning=2|betyg=2|fadatum=2003-07-01|sopad=Ulf Moberg|text=Rakt upp efter sprickan.}}
+{{problem|nr=6|namn=Sabrosa|grad=6B|typ=Krimp|fa=Jon Kågström|landning=2|betyg=3|fadatum=2003-07-01|sopad=Jon Kågström|uteslutningar=ja|text=Sprickan till vänster är utesluten.}}
+{{problem|nr=7|namn=Pow|grad=5B|typ=Krimp|fa=Jon Kågström|landning=2|betyg=3|fadatum=2003-07-01|sopad=Jon Kågström|text=Rakt upp med dragning åt vänster.}}
+| width="250px" |
+{{problem|nr=8|namn=The meastro|grad=5C|typ=Krimp|fa=Jon Kågström|landning=2|betyg=3|fadatum=2003-07-01|sopad=Jon Kågström|text=Rakt upp.}}
+{{problem|nr=8|namn=Body Movin|grad=6A+|typ=Krimp,Slab|fa=Jon Kågström|landning=2|betyg=2|fadatum=2003-07-04|sopad=Jon Kågström|text=Rakt upp.}}
+{{problem|nr=10|namn=Gnats and Gremlins|grad=6C|typ=Krimp|fa=Jon Kågström|landning=2|betyg=2|fadatum=2003-07-04|sopad=Jon Kågström|text=Rakt upp.}}
+{{problem|nr=11|namn=Install Suite|grad=6A|typ=Krimp|fa=Jon Kågström|landning=2|betyg=2|fadatum=2003-07-04|sopad=Jon Kågström|sittstart=ja|text=Sittstart, rakt upp.}}
+| width="250px" |
+{{problem|nr=14|namn=Surbaguette|grad=6B|typ=Krimp|fa=Roger Karlsson|landning=2|betyg=2|fadatum=2003-07-15|sopad=Jon Kågström|text=Rakt upp.}}
+{{problem|nr=15|namn=Sureshot|grad=6C|typ=Krimp|fa=Roger Karlsson|landning=2|betyg=2|fadatum=2003-07-15|sopad=Jon Kågström|sittstart=ja|text=Rakt upp med lite dragning åt vänster.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,126 @@
+{{info klippa
+  |lat=66.043402
+  |long=21.911545 
+}}
+
+<center><br>[[Bild:niemisel.jpg|thumb|450px|Foto: [[Användare:Utomjording|Pär Lindholm]]]]</center><br>
+
+==Allmänt==
+MTV-väggen är ca 25m hög och hänger över 10m på det högsta stället. Här är det sportklättring med pumpande leder som gäller.
+
+==Rekommenderade leder==
+Av de kortare lederna är de få, eller inga, som är värda ett långväga besök.  {{ledlänk|namn=Daddy cool}} är kanske den finaste av de korta lederna. Nej, till Niemisel kommer man för stora grepp och långa pumpande leder.  Leder som {{ledlänk|namn=Wild thing}}, {{ledlänk|namn=The great blondino}}, {{ledlänk|namn=Better burn out than fade away}}, {{ledlänk|namn=Rage against the machine}} och {{ledlänk|namn=A day in life}} är alla värda långväga resor, myggbett, solbränna och blöt frustration.
+
+==Miljö==
+Väggen är sydvänd och ligger öppet. Trots detta så är väggen ofta blöt p g a att vatten rinner genom väggen.
+
+Yr.no håller reda på [http://www.yr.no/sted/Sverige/Norrbotten/Niemisel/ vädret].  Det kan vara en bra idé att fråga på [http://borrbult.nu/forum/forum.asp borrbult.nu] om förhållandena.
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap version="0.9" lat="66.073774" lon="21.917038" zoom="7">
+66.043402, 21.911545 Niemisel 
+</googlemap>
+</div>
+Huvudklippan, MTV-väggen ligger strax väst om Niemisel, runt 60 km från Luleå.  Från Luleå, kör norrut på E4an upp till avfart Råneå N/Niemisel och följ den skyltarna mot Niemisel (runt 25 km från E4).  Kör rakt fram mot '''Gunnarsbyn''' i korsningen med väg 356 mot Boden.  Kör i ungefär 2 km till dess ni ser några klippor på höger sida. Passera dessa med ytterligare knappt 1 km till dess att en liten skogsväg dyker upp på höger sida, mitt emot en infart. Har ni passerat en skylt som säger "Välkommen åter!" har ni kört 300 meter för långt.  Parkera och gå längs skogsvägen i 30 meter till dess en stig viker av åt vänster. Följ stigen till klippan.
+
+ Kartans punkt är ungefärlig!
+<div style="clear:both"></div>
+
+==Leder==
+Topo: [[Bild:Niemisel.pdf]]
+
+[[Bild:Niemiseltopo.jpg|700px|Topo]]
+
+Alla lednamn är målade på väggen.
+{|
+|- valign="top"
+| width=300px|
+{{litentext|text=Lederna längst till vänster klättras inte.}}
+{{led|nr=1|namn=MTV|grad=5c|typ=sport|längd=7|fa=[[Melinda Boer]] [[1996]]|text=Mossig och farlig. Undvik!|betyg=}}
+{{led|nr=2|namn=Undercover|grad=6b+|typ=sport|längd=8|fa=[[?]] [[?]]|text=Mossig.|betyg=}}
+----
+{{led|nr=3|namn=Born to be alive|grad=6c|typ=sport|längd=9|fa=[[Jens Larsen]] [[1996]]|text=Mossig.|betyg=}}
+{{led|nr=4|namn=We are family|grad=7a|typ=sport|längd=10|fa=[[Jens Larsen]] [[1996]]|text=|betyg=}}
+{{led|nr=5|namn=Hot stuff|grad=7a+|typ=sport|längd=10|fa=[[Jens Larsen]] [[1996]]|text=|betyg=1}}
+{{led|nr=6|namn=YMCA|grad=7a|typ=sport|längd=10|fa=[[Jens Larsen]] [[1996]]|text=|betyg=1}}
+{{led|nr=7|namn=Waterloo|grad=7c|typ=sport|längd=13|fa=[[Jens Larsen]] [[1996]]|text=Uppgraderad på grund av förlorat grepp|betyg=}}
+{{led|nr=8|namn=Hi-fi|grad=7b+|typ=sport|längd=10|fa=[[Kenneth Marklund]] [[1999]]|text=Kruxig, men smygcool. Träna upp pinchstyrkan innan ni går på.|betyg=1}}
+{{led|nr=9|namn=Daddy cool|grad=7b|typ=sport|längd=15|fa=[[Anders Björken]] [[1996]]|text=|betyg=2}}
+{{led|nr=10|namn=Thriller|grad=7b+|typ=sport|längd=15|fa=[[Jens Larsen]] [[1996]]|text=|betyg=}}
+{{led|nr=11|namn=Swing it|grad=8a|typ=sport|längd=15|fa=[[Kenneth Marklund]] [[1999]]|text=|betyg=3}}
+{{led|nr=12|namn=Wild thing|grad=7a+|typ=sport|längd=15|fa=[[Kari Nikkuma]] [[1996]]|text=Jugrally i sverigetopp. Detta är rimligen den led som förstagångsbesökaren börjar på. Klassisk intro till de längre lederna.|betyg=3}}
+{{led|nr=13|namn=Sexbomb|grad=7c|typ=sport|längd=22|fa=[[Anders Björken]] [[2000]]|text=Gemensam start med Wildthing, går sedan högerut. Riktigt fin upp till hyllan, sedan lite vass. Tejpa innersta fingerleden på vänster pekfinger.|betyg=3}}
+{{led|nr=13v|namn=Sexbomb direkt|grad=7c+|typ=sport|längd=22|fa=[[Anders Björken]] [[2001]]|text=Startar till vänster om ''Wild thing'', korsa den och följ sedan ''Sexbomb'' till toppen.|betyg=}}
+{{led|nr=14|namn=Great balls of fire|grad=7c|typ=sport|längd=22|fa=[[Kari Nikkuma]] [[1993]]|text=Ofta blöt, mycket markant spricka leder upp till klaustrofobisk vila, finfin klättring på toppen.|betyg=3}}
+{{led|nr=14v|namn=Jedi Mind Trix|grad=8b|typ=sport|längd=22|fa=[[Martin Fransson]] [[2007]]|text=Bouldrigt direktinsteg till ''Great balls...''.|betyg=2}}
+----
+{{litentext|text=Följande tre leder startar alla på samma ställe, fem meter till höger om den tydliga sprickan.  Det är en bra idé att stickklippa andra bulten. Inga gula kort delas ut.}}
+{{led|nr=15|namn=Viva las vegas|grad=7b+|typ=sport|längd=25|fa=[[Anders Björken]] [[1996]]|text=Lättast av de långa lederna. Lite brötig på mitten, men annars fin. Ofta blöt på toppen.|betyg=2}}
+{{led|nr=16|namn=Rage against the machine|grad=8a|typ=sport|längd=25|fa=[[Anders Björken]] [[1998]]|text=Ofta blöt på toppen. Krimpig.|betyg=1}}
+{{led|nr=17|namn=The great Blondino|grad=7c|typ=sport|längd=25|fa=[[Anders Björken]] [[1996]]|text=Superklassiker. Enda 7c i Sverige som inte har någon passage hårdare än Fb 6a! Alla kan dogga!|betyg=3}}
+----
+| width=300px|
+{{led|nr=18|namn=Bä bä vita lamm|grad=8a+|typ=sport|längd=22|fa=[[Kari Nikkuma]] [[1996]]|text=Hård och bouldrig start (ofta blöt) upp till hyllan, sedan följer man det markanta flaket upp mot en vag tvärspricka sedan ut mot höger|betyg=1}}
+{{led|nr=18v|namn=Better burn out than fade away|grad=7c+|typ=sport|längd=27|fa=[[Kari Nikkuma]] [[1996]]|text=Variant, startar som ''The great Blondino'' men traversera ut till höger mot hyllan, sedan upp som ''Bä bä vita lamm''|betyg=3}}
+{{led|nr=18vv|namn=Burning spear (Them never loved Poor Marcus)|grad=8a|typ=sport|längd=25|fa=[[Martin F/Mackan]] [[2007]]|text=Variant på en variant. Startar som ''Better burn out...'', men där denna drar ut åt höger går ''Burning spear'' rakt upp. Lite krimpig längst upp|betyg=2}}
+{{led|nr=19|namn=A day in life|grad=8b|typ=sport|längd=23|fa=[[Peter Bosma]] [[2000]]|text=Jämn, utan hårda passager (för graden).|betyg=3}}
+{{led|nr=19v|namn=När lammen tystnar|grad=8b+|typ=sport|längd=25|fa=[[Peter Bosma]] [[2000]]|text=Startar som ''Bä bä...'' men går över till höger in i ''A day in life'' innan hyllan. Ihållande svårigheter.|betyg=2}}
+{{led|nr=20|namn=The return of the spacecowboy|grad=7c|typ=sport|längd=23|fa=[[Anders Björken]] [[1995]]|text=Fin led med kryptiskt krux.|betyg=3}}
+{{led|nr=21|namn=E-type|grad=7c|typ=sport|längd=25|fa=[[Anders Björken]] [[1999]]|text=Jämn och fin. Gemensam start med ''Spacecowboy''|betyg=2}}
+{{led|nr=22|namn=Diablo|grad=8a|typ=sport|längd=22|fa=[[Kenneth Marklund]] [[1999]]|text=|betyg=3}}
+{{led|nr=23|namn=I feel good|grad=8a+|typ=sport|längd=20|fa=[[Anders Björken]] [[1997]]|text=Krux, hylla, krux|betyg=1}}
+{{led|nr=24|namn=Vinyl|grad=7a|typ=sport|längd=8|fa=[[Anders Björken]] [[1998]]|text=|betyg=}}
+{{led|nr=25|namn=CD|grad=7b|typ=sport|längd=8|fa=[[Anders Björken]] [[1998]]|text=|betyg=}}
+{{led|nr=26|namn=NRJ|grad=7c+|typ=sport|längd=12|fa=[[Kenneth Marklund]] [[1999]]|text=Pinchig!|betyg=}}
+{{led|nr=27|namn=Decibel|grad=8a|typ=sport|längd=12|fa=[[Calle Sellman]] [[1999]]|text=|betyg=}}
+{{led|nr=28|namn=Black velvet|grad=7a+|typ=sport|längd=10|fa=[[Mikael Meyer]] [[1996]]|text=Mossig med vassa grepp. Kruxig.|betyg=}}
+{{led|nr=29|namn=Stereo|grad=8a|typ=sport|längd=10|fa=[[Peter Bosma]] [[2000]]|text=Boulderproblem|betyg=}}
+----
+{{litentext|text=Beavis och Butthead är de första två lederna man ser när man kommer upp för stigen.}}
+{{led|nr=30|namn=Beavis|grad=7a|typ=sport|längd=10|fa=[[Anders Björken]] & [[Anders Eliasson]] [[1993]]|text=Helbultad spricka.|betyg=}}
+{{led|nr=31|namn=Butthead|grad=7a+|typ=sport|längd=10|fa=[[Anders Björken]] & [[Anders Eliasson]] [[1994]]|text=|betyg=}}
+{{led|nr=32|namn=Play|grad=6b+|typ=sport|längd=6|fa=[[?]] [[200?]]|text=Skitled till höger om stigen.|betyg=}}
+|}<br>
+
+===Länkar===
+Har du redan klättrat allt det långa och fina? Det finns en hel del tänkbara och otänkbara länkar att klättra, nedan är några som har fått namn.
+
+{{led|namn=Even wilder|grad=7b+|typ=sport|längd=20|fa=[[Kari Nikkuma]] [[1998]]|text=Klättra hela ''Wild thing'' mossorientera dig sedan via några hyllor upp till utsteget på ''Sexbomb''.|betyg=}}
+{{led|namn=Blondinos on fire|grad=7c|typ=sport|längd=27|fa=[[Kari Nikkuma]] [[1997]]|text=Länk mellan ''Great balls...'' och ''Great blondino''. Har inga egna bultar. Fin klättring.|betyg=2}}
+{{led|namn=Diabolic feelings|grad=8a+|typ=sport|längd=22|fa=|text=Starta som "Diablo", avsluta som ''I feel good''. Heter spegelvändningen ''I feel diabolic''?|betyg=2}}
+{{led|namn=???|grad=??|typ=sport|längd=24|fa=[[Urban Dufva]]|text=Starta som "Bä bä...", avsluta som ''Poor Marcus''.|betyg=2}}
+{{led|namn=Rich Marcus|grad=8c|typ=sport|längd=25|fa=[[Urban Dufva]] [[2010]]|text=Starta som "När lammen tystnar", dra vänster in i ''Better burn out...'' och avsluta som ''Poor Marcus''.|betyg=3}}
+
+==Förare==
+http://www.borrbult.nu
+
+==Annan klättring i närheten==
+Om MTV-väggen skulle vara helt blöt så kan man åka till [[Källsberget]] som ligger 8 mil söderut. Källsberget är mycket mera kompakt, men inte riktigt av samma kvalite. Kännns det för långt så finns det även lite klättring på [[Åberget]] i Boden.
+
+==Boende==
+Luleå kommun har timrat upp några enkla stugor längs Råneälven.  Dessa är gratis att övernatta i. En av stugorna ligger mycket nära klippan.  Mellan byn och parkeringen till klippan pekar en skylt ner mot '''Fornlämningar''' samt mot '''Långforsen N''' (liten brun skylt). Kör ner 100 m och parkera vid en bred stig. Promenera 500 meter ner till älven (skyltat mot Långforsen), där står en stuga med bastu och utedass alldeles vid Råneälven. Stugan rymmer väl 4-6 klättrare, och skulle den vara full finns det ett par andra stugor längs älven nerströms.
+
+
+
+=In English=
+==Description==
+Pumpy routes on overhanging granite with vulcanite-intrusions. One of Sweden's best sportclimbing cliffs, if not the best. Aim for the 25 m long routes in the center for the most memorable experience.
+
+==Directions==
+The main wall, i.e. the MTV-wall, is located in the village of Niemisel, around 60 km from Luleå. From Luleå, head north on road E4 up to exit Råneå N/Niemisel, and follow that road for 25 km until you are in Niemisel. Continue past a gas station and a small grocery store. Drive about 2 km until you see a couple of cliffs on your right. Drive about one km further until you see some overgrown remnants off a forest road on your right side, across from an entrance-way. Park your car and use the well-worn track up to the crag.
+
+==Accommodation==
+The city of Luleå has put up rent-free [http://en.wikipedia.org/wiki/Wilderness_hut wilderness huts] along the river.  The hut closest to the crag is by ''Långforsen''.  Between the parking for the crag and the village follow signs down towards '''Fornlämning''' and '''Långforsen N''' (a tiny brown sign).  Park at the trailhead and walk 400 m down to the river.  Next to the hut is a sauna and not far away an outhouse can be found.
+
+The wilderness hut is for ''temporary'' accommodation. Please, no squatting.  Stay not more than one or—at the very most—two nights in the same hut.
+
+There is a small grocery store in the village, which is not open on Sundays.  There are supermarkets and restaurants in nearby Råneå.
+
+[[Kategori:klippa]]
+[[Kategori:sport]] 
+[[Kategori:överhäng]]
+[[Kategori:Norrbotten]]
+[[Kategori:Komplett]]
+[[Kategori:Extern förare]]
+[[Kategori:Engelska]]

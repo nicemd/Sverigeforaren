@@ -1,0 +1,49 @@
+{{boulderkomplett}}
+{{info klippa
+  |lat=59.319988
+  |long=18.219345
+}}
+
+==Allmänt==
+En klippa med sluttande landningar beläget nära ett hus, ta hänsyn till villägarna. Potential finns för fler problem dock är den vänstra sidan något lös. Problemen i Skuruparken ligger ovanför Saltängens skola nedanför Värmdövägen, flertal väggar och nyuppsatta problem vintern 2012. En del projekt finns också på plats. Parkera på långtidsparkering framför dagiset, respektera småstugeägarna inne i parken. För mer information kontakta Stefan Wulf.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.312367" lon="18.21383" zoom="15">
+59.319988, 18.219345
+59.310461, 18.213573, Skuruparkens boulders
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Skurubouldern
+lat=18219345 
+long=59319988
+</slresa>
+</div> 
+Denna boulderklippa finns kvar i allra högsta grad.
+
+Kör värmdöleden och sväng av mot Skuru sjukhus (före bron). Kör vänster och följ Skurusundsvägen tills du kommer fram till Kristinedalsvägen. Sväng höger in på Kristinedalsvägen, direkt efter fotbollsplanen. Följ vägen rakt fram en bit och parkera på gatan utanför det jättestora huset, Kristinedalsvägen 6. Gå in på vägen bredvid huset och följ grusvägen uppför backen ca 20 meter.
+
+Klipporna ligger där nålarna är på kartan.
+
+Problemen är sällan klättrade så räkna inte med att hitta någon krita som tipsar vart problemen är.
+<div style="clear:right;"></div>
+
+==Boulderproblem==
+[[Bild:skuru.jpg]]
+
+{{problem|nr=1|namn=Duce|grad=7b|fa=Crell|sittstart=ja|landning=3|betyg=3|text=Låg sittstart i sidogrepp. Gå, eventuellt via ett par slopiga lister, till ett konstigt krimp/sidgrepp. Skicka upp till stora greppet aningen snett till höger.}}
+
+{{problem|nr=2|namn=Travers|grad=6b?|fa=|text=Från höger till vänster}}
+
+{{problem|nr=3|namn=En dag på jobbet|grad=7A|fa=Stefan Wulf|ståstart=ja|landning=3|betyg=3|text=Ligger i Skuruparken alldeles bakom och ovanför dagiset. Den vänstra byggnaden. Var noga med att inte skräpa ner och inte vara ful i munnen, tänk på barnen :-). Ståstart med vänster crimp och höger sidotag. Klättra rakt upp via vertikal list.}}
+
+{{problem|nr=4|namn=Goa gubbar|grad=7A|fa=Stefan Wulf|ståstart=ja|landning=3|betyg=1|text=Direkt till höger om En dag på jobbet. Start på två små crimpar, upp till höger gaston, vänster pocket och rakt upp urtoppning på slopers.}}
+
+{{problem|nr=5|namn=Goa gummor|grad=6B|fa=Stefan Wulf|ståstart=ja|landning=3|betyg=1|text=Höger hand på slopig ramp, vänster hand i spricka, lättaste vägen upp om man är lång. Går eventuellt att göra sittstart?}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Nacka-Värmdö]]
+[[kategori:Saknar vägbeskrivning]]

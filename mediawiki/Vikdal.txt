@@ -1,0 +1,59 @@
+{{info klippa
+  |lat=59.31521
+  |long=18.15163
+}}
+
+{{utkast}}
+==Allmänt==
+Liten brant klippa vid en vändplan. En perfekt klippa för den som vill kunna säkra från bakluckan. Fin och fast klippa.
+Behöver nog borstas för att återfå sin forna glans.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.31521" lon="18.15163" zoom="14" type="map" controls="small">
+59.31521,18.15163,[[Vikdal]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Vikdal
+lat=18151630
+long=59315210
+</slresa>
+</div> 
+
+Värmdöleden till Jarlaberg. Korsa motorvägen och ta vänster på Vikdalsvägen. Följ vägen i 700 m till dess slut.
+
+<div style="clear:right;"></div>
+==Leder==
+
+===Vändplanen===
+
+[[Bild:vikdal1_skiss.gif]]
+
+{{led|namn=The lodge|grad=7+/8-|längd=10|fa=[[Anders Lundahl]], [[Eva Selin]][[1990|-90]]|typ=mix}}
+
+{{led|namn=Hot fudge|grad=7/7+|längd=10|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]}}
+
+{{led|namn=Awahnee hotel|grad=7|längd=9|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|typ=mix}}
+
+===Övre väggen===
+
+Senast jag åkte förbi var det ett nybyggt hus nedanför denna vägg. 
+
+{{led|namn=Supersam|grad=7+|längd=7|fa=[[Eva Selin]], [[Anders Lundahl]][[1990|-90]]|betyg=1}}
+
+{{led|namn=El Capitain|grad=9|längd=8|fa=[[Anders Lundahl]][[1990|-90]]|betyg=3}}
+
+{{led|namn=Handegg|grad=8|fa=[[Johan Luhr]][[1992|-92]]}}
+
+{{led|namn=Seasons end|grad=7+|längd=8|fa=[[Johan Luhr]], [[Stefan Norman]][[1990|-90]]|betyg=1}}
+
+{{led|namn=Stäm|grad=6|längd=6|fa=[[Daniel Bidner]][[1990|-90]]|typ=trad}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Mix]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]

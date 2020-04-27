@@ -1,0 +1,21 @@
+{{info klippa
+  |lat=57.468112
+  |long=14.951973
+}}
+
+{{stub|extern=ja}}
+==Karta==
+<googlemap width=350 height=300 lat="57.468112" lon="14.951973" zoom="11" type="map" controls="small">
+57.468112,14.951973,[[Rankullaberget]]
+</googlemap>
+
+
+
+Förare över Rankullaberget:
+http://www.hoglandsklattrarna.se/img/upload/Rankullaberget.pdf
+
+sammanställd av Johan Ragnarson, Höglandsklättrarna.
+
+==Länkar==
+* [http://www.hoglandsklattrarna.se/ccms.asp?pageID=33 Höglandsklättrarnas sida om Rankullaberget]
+[[Kategori:Småland]]

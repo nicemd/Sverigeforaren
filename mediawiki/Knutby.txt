@@ -1,0 +1,72 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Mad Hooker|grad=7A+|typ=Krimp,Slopers,Överhäng|fa=Stefan Wulf|landning=3|betyg=3|fadatum=2007-04-24|sopad=Stefan Wulf|text=Problemet startar mitt i överhänget på Kristi-Brud blocket. Drar sedan åt vänster och avslutas på vänstra sidan om toppen.}}
+{{problem|namn=?|grad=6B|typ=Slab|fa=Stefan H?|landning=1|betyg=3|fadatum=2007-04-24|sopad=Stefan H?|text=Lite högre slab med krux på slutet. går till höger om Fet,ful och fattig.}}
+{{problem|namn=Fet,ful och fattig|grad=6B|typ=|fa=Martin Börjesson|landning=1|betyg=3|fadatum=2007-04-24|sopad=Martin Börjesson|text=Går rakt upp till höger om Henke Lycklig.}}
+{{problem|namn=Henke Lycklig, Ljungberg dämpad|grad=6B+|typ=Slab|fa=Martin Börjesson|landning=1|betyg=3|fadatum=2007-04-24|sopad=Martin Börjesson|text=Går rakt upp till höger om Månskäran.}}
+{{problem|namn=Månskäran|grad=5B|typ=Krimp,Slab|fa=Martin Börjesson|landning=1|betyg=2|fadatum=2007-04-24|sopad=Martin Börjesson|text=Går rakt upp via det tydliga halvmåne formade greppet.}}
+{{problem|namn=Bad Hooker|grad=7B+|typ=Krimp,Slopers,Överhäng|fa=Manne,Thomas och Christofer|landning=2|betyg=3|fadatum=2007-04-24|sopad=Manne,Thomas och Christofer|text=Startar som Mad hooker, drar sedan lätt åt höger via de höga krimp greppen. Toppar sedan ur rakt upp.}}
+{{problem|namn=Duella|grad=7B|typ=Krimp|fa=Malin Perk|landning=2|betyg=2|fadatum=2007-04-25|sopad=Malin Perk|text=Går rakt upp med dragning åt höger, från de små krimp greppen.}}
+{{problem|namn=Duella Vänster|grad=7A|typ=Krimp|fa=Stefan Holm|landning=2|fadatum=2007-04-25|sopad=Stefan Holm|variant=ja|startgrepp=ja|text=Startar med höger hand på grepp för Duella och vänster på annan krimp. Går sedan snett upp åt vänster.}}
+{{problem|namn=Konvex|grad=7B+|typ=Slopers|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2007-04-25|sopad=Christofer Björklund|text=Går rakt upp över bullen på N blocket.}}
+{{problem|namn=Den gamle räven|grad=7B+|typ=Krimp,Överhäng|fa=Anders Lantz, Manne Anliot|landning=2|betyg=3|fadatum=2007-04-25|sopad=Anders Lantz, Manne Anliot|sittstart=ja|text=Startar som Meles meles, går sedan upp snett åt höger.}}
+{{problem|namn=Tussilago|grad=7A|typ=Krimp,Slopers|fa=Johan Lundborg|landning=2|betyg=3|fadatum=2007-04-26|sopad=Johan Lundborg|text=Går rakt upp efter vänstra areten på A blocket.}}
+{{problem|namn=Lynx Lynx|grad=7B+|typ=Krimp,Dyno,Highball|fa=Martin Fransson & Lo Wischman|landning=5|betyg=1|fadatum=2007-04-26|sopad=Martin Fransson & Lo Wischman|uteslutningar=ja|text=Långt skick från två pockets (hand+mono) till list. Går sedan rakt upp utan areten till höger.}}
+{{problem|namn=Mount Knutby|grad=7B|typ=Slab,Highball|fa=Carl-Ola Boström och Christofer Björklund|landning=3|betyg=3|fadatum=2007-04-29|sopad=Carl-Ola Boström och Christofer Björklund|text=Lättaste vägen upp. Jag startade till höger bredvid traden och toppade ut på slabben uppe till vänster.}}
+{{problem|namn=Sandbaggen|grad=7B+|typ=Slopers,Mantling|fa=Carl-Ola Boström|landning=2|betyg=3|fadatum=2007-04-29|sopad=Carl-Ola Boström|sittstart=ja|text=Starta ett par meter till vänster om Aktiv grävling på de tydliga greppen. Klättra rakt upp.}}
+{{problem|namn=Really Mad Hooker|grad=7C|typ=Krimp,Slopers,Överhäng|fa=Christofer Björklund|landning=2|betyg=3|fadatum=2007-05-19|sopad=Christofer Björklund|sittstart=ja|text=Sittstart till Mad Hooker. Starta med händerna på lägsta rampen.}}
+{{problem|namn=Svart magi|grad=6B+|typ=Highball,Aréte|fa=Niklas Melinder / Christofer Björklund|landning=4|betyg=3|fadatum=2007-05-19|sopad=Niklas Melinder / Christofer Björklund|text=På samma block som Lynx Lynx. Vänster sida av den bortre areten.}}
+| width="250px" |
+{{problem|namn=Sjunde Sittstarten|grad=7A|typ=|fa=?|landning=3|fadatum=2007-05-24|sopad=?|sittstart=ja|text=Startar på lågt på hyllan.}}
+{{problem|namn=Sjunde inseglet|grad=6A|typ=|fa=?|landning=3|betyg=2|fadatum=2007-05-24|sopad=?|text=}}
+{{problem|namn=Perkelett|grad=6C|typ=|fa=?|landning=3|fadatum=2007-05-24|sopad=?|text=Start på areten, följ sedan kanten åt vänster}}
+{{problem|namn=Perketvå|grad=6C|typ=|fa=?|landning=3|fadatum=2007-05-24|sopad=?|text=Start på areten, går sedan rakt upp.}}
+{{problem|namn=Mandolin|grad=6C|typ=Krimp,Mantling|fa=?|landning=2|betyg=2|fadatum=2007-05-24|sopad=?|text=Startar i det triangelformade greppet i överhänget + krimper för höger hand, går sedan rakt upp. (Varning för löst grepp)}}
+{{problem|namn=Kolossus Assis|grad=7A+|typ=Krimp,Slopers,Pinch,Layback|fa=Stefan Holm|landning=2|betyg=3|fadatum=2007-05-24|sopad=Stefan Holm|sittstart=ja|text=Hårt förstaflytt.}}
+{{problem|namn=K2|grad=7A|typ=Krimp,Slopers,Highball|fa=Manne och Thomas?|landning=4|betyg=2|fadatum=2007-05-24|sopad=Manne och Thomas?|text=Startar i jug, går sedan takt upp.}}
+{{problem|namn=Mt.Everest|grad=7A|typ=Krimp,Slopers,Highball|fa=Manne och Thomas?|landning=4|betyg=2|fadatum=2007-05-24|sopad=Manne och Thomas?|text=Startar som K2, går sedan åt höger och upp.}}
+{{problem|namn=Kolossus|grad=6C|typ=Krimp,Slopers,Layback|fa=?|landning=2|betyg=3|fadatum=2007-05-24|sopad=?|text=Ståstart två meter till vänster om Mandolin, går rakt upp.}}
+{{problem|namn=Really Bad Hooker|grad=7C+|typ=Krimp,Slopers,Överhäng|fa=Christofer Björklund|landning=3|betyg=3|fadatum=2007-05-27|sopad=Christofer Björklund|sittstart=ja|text=Sittstart till Bad Hooker. Startar med händerna på lägsta rampen rakt under Mad Hooker.}}
+{{problem|namn=Långa natten ss|grad=7A+|typ=Överhäng|fa=Stefan Rasmussen|landning=2|fadatum=2007-06-02|sopad=Stefan Rasmussen|sittstart=ja|startgrepp=ja|text=Start med HH på 'fotsteget' inne i taket och VH på areten. 7a+/7b?}}
+{{problem|namn=Kristibrud SDS|grad=7C|typ=Överhäng|fa=Stefan Rasmussen|landning=3|betyg=3|fadatum=2007-07-01|sopad=Stefan Rasmussen|sittstart=ja|text=Sittstarta långt till höger, travers vänster mot insteget till "Kristibrud".}}
+{{problem|namn=Riktigt dålig hora|grad=7C|typ=Överhäng|fa=Stefan Rasmussen|landning=3|betyg=3|fadatum=2007-06-03|sopad=Stefan Rasmussen|sittstart=ja|text=Sittstart långt till höger. Vidare upp i "Bad Hooker".}}
+{{problem|namn=Barf|grad=6C+|typ=|fa=Jon S, Sydde, Stefan Eklund mfl.|landning=4|betyg=1|fadatum=2007-10-30|sopad=Jon S, Sydde, Stefan Eklund mfl.|text=Helt ok ståstart på den nedersta stenen. Överhängande vägg 70 meter öster om Mad Hooker blocket.}}
+{{problem|namn=Gnagarn|grad=7B|typ=Krimp|fa=Manne|landning=2|betyg=1|fadatum=2007-11-06|sopad=Manne|text=Startar till höger om areten.}}
+{{problem|namn=perk sa kärr... ss|grad=7B+|typ=Slopers,Travers H->V|fa=Adam R|landning=3|betyg=1|fadatum=2007-11-04|sopad=Adam R|sittstart=ja|variant=ja|text=Sittstart till problemet som går upp över "näsan" på samma block som "mount knutby". Hårda slopersflytt för att komma in i ståstarten.}}
+{{problem|namn=Marty Mat & The Funky Bunch|grad=7B+|typ=Krimp,Pinch,Aréte|fa=Martin F|landning=4|betyg=3|fadatum=2008-02-27|sopad=Martin F|text=Areten på baksidan av Kolossos-blocket.}}
+{{problem|namn=Mount Knutby ss|grad=7B|typ=|fa=Olle Wehlin|landning=3|betyg=2|fadatum=2008-03-04|sopad=Olle Wehlin|text=7B ss. 7A+ ståstart.}}
+| width="250px" |
+{{problem|namn=Pippi Pelikan|grad=7C+|typ=Krimp,Slopers,Överhäng|fa=Said Belhaj|landning=3|betyg=3|fadatum=2007-10-16|sopad=Said Belhaj|sittstart=ja|text=Startar på samma ramp som Really mad/bad Hooker. Går sedan vänster upp i Kristi brud.}}
+{{problem|namn=Myggish|grad=6C|typ=Krimp,Slopers,Överhäng|fa=?|landning=3|fadatum=2008-04-22|sopad=?|text=}}
+{{problem|namn=Myggish SS|grad=7B+|typ=Krimp,Slopers,Överhäng|fa=Adam?|landning=3|fadatum=2008-04-22|sopad=Adam?|text=}}
+{{problem|namn=Oetisk rensning|grad=6A|typ=|fa=?|landning=3|fadatum=2008-04-22|sopad=?|text=Hoppstart sendan rakt upp}}
+{{problem|namn=Ullarädd|grad=5B|typ=|fa=?|fadatum=2008-04-22|sopad=?|text=Hög start}}
+{{problem|namn=J-Lo|grad=6B+|typ=Krimp,Highball,Aréte|fa=Martin Fransson och Lo Wischman|landning=3|fadatum=2008-04-22|sopad=Martin Fransson och Lo Wischman|text=Följer areten till höger om Lynx Lynx}}
+{{problem|namn=Tunnelseende|grad=6B|typ=|fa=?|landning=3|fadatum=2008-04-22|sopad=?|text=Startar längst in i grottan.}}
+{{problem|namn=CEK-5|grad=6A|typ=|fa=?|fadatum=2008-04-22|sopad=?|text=}}
+{{problem|namn=Djurperken assis|grad=7B+|typ=Krimp,Överhäng|fa=Stefan H|landning=4|betyg=2|fadatum=2008-05-05|sopad=Stefan H|sittstart=ja|text=Sittstart något höger om Djurperken. Upp i den via dess högerkrimp.}}
+{{problem|namn=Prize Cut|grad=6C|typ=Slopers,Överhäng,Highball,Aréte|fa=?|betyg=3|fadatum=2008-05-08|sopad=?|text=Följ den högra Areten på Mad Hooker överhänget. Hög urtoppning samma som Bad Hooker.}}
+{{problem|namn=Korgossen|grad=6B|typ=Krimp,Slopers|fa=?|landning=3|betyg=2|fadatum=2008-05-08|sopad=?|text=Startar som Prize Cut men går sedan rakt upp på den vertikala väggen}}
+{{problem|namn=Livsfarlig att leda|grad=6A|typ=Slab|fa=?|landning=3|betyg=1|fadatum=2008-05-08|sopad=?|text=Startar vid Leif-Edvin. Går rakt upp på sva väggen.}}
+{{problem|namn=Q5|grad=6B|typ=|fa=?|landning=2|betyg=1|fadatum=2008-05-08|sopad=?|text=Mellan "Livsfarlig att leda" och "Fet, ful och fattig".}}
+{{problem|namn=Leif-Edvin|grad=7B|typ=Krimp,Slopers,Pinch,Överhäng,Aréte|fa=Adam Rosenbaum|landning=3|fadatum=2008-05-08|sopad=Adam Rosenbaum|sittstart=ja|text=Följer den vänstra areten på Mad Hooker överhänget.}}
+{{problem|namn=Q9|grad=3C|typ=Slab|fa=?|fadatum=2008-05-08|sopad=?|text=Längst till vänster på sva ytan.}}
+{{problem|namn=Assistenten|grad=4C|typ=|fa=?|landning=2|fadatum=2008-05-08|sopad=?|text=HH på på stort layback, snett vänster mot jug.}}
+{{problem|namn=Trädgårdsmästaren|grad=5A|typ=|fa=?|fadatum=2008-05-08|sopad=?|text=}}
+{{problem|namn=Huggorm|grad=4B|typ=Slab|fa=Manne?|betyg=1|fadatum=2008-05-08|sopad=Manne?|text=Sva groove}}
+{{problem|namn=Ryggen|grad=5A|typ=Slab|fa=?|landning=3|betyg=1|fadatum=2008-05-08|sopad=?|text=Över sva ryggen till vänster om Huggorm.}}
+{{problem|namn=Footsteps|grad=7C+|typ=Överhäng|fa=Stefan Rasmussen|landning=3|betyg=2|fadatum=2008-05-07|sopad=Stefan Rasmussen|sittstart=ja|text=Start på små greppen under Kristibrud.}}
+{{problem|namn=Sami's Cash|grad=7B|typ=Slopers,Aréte,Travers H->V|fa=-|landning=3|betyg=1|fadatum=2008-05-27|sopad=-|text=Går på den högra areten på baksidan av kollososblocket. Ståstart på slopers och följ sedan areten upp till vänster. Finns möjlighet att jobba in en sittstart för den hugande.}}
+{{problem|nr=5|namn=Flakasand|grad=5B|typ=|fa=Johan Lundström|landning=3|betyg=1|fadatum=2008-02-13|sopad=Johan Lundström|text=på M:stenen i Föraren, nr 5.}}
+|}
+[[Kategori:Linköping]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

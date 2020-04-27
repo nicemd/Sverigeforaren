@@ -1,0 +1,68 @@
+{{utkast}} 
+
+{{info klippa
+  |lat=57.93418
+  |long=11.89793
+}}
+[[Kategori:1 stjärna]]
+==Allmänt==
+Ganska trevlig sportklätterklippa som ligger lite avsides. Kort anmarsch och risig klippkvalité, dock många trevliga leder. Det mesta är överhängande och så gott som alla lederna håller hög klass och är mycket väl bultade, samt har toppankare. 
+
+==Vägbeskrivning==
+Sväng av från E6:an mot Kode. Sväng sedan vänster. Du kommer då att köra under E6:an efter c:a 500m och sedan passera en golfbana och därefter en liten sjö. Parkera på vänster sida av vägen direkt efter första krönet efter sjön. Följ sedan stigen som leder dig till klippan. Du kommer fram vid lederna 6-9.
+
+==Karta==
+<googlemap lat="57.93418" lon="11.89793" zoom="9" type="map">
+57.93418,11.89793,Gubben i berget
+</googlemap>
+
+Onlineförare: http://www.bohusbergen.se/pages/locations/gubben/gubben_default.aspx
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+==Leder==
+===Utsikten===
+{{led|namn=Olles Hörna|grad=3-|fa=Jens Larssen|typ=trad|text=}}
+{{led|namn=Peak|grad=6c|typ=sport|text=}}
+{{led|namn=Enebusken|grad=6a|typ=sport|text=}}
+{{led|namn=Bergstrollet|grad=6|typ=sport|text=}}
+{{led|namn=Stjärnskottet|grad=6b+|typ=sport|text=}}
+{{led|namn=Åldersnojan|grad=6|typ=topprep}}
+{{led|namn=Framtiden|grad=6b+|typ=sport|text=}}
+{{led|namn=Nilla|grad=6b+|typ=sport|text=}}
+{{led|namn=Pernilla|grad=6b+|typ=sport|text=}}
+{{led|namn=Avgrunden|grad=7a|typ=sport|text=}}
+===Nåid===
+{{led | namn=Nåid|grad=8a+|fa=Said Belhaj|typ=sport|text=}}
+{{led | namn=Hipp-hop|grad=7c|fa=Stefan Norman|typ=sport|text=}}
+
+Gubbsjuk, Disneyland och Liseberg startar ifrån det vackra stentornet någon har byggt.
+{{led|namn=Gubbsjuk|grad=6b+|typ=sport|text=}}
+{{led|namn=Welcome to Disneyland|grad=6c|typ=sport|text=}}
+{{led|namn=Liseberg|grad=7a|text=Ingen rolig led|fa=Jens Larssen|typ=sport|text=}}
+{{led | namn=Gibbon |grad=7b+ |fa=Johan Luhr|typ=sport|text=}}
+{{led|namn=Krax|grad=7c|typ=sport|text=}}
+===Nirvana===
+{{led | namn=Hakuna matata |grad=7a+ | fa=Erik Ångman|typ=sport|text=}}
+{{led | namn=Svart smör | grad=7a+ |fa=Stefan Norman|typ=sport|text=}}
+{{led | namn=Nylander| grad=6a+| fa= Jens Larssen|typ=sport|text=}}
+{{led |namn=Jo men visst| grad=6b |fa=Stefan Norman|typ=sport|text=}}
+{{led|namn=Majas Led|grad=5c|fa=Olof Hedberg|typ=sport|text=}}
+{{led|namn=Honkavaara|grad=6b+|fa=Olof Hedberg|typ=sport|text=}}
+{{led |namn =Ruuttu | grad=6c+ |fa= Jens Larssen|typ=sport|text=}}
+{{led |namn=Caramba| grad=7a|fa=Stefan Norman|typ=sport|text=}}
+{{led |namn=Drömspår |grad=7b| fa=Rikard Ekehed|typ=sport|text=}}
+{{led |namn= Den klentrogne|grad=7b|fa=Franz-Erik Schneider|typ=sport|text=}}
+{{led |namn=Nirvana|grad=6b+|fa=Stefan Gustafsson, Stefan Norman|text=Brant klättring på stora juggar hela vägen.|typ=sport}}
+{{led |namn=Nutrasweet|grad=7a+|fa= Stefan Norman|typ=sport|text=}}
+{{led |namn=Doom|grad=6c+|fa=Stefan Norman|typ=sport|text=}}
+{{led |namn=Ravelli |grad=6c+|fa=Jens Larssen, Patrik Alm|typ=sport|text=}}
+{{led |namn=Ravelli tappar greppet| grad=7b+|fa=Jens Larssen, Patrik Alm|typ=sport|text=}}
+{{led |namn=Brolin|grad=6c+|fa=Jens Larssen, Patrik Alm|typ=sport|text=}}
+
+
+[[Kategori:sport]] 
+[[Kategori:vertikalt]] 
+[[Kategori:överhäng]]
+
+[[Kategori:Göteborg]]

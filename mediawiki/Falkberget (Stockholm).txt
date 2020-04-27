@@ -1,0 +1,22 @@
+{{utkast}}
+
+==Allmänt==
+Liten oansenlig klippa vid Edsvikens östra strand. 
+
+==Position==
+Position: 10 I NV 920233
+
+{{led|nr=1|namn=Berguvvännens krypskyttenäste|grad=4|längd=8|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[-89]]}}
+{{led|nr=2|namn=Glatte platte|grad=4-|längd=12|fa=[[Lars Heijkenskjöld]], [[Thomas Hermelin]] [[-89]]}}
+{{led|nr=3|namn=Ballongkriget|grad=4|längd=10|fa=[[Thomas Hermelin]], [[Lars Heijkenskjöld]] [[-89]]}}
+{{led|nr=4|namn=Scoutledarfrasse|grad=5-|längd=10|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[-89]]}}
+{{led|nr=5|namn=Den väna jungfrun|grad=3+|längd=10|fa=[[Lars Heijkenskjöld]], [[Thomas Hermelin]] [[-89]]}}
+
+Dessutom finns det en liten vägg intill Borgvägen i närheten.
+Väggen är tidigare känd för sin isklättring men det har även bouldrats här.
+
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar vägbeskrivning]]
+[[Kategori:Saknar karta]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

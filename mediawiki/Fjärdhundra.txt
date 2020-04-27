@@ -1,0 +1,148 @@
+{{info klippa
+  |lat=59.792825
+  |long=16.983183333333333
+}}
+
+{{komplett}}
+==Allmänt==
+Sportklätterklippa med leder i graderna 6-8. Finns möjlighet att sätta topprep.
+
+==Karaktär==
+En i genomsnitt vertikal vägg, vars höjd uppskattas till 10-15 meter. Rolig klättring på distinkta grepp och god friktion för skorna.
+
+==Historik m.m.==
+
+<div style="float:right">
+[[Bild:Fjärdhundra.jpg|right|400px]]
+</div>
+Ungefär 1993 började man klättra på klippan, men det stora genombrottet för klippan blev nog sommaren 1995 då den första guiden till lederna gavs ut. Även under år 96 och 97 gjordes ytterligare ett antal nyturer. Idag finns det totalt 31 turer (då är ett par kombinationer / varianter) uppsatta av ett tiotal olika klättrare.
+
+Efter att allt fler började klättra på klippan kom det 1998 och 1999 upp flertalet kompletterande firningsankare som Uppsala klätterklubb satte upp med ett stort stöd från Crux AB. Detta för att inte slita på träden och vegetationen ovanför klippan. Men framför allt för att höja säkerheten och klätterfrekvensen.
+
+'''Obs!!''' På firningankarna sitter det karbiner (utan låsbar grind) som bör backas upp med en skruvkarbin vid topprepning. Möjligheten finns till att klippa ur dessa när repet tvinnas runt sig själv eller om man går över karbinen / ankaret.
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap width=350 height=300 lat="59.792825" lon="16.983183333333333" zoom="12" type="map" controls="small">
+59.792825,16.983183333333333,[[Fjärdhundra klippan]]
+</googlemap>
+</div>
+
+Åk till Fjärdhundra. Åk genom samhället, efter någon km åker du över en bro och tar direkt vänster mot Altuna, in på en grusväg. Åk denna en kort stund och ta sen höger mot Nygård. Klippan ses efter en stund.
+
+Passera klippan, åk förbi en handfull hus och parkera sedan på "Klätterparkering" (skyltad, men skylten kan ha rasat) till vänster. Se till att ni inte står i vägen för annan trafik.
+
+Diskussion om vägbeskrivningen kan läsas på [http://www.bloxc.com/forum/viewtopic.php?t=1469 Bloxc]. Kolla [http://www.utsidan.se/forum/showthread.php?t=43967 här] också. Det verkar vara ett känsligt kapitel.
+
+==Access {{access}}==
+Markägaren är positiv till klättring men vill inte ha någon klätterinvasion. Håll låg profil, ställ bilen på avsedd plats och bete er som folk. Kontakta Uppsala Klätterklubb innan ni åker till klippan för att få veta detaljerna i accessfrågan.
+
+{{clear}}
+{{sidbrytning}}
+
+==Leder==
+Klippan består av en enda lång vägg, här uppdelad i tre sektioner (med mossiga partier emellan). Sektioner och leder är från höger till vänster, eller anmarschordning om man så vill.
+
+===Södra delen===
+[[Bild:fjärdhundra_södra.png]]
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=1|namn=BoulderTravers|grad=?|typ=boulder|text=Start på den vänstra sidan av kaminen till landningen är en risbuske åt höger.}}
+
+{{led|nr=2|namn=Bultmannen|grad=6+|typ=sport|fa=Björn Bergmark,Fredrik Lingvall -01}}
+
+{{led|nr=3|namn=La via del chato|grad=6+|typ=sport|fa=Håkan Eriksson -94|text=tt kortare problem upp på hyllan. Runout till slutet.}}
+
+{{led|nr=4|namn=Snedtrampet|grad=6+|typ=sport|fa=H.E. -94|text=Ett måste bland de lättare lederna}}
+
+| width="300px" |
+
+{{led|nr=5|namn=El culo electrico|grad=6|betyg=1|typ=sport|fa=H.E: -95|text=Detta är nog klippans mest repeterade led. Jämn klättring på fina grepp.}}
+
+{{led|nr=6|namn=Korpen flyger|grad=6-|typ=sport|fa=H.E. -94|text=Hård för sin grad.}}
+
+{{led|nr=7|namn=Oborsten|grad=4+/5-|typ=trad|fa=Ronny Nilsson -95|text=För den som hellre lägger kilar och hexor är nog denna en bra uppvärmning. Man bör nog undvika att använda friends bakom de vassa blocken.}}
+|}
+
+{{sidbrytning}}
+===Åkern===
+[[Bild:fjärdhundra_åkern.png|650px]]
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=8a|namn=Hövdingen|grad=5+|typ=sport|fa=Fredrik Ståhl -99|text=Hårt (6a+?) insteg med första bulten ganska högt placerad. "Nybörjargrad", men inget för nybörjare. }}
+
+{{led|nr=8b|namn=Mapumbe|grad=6+|typ=sport|betyg=1|fa=F.L, B.B. -00|text=Fin och jämn linje.}}
+
+{{led|nr=8c|namn=Spider Dance|grad=7-/7|typ=sport|fa=H.E. -94|text=Välklättrad led}}
+
+{{led|nr=9|namn=Seven plus|grad=7+|typ=sport|fa=Rikard Hedman -96|text=En led med få repetitioner. }}
+
+{{led|nr=10|namn=Premiären|grad=7-|typ=sport|fa=Kjell Henriksson -94|text=En led som fick sin renässans med det nya toppankaret.}}
+
+{{led|nr=11|namn=Vindöga|grad=7|typ=sport|fa=Björn Bergmark -97|text=Omväxlande klättring}}
+
+| width="300px" |
+
+{{led|nr=12|namn=Stampad Berguv|typ=sport|grad=7+/8-|fa=Peter Viktorsson, Timo Kero -96|text=Leden har även lytt under namnet Åttjäveln, kanske p.g.a. att denna del av klippan bjuder på bitvis ojämn klättring.}}
+
+{{led|nr=13|namn=El Ninjo|grad=7|typ=sport|fa=B.B. -98|text=Lite svårläst }}
+
+{{led|nr=14|namn=Twist|grad=6/6+|typ=sport|fa=K.H. -94|betyg=1|text=En av de bättre lederna på klippan. Distinkt crux som sätter graden.}}
+
+{{led|nr=15|namn=Apor på åkern|grad=7|typ=sport|fa=Johan Ullsten|betyg=1|text=Jämn och fin led. Håll tempot uppe.}}
+
+{{led|nr=16|namn=Studenten|grad=8|typ=sport|fa=B.B. -98|text=Små smärtsamma crimps. Går ihop med nr 15 mot slutet.}}
+
+{{led|nr=17|namn=Bulletprof|grad=7-|typ=sport|fa=Patrik Malmström -97|text=Tjockabultar!!}}
+|}
+{{sidbrytning}}
+
+===Skogen===
+[[Bild:fjärdhundra_skogen.png|650px]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=18|namn=Huggormen|grad=7+|typ=sport|fa=H.E. -96|text=Namnet efter ett slingrande djur som enligt uppgift trivdes bra under en repsäck nedan för leden..}}
+
+{{led|nr=18b|namn=Viper|grad=8/8+?|typ=sport|fa=B.B. -99|text=OBS! Klättra ej in på Huggormen.}}
+
+{{led|nr=19|namn=Barracuda|grad=8|typ=sport|fa=Jon Smedsaas -96|text=Lite svårare utstegs- variant på nr 20.}}
+
+{{led|nr=20|namn=Sök och finn|grad=7|typ=sport|fa=R.H. -96|text=En något känslig start avslutas med relativt fin klättring}}
+
+{{led|nr=21|namn=Besökarna|grad=6+|typ=sport|fa=Pär Engman, FB, Bertil Dyvell -94|text=Väl repeterad och har ett flertal onsighter på samvetet.}}
+
+| width="250px" |
+
+{{led|nr=22|namn=Besökarna Direkt|grad=7-|typ=sport|fa=Bertil Dyvell -94|text=Ett direkt insteg rakt över det lilla taket, som höjer graden något steg.}}
+
+{{led|nr=23|namn=Caramba Club|grad=7|typ=sport|fa=K.H. -94|text=Här kan man i alla fall använda sina förmodade kunskaper från inomhusväggen.}}
+
+{{led|nr=24|namn=Connection|grad=7-/7|typ=sport|fa=Bertil Dyvell -95|text=Kombination av nr 23 till 2:a bulten sedan ut på nr:25.}}
+
+{{led|nr=25|namn=Examen|grad=8-/8|typ=sport|fa=FB J.U. -95|text=Crux betonad led }}
+
+{{led|nr=26|namn=Kapten Zoom|grad=6+|typ=sport|fa=Peter Reffner, Jesper Orrhult -95|text=Bitvis känslig svaklättring.}}
+
+| width="250px" |
+
+{{led|nr=27|namn=On the rocks|grad=7-|typ=sport|fa=B.B. -01|text= }}
+
+{{led|nr=28|namn=Soliga händer|grad=6+|typ=sport|fa=P.R., J.O. -97|text=Efter att den något högt placerade första bulten har klippts kan man njuta av fin klättring.}}
+
+{{led|nr=29|namn=Dynamo|grad=7/ 7+|typ=sport|fa=P.R., J.O. -97|text=På denna led kan en liten kil / friend vara bra i starten.}}
+
+{{led|nr=30|namn=H2O|grad=8-|typ=sport|fa=B.B. -99|text=}}
+
+{{led|nr=31|namn=Naturapoteket|grad=7-|typ=trad|fa=B.B. -99|text=Fin och ren klättring en gång i tiden. Säkras okej med två camalot 1 eller ett par mindre friends, en medelstor kil och en WC etta (friend).}}
+|}
+
+Denna förare bygger delvis på material från Bertil Dyvell publicerat i Uppsala klätterklubbs Medlemstidning Ukkern.
+
+[[Kategori:Sport]]
+[[Kategori:Uppsala]]
+[[Kategori:Uppland]]
+[[Kategori:Saknar vägbeskrivning]]

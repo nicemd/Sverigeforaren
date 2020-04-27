@@ -1,0 +1,12 @@
+{{info klippa
+  |lat=58.679414005707784
+  |long=16.160202026367187
+}}
+
+{{stub}}
+<googlemap lat="58.679414005707784" lon="16.160202026367187" zoom="11" type="map">
+58.679414005707784,16.160202026367187,Dvardala
+</googlemap>
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}
+[[Kategori:Östergötland]]

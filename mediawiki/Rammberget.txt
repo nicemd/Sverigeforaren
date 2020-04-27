@@ -1,0 +1,37 @@
+{{info klippa
+  |lat=57.77449
+  |long=12.08171
+}}
+
+{{stub}}
+<googlemap lat="57.77449" lon="12.08171" zoom="9" type="map">
+57.77449,12.08171,Rammberget
+</googlemap>
+
+==Allmänt==
+Ett jättestort berg med många fler sprickor än vad som idag finns presenterat som leder (hör hör nytursmakaren!). 
+
+==Miljö==
+Berget ligger i en mycket tät granskog. Precis vid Frigotime plusminus några leder åt vänster och höger är det dock öppet. Om det skulle bli ett kalhygge här skulle Rammberget bli en superbra klippa.
+
+==Vägbeskrivning==
+Från Utby/Partille kör Mellbyleden tills den byter namn till Bergsjövägen. En mycket otydlig och liten skylt på höger sida står det "Skanska Balk och spontupptag Bergsjön". Parkera bilen på vänster sida där det går att parkera bilen. Därifrån gå in i skogen, följ stigen. Berget lär dyka upp efter cirka 400-500 meters promenad. Berget är västvänt och ganska stort. Lederna ligger i vänsterdelen. 
+
+==Kollektivtrafik==
+Åk till 58ans ändhållplats. Gå ner mot Bergsjövägen och följ den norrut längs med cykelbanan mot Gunnilse. Parkeringen hittar du efter cirka 600 meters promenad. 
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+{{led|namn=Schwarzwald klinik|grad=5-|fa=Patrik Alsby}}
+{{led|namn=Krigsleksaker|grad=6-|fa=Patrik Alsby}}
+{{led|namn=Vem tar vem|grad=6-|fa=Patrik Alsby}}
+{{led|namn=Tatiana|grad=6+|fa=Jan Pålsgård & Piotr Bober}}
+{{led|namn=Golden Delicious|grad=6+|fa=Ulf Björn berg & Jan Pålsgård|text=Har två stjärnor enligt GBG-förare...}}
+{{led|namn=Frigotime|grad=6|fa=Piotr Bober|text=Sprickan som är mitt på areten. }}
+{{led|namn=?|grad=5|fa=}}
+{{led|namn=Wallraff|fa=Ulf Björnberg & Susanne Rydfeldt|grad=6}}
+{{led|namn=Björns och Janas led|grad=4+|fa=}}
+{{led|namn=Kabelsprickan|fa=Petter Åsander|grad=5+}}
+{{led|namn=?|typ=mix|grad=6-|fa=|text=En mycket stor och hemmagjord pitong markerar leden. }}
+{{led|namn=Synaps Kollaps|grad=7-|fa=Ulf Björnberg & Jan Pålsgård|text=Sprickan till höger om föregående led. }}
+[[Kategori:Göteborg]]

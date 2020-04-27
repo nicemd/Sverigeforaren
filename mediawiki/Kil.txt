@@ -1,0 +1,25 @@
+{{boulderstub}}
+{{info klippa
+|lat=59.334831
+|long= 18.314509
+}}
+
+==Allmänt==
+Liten men mycket överhängande bouldervägg på Nacka-Värmdö med lite spår av krita.
+
+Trevor på Klätterverket kanske vet mer.
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap version="0.9" lat="59.33494" lon="18.319702" type="map" zoom="13">
+59.334831, 18.314509, Kil
+</googlemap>
+</div>
+{{clear}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Överhäng]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Saknar leder]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar vägbeskrivning]]

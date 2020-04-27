@@ -1,0 +1,16 @@
+{{info klippa|lat=59.21669024444444|long=18.281271961111112}}
+{{utkast}}
+==Allmänt==
+Stort och högt berg söder om Albysjön. Enligt gamla Stockholmsföraren är väggen ganska ful och saknar inbjudande formationer. Norra delen av berget, den som är vänd mot sjön, har flera mindre väggpartier som kan vara av ett något större intresse. 
+
+==Vägbeskrivning==
+<googlemap version="0.9" lat="59.223394" lon="18.276787" type="map" width="300" height="200">
+59.21669, 18.281272
+Grändalsberget
+</googlemap>
+
+Stort och högt berg söder om Albysjön. Väggen är tyvärr ganska ful och saknar inbjudande formationer. Norra delen av berget, den som är vänd mot sjön, har flera mindre väggpartier som kan vara av ett något större intresse. Det går några leder av okänt ursprung här. Det finns även en mycket brant del, som dock ligger lite dolt.
+
+Tidpunkt för klättring är tidig vår eller sen höst då myggen inte besvärar.
+
+[[Kategori:Tyresö]] [[Kategori:Stockholm]]

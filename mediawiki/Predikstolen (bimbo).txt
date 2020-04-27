@@ -1,0 +1,48 @@
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+
+=Allmänt=
+Ett stort block och en vägg. Finns även en del andra block i närheten.
+=Vägbeskrivning=
+Kör Vårdsätravägen ner genom hågadalen, ta sedan höger över bron och parkera direkt vänster. Korsa vägen och följ ridstigen mot Predikstolenklippan. Blocket ligger ett 50-tal meter innan klippan, väggen ovanför klippan.
+=Sektorer=
+==Fäbodarna==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=-|grad=6B+|typ=Spricka|fa=R Hedman|betyg=1|sopad=R Hedman|text=}}
+{{problem|nr=2|namn=-|grad=6C+|typ=Överhäng|fa=R Hedman|betyg=1|sopad=R Hedman|text=Höger om trädet.}}
+| width="250px" |
+{{problem|nr=3|namn=-|grad=6A+|typ=|fa=R Hedman|betyg=1|sopad=R Hedman|text=Vägg. Vänster om trädet.}}
+| width="250px" |
+{{problem|nr=4|namn=-|grad=6C|typ=|fa=J Smedsaas|sopad=J Smedsaas|text=Vägg.}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn="Predikstolen"|grad=6C|typ=Highball|fa=J Smedsaas|landning=5|betyg=1|sopad=J Smedsaas|text=Går upp längs arêteformationen på sydsidan av blocket. Numera lite igenmossad.}}
+{{problem|nr=2|namn=Ricky Brusch|grad=6C|typ=Slopers,Travers V->H|fa=J Smedsaas|landning=3|betyg=1|fadatum=2004-08-01|sopad=J Smedsaas|sittstart=ja|text=På blocket. Sittstart längst till vänster vid sprickan, traversera höger och toppa ur i Tidspress.}}
+{{problem|nr=3|namn=Tidspress|grad=7A+|typ=Överhäng,Dyno|fa=M Flodin|landning=4|betyg=1|sopad=M Flodin|sittstart=ja|text=Går på blocket. Sittstart med lister till vänster i överhänget, catcha kanten och rocka över på sva.}}
+{{problem|nr=3|namn=Hjärnsläpp|grad=7C|typ=Krimp,Slopers,Överhäng|fa=J Smedsaas|landning=4|betyg=1|sopad=J Smedsaas|sittstart=ja|variant=ja|text=På blocket. Sittstart som Tidspress till vänster i överhänget, men fortsätt upp höger längs kanten efter catchen.}}
+| width="250px" |
+{{problem|nr=4|namn=Flextid (aka Dötid)|grad=6C+|typ=Krimp,Överhäng|fa=M Flodin|landning=3|sopad=M Flodin|sittstart=ja|text=Går på blocket. Sittstart vid det stora greppet, klättra upp höger i sprickan.}}
+{{problem|nr=4|namn=Mr Scott|grad=7C+|typ=Krimp,Slopers,Överhäng|fa=S Mooney|landning=4|sopad=S Mooney|sittstart=ja|variant=ja|text=Förlängning av Hjärnsläpp. Sittstart mitt i överhänget vid det stora greppet, klättra vänster in i Hjärnsläpp.}}
+{{problem|nr=4|namn=Spanky assis|grad=7A+|typ=Överhäng|fa=J Smedsaas|landning=4|betyg=2|fadatum=2004-08-01|sopad=J Smedsaas|sittstart=ja|variant=ja|text=På blocket. Sittstart vid det stora greppet, klättra rakt uppför kylskåpet. Morpho.}}
+{{problem|nr=4|namn=Spanky|grad=6C|typ=Överhäng|fa=J Smedsaas|landning=4|betyg=1|fadatum=2004-08-01|sopad=J Smedsaas|variant=ja|text=Ståstarten till Spanky, rakt upp mitt i överhänget med de två kanterna. Morpho.}}
+| width="250px" |
+{{problem|nr=5|namn=Great Wall|grad=6B|typ=|fa=J Luhr / R Hedman|betyg=1|sopad=J Luhr / R Hedman|text=Lister. Grad 6c+ trad.}}
+{{problem|nr=6|namn=Orange Mechanique|grad=6B+|typ=Spricka|fa=J Luhr / R Hedman|betyg=1|sopad=J Luhr / R Hedman|text=Grad 7a trad.}}
+{{problem|nr=7|namn=Masters Edge|grad=5B|typ=Aréte|fa=J Luhr / R Hedman|betyg=1|sopad=J Luhr / R Hedman|text=Grad 6b trad.}}
+{{problem|nr=7|namn=Fan va små de é|grad=6C|typ=Travers H->V|fa=?|sopad=?|variant=ja|text=Vägg. Traversera vänster, avsluta med Great Wall.}}
+{{problem|nr=8|namn=-|grad=3C|typ=|fa=J Luhr / R Hedman|sopad=J Luhr / R Hedman|text=Dieder. Grad 4 trad.}}
+|}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

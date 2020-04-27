@@ -1,0 +1,131 @@
+{{info klippa
+  |lat=59.088781054053605
+  |long=18.280391693115234
+}}
+
+{{komplett}}
+
+[[Bild:Morarna_karta.png|thumb|right|250px]]
+__TOC__
+==Allmänt==
+Brant och imponerande klippa vid vägen till Skälåker ute på Gålö. Klippan, som är som maximalt ca 20 m hög, har ett antal friklättringsleder av hög klass och svårighet. Närmast vägen är klippan brant med stora och runda formationer som uppenbarligen formats av havet. En markant dieder  avgränsar denna utskjutande del från den branta och släta väggen till vänster.
+
+<div style="clear: both"></div>
+
+==Miljö:==
+Väst, öppet för solen. Det finns miljardvis med fästingar i snåren!
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.088781054053605" lon="18.280391693115234" zoom="10" type="map">
+59.088781054053605,18.280391693115234,Morarna
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Morarna
+lat=18280391
+long=59088781
+</slresa>
+</div> 
+
+Kör Nynäshamnsvägen, sväng av mot Dalarö och kör tills du har en lanthandel på höger sida. Sväng höger mot Gålö och efter ca 1km sväng vänster vid skylt Gålö havsbad och Skälåker. Klippan ligger på vänster sida efter ca 3km. Kör in på parkeringen vid fornstigen. Parkeringen ligger på vänster sida strax före hembygdsmuseet (röda byggnader på höger sida av vägen).
+
+<div style="clear:right"></div>
+{{sidbrytning}}
+
+==Leder==
+===Vänstra väggen===
+[[Bild:Morarna-vänster.gif]]
+
+{{led|nr=1|namn=Big boss|grad=7c|längd=8|typ=sport|bultar=3|fa=[[Johan Luhr]][[1991|-91]]|betyg=1|text=Mycket överhängande led med dynamisk klättring}}
+
+{{led|namn=Beavis & Butthead|grad=7+|typ=sport|fa=[[Johan Boman]], [[Jimmy Paladino]][[1998|-98]]|text=Går på kanten}}
+
+{{led|nr=2|namn=Gunde dopad|grad=6+|längd=8|typ=sport|bultar=2|fa=[[Stefan Ösund]], [[Anders Landström]][[1989|-89]]}}
+
+{{led||nr=3|namn=Betongbarn|grad=6+|typ=mix|bultar=1|fa=[[Lennart Swahn]], [[Kay von Damm]][[1994|-94]]}}
+
+
+{{sidbrytning}}
+
+===Huvudväggen===
+[[Bild:Morarna-huvudväggen.gif]]
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=4|namn=Schizoid|grad=7|längd=12|fa=[[Johan Luhr]]|typ=mix|bultar=4}}
+
+{{led|nr=5|namn=Latmasken|grad=6+|längd=12|fa=[[Jan Liliemark]][[1983|-83]]}}
+
+{{led|nr=6|namn=Borrelia|grad=8-/8|längd=14|betyg=1|fa=[[Bogi Palfay]], [[Claes Jelinek]] [[1990|-90]]|typ=sport|text=10m till vänster om Onskans hemvist}}
+
+{{led|nr=7|namn=Feimert betong aktivator|grad=7|längd=20|fa=[[Daniel Bidner]], [[Claes Jelinek]][[1990|-90]]|typ=mix}}
+
+{{led|nr=7a|namn=Feimert betong aktivator direkt|grad=7+/8-|längd=5|fa=[[Johan Luhr]] [[1991|-91]]|typ=sport|bultar=2|text=Boulderproblem}}
+
+{{led|nr=8|namn=Ondskans hemvist|grad=6+/7-|längd=20|typ=trad|betyg=3|fa=[[Jan Liliemark]], [[Jeremy Sheehan]][[1983|-83]]|text=En av de stora klassikerna i stockholm. Välsäkrad med kilar och medelstora friends.}}
+
+{{led|nr=8a|namn=En ond man|grad=7-/7|längd=10|fa=[[Johan Luhr]], [[Rickard Hedman]][[1984|-84]]|typ=trad}}
+
+{{led|nr=9|namn=Ung ofeg|grad=8|längd=20|fa=[[Daniel Bidner]] [[1990|-90]]|typ=mix|text=Start i Onskans hemvist därefter ut höger till liten hylla}}
+
+| width="350px" |
+
+{{led|nr=10|namn=Herr festlige fästing|grad=7b+|längd=20|typ=sport|fa=[[Johan Luhr]] [[1991|-91]]|betyg=2}}
+
+{{led|nr=11|namn=Negerbollar av stål|grad=7a+|längd=20|typ=sport|bultar=5|fa=[[Daniel Bidner]][[1985|-85]]|betyg=2|text=Gemensamt utsteg med En negerleksak}}
+
+{{led|nr=11a|namn=Stor och stark|grad=8|längd=20|typ=sport|betyg=2|fa=[[Johan Luhr]]|text=Samma insteg som Negerbollar av stål, sedan rakt upp}}
+
+{{led|nr=11b|namn=En negerleksak|grad=7a+|längd=20|typ=sport|betyg=2|fa=[[Johan Luhr]], [[Daniel Bidner]] [[1989|-89]]}}
+
+{{led|nr=12|namn=Två killar och en tjej|grad=6/6+|längd=20|fa=JS, [[Johan Luhr]], [[Annikki Liliemark]][[1983|-83]]|typ=trad|text=Hörnet till höger}}
+
+{{led|nr=13|namn=Sumpan|grad=7+/8-|längd=8|fa=[[Johan Luhr]] [[1991|-91]]|typ=mix|bultar=2|text=Väggen till höger}}
+
+{{led|nr=14|namn=Gubben|grad=8-|längd=8|fa=[[Johan Luhr]] [[1991|-91]]|typ=sport|bultar=3|text=Går på lilla väggen övanför Sumpan}}
+|}
+
+{{sidbrytning}}
+===Högra väggen===
+[[Bild:Morarna-högra.gif]]
+
+{{led|nr=15|namn=Sympati för djävulen|grad=7+/8-|längd=15|fa=[[Daniel Bidner]], [[David Fält]], [[Bogi Palfay]] [[1990|-90]]}}
+
+{{led|nr=16|namn=Mördarmohikanen|grad=6/6+|längd=15|fa=[[Daniel Bidner]] [[1985|-85]]|typ=trad}}
+
+{{led|nr=17|namn=Semlan|grad=7+|typ=mix|längd=9|fa=[[Johan Luhr]] [[1990|-90]]|text=På "bullen"}}
+
+{{led|nr=18|namn=Svart sol|grad=7|längd=9|typ=sport|fa=[[Daniel Bidner]] [[1990|-90]]|text=På "bullen"}}
+
+{{led|nr=19|namn=Brutal diciplin|grad=8-/8|längd=16|fa=[[Daniel Bidner]], [[Michael Wegrelius]][[1985|-85]]}}
+
+{{led|nr=19a|namn=Kombinera mera|grad=8/8+|längd=10|fa=[[Johan Luhr]] [[1991|-91]]|betyg=1}}
+
+{{led|nr=20|namn=K-factor|grad=7-|längd=16|typ=trad|fa=[[Pat Littlejohn]], [[Jan Liliemark]][[1984|-84]]}}
+
+{{led|nr=21|namn=Peps på acid|grad=8-/8|längd=16|typ=mix|fa=[[Daniel Bidner]][[1991|-91]]|betyg=1}}
+
+
+{{sidbrytning}}
+===Eldare väggen===
+[[Bild:Morarna-eldare.gif]]
+
+Ligger ca 20m till höger
+
+{{led|nr=22|namn=Eldaren|grad=7-|längd=9|fa=[[Daniel Bidner]], [[Claes Jelinek]] -91|typ=sport|bultar=2}}
+
+{{led|nr=23|namn=ICE|grad=6+|längd=9|fa=[[Daniel Bidner]], [[Claes Jelinek]] -91|bultar=1}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Saknar kolumner]]
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]
+[[Kategori:Trad]]
+[[Kategori:Sport]]
+[[Kategori:Vertikalt]]
+[[Kategori:Överhäng]]

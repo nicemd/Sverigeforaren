@@ -1,0 +1,42 @@
+=Allmänt=
+Det mytomspunna Flurkmark.  {{ledlänk|klippa=Flurkmark|namn=Tunn luft}}, {{ledlänk|klippa=Flurkmark|namn=Superaréten}}, och {{ledlänk|klippa=Flurkmark|namn=Bermudatriangeln}} med dess varianter är väl de finaste problemen här.
+
+=Vägbeskrivning=
+Kör till Flurkmark, sedan norrut mot Tavelsjö. Efter några kilometer är det en skylt mot grottor till vänster.  Följ skyltarna till en stor parkeringsficka på vänster sida om grusvägen, parkera och följ stigen upp mot grottorna.
+
+=Problem=
+
+{{problem|namn=Svågerkärlek|grad=5C|typ=Krimp|fa=Pär & Svågern|landning=2|sopad=Pär & Svågern|text=Första höga väggen på sista vägen mot stenen. Givna väggproblemet till vänster om offwidthen. Kanske lite hårdare för korta.}}
+{{problem|namn=Felix|grad=6A|typ=Mantling,Aréte|fa=Pär & Svågern|landning=1|betyg=1|sopad=Pär & Svågern|sittstart=ja|text=Lågt problem på första väggen precis innan man kommer upp till de andra väggarna. Finaste aréten till vänster. Låg.}}
+{{problem|namn=Jag, Törnrosa|grad=4A|typ=Layback,Jug|fa=Pär Lindholm|landning=2|sopad=Pär Lindholm|text=Till vänster om Svågerkärlek. Litet skitproblem om jag kommer ihåg rätt.}}
+
+----
+Det första blocket man ser när man kommer från parkeringen har en överhängande sida med några OK problem.
+
+{{problem|nr=3|namn=(okänt)|grad=4A|typ=Jug|fa=?|landning=2|sopad=?|sittstart=ja|text=Sittstarten till höger om aréten på stenen. Lite osäker på numret.}}
+{{problem|nr=4|namn=(okänt)|grad=6B|typ=Mantling,Överhäng|fa=?|betyg=2|fadatum=2008-05-14|sopad=?|sittstart=ja|text=Kort och fin.}}
+{{problem|nr=5|namn=(okänt)|grad=6C+|typ=Mantling,Överhäng|fa=?|landning=3|betyg=2|sopad=?|startgrepp=ja|text=Börja i det givna greppet under det massiva underclinget. Grad satt när knälås används.}}
+{{problem|nr=6|namn=(okänt)|grad=6B+|typ=|fa=?|landning=3|betyg=1|fadatum=2008-05-14|sopad=?|sittstart=ja|variant=ja|text=Grad osäker.}}
+{{problem|nr=6|namn=I Stole The Beat|grad=6B|typ=Slopers|fa=Pär Lindholm|landning=3|betyg=1|sopad=Pär Lindholm|variant=ja|text=Lite osäker på numret, tror det går just till vänster om nr 6. Ståstart med några fina sloper-moves.}}
+{{problem|nr=7|namn=(okänt)|grad=5A|typ=Krimp,Slopers|fa=?|landning=2|betyg=2|sopad=?|text=Hög och fin.}}
+{{problem|nr=8|namn=Bermudatriangeln|grad=7B|typ=Överhäng,Heel hook|landning=3|betyg=3|startgrepp=ja|text=Grymt fint takproblem. Startar i prickarna.}}
+{{problem|nr=8v|namn=Breaking Surface|grad=7C+|typ=Krimp,Överhäng|fa=Per Lindmark|landning=3|betyg=3|fadatum=2008-06-15|sopad=Per Lindmark|sittstart=ja|startgrepp=ja|text=Sittstart till Bermudatriangeln. Startar i undercling och går ut till höger.}}
+{{problem|nr=8v|namn=Amplified|grad=8B|typ=Krimp,Överhäng|fa=Per Lindmark|landning=3|betyg=3|fadatum=2008-10-30|sopad=Per Lindmark|sittstart=ja|startgrepp=ja|uteslutningar=ja|variant=ja|text=Starta som '''Breaking Surface''' men gå ut rakt genom taket utan att använda aretet}}
+{{problem|nr=11|namn=(okänt)|grad=6B|typ=|fa=?|sopad=?|text=}}
+----
+Nedanstående problem går på en vägg 40 meter bortanför Bermudataket.  Superaretet är superfint.
+{{problem|namn=Tunn luft|grad=6C|typ=Krimp,Reach|fa=Urban Dufva|landning=3|betyg=1|sopad=Urban Dufva|text=Fin väggklättring, på gränsen till för hög}}
+{{problem|namn=Superaréten|grad=5C|typ=Aréte|fa=TKAK|landning=2|betyg=3|sopad=TKAK|text=Till höger om Tunn luft. Umeås finaste femma!}}
+{{problem|namn=(okänt)|grad=6C+|typ=Överhäng|fa=Ubbe|landning=1|betyg=1|sopad=Ubbe|text=Till höger om superaréten. Låg sittstart, sedan riktigt fina flytt!}}
+{{problem|namn=(okänt)|grad=5C|typ=Krimp|fa=Sofie|landning=2|sopad=Sofie|text=Väggproblemet till vänster om Tunn Luft.}}
+{{problem|namn=(okänt)|grad=5C|typ=Krimp|fa=?|landning=2|sopad=?|text=Väggproblemet just till höger om Tunn Luft.}}
+
+
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar topo]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]

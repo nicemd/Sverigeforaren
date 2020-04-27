@@ -1,0 +1,86 @@
+{{info klippa
+  |lat=59.59461809751466
+  |long=17.532023191452026
+}}
+
+{{utkast}}
+==Allmänt==
+Vackert belägen klippa vid Lilla Ullfjärden, mittemot slalombacken i Bålsta.
+
+På den ca 12 meter höga Nedre väggen finns ett tiotal turer brant fin klättring på röd klippa. Den ca 12 m höga Grottan avslutas med ett 50 graders överhäng som är upp till 5 meter långt. 
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.59461809751466" lon="17.532023191452026" zoom="11" type="map">
+59.59461809751466,17.532023191452026,[[Gladåker]]
+</googlemap>
+</div>
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Baggeby
+lat=18129360
+long=59354220
+</slresa>
+</div> 
+Åk E:18 mot Oslo, sväng av vid 1:a avfarten mot Bålsta, sedan direkt höger. Efter ca 2 km, vänster mot Sättervikshage. Här ska man parkera (det är inte tillåtet att köra in i området. Cykla eller gå vidare.)
+
+==Access {{access}}==
+Om nu någon mot förmodan ändå kör in i militärområdet så observera följande: '''OBSERVERA! Kör aldrig in på den väg som leder in till den röda stugan. Jag har varit i kontakt med markägaren (som bor här) som vänligt men bestämt klargjort att han absolut inte vill se någon bil på hans väg, alls.''' Han har dock inget emot att det klättras på klippan. Markägaren är handlingskraftig och tvekar inte att ta till lagliga medel för att snabbt få undan en eventuell felparkerad bil. 
+
+Parkering ska ske ute vid stora vägen (S. Bålstaleden). Om ni ändå kör in i området (vilket inte är tillåtet), så kan man ställa sig längs med asfaltsvägen ca 200 m förbi infarten till den privata vägen (med risk för att tex få lappar från militären). 
+
+'''Men som sagt, aldrig en bil in på den sista lilla privata vägen som leder fram till stugan.''' 
+Det är lika gott att inte ens gå in på vägen (han har bosatt sig här för att få vara ifred, respekt!). Ta er istället ned till vattnet rakt ned från asfaltsvägen och följ strandlinjen bort till väggen. 
+
+
+<div style="clear:right;"></div>
+
+==Leder==
+
+=== Huvudväggen ===
+[[Bild:gladaker.jpg]]
+{{led|namn=Håkan Bråkan|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Spöket Laban|grad=6c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Ta i|grad=7a|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Hemliga berget|grad=6b|betyg=|längd=|fa=[[SE]], [[JE]]|bultar=1|typ=sport|text=Boulderstart, säkrat med friend placerad från backen, leder upp mot svahylla, sedan brant vägg, med bra grepp, mot toppen. 1bb, firningsankare.}}
+
+{{led|namn=Campus|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Gaz Max|grad=6c+|betyg=|längd=|fa=[[SE]], [[JE]]|bultar=1|typ=mix|text=Brant start på stora grepp. Mot trekantshålet, sedan sprickan mot toppen. 4bb + kil. Fira från tallen. }}
+
+{{led|namn=Crimpkungen|grad=7a|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Jam Jam|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Förbjuden mark|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Svarslös|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Så in i vassen|grad=8a|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=En röd liten stuga|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Pumpilimump|grad=8a|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Mot strömmen|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Projekt 1|grad=?|betyg=|längd=|fa=|bultar=|typ=projekt}}
+
+{{led|namn=Crisp|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+=== Takklippan ===
+[[Bild:Gladakertakklippan.jpg]]
+{{led|namn=Projekt 2|grad=?|betyg=|längd=|fa=|bultar=|typ=projekt}}
+
+{{led|namn=Kalle kanin|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar skrivarformatering]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

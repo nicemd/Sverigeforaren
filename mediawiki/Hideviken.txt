@@ -1,0 +1,83 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+[[Bild:Översikt_Hideviken.jpg|600px]]
+
+==Allmänt==
+Fin boulder i extremt vacker miljö. Klippan, vilken ligger östvänd, erbjuder klättring i alla svårighetsgrader och är solbelyst till mitt på dagen. Området är naturreservat så var noga med att inte förstöra något och ta med allt skräp därifrån. Läs informationstavlan. Grillplats finns alldeles intill. Området är för närvarande indelat i tre sektorer: Övre Delen, Taken, och Barbeque Garden.
+
+==Vägbeskrivning==
+Några kilometer norr om Slite, sväng höger mot Hellvi. Efter ca 6 km, sväng höger mot Hide. Höger efter några km in på Stengrindevägen (OBS! Kör sakta på grusvägen så det inte dammar ner sommarstugorna). Följ vägen och åk inte ner till det lilla fiskeläget utan håll höger och efter ca 500 meter så syns klippan. Parkera uppe i skogen och gå sista biten.
+
+==Boende==
+Hidevikens Campingplats ligger längst in i östra delen av viken. Om denna är stängd finns fina tältmöjligheter nere vid vattnet på östra sidan av viken, söder om stenbrottet (Hidebrottet). Här gäller allemansrätten.
+
+
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+'''ÖVRE DELEN'''
+{{led|namn=Hej Bullen|grad=4|fa=[[David Skoog]] -13|text= Sittstart med två ganska fina grepp. Rakt upp.}}
+
+{{led|namn=Fleexmastas heelhook|grad=5A|fa=[[Felix Lorentzén]] -13|text= Sittstart med två ganska fina grepp. Rakt upp.}}
+
+{{led|namn=Thairauken|grad=6A|fa=[[Malte Åberg]] -13|text= Sittstart med sidogrepp för höger och crimp för vänster. Sen upp med tydliga slopes och pockets.}}
+
+
+'''TAKEN'''
+{{led|namn=Hets|grad=5A|fa=[[Per Bäckström]] -12|text= Långt till vänster, några meter från nedstigningen. Sittstart och vidare rakt upp på bra grepp, urtoppning.}}
+
+{{led|namn=Sad Cypress|grad=7A+|fa=[[Martin Sjölin]] -13|text=Sittstart}}
+
+{{led|namn=Vandal|grad=6B+|fa=[[Martin Sjölin]] -13|text=Start in the big hold in the middle of the roof and reach for the edge. Varning! The big flake at the top-out might not hold. Go up on the left.}}
+
+{{led|namn=May the fourth be with you|grad=7B|betyg=3|fa=[[Magnus Nilsson]] -13|text=Ståstart på hyllan och rakt ut.}}
+
+
+'''BARBEQUE GARDEN'''
+
+{{led|namn=Presenten|grad=6B+|betyg=2|fa=[[Helena Lundgren]] -13|text= Högersidan på det stora utskjutande blocket ovanför grillplatsen.}}
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Gotland]]

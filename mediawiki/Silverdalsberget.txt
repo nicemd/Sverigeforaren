@@ -1,0 +1,68 @@
+{{info klippa
+  |lat=57.54111
+  |long=15.77827
+}}
+<!-- OBS! Positionen är en gissning baserat på vägbeskrivningen.-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Gammalt klätterberg utanför Hultsfred som under 2010 försetts med nya sportleder. Korta leder, 7-10 m långa. 11 bultade leder som beskrivs nedan, dessutom finns ca 10 tradturer. Alla leder inkl topos kommer att finnas med i den nya föraren över Småland.
+
+==Vägbeskrivning==
+Kör in på väg 129 mellan Mariannelund och Hultsfred. Ungefär 0,5 km söder om Silverdalen svänger man österut mot Bredshult. Kör 100 m, över Silverån, och kör därefter in på en grusväg till vänster. Kör 400 m tills du kommer till en T-korsning med ett par brevlådor. Sväng vänster och parkera bredvid vägen. Gå rakt upp från T-korsningen på en skogsmaskinsväg ca 400 m. Vägen löper längs vänsterkanten av den inhägnade hagen. När terrängen börjar bli brantare delar sig skogsmaskinsvägen. Gå åt vänster och fortsätt ca 400 m. När terrängen planar ut och brantheten avtar kan du se berget rakt fram. Håll åt höger och skogsmaskinsvägen övergår till en vag stig som leder fram genom ormbunkarna till bergets högra sida. 
+
+OBS! Positionen på kartan är en gissning baserat på vägbeskrivningen.
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.54111" lon="15.77827" type="map" controls="small" zoom="13">
+57.54111, 15.77827, Klippan
+57.53714, 15.78125, Parkering
+</googlemap>
+</div>
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Öppet projekt|grad=?|typ=sport|längd=7|text=Går längst t v på en liten överhängande vägg}}
+{{led|nr=2|namn=Avkristnad|grad=7b+|typ=sport|längd=7|fa=[[Andreas Harne]] -10|text=Fingrig och teknisk och kanske lite lättare än 7b+. Samma ankare som föregående led.}}
+{{led|nr=3|namn=Inget för bibeltrogna|grad=7a|typ=sport|längd=8|fa=[[Andreas Harne]] -10|text=Lite lös i början, fin i slutet.}}
+{{led|nr=4|namn=Drive-by shooting|grad=6a|typ=sport|längd=12|fa=[[Andreas Harne]] -10|text=Längst t v på en vertikal vägg.}}
+{{led|nr=5|namn=Lost in civilization|grad=6a+|typ=sport|längd=10|fa=[[Andreas Harne]] -10|text=Går i mitten av den vertikala väggen.}}
+{{led|nr=6|namn=Underdog|grad=6a|typ=sport|längd=10|fa=[[Andreas Harne]] -10|text=Längst t h på den vertikala väggen. Följer en arête.}}
+{{led|nr=7|namn=Hedningen|grad=5a|typ=sport|längd=9|fa=[[Andreas Harne]] -10|text=Tydlig spricka på ett sva.}}
+{{led|nr=8|namn=Röster från underjorden|grad=5c|typ=sport|längd=9|fa=[[Andreas Harne]] -10|text=Går mitt på svaet.}}
+{{led|nr=9|namn=Himlen nästa|grad=5a|typ=sport|längd=7|fa=[[Andreas Harne]] -09|text=Bultad boulderled uppe vid toppen av berget.}}
+{{led|nr=10|namn=Getingen|grad=5c|typ=sport|längd=9|fa=[[Andreas Harne]] -10|text=Tätt bultad led långt till höger på berget.}}
+{{led|nr=11|namn=Flaksak|grad=4b|typ=sport|längd=9|fa=[[Andreas Harne]] -10|text=Följer ett markant flak. Långt till höger på berget.}}
+
+| width="350px" |
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

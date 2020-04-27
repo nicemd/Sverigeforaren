@@ -1,0 +1,13 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Little Jug|grad=6A|typ=Krimp,Slopers|fa=Björn Knutsson|landning=3|betyg=1|fadatum=2003-04-02|sopad=Björn K|sittstart=ja|startgrepp=ja|text=Kort problem där kruxet är starten. Start på crimp för höger hand och v hand lägre på slope. Gå rakt upp.}}
+{{problem|namn=Klippis|grad=6A+|typ=|fa=Björn Knutsson|landning=5|betyg=1|fadatum=2003-04-02|sopad=Björn Knutsson|text=Teknisk. Ngt hög på slutet men ingen större fara.}}
+{{problem|namn=Karamellen|grad=5C|typ=Krimp,Travers H->V|fa=Björn Knutsson|landning=3|fadatum=2003-04-02|sopad=Björn Knutsson|startgrepp=ja|text=Start på hylla som kommer att markeras. Traversera åt vänster. Samma avslut som little Jug.}}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

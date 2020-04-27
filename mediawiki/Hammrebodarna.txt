@@ -1,0 +1,47 @@
+{{isutkast}}
+
+== Allmänt ==
+Hammrebodarna är beläget på Vätabergets östsida ca 20km söder om Sundsvall.
+
+För aktuellt isläge/övriga frågor kontakta [http://www.sundsvallsklatterklubb.se Sundsvalls Klätterklubb].
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="62.28206" lon="17.18249" zoom="11" type="map">
+62.28206,17.18249,Hammrebodarna
+</googlemap>
+</div>
+ 
+Åk till Njurundabommen 20km söder om Sundsvall efter E4. Ta av vägen mot Ängom, följ vägen 3.4km och sväng höger mot Sörfors. Kör ytterligare 7km innan du tar höger mot Hammrebodarna. Kör 1km tills du kommer till en T-korsning där du tar vänster. Tänk på hur du parkerar så du inte stör de som bor där!
+
+Anmarschen tar ca ??min beroend på snöläget. Följ berget ut åt vänster (söderut) så kommer ni se isarna.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Klättringen ==              
+Ett antal isfall i varierad längd och tjocklek. Finns även ett överhäng med boulderisar.
+
+[[Bild:Hammrebodarna.JPG|thumb|725px|center|Hammrebodarna, jan 2011. Foto: Jonas Bäckström]]
+
+== Accessinformation ==
+Inga accessproblem föreligger för tillfället, men när ni parkerar se till att inte hindra ev. passerade trafik.
+
+[[Kategori:Medelpad]]

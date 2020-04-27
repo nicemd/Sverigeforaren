@@ -1,0 +1,109 @@
+{{info klippa
+  |lat=57.75923
+  |long=12.02543
+}}
+
+{{utkast}}
+<googlemap lat="57.75923" lon="12.02543" zoom="9" type="map">
+57.75923,12.02543,Kortedala
+</googlemap>
+==Allmänt==
+Det finns några gjorda leder med lite ovanlig klättring. Dessutom finns det potential för några leder till på väggarna runt omkring huvudklippan. Klippan ligger i en vacker lövskog och det finns en bågskyttebana framför huvudklippan. 
+
+==Vägbeskrivning==
+Parkera bakom Kortedala brandstation, promenera ner för backen ca. 400 meter tills du får syn berget på höger sida av vägen. Kollektivt, åk spårvagn och kliv av vid Kortedala torg. Följ Tideräkningsgatan i riktning mot Angered tills du ser brandstationen, fortsätt förbi brandstationen ca. 400 meter tills du får syn på berget på höger sida av vägen. Total promenadsträcka ca. 1 km.
+
+För att komma till Burmaklippan och till dem söder om denna kan man antingen följa kraftledningen från kolonilotterna eller leta sig ner till dem via stigarna från brandstationen eller från Dagjämingsgatan. Parkera inte vid kolonilotterna.
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+== Översikt ==
+
+[[Bild:Kortedala_översikt.png]]
+
+==Vänstra väggen==
+Inga leder är utvecklade på denna vägg, ca. 10 meter högt. 
+
+[[Bild:Kortedala_vanster.jpg]]
+
+==Bågskytteväggen==
+Väggen bakom bågskyttebanorna. Berget är ca. 15-18 meter högt och ungefär 100 meter brett. Göteborgsföraren ger en bra hänvisning och det går lätt att hitta lederna. 
+{{led|namn=Hole in the wall|grad=5|typ=trad|fa=Tomas Machek & Petra Machek|text=Nästan längst till vänster på huvudväggen ser du två märkliga hål. Leden går emellan dessa hål och upp på en hylla, vidare till toppen. }}
+{{led|namn=Amors Pilar|grad=5|fa=Tomas Machek & Petra Machek|text=Startar rakt nedanför högerkanten av den hyllan som också är Hole in wall, och rakt upp.}}
+{{led|namn=Sherwood|grad=5|fa=Jan Machek & Hanna Machek|text=}}
+{{led|namn=Wilhelm Tell|grad=5|fa=Jan Machek & Hanna Machek|text=Startar vid ett träd}}
+{{led|namn=Robin Hood|grad=5-|fa=Tomas Machek & Hanna Machek|text=}}
+{{led|namn=Roaring Forties|grad=6+|fa=Jan Machek & Tomas Machek & Anton Malak|text=Går igenom sprickan som klyver taket. }}
+{{led|namn=Moaning Fifties|grad=4+|fa=Anton Malak}}
+
+==Högra väggen==
+Den första lilla vägg du ser när du kommer från Tideräkningsgatan. Bör kanske kallas Tidräkningsväggen? Ungefär 10 meter högt. Potential finns för fler leder och boulderproblem. Se upp för ilskna myror.
+
+[[Bild:kortedala_hoger.jpg]]
+{{led|namn=Parti och minut|fa=Viktor Söderqvist, Marcus Bengtsson 2013-05-01|typ=trad|grad=6-|längd=9|ny=1}}
+{{led|namn=Stup i kvarten|fa=Viktor Söderqvist, Marcus Bengtsson 2013-05-01|typ=trad|grad=6-|längd=7|ny=1}}
+
+[[Kategori:Göteborg]]
+
+==Burmaklippan==
+
+[[Fil:Burmaklippan.jpg]]
+
+Parkera vid brandstationen, gå ner till koloniområded och följ krafledningarna. Parkera inte i koloniområdet. Alternativt, gå från Dagjämningsgatan genom skogen.
+{{led|namn=?|typ=projekt|grad=?}}
+{{led|namn=Burma|grad=7a|typ=sport|fa=Stefan Norman}}
+{{led|namn=Arboristen|typ=sport|grad=6a+|ny=1}}
+{{led|namn=En 23-årings kropp men mentalt retarderad|typ=trad|grad=5-|ny=1}}
+{{led|namn= Burmahörnet|typ=sport|grad=6b-6c|ny=1}}
+{{led|namn=In i slotten|grad=6c+|typ=sport|ny=1}}
+{{led|namn=Ung och svag|grad=6b/6b+|typ=sport|ny=1}}
+{{led|namn=Elliots led|grad=5c/6a|typ=sport|ny=1}}
+
+==Linjelusta-klippan==
+
+[[Bild:Kortedala_Linjelusta-klippan.jpg|500px]]
+
+{{led|namn=Automatsäkring|fa=Jonas Lyckegård, Markus Lyckegård & Viktor Söderqvist 2013-05-01|typ=trad|grad=5|ny=1}}
+{{led|namn=Kamin|fa=Jonas Lyckegård, Viktor Söderqvist & Markus Lyckegård 2013-05-01|typ=trad|grad=5-|ny=1}}
+{{led|namn=Lågspänning|fa=Viktor Söderqvist, Markus Lyckegård & Jonas Lyckegård 2013-05-01|ny=1|grad=5+}}
+{{led|namn=Första leden|grad=4|fa=Markus Lyckegård, Jonas Lyckegård & Viktor Söderqvist 2013-05-01|grad=4|typ=trad|ny=1}}
+{{led|namn=Linje lusta|grad=6a+|fa=Håkan Thyr|typ=sport}}
+
+===TARDIS-väggen===
+
+Fortsätter man 100 meter mer söderut dyker ytterligare en vägg upp, samma höjd och lutning som de övriga, men bredare. Hit tar man sig enklast från Dagjämningsgatan.
+
+Följ stigen från Dagjämningsgatan ner för backen tills du kommer till ett rostigt stängsel. Där ligger följande leder:
+
+{|
+|
+{{led|namn=Den gröna sfinxen|fa=Viktor Söderqvist, Jonas Lyckegård 2013|typ=trad|grad=6|längd=10|betyg=1|ny=1}}
+{{led|namn=Den röda rosen|fa=Jonas Lyckegård, Viktor Söderqvist 2013|typ=trad|grad=5|längd=15|betyg=1|ny=1}}
+{{led|namn=Den vita kråkan|fa=Viktor Söderqvist, Jonas Lyckegård 2013|typ=trad|grad=6-|längd=15|betyg=2|ny=1}}
+|}
+
+Dessa leder ligger ca 50 meter till höger om de föregående lederna:
+
+{|
+|
+{{led|namn=Time vortex|fa=Tove Hansson, Viktor Söderqvist|fadatum=2013|typ=trad|grad=5+|längd=15|ny=1
+  |text=Minikamin eller bred spricka.}}
+{{led|namn=Face of Boe|fa=Viktor Söderqvist, Tove Hansson|fadatum=2013|typ=trad|grad=6-|längd=15|ny=1
+  |text=Via en grotta till ett dieder med en fin spricka som följs förbi ett litet tak och upp på facet. Korsa sedan Time vortex och gå rakt upp via hyllor.}}
+|}
+
+Dessa leder ligger ca 50 meter till höger om föregående lederna, ungefär där stigen är som brantast:
+
+{|
+|
+{{led|namn=Dalek|fa=Viktor Söderqvist, Tove Hansson 2013|typ=trad|grad=6-|längd=10|ny=1}}
+{{led|namn=Kortaste vägen upp|fa=Viktor Söderqvist 2013|typ=solo|grad=5|längd=5|ny=1}}
+{{led|namn=Omnejd|fa=Viktor Söderqvist 2013|typ=trad|grad=5-|längd=10|ny=1}}
+|
+{{led|namn=TARDIS|fa=Viktor Söderqvist, Jonas Lyckegård 2013|typ=trad|grad=6-|betyg=3|längd=15|ny=1}}
+{{led|namn=Déjà vu|fa=Jonas Lyckegård, Viktor Söderqvist 2013|typ=trad|grad=5|längd=15|ny=1}}
+|}
+
+=== Kalendervägen ===
+
+Vid Kalendervägen 38 i Kortedala finns tre tradleder. De finns markerade med T1, T2 och T3 på en topo på Gbg bouldering online tillsammans med ett antal boulderproblem. Se [http://gbo.crimp.se/omraden.php?oid=13&sid=47 Kortedala > Kalendervägen på GBO].

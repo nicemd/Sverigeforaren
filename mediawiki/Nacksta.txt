@@ -1,0 +1,26 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Da lil Gangsta|grad=4C|typ=Travers H->V|fa=Jon Kågström|landning=3|betyg=1|fadatum=2001-05-18|sopad=Jon Kågström|sittstart=ja|text=Traversera nerifrån åt vänster och upp över bullen.}}
+{{problem|namn=Da gansta|grad=5C|typ=Travers H->V|fa=Jon Kågström|landning=3|betyg=1|fadatum=2001-05-18|sopad=Jon Kågström|text=Samma som Da lil Gansta fast med bamse juggen strax till höger om bullen.}}
+{{problem|namn=Da addict|grad=5A|typ=Aréte|fa=Jon Kågström|landning=3|betyg=1|fadatum=2001-05-18|sopad=Jon Kågström|sittstart=ja|text=Sittstart till vänster om bullen, gå upp via arêten.}}
+{{problem|namn=Da Afro Pimp|grad=5B|typ=Krimp|fa=Jon Kågström|landning=3|betyg=1|fadatum=2001-05-18|sopad=Jon Kågström|sittstart=ja|text=Sittstart, rakt upp.}}
+| width="250px" |
+{{problem|namn=Da Ghetto|grad=5C|typ=Krimp|fa=Jon Kågström|landning=3|betyg=2|fadatum=2001-05-18|sopad=Jon Kågström|sittstart=ja|text=Sittstart med sidepull/slope greppet. Gå upp snett till vänster.}}
+{{problem|namn=Nacksta Kickers|grad=6B|typ=Krimp,Mantling|fa=Jon Kågström|landning=4|betyg=1|fadatum=2001-05-18|sopad=Jon Kågström|sittstart=ja|text=Sittstart längst till vänster på stenen gå rakt upp och traversera sedan åt höger och mantla.}}
+{{problem|namn=Jons Dillema|grad=5C|typ=Slab|fa=Robin Persson|landning=3|betyg=1|fadatum=2002-07-25|sopad=Jon Kågström|text=Inga händer, rakt upp.}}
+| width="250px" |
+{{problem|namn=Da Glock|grad=4C|typ=Travers H->V|fa=Jon Kågström|landning=3|betyg=1|fadatum=2001-06-18|sopad=Jon Kågström|text=Traversera runt halva stenen, börja vid stubben.}}
+{{problem|namn=Hand on the pump|grad=6A|typ=Krimp,Mantling|fa=Jon Kågström|landning=3|betyg=1|fadatum=2001-08-18|sopad=Jon Kågström|sittstart=ja|text=Bänglig sittstart under stenen på två crimpers. Sedan rakt upp.}}
+{{problem|namn=Bong|grad=5A|typ=Aréte|fa=Jon Kågström|landning=3|fadatum=2001-07-01|sopad=Jon Kågström|sittstart=ja|text=Sittstart, rakt upp.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

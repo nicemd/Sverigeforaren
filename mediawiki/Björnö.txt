@@ -1,0 +1,87 @@
+{{info klippa
+  |lat=59.224272
+  |long=18.540115}}
+
+{{boulderkomplett}}
+[[Bild:Bjorno.jpg|thumb|400px|right|Vänstra sidan av Björnö]]
+
+Liten fin bouldervägg vid Björnö Naturreservat, Ingarö. Problemen startar överhängande och slutar på sva. 5-8m hög? Fin stenkvalité. Rymmer kanske 10 problem och är förmodligen inte värd en längre resa.
+
+OBS! Graderna är troligtvis helt felaktiga!!
+
+Tråd på [http://www.bloxc.com/forum/viewtopic.php?t=1528 Bloxc] som även nämner en annan boulderklippa på Björnö.
+
+<div style="clear:both;"></div>
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.243766" lon="18.516083" type="map">59.224272, 18.540115, Björnö</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Björnö
+lat=18540115
+long=59224272
+</slresa>
+</div> 
+
+Värmdöleden 222 avfart Ingarö.
+Kör igenom Brunn och fortsätt rakt fram mot Björkvik. En bit innan Björkviks brygga, sväng vänster vid skylt Björnö Naturreservat. Klippan ligger på vänster sida 50m före första farthindret.
+
+<div style="clear:both;"></div>
+
+==Boulderproblem==
+[[Bild:bjorno_niclas.jpg|thumb|300px|right|Niclas på Fröken Fröken]]
+[[Bild:björnö.gif]]
+
+{{led|namn=Cookiemonster Dave|grad=4|fa=[[user:Peblin|Per Lindh]] -07|text=Längst till vänster, på korta väggen. Sittstart, följer alla tre fingersprickorna.}}
+{{led|nr=1|namn=Blåbärskungen|grad=6b+|text=Sittstart från jug upp till grästuvan|fa=[[user:Niclas|Niclas Emdelius]] -07}}
+{{led|nr=2|namn=Inskolning|grad=5|text=Från stora underklinget upp till tuvan|fa=[[user:Niclas|Niclas Emdelius]] -07}}
+{{led|nr=3a|namn=Fröken Fröken|betyg=2|grad=7a?|fa=[[user:Niclas|Niclas Emdelius]] -08|text=Sittstart upp till juggen sedan tunna sprickan till vänster och avslutning i Inskolning}}
+
+{{led|nr=3b|namn=Frökens Frökens äldre syster|grad=hård|fa=|typ=projekt|text=Fröken fröken men fortsätt ända upp utan att använda juggarna i Inskolning. Lång och hög.}}
+
+{{led|nr=4|namn=Herr Pedagog|grad=6a?|text=Sittstart upp till juggen och vidare upp till höger|fa=[[user:Niclas|Niclas Emdelius]] -07|typ=boulder}}
+
+
+==Mera==
+
+
+Det finns en till Bouldervägg inne i Björnö Naturreservat. Parkera vid stora parkeringen sedan följ vägen förbi några hus tills Du kommer till en skarp högersväng. Går ner grusstigen som går åt vänster i ca. 300m och Du är framme.
+
+OBS: Detta är ett Naturreservat, snälla ta med Dig ditt skräp och försök att ta bort kritan o tickmärken! Tack.
+
+
+<googlemap version="0.9" lat="59.231276" lon="18.552861" type="map" zoom="16">
+59.230672, 18.552496, Björnö 1
+</googlemap>
+
+==Björnö 1==
+
+[[Bild:Sektor1a.jpg|600px]]
+
+Överblicksbild
+
+
+[[Bild:Sektor1b.jpg|600px]]
+
+{{led|namn=??|grad=6A+|fa=[Fredrik] -2012|text=Gröna linjen. Startar vid en inkilad sten, lätt trv. till vänster och upp.}}
+
+{{led|namn=Easy Come, Easy Go|grad=7A+|fa=[Björn Pohl] -2012|text=Samma start som ovan fast rakt upp, orepeterad då ett nyckel grepp försvann.}}
+
+{{led|namn=Gubbröra|grad=6B+|fa=[Björn Pohl] -2011|text=Röda linjen, assis.}}
+
+[[Bild:Sektor1c.jpg|600px]]
+
+{{led|namn=Medvind assis|grad=7B+|fa=[Björn Pohl] -2012|text= (röd)startar långt ner med en hand på en klyka, sedan snett upp med hjälp av vänster aretén.}}
+
+{{led|namn=Medvind vänster|grad=6C|fa=[Fredrik?] -2012|text= (grön) startar i etablerad start mera till vänster, 3 flytt tills man kommer in till Medvind assis}}
+
+{{led|namn=La Grande Marche á Björnö|grad=7A+|fa=[Fredrik Sydstrand] -2012|text=?. Sprickan?}}
+
+
+
+[[Category:Bouldering]]
+[[Category:Oklättrat]]
+[[Category:Stockholm]]
+[[Category:Nacka-Värmdö]]

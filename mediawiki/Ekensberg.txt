@@ -1,0 +1,35 @@
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+
+
+=Allmänt=
+
+Litet område med viss utvecklingsmöjlighet. Det finns både hårt och lite längre (blocket med jaktstugan) och lågt och lätt att borsta fram.
+
+=Vägbeskrivning=
+
+Lättast att nå med cykel via Hågavägen eller Lurbovägen.
+
+<googlemap version="0.9" lat="59.817917" lon="17.56270" type="map" zoom="12" width="500" height="300">
+59.817917, 17.5627, Ekensberg
+</googlemap>
+
+=Bild=
+
+[[Bild:Dhfjn.jpg]]
+
+=Problem=
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Den här flashar jag nog|grad=6A|typ=Vägg|fa=H Skoog|landning=5|betyg=1|fadatum=2009-08-29|sopad=H Skoog, M Carlsson|sittstart=ja|text=Sittstart mellan stubbarna och sedan rakt upp mot stenens högsta punkt via krimpar, slopers och en fin pocket.}}
+| width="250px" |
+{{problem|namn=First ascent, yay!|grad=4|typ=Slab|fa=M Carlsson|landning=3|betyg=0|fadatum=2009-08-29|sopad=H Skoog, M Carlsson|text=Går på det väldigt svaiga svaet på en av stenarna närmast vägen, på kalhygget norr om "Den här flashar jag nog"}}
+| width="250px" |
+|}

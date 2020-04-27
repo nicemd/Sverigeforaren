@@ -1,0 +1,122 @@
+{{info klippa
+  |lat=56.09561
+  |long=13.74886
+}}
+
+{{Komplett}}
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="56.095611" lon="13.74886" zoom="10" type="map">
+56.09561,13.74886,Tormestorp
+
+</googlemap>
+</div>
+
+== Allmänt ==
+
+En liten och kanske inte så väldigt betydelsefull klippa. Men har man vägarna förbi kan det kanske vara av intresse. Området består av tre väggar och två större flyttblock.
+Boulderväggen är något lägre, ca 5-6 m som högst, medan huvudväggen och nedre väggen är ca 10 m höga.
+Klättringen är av karaktären väggklättring strax under 90 grader, mestadels på små lister.
+Klippan har vid torrt väder mycket fin friktion. Att tänka på är att den torkar långsammt och behöver minst en varm sommardag för att torka upp. Boulderblocken är kanske inte så mycket att hänga i julgranen med dagens mått på bouldering.
+Förutom de tre väggarna i "Stora Tormestorp" finns en mindre vägg. Klippkvalitén på denna är mycket god, men klippan är dessvärre mycket svår att finna.
+
+== Hitta hit ==
+
+Kör E22 från Lund/Malmö norrut. I Rollsberga tar du av på väg 23 mot Växjö. Passera Höör. Några km innan Hässleholm tar du av mot Hovdala slott och Tormestorp(väg 117?). Efter några km tar du höger in mot Tormestorp. Vägen gör en lång vänstersväng. Vid svängens slut går en liten väg in åt höger. Följ denna förbi något hus, några svängar och någon träddunge. Snart tar vägen mer eller mindre slut i samband med den igenmurade porten till det gamla militära bergrummet. Parkera här. Följ sedan den branta skogen upp och snett åt höger i kanske 300 meter. Den förtsa väggen du kommer till är C-väggen. Lilla Tormestorpsklippan kan vara svår och tålamodsprövande att hitta i den täta lövskogen. I runda slängar kan man säga att den ligger 600 meter nord/nordöst från de andra väggarna.
+
+[[Bild:Tormestorp_Karta4.gif]]
+
+== Stora Tormestorp ==
+
+[[Bild:tormeoversikt.gif]]
+
+* 1 Boulderväggen
+* 2 Huvudväggen
+* 3 Nedre väggen
+* 4 Boulderblocken
+
+Klippan sedd nerifrån. Det finns upp/nedstigningsleder vid sidan av varje vägg.
+Till boulderblocken går man från klippan snett nedåt vänster i backen ca 100m
+
+==== Boulderväggen ====
+
+[[Bild:tormebouldervaggen.gif]]
+
+{{led|nr=1|namn=Namnlös|grad=3+|betyg=|längd=
+ |fa=Okänt|bultar=|typ=|text=Stora sprickan rakt upp till trädet}}
+
+==== Huvudväggen ====
+
+[[Bild:tormehuvudvaggen.gif]]
+
+{{led|nr=1|namn=Namnlös|grad=4|betyg=|längd=
+ |fa=Okänt|bultar=|typ=trad|text=Areten till vänster om diedern till hyllan, därefter snett till höger till vänstra firningsbulten}}
+
+{{led|nr=2|namn=Namnlös|grad=5|betyg=|längd=
+ |fa=Daniel Ehman 93|bultar=|typ=trad|text=Samma insteg som led 1, därefter rakt upp för väggen till underdelen av flaket. Klättra över flaket rakt mot vänstra firningsbulten. Risigt säkrad}}
+
+{{led|nr=3|namn=Microlax|grad=6|betyg=1|längd=
+ |fa=Patrik Lind|bultar=|typ=|text=Starta vid den lilla bullen rakt under bulten. Gå rakt upp mot bulten via små lister utan att använda nicodemus grepp. Vid bladbulten (om den finns kvar...) något vänster och sedan rakt mot nicodemus utsteg.}}
+
+{{led|nr=4|namn=Nicodemus|grad=5|betyg=1|längd=
+ |fa=Daniel Ehman|bultar=|typ=trad|text=Gå i den lilla fingersprickan rakt upp mot flaken till vänster om 3:e firningsbulten från vänster. Välsäkrad med kilar}}
+
+{{led|nr=5|namn=Tormestorpsleden|grad=5+|betyg=|längd=
+ |fa=Patrik Lind|bultar=1|typ=mix|text=Starta ca 1,5 m till höger om Nicodemus. Rakt upp mot borrbulten, därefter svagt höger till tvärsprickan. Denna följs till vänster, till Nicodemus utsteg. Säkras med kilar och någon friend i tvärsprickan }}
+
+{{led|nr=6|namn=Nozinal|grad=6-|betyg=1|längd=
+ |fa=Patrik Lind|bultar=|typ=trad|text=Starta 1 m till höger om Tormestorpsleden och gå i rak linje uppåt}}
+
+{{led|nr=7|namn=Namnlös|grad=?|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=Följ stora sprickan rakt upp åt vänster}}
+
+{{led|nr=8|namn=Klassikern|grad=6|betyg=2|längd=
+ |fa=Patrik Lind|bultar=|typ=trad|text=Rakt upp till höger om taket via den tunna sprickan}}
+
+{{led|nr=9|namn=Mallorol|grad=6-|betyg=|längd=
+ |fa=Patrik Lind|bultar=|typ=trad|text=Starta 2 m till höger om klassikern och klättra utmed aretén. Säkras med kilar}}
+
+==== Nedre väggen ====
+
+[[Bild:tormenedrevaggen.gif]]
+
+{{led|nr=1|namn=Ugglor i mossen|grad=5+|betyg=|längd=
+ |fa=Daniel Ehman 93|bultar=|typ=trad|text=Rakt upp på den släta väggen bakom det stora blocket på marken. Säkras med en friend på mitten}}
+
+==== Boulderblocken ====
+
+[[Bild:tormesblocken.gif]]
+
+{{led|nr=1|namn=Folköl och dunkadunka|grad=6-|betyg=|längd=
+ |fa=Benjamin Ehman 92|bultar=|typ=trad|text=Rakt upp vid det skuggade partiet, till svaet och vidare upp i diedern till toppen. Säkras med kilar}}
+
+{{led|nr=2|namn=Myggvrål|grad=6|betyg=|längd=
+ |fa=Daniel Ehman 92|bultar=|typ=sport|text=Rakt upp till borrbult, därefter sprickan till toppen}}
+
+{{led|nr=3a|namn=Banal konfekt|grad=6|betyg=|längd=
+ |fa=Patrik Lind 91|bultar=|typ=|text=Samma insteg som myggvrål till tvärsprickan, sedan ut på hörnet och upp över taket}}
+
+{{led|nr=3b|namn=Variant|grad=7-|betyg=|längd=
+ |fa=Patrik Lind 91|bultar=|typ=|text=Insteg på hörnet och sedan rakt upp till orginalleden}}
+
+{{led|nr=4|namn=Diedern|grad=6|betyg=|längd=
+ |fa=Daniel Ehman 91|bultar=|typ=|text=Följ den stora diedern rakt upp}}
+
+{{led|nr=5|namn=Boulder|grad=?|betyg=|längd=
+ |fa=Patrik Lind|bultar=|typ=|text=Traversera det lilla taket fram och tillbaka. Tungt och överhängande.}}
+
+{{led|nr=6|namn=Boulder|grad=?|betyg=|längd=
+ |fa=Patrik Lind|bultar=|typ=|text=Gå genom taket i högerkanten och snedda sedan ut åt höger}}
+
+{{led|nr=7|namn=Boulder|grad=Projekt?|betyg=|längd=
+ |fa=|bultar=|typ=|text=Korsa taket där det är som högst (på två lister), sedan rakt upp}}
+
+== Lilla Tormestorp ==
+
+[[Bild:Lillatormes.gif]]
+
+{{led|nr=1|namn=Tupperware|grad=7+|betyg=2|längd=
+ |fa=Patrik Lind 91|bultar=1|typ=Sport|text=Tunn klättring säkrad med en borrbult}}
+
+{{led|nr=2|namn=Namnlös|grad=5-|betyg=|längd=
+ |fa=Daniel Ehman 91|bultar=1|typ=Sport|text=Till höger om Tupperware. Säkras med en borrbult och en kil till utsteget}}
+[[Kategori:Skåne]]

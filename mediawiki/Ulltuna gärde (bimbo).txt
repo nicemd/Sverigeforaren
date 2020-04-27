@@ -1,0 +1,13 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Ulltunatraversen|grad=7A+|typ=Travers V->H|fa=Luhr eller Hedman|sopad=Luhr eller Hedman|sittstart=ja|text=traversera hela väggen vänster till höger.}}
+{{problem|namn=Albatross|grad=7A|typ=|fa=?|sopad=?|sittstart=ja|text=Sittstart höger om diedret.}}
+{{problem|nr=1|namn=Uncas bitts|grad=5A|typ=Krimp|fadatum=2007-10-04|text=Ett mindre block 5 min söder om gärdetväggen. Vid cyckelvägen precis innan Lilla Sunnersta.Södra delen av blocket. Bra som uppvärmning inför gärdetväggen}}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

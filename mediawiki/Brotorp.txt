@@ -1,0 +1,57 @@
+{{boulderstub|extern=nej}}
+
+==Allmänt==
+Det finns tre intressanta väggar. En överhängande del som ligger skuggigt och myggigt till, en fin del i en "amfiteater" vid en grillplats, samt slutligen en liten svaklippa. 
+Problemen har utvecklats av olika personer genom åren.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.271451" lon="18.145080" zoom="13" type="map" controls="small">
+59.271451,18.145080,[[Bagarmossen]]
+</googlemap>
+</div>
+
+Tunnelbanan är grön linje 17 mot Skarpnäck och stationen heter Bagarmossen eller Skarpnäck.
+
+Ta dig till Brotorpstugan på kanten till Nackareservatet mellan Bagarmossen och Skarpnäck. 
+Kommer du med bil går det att parkera i slutet av Klarälvsvägen (om du gör det snyggt). Ta sedan gångvägen rakt ut i Nackareservatet så kommer du ner mot stugan.
+
+Från stugan går en grusväg som leder till Älta, gå denna över ån och rakt fram. När vägen går över ett sankt område där det går ett dräneringsrör under vägen (efter ca 500 meter), går du tillbaks 20 meter och tar in på stigen som är till vänster om du tittar mot Älta.
+Följ stigen, efter 30 meter är du framme vid överhängande väggen vid en matplats för rådjur.
+Följ stigen ytterligare 50-100 meter, uppför backen till höger. Nu är du framme vid Amfiteatern med en stor grillplats i mitten. 
+
+För att komma till svaklippan går du till höger istället från den överhängande väggen och upp en bit längs kanten.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Boulderproblem==
+
+===Gammal förare===
+Gammal förare: [http://www.klaan.nu/brotorp/area.html# Klaan]
+
+===Överhängande sektorn===
+[[Bild:todo]]
+
+Från vänster till höger...
+
+{{problem|nr=1|namn=R.C.T.O.D|grad=6A|fa=Erik L|sittstart=ja|landning=3|typ=Svagt överhäng, krimpers|text=Sittstart till vänster om 'inget' på bra Grepp, sedan rakt upp i Sprickan och toppa ut till höger via 'inget' }}
+{{problem|nr=2|namn=Inget|grad=6A+|fa=Tomas G|sittstart=ja|landning=2|typ=Svagt överhäng, krimpers|text=Sittstart på bra Grepp sedan upp till höger, toppa ut. }}
+{{problem|nr=3|namn=Säg wallah!|grad=6C+|fa=DD|betyg=3|sittstart=ja|landning=2|typ=Överhäng|text=Sittstart med vH på en list och hH i Sprickan, upp i Sprickan till Juggen, fortsätt rakt upp, toppa ut. }}
+{{problem|nr=4|namn=Firestarter|grad=(7A+/B?)|fa=Moritz K|betyg=1|sittstart=ja|landning=3|typ=Överhäng|text=Sittstart precis bakom de 2 stora träden på stort platt Grepp, över efter 3 move i stor jug; skulle varit top om trädet inte fanns då skulle man kunna toppa ut det. }}
+{{problem|nr=5|namn=Al Taneen|grad=(7A/+?)|fa=Moritz K|betyg=1|sittstart=ja|landning=3|typ=Vertikal/Överhäng|text=CA. 2 meter till höger ifrån de 2 stora träden. Sittstart med vH på en list och hH på bättre list, lättaste väg upp,3 move till stor bulle, match, toppa ut. }}
+{{problem|nr=6|namn=Al Taneen Nar|grad=(7A+?)|fa=Moritz K|betyg=1|sittstart=ja|landning=3|typ=Vertikal/Överhäng|text=CA. 2 meter till höger ifrån de 2 stora träden. Variant av "Al Taneen" där man undervika stora bullen och går mera (vänster) rakt upp istället (Bullen är varken med för händerna eller fötterna).}}
+
+===Amfiteatern===
+[[Bild:Amfitheater.jpg]]
+
+Från vänster till höger...
+
+{{problem|nr=1|namn=r00t|grad=6C|fa=Tomas G|sittstart=nej|landning=2|typ=Krimpers|text=Ståstart med händerna i Juggen sedan upp till en list, fortsätt upp till vänster, OBS. Bra Fot- och Handgrepp till vänster ingår ej. Grön linje (sittstart projekt, gul).}}
+{{problem|nr=2|namn=Tattotia|grad=6C|fa=Erik L|sittstart=ja|landning=1|typ=Travers|text=Sittstart med vH I Undercling/sidogrepp och hH I ett hål, traversera till vänster och toppa ut. Röd linje.}}
+{{problem|nr=3|namn=Det är vad det är|grad=6B+|fa=Moritz K?|sittstart=ja|landning=2|typ=Catch|text=Sittstart med vH på en bra list och hH i ett bra flak, Catch upp till ett bra Grepp och fortsätt rakt upp, toppa ut. Blå linje.}}
+{{problem|nr=4|namn=Inget|grad=5|sittstart=nej|landning=2|typ=Uppvärmning|text=Hängstart med Händerna i Juggen, traversera till vänster, avsluta med 'Det är vad det är'. Svart(?) linje.}}
+
+===Svaväggen===
+TODO

@@ -1,0 +1,12 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Älgpasset|grad=4C|typ=Krimp,Slopers|fa=Johan Danielsson|landning=3|betyg=2|fadatum=2004-04-04|sopad=Johan Danielsson|text=På kanten mellan den flacka och överhängande delen. Starta vid stubben.}}
+{{problem|namn=Studsaren|grad=4C|typ=Krimp|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-04-09|sopad=Johan Danielsson|text=Startar mitt på den flackare sidan.}}
+[[Kategori:Lycksele]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

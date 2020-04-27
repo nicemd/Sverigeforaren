@@ -1,0 +1,18 @@
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+
+{{boulderstub}}
+
+[[Kategori:Uppsala]]
+
+[[Bild:Isak min bror.jpg|thumb|300px|"Isak, min bror!", 7a, Gottsunda.<BR>Foto: Anders Tväråna]]
+
+Ett block utvecklat av le Sydd. Ingen direkt utvecklingspotential i området men värt ett besök om inte annat för att testa Neftertiti ss.
+
+=Vägbeskrivning=
+
+Ligger längst ner på gottsundagipen, lättast att komma hit med cykel.
+
+<googlemap version="0.9" lat="59.803937" lon="17.628293" type="map" zoom="15" width="500">
+59.802318, 17.624559, Gottsunda
+</googlemap>

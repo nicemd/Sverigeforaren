@@ -1,0 +1,94 @@
+{{info klippa
+  |lat=59.615794
+  |long=16.452627
+}}
+
+=Allmänt=
+
+Detta område ligger strax intill Erikslunds köpcentrum. Det största blocket 'Blåbärsblocket' bjuder på massor av härliga problem. Utmärkt fikaställe dessutom.
+=Vägbeskrivning=
+
+<div style="width: 350; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.615338" lon="16.455116" type="map" zoom="13" width="350" height="350">59.615902, 16.452885, Blåbärsblocket
+59.61371, 16.45915, Mediamarkt parkering</googlemap>
+</div>
+
+''(markeringen på kartan visar blåbärsblocket & mediamarkt parkering)''
+
+Detta område ligger intill Erikslunds köpcentrum (åk av E18 vid Bäckbymotet). Kör därefter mot Mediamarkt och parkera gärna på den delen av Mediamarkts parkering närmast skogen.
+
+Gå in i skogen där gatan viker av 90 grader. Efter cirka 300 meter passera du ett dike, sväng då höger. Blåbärsblocket uppenbarar sig på höger sida efter cirka 75 meter.
+
+=Beskrivning=
+
+Erikslund är ett område där klättring framförallt sker på Blåbärsblocket. Blocket, där det ligger på en mindre kulle, är omgivet av blåbärsris. Och första gången blocket besöktes måste det erkännas att vi kände oss som blåbär. 
+
+Stenen bjuder på allt från lätta problem till hårdare varianter och eliminationer. Höga svaturer och brant kort klättring gör stenen till en favorit bland många västeråsklättrare. 
+
+Även Pundarblocket är vårt ett besök. Du finner blocket vid IKEA. Mitt på parkeringen.
+
+Du hittar den Överhängande stenen i skogen strax väster om Media Markt. Utgå från den tillfälliga (2011-05-19) starten på Bruksleden, håll vänster efter 20m. Starten till Bruksleden syns från Media Markts personalparkering.
+
+=Sektorer=
+
+==Blåbärsblocket==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Rakt upp|grad=5A|typ=|fa=Patrik Hagman, Tommy Torsne|landning=3|sopad=Patrik Hagman, Tommy Torsne|sittstart=ja|text=Blåbärsblocket. Starta sittande på östsidan, höger om granen, händerna på rampen under taket. Klättra sedan rakt upp på lister.}}
+{{problem|nr=2|namn=Rakt upp igen|grad=5A|typ=|fa=Tommy Torsne|landning=3|sopad=Tommy Torsne|text=Blåbärsblocket. 1 m. höger om Rakt upp, ståstart.}}
+{{problem|nr=3|namn=Rakt upp i kubik|grad=5A|typ=Krimp|fa=Tommy Torsne|landning=3|sopad=Tommy Torsne|startgrepp=ja|text=Blåbärsblocket. Ytterligare en knapp meter till höger från Rakt upp igen. Definierad start på en tydlig krimplist. Dåliga fötter vid start, sedan rakt upp.}}
+{{problem|nr=4|namn=Sprickan|grad=6B+|typ=|fa=Robert Kostelac|landning=3|sopad=Robert Kostelac|startgrepp=ja|text=Blåbärsblocket. Starta hängandes i en jug i sprickans nederkant. Klättra sprickan rakt upp med hjälp av aréten, teknisk. Ståstart 6B. Definierad start under taket, ett projekt som väntar på sin upplösning.}}
+{{problem|nr=5|namn=Plötslig boulderarmsdöd|grad=6B+|typ=Krimp,Layback,Travers V->H|fa=Peter Viktorsson|landning=3|betyg=2|sopad=Peter Viktorsson|sittstart=ja|text=Blåbärsblocket. Travers från stenens sydöstra hörn. Klättra höger på stora ramper och fortsätt ända bort till Sprickan och därefter upp.}}
+{{problem|nr=6|namn=Fina fisken|grad=6C|typ=|fa=Peter Viktorsson|landning=3|betyg=3|sopad=Peter Viktorsson|sittstart=ja|text=Blåbärsblocket. Sittstart vid sydöstra hörnet. Klättra rakt upp mot den tydliga tvärsprickan/pocketen.}}
+{{problem|nr=7|namn=Rampfeber|grad=6B+|typ=Krimp,Heel hook|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|sittstart=ja|text=Blåbärsblocket. Starta på den stora tydliga hyllan till höger om aréten, ca 1,5 m. Klättra upp med en dragning åt vänster, via krimp, till det tydliga greppet som inleder svaturen till toppen.}}
+| width="250px" |
+{{problem|nr=8|namn=Takpresset|grad=6C+|typ=Layback,Reach|fa=Patrik Hagman|landning=5|sopad=Patrik Hagman|startgrepp=ja|text=Blåbärsblocket. Starta på två små grepp i sydtakets högra del. Klättra upp i taket och sträck sedan ut på höger kant. Kort förflyttning till vänster sedan en avslutande mantling.}}
+{{problem|nr=9|namn=Den stora hangelutmaningen|grad=5C|typ=|fa=Tommy Torsne|landning=3|betyg=1|sopad=Tommy Torsne|text=Blåbärsblocket. Starta i sydvästra hörnet på stenen, där den delat sig. Hangla höger för att avsluta i en mantling, innan du är på väg ner igen.}}
+{{problem|nr=10|namn=Uno Blåbär|grad=6A|typ=Spricka|fa=Håkan Söderström, Tommy Torsne|landning=3|betyg=1|sopad=Håkan Söderström, Tommy Torsne|sittstart=ja|text=Den tydliga sprickan på den sida som är vänd mot stigen. Låg start där sprickan möten en tydlig tvånhandshylla. Följ sprickan upp och avsluta i dess förlängning. Svårt med fötter i starten.}}
+{{problem|nr=11|namn=Uno Blåbär, assis|grad=6B|typ=|fa=Stefan Lindblom, Patrik Hagman|landning=3|betyg=1|sopad=Stefan Lindblom, Patrik Hagman|sittstart=ja|variant=ja|startgrepp=ja|text=Etablera med en hand i taken och den andra på liten låg hylla där taket möter sprickan. Sedan in rakt upp.}}
+{{problem|nr=12|namn=Blåbärsröran|grad=7A|typ=|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Starta som Uno Blåbär assis, sedan upp på hyllan och därefter dragning ut på slopers och krimper till vänster om sprickan. Sprickan är offroute. Toppa ut strax höger om aréten.}}
+| width="250px" |
+{{problem|nr=13|namn=Lingonsaft|grad=4C|typ=|fa=Okänd|landning=3|sopad=Okänd|sittstart=ja|text=Sittande 2 m till höger om Uno Blåbär. Rakt upp på tydliga grepp och hyllor.}}
+{{problem|nr=14|namn=Aspartam|grad=3A|typ=Mantling|fa=Okänd|landning=3|sopad=Okänd|text=Till höger om Lingonsaft, precis där stigen ansluter till stenen. Kort lätt mantling.}}
+{{problem|nr=15|namn=Mogna bär|grad=4C|typ=|fa=Okänd|landning=3|sopad=Okänd|text=Bra uppvärmning. Starta till höger om trädet, där stenen är något högre, och klättra rakt upp på goda grepp.}}
+{{problem|nr=16|namn=Surkart|grad=5A|typ=|fa=Tommy Torsne|landning=3|sopad=Tommy Torsne|text=Till höger om Mogna bär, strax vänster om starten till hangeltraversen. Rakt upp på tydliga grepp.}}
+{{problem|nr=17|namn=Nyponnypet|grad=4C|typ=Travers H->V|fa=Okänd|landning=3|sopad=Okänd|text=Uppvärmningstravers. Starta i Surkart och klättra vänster till Uno blåbär.}}
+{{problem|nr=18|namn=Gibbon|grad=6B+|typ=Travers V->H,Reach|fa=En okänd fransos|landning=3|sopad=En okänd fransos|startgrepp=ja|text=Starta i Uno Blåbär assis och klättra lågt till Lingonsaft, därefter upp på toppen.}}
+{{problem|nr=19|namn=Hallonsaft|grad=6C+|typ=Krimp,Slopers|fa=Robert Kostelac|landning=2|betyg=2|fadatum=2007-09-12|sopad=Robert Kostelac|uteslutningar=ja|text=Ståstart strax till vänster om Uno Blåbär. Rakt upp på slopers/crimpers utan att användaareten till vänster eller sprickan till höger. Klockren linje.}}
+|}
+
+==Pundarblocket==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Uteliggaren|grad=6B|typ=|fa=Håkan Söderström|landning=2|fadatum=2008-06-01|sopad=Håkan Söderström|sittstart=ja|text=Starta stående på tydliga grepp ovanför huvudet. Gå rakt upp.}}
+{{problem|nr=2|namn=Sittande Uteliggaren|grad=6B+|typ=|fa=Håkan Söderström, Tommy Torsne|landning=2|fadatum=2008-06-01|sopad=Håkan Söderström, Tommy Torsne|sittstart=ja|text=Sittstart på tydligt undercling. Fortsätt rakt upp.}}
+| width="250px" |
+{{problem|nr=3|namn=Punda på|grad=6C|typ=|fa=Håkan Söderstöm|landning=2|betyg=2|fadatum=2008-06-01|sopad=Håkan Söderstöm|sittstart=ja|text=Ståstart på samma grepp som uteliggaren. Gå vidare åt höger mot Arete. Följ kanten till topp.}}
+{{problem|nr=4|namn=Punda på sittande|grad=6C+|typ=|fa=Håkan Söderstöm|landning=2|betyg=2|fadatum=2008-06-01|sopad=Håkan Söderstöm|sittstart=ja|text=Sittstart på samma grepp som uteliggaren. Gå vidare åt höger mot Arete. Följ kanten till topp.}}
+| width="250px" |
+|}
+
+==Överhängande stenen/Media Marktblocket==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Traversen|grad=6A+|typ=|fa=Håkan Söderström, Tommy Torsne|landning=2|fadatum=2008-06-01|sopad=Håkan Söderström|sittstart=ja|text=Starta sittande på sten i överhängets vänstra kant. Följ rampen till slutet.}}
+{{problem|nr=2|namn=Dynan|grad=6C|typ=|fa=Peter Viktorsson, Patrik Hagman|landning=2|fadatum=2008-06-01|sopad=Håkan Söderström, Tommy Torsne|sittstart=ja|text=Ståstart vid Traversens slut. Upp till kant.}}
+| width="250px" |
+{{problem|nr=3|namn=Combon|grad=7A?|typ=|fa= Tommy Torsne|landning=2|betyg=3|fadatum=2011-06-09|sopad=Håkan Söderstöm|sittstart=ja|text=Starta med Traversen och svsluta med Dynan.}}
+{{problem|nr=4|namn=Projekt|grad=8A+?|typ=|fa=Någon med franskt mellannamn|landning=2|betyg=1|fadatum=2011?|sopad=Håkan Söderstöm|sittstart=ja|text=Sittstart till höger om Dynans sittstartsprojekt.Rakt upp på små lister.}}
+{{problem|nr=5|namn=Aber|grad=6B+|typ=|fa= Tommy Torsne|landning=2|betyg=1|fadatum=2011-06-09|sopad=Håkan Söderstöm|sittstart=ja|text=Starta som Traversen men rakt upp vid trekantsgreppet.}}
+{{problem|nr=6|namn=Projekt|grad=7C?|typ=|fa= Någon med franskt mellannamn |landning=2|betyg=3|fadatum=2011?|sopad=Håkan Söderstöm|sittstart=ja|text=Sitten till Dynan.}}
+| width="250px" |
+|}
+
+
+
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

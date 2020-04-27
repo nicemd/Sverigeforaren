@@ -1,0 +1,23 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Gubbsyndrom|grad=7A|typ=Krimp,Överhäng|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-03|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart under det lilla överhänget. Går upp via listerna och arêten. Småvassa grepp.}}
+{{problem|namn=Vart är Apan Nilsson|grad=6B+|typ=Krimp,Aréte|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-04-03|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart vid arêten, följer sedan denna rakt upp.}}
+{{problem|namn=Hopplös|grad=6C|typ=Dyno|fa=Stefan Hedin|landning=3|betyg=2|fadatum=2003-04-03|sopad=Stefan Hedin|startgrepp=ja|text=Dyno upp till kanten från listerna på vänster sida av arêten.}}
+| width="250px" |
+{{problem|namn=Skånepågen|grad=5A|typ=Krimp|fa=Fredrik Lund|landning=4|fadatum=2003-04-03|sopad=Fredrik Lund|startgrepp=ja|text=Ståstart vid det lilla taket, går rakt upp.}}
+{{problem|namn=Chylodrillen|grad=6B|typ=Krimp,Travers V->H|fa=Björn Knutsson|landning=4|betyg=1|fadatum=2003-04-03|sopad=Björn Knutsson|sittstart=ja|startgrepp=ja|text=Startar på jug under det lilla taket, går åt höger runt arêten och sedan upp.}}
+| width="250px" |
+{{problem|namn=Mata apan|grad=5C|typ=Krimp|fa=Björn Knutsson|landning=3|betyg=1|fadatum=2003-04-03|sopad=Björn Knutsson|startgrepp=ja|text=Ståstart med höger hand i sidepull och vänster hand på list, går rakt upp.}}
+{{problem|namn=Nivea for men|grad=5C|typ=|fa=Per Wermelin|landning=3|fadatum=2003-04-03|sopad=Per Wermelin|sittstart=ja|variant=ja|startgrepp=ja|text=?}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

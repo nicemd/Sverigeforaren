@@ -1,0 +1,87 @@
+{{utkast}}
+
+<googlemap version="0.9" lat="59.494214" lon="18.369688" zoom="18" controls="small">
+</googlemap>
+
+{{info klippa
+  |lat=59.49468965
+  |long=18.3701221428919
+}}
+
+==Allmänt==
+Ca 15m hög klippa med ett 30 tal turer, några med ovanliga formationer som pelare, kaminer och taksprickor. 
+
+==Access {{access}}==
+Klippan ligger på den lokala tomtägarföreningens gemensamma mark. Accessläget är för närvarande ok men största hänsyn krävs! Sedan lederna gjordes har det byggts många nya villor, varav nu tre stycken direkt ovanför klippan. Lederna längst till höger slutar numera vid ett tomtstaket och måste undvikas helt. Hittills har tomtägarna accepterat de få klättrare som tagit sig hit men det krävs att alla  visar största hänsyn! Stockholms Klätterklubb har satt upp en del toppankare under April 2010. Detta för att undvika att man letar standplats uppe på klippan, och hamnar på och framför tomterna.
+
+Obs att den enda tillåtna vägen fram till klippan är utmed sjöstranden!
+
+==Vägbeskrivning==
+Klippan ligger vid Solbergasjön.
+Från Stockholm : väg 276 genom Åkersberga mot Norrtälje. 
+4 km efter Åkerberga, tag höger vid vägskylt "Skärgårdsstad"  
+Tag vänster in på Översättravägen direkt efter sjön och parkera till höger utanför förskolan efter ca 150m.
+Följ Stockängsstigen mot sjön och följ stranden till klippan.
+
+
+
+==Leder==
+
+Klippan "hittades" och har utvecklats av [[Kenth Lindström]].
+
+Åk hit ta med dina stora säkringar eller topprep och prova på takjam tex. Honky Tonk Woman 5c (fina handjam), Utby 5:an 6a (fin och välsäkrad) eller Bortbred 6c (ett riktigt Jan Liljemark tak) alla tre bra och naturligt säkrade.
+
+Eller varför inte göra ett försök på Solsprickan 6b en av dom finaste lederna norr om stan.
+
+Eller klättra 5 st kamin-leder i grad 3-6 varav en Mormors spricka 6a som fortfarande inte är ledd. 
+
+Eller 3st mycket fina areter Immanuel 6a, Högerkanten 5c och Delikanten 6b+ 
+ 
+Exempel på några av lederna som bjuder på klättring av det ovanliga slaget.
+
+
+{{led|nr=1|namn=Döda räven|grad=5b|betyg=|[[1995|-95]]|bultar=|typ=|fa=[[K Nolkrantz]],[[ S Ericsson]]}}
+
+{{led|nr=2|namn=Absolut|grad=6a+|betyg=|[[1996|-95]]|bultar=|typ=|fa=[[C Åstrand]],[[ F Rilde]]}}
+
+{{led|nr=3|namn=Odöpt|grad=6c|betyg=|[[1997|-97]]|bultar=|typ=|fa=[[P Agerkrans ]],[[ C Jelinek]]}}
+
+{{led|nr=4|namn=Skogshuggar Lasse|grad=6b+|betyg=|[[1997|-97]]|bultar=3|typ=|fa=[[ P Almkvist]]}}
+
+{{led|nr=5|namn=Dritings|grad=6c+|betyg=|[[1997|-97]]|bultar=5|typ=|fa=[[ C Jelinek]],[[ V Velde]]}}
+
+{{led|nr=6|namn=Utroliga skallebank|grad=7b|betyg=|[[1997|-97]]|bultar=5|typ=|fa=[[ C Jelinek]],[[ P Agerkrantz]]}}
+
+{{led|nr=7|namn=Negerkommunism|grad=A2+|betyg=|[[1996|-96]]|bultar=|typ=|fa=[[Anders jakobsson]]}}
+
+{{led|nr=8|namn=Delikanten|grad=6b+|betyg=|[[1997|-97]]|bultar=|typ=|fa=[[ C Åstrand]],[[ K Lindström]],[[ Myran Grund]],[[ C Jelinek]]}}
+
+{{led|nr=9|namn=Det visar sig|grad=6a|betyg=|[[1996|-96]]|bultar=|typ=|[[ K Lindström]],[[ K Nolkrantz]]}}
+
+{{led|nr=10|namn=Bortbred|grad=6c|betyg=|[[2001|-01]]|bultar=|typ=|fa=[[J Liljemark]], [[ P Almkvist]]}}
+
+{{led|nr=11|namn=Mormors spricka|grad=6a|betyg=|[[|]]|bultar=|typ=}}
+
+{{led|nr=12|namn=Mayday|grad=5c|betyg=|[[1994|-994]]|bultar=|typ=trad| fa=[[ K Lindström]],[[ J Nyström]]}}
+
+{{led|nr=13|namn=Blockrännan|grad=6b+|betyg=|[[1994|-94]]|bultar=|typ=| fa=[[ K Lindström]],[[ J Nyström]]}}
+
+{{led|nr=14|namn=Spetsen orginal|grad=6a+|betyg=|[[1994|-94]]|bultar=|typ=| fa=[[ K Lindström]],[[ J Nyström]]}}
+
+{{led|nr=15|namn=Spetsen|grad=6b|betyg=|[[1999|-99]]|bultar=|typ=| fa=[[ K Lindström]],[[ C Åstrand]], [[ C Jelinek]]}}
+
+{{led|nr=16|namn=Månskäran|grad=6b+|betyg=|[[1999|-99]]|bultar=|typ=| fa=[[ K Lindström]],[[ C Åstrand]], [[ C Jelinek]]}}
+
+{{led|nr=17|namn=Utby 5an|grad=6|betyg=|[[1995|-95]]|typ=trad}}
+
+{{led|nr=27|namn=Högerkanten|grad=5+|betyg=|[[1995|-95]]|bultar=|typ=sport}}
+
+{{led|nr=31|namn=Immanuel|grad=6-|betyg=|[[1995|-95]]|bultar=|typ=sport}}
+
+
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar leder]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

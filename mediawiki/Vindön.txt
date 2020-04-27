@@ -1,0 +1,11 @@
+{{stub}}
+Bra sportklättring på norra sidan av Orust.
+10- 25m långa leder 6a+ - 7c
+<googlemap version="0.9" lat="58.302995" lon="11.698143" zoom="16">
+58.302, 11.698004, Vindön
+</googlemap>
+{{accessDB|klippa=vindon}} 
+
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja|klätterguide bohuslän (2002)=ja}}
+[[Kategori:Bohuslän]]

@@ -1,0 +1,23 @@
+=Allmänt=
+Kör mot Älvkarleby, efter Dalälven svänger ni av mot Rullsand, Långsand. Fortsätt vägen förbi Långsand tills ni ser en skylt "Gårdskär 5" Parkera på vändplatsen vid skylten. Gå stigen till höger, när stigen delar sig första gången (det hänger en Sverige flagga där) håller ni vänster. Vid nästa delning håller ni höger. Följ sedan stigen hela vägen ner till vattnet. Fortsätt strandremsan åt höger förbi udden så kommer området.[[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=B-kupa|grad=6B+|typ=Krimp,Slopers|fa=Ronny A, Daniel H|landning=3|betyg=2|fadatum=2006-07-06|sopad=Ronny A, Daniel H|sittstart=ja|text=Högra aréten på det stora blocket mot vattnet.}}
+{{problem|nr=2|namn=Gårdskärs hoppet|grad=6C|typ=Krimp,Dyno|fa=Ronny A, Daniel H|landning=3|fadatum=2006-07-06|sopad=Ronny A, Daniel H|text=Gå runt blocket åt vänster där B-kupan ligger, längst in i "sprickan" går problemet, starta på de tydliga crimparna, dyno till toppen.}}
+{{problem|nr=3|namn=Kapten Haddock|grad=6C+|typ=Krimp,Aréte|fa=Daniel Hultgren|landning=4|betyg=2|fadatum=2006-08-03|sopad=Daniel Hultgren|sittstart=ja|text=Går på den överhängande aréten mellan "Gårdskärshoppet" och "B-kupa"}}
+| width="250px" |
+{{problem|nr=4|namn=Håll munnen stängd|grad=4B|typ=Krimp|fa=Maria Olsson|landning=3|fadatum=2006-07-30|sopad=Maria Olsson|sittstart=ja|text=Följ "sprickan" förbi Gårdskärshoppet rakt upp. Vänstra korta pelaren rakt upp.}}
+{{problem|nr=5|namn=Tallbarsdoft|grad=6A|typ=Överhäng,Aréte|fa=Staffan Hemström|landning=3|fadatum=2006-07-30|sopad=Staffan Hemström|sittstart=ja|startgrepp=ja|text=Problemet ligger bortanför Gårdskärshoppet mot skogen, startar under en sten där det växer en grankvist på marken. Start i sprickan, och rakt upp via areten.}}
+| width="250px" |
+{{problem|nr=6|namn=Flugornas Herre|grad=5C|typ=Krimp,Spricka|fa=Staffan Hemström, Janne Andersson|landning=4|fadatum=2006-07-30|sopad=Staffan Hemström, Janne Andersson|sittstart=ja|uteslutningar=ja|text=Problemet ligger mitemot Gårdskärshoppet, starta i den tydliga sprickan, gå snett upp åt höger. Hyllan till vänster och under starten är utesluten.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

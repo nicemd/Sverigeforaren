@@ -1,0 +1,183 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Vägbeskrivning=
+<googlemap version="0.9" lat="68.279427" lon="19.439964" type="map" zoom="12" width="600" height="400">
+68.269895,19.42709, Highball-blocket
+68.26748,19.411297, Into-blocken
+68.26837,19.413528, Centrum
+</googlemap>
+
+=Sektorer=
+==Centrum==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Dyno|grad=4C|typ=Dyno|fa=?|landning=3|fadatum=2006-07-09|sopad=?|text=Dyno till höger om 20.2 på Block 20}}
+{{problem|nr=12|namn=Cannabis Inhelers Association|grad=4C|typ=Spricka|fa=Christer|landning=3|betyg=2|fadatum=2006-08-06|sopad=Christer|text=Till vä om "Day of..." på block 12. Sittstart samma grad.}}
+{{problem|nr=91|namn=Högerkanten|grad=4C|typ=Aréte|fadatum=2005-11-24|text=Högerkanten}}
+{{problem|nr=92|namn=9.2|grad=6B|typ=Mantling|fa=ABC|landning=3|betyg=2|fadatum=2005-11-24|sopad=ABC|uteslutningar=ja|text=Arete till hö och vä är ej med, gäller även på uttoppning!}}
+{{problem|nr=92|namn=9.2 - assis|grad=6B+|typ=|fa=ABC|landning=4|betyg=2|fadatum=2005-11-24|sopad=ABC|sittstart=ja|variant=ja|uteslutningar=ja|text=Arete till hö och vä är ej med, gäller även på toppen}}
+{{problem|nr=93|namn=9.3|grad=5A|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Vänsterkanten}}
+{{problem|nr=94|namn=9.4|grad=4B|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Högerkanten på den fina svaplattan.}}
+{{problem|nr=95|namn=9.5|grad=4B|typ=Slab|fa=ABC|betyg=1|fadatum=2005-11-24|sopad=ABC|text=Fina svaplattan!}}
+{{problem|nr=96|namn=Sidepulls Only|grad=7B|typ=Slopers,Layback|fa=Hanson, Stålnacke|landning=2|betyg=2|sopad=Hanson, Stålnacke|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Ss ner till höger på väggen. Starta på två  vertikala lister. Klättra upp efter "layback-slope-kanten". Båda areterna uteslutna, samt list lååångt ute till vä.}}
+{{problem|nr=101|namn=10.1|grad=5B|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|uteslutningar=ja|text=Högerkanten på den fina slabben. Utan de stora greppen!}}
+{{problem|nr=102|namn=Heymans dansakademi|grad=5C|typ=Slab|fa=ABC|landning=5|betyg=2|fadatum=2005-11-24|sopad=ABC|text=Rakt upp mitten av slabben. Ta det lugnt på toppen!}}
+{{problem|nr=103|namn=Flygande fötter|grad=5C|typ=Slopers,Aréte|fa=Rick McGregor|landning=2|betyg=2|fadatum=2005-11-24|sopad=Rick McGregor|text=Aretens vänstra sida. Fin!}}
+{{problem|nr=105|namn=10.5|grad=6A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Följer kanten åt höger.}}
+{{problem|nr=106|namn=10.6 - ss|grad=5C|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|sittstart=ja|text=Hangel uppför kanten åt vä. Sittstart}}
+{{problem|nr=107|namn=10.7|grad=5A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Rakt upp på den branta sidan på bra grepp.}}
+{{problem|nr=111|namn=Korta-sprickan|grad=4A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Kort problem upp i sprickan.}}
+{{problem|nr=112|namn=11.2|grad=6B|typ=|fa=ABC|betyg=1|fadatum=2005-11-25|sopad=ABC|text=Känsligt med kul uppför den svagt markerade "areten"}}
+{{problem|nr=113|namn=P-star|grad=6C+|typ=|fa=Stålnacke|landning=4|betyg=1|sopad=Stålnacke|startgrepp=ja|text=Hoppstart. Vä på sidepull och sedan hoppa till list.}}
+{{problem|nr=114|namn=Kalles sva|grad=4A|typ=Slab|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Uppför det rundade svaet.}}
+{{problem|nr=121|namn=12.1|grad=7B|typ=Krimp,Slopers,Mantling|fa=2st från fjollträsk|landning=3|betyg=3|fadatum=2005-11-24|sopad=2st från fjollträsk|text=Ja, rakt upp för bullen! Sittstart möjlig för den ohyggligt starke.}}
+| width="250px" |
+{{problem|nr=122|namn=Homoerotique|grad=7A|typ=Slopers,Heel hook|fa=Roshed, Stålnacke|landning=3|betyg=3|sopad=Roshed, Stålnacke|text=Hö hand på arete och hoppstart. "Lätt för sin grad" =)}}
+{{problem|nr=123|namn=Homoerotique-assis|grad=7B+|typ=Slopers,Aréte,Heel hook|fa=Hanson|landning=3|betyg=3|sopad=Hanson|sittstart=ja|variant=ja|startgrepp=ja|text=Sittstart på stor sidepull till hö om Homoerotique och sedan uppåt vänster efter sloparna. Orepeterad!}}
+{{problem|nr=124|namn=Day of deliverance|grad=7B+|typ=Överhäng,Toe hook|fa=Stålnacke|landning=5|betyg=1|sopad=Stålnacke|sittstart=ja|startgrepp=ja|text=Etabl. start på litet undercling och snedsluttande list ute till hö. MYCKET bänglig. För vidare beta ring Gruvan.}}
+{{problem|nr=131|namn=13.1|grad=5B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Starta från bra grepp. Sedan lite avigt.}}
+{{problem|nr=132|namn=13.2|grad=5A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Upp via sprickan. Pass upp för stenen i landningen.}}
+{{problem|nr=133|namn=13.3|grad=5A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Mellan 131 och 132. Upp til höger om kanten.}}
+{{problem|nr=141|namn=Kanji|grad=6B|typ=|fa=ABC|betyg=1|fadatum=2005-11-25|sopad=ABC|sittstart=ja|text=Den ljusa, branta areten. Dynamisk start! Vä hand på arete och hoppstart med höger.}}
+{{problem|nr=141|namn=Kanji (etabl start)|grad=7A|typ=Pinch,Dyno,Aréte|fa=ABC|landning=3|betyg=1|fadatum=2005-11-25|sopad=ABC|variant=ja|startgrepp=ja|text=Etabl. start med vä hand på arete och hö hand på uppenbar pinch.}}
+{{problem|nr=142|namn=Diversa|grad=7A|typ=Slab|fa=Stålnacke|betyg=2|fadatum=2005-11-25|sopad=Stålnacke|uteslutningar=ja|text=Start nere till vä på svaet. Problemet går till vä på toppen. Enklare variant finns som går till undercling åt höger.}}
+{{problem|nr=151|namn=15.1|grad=5A|typ=Slab|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Kort, kul och krångligt svaproblem.}}
+{{problem|nr=152|namn=15.2|grad=5B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|uteslutningar=ja|text=Ett steg åt hö från 151. Utan högerkanten.}}
+{{problem|nr=161|namn=?|grad=4C|typ=Slab|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Bra grepp. Känslig avslutning.}}
+{{problem|nr=162|namn=Drömspel|grad=6A|typ=Mantling,Aréte|landning=5|betyg=1|fadatum=2005-11-24|text=Vä hand på arete. Hoppstart med höger, mantla!}}
+{{problem|nr=163|namn=This perfect day|grad=6A|typ=Mantling,Travers H->V|fa=Roshed|landning=5|betyg=1|fadatum=2005-11-24|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Ss på arete längst ner till hö. Hangla hö och mantla.}}
+{{problem|nr=171|namn=Klassikern|grad=6A|typ=Slopers,Slab|fa=ABC|betyg=2|fadatum=2005-11-25|sopad=ABC|text=Kul flytt uppför kanten och väggen. Fin!}}
+{{problem|nr=171|namn=Klassikern - ss|grad=6B+|typ=|fa=ABC|betyg=2|fadatum=2005-11-25|sopad=ABC|sittstart=ja|variant=ja|text=Sittstarten till 171.}}
+{{problem|nr=172|namn=17.2|grad=5B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Start på "areten" och sedan upp åt hö. Hög avslutning.}}
+| width="250px" |
+{{problem|nr=173|namn=17.3|grad=5C|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Stara lägre till hö på väggen och rakt upp via sloper (om ma vil) till hög avslutning.}}
+{{problem|nr=174|namn=Öppen thorax|grad=6C+|typ=Krimp,Mantling|fa=Roshed|fadatum=2005-11-26|sopad=Roshed|startgrepp=ja|text=Start på "tennisboll-liknande grepp" med vä hand och går rakt över bullen.}}
+{{problem|nr=181|namn=Noshörning|grad=6A+|typ=Aréte|fa=Roshed|landning=3|betyg=1|fadatum=2005-11-25|sopad=Roshed|text=Den fina areten. Lite morpho.}}
+{{problem|nr=182|namn=Kristalldröm|grad=6B|typ=|fa=Hanson|fadatum=2005-11-25|sopad=Hanson|startgrepp=ja|text=Etabl. start. Börja på startprickar (ej än utmålade) och klättra snett uppåt hö.}}
+{{problem|nr=191|namn=19.1|grad=4B|typ=Slab|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Sva med lite avig start.}}
+{{problem|nr=192|namn=19.2|grad=5C|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Brant, kort och kul. Svår start om man är kort.}}
+{{problem|nr=193|namn=19.3|grad=5C|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Brant start.}}
+{{problem|nr=194|namn=19.4|grad=5A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Stora grepp.}}
+{{problem|nr=201|namn=20.1|grad=5A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Rakt upp på lister på den lite laviga väggen.}}
+{{problem|nr=202|namn=20.2|grad=6A|typ=Aréte|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Areten till hö om 201.}}
+{{problem|nr=281|namn=Gotto get some Dynamite|grad=6B+|typ=Mantling,Travers H->V|fa=Roshed|landning=2|betyg=1|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Etabl. på list under det lilla överhänget. Skicka upp och traversera vä och avsluta vid den "lilla stenen".}}
+{{problem|nr=282|namn=Mosquito Hunter|grad=6C|typ=Mantling,Överhäng|fa=Roshed|landning=2|betyg=2|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Vä hand på slope och hö på list under taket. Rakt upp och avsluta som "gotto get..."}}
+{{problem|nr=283|namn=Sommarslapp|grad=6C|typ=Slopers,Travers H->V|fa=Heyman|landning=2|betyg=1|sopad=Heyman|text=Börja längst till vä på rampen och avsluta längst till hö.}}
+{{problem|nr=284|namn=Spleef suckers society|grad=7B|typ=Heel hook|fa=Prost, P.Hansson|landning=4|betyg=2|fadatum=2005-11-26|sopad=Prost, Hansson|sittstart=ja|startgrepp=ja|text=Sittstart under den lilla takareten på vänsterkanten fotlöst drag upp till heelhook för höger, fin!}}
+{{problem|nr=291|namn=Pequeño|grad=6A|typ=Mantling|fa=Roshed|landning=1|fadatum=2005-11-26|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Start sittande på liten knopp för hö och givet grepp för vä. Sen upp åt vä.}}
+{{problem|nr=301|namn=Blockstölden|grad=6A|typ=Överhäng|fa=Roshed|fadatum=2005-11-26|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Starta på startprickar. Rakt upp över bullen.}}
+{{problem|nr=302|namn=Läppen|grad=4B|typ=Travers H->V|fa=Roshed|fadatum=2005-11-26|sopad=Roshed|text=Börja längst till vä på "läppen" och traversera till hö. Avsluta på areten.}}
+|}
+
+==Intro-blocken==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Mr Pride|grad=6A|typ=Mantling,Travers H->V|fa=Öhman, Roshed|landning=3|betyg=1|fadatum=2006-08-19|sopad=Öhman, Roshed|sittstart=ja|text=Blocket 5 m öster om Sockertoppen. Sittstart ute till höger. Traversera vänster och mantla över innan stenen.}}
+{{problem|namn=John Silver|grad=6C+|typ=Mantling,Överhäng,Dyno|fa=Pudde Hansson|landning=2|betyg=1|fadatum=2008-06-19|sopad=Pudde Hansson|sittstart=ja|text=Sittstarten på andra sidan "sluta röka linjen" d v s vänstra sittstarten. Konstig start, dyno till list, därefter avslut som sluta röka.}}
+{{problem|nr=1|namn=Delicate feet|grad=5A|typ=Slab|fa=Rick|landning=3|betyg=1|fadatum=2005-05-31|sopad=Rick|text=Längst till höger på det lilla svaet på södra sidan om Block 1.}}
+{{problem|nr=11|namn=Kort arete|grad=4A|typ=Aréte|fa=Abisko-bouldercrew|landning=4|betyg=1|sopad=Abisko-bouldercrew|text=Blocket har en vägg som vetter mot vägen. Areten till vä.}}
+{{problem|nr=12|namn=Lilla svaet|grad=3B|typ=Slab|fa=ABC|landning=4|sopad=ABC|text=Rakt upp för väggen som vetter mot vägen.}}
+{{problem|nr=13|namn=Sluta röka linjen|grad=7A+|typ=Mantling,Överhäng,Aréte|fa=P. Hanson|landning=3|betyg=3|sopad=P. Hanson|sittstart=ja|startgrepp=ja|text=Ss vid hö arete på blockets överhängande sida. Etabl. på sidepull med vä hand och hö hand långt ner på arete. Klättra upp och traversera vä och toppa sedan ur. Fin!}}
+{{problem|nr=14|namn=MBFK|grad=7A|typ=Aréte,Reach,Heel hook|fa=Prost, Hanson|landning=3|betyg=1|fadatum=2005-11-26|sopad=Prost, Hanson|sittstart=ja|startgrepp=ja|text=Sittstart på samma arete som sluta röka men avslutning rakt upp, reachigt.}}
+{{problem|nr=31|namn=3.1|grad=5A|typ=Slab|fa=ABC|landning=4|betyg=2|sopad=ABC|text=Rakt uppför den fina svaplattan utan kanterna. Start från sten till hö.}}
+| width="250px" |
+{{problem|nr=32|namn=Vänsterkanten|grad=5A|typ=Slab,Aréte|fa=ABC|landning=4|sopad=ABC|text=Vänsterkanten på svaet.}}
+{{problem|nr=33|namn=Fina svaet|grad=3C|typ=Slab,Jug|fa=ABC|landning=4|betyg=2|sopad=ABC|text=Rakt upp på stora grepp}}
+{{problem|nr=34|namn=Sockertoppsareten|grad=6B+|typ=Aréte|fa=ABC|landning=5|betyg=2|sopad=ABC|text=Den fina areten med trixig start. Variant finns till hö om areten och utesluter den.}}
+{{problem|nr=35|namn=Midnattssolsmantlling|grad=6C|typ=Mantling|fa=Roshed, KAS, McGregor|landning=5|sopad=Roshed, KAS, McGregor|startgrepp=ja|text=Etabl. på de två tydliga sloparna (långt till vä) på blocket västra sida. Mantla!}}
+{{problem|nr=35|namn=Aka F*ck Falun|grad=7A+|typ=Slopers,Aréte,Travers V->H|fa=Roshed|landning=5|betyg=2|sopad=Roshed|variant=ja|startgrepp=ja|text=Starta på två givna slopers. Traversera hö och avsluta problem 34.}}
+{{problem|nr=41|namn=Hangel|grad=6A|typ=Aréte|fa=ABC|landning=4|fadatum=2005-11-24|sopad=ABC|sittstart=ja|text=Sittstart och sedan hangel till vä på kanten och toppa ur. Ståstart 5+}}
+{{problem|nr=42|namn=Rakt upp!|grad=6B|typ=Överhäng|fa=ABC|landning=5|sopad=ABC|text=Rakt upp. Starten är antagligen svår för korta personer.}}
+{{problem|nr=43|namn=Låg start|grad=5A|typ=Slab|fa=ABC|landning=3|sopad=ABC|startgrepp=ja|text=Start lågt på tydligt grepp. Rakt upp!}}
+{{problem|nr=44|namn=Onigiri|grad=4A|typ=Överhäng,Aréte|fa=Kataoka|landning=3|betyg=1|sopad=Kataoka|startgrepp=ja|text=Start på onigiri-liknande grepp på arete. Sen upp!}}
+{{problem|nr=45|namn=Ståstarten|grad=5A|typ=Slopers,Mantling|fa=Roshed|landning=3|fadatum=2005-11-26|sopad=Roshed|text=Mitt emellan 44 och 46.}}
+{{problem|nr=45|namn=Malins hangeltravers|grad=6A|typ=Slopers,Travers H->V|fa=Erik och Malin?|landning=3|betyg=3|fadatum=2006-07-19|sopad=Erik och Malin?|text=Fin hangeltravers på Block 4 till vänster om problem 4.4 med tydligt startgrepp på en arete och samma avslutning som Maja min braja.  Mycket fin.}}
+| width="250px" |
+{{problem|nr=46|namn=Maja min Braja|grad=7A|typ=Överhäng|fa=Hanson|landning=3|betyg=2|sopad=Hanson|sittstart=ja|startgrepp=ja|text=Kryp ner i hålet. Etabl. på stor list och klättra rakt upp. Fin!}}
+{{problem|nr=51|namn=?|grad=-|typ=Slab|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Kort men kul sva}}
+{{problem|nr=61|namn=?|grad=6B|typ=Aréte|fa=ABC|sopad=ABC|text=Upp vänstersidan av areten med jobbig start.}}
+{{problem|nr=62|namn=Pullåvern|grad=6A|typ=|fa=Roshed|landning=3|fadatum=2005-11-24|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Etabl. med vä hand på sidepull till vä om arete och hö hand på arete. Ett move och sedan mantling.}}
+{{problem|nr=71|namn=7.1|grad=3B|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Mantling på sva}}
+{{problem|nr=72|namn=7.2|grad=3C|typ=Slab|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Upp för svaet.}}
+{{problem|nr=81|namn=8.1|grad=2|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Sva}}
+{{problem|nr=82|namn=8.2|grad=3A|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Sva}}
+{{problem|nr=83|namn=8.3|grad=4A|typ=Krimp|fa=ABC|landning=4|fadatum=2005-11-24|sopad=ABC|text=Rakt upppför den vertikala vägen utan kanterna. Sittstart 5-}}
+{{problem|nr=84|namn=8.4|grad=4B|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Sva}}
+{{problem|nr=85|namn=8.5|grad=6A|typ=|fa=ABC|fadatum=2005-11-24|sopad=ABC|text=Till hö om problem 84.}}
+|}
+==Östra sektorn==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Lättare sva|grad=4A|typ=|fa=Rick och Antti|fadatum=2005-06-20|sopad=Rick och Antti|text=Lättare sva på södra/sydöstra sidan av "Grönan" (50-100m sydost om Bauta).}}
+{{problem|namn=Kort sva|grad=4C|typ=|fa=Rick och Antti|landning=3|fadatum=2005-06-20|sopad=Rick och Antti|text=Kort sva på västra sidan av ett block ("Grönan") 50-100m sydost om Bautablocket (nr 23)}}
+{{problem|namn=Längre sva|grad=5B|typ=Slab|fa=Rick och Antti|fadatum=2005-06-20|sopad=Rick och Antti|text=Längre sva med step-up-start på sydvästra sidan av "Grönan", block 50-100 m sydost om Bauta.}}
+| width="250px" |
+{{problem|nr=241|namn=Gaisendynon|grad=6C|typ=|fa=Heyman|landning=4|betyg=3|fadatum=2005-11-25|sopad=Heyman|text=Jättekul catch från det stora greppet vid det ljusa stråket.}}
+{{problem|nr=242|namn=Är den slopiga kanten möjlig?|grad=5A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Starta från blocket.}}
+{{problem|nr=251|namn=Svängdörren|grad=5B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Den korta sprickan.}}
+{{problem|nr=261|namn=26.1|grad=6A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Kul flytt upp på den kulliga "areten".}}
+| width="250px" |
+{{problem|nr=262|namn=26.2|grad=3B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Kort spricka.}}
+{{problem|nr=271|namn=S-pocket|grad=5B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Kul problem på vänsteranten av väggen via ett ovanligt grepp.}}
+{{problem|nr=452|namn=Rädsla|grad=4C|typ=|fa=Roshed|landning=1|fadatum=2005-12-03|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Sittstart just intill problem 452. Etablera, skicka, mantla.}}
+|}
+==Höftoperation==
+
+{{problem|nr=211|namn=Höftoperation|grad=6B|typ=|fa=Jutfelt|landning=3|betyg=2|fadatum=2005-11-25|sopad=Jutfelt|text=Kul mantling upp i diedern. Jobbig!!}}
+==Svampen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=221|namn=22.1|grad=5A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Sva. En del lavar. Ganska hög.}}
+{{problem|nr=222|namn=22.2|grad=5B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Lite känsligt sva med ganska hög avslutning.}}
+| width="250px" |
+{{problem|nr=223|namn=22.3|grad=6A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Ljus vägg med bra grepp.}}
+{{problem|nr=224|namn=22.4|grad=4B|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Kort problem med bra grepp på den branta sidan. Lättaste vägen ner!}}
+| width="250px" |
+|}
+==Bauta==
+
+{{problem|nr=231|namn=Bauta|grad=6A|typ=|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=Den branta areten (SO-hörnet).}}
+==Highball-blocket==
+
+{{problem|nr=501|namn=Solkraft|grad=7A|typ=Överhäng,Highball|fa=Roshed, Stålnacke|landning=3|betyg=3|fadatum=2005-11-26|sopad=Roshed, Stålnacke|startgrepp=ja|text=Låg etabl.start på högra areten på givet stort startgrepp. Går snett uppåt vä.}}{{problem|nr=501|namn=Solkraft assis|grad=7B|typ=Överhäng,Highball|fa=M.Fransson|landning=3|betyg=3|fadatum=2006|sopad=Roshed, Stålnacke|startgrepp=ja|text=Krånglig sittstart till ovanstående problem.}}
+
+{{problem|nr=502|namn=Den grå vägen|grad=5B|typ=Slab,Highball|fa=Stålnacke|landning=7|betyg=1|fadatum=2005-11-26|sopad=Stålnacke|text=Rakt upp efter det borstade, gråa ståket.  Fin utsikt på toppen. Nervigt högt sva.Fall inte av pucko!}}
+{{problem|nr=502|namn=Solstorm|grad=7A+|typ=Highball|fa=Carl-Ola Boström|landning=3|betyg=3|fadatum=2006-08-11|sopad=Carl-Ola Boström|text=Starta till höger om stenen vid insteget.}}{{problem|nr=501|namn=Snöstorm|grad=7B|typ=Överhäng,Highball|fa=M.Fransson|landning=3|betyg=3|fadatum=2006|sopad=|startgrepp=ja|text=Höger om Solstorm. Rakt upp med läskig mantling på slutet.}}
+{{problem|nr=505|namn=Project...|grad=???|typ=slab,Highball|fa=|landning=3||text=Det tydliga svaet höger om Solkraft. Vrickat! Gaisens Duel?}}
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Den japanska areten|grad=5C|typ=Aréte|fa=Roshed|landning=4|betyg=1|sopad=Roshed|text=Blocket hö arete. Etablera och gå sen till till topps!}}
+{{problem|namn=La crack sittstart|grad=6B|typ=|fa=Pudde|landning=4|fadatum=2006-06-16|sopad=Pudde|sittstart=ja|text=Följ sprickan}}
+{{problem|namn=Futurum|grad=7A|typ=Överhäng,Dyno|fa=Roshed|landning=3|fadatum=2006-07-26|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Starta på det givna greppet mitt på överhänget och sedan rakt upp.}}
+{{problem|namn=Miss Piggy traverse|grad=5B|typ=Travers V->H|fa=Chrille m fl|landning=3|betyg=1|sopad=Chrille m fl|text=Hangeltravers fr vä till hö på östra sidan av Miss Piggy-blocket som ligger rakt österut från Block 3 (Sockertoppen) och lite söder om 22 (Svampen) och 23 (Bauta).}}
+{{problem|namn=Panini|grad=5C|typ=Slopers,Travers H->V|fa=Roshed|landning=3|betyg=1|fadatum=2006-08-04|sopad=Roshed|sittstart=ja|text=Starta på sluttarn ovanför den lilla areten, följ sen kanten åt hö. Mantla över på toppen.}}
+| width="250px" |
+{{problem|namn=Magnolia|grad=6C+|typ=|fa=Roshed|landning=2|betyg=3|fadatum=2006-08-04|sopad=Roshed|text=Start i givet undercling och crimp. Fin och precis lagom höjd.}}
+{{problem|namn=snöstorm|grad=7B|typ=Krimp,Highball|fa=Team Luleå|landning=5|betyg=2|fadatum=2006-08-01|sopad=Team Luleå|text=Startar 3 m till höger om solstorm. Klättar rakt upp till kanten7areten och gör en läskig mantling.}}
+{{problem|nr=34|namn=Sockertoppsareten-assis|grad=7A|typ=Överhäng,Slab,Aréte|landning=5|betyg=2||fa=P.Hansson|fadatum=2005-11-24|sittstart=ja|variant=ja|startgrepp=ja|text=Starta med vä hand på stort grepp och hö runt arete. Ett startgrepp har lossnat så förmodligen är det svårare nuförtiden.}}
+{{problem|nr=104|namn=10.4|grad=3C|typ=Aréte|fa=ABC|fadatum=2005-11-25|sopad=ABC|text=.Upp för areten. Lite svårare om man avslutar vä.}}
+{{problem|nr=243|namn=Gaisen-manteln|grad=5C|typ=Mantling|fa=Roshed|landning=3|fadatum=2006-07-26|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Starta i sprickan långt ner och sedan upp över läppen.}}
+| width="250px" |
+{{problem|nr=244|namn=Klokkeren|grad=6C|typ=Mantling|fa=Roshed|landning=4|betyg=1|fadatum=2006-07-26|sopad=Roshed|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Etabl. på en givna hyllan och sedan rakt upp. Areten är utesluten.}}
+{{problem|nr=272|namn=Flapping Tremor|grad=7A|typ=Aréte|fa=Roshed|landning=4|betyg=1|fadatum=2006-07-26|sopad=Roshed|text=Etabl. på areten och ta dig upp på enklaste sätt.}}
+{{problem|nr=273|namn=Onåd|grad=7A|typ=Slopers,Travers V->H|fa=Roshed|landning=4|betyg=3|fadatum=2006-07-26|sopad=Roshed|sittstart=ja|startgrepp=ja|text=Starta med vä hand i sprickan och hö på rampen. Klättra hö och mantla över på slutet. Given och superfin linje!}}
+{{problem|nr=274|namn=Giftas|grad=6C|typ=Slopers,Mantling,Överhäng|fa=Roshed|landning=2|betyg=2|fadatum=2006-07-26|sopad=Roshed|text=Kliv upp på den stora stenen och ta tag i kanten. Rakt upp via bullen}}
+|}
+[[Kategori:Kiruna]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,363 @@
+{{info klippa
+  |lat=59.24333794536158
+  |long=18.15167784690857}}
+
+{{boulderutkast|extern=ja}}
+<googlemap lat="59.24333794536158" lon="18.15167784690857" zoom="10" type="map">
+59.24333794536158,18.15167784690857,P-Plats
+</googlemap>
+
+
+[http://www.bloxc.com/shared/bloxc_orhem.pdf Orhems föraren]
+
+[http://kartor.eniro.se/query?&what=map&mapstate=6%3B18.151538%3B59.243362%3B0%3B18.123763376742087%3B59.254333588012955%3B18.179232542895456%3B59.23240402987761&mapcomp=%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B0%3B0%3B%3B%3B%3B0&stq=0&pis=0 Vägbeskriving till P-plats]
+
+==ÖVERSIKTSKARTA==
+[[Bild:orhem_oversikt2.jpg]]
+
+==Media==
+{{led|namn=Great Orme|grad=7b|fa=Micke Meyer -97?|text=Teknisk väggklättring. Förstabestigaren slutade inte på juggen}}
+Kolonin: John klättrar "'''Pojkarnas Brigad'''". [http://www.vimeo.com/7885850 Pojkarnas Brigad]
+
+Kolonin: Martin klättrar "'''Allemansarêten'''", "'''Småborgaren'''" och "'''Knutna Nävar'''" [http://vimeo.com/11922142 Servitutväggen]
+
+Christer klättrar [http://www.vimeo.com/2197654 Sadistic Sandsnake]
+
+Bortre väggarna: Fredrik klättrar "'''Karatekid i Knarkarkvarten'''". [http://vimeo.com/6631864 KK Del 3]
+
+Bortre väggarna: Andreas klättrar "'''Rune'''" och "'''Kalsongfjong i Knarkarkvarten'''". [http://www.vimeo.com/2701350 KK Del 2]
+
+Bortre väggarna: Andreas klättrar "'''Natterbjudande'''" och "'''All I need'''". [http://www.vimeo.com/2695139 KK Del 1]
+
+Bortre väggarna: Andreas klättrar "'''La fissure de la Foret'''". [http://www.vimeo.com/4201495 Fissuren]
+
+Bortre väggarna: Andreas klättrar "'''La fonderie assis'''". [http://www.vimeo.com/2678034 Fondarien]
+
+==Vägklippan==
+Highball med stort H helt ok landningar förutom det vänstra problemet då du troligen drar ner i hyllan om du faller. Väggen ligger precis vid vägen på vänster hand efter lilla parkeringen där två handikapparkeringar finns.
+
+
+[[Bild:Vägklippan.jpg]]
+
+{{problem|nr=1|namn=Den onde|grad=6c+|betyg=1|fa=Mikael Söderström|text=Hoppas du är bra på gaston}}
+
+{{problem|nr=2|namn=Den gode|grad=6c+|betyg=2|fa=Mikael Söderström|text=Går ihop med den onde på slutet}}
+
+{{problem|nr=3|namn=Hit och dit |grad=6c-7a|fa=Mikael Söderström|text=Upp till hålet sen kan du gå vänster eller höger eller rakt upp du bestämmer}}
+
+{{problem|nr=4|namn=Den fule |grad=7a|betyg=3|fa=Mikael Söderström|text=Skulle kunna vara en led}}
+
+
+
+==Christers vägg==
+Lång vägg med ett femtiotal problem med mestadels utmärkta landningar.
+
+'''Vägbeskrivning''': Från parkeringen, följ hälsans stig norrut i 3-5 minuter. Efter en utförsbacke hamnar du i en svacka med en brant uppförsbacke framför dig - följ då stigen in till vänster. Du är då efter 25 meter vid Vänstra väggen. Det går även att bröta sig genom skogen från bilvägen men Hälsans-stigalternativet är till och med barnvagnsvänligt.
+
+[http://www.bloxc.com/shared/bbb3/bbb3_scorecard.pdf Numrering o gradering från BBB3]. Det finns även en del problem o  FA-info i [http://www.bloxc.com/shared/bloxc_orhem.pdf 'gamla' föraren] som kan vara värda att lägga till. Var så god!!!!
+
+===Övre väggen===
+
+[[Bild:ovre_vaggen_vanster_problem.JPG]]
+
+{{problem|nr=|namn=Teamwork|grad=4+|betyg=|fa=|text=Följ diagonalsprickan till toppen}}
+
+{{problem|nr=1|namn=Först igen|grad=4+|betyg=|fa=|text=Väggpartiet till vänster om stora sprickan. röd linje}}
+
+{{problem|nr=2|namn=Teamwork |grad=5+|text=gul linje}}
+
+{{problem|nr=3|namn=Sprickan |grad=4|text=rosa linje}}
+
+{{problem|nr=4|namn=Walk in the park|grad=6b|text=blå linje}}
+[[Bild:ovre_vaggen_hoger_problem.JPG]]
+
+{{problem|nr=5|namn=Face it|grad=5+|text=röd linje}}
+
+{{problem|nr=6|namn=Tallpåse|grad=5?|text=gul linje}}
+
+
+===Vänstra väggen===
+[[Bild:vanstra_vaggen_problem.JPG]]
+
+{{problem|nr=7|namn=Hangover of Rolf|grad=5-|text=Sittst. i undercling och rakt upp. Röd linje.}}
+
+{{problem|nr=8|namn=Pillar|grad=5|text=Sittst. till v. om sprickan och rakt upp. gul linje.}}
+
+{{problem|nr=9|namn=If you need crack|grad=5|text=Sittst. och upp i stora sprickan. }}
+
+{{problem|nr=|namn=And if you dont|grad=5|text=Sittst. rakt under "If you need crack's" utsteg och rakt upp}}
+
+{{problem|nr=10|namn=Crimp it|grad=6a+|text=Sittstart i brevlådan och rakt upp. Grön linje.}}
+
+{{problem|nr=11|namn=Statisk skåning|grad=6a|text=Sittst. till v. om sprickan, h.hand i sidotag i sprickan och rakt upp. Blå linje.}}
+
+
+===Sandhålsväggen===
+[[Bild:sandhalsvaggen_problem.JPG]]
+
+{{problem|nr=12|namn=Pinch my nopple|grad=6a|text=Sittst. på areten och upp mot roten. Lila linje.}}
+
+{{problem|nr=13|namn=Perca fluviatilis|grad=6b|text=Start med vänsterhand i koppen under minisprickan och upp snett till höger. Gul linje.}}
+
+{{problem|nr=14|namn=steeler|grad=6a+|text=Röd linje. sittstarta?}}
+
+{{problem|nr=15|namn=I´am a sendin man|grad=6b|text=Sittst. i högra sprickan, v/h.hand upp till list och vidare till toppen. Grön linje. Obs: grepp har lossnat i sittstarten.}}
+
+{{problem|nr=16|namn=Monkey|grad=5+|text=hang Sittst. i flakets högra del, travers vänster och upp. Blå linje.}}
+
+===Vertikalväggen===
+[[Bild:vertikalvaggen_problem.JPG]]
+
+{{problem|nr=18|namn=Strimmelfinger |grad=6a+|text=Sittstart i brevlådan och rakt upp. Gul linje.}}
+
+{{problem|nr=|namn=The crippler|grad=6b+|text=Sittstart i v:et ,upp till tvärsprickan och vidare rakt upp}}
+
+{{problem|nr=19|namn=Flash Gordon|grad=6c|text=Rakt genom grytan på små grepp.}}
+
+{{problem|nr=20|namn=Projekt|grad=7b+|text=}}
+
+{{problem|nr=21|namn=Bullen|grad=4+|text=Start på "blå" listen under bullen och rakt upp. röd linje.}}
+
+
+===Stora överhänget ===
+[[Bild:stora_overhanget_vänster.JPG]][[Bild:stora_overhanget_hoger.JPG]]
+
+{{problem|nr=22|namn=Störtlopp|grad=6c+|text=}}
+
+{{problem|nr=23|namn=Bizarre|grad=7c|text=}}
+
+{{problem|nr=24|namn=Amature|grad=7b+|text=}}
+
+{{problem|nr=25|namn=BBW|grad=7b|text=}}
+
+{{problem|nr=26|namn=Red head|grad=7a+|text=Fortsättningen på teen. Toppar ut lite åt vänster.}}
+
+{{problem|nr=27|namn=Teen|grad=6b|text=Rakt upp på goda grepp. Slutar på Juggen.}}
+
+{{problem|nr=28|namn=Sinus|grad=6b+|text=Travers åt höger ifrån tvärsprickans början bort till abundance (karmaväggen).}}
+
+{{problem|nr=29|namn=Projekt?|grad=7c|text=}}
+
+{{problem|nr=30|namn=Mature|grad=6c|text=På det höga partiet till höger om Teen}}
+
+===Karmaväggen===
+[[Bild:karmaväggen_problem.JPG]]
+
+{{problem|nr=|namn=Emmies tofflor|grad=5|text=St. på orange grepp och upp till vänster}}
+
+{{problem|nr=31|namn=Venus as a Toy|grad=6a+|text=Rakt upp i mitten av grytan}}
+
+{{problem|nr=32|namn=Abundance|grad=6b|text=St. på gult grepp och upp till h. om lilla enen på toppen }}
+
+{{problem|nr=33|namn=Bad karma|grad=6b+|text=Hopp till taggiga greppet och upp. Gul linje.}}
+
+{{problem|nr=34|namn=Bad karma |betyg=2|grad=7b|text=sitstart. Gulstreckad linje.}}
+
+{{problem|nr=35|namn=Good karma|grad=6c|text=Sittstart. ''Tror'' att det är röd linje upp.}}
+
+
+===Chipväggen===
+[[Bild:chipväggen1.jpg]]
+
+{{problem|nr=36|namn=Till förruttnelsen|grad=7a+|text=}}
+
+{{problem|nr=37|namn=Johnas spricka|grad=6b|text=Vänstra sprickan. Start i bra grepp, upp i överhäng o sedan sprickan till svaet.'Gul linje.}}
+
+{{problem|nr=38|namn=Fossil|grad=7a+|text=Högra sprickan. Röd linje.}}
+
+{{problem|nr=39|namn=Gnome|grad=7b+|text=Från tvärsprickan upp till halvmånen och rakt upp. Turkos linje.}}
+
+{{problem|nr=40|namn=Driller killer|grad=7b|text=Halvmånen sen höger ut till sneda listen och rakt upp. Grön linje.}}
+
+{{problem|nr=41|namn=Kanske utan Hilti|grad=7a+|text=Från högra delen av tvärsprickan upp till sneda listen och rakt upp. Lila linje.}}
+
+[[Bild:chipväggen2.jpg]]
+
+{{problem|nr=|namn=Tjuven|grad=?|text=Sittst. v.hand i litet sidotag och h.hand i låg list på hyla.  Avsluta med Jonnas klätterträd. Röd streckad linje.}}
+
+{{problem|nr=42|namn=Jonnas klätterträd|grad=6a|text=Travers med st. vid längs tvärsprickan och upp i dess slut. Röd linje.}}
+
+{{problem|nr=|namn=Get shorty|grad=4+|text=Sittst. till höger om pyttelilla trädet och rakt upp}}
+
+{{problem|nr=|namn=Revenge of the gremlins|grad=5-|text=Sittst. direkt h. om #10 med start på slopers}}
+
+==Skogsväggarna==
+Någon med BBB3-ticklistan borde kunna fylla i lednamn nedan.
+===Klippa närmast vägen.===
+[[Bild:Skogsväggarna1.jpg]]
+
+===Högbollarna===
+[[Bild:Skogsväggarna2.jpg]]
+[[Bild:Skogsväggarna5.jpg]]
+[[Bild:Skogsväggarna3.jpg]]
+[[Bild:Skogsväggarna4.jpg]]
+[[Bild:Skogsväggarna6.jpg]]
+[[Bild:Skogsväggarna7.jpg]]
+
+==Parkeringväggarna==
+Fyll i problemen namn o grader!
+[[Bild:Parkeringväggarna1.jpg]]
+[[Bild:Parkeringväggarna2.jpg]]
+
+{{problem|nr=1|namn=Din mamma|grad=6(?)|betyg=1|fa=Graham/Carl|text=Sittstart nere till höger om graffitin, skicka högerhanden till crimp rakt upp, traversera över graffitin och sluta på jugge uppe till vänster.}}
+
+
+
+
+[[Bild:Parkeringväggarna3.jpg]][[Bild:Parkeringväggarna4.jpg]]
+
+==Bortre väggarna==
+===Översiktskarta===
+[[Bild:Orhem_bortre_oversikt.jpg]]
+
+===Vägbeskrivning:===
+Från parkeringen i slutet på Orhemsvägen, passera vägbommen och fortsätt ca 300 meter. Passera Unga Örnar och fortsätt rakt fram på vägen ca 400 meter till. När vägen gör en krök ser man ett stenrös på höger sida, samt en stig som går in till höger. Passera stenröset och klipppartiet och vik sedan av åt höger från vägen. Uppvärmningsväggen [1] ligger ca 50 meter in och vetter mot vägen.
+
+'''1. Uppvärmningsväggen'''
+[[Bild:1_uppvarmningsvaggen.jpg]]
+
+{{problem|nr=1a|namn=Mläh|grad=3|typ=Slabb|fa=Ljungberg|text=Ståstarta, gå rakt upp längs bra grepp.}}
+{{problem|nr=1b|namn=Sanäh|grad=5|typ=Vägg|fa=Fröberg|text=Sittstarta lågt.}}
+{{problem|nr=1c|namn=Senseless stereotyped idea|grad=5+|typ=Vägg|fa=Spångberg|text=Sittstarta lågt i horisontella sprickan, lås av och sträck.}}
+{{problem|nr=1d|namn=Mfäh|grad=6a|typ=Catch|fa=Fröberg(?)|text=Sittstarta på det stora greppet m vh och lite skröfs för hh och catcha upp åt höger.}}
+
+'''2. Knarkarkvarten'''
+Väggen ligger uppe på branten ovanför gläntan bakom uppvärmningsväggen.
+[[Bild:2_knarkarkvarten.jpg]]
+
+{{problem|nr=2a|namn=namn?|grad=6c(?)|typ=Över|fa=Holmlund/Påhlman(?)|text=Sittstart på vänstra areten, snett upp åt höger.}}
+{{problem|nr=2b|namn=Karate kid i knarkarkvarten|grad=7b+ (7c)|typ=Över|fa=Holmlund/Påhlman|text=Sittstart på undercut flak, snett upp åt höger.}}
+{{problem|nr=2c|namn=Kalsongfjong i knarkarkvarten|grad=6c (7a) |betyg=2|typ=Över|fa=Holmlund/Påhlman|text=Låg sittstart till vänster om diedern, gå åt vänster och upp.}}
+{{problem|nr=2d|namn=Natterbjudande|grad=6c+ |betyg=1|typ=Över/vägg|fa=Spångberg|text=Samma start som ""Kalsongfjong"", gå rakt upp. Ståstart 6c.}}
+{{problem|nr=2e|namn=All I need|grad=6a+ |betyg=1|typ=Över/vägg|fa=Spångberg/Fröberg|text=Samma start som ""Kalsongfjong"", gå åt höger och upp. Ståstart i jug på bullen 6a.}}
+{{problem|nr=2f|namn=10 rosor direkt|grad=5+|typ=Vägg|fa=Spångberg|text=Ståstart mitt på bullen, gå rakt upp.}}
+{{problem|nr=2g|namn=10 rosor|grad=5+|typ=Vägg|fa=Spångberg|text=Ståstart mitt på bullen, gå åt höger och upp, tveksam landning.}}
+
+'''3. Överväggen'''
+Väggen ligger snett ovanför Knarkarkvarten och rakt ovanför rampväggen.
+[[Bild:3_overvaggen.jpg]]
+
+{{problem|nr=3a|namn=Mnäh|grad=5|typ=Vägg|fa=Fröberg/Nordström(?)|text=Sittstarta och knöla dig upp på bullen.}}
+{{problem|nr=3b|namn=Asäh|grad=5|typ=Vägg|fa=Spångberg/Fröberg(?)|text=Ståstarta sprickan, upp till hylla, toppa ur åt vänster}}
+{{problem|nr=3c|namn=namn?|grad=grad?|typ=Vägg|fa=kredd?|text=Linjen mitt på fejset.}}
+{{problem|nr=3d|namn=namn?|grad=grad?|typ=Vägg|fa=kredd?|text=Ståstarta den trubbiga areten och upp längs slopig ränna.}}
+{{problem|nr=3e|namn=Kwäh|grad=6a |betyg=1|typ=Vägg|fa=Spångberg/Westerlund(?)|text=Ståstart på bra grepp bakom tallen, upp till jugg, toppa ur åt höger. Variant åt vänster.}}
+
+'''4. Rampväggen'''
+Vägg nedanför Överväggen.Sluttande landning.
+[[Bild:4_rampvaggen.jpg]]
+
+{{problem|nr=4a|namn=Fyrminus|grad=5-|typ=Slabb|fa=Westerlund/Fröberg/Spångberg|text=Balansera ut åt höger längs rampen med händerna på seglet.}}
+{{problem|nr=4b|namn=projekt|grad=grad?|typ=Dyno/slabb|fa=Spångberg/Fröberg|text=Start på bra grepp på högra areten, dyna upp åt vänster till slot på slabben.}}
+
+'''5. Andreas Slabb'''
+Från Uppvärmningsväggen, följ liten stig ca 50 m syd-sydost.
+[[Bild:5_andreas_slabb.jpg]]
+
+{{problem|nr=5a|namn=Rune|grad=7a |betyg=1|typ=Slabb|fa=Spångberg|text=Klurig slabb á la Spångberg.}}
+
+'''6. Alkovväggen'''
+Väggen finns på liten stig mellan Andreas Slabb och Fissurväggen. Den är något dold bakom en sten.
+[[Bild:6_alkovvaggen.jpg]]
+
+{{problem|nr=6a|namn=namn?|grad=grad?|typ=Över/vägg|fa=Holmlund/Påhlman(?)|text=Ett par linjer som går att utveckla och/eller roa sig på...}}
+{{problem|nr=6b|namn=namn?|grad=grad?|typ=Över/vägg|fa=Holmlund/Påhlman(?)|text=Ett par linjer som går att utveckla och/eller roa sig på...}}
+
+'''7. Fissurväggen'''
+Väggen nås enklast från stora vägen. Vid stenröset, tag stig in till höger, gå ca 100 m. Fissurväggen ligger uppe på branten till vänster och nås via en passage.
+[[Bild:7_fissurvaggen.jpg]]
+
+{{problem|nr=7a|namn=namn?|grad=6b|typ=Vägg/slabb|fa=kredd?|text=Ståstart längst till vänster.}}
+{{problem|nr=7b|namn=La fissure de la Foret|grad=7a+ |betyg=2|typ=Vägg/slabb|fa=Paladino|text=Ståstarta sprickan. variant till vänster på slabbdelen finns.}}
+{{problem|nr=7c|namn=projekt|grad=grad?|typ=Vägg/slabb|fa=kredd?|text=Mitt på fejset till höger om sprickan.(?)}}
+{{problem|nr=7d|namn=La serieux assis|grad=7b |betyg=3|typ=Vägg/slabb|fa=Holmlund|text=Sittstarta, upp till hylla, toppa ur åt vänster på slabb. Highball. Ståstart 7a+(?).}}
+{{problem|nr=7e|namn=La fonderie assis|grad=7a+ |betyg=2|typ=Vägg|fa=Holmlund|text=Sittstarta, rakt upp. Ståstart 7a(?).}}
+{{problem|nr=7f|namn=Gretas trosa|grad=6c|typ=Vägg|fa=Kraufvelin|text=Ståstart mellan "La fonderie" och "Forellfrisyren".}}
+{{problem|nr=7g|namn=Forellfrisyren|grad=6a+|typ=Vägg|fa=Hans Lindqvist|text=Sittstarta den trubbiga areten vid björken. Upp längs slopiga hyllor.}}
+
+==Sjöväggarna==
+'''Vägbeskrivning:'''
+Följ samma väg som mot Bortre väggarna, men fortsätt så att du kommer runt sjön. Sjöväggarna hittar du på höger sida av vägen strax efter att vägen delat av sig mot Flatens Skogsväg.
+
+'''1. Låga sjöväggen '''
+[[Bild:Orhem sjovaggen left.jpg]]
+{{problem|nr=1|namn=La Tour Eiffel|grad=6-|typ=Spricka|fa=Wernquist/Stetina|text=Sittstart, gå rakt upp längs sprickan.}}
+{{problem|nr=2|namn=Boob Job|grad=5|typ=Stor bulle|fa=Stetina/Dick Andersson|text=Sittstart, gå rakt upp på bullen. Ej stenblocken ovan och på sidorna! Flicka demonstrerar en sittstart på Boob job}}
+[[Bild:Orhem.sjovaggen.right.jpg]]
+{{problem|nr=a|namn=Brunost|grad=5|typ=Sittstart}}
+{{problem|nr=b|namn=My name is mud|grad=5-|typ=Sittstart}}
+{{problem|nr=c|namn=Flöte|grad=5-|typ=Sittstart|text=Upp och lite till höger därefter rakt upp!}}
+{{problem|nr=d|namn=Namnlös|grad=6b|typ=Sittstart|text=Starta vid Uno, ut vä och upp på små crimps}}
+{{problem|nr=e|namn=Uno|grad=6A|typ=Sittstart}}
+{{problem|nr=f|namn=Tootsie|grad=5-|typ=Sittstart}}
+{{problem|nr=g|namn=Tåke|grad=5-|typ=Sittstart}}
+
+'''2. Höga sjöväggen '''
+{{problem|nr=1|namn=Jetta|grad=6A |betyg=1|typ=Arete|fa=Westerlund|text=Sittstart}}
+
+==Kolonin==
+===Översiktskarta===
+[[Bild:kolonin_karta_2.0.jpg]]
+
+===Vägbeskrivning:===
+Kör Orhemsvägen ca 150m förbi avfarten Gebersvägen (busshållplatsen). Parkeringen, omringad av stockar, ligger på vänster sida och har en skylt som det står ”2 Handikapplatser” på. Till Servitutväggen kommer man enklast genom att gå stora stigen (skyltat ”Flaten runt” och ”Ekudden 2km”) och svänga av vänster vid hagen med badkaret. Servitutväggen ligger ca 30 m från stora stigen. De andra väggarna hittar man genom att följa de små stigarna enligt kartan.
+
+'''1. Överklassen'''
+
+''Väggen ligger ca 50 meter från parkeringen. Gå rakt in i skogen och håll något höger.''
+
+[[Bild:01_babel.jpg]]
+
+{{problem|nr=1a|namn=Projekt (arbetsnamn Babel)|grad=???|typ=Highball|fa=???|text=High-ball projekt med intressant landning.}}
+
+'''2. Friggebodarna'''
+
+''En handfull low-balls. Väggen ligger uppe till vänster om Överklassen från parkeringen sett, första problemet du kommer till är Birgit.'' 
+
+[[Bild:02_friggebodarna.jpg]]
+
+{{problem|nr=2a|namn=Stugknuten|grad=5-|typ=arete|fa=Westerlund|text=Fristående liten vägg, sittstarta med händerna på var sida om areten.}}
+{{problem|nr=2b|namn=Småbåtshamn|grad=6a+|typ=brant|fa=Westerlund|text=Sittstart vid seglet/rampen.}}
+{{problem|nr=2b|namn=Småbåtshamn höger|grad=7a|typ=brant|fa=F Gatu|text=Start som Småbåtshamn, upp till läppen o sen höger via sloopers till Vformad krimp mitt på svaét.}}
+{{problem|nr=2c|namn=Löneklyftan|grad=5|typ=mantling|fa=Westerlund|text=Liggstart med händerna till vänster, mantling i klykan, utsteg vänster eller höger. Variant: starta med händerna till höger 5+.}}
+{{problem|nr=2d|namn=Myrdal|grad=6a+|betyg=1|typ=brant arete|fa=Westerlund|text=Sittstarta den trubbiga areten.}}
+{{problem|nr=2e|namn=Palme'n'knee|grad=5-|typ=brant|fa=Ljungberg|text=Sittstart, upp till vänster om trädet.}}
+{{problem|nr=2f|namn=Birgit|grad=3-|typ=slabb|fa=Fröberg|text=Ståstart på lätt slabb. Projekt: Birgit hands off (no hands).}}
+
+'''3. Buken'''
+
+''Fristående, runt block i sluttningen. Nås enklast genom att från parkeringen runda berget på vänster sida.''
+
+[[Bild:03_buken.jpg]]
+
+{{problem|nr=3a|namn=Hoppa späck|grad=5+|typ=low-ball|fa=Fröberg|text=Sittstart.}}
+
+'''4. Marginalskatten'''
+
+''Från parkeringen, följ stigen till vänster om berget, förbi Buken. Marginalskatten ligger uppe på höger sida. Etablerade problem finns uppe på den lilla avsatsen, till höger finns ett par oborsta linjer.''
+
+[[Bild:04_marginalskatten.jpg]]
+
+{{problem|nr=4a|namn=Inget att spotta på|grad=6a+|typ=brant/mantling|fa=Nordenstam|text=Sittstart uppe på avsatsen, rakt upp.}}
+{{problem|nr=4b|namn=Sven kan inte ha fina saker|grad=6a|typ=brant-vertikalt|fa=Westerlund|text=Sittstart uppe på avsatsen, runda höger arête.}}
+
+'''5. Grådvärgsattack'''
+
+''Passera längs Marginalskatten och över branten (ca 80 meter), sväng höger nere i sänkan. Väggen är något dold bakom granar.''
+
+[[Bild:05_gradvargsattack.jpg]]
+
+{{problem|nr=5a|namn=Ingen jävla fyrminus|grad=4|typ=brant|fa=Ljungberg|text=Sittstarta på tydliga greppet, upp via jug till höger.}}
+{{problem|nr=5b|namn=La sauter de la Forêt|grad=5|betyg=1|typ=dyno|fa=Fröberg/Spångberg|text=Sittstarta på tydliga greppet, dyna direkt till toppen. Variant: dyna med vänsterhanden eller båda händerna.}}
+
+'''6. Servitutväggen'''
+
+''Väggen nås enklast genom att följa stora stigen från parkeringen och svänga vänster in i skogen vid hagen med badkaret.''
+
+[[Bild:Servitutvaggen.jpg]]
+{{problem|nr=6a|namn=Allemansarêten|grad=5+|typ=brant arete|fa=Fröberg/Ljungberg|text=Ståstart.}}
+{{problem|nr=6b|namn=Knutna nävar|grad=6b+|betyg=1|typ=brant|fa=Fröberg/Ljungberg|text=Sittstart mitt på väggen.}}
+{{problem|nr=6c|namn=Småborgaren|grad=6a+|typ=low-ball|fa=Fröberg/Ljungberg|text=Sittstart med höger hand i sidosprickan.}}
+{{problem|nr=6d|namn=Pojkarnas Brigad|grad=7b|betyg=2|typ=Många flytt på liten sten|fa=Påhlman|text=Sittstart på högra delen av väggen. Låt bli att ta det övre högerflaket. Det sitter löst o risken finns att startgreppet följer med om det ryker. Dessutom behövs det inte för att göra problemet.}}
+
+[[Kategori:Stockholm]]

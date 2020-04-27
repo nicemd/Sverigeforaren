@@ -1,0 +1,12 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=The Wave|grad=6C|typ=Slopers,Mantling|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2006-09-23|sopad=Christofer Björklund|text=Hoppstart mitt på väggen, rakt under pocket listen. Sedan mantling rakt upp.}}
+{{problem|namn=The Rightwave|grad=6B|typ=Mantling|fa=Christofer Björklund|landning=2|fadatum=2006-09-23|sopad=Christofer Björklund|text=Hoppstart till det bra greppet ca: 2 meter till höger om "The Wave". Går sedan till vänster och avslutas som "The Wave"}}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

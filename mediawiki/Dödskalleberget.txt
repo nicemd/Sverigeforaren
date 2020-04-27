@@ -1,0 +1,171 @@
+{{info klippa
+  |lat=59.19512
+  |long=18.40751
+}}
+  
+{{komplett}}
+[[Bild:Dodskalleberget.jpg|thumb|400px|right|Dödskalleberget i kvällsol. Foto: [[Användare:Peblin|Per Lindh]]]]
+<br/>
+__TOC__
+ 
+==Allmänt==
+
+Mycket hög och imponerande klippa med öppet, soligt och vackert läge. En av Stockholms bästa klippor för långa leder i 7a-8a registret. Bultningen var tidigare av äventyrligt slag, men de flesta lederna har nu bultats om och är säkra att klättra.
+
+==Miljö==
+
+På sommaren blir klippan olidligt varm. Fungerar bäst på tidig vår och sen höst, och ibland även fina vinterdagar! Den högra delen av stora väggen är hyfsat regnsäker. Gångavstånd till badklippor. 
+<div style="clear:right;"></div>
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=250 lat="59.19512" lon="18.40751" zoom="14" type="map" controls="small">
+59.19512,18.40751,[[Dödskalleberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Dodskalleberget
+lat=18407510
+long=59195120
+</slresa>
+</div> 
+
+Kör Tyresövägen ut på Tyresöhalvön och fortsätt rakt fram en bra stund på den kurviga vägen tills du kommer till en liten båthamn. Sväng höger och fortsätt ännu en bra bit längst en backig väg. Efter en skarp nedförsbacke ta höger på Dyviksuddsvägen. Klippan kan ses på höger sida efter ett par hundra meter. Parkera på parkeringen ca 150 m efter klippan. Parkeringen är välanvänd så lämna plats för andra bilar. Det nyinrättade naturreservatet Dyviks lövängar, ligger kring klippan, och till detta reservat finns numera skyltning. Klippan är en del av reservatet.
+
+<div style="clear:right;"></div>
+
+==Access {{access}}==
+
+Ständigt hotat av klätterförbud. Var diskreta, skräpa inte ned och håll en låg profil. Berget ingår i naturreservatet Dyviks lövängar. Parkera endast på parkeringsplatsen ca 150m efter klippan och ställ bilen så att fler bilar får plats.
+
+Bultkommittén i Stockholm nådde under 2012 en överenskommelse med Tyresö kommun, som förvaltar naturreservatet, om ombultningar av leder. Ombultningar är endast tillåtet under vissa förutsättningar och varje åtgärd måste godkännas av kommunen i ett skriftligt förfarande.
+
+http://bultkommitten.blogspot.se/2012/09/dodskalleberget-bultas-om.html
+<div style="clear:right;"></div>
+
+{{AccessDB|klippa=dodskalleberget}}
+
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Dodskalleberget_v.png|650px]]
+
+{|
+|- valign="top"
+| width="250px" |
+===Lilla väggen till vänster===
+Vertikalt till svagt överhängande
+
+{{led|nr=1|namn=En byrå underifrån|grad=5|typ=trad|fa=[[Peter Brolin]], [[Buster Delin]] -96|text=behöver inte repeteras enligt fa}}
+
+{{led|nr=2|namn=Adios stupido|grad=6+|typ=trad|fa=[[Gary Hansson]], [[Tomas Hansson]]-89|text=Dåligt säkrad i början}}
+
+{{led|nr=3|namn=Asers arête|grad=6c|betyg=1|typ=sport|fa=[[Jacob Sjöstrand]], [[Daniel Bidner]][[1984|-84]]|text=Fantastisk klättring på den luftiga arêten. Ombultad 2013.}} 
+
+{{led|nr=4|namn=Skriet i vildmarken|grad=7b+|typ=sport|fa=[[Johan Luhr]], [[Rickard Hedman]][[1984|-87]]|text=Ombultad 2013.}} 
+
+{{led|nr=5|namn=Mio|betyg=3|grad=7b+|typ=sport|bultar=5|längd=14|fa=[[Johan Luhr]], [[Stefan Nordman]], [[Mårten Dahlström]][[1990|-90]]|text=En av stockholms pärlor. Tung väggklättring.}}
+
+{{led|nr=6|namn=Indianerna kommer|grad=7+|typ=sport|bultar=5|längd=12|fa=[[Johan Luhr]][[1990|-90]]|text=Traverserar lilla väggen från v till höger.}}
+
+===Stora väggen===
+Svaklättring på vänstra delen, vertikalt till svagt överhängande högra delen
+
+{{led|nr=7|namn=En skänk från ovan|grad=6-|typ=trad|fa=[[Niklas Björnerstedt]], [[Dan Engström]][[1983|-83]]|text=Diedern till vänster. Småkilar.}}
+
+{{led|nr=7a|namn=Vingel|grad=6+|fa=[[Johan Luhr]]-95|typ=mix|text=Start i En skänk från ovan sedan vänster}}
+
+{{led|nr=8|namn=Gammelgäddan|grad=6a+|längd=20|typ=sport|fa=[[Lennart Swahn]], [[Per Willén]], [[Johnny Carlén]][[1993|-93]]|text=Går genom det lilla taket med dragning åt höger på slutet. Ombultad 2013.}}
+
+{{led|nr=9|namn=Trygghet utan grund|grad=5+/6-|typ=trad|längd=25|fa=[[Lars Svadängs]], [[Jeremy Sheehan]], [[Dan Engström]][[1983|-83]]|text=Spännande, äventyrlig led uppför hela väggen. Säkras med små kilar, avslingade flak och friends på toppen.}}
+
+{{led|nr=10|namn=Gelatinerad sperma|grad=6b|längd=15|typ=sport|fa=[[Mats Olofson]], [[Peter Andersson]][[1993|-93]]|text=Ombultad 2013. Leden slutar numera vid ett eget ankare under taket. Originalutsteget, som fortsatte till toppen, är svårsäkrat och har en hel del lösa block.}}
+
+{{led|nr=11|namn=Ahlgrens bilar|grad=6b+|längd=15|typ=sport|fa=[[Mats Olofsson]]|text= Känslig och inte helt enkel. Går till ett ankare under taket. Ombultad 2013.}}
+
+{{led|nr=11a|namn=Devil|grad=7b|längd=18|typ=sport|betyg=1|fa=[[Johan Luhr]][[1992|-92]]|text=Spektakulär led som går genom taket. Ombultad 2013.}}
+
+{{led|nr=11b|namn=Ahlgrens pygméer|grad=5c|längd=15|typ=sport|text=Börja i Devil/Inget för pygméer och snedda sedan vänster och in i Ahlgrens bilar. Ombultad 2013.|}}
+
+{{led|nr=11c|namn=Inget för pygméer|grad=7a+|typ=sport|längd=25|fa=[[Johan Luhr]][[1991|-91]]|text=Passagen genom taket är lite lös och aningen ogästvänlig. Ankare under taket, om man avslutar leden här blir den klart lättare.}}
+
+{{led|nr=12|namn=Magnus led|grad=7-|typ=trad|fa=[[Magnus Runsten]], [[Mats Olofsson]][[1990|-90]]|text=Start i en diederformation}}
+
+{{led|nr=13|namn=Rex|grad=7|längd=25|betyg=1|typ=mix|fa=[[Johan Luhr]], [[Rikard Hedman]][[1987|-87]]}}
+
+{{led|nr=14|namn=Guran|grad=6c+|längd=17|fa=[[Johan Luhr]]|typ=sport|bultar=3|text=Svaled som på mitten av berget går in i Diana. Ombultad i oktober 2012.}}
+
+{{led|nr=15|namn=Diana|grad=6c+|längd=17|betyg=2|fa=[[Rikard Hedman]], [[Johan Luhr]]|typ=sport|text=Fin led som kan bita ifrån. Ombultad i oktober 2012. Har ett eget ankare.}}
+
+{{led|nr=15a|namn=Diana direkt|grad=7a+|betyg=1|fa=[[Johan Luhr]][[1992|-92]]|text=På mitten av Diana, där denna gör en krumbukt åt vänster, går leden rakt upp till ankaret. Ombultad i oktober 2012.}}
+
+{{led|nr=16|namn=Holidays in eden|grad=7c+|betyg=3|typ=sport|fa=[[Johan Luhr]][[1992|-92]]|längd=25|text=Lång teknisk och ihållande led. Ombultad i oktober 2012.}}
+
+{{led|nr=17|namn=Mr Magister|grad=7c+/8a|betyg=3|typ=sport|fa=[[Johan Luhr]][[1991|-91]]|längd=25|text=Krimpfest utan vila. Ombultad hösten 2011.}}
+
+{{led|nr=18a|namn=Mr Walker|grad=7c|betyg=1|längd=25|typ=sport|fa=[[Johan Luhr]][[1990|-90]]|text=Upp genom taket. Ombultad i oktober 2012.}}
+
+{{led|nr=18b|namn=Mr Walker (variant) |grad=7b+|betyg=1|längd=20|typ=sport|fa=[[Johan Luhr]][[1990|-90]]|text=Ankare under taket. Ombultad i oktober 2012.}}
+
+{{led|nr=19|namn=Fantomen|grad=7b+|betyg=2|längd=26|typ=sport|fa=[[Johan Luhr]], [[Rikard Hedman]][[1987|-87]]|text= Startar som Mr Walker men fortsätter rakt upp efter diedern. Sedan genom takets högra kant. Ombultad i oktober 2012.}}
+
+{{led|nr=20|namn=Dragos|grad=7b+|betyg=2|längd=25|typ=sport|fa=[[Johan Luhr]], [[Rikard Hedman]][[1990|-90]]|text=Till höger om Fantomen. Ombultad i oktober 2012.}}
+
+{{led|nr=21|namn=Tio Tigrar|grad=7c|betyg=3|längd=15|typ=sport|fa=[[Rikard Hedman]][[1991|-91]]|text=Känner du dig stark? Ombultad i oktober 2012.}}
+
+{{led|nr=22|namn=Hero|grad=7c|typ=sport|längd=15|fa=[[Johan Luhr]][[1991|-91]]|text=Går ihop med Tio Tigrar. Ombultad i oktober 2012.}}
+
+
+
+{{sidbrytning}}
+[[Bild:Dodskalleberget_liten_h.png|right]]
+[[Bild:Dodskalleberget_h.png]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+=== Högra väggen===
+{{led|nr=23|namn=Den vassa eggen|grad=8-/8|typ=|längd=|fa=[[Johan Luhr]][[1995|-95]]|text=}}
+
+{{led|nr=24|namn=Höstrusk|grad=6b+|typ=|bultar=4|längd=15|fa=[[Johan Luhr]][[1990|-90]]|text=}}
+
+{{led|nr=25|namn=Den stygga björken|grad=7+/8-|typ=sport|fa=[[Johan Luhr]]-95|text=Bakom björken}}
+
+{{led|nr=26|namn=Trans|grad=7-|typ=|längd=15|fa=[[Rikard Hedman]][[Birger Hedman]][[1984|-84]]|text=}}
+
+{{led|nr=27|namn=Savate|grad=7|typ=|längd=18|fa=[[Rikard Hedman]][[Birger Hedman]][[1984|-84]]|text=}}
+
+{{led|nr=28|namn=Loppet ar kort|grad=7+/8-|typ=|längd=15|fa=[[Johan Luhr]][[1990|-90]]|text=}}
+
+{{led|nr=29|namn=P047|grad=6/6+|typ=|längd=25|fa=[[Stefan Thunberg]][[1990|-90]]|text=}}
+
+| width="350px" |
+
+=== Apväggen===
+
+{{led|nr=30|namn=Monkey business|grad=6|typ=|längd=22|fa=[[Jeremy Sheehan]], [[Claes Jelinek]], [[Dan Engstrom]][[1983|-83]]|text=}}
+
+{{led|nr=31|namn=Sjuk|grad=7-|typ=mix|bultar=2|längd=12|fa=[[Stale Ekelund]],[[Claes Jelinek]][[1990|-90]]|text=}}
+
+{{led|nr=32|namn=En liten psykiatrisk undersokning|grad=7+|typ=mix|längd=12|fa=[[Stale Ekelund]],[[Claes Jelinek]][[1990|-90]]|text=}}
+
+{{led|nr=33|namn=Utan neuroleptika|grad=7+|typ=mix|bultar=1|längd=12|fa=[[Stale Ekelund]],[[Claes Jelinek]][[1990|-90]]|text=}}
+
+{{led|nr=34|namn=Slaktmiddagangest|grad=7/7+|typ=mix|bultar=3|längd=12|fa=[[Claes Jelinek]],[[Stale Ekelund]][[1990|-90]]|text=}}
+
+{{led|nr=35|namn=No monkey business|grad=5+|typ=|bultar=|längd=14|fa=[[Jeremy Sheehan]],[[Claes Jelinek]],[[Dan Engstrom]][[1983|-83]]|text=}}
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+[[Kategori:Sport]]
+[[Kategori:Vertikalt]]
+[[Kategori:Överhäng]]
+[[Kategori:Sva]]
+[[Kategori:Stockholm]]
+[[Kategori:Tyresö]]

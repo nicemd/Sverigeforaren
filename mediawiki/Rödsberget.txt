@@ -1,0 +1,41 @@
+{{info klippa
+  |lat=58.25501
+  |long=11.25547
+}}
+
+
+
+
+
+{{komplett}}
+
+==Beskrivning==
+Klippan ligger i Åbyfjorden, mitt emot Sjöhäller. Klippan utvecklades av [http://www.granitbiten.com Team Granitbiten] under 2007.
+
+==Vägbeskrivning==
+Ligger mitt emot Sjöhäller klippan. 
+
+Vägbeskrivning till Sjöhäller. Fortsätt förbi Häller, ca 1km. En åker passeras och vatten till höger en kulle blir synlig. Parkera vid kullens högra fot vid en liten gräsplan. Gå rakt över kullen i sänkan. Berget som vetter mot vatten dyker upp till vänster.
+
+==Klippan==
+[[Bild:Rödsberget.png|center]]
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Airwolf|längd=18|grad=8a S1|fa=Stefan Wulf [[2007|-07]]|text=Det lilla taket med den tydliga aretén cirka 15m till vänster om Badkrukan.}}
+{{led|nr=2|namn=Projekt|grad=Projekt|text=Sprickan upp till det lilla taket.}}
+{{led|nr=3|namn=Ry Ry|längd=18|grad=7a+ S1|fa=Henrik Bolander [[2007|-07]]|text=Startar två meter till vänster om Badkrukan. Hangla ca 4m vänster snett uppför sprickan därefter rakt upp i spricksystemet. Tänk på utstickande hyllan under traversen.}}
+{{led|nr=4|namn=Projekt, Sprickan 2m till vänster om badkrukan.|grad=Projekt}}
+{{led|nr=5|namn=Badkrukan|längd=18|grad=6a S0|fa=Henrik Bolander [[2007|-07]]|text=Sprickan längst till vänster i det stora taket. Börjar på aretén på den utskjutande klacken.}}
+{{led|nr=6|namn=Projekt 2m till höger om Badkrukan|grad=Projekt|text=Följer den överhängande aretén. Sen vänster ut på den slopiga hyllan.}}
+| width="350px" |
+{{led|nr=7|namn=Jellyfish|längd=17|grad=6c S1|fa=Henrik Bolander [[2007|-07]]|text=Börjar två meter till höger om Badkrukan. Följ sprickan till toppen.}}
+{{led|nr=8|namn=Betongkepsen|längd=15|grad=Projekt|text=Cirka 10m till höger om badkrukan. Följ diederformationen en bit. Därefter vänster upp under överhänget. Svårt.}}
+{{led|nr=9|namn=Flygfisk|längd=13|grad=7b S0|fa=Henrik Bolander [[2007|-07]]|text=Cirka 15m till höger om badkrukan. Klättra mitt på den röda skölden snett uppåt höger.}}
+{{led|nr=10|namn=Marulk|längd=8|grad=6b S0|fa=Henrik Bolander [[2007|-07]]|text=Breda sprickan snett uppåt höger.}}
+{{led|nr=11|namn=Lutfisk|längd=7|grad=7b S0|fa=Henrik Bolander [[2007|-07]]|text=Lutande sprickan till höger om Marulk.}}
+{{led|nr=12|namn=Räkan|längd=7|grad=7c+ S0|fa=Peter Bosma [[2007|-07]]|text=Startar i monot 2m till höger om Lutfisk.}}
+|}
+[[Kategori:DWS]]
+[[Kategori:Saknar karta]]
+[[Kategori:Bohuslän]]

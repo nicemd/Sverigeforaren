@@ -1,0 +1,49 @@
+=Allmänt=
+Ett ensamt flyttblock på gamla I20-området erbjuder den mest centralt belägna klättringen i Umeåtrakten. Blocket är gneisartat och de flesta greppen är rejält vassa.
+=Vägbeskrivning=
+Från rondellen E4 norr: Kör norrut mot Ersmark och Ersboda från rondellen vid E4-norr. Rakt fram i nästa rondell och en skogsbilsväg till vänster alldeles vid en busshållsplats 2,5 km från E4. Tag vänster i första korsningen efter 100 m. I andra korsningen kör rakt fram och parkera vid en radiomast på höger sida. Passera masten och ta sikte på nästa mast uppåt krönet. Stenen står 50 meter rakt söder om denna mast.
+
+Från gamla förläggningen: Kör in på I20-området, passera en parkering och kör in på Överstevägen. Kör fram till skylt där det står 16, sväng in vänster på Ringvägen. Kör fram till skylt 18, sväng vänster. Kör fram till kurva, sväng in på liten skogsbilväg. Parkera där vägen svänger brant höger. Gå mot mast, passera den och efter ett tag ser du stenen.
+
+<googlemap version="0.9" lat="63.865084" lon="20.289575" type="map" zoom="12">
+63.864847, 20.289592, i20-stenen
+</googlemap>
+
+=Annan förare=
+En genomgång av I-20 stenens problem finns på 
+[http://justanotherboulderingblog.blogspot.com/2008/09/i20-topos.html Just Another Bouldering Blog]
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Mosqito|grad=5A|typ=|text=}}
+{{problem|nr=2|namn=Spitfire|grad=6A|typ=Dyno,Aréte|text=Start med höger hand runt arétet}}
+{{problem|nr=3|namn=Krigarens själ|grad=6C|typ=Aréte|fa=Hans Stenlund|landning=3|betyg=1|sittstart=ja|text= Följ aretet hela vägen upp till toppen.}}
+{{problem|nr=4|namn=Kalashnikov|grad=7B|typ=Krimp,Överhäng,Dyno|fa=Dag Knutsson|landning=2|betyg=2|fadatum=2001-04-20|sopad=DK|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Starta med Vänster hand i hål/spricka på aretet. Håll sedan till höger om aretet och rakt upp.}}
+| width="250px" |
+{{problem|nr=4|namn=Kalashnikov - variant|grad=6C|typ=Dyno|landning=2|variant=ja|text=Stående start med dyno till toppen}}
+{{problem|nr=4|namn=Starship Troopers|grad=7A+|typ=Krimp|fa=Jonas Wiklund|landning=2|betyg=1|sopad=Jonas Wiklund|sittstart=ja|variant=ja|text=Sittstart Kalashnikov gå ut till höger via stjärnsoldat.}}
+{{problem|nr=4|namn=Kallt krig|grad=7C+|typ=Krimp|landning=2|betyg=1|fa=Per Lindmark|sittstart=ja|variant=ja|text=Sittstart Kalashnikov gå med tilltagande besvär på mindre och mindre krimprar hela vägen ut till starten på Black Russian. Avsluta med Black Russian. EDIT: krimper har lossnat vilket försvårar repetitioner och graden är troligtvis över 7C+.}}
+{{problem|nr=5|namn=Stjärnsoldat|grad=6B|typ=Krimp,Överhäng|text=Stående start mitt på överhängande delen.}}
+{{problem|nr=5|namn=Okänd soldat|grad=7B|typ=Krimp,Dyno|fa=Hans Stenlund|landning=2|betyg=2|sopad=(okänd)|sittstart=ja|variant=ja|text=Sittstart till Stjärnsoldat. Mitt på branta delen av stenen. Snorhårt att lätta sen ännu hårdare att hänga kvar i nästa grepp, efter det är det mer eller mindre hemgång.}}
+| width="250px" |
+{{problem|nr=5|namn=Desertör|grad=7C|typ=Krimp,Dyno|fa=Hans Stenlund|landning=2|betyg=1|sittstart=ja|variant=ja|text=Sittstart mitt på stenen, avsluta med Kalashnikov-dynot.(Okändsoldat + Kalashnikov)}}
+{{problem|nr=6|namn=Black Russian|grad=7B|typ=Krimp,Överhäng,Reach|fa=Magnus Öberg|landning=3|betyg=1|fadatum=2002-12-03|sopad=Magnus Ö, Jonas W|startgrepp=ja|uteslutningar=ja|text=Starta m H hand i stort sidepull och V hand i liten spricka. Därefter rakt upp via pinchflak och crimps. Aretet är uteslutet för händerna.}}
+{{problem|nr=6|namn=Black russian sittstart|grad=7B+|typ=Krimp,Pinch,Överhäng|fa=Jonas Wiklund|landning=3|betyg=2|fadatum=2004-11-16|sopad=Jonas Wiklund|sittstart=ja|variant=ja|text=Sittande start. Klättra sedan arêtet på vänster sida precis som ståstarten.}}
+{{problem|nr=6|namn=White Russian|grad=7B+|typ=Krimp,Pinch,Överhäng|fa=Urban Dufva|landning=2|fadatum=2005-11-13|sopad=urban och några till|sittstart=ja|uteslutningar=ja|text=sittstart som på Black Russian assis, gå ut vänster som ''Stjärnsoldat''. Aretet är helt uteslutet med varenda kroppsdel.}}
+|}
+
+=Liten sten=
+Liten sten i skogen ca 100m i sydlig riktning.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Proof of life|grad=7C|typ=Sloaper|landning=2|betyg=0|fa=Per Lindmark|fadatum=2009-05-24|sittstart=ja|text=Sittstart i undercling. Följ sloaperrampen (snett upp åt vänster). }}
+|}
+
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

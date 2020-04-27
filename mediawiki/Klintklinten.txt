@@ -1,0 +1,227 @@
+{{info klippa
+  |lat=57.403476
+  |long=18.8235}}
+
+{{utkast}}
+
+[[Bild:klintklinten.jpg|thumb|400px|right|Fåraherdens grotta med den gamla linbastun i mitten]]
+
+== Allmänt ==
+Gotlands bästa boulderområde längs med en låg och brant klintkant på det natursköna Östergarnslandet. Endast en mindre del är utvecklat. Greppfattig kalksten av för det mesta hög kvalitet. Den mest utvecklade väggen är västvänd och har således kvällssol. Det går att klättra inne i Fåraherdens grotta vid regn. Endast den modige toppar ur problemen då det är högt och löst. 
+
+<div style="clear:both;"></div>
+
+== Access / boende mm ==
+
+PARKERING:
+Parkera inte så att passerande bilar och jordbruksredskap hindras. Om grinden upp mot Fåraherdens Grotta är öppen går det bra att parkera innanför. Om fler parkeringsplatser behövs kan man parkera diskret på bondens gård intill ladugården (inte så att jordbruksredskap och andra fordon hindras).
+
+BOENDE:
+Det finns camping och möjligheter att hyra stuga i fantastisk miljö i närområdet. Östergarnstrand/Sandviken ligger ca 4-5 km från Klintklinten.
+http://www.ostergarnstrand.se/index.htm
+
+RÖJNING:
+Det är okej att röja bort taggbuskar och annan sly intill klippan. Samla isåfall ihop riset i en hög. Lämna träden orörda.
+
+CHIPPING/BULTAR:
+Nej tack!!!
+
+ELDNING/GRILLNING:
+Det är INTE okej att göra upp eld intill klippan med tanke på att lamm ofta vistas på platsen.
+
+ÖVRIGT:
+Visby Klätterklubb har en mycket bra relation till markägaren och vill även ha det i framtiden. Ta med allt skräp ifrån platsen och visa hänsyn till boende och lammen som ibland finns intill klippan. Vid funderingar, kontakta accessansvarig VKK / Per Bäckström (0730-222990)
+
+==Vägbeskrivning==
+<googlemap version="0.9" lat="57.404699" lon="18.824387" zoom="17">
+57.442148, 18.981833
+Östergarnsholm, Gotland, Sverige
+57.403797, 18.824054, Klintklinten 
+
+</googlemap>
+
+
+
+Från Visby: kör länsväg 143 via Roma mot Ljugarn. Vid Alakorset (ca 12 km innan Ljugarn) sväng vänster mot Kräklingbo/Katthammarsvik. Sväng därefter höger i Kräklingbokorset och kör mot Katthammarsvik. Efter ca fem kilometer, sväng höger mot Gammelgarns Kyrka (även skyltat cykelverkstad). Vid Gammelgarns Kyrka, kör rakt i korsningen. Efter några hundra meter så syns klippan rakt österut... Låter det krångligt? Lugn, det är väl värt besväret...
+
+
+
+<div style="clear:both;"></div>
+
+==Grottbjörnens Hylla==
+
+[[Bild:Hyllan.jpg]]
+
+Grotta / överhäng vidare vänster om bondens grotta, bilder och närmare beskrivningar är påväg.
+
+{{led|namn=1. ?|grad=6A+|fa=[[Carl Quick]] -12|text=Endast en lång move, sittstart på hylla med hög fot, lång sträckning till kanten.}}
+
+{{led|namn=2. Jabba the Hutt|grad=6B|fa=[[Alexander Sjöstrand]] -12|text=Sittstart på en list, gå rakt upp.}}
+
+
+{{led|namn=3. Kamelåså|grad=7A+|fa=[[Alexander Rydén]] -12|text=}}
+
+==Bondens Grotta==
+[[Fil:Översikt_bondensgrotta_vanster.jpg|thumb|150px|]]
+[[Fil:Översikt_bondensgrotta_Höger.jpg|thumb|150px|]]
+Grotta mitt emot bondens hus och precis till vänster om Smultronväggen. Än så länge ganska outvecklad, men bedömt finns potential för några långa taktraverser i de högre graderna.
+
+{{led|namn=Det förbjudna trädet|grad=4|fa=[[Jakob Söderlund]] -12|text=Till vänster om "Urtoppning vid livets träd" Start sittandes med händerna på den kraftiga kanten. Trädet är INTE med vilket gör urtoppningen lite läskig för en 4. Se till att ha spottare.}}
+
+{{led|namn=Urtoppning vid livets träd|grad=4|fa=[[Anders Gustavsson]] -12|text=Rakt upp under trädet, använd trädet för urtoppning. Lätt led, men potentiellt elak landning.}}
+
+{{led|namn=Öppet projekt|grad=??|fa=[[??]] -??|text=Samma sittstart som Mors problem men man tar till vänster när man kommer ut till Mors bekymmer. Istället för att gå upp till lilltaket fortsätter man vänster i en travers. Hela vägen till lodräta sprickan, där man går upp.}}
+
+{{led|namn=Som en banan|grad=6A|fa=[[Maximilian Lund]],[[Malte Åberg]] -12|text=Samma sittstart som Mors problem men man tar till vänster när man kommer ut till Mors bekymmer. Upp under lilltaket och urtoppning på vänster sida av lilltaket.}}
+
+{{led|namn=Mors problem|grad=6A|fa=[[Malte Åberg]] -12|text=Alternativ start till Mors bekymmer som höjer bekymret till ett problem. Sittstart inne i grottan med två händer på jugg. Upp till lite slopeig crimp och vidare höger ut till Mors bekymmer, och upp.}}
+
+{{led|namn=Mors bekymmer|grad=5C|fa=[[David Skoog]] -12|text=Sittstart under areten. Rakt upp med ömsom crimpar och hyllor. Urtoppning upp på lilltakets högra sida. Höger sida av areten ej med. Sva.}}
+
+==Smultronväggen==
+Litet vertikalt klippparti mittemot husen. Den högra delen av väggen är övervuxen med murgröna. Precis till vänster ligger en stor grotta.
+
+{{led|namn=Helvetesgapet|grad=4|fa=[[Malte Åberg(?)]] -12(?)|text=Sittstart till vänster om Nangiala med fötterna ner i hålet. Inte så långt till vänster så man är på areten. Rakt upp med urtoppning mitt på väggen.}}
+
+{{led|namn=Nangiala|grad=4|fa=[[Sebastian Edfeldt]] -11|text=Spricka i innerhörn till vänster om Smultron.}}
+
+{{led|namn=?|grad=5B|fa=[[Calle, Alexander & Max]] -11|text=Väggklättring mitt emellan nangiala och Smultron. Varning, lös i slutet!}}
+
+{{led|namn=Smultron|grad=6B|fa=[[Gustaf Leijonhufvud]] -11|text=Ståstart på rundad vertikal arete. Välj att starta antingen på två slopiga lister eller två underhandsgrepp }}
+
+{{led|namn=Rör ej murgrönan!|grad=6A|fa=[[Gustaf Leijonhufvud]] -11|text=Sittstart i sprickan till höger om Smultron. Upp och förbi enfingerhål}}
+
+Mellan Smultronväggen och fåraherdens grotta ligger ett väggavsnitt som till höger är vertikalt, och till vänster överhängande. Den vänstra delen av den vertikala väggen delas av ett litet tak. Här ligger några problem:
+
+{{led|namn=Jazz Jackrabbit|grad=6B+|fa=[[Alexander Rydén]] -11|text=sittstart på två tydliga krimpar. Sen ett långt flytt till upp höger på en krimp . }}
+
+{{led|namn=Tripp|grad=5+|betyg=1|fa=[[Gustaf Leijonhufvud]] -11|text= Lättaste vägen upp på den högra delen av väggen.Highball. }}
+
+==Mysiga Blocket==
+Ett helt eget block vänster om Fårahedens grotta.
+
+{{led|namn=Professor Purjo|grad=5A|fa=[[GL]] -12|text=Upp i vänstervänt litet dieder i vänstersidan av det vita fältet.}}
+
+{{led|namn=Gubben Garbo|grad=6C|betyg=1|fa=[[GL]] -12|text=Krimpigt mitt i det vita fältet. Ståstart}}
+Bägge ovanstående problem har potentiella sittstarter.
+
+{{led|namn=Confused|grad=7B|betyg=3|fa=[[Alexander Rydén]] -11|text=sittstart väldigt långt ner på en arete vid ett träd. Vänsterhand på ett sidotags crimp. Högerhand väldigt långt ned i på ett pocketliknande grepp. Sen rakt upp längs med areten. Mycket crimpig. Ståstart ca 6B (etablera på sidotag med vänster och bra crimp med höger).}}
+
+==Fåraherdens Grotta==
+[[Fil:grottan_vänster.jpg|thumb|150px|]]
+[[Fil:grotten_mitten.jpg|thumb|150px|]]
+[[Fil:grottan_höger.jpg|thumb|150px|]]
+Den kraftigt överhängande grottan som har ett litet hus i mitten. Finns potential för ganska många fler branta boulders. En del helt i tak. 
+
+TILL VÄNSTER OM LINBASTUN
+{{led|namn=Mården i Midsomer|grad=6B|fa=[[Alexander Sjöstrand]] -13|text=Sittstart på två crimps på raka väggen runt hörnet från Icy Nipples, slutgrepp vid det lilla taket}}
+
+{{led|namn=Dronten|grad=6A|fa=[[Malte Åberg]] -13|text=Sittstart på bra sidogrepp och pinch, håll sedan till vänster om arêten, sluta på lite slopig hylla}}
+
+{{led|namn=Inställd Julafton|grad=6B|fa=[[Alexander Sjöstrand]] -13|text=Sittstart på en sidotagsjug. Rakt upp, avslut på hyllan rakt upp (Samma som Dronten).}}
+
+{{led|namn=Icy Nipples|grad=6C|fa=[[Maximilan Lund]] -13|text=Sittstart strax till vänster om Mustamihno}}
+
+{{led|namn=Mustamihno|grad=6B/7A|fa=[[Alexander Rydén]] -11|text=sittstart tv om ekg. Högerhand pinch på tufa, vänster hand slappt sidotag. Jugg mitt emellan eliminerad för den högre graden. Slutar uppe på kanten till vänster. }}
+
+{{led|namn=EKG|grad=6C+|betyg=3|fa=[[Maximilan Lund]] -11|text=Längst till vänster i grottan.}}
+
+{{led|namn=Battlecruiser|grad=7B|fa=[[Maximilan Lund]] -13|text=Sittstart inne i grottan}}
+
+
+TILL HÖGER OM LINBASTUN
+{{led|namn=Shazam|betyg=2|grad=7b+|fa=[[Alexander Rydén]] -11|text=Pumpande travers från höger till vänster med trixigheter i slutet. Följ den nedre sprickan utan attt gå upp till den stora jugg sprickan. Ledgraderad då den är lång.}}
+
+{{led|namn=Blair Witch Project|betyg=2|grad=7c+|fa=[[Alexander Rydén]] -11|text=Den ultimata traversen! Efter att du klättrat hela Shazam, fortsätt rakt upp till stora de stora greppen. Följ sedan dem åt vänster tills andra sidan huset. Men stå inte på huset! På andra sidan huset forstsätter du vidare på crimpiga och sloopiga grepp tills du kommer till en fin jugg. Det går att förlänga leden ytterligare om man vill.}}
+
+{{led|namn=?|grad=7a|betyg=2|fa=[[?]] -?|text=Pumpande travers på stora grepp från höger till vänster, följ den stora sprickan hela vägen förbi fårhuset och sluta precis bortanför huset. Obs stå inte på huset! Ledgraderad då den är lång.}}
+
+{{led|namn=The Master Sword|grad=7C+/8A|fa=[[Maximilian Lund]] -13|text=Tydlig linje i taket, slutjugg där nästa tak börjar.}}
+
+{{led|namn=Hydra|betyg=3|grad=7A+|fa=[[Maximilian Lund]] -13|text=Sittstart på list inne under det mindre taket strax till höger om grottan. Slutgrepp på hyllan mitt på raka väggen}}
+
+==Nedfallna Kanten==
+[[Fil:nedfallna_kanten.jpg|thumb|150px|]]
+[[Fil:nedfallna_kanten_höger.jpg|thumb|150px|]]
+Till höger om fåraherdens grotta ligger en liten sektion nedfallen klintkant.
+
+{{led|namn=Baaaluuubaa|betyg=1|grad=6C|fa=[[Alexander Rydén]] -11|text=Sittstart på areten sen ut till höger och rakt upp. }}
+
+{{led|namn=Magont|grad=7B+|fa=[[Martin Leidebrant -2012]]|text= Tydlig fin linje mellan Areten och Arytmi, med sittstart på crimpar och upp via crimpar och pockets. Toppar ut i "grushögen" rakt upp. Se upp för lösa stenar! }}
+
+{{led|namn=Arytmi|grad=6B+|betyg=2|fa=[[Gustaf Leijonhufvud]] -07|text= Sittstart i två tydliga lister. Drag upp till slopig hylla, sedan snett upp åt vänster}}
+
+{{led|namn=Armbågen i gruset|grad=6B|betyg=1|fa=[[Alexander Rydén]] -11|text= Sittstart till höger om den högra areten. Klättra ut till vänster mot areten och sen rakt upp till ett mantlingsliknande avslut.}}
+
+{{led|namn=Det lutande planet|grad=5C|fa=[[Malte Åberg]] -12|text= Ståstart med hylla för högerhanden och grepp för vänster. Ut en bit till höger och sen upp och sluta på kanten under det lösa.}}
+
+{{led|namn=Jagad av en säl|grad=6A+|fa=[[Alexander Rydén]] -11|text= Sittstart på areten högst upp mot den andra väggen. Följ areten rakt upp till de lösa partiet och avsluta där. Toppa inte ur!}}
+
+==Raka Väggen==
+[[Fil:raka_väggen.jpg|thumb|150px|]]
+Direkt upp till höger ifrån nedfallna kanten
+
+{{led|namn=Zimba|grad=6A|fa=[[Alexander Rydén]] -11|text=vertikal klättring med några pockets. }}
+
+{{led|namn=Skallskada|grad=6C|betyg=1|fa=[[Alexander Sjöstrand]] -12|text=Ståstart i enfingerpocket och undercling. Upp förbi bla två enfingerpockets för höger hand }}
+
+{{led|namn=Jösses flickor|grad=6A|fa=[[Gustaf Leijonhufvud]] -13|text=Till höger om Skallskada. Klättra snett ut åt höger och sedan rakt upp. Potentiell sittstart (hårdare) upp i vass spricka.  }}
+
+{{led|namn=Buskapokalyps|grad=5B|fa=[[Anders Gustavsson]] -12|text=Börja sittandes på huk längst in vid väggen, utan händer till start. Fortsätt uppåt och till vänster under taket.}}
+
+Alldeles till höger om raka väggen finns dessa
+{{led|namn=Nala|grad=5C|fa=[[Alexander Rydén]] -11|text=halvsittstart händerna på en krimpig jugg.. }}
+
+{{led|namn=Nässelsoppa|grad=6B|fa=[[Alexander Rydén]] -11|text=sittstart på en jugg. Sen rakt upp mot en sloop med ett knepigt flytt förbi. risig urtoppning. }}
+
+==Zorrotaket==
+[[Fil:taket.jpg|thumb|150px|]]
+Fortsätt höger ifrån raka väggen ca 50m.
+{{led|namn=Underbar och älskad av alla i klubben|grad=7B|fa=[[Per-Ola Nilsson]] -13|text=Sittstart med bra grepp, upp höger pocket, långt skick vänster jugge, långt skick höger till kant, vänster krimplist, toppa ur.}}
+
+{{led|namn=Under underbar|grad=6C|fa=[[Per-Ola Nilsson]] -13|text=Ståstart med bra grepp i listen, krimp vänster, höger pocket, vänster pocket under taket, höger på bullen, vänster ut till kanten, toppa ur.}}
+
+==Balkongväggen==
+Fortsätt höger från Zorrotaket tills du kommer till ett öppet parti med vägg.
+
+{{led|namn=Projekt|grad=?|fa=[[-]] --|text=Sittstart på två tufor, fortsätt rakt upp, läskig dyno som avslut.}}
+
+{{led|namn=Projekt|grad=?|fa=[[-]] --|text=Ståstart i 1fingerpocket, gå rakt ut och upp förbi första taket, traversera höger och fortsätt upp längs tufan.}}
+
+==Lutande Stenen på Gotland==
+Fortsätt höger från Zorrotaket
+
+{{led|namn=Akta buskarna|grad=4|fa=[[Alexander Sjöstrand]] -12|text=Rakt upp!}}
+
+{{led|namn=Rosendöden|grad=5A|fa=[[Alexander Rydén]] -12|text=Sittstart på areten och följ den upp}}
+
+[[Bild:Lutande.jpg]]
+
+
+{{led|namn=1. |grad=?|text=Sittstart på areten som är brantast och följ den upp}}
+{{led|namn=2. Småfolkets land|grad=5A|fa=[[Alexander Rydén]] -12|text=Sittstart under ett litet tak, sen rakt upp}}
+
+==Fårscenen==
+Alldeles bredvid Lutande Stenen
+
+[[Bild:Får_scenen.jpg]]
+
+{{led|namn=1. Projekt|grad=6B/6C?|text=}}
+
+{{led|namn=2. ?|grad=6A|fa=[[Malte Åberg]] -12|text=}}
+
+{{led|namn=3. Dinkelfjutt|grad=6B+|fa=[[Alexander Rydén]] -12|text=Start vid tydlig list på kanten, Heel hook på annan tydlig list på kanten}}
+
+{{led|namn=4. Projekt|grad=6A/6B?|text=Lägs med sprickan i hörnet}}
+
+{{led|namn=6. Projekt|grad=7B/7B+?|text=Sittstart under överhänget. Lite dålig landning, så ta med många paddor och spottare}}
+
+
+
+
+
+Under utveckling och uppdatering.
+
+[[Category:Bouldering]]
+
+[[Category:Gotland]]

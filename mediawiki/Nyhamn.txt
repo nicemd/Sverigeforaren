@@ -1,0 +1,11 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Ljusskygg|grad=7B+|typ=Krimp,Slopers|fa=Christofer Björklund|landning=3|betyg=1|fadatum=2006-08-12|sopad=Christofer Björklund|sittstart=ja|startgrepp=ja|text=Sittstart ca 3 meter till vänster om leden "Onda vibrationer". Börjar med båda händerna i ett incut, går rakt upp och slutar med händerna på jugrampen.}}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

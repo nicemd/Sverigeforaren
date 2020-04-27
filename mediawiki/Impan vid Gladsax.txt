@@ -1,0 +1,35 @@
+{{utkast}}
+[[Bild:Impan_v2.jpg|700px|<BR>Foto: Fredrik Ekblad]]
+
+==Access {{access}}==
+<accessDB>
+ id=00
+ width=500
+ height=300
+</accessDB>
+
+Det finns inget klätterförbud listat på Länsstyrelsens hemsida (augusti 2010). Beakta eventuell lokal skyltning.
+
+== Allmänt ==
+
+Efter en närmare titt i Augusti 2010 på Länsstyrelsen i Skåne Läns hemsida kan författaren inte hitta några dokument som listar ett klätterförbud på Impan. Den vänstra delen av klippan torde därför var öppen för klättring - beakta lokal skyltning. Den högra delen (utanför bild)drabbades av ett större ras för ett antal år sedan och där kanske man bör undvika klättring. Själva klätterklippan torde vara långt från Barbastellfladdermusens övervintringsplatser. 
+
+Impan vid Gladsax är ett gammalt stenbrott precis utanför den lilla orten Gladsax på österlen. Bergarten är en skarp Quarzit av ovanligt slag för Skåne. Finkänslig väggklättring dominerar. Klippan är kompakt och svårsäkrad. Ett par gamla borrbultar sitter i ett par leder, men topprepning rekommenderas. Klippan kan vara lämplig för ett kort besök. Det ska finnas ytterligare ett par turer utöver de som är inritade på bilden.
+
+Impan med omgivningar är ett Natura 2000 område. För mera information sök "Impan" på Länsstyrelsen.se. I Impan-området finns en gammal gruva där den sällsynta Barbastell-fladdermusen övervintrar.
+
+== Hitta hit ==
+
+Från Gladsax ser man klippan. Sväng ner på Juliebergsvägen, sen kan du köra ut på grusvägen till vänster så långt som det går, med lite markfrigång kan man köra ända fram till området. [http://www.openstreetmap.org/?lat=55.55914&lon=14.30395&zoom=15&layers=M Karta över området.]
+
+
+{{led|nr=1|namn=Quartz|grad=6-|betyg=1|längd=12
+ |fa=M. Nilsson & T.Winther 84|bultar=2|typ=mix|text=Väggklättring på små grepp. Två gamla Petzl bultar visar vägen. En stålhammare eller liknande kan stickas ner i och knytas av i ett gammalt borrhål nära toppen}}
+
+{{led|nr=2|namn=Fåret i Maten|grad=5+|betyg=0|längd=12
+ |fa=T.Winther & M. Nilsson 84|bultar=0|typ=äventyr|text=Från den lilla urgröpningens vänstra kant följande en diagonal grund spricka mot höger.}}
+
+{{led|nr=3|namn=Scoutleden|grad=3-4|betyg=|längd=12
+ |fa=Scouter, anno dazumal|bultar=|typ=trad|text=I det lätta hörnet. Förmodligen förstabestigen av scouter under 70-talet.}}
+[[Kategori:Skåne]]
+[[Kategori:Skåne]]

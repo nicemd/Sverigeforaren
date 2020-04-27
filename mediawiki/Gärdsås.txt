@@ -1,0 +1,179 @@
+{{info klippa
+  |lat=57.74851113860408
+  |long=12.052774429321289
+}}
+[[Kategori:2 stjärnor]]
+{{utkast}}
+==Allmänt==
+
+Det förlovade landet för femma-klättrare. Ca 40 leder, varav massor av fina leder i lättare grader. Bra ställe att öva tradklättring. Lättillgängligt och barnvänligt. Hamnar i skugga framåt kvällen, men svalkande träd gör det ok att vistas där även dagtid. Firningsankare finns ovanför Start och Speed samt Vårtecknet. Parkera inte på Ungmästaregatan.
+
+== Introduktion ==
+[[Bild:jugg_jappe.jpg|thumb|100px|Jappe och Jug.]]
+
+Tänk på ljudnivån då klättringen sker alldeles intill bebyggelse, se Access nedan. Parkera inte på Ungmästaregatan! 
+
+Nedstigning finns dels genom att ta sig till höger till cykelvägen. Dels kan man navigera sig ned på en brant stig till vänster om Älgens överskning.
+
+== Karaktär ==
+
+Varierat med bland annat stora tak. Mestadels vertikalt med enstaka ramper som erbjuder flack nybörjarklättring. Trad. Två limbultsankare huvudsakligen för firning, försedda med ring och "maillon rapide", fira i ringen, toppa i egna karbiner. Sätt inte upp nya bultar i Gärdsås, det är så fint som klätterberg som det är utan bultar!
+
+== Vägbeskrivning ==
+<googlemap lat="57.74851113860408" lon="12.052774429321289" zoom="14" type="karta">
+57.74851113860408,12.052774429321289,Gärdsås
+
+</googlemap>
+Parkera längs Gärdsåsgatan, Kamgatan.
+''Parkera INTE vid återvinningsstationen på Ungmästaregatan'', vilket angetts här tidigare.
+Gå upp och ta vänster på Sockerbagaregatan. Gatan blir cykelväg, sedan ser du klippan.
+{{tryckt förare|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+== Access {{access}} ==
+Klättringen sker väldigt nära villatomter. I vänstra delen av området klättrar man bokstavligen rakt ovanför nån stackare som försöker läsa tidningen i lugn och ro på sin gräsmatta. Ropa inte i onödan och låt bli alla svordomar och annat oskick! Tänk även på parkeringen, Parkera inte på Ungmästaregatan. 
+{{AccessDB|klippa=gardsas}}
+
+== Jannes hörn ==
+''Tänk på att hålla ljudnivån nere på alla leder fram till Jennys grej, hus mycket nära! ''
+{{led|namn=Star trek|grad=5}}
+{{led|namn=Kurt|grad=7-}}
+{{led|namn=?|grad=4}}
+{{led|namn=Dolomiti|grad=5+|betyg=1|längd=25
+ |typ=trad|text=Ovanlig klättring på kristallin klippa.|fa=}}
+{{led|namn=Svåra väggen|fa=Rikard Ekehed|grad=7-}}
+{{led|namn=Vårtecknet|grad=5|fa=Ulf Björnberg & Susanne Rydfeldt|text=Längst in i hörnet, har ett firningsankare}}
+{{led|namn=Not without my friends|grad=6-|fa=Weine Hallberg & Magnus Eriksson}}
+{{led|namn=Kryckan|grad=5}}
+
+{{led|namn=Jannes hörn|grad=7-|betyg=2|längd=20|fa=
+ |typ=trad|text=Spricka med brant layback på slutet.}}
+{{led|namn=Det eviga projektet|fa=Lars Ingemansson|typ=mix|text=Projekt|grad=7+}}
+{{led|namn=Kapten Långfinger| grad=7-|fa=Jan Liliemark}}
+{{led|namn=Jennys Grej|grad=5+|fa=Ulf Björnberg}}
+
+== Bikupan ==
+
+{{led
+|namn=Bikupan
+|grad=5+
+|längd=20
+|typ=trad
+}}
+
+{{led
+|namn=Bitsk
+|grad=6+
+|längd=20?
+|typ=trad
+|fa=[[Johan Sundell]] (2007-03-29)
+|text=Där Bikupan svänger av till vänster efter någon meter, fortsätt rakt upp i diedret och upp igenom taket (krux) på vänster sida.
+|ny=1
+}}
+
+{{led|namn=Älgens överaskning|grad=5+|betyg=3|längd=20
+ |typ=trad|text=Luftig men välsäkrad.|fa=}}
+
+{{led|namn=Luftmadrassen|grad=5+|betyg=2|längd=20
+ |typ=trad|text=Till höger om Älgens överaskning. Flack diederklättring upp till första taket. Gå genom detta och upp till nästa tak, här traverserar du vänster. Luftig men välsäkrad.|fa=Ulf Björnberg}}
+
+{{led|namn=Yesterday|grad=5|fa=Tomas Machek & Jan Machek|text=Samma start som Luftmadrassen men traverserar höger vid första bästa tillfälle och därefter rakt upp.|typ=trad }} 
+{{led
+|namn=Syjuntan
+|grad=6
+|längd=12
+|typ=trad
+|fa=[[Calle Martins]], [[Per Larsson]] (2007?)
+|text=Aréten höger om Luftmadrassen. Tyvärr har kruxet efter insteget markfallspotensial, 'buyer beware'. I övrigt en bra led på arétens vänstersida. Slutar på hylla strax under toppen. Notera att Syjuntan aldrig går samman med Yesterday.
+|ny=1
+}}
+
+{{led|namn=Toms överraskning|grad=5+|betyg=1|längd=15
+ |typ=trad|text=Det sitter en fast 'säkrings grej' i den breda sprickan i slutet.|fa=Tomas Machek & Jan Machek}}
+{{led|namn=Match|grad=6+|fa=Jan Machek}} 
+{{led|namn=Set|grad=5+|betyg=1|längd=15
+ |typ=trad|text=Vänsterlutande spricka.|fa=}}
+
+{{led|namn=Game|grad=5|betyg=1|längd=15
+ |typ=trad|text=Startar på samma ställe som Set men fortsätter i spricksystemet upp höger efter någon meter.|fa=}}
+
+{{led|namn=Måndagens led|grad=3+}}
+{{led|namn=Fredagens led|grad=4}}
+
+== Start och Speed ==
+{{led|namn=Dominikas led|grad=4-}}
+{{led|namn=Betongsång|grad=6-|betyg=1|längd=15|fa=[[John Liungman]] 2012?
+ |typ=trad|text=Start som Dominikas. Vid det breda suspekta blocket gå rakt upp på väggen längs vaga sprickor.}}
+{{led|namn=Jappe|grad=5|betyg=1|längd=15|fa=[[Jan Pålsgård]]
+ |typ=trad|text=Sprickklättring med ett och annat bök.}}
+
+{{led|namn=Jug|grad=5|betyg=2|längd=15
+ |typ=trad|text=Laybacka, stäm, ta i. Juggen kommer så småningom.|fa=Ulf Björnberg, Jan Liliemark}}
+
+{{led|namn=Start och speed|grad=6|betyg=2|längd=15
+ |typ=trad|text=Uppför ramp höger om areten, sedan runt areten i svårsäkrat krux. Därefter förvånansvärt välsäkrad väggklättring. En lite krystad instegsvariant (grad 7) finnes. Startar vänster om areten och har en bult.|fa=Lars Ingemansson, Arne Roos, Lars Cronlund}}
+
+{{led|namn=Bläckfisk|grad=7|fa=Richard Ekehed}}
+
+{{led|namn=Pi kuan|grad=5+|betyg=0|längd=15
+ |typ=trad|text=Någon av sprickorna höger om rampen och upp till det stora blockets högerkant. Gå rakt upp eller traversersa vänster under blocket. Sedan lite svårsäkrad stämklättring efter hyllan. (Varianten som börjar i samma ramp som Start och Speed är relativt svårsäkrad.|fa= Ulf Björnberg & Göran Hellström)}}
+
+== Tien Tsin ==
+
+{{led|namn=Sträckfisk|grad=7-|betyg=1|längd=20
+ |typ=trad|text=Känslig klättring i ett litet dieder. Tunn tarvers åt höger mot areten, följt av den vänstra sprickan mot toppen. Troligen seriös i första halvan.|fa=Dag Kolsrud}}
+
+{{led|namn=Lutfisk|grad=7|betyg=2|längd=20
+ |typ=trad|text=Som Sträckfisk tills efter traversen, sedan upp i den högra sprickan. Tung men fin klättring på riktiga grepp.|fa=Johan Nilsson & Henrik Sennelöv}}
+
+{{led|namn=Tien-tsin|grad=7|betyg=2|längd=15|fa=[[Hans-Christian Doseth]]
+ |typ=trad|text=Varierad klättring upp i det vänstra av de två stora diedren. Tunga handjam när det brantar till sig.}}
+
+{{led|namn=China corner|grad=6+|betyg=2|längd=15|fa=[[Hans-Christian Doseth]]
+ |typ=trad|text=Stämklättring i det högra stora diedret. Relativt välsäkrat, liten Alien kan göra kruxet behagligare.}}
+
+{{led|namn=Centralpelaren|grad=6+|betyg=1|längd=15
+ |typ=trad|text=Elegant när du traverserar ut på pelaren i början. Sedan lite ojämnt men fint. Välsäkrat.|fa=Lars Ingemansson}}
+
+== Nurejev ==
+{{led|namn=Leden som gud glömde|grad=6-7 (morfo)|fa=Magnus Strömhäll, 20xx|text=Leden startar längst in i hörnet, under blocket som har kalvat bort, längs med taket. Välsäkrad med stora kila/hexor/tricams, rensas enklast ovanifrån.Inget för den storväxte.}}
+{{led
+|namn=Ett hål i mitt hjärta
+|grad=6
+|längd=15
+|typ=trad
+|fa=[[Per Larsson]], [[Erik Gustavsson]] (2007?)
+|text=Samma start som Travolta, efter ca 4 m ut vänster via sprick-krysset till arèten. Sedan rakt upp till nästa spricksystem och utsteget. Varierande och fin.
+|ny=1
+}}
+{{led|namn=Travolta|fa=Jan Pålsgård & Bogi Palfay|grad=7-|typ=trad|text=Följer de två pararella sprickorna, klurig start till avsevärt lättare men mindre välsäkrat slut.}}
+{{led|namn=Baryshnikov|fa= Bogi Palfay & Jan Pålsgård |grad=6|text=Klättring på ganska grova grepp, balansigt och akrobatiskt. Inte överdrivet säkrat. }}
+{{led|namn=Moses Pendelton|grad=8-}}
+{{problem|namn=Gärdsåstraversen|grad=7+|fa=HC Doseth}}
+{{led|namn=Nurejev|fa= Dag Kolsrud & Jan Pålsgård & Bogi Palfay |grad=6+ | text=Juggig catch-start i överhänget. Variantstart till höger av Jan P något senare. }}
+{{led|namn=Mowgli|betyg=2|grad=4+|fa=Tomas Machek|text=Fin övning för aspirerande lead-klättrare. Kan rekommenderas!}}
+{{led
+|namn=Bakfylleleken
+|grad=C3
+|längd=15?
+|typ=aid
+|fa=[[Per Gunnarson]] (2006?)
+|text=Startar i den tydliga diedret till höger om Mowgli. Rakt upp till tvärsprickan, traversera höger till taket. Klättra genom taket längst den tunna sprickan (krux). Små kilar. Utsteget är kanske grad 5 (osäkrad) eller flera hookar i rad. Ta med RPs, hooks och normalt frirack. Eventuellt någon pecker för handplacering.
+|ny=1
+}}
+{{led|namn=Baloo|grad=4|fa=Tomas Machek}}
+{{led|namn=Bagheera|grad=4+|fa=Tomas Machek & Petra Machek}}
+
+{{led
+|namn=Gulbrunt
+|grad=5+
+|längd=10
+|typ=trad
+|fa=[[Per Larsson]], [[Magnus Strömhäll]] (2004)
+|text=Det svaga diedret/flaket till vänster om Blåvitt. Klättra detta och sedan rakt över bullen.
+}}
+{{led|namn=Blåvitt|grad=6|fa=|text=Blåvitt hittas om du fortsätter cykelvägen i riktning mot fotbollsplanen, strax innan cykelvägen delar sig till vänster.|betyg=2}}
+
+[[category:Barnvänligt]]
+[[category:trad]]
+[[category:Vertikalt]]
+[[Kategori:Göteborg]]

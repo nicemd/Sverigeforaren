@@ -1,0 +1,220 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=60.759458  |long=15.330552}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{komplett}}
+
+==Allmänt==
+Vid Rällsjön mellan Falun och Rättvik ligger Fregåsberget. Klättringen på berget sker på ett antal olika klippor av vilka Centralväggen kan skymtas inne i skogen vid den östra sidan av riksväg 69 när man passerar. Klipporna är ca: 15m vid högsta klätterbara delen och berget bjuder på en blandning av sport, trad och mixade turer. Bergets ca. 50 leder erbjuder varierande klättring på olika sprickor, svaer eller branta bultsäkrade väggar och stenen är av god kvalitet. Det finns även ett antal större stenar utspridda i skogen med olika boulderproblem. Miljön är trivsamt, dock kan trafikljud ibland irriterar vid de klipporna som ligger närmaste riksvägen. Närmaste mat finns i Bjursås medan i Falun eller Rättvik finner man större matvarubutiker och Kaféer. Badar kan man göra i Rällsjön eller någon av de många andra sjöarna i området. Med rolig och utmanande klättring i ett trivsamt miljö är ett besök vid Fregås alltid en trevlig upplevelse. Kom ihåg att alltid uppträder respektfullt i möten med markägare och allmänheten. Ta även med er all skräp när ni lämnar klippan.
+
+
+==Vägbeskrivning==
+
+
+Från Falun, ta riksväg 69 mot Rättvik. Parkera vid den stora rastplatsen på höger sidan om vägen ca. 6,5km efter Bjursås. Följer därefter stigen till önskad klippa. Stigen till Gömdaklippan börjar i ungefär mitten av parkeringsplatsen, bredvid en kort stålpinne som markerar en nedgrävd elledning.  
+
+
+
+==Översiktskarta==
+
+
+[[Bild:Fregåsberget_översiktskarta.png]]
+
+
+
+==Utrustning och Graderingar==
+
+
+Klättringen på Fregåsberget kräver endast en standard svensk-rack bestående av ett antal slingor av diverse längder, 10 quickdraws och en uppsättning kilar och cams (i ledbeskrivningarna används  SLCD’s som fökortning för self loading camming devices eller cams). Som graderingssystem används den skandinaviska gradskalan, 1-9+ med bergets svåraste led i skrivande stund grad 8+. Graderingen gäller den svåraste passagen på leden. Varianter är graderade efter sin självständiga dels svåraste passage.
+
+
+
+==Leder==
+
+
+Lederna beskrivs från vänster till högre betraktat nerifrån. 
+
+
+===Svaplattan===
+
+Se översiktskartan för placering och vägbeskrivning. I dagsläget saknas en detaljerad skiss för denna klippa.
+
+
+{{led|nr=1|namn=Svaplattan|längd=8|grad=6-|betyg=|typ=trad|fa=Mattias Flodin 1988
+|text=Det tydliga svaet längst till vänster. Kilsäkrad.}}
+
+{{led|nr=2|namn=F2|längd=8|grad=4|betyg=|typ=trad|fa=Okänd|text=Kort kilsäkrad spricka till vänster om stora väggen.}}
+
+{{led|nr=3|namn=Projekt Erik Olsson|längd=10|grad=?|betyg=|typ=projekt|fa=|text=}}
+
+===Centralväggen===
+
+Centralväggen är Fregåsbergets högsta klippa. Här finns det vid skrivande stunden ca. 23 leder av hög kvalitet i olika svårigheter och stiler. Miljön är trivsamt, dock kan trafikbuller ibland vara irriterande. Se översiktskartan för placering och vägbeskrivning. I dagsläget saknas en detaljerad skiss för denna klippa.
+
+
+{{led|nr=4|namn=Dallermage|längd=7|grad=3+|betyg=|typ=trad|fa=Familjen Gracie 2010|text=Kort spricka och sva 5m till vänster om ''Craig’s crack''. Starta längst ner till vänster.}}
+
+{{led|nr=5|namn=Svaprojekt|längd=8|grad=?|betyg=|typ=projekt|fa=|text=}}
+
+{{led|nr=6|namn=Fin lir|längd=8|grad=6|betyg=|typ=trad|fa=Jeff Gracie, Eric Olsson 2006|text=Flakesystemet på svaet 2m till vänster om'' Craig’s crack''. Små kilar. Saves the best till last.}}
+
+{{led|nr=7|namn=Craig's crack|längd=12|grad=4+|betyg=|typ=trad|fa=Craig Thomas 1988|text=Stora sprickan I hörnet längst till vänster bakom bautablocket. Kilar och SLCDs.}}
+
+
+[[Bild:Fregåsberget_2.jpg]]
+
+Curlie crankin hard på ''Craig's crack''. Foto: Rikard Borres
+
+
+{{led|nr=8|namn=Bodil|längd=10|grad=7|betyg=|typ=sport|fa=Mattias Flodin 1990|text=Skiffersva 1,5m till höger om ''Bodil''. Nya bultar 2008(?). Ursprungligen klättrad endast med bladbulten och en borrbult. Delar firningsankare med ''Powerslave''.}}
+
+{{led|nr=9|namn=Powerslave|längd=10|grad=7+|betyg=|typ=sport|fa=Mattias Flodin, Johan Luhr 1988|text=Den branta bultade areten 3m till höger om ''Craig’s crack''. Firningsankare.}}
+
+{{led|nr=10|namn=Orange Mekanik|längd=12|grad=7-|betyg=|typ=trad|fa=Mattias Flodin 1988|text=Den tydliga laybacksprickan 3m till höger om ''Powerslave''. Två möjliga utsteg. Alt. 1: följer vänster sprickan till Rappelfästet för ''Powerslave'' (7-). Alt. 2: Ta höger sprickan ovanför hyllan (6).}}
+
+{{led|nr=11|namn=Mekhong|längd=12|grad=6+|betyg=|typ=sport|fa=Mattias Flodin 1993|text=Något krystad andra hälft. Börja 1m till höger om ''Orange Mekanik''. Följa bultlinjen uppför svaet och vidare mitt emellan de två alternativa utstegen till ''Orange mekanik''. 4 bultar och firningsankare.}}
+
+{{led|nr=12|namn=Pointbreak|längd=15|grad=7-|betyg=|typ=mix|fa=Mattias Flodin 1993|text=Hörnsprickan 2m till vänster om ''Dick''. Upp igenom lilla taket. Följer sedan den tunna sprickan vidare förbi 2 bultar till toppen. 2 bultar + kilar och SLCD’s.}}
+
+{{led|nr=13|namn=Dick|längd=18|grad=6+|betyg=|typ=mix|fa=Dick Gunnars 1988|text=Den lilla sprickan 1m till vänster om stora arete’n. Klättra upp runt hörnet och sedan vidare via sprickan i övre väggen. 1 bult + kilar, SLCD’s.}}
+
+{{led|nr=14|namn=Min blodiga kamp|längd=14|grad=8-|betyg=|typ=mix|fa=Mattias Flodin 1990|text=Klättra första delen av ''Dick''. Följ sedan areten hela vägen till toppen. Direktstarten 8.}}
+
+{{led|nr=15|namn=Axa|längd=7|grad=8-|betyg=|typ=sport|fa=Mattias Flodin, Johan Luhr 1988|text=Insteg vid stora grottan. Den vänstra av de 2 lederna ovanför grottan.  Bultar och firningsankare.}}
+
+{{led|nr=16|namn=Hellracer|längd=14|grad=8-|betyg=|typ=mix|fa=Mattias Flodin 1988|text=Som ''Axa'' men hela vägen till toppen.}}
+
+{{led|nr=17|namn=Pokerface|längd=12|grad=7-|betyg=|typ=sport|fa=Mattias Flodin 1993|text=Den vänstra av de 3 lederna på väggen till vänster om ''Stora klöften''. 5 bultar och firningsankare.}}
+
+{{led|nr=18|namn=Äss i armen|längd=12|grad=6+|betyg=|typ=mix|fa=Mattias Flodin, Johan Luhr 1988|text=Mitterst av de 3 lederna på väggen till vänster om ''Stora klöften''. 2 bultar och firningsankare.}}
+
+{{led|nr=19|namn=Kåk|längd=12|grad=6|betyg=|typ=mix|fa=Dick Gunnars 1989|text=Börja 2m till vänster om ''Stora klöften''. 3 bultar och kilar. Firningsankare.}}
+
+{{led|nr=20|namn=Stora klöften|längd=12|grad=4+|betyg=|typ=trad|fa=Okänd|text=Tydliga dieder och spricksystemet. Äldsta leden på klippan. Firningsankare.}}
+
+
+
+[[Bild:Fregåsberget_1.jpg]]
+
+Ulf bränner av ''Stora klöften''. Foto: Rikard Borres
+
+
+
+{{led|nr=21|namn=Clownerna på berget|längd=10|grad=7+|betyg=|typ=mix|fa=Anders Fridberg, Jeff Gracie 1993|text=Börja vid svaet ovanför blocket till höger om ''Stora klöften''. Klättra uppför svaet och vidare genom taket till toppen. Bultar plus en stor kil för slutet. Variant: avslut till höger efter taket.}}
+
+{{led|nr=22|namn=Hallick|längd=10|grad=7+|betyg=|typ=sport|fa=Mattias Flodin 1993|text=Börja 3m till höger om ''Clownerna på berget''. Klättra upp till taket, traversera sedan till vänster och upp till firningsankare. Bultar.}}
+
+{{led|nr=23|namn=Torsk|längd=10|grad=7|betyg=|typ=sport|fa=Mattias Flodin 1993|text=Börja som för ''Hallick'', sedan rakt upp till firningsankaret. Bultar.}}
+
+{{led|nr=24|namn=Lilltorsken|längd=8|grad=5+|betyg=|typ=sport|fa=Anders Wester 1993|text=Börja 2m till höger om ''Hallick''. Väggklättring med bultar. Använd trädet som firningsankare.}}
+
+{{led|nr=25|namn=K2|längd=7|grad=4-|betyg=|typ=trad|fa=Okänd|text=Breda sprickan/skorsten till höger om ''Lilltorsken''. Kilar och SLCD’s.}}
+
+{{led|nr=26|namn=Styrkelyft|längd=4|grad=7-|betyg=|typ=sport|fa=Mattias Flodin 1996|text=Bultade boulderproblemet 15m till höger om ''K2'', strax innan hörnet. En bult.}}
+
+{{led|nr=27|namn=Öppet projekt|längd=8|grad=?|betyg=|typ=sport|fa=projekt|text=Bultade linjen 20m till höger om ''Styrkelyft''.}}
+
+
+
+
+===Siam-stenen===
+
+Siam- stenen är det fristående pyramid-liknandeblocket nedanför stora grottan. Här finns det 2 bultade leder.
+
+{{led|nr=28|namn=Singapore|längd=6|grad=7-|betyg=|typ=sport|fa=Mattias Flodin 1996|text=Vänstra leden på stenen. Bultar och firningsankare.}}
+
+{{led|nr=29|namn=Siam|längd=6|grad=7|betyg=|typ=sport|fa=Mattias Flodin 1996|text=Högra leden på stenen. Bultar och firningsankare.}}
+
+
+
+På en svaplatta cirka 15m till höger om Siam-stenen finns ytteliggare en kort fristående led.
+
+{{led|nr=30|namn=Rödtjut|längd=6|grad=6|betyg=|typ=sport|fa=Mattias Flodin 1996|text=Ett brant insteg leder till en svaplatta. 2 bultar.}}
+
+
+===Smalaväggen===
+
+Se översiktskartan för placering och vägbeskrivning. I dagsläget saknas en detaljerad skiss för denna klippa.
+
+{{led|nr=31|namn=Drängfull|längd=8|grad=6|betyg=|typ=sport|fa=Mattias Flodin 1993|text=Längst till vänster på hörnet. Bultar}}
+
+{{led|nr=32|namn=Gaddad galning|längd=8|grad=6+|betyg=|typ=sport|fa=Mattias Flodin 1993|text=I mitten. Bultar}}
+
+{{led|nr=33|namn=Anders kamp|längd=8|grad=6|betyg=|typ=sport|fa=Mattias Flodin 1993|text=Kanten till höger. Bultar}}
+
+
+===Gömdaklippan===
+
+En mycket trevlig liten klippväg som ligger lugnt och avskilt uppe i skogen. Lederna här är generellt kortare än vid centralväggen, dock saknas trafikljud vilket gör miljön mycket trivsam. I dagsläget finns det 17 leder här inklusive Mattias Flodins'' Jag hatar mig själv och jag vill dö''   8+, bergets svåraste led.
+
+
+[[Bild:Gömdaklippan nedredelen.png]]
+
+
+{{led|nr=34|namn=Dogshit flake|längd=7|grad=4|betyg=|typ=trad|fa=Familjen Gracie |text=Korta hörnet till vänster om ''Motorsågsmassakern''. Start som för ''Motorsågsmassakern'', kliv åt vänster och följ flaken och sprickan till toppen. 5 bonuspoäng för direktstarten! (Syns ej på bilden).}}
+
+{{led|nr=35|namn=Motorsågsmassakern|längd=7|grad=5-|betyg=|typ=sport|fa=Mattias Flodin|text=Start 5m till vänster om ''Flink och Qvick''. 2 bultar.}}
+
+{{led|nr=36|namn=Flink och Qvick|längd=8|grad=7|betyg=|typ=trad|fa=Mattias Flodin|text=Kilsäkradesprickan.}}
+
+{{led|nr=37|namn=The plagiarist|längd=10|grad=7-|betyg=|typ=sport|fa=Jeff Gracie|text=Rolig! Börjar 2m till höger om ''Flink och Qvick''. Klättra väggen alldeles till höger om sprickan (använd inte sprickan!). Delar firningsankare med ''2 för 1''.}}
+
+{{led|nr=38|namn=2 för 1|längd=10|grad=5+|betyg=|typ=sport|fa=Jeff Gracie|text=Two routes for the price of one! Härlig väggklättring. Måste göras! 5+ om man klättrar på höger sida om bultarna och 6+ om man klättrar till vänster om bultarna. 5 bultar. Firningsankare.}}
+
+
+[[Bild:2 for 1.png]]
+
+Spot-Squad send-fest på ''2 för 1''.
+
+
+{{led|nr=39|namn=Jonas symaskin|längd=10|grad=5|betyg=|typ=trad|fa=Jonas Gustavsson|text=Öppenbara kilsäkrade diedern och efterföljande spricksystemet. Delar firningsankare med ''Jag hatar mig själv och jag vill dö''. Kan även avslutas till vänster och delar då firningsankare med ''2 för 1''.}}
+
+{{led|nr=40|namn=Jag hatar mig själv och jag vill dö|längd=10|grad=8+|betyg=|typ=sport|fa=Mattias Flodin|text=Starta 2m till höger om ''Jonas symaskin''. Klättra ut genom taket, sedan väggklättring efter bultarna. Firningsankare.}}
+
+{{led|nr=41|namn=Captain snakepants|längd=10|grad=7+/8-|betyg=|typ=mix|fa=Jeff Gracie|text=Starta 1m till vänster om ''Knashög''. Upp genom det lilla taket, sedan vidare via 2 bultar och sprickorna till toppen. Utsteg via vänster sprickan. 2 bultar + små SLCD´s eller kilar. Använd trädet som firningsankare.}}
+
+{{led|nr=42|namn=Knashög|längd=6|grad=6+|betyg=|typ=trad|fa=Mattias Flodin|text=Korta kilsäkrade sprickan 5m till höger om ''Jag hatar mig själv och jag vill dö''. Häftig klättring. Kilar och SLCD’s. Delar ankare med ''Tokspeedad''.}}
+
+{{led|nr=43|namn=Tokspeedad|längd=6|grad=7-|betyg=|typ=trad|fa=Mattias Flodin|text=Klättra första delen på ''Knashög'', sedan utsteg via sprickan till höger. Kilar och SLCD’s. Delar ankare med ''Knashög''.}}
+
+
+
+[[Bild:gömdeklippan mittendel.png]]
+
+
+
+{{led|nr=44|namn=Salo|längd=6|grad=7-|betyg=|typ=mix|fa=Mattias Flodin|text=Korta och branta borrbultslinjen 3m till höger om ''Knashög''. 2 bultar.}}
+
+{{led|nr=45|namn=Livet är pest- fyllan värmer bäst|längd=9|grad=6|betyg=|typ=mix|fa=Mattias Flodin|text=Tydliga borrbultslinjen i klykan 2m till vänster om ''Nudist 1''. Följer linjen rakt upp till rappellfästet på övreblocket. 2 bultar + SLCD’s för den svaghjärtade.}}
+
+{{led|nr=46|namn=Nudist 1|längd=7|grad=4|betyg=|typ=mix|fa=Jonas Gustavsson|text=Sprickan och svaplattan till vänster om ''The knife''. Kilar/ SLCD’s och en bult på övre svaplattan.  Delar ankare med ''The knife''.}}
+
+{{led|nr=47|namn=The knife|längd=7|grad=6-|betyg=|typ=mix|fa=Jeff Gracie|text=Klättra väggen och vänsterkanten på blocket. 2 bultar. En välplacerad kil vid utsteget kan motverka potentiell kalsongtvätt.}}
+
+{{led|nr=48|namn=Öppen projekt|längd=7|grad=?|betyg=|typ=sport|fa=projekt|text=Något krystat men rolig. Väggklättring på högersidan av blocket. Börja 2m till höger om ''The knife''. Undvik kanten och sprickan till höger! Förbi första bulten, genom taket och vidare. 3 bultar.}}
+
+{{led|nr=49|namn=Nudist 2|längd=7|grad=4|betyg=|typ=trad|fa=Jonas Gustavsson|text=Sprickan 1m till höger om Öppet projektet. Kilar och SLCD´s.}}
+
+
+
+Följande leder finns på en vägg 20m till höger om The knife blocket:
+
+{{led|nr=50|namn=Pillar of doom|längd=10|grad=5+|betyg=|typ=sport|fa=Jeff Gracie, Klara Gracie|text=Börjar på marken mellan blocket och den fristående pelaren. Klättra upp på pelaren och sedan vidare efter bultarna. 5+ om man traverserar vänster efter tredje bulten och 6+ om man klättrar rakt upp. 4 bultar och ankare bestående av 2 bultar. (Syns ej på bilden).}}
+
+{{led|nr=51|namn=Projekt Anders Wester|längd=8|grad=?|betyg=|typ=sport|fa=Projekt|text=Klättra högra sidan av areten. Bult. (Syns ej på bilden).}}
+
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar koordinater]]
+
+[[Category:Dalarna]]

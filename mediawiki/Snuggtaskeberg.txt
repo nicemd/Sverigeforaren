@@ -1,0 +1,193 @@
+{{info klippa
+  |lat=59.456970
+  |long=17.958318}}
+
+{{boulderkomplett}}
+
+==Allmänt==
+Trevligt litet boulderområde som ligger i Törnskogen i Sollentuna kommun. Området är uppdelat på en handfull väggar och i dagsläget är närmare 80 problem gjorda. Samtliga problem i Snuggtaskeberg toppas ut. En hel del high-balls finns så det rekommenderas att ta med kompetent spottare om man vill försöka på samtliga problem.
+
+==Historik==
+Snuggtaskebergs klätterhistoria är liksom många andra mindre områden bortom de stora klätterstråken höljt i dunkel. Någon form av aktivitet har bedrivits, det vet man, men inga dokument har återfunnits där problem beskrivits. Under 2003-2004 återupptäcktes området av en ny generation bouldrare som borstade fram vägg efter vägg och numera är det mesta självklara gjort, det som återstår är de hårdaste linjerna som i vissa fall är smått utopiska.
+
+== Karta & Vägbeskrivning ==
+[[Bild:Sollentuna.jpg]]
+
+===Bil===
+Från Danderydsvägen svänger man in på Frestavägen. Efter ca 800 meter tar man vänster in på Båtmansvägen och sedan höger på Gammelvägen. Följ Gammelvägen tills dess slut. Där finns parkering invid Turebergs klubbstuga.
+
+===Kommunal transport===
+Tag buss 527 från Sollentuna station mot Vaxmora. Kliv av vid Båtmansvägen. Gå ca 700 meter tills du kommer fram till parkeringsplatsen vid klubbstugan.
+
+===Hitta från parkeringen===
+Följ stigen från parkeringen tills huvudväggen skymtar på vänster sida. Orientera er sedan med hjälp av översiktskartan för att nå de andra väggarna.
+
+==Översikt==
+[[Bild:Snuggtaskeberg.jpg|750px]]
+
+== Huvudväggen ==
+[[Bild:Huvudvaggen.jpg|750px]]
+{{sidbrytning}}
+Den största väggen i området och den vägg som har flest problem. Väggen är uppdelad i flera nivåer. Väggen har varierande kvalitet. Vissa delar är lite spröd, andra mycket fastare. ''Gröna Lund'' är ett problem som man inte bör missa på denna vägg.
+{{sidbrytning}}
+
+=== Vänstra delen ===
+[[Bild:Huvudvaggen1.jpg]]
+{|
+| width="450px" |
+{{led|nr=1|namn=Nyfiken orienterare|grad=3+|fa=[[Mattis Wide]], 2005|text=Ta kanten, upp och mantla.}}
+{{led|nr=2|namn=Söderkisen|grad=4+|fa=[[Magnus Lennartsson]], 2005|text=Små grepp, vidare till kanten.}}
+{{led|nr=3|namn=Mezmerize|grad=5-|fa=[[Mattis Wide]], 2005|betyg=1|text=Lätt arête med en något känslig avslutning.}}
+{{led|nr=4|namn=Dubbelmantlingen|grad=5-|fa=[[Magnus Lennartsson]], 2005|text=Mantla upp på starthyllan, nå ett grepp för vh. Upp till kanten och mantla igen.}}
+| width="450px" |
+{{led|nr=5|namn=Mattis dubbelmantling|grad=4|fa=[[Mattis Wide]], 2006|text=Lätt dubbelmantling th om ''Dubbelmantlingen''.}}
+{{led|nr=6|namn=Ny|grad=6B|fa=[[Kenneth Hedman]], 2006|betyg=1|text=Sittstart. Teknik och juggar. Hög.}}
+{{led|nr=7|namn=Petter unleashed|grad=5|fa=[[Mattis Wide]], 2006|text=Sittstart med ev layback. Gå mot kanten.}}
+|}
+{{sidbrytning}}
+
+=== Mittendelen ===
+[[Bild:Huvudvaggen2.jpg]]
+{|
+| width="450px" |
+{{led|nr=8|namn=Teach the children to warship satan|grad=5|fa=[[Petter Norberg]], 2004|text=Klippans jungfrutur. Tunna grepp tar en till toppen.}}
+{{led|nr=9|namn=Cinemasten|grad=5|fa=[[Magnus Lennartsson]], 2005|text=Den självklara linjen på röda partiet.}}
+{{led|nr=10|namn=Tidsbrist|grad=4-|fa=[[Mattis Wide]], 2005|text=Skön uppvärmningsmantling på bra grepp.}}
+{{led|nr=11|namn=Neuros|grad=5+|fa=[[Mattis Wide]], 2004|text=Problemet kräver en ganska lång sträckning. Mental avslutning, mången god bergsman har här valt att retirera.}}
+{{led|nr=12|namn=Lättare än Fretless|grad=5|fa=[[Rune Andersson]], 2005|betyg=1|text=Tunna steg, mantla. Fin!}}
+{{led|nr=13|namn=Anderssons stulna linje|grad=5+|fa=[[Rune Andersson]], 2005|betyg=1|text=Highball. Kul start, bra grepp, krimp på toppen. Känslig.}}
+{{led|nr=14|namn=Sprickan|grad=4-|fa=[[Mattis Wide]], 2005|text=Sprickan.}}
+{{led|nr=15|namn=Psykos|grad=5+|fa=[[Petter Norberg]], 2005|betyg=1|text=Start i kristallist för hh. Vidare upp via hyfsade grepp.}}
+{{led|nr=16|namn=Borststöld|grad=5|fa=[[Magnus Lennartsson]], 2005|text=Start i snedsprickan, upp till kanten, mantla.}}
+| width="450px" |
+{{led|nr=17|namn=Morfomannen|grad=3+|fa=[[Mattis Wide]], 2005|text=Lätt problem upp till trädet.}}
+{{led|nr=18|namn=Lättare än svår|grad=5-|fa=[[Magnus Lennartsson]], 2005|text=V sidtag, h krimp, upp till toppen.}}
+{{led|nr=19|namn=Lagens långa arm|grad=5|fa=[[Mattis Wide]], 2005|text=Sittstart, sträck till kanten, mantla.}}
+{{led|nr=20|namn=Mantlingspecialistens lilla godbit|grad=6A|fa=[[Magnus Lennartsson]], 2005|text=Start i slopers på kanten, upp via känslig mantling.}}
+{{led|nr=21|namn=Skjut en baptist|grad=4-|fa=[[Petter Norberg]], 2006|text=Sprickan th om Lättare än svår.}}
+{{led|nr=22|namn=Knäad|grad=6A|fa=[[Rune Andersson]], 2005|text=Start i krimplist, upp via krimpers och mantla.}}
+{{led|nr=23|namn=Fontankänsla|grad=4+|fa=[[Mattis Wide]], 2005|text=Mantlingsproblem.}}
+{{led|nr=24|namn=Mattanten har snopp|grad=5|fa=[[Mattis Wide]], 2005|text=Sprickan. Mental beslutsamhet på slutet kan behövas.}}
+|}
+{{sidbrytning}}
+
+=== Högra delen ===
+[[Bild:Huvudvaggen3.jpg]]
+{|
+| width="450px" |
+{{led|nr=25|namn=Vila sig i form|grad=5+|fa=[[Petter Norberg]], 2005|betyg=1|text=Starta i sidtag, upp höger till hyllan och vidare till toppen.}}
+{{led|nr=26|namn=Gröna Lund|grad=6B|fa=[[Rune Andersson]], 2005|betyg=2|text=Hårdare variant på Vila sig i form. Start på krimper för hh och sidtag/undercling för vh. Lås av, skicka till hyllan och gå sen till toppen.}}
+{{led|nr=27|namn=Fjantkänsla|grad=3+|fa=[[Mattis Wide]], 2005|text=Mantlingsproblem.}}
+{{led|nr=28|namn=Rektal fissur|grad=4+|fa=[[Mattis Wide]], 2005|text=Stora sprickan, rejält rensad som tur är då den är tyngre än vad man först tror.}}
+| width="450px" |
+{{led|nr=29|namn=Aeternum Vale|grad=5+|fa=[[Mattis Wide]], 2005|text=Th om stora sprickan, tunn i mitten, läskig på slutet.}}
+{{led|nr=30|namn=Stel som ett lik|grad=6A|fa=[[Magnus Lennartsson]], 2005|betyg=1|text=Tekniskt problem som blir lättare på slutet.}}
+{{led|nr=31|namn=Ni borstar - jag sänder|grad=4+|fa=[[Petter Norberg]], 2005|text=Th om ''Stel som ett lik''. Skön start.}}
+|}
+{{sidbrytning}}
+
+== DDT-väggen ==
+[[Bild:Ddt.jpg|750px]]
+[[Bild:Slicka.JPG|thumb|right|300px|Magnus Lennartsson på Slicka uppåt - Sparka neråt (5+), Snuggtaskeberg 2006. Foto: Mattis Wide]]
+{{Sidbrytning}}
+Mycket fin vägg med lite svårare problem. Här återfinns godbitar som ''Paranoid mongoloid'', ''Megaplume'' och ''Marmaris''.
+{|
+| width="450px" |
+{{led|nr=1|namn=Paranoid mongoloid|grad=6A+|fa=[[Magnus Lennartsson]], 2005|betyg=2|text=Höger på sidtag, h fot på bra steg. Tag vh till gaston, kom upp, sträck och mantla.}}
+{{led|nr=2|namn=Lustiga huset|grad=7A|fa=[[Rune Andersson]], 2005|betyg=1|text=Vh på krimper, hh i sprickan. Kliv upp, tag tunt grepp och sträck till toppen, mantla. Hård!}}
+{{led|nr=3|namn=Hale hopp|grad=6B|fa=[[Mattis Wide]], 2006|betyg=2|text=Start i krimpers, skicka mot kanten och mantla ur.}}
+{{led|nr=4|namn=Slicka uppåt - Sparka neråt|grad=5+|fa=[[Mattis Wide]], 2004|betyg=1|text=Start i tunna flak, catch på toppen. Betydligt lättare om man är längre än 185 cm lång - och betydligt tråkigare.}}
+{{led|nr=5|namn=Upponer|grad=3|fa=[[Mattis Wide]], 2004|text=Stora sprickan.}}
+{{led|nr=6|namn=Högerpolitik|grad=3+|fa=[[Magnus Lennartsson]], 2005|text=Krystad variant på ''Uppochner''. Till toppen utan att använd väggen tv om sprickan.}}
+| width="450px" |
+{{led|nr=7|namn=Banalt halt|grad=6A|fa=[[Mattis Wide]], 2005|text=Tunn i starten, sträck till bra list, resten är lättare.}}
+{{led|nr=|namn=Nästan som i Bohuslän!|grad=5|fa=[[Joel Nyberg]], 2013||ny=ja|text=Ss med ett handjam, fötterna i "grottan".offwidth sprickan/kaminen upp hela vägen. Kliv rakt upp ur. }}
+
+{{led|nr=8|namn=BlocBusters (who you gonna call?)|grad=7A|fa=[[Ali Kraufvelin]], 2006|betyg=2|text=Hoppstart till bra grepp. Vidare rakt upp.}}
+{{led|nr=9|namn=Megaplume|grad=6B|fa=[[Magnus Lennartsson]], 2005|betyg=2|text=Vh på kristallsidtag, hh på sloper. Lås av och sträck till litet grepp för hh. Vidare till hyllan och mantla.}}
+{{led|nr=10|namn=Marmaris|grad=6C|fa=[[Mattis Wide]], 2006|betyg=1|text=Följ kanten snett uppåt, fötterna på vägg.}}
+{{led|nr=11a|namn=Tropicana|grad=5-|fa=[[Mårten Sjöström]], 2006|text=Slabben.}}
+{{led|nr=11b|namn=Tropicana - no hands|grad=5+|fa=[[Rune Andersson]], 2006|text=No hands variant.}}
+|}
+
+== Svaväggen ==
+[[Bild:Sva.jpg|750px]]
+{{Sidbrytning}}
+Vägg strax bortom DDT-väggen. Har både vertikala problem och sva-problem.
+{|
+| width="450px" |
+{{led|nr=1|namn=Projekt 10|grad=6A+|fa=[[Staffan Lorentz]], 2007|text=Sittstart, sedan rakt upp.}}
+{{led|nr=2|namn=22:30|grad=5|fa=[[Petter Norberg]], 2006|betyg=1|text=Hh i undercling, vh på crimp, gå mot toppen, mantla.}}
+{{led|nr=3|namn=Mattis - den svenska gambianen|grad=5-|fa=[[Petter Norberg]], 2006|text=Starta i små lister, följ slopekanten snett uppåt vänster.}}
+{{led|nr=4|namn=Pappaledig|grad=4+|fa=[[Petter Norberg]], 2006|text=Starta som ''Mattis - den svenske gambianen'' men gå rakt upp efter första flytten.}}
+{{led|nr=5|namn=After Eight|grad=5|fa=[[Mattis Wide]], 2006|text=Starta via rampen och sen upp.}}
+| width="450px" |
+{{led|nr=6|namn=Twisted Individual|grad=6A+|fa=[[Mattis Wide]], 2006|betyg=2|text=Upp på den tunna väggen. Hyllan på ''The moisty slab'' ingår givetvis inte. Mycket känslig bit!}}
+{{led|nr=7|namn=The moisty slab|grad=4+|fa=[[Magnus Lennartsson]], 2006|text=Starta med hyllan, sen rakt upp på slabben strax höger om sprickan.}}
+{{led|nr=8a|namn=Glöm inte kritpåsen|grad=4|fa=[[Petter Norberg]], 2006|text=H fot på liten kristal, stega upp mot toppen.}}
+{{led|nr=8b|namn=Glöm inte kritpåsen - no hands|grad=5|fa=[[Petter Norberg]], 2006|text=Utan händer.}}
+{{led|nr=9|namn=No hands heaven|grad=4|fa=[[Magnus Lennartsson]], 2006|text=Upp utan att använda händerna.}}
+|}
+
+== Solväggen ==
+[[Bild:Solvaggen.jpg|750px]]
+{{Sidbrytning}}
+Trevlig vägg som ligger uppe på platån ovanför Huvudväggen och DDT-väggen. Två fina problem gör klippan väl värd ett besök.
+{|
+| width="450px" |
+{{led|nr=1|namn=Ännu mer mantelnödig|grad=6A+|fa=[[Mattis Wide]], 2006|text=Rakt upp och mantla.}}
+{{led|nr=2|namn=Solochvåraren|grad=5|fa=[[Magnus Lennartsson]], 2005|text=Rakt upp och mantla.}}
+{{led|nr=3a|namn=Medels gympaskor|grad=4+|fa=[[Petter Norberg]], 2005|text=På hörnet, mantla.}}
+{{led|nr=3b|namn=Medels gympaskor - sittstart|grad=5|fa=[[Petter Norberg]], 2006|text=Sittstart på hörnet.}}
+| width="450px" |
+{{led|nr=3c|namn=Frasses deg|grad=6A+|fa=[[Fredrik Gillving]], 2007|text=Variant på 3b, enbart sprickan för händerna.}}
+{{led|nr=4|namn=Mantelnödig|grad=4+|fa=[[Magnus Lennartsson]], 2005|text=Väggen tv om sprickan, mantla.}}
+{{led|nr=5|namn=Bonus|grad=6A|fa=[[Rune Andersson]], 2005|betyg=1|text=Start i krimpers. Upp på svaet utan att använda kanten tv.}}
+{{led|nr=6|namn=Utan finess|grad=5|fa=[[Magnus Lennartsson]], 2005|betyg=1|text=Upp till slopers och mantla ut. Hyllsystemet th är off limit.}}
+|}
+
+== Höga väggarna ==
+[[Bild:Hogavaggarna.jpg|750px]]
+{{Sidbrytning}}
+Samlingsnamn på de klippor som ligger längts bort av de vi hittat. En riktigt hög highball finns här, men också många lägre problem.
+{|
+| width="450px" |
+{{led|nr=1|namn=Pajero Loco|grad=5|fa=[[Mattis Wide]], 2006|text=Omfamna blocket och mantla.}}
+{{led|nr=2|namn=Vänsterprofilen|grad=5-|fa=[[Staffan Lorentz]], 2006|text=Sittstart, sen upp längs kanten.}}
+{{led|nr=3|namn=Blodvite|grad=5+|fa=[[Magnus Lennartsson]], 2006|betyg=1|text=Upp i sprickan, avsluta med mantling.}}
+{{led|nr=4|namn=Stigmata|grad=5|fa=[[Mattis Wide]], 2006|text=Genom taket, Mantla på slutet.}}
+{{led|nr=5|namn=Stackblock|grad=6A|fa=[[Staffan Lorentz]], 2006|text=Start i små grepp. Snett upp genom taket. Mantla.}}
+| width="450px" |
+{{led|nr=6|namn=Ny|grad=6A|fa=[[Okänd]], 2007|text=Hög.}}
+{{led|nr=6.5|namn=Sista dagen på jorden|grad=6c+|fa=[[Mikael Söderström]], 2011|text=Insteg någon meter till vänster om problem nr7 ut på väggen till H följ diagonala sprickan åt V.och till topps. Rammla inte ner. Ledgraderad.}}
+{{led|nr=7|namn=Mattis missade onsighten|grad=2-|fa=[[Petter Norberg]], 2006|text=På med storskorna. Glöm ej picknickkorgen.}}
+{{led|nr=8|namn=Väsby konsthall|grad=6B|fa=[[Rune Andersson]], 2006|betyg=2|text=Endast arêten för händerna.}}
+{{led|nr=9|namn=Leo bajsar löst|grad=6A|fa=[[Petter Norberg]], 2006|betyg=1|text=Start med vh på arêten och hh i undercling.}}
+{{led|nr=10|namn=Små vita maskar|grad=5+|fa=[[Petter Norberg]], 2006|text=Undvik att vidröra trädet med rumpan.}}
+|}
+
+== Revolverväggen ==
+[[Bild:Revolver.jpg|750px]]
+{{Sidbrytning}}
+Liten fin vägg som ligger bortanför Höga Väggarna. Fem problem är gjorda och några till går nog att få ut av denna granitvägg.
+{|
+| width="450px" |
+{{led|nr=1|namn=Bamsefar|grad=5-|fa=[[Magnus Lennartsson]], 2004|text=Start i listen och upp via ett bra grepp tv.}}
+{{led|nr=2|namn=Revolverkäke|grad=5|fa=[[Magnus Lennartsson]], 2004|betyg=1|text=Start i listen och sen upp till små krimplister.}}
+{{led|nr=3|namn=The move|grad=4+|fa=[[Magnus Lennartsson]], 2006|text=Tv om arêten.}}
+| width="450px" |
+{{led|nr=4|namn=Gustav och rönnbären|grad=5-|fa=[[Mattis Wide]], 2004|text=Arêten höger om Revolverkäke.}}
+{{led|nr=5|namn=Zupa Krimp|grad=6A|fa=[[Magnus Lennartsson]], 2006|betyg=1|text=Start i krimpers och sen upp.}}
+|}
+
+== Koreaväggen ==
+[[Bild:KimIlSung.JPG|thumb|right|300px|Petter Norberg på Kim Il Sung (5+), Snuggtaskeberg 2007. Foto: Mattis Wide]]
+Längre bort mot stora vägen finns ytterligare en liten vägg med par problem gjorda. Senaste tillskottet, ej helt rensad ännu.
+{|
+| width="450px" |
+{{led|nr=1|namn=Kim Jong Il|grad=5-|fa=[[Petter Norberg]], 2007|text=Rakt upp för väggen. Avsluta upp på svaet.}}
+| width="450px" |
+{{led|nr=2|namn=Kim Il Sung|grad=5+|fa=[[Petter Norberg]], 2007|betyg=1|text=Längs den svaiga arêten.}}
+|}
+
+[[Kategori:Norra Stockholm]]

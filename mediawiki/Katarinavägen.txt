@@ -1,0 +1,51 @@
+{{info klippa
+  |lat=59.317925
+  |long=18.08959
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+Många har nog promenerat och cyklat förbi denna klippsnutt utan att lägga märke till den. Nordvänd vägg med fantastisk utsikt över Saltsjön och Gamla Stan. Solen tittar nog fram först sena sommarkvällar vilket gör den till en bra vår-, -sommar, höstklippa. Kan vara lite blöt i starten tidigt på säsongen.
+
+==Access==
+I och med att klippan ligger så synligt för förbipasserande är det viktigt att vi klättrare sköter oss exemplariskt. Skrik inte när du faller på slutkruxet ;) och var försiktig med de planterade buskarna och blommorna. Visa hänsyn till allt och alla.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.328023" lon="18.089161" type="terrain" zoom="13" height="350">
+59.317925, 18.08959, Katarinavägsklippan
+</googlemap>
+</div>
+
+Skriv vägbeskrivning här.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+[[Bild:Tusenoennatt.jpg|right|250px]]
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Tusen och en natt|grad=8a+|betyg=1|fa=[[ Johan Luhr]]|typ=sport|bultar=ca 5 + ankare|text=Kort och ihållande led med spektakulärt slut! Undvik att klättra upp till toppen av klippan så slipper de boende på toppen störas.}}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Stockholm]] [[Category:Stockholm City]]

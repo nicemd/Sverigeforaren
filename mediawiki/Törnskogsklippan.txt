@@ -1,0 +1,148 @@
+{{info klippa
+  |lat=59.45571993442715
+  |long=17.941875457763672
+}}
+
+{{komplett}}
+
+==Allmänt==
+Klätterklippa belägen vid Norrvikens östra strand. De sydvända klipporna, på 5–12 m, ligger vid slutet av Solängsvägen och i vinkel mot sjön ca 600 m från dess sydspets.
+
+Ett antal sport-, boulder- och trad- leder finns här, vissa tradturer kan dock behöva lite kärlek i form av en stålborste.
+Många nya sportleder har borstats fram samt en allmän uppfräschning är gjord. De flesta sportleder har toppankare.
+På den nyutvecklade Järnpinneväggen finns klippans finaste turer, "Chippad av Staten" och "En månad av frihet".
+I o m att många leder är ganska korta och intensiva kan de ofta upplevas som svåra att onsighta.
+På sistone har det tillkommit en del borrbultade leder i det nedre registret för de som vill lära sig att leda.
+
+Klippan är granit av god kvalitet och rekommenderas för dem som bor i dessa trakter.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.45571993442715" lon="17.941875457763672" zoom="13" type="map" controls="small">
+59.45571993442715,17.941875457763672,[[Törnskogsklippan]]
+</googlemap>
+</div>
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Törnskogsklippan
+lat=17941875
+long=59455719
+</slresa>
+</div> 
+
+Kör Frestavägen. Sväng vänster skyltat Solängen. Kör så långt in det går í bostadsområdet och klippan syns upp till höger. Följ stigen rakt fram om ni ska bada.
+Ett annat alt som gör att man kommar ovanifrån är att inte svänga vänster in på Solängen, utan köra vidare och svänga v på Båtsmansvägen, sväng v igen vid Trestegsvägen och sedan h in på Vaxmoravägen. Parkera efter ett par hundra m på h sida innan P-förbudet.
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Översikt==
+
+[[Bild:Törnskogsklippan.jpg]]
+
+
+[[Bild:Chippad_av_staten.jpg]]
+
+Anders Grahne under förstabestigningen av Chippad av Staten.
+
+==Järnpinneväggen==
+
+[[Bild:Järnpinneväggen.jpg]]
+
+{{led|nr=1|namn=Chippad av Staten|ny=1|grad=7a+|betyg=1|längd=12|fa=[[Anders Grahne]], [[Andreas Harne]] [[2012|-12]]|bultar=6|typ=sport}}Underhållande och relativt ihållande klättring. Fin klättring med en lite annorlunda avslutning. Firningsankare.
+
+{{led|nr=2|namn=En månad av frihet|ny=1|grad=7c|betyg=1|längd=12|fa=[[Johan Luhr]], [[2012|-12]]|bultar=6|typ=sport}}Mycket hård bultad linje med separat insteg. Fin. Firningsankare.
+
+{{led|nr=3|namn=Gäckande linjen|ny=1|grad=7a+|betyg=|längd=12|fa=[[Anders Grahne]], [[Andreas Harne]] [[2012|-12]]|bultar=4|typ=sport}}Enkel början, knepig avslutning med småroliga moves. Fin linje. Firningsankare.
+
+{{led|nr=4|namn=Sponsrad av Kapitalet|ny=1|grad=6c|betyg=|längd=11|fa=[[Anders Grahne]], [[Andreas Harne]] [[2012|-12]]|bultar=4|typ=sport}}Snällare i början, biter sedan ifrån. Firningsankare
+
+{{led|nr=5|namn=Järnpinnar|grad=4|betyg=|längd=10|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=}}Följer en tydlig dieder. Har ett stort löst block och kan behöva borstas av. Firningsankare sattes dit 2012.
+
+{{led|nr=6|namn=Törn me on|ny=1|grad=5c|betyg=|längd=9|fa=[[Andreas Harne]], [[Anders Grahne]] [[2012|-12]]|bultar=4|typ=sport}}Lite klurig klättring i en ränna 2 m th om Järnpinnar. Ankaret ett par m innan toppen.
+
+{{led|nr=7|namn=Narnia|ny=1|grad=3c|betyg=|längd=7|fa=[[Andreas Harne]], [[2012|-12]]|bultar=3|typ=sport}}Kort tur som delar ankare med "Törn me on".
+
+==Sportväggen==
+
+[[Bild:sportväggen.jpg]]
+
+{{led|nr=8|namn=Skywalker|grad=6a|betyg=|längd=8|fa=[[Andreas Harne]], [[Anders Grahne]] [[2011|-11]]|bultar=4|typ=sport}}Tätt bultad arête med firningsankare. Ligger 2 m t v om Röda Trappan. Bra led för nybörjare som vill börja leda utomhus. Lämna gärna en karbin eller snabblänk i ankaret, någon snodde den som förstebestigaren satte där.
+
+{{led|nr=9|namn=Röda trappan|grad=5b|betyg=|längd=6|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=2|typ=sport}}Kort, före detta tradtur (svensk grad 5) som bultades i sept 2011 och fick ett ankare. Förstebestigaren gav sin välsignelse till bultningen.
+
+{{led|nr=10|namn=Timbuktu|ny=1|grad=7a|betyg=|längd=7|fa=[[Johan Luhr]] [[2012|-12]] |bultar=3|typ=sport}}Följer arêten t v mellan Röda Trappan och Tambora. Lite elimininationsvarning, graden gäller om man håller sig till arêten. Eget firningsankare.
+
+{{led|nr=11|namn=Tambora|grad=7c|betyg=|längd=7|fa=[[Andreas Harne]], [[Anders Grahne]] [[2011|-11]]|bultar=3|typ=sport}}Supercrimpig och teknisk klättring. Tangerar Krakatau vid ett moment. Eget firningsankare finnes, låt karbinerna sitta kvar!
+
+{{led|nr=12|namn=Krakatau|grad=7b|betyg=|längd=7|fa=[[Björn Kihlström]], [[Hasse Häggqvist]] [[1992|-92]]|bultar=3|typ=sport}}Intensiv boulderled som bultades om i sept 2011 och numera även har ett eget ankare. Har tidigare stått som 7c, men är klart lättare, åtminstone så som leden går efter ombultningen.
+
+{{led|nr=13|namn=Tallsprickan|grad=6-|betyg=|längd=6|fa=[[Lars Heijkenskjöld]], [[Karen Kremer]] [[1991|-91]]|bultar=|typ=trad}}Tillsammans med Dieder och Platta enda lederna på Sportväggen med egna placeringar.
+
+{{led|nr=14|namn=Istället för bouldering|ny=1|grad=6c|betyg=|längd=6|fa=[[Anders Grahne]]|bultar=3|typ=sport}} Kort och teknisk. Firningsankare
+
+{{led|nr=15|namn=Lillbrorsan|grad=6c+|betyg=|längd=9|fa=[[Anders Grahne]], [[Andreas Harne]] [[2011|-11]]|bultar=4|typ=sport}} Teknisk, omväxlande och underhållande.Leden har mer klättring än man vid första anblicken tror. Ankaret sitter en bit över kanten för att det verkligen är klättring hela vägen över kanten!
+
+{{led|nr=16|namn=Emil i Tureberga|grad=6c+|betyg=|längd=8|fa=[[Anders Grahne]], [[Andreas Harne]] [[2011|-11]]|bultar=4|typ=sport}}Teknisk och fingrig. Eget ankare.
+
+{{led|nr=17|namn=Foxy Lady|grad=6b+|betyg=|längd=7|fa=[[Anders Grahne]] [[2011|-11]] |bultar=4|typ=sport}}Fingrig start! Följ de goda greppen upp. Firningsankare.
+
+{{led|nr=18|namn=Fingers off the Foxy Lady!|grad=7a+|betyg=|längd=6||fa=[[Anders Grahne]], [[Andreas Harne]] [[2011|-11]]|bultar=3|typ=sport}}Tekniskt och knepigt insteg från stenen. Sedan rakt upp utan att tangera Foxy Lady. Firningsankare.
+
+{{led|nr=19|namn=Nybörjar tur|grad=5c|betyg=|längd=6|fa=[[Johan Boman]] [[1994|-94]]|bultar=3|typ=}}Kort led på goda grepp.
+
+{{led|nr=20|namn=Bergsguidens ultimata utmaning|ny=1|grad=5c|betyg=|längd=6|fa=[[Anders Grahne]], [[Mike Wright]]|bultar=2|typ=sport}} Bättre grepp än du tror. Fira från Trädet.
+
+{{led|nr=21|namn=Herr Dewalt, skogen och jag|ny=1|grad=6b+|betyg=|längd=7|fa=[[Anders Grahne]]|bultar=3|typ=sport}} Sämre grepp än du tror. Firningsankare
+
+{{led|nr=22|namn=Dieder och platta|grad=3c|betyg=|längd=15|fa=[[Etienne Friedrich]], [[Lars Heijkenskjöld]] [[1989|-89]]|bultar=|typ=trad}} Tydlig dieder 10 m th om nedstigningen från hyllans högerkant. Upp i diedern och sedan väggen ovanför.
+
+{{led|nr=23|namn=Duscha är mesigt|ny=1|grad=5b|betyg=|längd=6|fa=[[Anders Grahne]] [[2013|-13]]|bultar=2|typ=sport}}
+
+==Östväggen==
+
+[[Bild:Östväggen.jpg]]
+
+{{led|nr=24|namn=Trix|grad=5a|betyg=|längd=10|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=trad}}Kort röd vägg ca 15 m tv om sexstamsträdet. Upp på terrassen och upp i den tydliga diedern på toppväggen.
+
+{{led|nr=25|namn=Mix|grad=4a|betyg=|längd=12|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=trad}}Den vänstra av de två spricklinjerna ca 10 m tv om trädet. Avslutas med en kort grepprik vägg.
+
+{{led|nr=26|namn=Fix|grad=4a|betyg=|längd=12|fa=|bultar=|typ=trad}}Den högra sprickan. Avslutas med en rampliknande formation på väggen ovanför hyllan.
+
+{{led|nr=27|namn=Kix|grad=4a|betyg=|längd=6|fa=|bultar=|typ=trad}} Spricklinje 2 m th om Fix.
+
+{{led|nr=28|namn=Salutogen åtgärd|ny=1|grad=4b|betyg=|längd=8|fa=[[Malin Lingvall]], [[Anders Grahne]] |bultar=3|typ=sport}}Följer v sida av svat. Firningsankare.
+
+{{led|nr=29|namn=6-stamträdet|grad=4a|betyg=|längd=8|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=}}Diagonal spricklinje th om det lustigt sexstammiga trädet.
+
+{{led|nr=30|namn=Den svarta svanen|ny=1|grad=6a+||betyg=|längd=10|fa=[[Anders Grahne]][[2013|-13]]|bultar=4|typ=sport}}Gemensam start med Den lilla ljungtuvan fast den vänstra betydligt tunnare linjen. Firningsankare.
+
+{{led|nr=31|namn=Den lilla ljungtuvan|grad=4a|betyg=|längd=10|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=}}
+
+{{led|nr=32|namn=Mossiga gubben|ny=1|grad=4b|betyg=|längd=10|fa=[[Anders Grahne]][[2013|-13]]|bultar=3|typ=sport}}Svatur med ankare.
+
+{{led|nr=33|namn=Svart eko|ny=1|grad=4a|betyg=|längd=10|fa=[[Andreas Harne]], [[Martina J]]  [[2013|-13]]|bultar=4|typ=sport}}Svatur som delar ankare med nästa led.
+
+{{led|nr=34|namn=Darwin Award|ny=1|grad=3c|betyg=|längd=9|fa=[[Martina J]], [[Andreas Harne]]  [[2013|-13]]|bultar=3|typ=sport}}Rolig och lätt klättring med snäll lutning. Firningsankare.
+
+{{led|nr=35|namn=Kill your Cocopops|ny=1|grad=4a|betyg=|längd=9|fa=[[Andreas Harne]][[2013|-13]]|bultar=4|typ=sport}}Svatur som ligger allra längst till höger på berget.
+
+==Nedre väggen==
+[[Bild:Nedreväggen.jpg]]
+
+{{led|nr=36|namn=Lingon|grad=4b|betyg=|längd=5|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=}}Dieder och vägg 6 m tv om Hjortron
+
+{{led|nr=37|namn=Blåbär|grad=4b|betyg=|längd=5|fa=|bultar=|typ=}}Spricka 4 m tv om Hjortron
+
+{{led|nr=38|namn=Hjortron|grad=4c|betyg=|längd=6|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=}}Tydlig spricka 2 m th om granen framför klippans mitt.
+
+{{led|nr=39|namn=Björnbär|grad=5b|betyg=|längd=5|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=}}Spricklinje 4 m th om Hjortron.
+
+{{led|nr=40|namn=Rönnbär|grad=4a|betyg=|längd=6|fa=[[Lars Heijkenskjöld]], [[Etienne Friedrich]] [[1989|-89]]|bultar=|typ=}}Grund dieder och vägg 1,5 m th om Björnbär.
+
+[[Kategori:Sva]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

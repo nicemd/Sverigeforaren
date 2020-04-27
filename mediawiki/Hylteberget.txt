@@ -1,0 +1,179 @@
+{{info klippa
+  |lat=57.74668
+  |long=12.11109
+}}
+
+{{utkast|extern=ja}}
+<googlemap lat="57.74668" lon="12.11109" zoom="9" type="map">
+57.74668,12.11109,Hylteberget
+</googlemap>
+==Allmänt==
+Hylteberget är väl egentligen två områden. Dels Paradiset en bit längre in i skogen med korta enkla tradturer, dels Hylteberget, som är Göteborgs sportområde med många hårda långa leder (20 meter). En repsäck och låg ljudvolym krävs om du klättrar här. Parkera inte på parkeringen närmast klippan! 
+
+==Access==
+Tänk på ljudvolymen, sätt inte upp nya turer, parkera inte närmast klippan.
+{{AccessDB|klippa=Hylteberget}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Paradiset==
+Paradiset, i Göteborgsföraren står det att det tillhör Hyltebergen, men får väl ses som en egen klippa. Ligger mitt emellan Hyltebergen och Ulvåsen. Kör Partille, sväng av Kung Göstas väg, kör under järnvägen och sväng upp på Paradisvägen. Håll vänster och stanna där Paradisvägen tar slut. Nu ser du en karta, med lite vandringsleder. Du ser en uppenbar stig åt vänster, en uppenbar stig åt höger. Följ grönvit stig rakt fram istället! Promenera en halv kilometer och klippan dyker upp på vänster sida. 
+
+Nästan alla leder är lätta, vertikala men ganska korta. Finns mycket träd att toppa ifrån. Var kreativ i utstegen, mycket jord och mossa här! Onödigt att förstöra den fina naturen.. 
+
+{{led|namn=Faraos cigarrer|grad=5-|fa=Jan vikman, Anders Månsson}}
+{{led|namn=Fy farao|grad=6-|fa=Jan vikman, Anders Månsson}}
+{{led|namn=Cleopatra|grad=6-}}
+{{led|namn=Rätt lätt|grad=5-|fa=Weine Hallberg, Ricardo Morales}}
+{{led|namn=Paradis-is|grad=wi4|text=Hittade lite is här... |fa=|}}
+{{led|namn=Relief|grad=7-|fa=Henrik Sennelöv, Lars Ingemansson}}
+{{led|namn=Twiggy|grad=5-|fa=Jan Machek, Kjell Zackrisson}}
+{{led|namn=Cheops|grad=7+|fa=Henrik Sennelöv}}
+{{led|namn=Tjocka Berta|grad=6|fa=Jan Machek}}
+{{led|namn=Kanonleden|grad=6-|fa=Jan Machek, Tomas Machek | text=Identifiera kanonröret, några meter till höger om det finns en dieder, där har du insteget, klättra sedan upp till, och igenom kanonen. }}
+{{led|namn=Sfinxen|grad=7b|fa=Henrik Sennelöv, Lars Ingemansson |text=Den tilltalande överhängande aréten| typ=sport}}
+{{led|namn=Obelixen|grad=7b|fa=Olof Hedberg|text=Utstegsvariant}}
+{{led|namn=High Wire|grad=7-|fa=Ola Hillberg}}
+{{led|namn=Flash Point|grad=6c+|fa=Henrik Sennelöv, Ola Hillberg|längd=4|text=Hela universums kortaste bultade led, kortare än en normal boulder. |typ=sport}}
+
+==Nya leder==
+Ligger bortanför Övre Hylte, för att hitta hit, gå förbi Övre hylte, när stigen delar på sig gå höger och gå mot där du ser sten. Alternativt gå förbi Harricot Vertes och vänster runt hörnet, och rakt fram cirka 70 meter. 
+
+[[bild:oversikt_hylte_gravlingen.jpg]] 
+
+{{led|nr=1|namn=Blåbär|grad=5c+|typ=sport|fa=Olof Morsing|text=Startar ifrån ett block och klättras på vänstersidan om areten.|längd=8}}
+{{led|nr=2|namn=Humlan|grad=6c|typ=sport|fa=Olof Hedberg|text=nästa led, rakt upp.|längd=8}}
+{{led|nr=3|namn=Humlans flykt|grad=6c+|fa=Axel Hultqvist|text=Startar som humlan, men traverserar till Grävlingen anfallers ankare.|längd=9}}
+{{led|nr=4|namn=Grävlingen anfaller|grad=7a|fa=Olof Hedberg|text=Diedret|längd=9|typ=sport}}
+{{led|nr=5|namn=Barfotamannen|fa=Olof Morsing|grad=5c|typ=sport|längd=5}}
+{{led|nr=6|namn=Ugglan|grad=5c+|fa=Olof Hedberg|typ=sport|längd=4|text=Leden delar ankare med Spindeln. }}
+{{led|nr=7|namn=Spindeln|grad=5c+|typ=sport|fa=Olof Hedberg|längd=4|text=Leden delar ankare med Ugglan. }}
+
+==Övre Hylteberget==
+Området efter plockepinn.
+{{led|namn=Ben Hur|grad=6b+}}
+{{led|namn=Gökboet|grad=6c+}}
+{{led|namn=Mot sol|grad=6+}}
+{{led|namn=Stampa med Leroy|grad=7c|fa=Axel Hultqvist}}
+{{led|namn=Tigerögat|grad=6c+}}
+{{led|namn=Törnrosa|grad=8a}}
+{{led|namn=Mångalen|grad=7a+}}
+{{led|namn=Highstep|grad=6c+}}
+{{led|namn=Dragkedjan|grad=7a+}}
+{{led|namn=Sick-sack|grad=6c}}
+{{led|namn=Raksöm|grad=6b+}}
+
+Följande leder ligger på en sektion mer åt höger och ligger i sol, jämnt. 
+{{led|namn=Astragalus|grad=6+}}
+{{led|namn=Innuendo|grad=6+}}
+{{led|namn=Harricot Verts|betyg=1|grad=7a|text=Spännande fin klättring. Har ett firningsankare. |typ=sport|fa=Henrik Sennelöv}}
+{{led|namn=Stradivarius|grad=7+|fa=Henrik Sennelöv|text=Sprickan höger om Harricot Verts}}
+{{led|namn=Hybris|grad=7-}}
+
+==Övre Östra hylteberget==
+Området nedanför Övrehylteberget ovanför Plockepinn. Lätt att sätta upp topprep på de flesta lederna, då de har lättåtkomliga topprepsankare. Som vanligt spara på bultarna och använd egna karbiner! 
+{{led|namn=Minihopp|grad=6c}}
+{{led|namn=Lille skutt|grad=6c+}}
+{{led|namn=Skalman|typ=sport|grad=5c|fa=}}
+{{led|namn=En kil i raden|grad=5-|fa=}}
+{{led|namn=Bearnie|grad=6a}}
+{{led|namn=Tarzan|grad=7a}}
+{{led|namn=Toker|text=Handjamsprickan bakom trädet, ankaret går att nå ifrån Ekorrens ankare.|betyg=1|fa=Jens Larssen|grad=6+}}
+{{led|namn=Ekorren|grad=4+|betyg=1}}
+{{led|fa=Martin Perk|namn=Blixt gordon|grad=6+|text=Fin klättring, men en del grepp är små.}}
+{{led|namn=Blixten|grad=6c+}}
+{{led|namn=Meteorit|grad=7}}
+{{led|namn=Bee bop|betyg=1|grad=5+|fa=Krister Stoltz}}
+
+==En trappa upp== 
+Ligger ovanför allting. Finns ett par topprepsvarianter på några av lederna också. 
+{{led|namn=Lätt som en plätt|grad=6b}}
+{{led|namn=Kanten|grad=6b+}}
+{{led|namn=Sycamore tree|grad=8a+}}
+{{led|namn=Pax Vobiscum|grad=7a+}}
+{{led|namn=Schaman|grad=7c}}
+{{led|namn=En nunna i raden|grad=6c+}}
+{{led|namn=Kristallnatten|grad=6c}}
+{{led|namn=Radbandet|grad=6b+}}
+{{led|namn=Tito|grad=5b|fa=Jens Larsen|typ=sport|ny=1}}
+{{led|namn=Claudio|typ=topprep|grad=5b|ny=1}}
+{{led|namn=Traversa|grad=4a|typ=topprep|ny=1}}
+{{led|namn=R.I.P.|grad=3a|typ=topprep|ny=1}}
+
+==Plockepinn==
+Vänster om området Forex, finns ofta is här på vintern. Ofta blött, juggig överhängande klättring
+
+{{led|namn=Monopol|grad=6c}}
+{{led|namn=Nya Bondespelet|grad=7a}}
+{{led|namn=Plockepinn|grad=6c+}}
+{{led|namn=Finn fem fel|grad=7a}}
+{{led|namn=Debris|grad=6-|fa=Lars Lövgren}}
+
+
+{{led|namn=Loke|grad=M8/6c}}
+{{led|namn=Ull|grad=M7/6b+}}
+{{led|namn=Skade|grad=M6/6b}}
+{{led|namn=Gammeldans|grad=6b+|ny=1|fa=Olof Hedberg}}
+{{led|namn=Dansa efter min pipa|grad=6a|ny=1|fa=Olof Hedberg}}
+{{led|namn=Twist and shout|grad=7a|typ=sport|fa=Fredrik Andersson|ny=1}}
+
+==Forex==
+Området direkt vänster runt hörnet om området vid parkeringen. Forex är en klassisk led. 
+{{led|namn=Rulltrappan|grad=6a}}
+{{led|namn=Skallagrim|grad=8}}
+{{led|namn=Leffes Bultade spricka|grad=7a+}}
+{{led|namn=Skalleper|grad=7b}}
+{{led|namn=Assar|grad=7a+}}
+{{led|namn=Pyrayaklubben|grad=8a+}}
+{{led|namn=Forex|fa=Henrik Sennelöv|text=Kort brant, ca 3 bb och ankare, går ej att missa. |betyg=2|grad=8a}}
+
+==Hylteberget==
+Området närmast parkeringen, parkera inte på  parkeringen! Det har gjorts en hel del nya turer som behöver skrivas in här för att föraren skall vara komplett. 
+{{led|namn=På sikt|grad=5}}
+{{led|namn=Solrosen|grad=7b}}
+{{led|fa=|namn=Maskrosen|grad=7+}}
+{{led|fa=|namn=Le Precible|grad=7c}}
+{{led|namn=Le penible|grad=7c|fa=Johan Svensson?|ny=1}}
+{{led|fa=|namn=Särimer|grad=7a+}}
+{{led|fa=|namn=Grottan|grad=4}}
+{{led|namn=Calisto|grad=7c|fa=Olof Hedberg|ny=1}}
+{{led|fa=Stefan Norman & Nils Gustavsson|namn=Mefisto|betyg=3|text=Bultat spricka. Alla klättrar den.|grad=7/6c}}
+
+{{led|namn=Chilla|grad=7b+|ny=1}}
+{{led|namn=Skål Olof!|grad=8b+}}
+{{led|fa=Henrik Sennelöv|namn=Maglháes hade det inte heller så lätt, för på den tiden trodde man att jorden var platt|grad=7b|text=Travers}}
+{{led|fa=|namn=Netochka Nezvanova|grad=7b}}
+{{led|fa=|namn=Korint|grad=7c}}
+{{led|fa=|namn=Labyrint|grad=7c}}
+{{led|fa=|namn=Ingen överhängande fara|grad=7-}}
+{{led|namn=Abstrakt|fa=Henrik Sennelöv|grad=8a}}
+{{led|namn=Kriminell kantarell|grad=8b|fa=Henrik Sennelöv, ffa Stefan Olsson}}
+{{led|namn=Konkret|grad=8a}}
+{{led|namn=Houdini|grad=7c+}}
+{{led|namn=Du och jag ska gå på bio|grad=8b+}}
+
+Följande leder ligger mer åt höger på en mycket brant klippa. 
+{{led|namn=Sputnik|grad=7c}}
+{{led|namn=?|grad=7c|text=Hittade en referens om en 7c här, inget namn|fa=?}}
+
+
+[[Kategori:Göteborg]]
+
+==Nedre Hylteberget (bänken)==
+{{led|fa=|namn=Jet set|grad=7b+}}
+{{led|namn=facelift|grad=7c}}
+{{led|namn=Wunderbaum|grad=6c}}
+{{led|fa=|namn=Milkeveien|grad=6c+}}
+{{led|namn=Höstrusk|grad=6}}
+{{led|namn=Four fingers folded|grad=6c+|fa=C J Svensson}}
+{{led|fa=|namn=Sleipner|grad=7+}}
+{{led|fa=|namn=Kompost|grad=7a}}
+{{led|namn=The problem is my solution|grad=7b+}}
+{{led|namn=This is the fucking problem|grad=7b}}
+{{led|namn=If you can't beat it, cheat it|grad=7a+}}
+{{led|namn=Ekologisk rensning |grad=6+}}
+{{led|namn=Helkroppsjam|grad=6a|fa=|text=Kaminen..|typ=sport}}
+{{led|namn=Recycled|grad=7a|ny=1}}
+
+
+Extern topo: http://lillbob.blogspot.com/2011/11/mini-topo-parkbanken-ost.html

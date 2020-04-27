@@ -1,0 +1,20 @@
+{{utkast}}
+
+==Allmänt==
+Berget är med sina 86,5 m över havet områdets högsta punkt och ger vid en första anblick ett mycket storslaget intryck. Vid en närmare titt är berget, trots sina imponerande dimensioner, en besvikelse, med få riktigt lockande linjer. Åtminstone två av de tre leder som finns är dock riktigt fina.
+
+==Vägbeskrivning:==
+Berget sticker upp sin kala hjässa 1 km O om Grönbrinksberget och är väl synligt ifrån toppen av detta. Följ traktorvägen längs åkerkanten under Grönbrinksberget tills den kommer ut på en smal skogsväg. Härifrån syns berget tydligt. Följ vägen åt h tills en liten väg leder ner åt v, till ängen under berget. Vill man absolut ta bilen så är det enklast att från Fituna vägen svänga in åt v på skogsvägen alldeles innan den gamla skolan. Håll åt h så leder den fram till under Torsberget efter ca 1,5 km. Parkera vid den lilla vägen som leder ner till ängen under berget.
+
+Gamla koordinater: '''10 I SV 500142'''.
+
+==Leder==
+{{led|nr=1|namn=Salpingit|grad=5|längd=|fa=[[Jan Liliemark]] [[-80]]}}
+{{led|nr=2|namn=Stensadeln|grad=6/6|längd=|fa=[[Thomas Leitner]] [[-89]]}}
+{{led|nr=3|namn=Akut Otit|grad=5|längd=|fa=[[Jan Liliemark]], [[Lars Grankvist]] [[-80]]}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Trad]]
+[[Kategori:Fituna]]
+[[Kategori:Saknar karta]]
+[[Kategori:Gamla koordinater]]

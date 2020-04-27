@@ -1,0 +1,39 @@
+=Allmänt=
+Trevligt område med varierande stenkvalitet. Ett mycket långt överhängande projekt finns här.
+=Vägbeskrivning=
+Åk väg 72 mot Sala, sväng av vänster mot Fornborgen efter Västerby. Blocken ligger nedanför fornborgen på sydsidan. Gångavstånd från parkeringen ca 500 m.
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=RoccoBarocco|grad=7A|typ=|fa=Matte och Stefan|landning=3|fadatum=2008-05-03|sopad=Matte och Stefan|sittstart=ja|text=Första blocket, sittstarta en slopig arête på baksidan.}}
+{{problem|namn=Mörkret faller|grad=7B|typ=|fa=Stefan|landning=3|fadatum=2008-05-03|sopad=Stefan|sittstart=ja|text=Sittstart längst vänster på svarta väggen.}}
+{{problem|namn=Jeepers creepers|grad=7C|typ=|fa=Matte Nyberg|landning=4|betyg=1|fadatum=2008-05-03|sopad=Matte Nyberg|sittstart=ja|text=På första blocket. Gammalt sloperprojekt mitt på väggen. Sittstart.}}
+{{problem|namn=In your face!|grad=7B+|typ=|fa=Stefan|landning=3|betyg=1|fadatum=2008-05-03|sopad=Stefan|sittstart=ja|startgrepp=ja|text=Första blocket. Sittstarta med vänster hand på blockiga krimpen, klättra rakt upp.}}
+{{problem|nr=1|namn=Borderline|grad=6C+|typ=Aréte|fa=J Smedsaas / D Andersson|betyg=2|sopad=J Smedsaas / D Andersson|sittstart=ja|text=Upp längs aréten.}}
+{{problem|nr=2|namn=Anders Fornborg|grad=7A+|typ=Överhäng|fa=J Smedsaas|landning=3|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Ryolitblocket. Sittstart med höger hand på blockiga krimpen, dra vä till bra grepp och sedan rakt upp.}}
+| width="250px" |
+{{problem|nr=2|namn=Telia Sonera|grad=6C+|typ=Överhäng|betyg=1|sittstart=ja|text=Starta som Anders Fornborg men fortsätt ut på arêten.}}
+{{problem|nr=3|namn=One Move Wonder|grad=6C+|typ=Dyno|fa=J Smedsaas / D Andersson|betyg=1|sopad=J Smedsaas / D Andersson|sittstart=ja|text=Sittstart med sidtag och underclingspinch, sedan upp höger till list.}}
+{{problem|nr=4|namn=-|grad=5C|typ=Slopers|fa=?|sopad=?|startgrepp=ja|text=Låg start med stort grepp.}}
+{{problem|nr=5|namn=-|grad=5A|typ=|fa=?|betyg=1|sopad=?|text=Vägg.}}
+{{problem|nr=6|namn=PROJEKT|grad=-|typ=Pinch,Överhäng|fa=?|sopad=?|text=Långt överhängande projekt, starta från botten.}}
+{{problem|nr=7|namn=-|grad=6C|typ=|fa=J Smedsaas / D Andersson|sopad=J Smedsaas / D Andersson|text=Vägg.}}
+{{problem|nr=8|namn=Tele2comviq|grad=7A|typ=Krimp,Dyno,Aréte|fa=Jon och Daniel|landning=4|betyg=2|sopad=Jon och Daniel|sittstart=ja|text=bakom jätteblocket. Sittstart höger om arêten.}}
+{{problem|nr=9|namn=-|grad=5B|typ=Överhäng|fa=J Smedsaas / D Andersson|sopad=J Smedsaas / D Andersson|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=10|namn="Basaltöverhänget"|grad=7B|typ=Krimp,Överhäng|fa=Jon och Daniel|landning=3|sopad=Jon och Daniel|sittstart=ja|text=Basaltöverhänget mot hygget till. Sittstart med små krimpar.}}
+{{problem|nr=11|namn=-|grad=5A|typ=|fa=J Smedsaas / D Andersson|sopad=J Smedsaas / D Andersson|text=Vägg.}}
+{{problem|nr=12|namn=Evil Dogs Hypnotized the Nightshift|grad=6A+|typ=|fa=J Smedsaas / K Svensson|betyg=1|sopad=J Smedsaas / K Svensson|sittstart=ja|text=Vägg. Sittstart med stor hylla, sedan upp vänster.}}
+{{problem|nr=13|namn=-|grad=6A|typ=|fa=?|sopad=?|sittstart=ja|text=Vägg. Sittstart med sidtag.}}
+{{problem|nr=14|namn=Ta i|grad=7A+|typ=Aréte|fa=Scott och Dylan|landning=3|sopad=Scott och Dylan|sittstart=ja|text=Sittstart, ta dig uppför arêten bäst du kan.}}
+{{problem|nr=15|namn=Så in i Byxan|grad=6C+|typ=Slopers|fa=S Mooney / D Smith|sopad=S Mooney / D Smith|sittstart=ja|text=Sittstart vid aréten.}}
+|}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

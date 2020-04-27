@@ -1,0 +1,17 @@
+{{stub}}
+==Allmänt==
+Rejält överhängande klippa vid Bornsjön med många korta och tunga leder. Grader mellan 7c och 8a+. Klippan ligger i naturreservat och klättring på den är förbjuden.
+
+==Access {{access}}==
+Klippan är hemlig eftersom den ligger i Bornsjöns naturreservat. Enligt [http://www.sodertalje.se/templates/Page____1354.aspx reservatföreskrifterna] är det förbjudet att ''"klättra i berg med hjälp av linor eller liknande aktiviteter"''. 
+
+Syftet med naturreservatet är att ''"hålla området lätt tillgängligt för den typ av friluftsliv som inte kräver särskilda anläggningar"''.
+
+Många av bultarna har plockats bort av Stockholm Vatten.
+
+{{AccessDB|klippa=hemliga-klippan-i-bornsjon
+}}
+[[Category:Sport]]
+[[Category:Överhäng]]
+[[Category:Stockholm]]
+[[Kategori:Västra Södertörn]]

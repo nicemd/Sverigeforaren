@@ -1,0 +1,45 @@
+{{utkast}}
+
+==Allmänt==
+
+Klippan är belägen på Åland (Finland) dit man tar sig med färja från Stockholm, Kapellskär eller Grisslehamn. 
+Klippan, som håller en höjd på upp till cirka 10 meter, är delvis sprängvägg. Turerna sattes upp sommaren 1990.
+
+==Vägbeskrivning==
+Klippan ligger på höger sida (från havet sett) vid färjeläget i Mariehamn.
+
+Leder, från vänster till höger.
+
+{{led|nr=1|namn=Yläköydellä|grad=7-}}
+
+{{led|nr=2|namn=Färjanalys|grad=6+ (?)|fa=[[Rikard Hedman]] och [[Per Calleberg]]|text=}}
+
+{{led|nr=3|namn=Nyan|grad=7-}}
+
+{{led|nr=4|namn=Yläköydellä|grad=5}}
+
+{{led|nr=5|namn=Lätta Linjen|grad=4+}}´
+
+{{led|nr=6|namn=Churchill|grad=7/7+}}
+
+{{led|nr=7|namn=Bara på lotsas|grad=6-|fa=[[Per Calleberg]] och [[Rikard Hedman]]|text=}}
+
+{{led|nr=8|namn= Hela Berget stormar|grad=6-}}
+
+{{led|nr=9|namn=Lilla Skutt|grad=7-}}
+
+{{led|nr=10|namn=Just Reach|grad=6}}
+
+{{led|nr=11|namn=V|grad=5+}}
+
+
+[[Category:Vertikalt]]
+[[Kategori:Mix]]
+
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar karta]]
+
+[[Kategori:Åland]]
+[[Kategori:Finland]]
+[[Kategori:Resten av världen]]

@@ -1,0 +1,129 @@
+=Allmänt=
+
+{|
+|- valign="top"
+| width="145px" |
+[[Bild:Hemma2.JPG]]
+| width="350px" |
+Ett trevligt tillskott till Ludvika-boulderingen. "Området" består av ett ensamt men fint och stadsnära block. Föraren är ännu inte komplett, ytterligare problem har klättrats och kommer förhoppningsvis redovisas här inom kort.
+
+Hjälp till att justera in graderna!
+|}
+
+=Vägbeskrivning=
+Ta Näsvägen ut på biskopsnäset och parkera vid den tydliga breddningen av vägen, vid det lilla kalhygget. Se till att det finns plats kvar för stugägarna. Ta stigen ut till spåret och följ det söderut. Korsa över till andra sidan spåret när möjlighet ges och fortsätt söderut. Vid 1,5km-skylten tar man av ner mot sjön för att komma till blocket.
+
+<br>
+<center>
+[[Bild:Biskops.jpg]]
+</center >
+<br><br>
+
+==Biskopsnäsblocket==
+<br>
+<center>
+[[Bild:relapsef.jpg]]
+</center >
+<br>
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem|namn=Värme|grad=5B|typ=Travers|fa=H Skoog|landning=2|betyg=0|fadatum=2010-08-11|sopad=R Hahne|text=Lite klurigare än vad den ser ut att vara. Klättras i valfri riktning. Blå linje.}}
+
+{{problem|namn=Relapse|grad=5C|sittstart=ja|typ=Arête/Vägg|fa=H Skoog|landning=4|betyg=1|fadatum=2010-08-11|sopad=R Hahne|text=Catchigt på sköna sloperhyllor. Greppen till vänster hör inte till problemet. För varianten "Återfall", 6A, så catchar man med högerhanden. "Off the Wagon", 6A+, är samma problem utan den övre sloperhyllan. Orange linje.}}
+
+| width="20px" |
+
+| width="350px" |
+
+{{problem|namn=Bakåtfall|grad=6C?|sittstart=ja|typ=Catch|fa=?|landning=4|betyg=|fadatum=2011-04-23|sopad=H Skoog|text=Sittstart vid de sneda kimparna. Klättra rakt upp. Grön linje}}
+
+{{problem|namn=?|grad=6C?|typ=Catch|fa=M Larsson|landning=4|betyg=|fadatum=2011-04-23|sopad=H Skoog|text=Låg start från krimpar i den horisontella sprickan. Catcha upp till vänster till jug i spricka. Till höger om grön linje}}
+|}
+<br><br>
+
+<center>
+[[Bild:Hemmaf.jpg]]
+</center >
+<br>
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem|namn=Hemma|grad=6A+|typ=|fa=H Skoog|landning=3|betyg=1|fadatum=2010-08-23|sopad=H Skoog|text=Lågstart/sittstart långt ut till höger på sloperhyllan. Orange linje.}}
+
+{{problem|namn=Hemma ss|grad=6C-7A?|sittstart=ja|typ=|fa=T Miettinen|landning=3|betyg=1|fadatum=2010-08-23|sopad=H Skoog|text=Sittstart vid arêten. Den fina pinchen används lämpligen som startgrepp för vänsterhanden. Orange linje.}}
+
+{{problem|namn=Vattenlinje|grad=7A+/7B|sittstart=ja|typ=Travers|fa=T Miettinen|landning=3|betyg=1|fadatum=2011-04-28|sopad=H Skoog|text=Börjar med Hemmas sittstart. Traversera vänster och avsluta med Bakåtfall.}}
+| width="20px" |
+
+| width="350px" |
+
+{{problem|namn=Prästkrage ss|grad=7B|sittstart=ja|typ=|fa=T Miettinen|landning=3|betyg=1|fadatum=2011-04-23|sopad=H Skoog|text=Sittstart vid bra grepp under överhänget. Upp snett över arêten för urtoppning. Blå linje.}}
+
+{{problem|namn=Bida sin tid|grad=7C|typ=Travers|fa=T Miettinen|landning=3|betyg=2|fadatum=2011-05-21|sopad=H Skoog|text=Rakt upp vid överhänget. Röd linje}}
+
+{{problem|namn=Bida sin tid sds|grad=7C+/8A|sittstart=ja|typ=|fa=T Miettinen|landning=3|betyg=2|fadatum=2011-05-24|sopad=H Skoog|text=Sittstart vid bra grepp under överhänget. Klättra rakt upp. Röd linje}}
+
+|}
+<br><br>
+<center>
+[[Bild:Lugnasiglitef.jpg]]
+<br>
+Blockets högsta sida. 4,5-5m högt
+</center >
+<br>
+
+{|
+|- valign="top"
+
+| width="350px" |
+{{problem|namn=Lugna sig lite|grad=6B|typ=Överhäng|fa=H Skoog|landning=3|betyg=2|fadatum=2011-04-21|sopad=H Skoog|text=Ståstart från krimpar. Gå snett upp åt vänster och fortsätt rakt upp över de stora greppen. Blå linje.}}
+
+{{problem|namn=(Projekt)|grad=7?|typ=Överhäng|fa=-|landning=3|betyg=|fadatum=|sopad=H Skoog|text=Alternativt insteg till Lugna sig lite. Etablera/sittstarta nere till vänster om de stora greppen och klättra in i blå linje.}}
+
+| width="20px" |
+
+| width="350px" |
+
+{{problem|namn=Ynkrygg|grad=6C|typ=Arête|fa=J Andersson|landning=3|betyg=1|fadatum=2011-04-?|sopad=H Skoog/J Andersson|text= Ståstart från "näsan" och rakt upp. Orange linje.}}
+
+{{problem|namn=Ynkrygg ss|grad=6C+-7A?|sittstart=ja|typ=Arête|fa=T Miettinen|landning=3|betyg=1|fadatum=2011-04-23|sopad=H Skoog/J Andersson|text=Sittstart från den bra krimpen under rampen. Ovansidan av rampen är utesluten. Orange linje.}}
+|}
+
+
+<br><br>
+<center>
+[[Bild:Petanasanf.jpg]]
+</center >
+<br>
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem|namn=Peta näsan|grad=6B|sittstart=ja|typ=Undercling|fa=H Skoog|landning=3|betyg=1|fadatum=2010-10-13|sopad=H Skoog|text=Sittstart vid de bra greppen. Klättra vänster och fortsätt uppåt från underclingen. Blå linje.}}
+
+{{problem|namn=Slutet gott..|grad=6A+|sittstart=ja|typ=|fa=H Skoog|landning=3|betyg=|fadatum=2010-10-12|sopad=H Skoog|text=Sittstart vid de bra greppen. Gå höger till arêten och fortsätt rakt upp i vänstra diedret. Orange linje.}}
+
+| width="20px" |
+
+| width="350px" |
+
+{{problem|namn=Glöm inte|grad=6A|sittstart=ja|typ=|fa=J Andersson|landning=3|betyg=|fadatum=2011-04-14|sopad=H Skoog|text=Sittstart under arêten. Gå snett upp åt höger och rakt upp i högra diedret. Grön linje.}}
+
+{{problem|namn=?|grad=4|typ=Arête|fa=J Bayou|landning=5|betyg=|fadatum=2010-04-?|sopad=|text=Börja längst ut åt höger och följ kanten/toppen åt vänster. Röd linje.}}
+
+|}
+
+[[Kategori:Utkast]]
+[[Kategori:Ludvika]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Dalarna]]

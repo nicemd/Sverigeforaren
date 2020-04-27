@@ -1,0 +1,90 @@
+{{info klippa
+  |lat=59.33067
+  |long=18.39114
+}}
+
+{{komplett}}
+<br/>
+
+[[Bild:vattentorn.jpg|frame|right]]
+
+==Allmänt==
+Liten klippa bredvid väg som bjuder på finare klättring än vad man kan tro. 
+Torkar långsamt. Klippan fick en totalrenovering våren -08. Alla leder gicks igenom. Alla pitonger togs bort och ersattes av borrbult eller egna säkringar. Alla leder har numera firningsankare. Dessutom sitter ett ankare ovanför de fyra lederna längst till höger för den som vill kunna sätta upp topprep på dessa leder. Vegetationen under klippan röjdes av Värmdö kommun och lederna fick sig en avborstning då vissa börjat mossa igen.
+
+==Vägbeskrivning==
+<div style="clear:right;"></div>
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.33067" lon="18.39114" zoom="14" type="map" controls="small">
+59.33067,18.39114,[[Gustavsbergs Vattentorn]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Gustavsbergs Vattentorn
+lat=18391140
+long=59330670
+</slresa>
+</div> 
+
+Kör väg 222 ut mot Värmdö. Tag av avfart Ingarö/Gustavsberg. Kör höger mot Gustavsberg vid T-korsning.
+Följ vägen rakt fram några km tills du har en OK-mack på vänster sida. Ta vänster och efter 30 meter har du klippan på höger sida. Det finns en bra parkeringsficka precis före klippan.
+
+Klippan ligger inte långt ifrån [[Skevik]].
+
+<div style="clear:right;"></div>
+== Leder ==
+[[Bild:gustavsberg_skiss.gif]]
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1a|namn=Somliga går med trasiga skor|grad=6c|bultar=3|fa=[[Thomas Eriksson]], [[Per Willén]] [[2009|-09]]|typ=sport|betyg=|text=En trevlig kort svatur 50 meter vänster om Lugna gatan. Tack till Kjell Stenström för bultningen.}}
+
+{{led|nr=1|namn=Lugna gatan|grad=7b+|fa=[[Johan Luhr]], [[Lars Thorén]], [[Daniel Bidner]][[1989|-89]]|typ=sport|betyg=3|text=En av de finaste 7b+ i Stockholm. Den svagt överhängande pelaren }}
+
+{{led|nr=2|namn=Pekka Harreng|fa=[[Eva Selin]], [[Anders Lundahl]][[1989|-89]]|grad=6+/7-|typ=trad|text=Tydligt hörn med spricka}}
+
+{{led|nr=3|namn=Frostys party|grad=7a|fa=[[Eva Selin]], [[Anders Lundahl]][[1989|-89]]|bultar=4|typ=sport|text=Efter sista bulten avslutas leden med en kort högertravers och gemensamt utsteg med Vernissage. Skissen är missvisande.}}
+
+{{led|nr=4|namn=Vernissage|grad=7|fa=[[Anders Lundahl]],[[Eva Selin]][[1989|-89]]|typ=mix|text=Går rakt upp, skissen är missvisande.}}
+
+{{led|nr=5|namn=Något som gudarna glömde|grad=6|fa=[[Niklas Björnerstedt]], [[Daniel Bidner]], [[Jonas Olsson]][[1989|-89]]|typ=trad|text=Start bakom stora eken. Sparsamt säkrad}}
+
+{{led|nr=6|namn=Boom, boom, boom|grad=7/7+|fa=[[Eva Selin]], [[Anders Lundahl]][[1989|-89]]|typ=mix|betyg=3}}
+
+{{led|nr=7|namn=Formula|grad=7|fa=[[Eva Selin]], [[Anders Lundahl]][[1989|-89]]|typ=mix|betyg=2}}
+
+{{led|nr=8|namn=Mysterier|grad=6c+|fa=[[Eva Selin]], [[Anders Lundahl]][[1989|-89]]|typ=sport|betyg=1}}
+
+{{led|nr=9|namn=Trend|grad=7a+|fa=[[Anders Lundahl]],[[Eva Selin]][[1989|-89]]|typ=sport}}
+
+| width="300px" |
+
+{{led|nr=10|namn=Boomerang|grad=7c+|fa=[[Anders Lundahl]][[1989|-89]]|typ=sport|betyg=2|text=Klippans led. Går på skölden mitt på väggen}}
+
+{{led|nr=11|namn=Apértif|grad=7|fa=[[Anders Lundahl]],[[Eva Selin]][[1983|-83]]|typ=trad|betyg=1}}
+
+{{led|nr=12|namn=Kosmiskt tekniskt|grad=A2+|fa=[[Lars Johansson]][[1995|-95]] (repsolo)|typ=aid}}
+
+{{led|nr=13|namn=Hon var svart|grad=A2|fa=[[Ludde Hagberg]][[1995|-95]]|typ=aid}}
+
+{{led|nr=14|namn=Hors d'oeuvre|grad=6c|fa=[[Eva Selin]], [[Anders Lundahl]][[1991|-91]]|typ=sport}}
+
+{{led|nr=15|namn=Den sista gustavianen|grad=6c+|fa=[[Anders Lundahl]],[[Eva Selin]][[1991|-91]]|typ=sport}}
+
+{{led|nr=16|namn=Chalk talk|grad=7b+|fa=[[Anders Lundahl]],[[Eva Selin]][[1991|-91]]|typ=sport}}
+
+{{led|nr=17|namn=Svensksund|grad=7b|fa=[[Anders Lundahl]],[[Eva Selin]][[1991|-91]]|typ=sport|text=Vass, slopig och boulderkaraktär}}
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Category:Retrobultning]]
+[[Category:Sport]]
+[[Category:Mix]]
+[[Category:Trad]]
+[[Category:Vertikalt]]

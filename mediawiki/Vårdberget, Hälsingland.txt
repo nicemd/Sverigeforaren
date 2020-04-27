@@ -1,0 +1,85 @@
+{{info klippa
+  |lat=61.21076646377241
+  |long=17.13369369506836
+}}
+
+{{komplett}}
+
+==Allmänt==
+Vårdberget ligger mitt i Ljusne samhälle 13 km från Söderhamn. 
+
+==Kommunikationer== 
+<div style="float:right">
+<googlemap lat="61.21076646377241" lon="17.13369369506836" zoom="13" width="400" height="250" type="map">
+61.21076646377241,17.13369369506836,Vårdberget
+</googlemap>
+</div>
+Med bil; från Söderhamn åker man till Sandarne. Därifrån åker man mot Ljusne och tar av vänster vid en skylt "Mot Ljusne bruk". Man ser berget när man kör igenom Ljusne. Strax före en ICA-affär, korsningen Smedsvägen/Nygatan, tar man av vänster och parkerar precis nedanför berget. Vid parkeringen syns ett gammalt trästaket. Gå igenom det vid ett hål och gå sedan upp en bit i backen och följ staketet bortåt ca 30 m. Här finns en finns en sex m hög vägg med fyra sprickor. 
+GPS-koordinater: Lat: N 61º 12' 40.60" Long: E 17º 7' 55.4"
+
+==Historik==
+{{hälsingeföraren}}
+{{sidbrytning}}
+==Väggar==
+
+===Tuggummiblocket=== 
+[[Bild:vb_tuggummi.jpg]]
+
+Räknat från vänster:
+{|
+| width=200 |
+{{led|nr=1|namn=Doublemint|grad=?|typ=trad|text=Klart svår. }}
+| width=200 |
+{{led|nr=2|namn=Spearmint|grad=?|typ=trad|text=Relativt lätt. }}
+| width=200 |
+{{led|nr=3|namn=Juicy Fruity|grad=?|typ=trad|text=Något svårare. }}
+|}
+{{sidbrytning}}
+
+===Chokladblocket=== 
+[[Bild:vb_choklad.jpg]]
+
+För att komma till Chokladblocket, följer man staketet bortåt tills det viker av mot toppen. Härifrån går man i riktning mot den stora fabriken i kustbandet tills fabriken försvinner bakom trädtopparna, då ser man ett spetsigt flyttblock nedanför sig och när man här viker runt ett hörn, dyker Chokladblockets vägg upp. Lederna här varierar i längd mellan 5 och 7 m. 
+{|
+|- valign="top"
+| width=200 |
+{{led|nr=4|namn=Japp|grad=?|typ=trad|text=Kort väggtur i vinkel mot Chokladblocket till vänster. }}
+
+{{led|nr=5|namn=Mjölkchoko|grad=?|typ=trad|text=Grund kamin med en handspricka i hörnet. Lätt. }}
+
+{{led|nr=6|namn=Choco|grad=?|typ=trad|text=Tydlig traverspricka under ett tak. }}
+
+{{led|nr=7|namn=Geisha|grad=?|typ=trad|text=Den tydliga kaminen med utsteg åt höger. Lätt. }}
+| width=200 |
+{{led|nr=8|namn=Fazer|grad=?|typ=trad|text=Det vänstra diederutsteget ur kaminen. }}
+
+{{led|nr=9|namn=Schweizernöt|grad=?|typ=trad|text=Den första tydliga sprickan till höger om kaminen. Relativt svår. }}
+
+[[Bild:Schweizern%C3%B6t.jpg|thumb|200px|right|Claes Jelinek, Schweizernöt, 1983. Foto: Per Calleberg.]]
+
+{{led|nr=10|namn=Helnöt|grad=?|typ=trad|text=Fem m travers in från höger till "Schweizernöt". Börjar ända borta vid sprickan till höger om "Schweizernöt". Man kliver in från ett flyttblock och traverserar diagonalt upp mot nischen mitt på "Schweizernöt". Känslig. }}
+| width=200 |
+{{led|nr=11|namn=Snickers|grad=?|typ=trad|text=Tunn spricka rakt ovanför insteget på "Helnöt". Vass. }}
+
+{{led|nr=12|namn=Raider|grad=?|typ=trad|text=Det grunda hörnet till höger om "Snickers". Medelsvår }}
+
+{{led|nr=13|namn=Bounty|grad=?|typ=trad|text=Tydlig lay-back spricka till höger om det grunda hörnet som utgör "Raider" Relativt lätt. }}
+|}
+{{sidbrytning}}
+
+===Vattencisternen=== 
+[[Bild:Heaven.jpg|thumb|300px|right|Claes Jelinek toppar Heaven Up Here (6), Ljusne, 1983.
+Foto: Per Calleberg]]
+På bergets topp, mot samhället till, finns en stor vattencistern. Gå 15 m från vattencisternen mot en telefonstolpe och i riktning ett gult hyreshus. Ett av stagen på telefonstolpen är förankrat med en stor bult som går att använda som firningsbult vid nedfirning till lederna på nordsidan av berget. Man firar då rakt över "Heaven up here". Om man inte vill fira ned kan man gå ned till vänster längs en ramp. 
+
+{{led|nr=14|namn=Heaven up here|grad=6|längd=17|fa=Per Calleberg m topprep 1981|text=Vägg med 70 graders lutning nedanför ovan nämnda telefonstolpe. Väggtur med små grepp och steg. Leden har inte letts, då den är helt osäkrad.}}
+
+{{led|nr=15|namn=Manacle|längd=10|grad=5-|typ=trad|fa=Kent Andersson och Per Calleberg 1981|text=Om man från insteget från "Heaven up here" följer nederkanten på väggen åt vänster ut mot havet, kommer man efter ca 100 m till ett kort dieder. }}
+
+{{led|nr=16|namn=Örnnäsan|grad=4|typ=trad|fa=Gunnar Larsson m topprep 1981|text=Ännu längre åt vänster (ca 50 m), nedanför ett trästaket, ligger en liten ravinformation. På ravinens högra vägg finns denna led. Följer en tydlig arete förbi ett litet tak. }}
+
+{{led|nr=17|namn=Alaväggen|grad=5-|typ=trad|fa=Torbjörn Nilsson m topprep 1982|text=Ligger strax till vänster om "Örnnäsan". }}
+
+{{led|nr=18|namn=Mycke stånk|längd=6|grad=4+|typ=trad|fa=Gunnar Larsson m topprep 1981|text=Runt hörnet, till höger om "Örnnäsan", finns en annan vägg. Tydlig spricka på en relativt brant vägg. Leder upp till en gran. }}
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

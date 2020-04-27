@@ -1,0 +1,38 @@
+{{boulderstub|extern=ja}}
+Det vackra naturreservatet Kjugekull är ett av Sveriges största och absolut bästa områden för bouldering och omfattar just nu 1140 olika klätterproblem och varianter. Blocken är generellt sett stora, runda och friliggande och finns utspridda i gles lövskog mellan kulliga beteshagar. Detta utgör en vacker inramning till stenblocken och gör Kjugekull till en naturupplevelse utöver det vanliga. Alla typer av problem finns representerade: låga sittstarter och höga linjer, känsliga sva-problem och branta tak, sugande traverser och långa catchar. Klättringen är ofta teknisk och friktionsberoende, sällan riktigt brant. Man kan klättra på Kjugekull nästan hela året om.
+
+<googlemap lat="56.076682113594" lon="14.3642807006835" zoom="9" type="map">
+56.076682113594,14.3642807006835,Kjugekull
+</googlemap>
+
+[http://www.kjuge.nu/ Mer info]
+
+[http://www.kjugekull.blogspot.com/ Kjuge Blog]
+
+[http://skaneboulderhunter.blogspot.com/ Mer bouldering i närheten av Kjuge]
+
+==Access {{access}}==
+
+{{AccessDB|klippa=kjugekull}}
+
+==Boende==
+
+===Vandrarhemmet i Vånga===
+[[http://www.vandrarhemmetivanga.com/]]
+Mycket bra vandrarhem, rabatterat pris för medlemmar i STF.
+Bastu, vedeldad badtunna finns. Relativt nära Kjuge.
+
+===Humletorkan===
+[[http://www.humletorkan.com/]]
+Spartanskt boende lite för långt från Kjuge. Mer fokus på hembygsgård än på vandrarhem, enkelt utrustat kök.
+
+===Bäckaskogs slott===
+[[http://www.backaskogslott.se/]]
+Lyxboende och nära till Kjuge.
+
+===Vens Camping===
+[[http://www.venscamping.se/]]
+För dig som gillar att tälta, men har även stugor.
+
+{{tryckt förare|kjugekull med mera (2003)=ja}}
+[[Kategori:Skåne]]

@@ -1,0 +1,37 @@
+{{info klippa
+  |lat=57.67806
+  |long=12.01259
+}}
+
+{{stub}}
+<googlemap lat="57.67806" lon="12.01259" zoom="9" type="map">
+57.67806,12.01259,Kallebäck
+</googlemap>
+==Allmänt==
+En liten klippa som ligger nära ett äldreboende. Om man är student och bor i området (Kallebäck) kanske man kan vilja klättra här. Lätt att sätta upp topprep med hjälp av stora träd. 
+
+==Parkering==
+Parkera vid äldreboendet, gå in i skogen och håll utkik för en liten klippa på höger sida. Inte av intresse för vana klättrare då alla leder är i det mycket lägre registret. Sva. 
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Första klippan==
+Många fästingar utlovas. Finns potential för att borsta fram ett par nya leder. Klippan är ca 10 meter hög. Fa=Patrik Alsebyg och Mattias Järemo, 1991 för de flesta lederna. 
+{{led |namn=Markus Torkar upp | grad=4+}}
+{{led |namn=KGB får lavemang| grad=4+}}
+{{led |namn=Sobril| grad=5| text=Sobril är väl en tablett för magen?}}
+{{led |namn=Rullatorrally | grad=5-}}
+{{led |namn=Moggadon | grad=4+}}
+{{led |namn=Valium|grad=5}}
+
+[[bild:kalleback1_.jpg]]
+
+[[bild:kalleback3_.jpg]]
+
+==Andra sidan==
+{{led |namn=Cicciolina | grad=6- | fa=Patrik Alseby, 1991|text=Skall tydligen ligga på andra sidan berget, mot järnvägen till. Ingen har någonsin hittat leden. }}
+
+
+
+
+[[Kategori:Göteborg]]

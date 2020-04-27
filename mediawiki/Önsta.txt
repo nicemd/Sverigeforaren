@@ -1,0 +1,43 @@
+=Allmänt=
+Ett sent tillskott bland Västeråsstenarna. De första problemen borstades fram under säsongen 2007. Stenkvaliteten är av samma vassa art som på södra och norra gryta. Området har flera större höga block och ett antal mindre. Flera inbjudande linjer finns kvar att göra. Problemen varierar från lättare upp till 7B..
+
+=Vägbeskrivning=
+Sikta mot Önsta Kyrka i Västerås. Åk in på Dalslandsgatan och parkera. Det är svårt att finna bra parkeringar här. Enklast är att ställa bilen vid Önsta Idrottsplats och gå till området (alternativ parkering på bostadsområdet Rönnby: korsningen Rönnbyvägen och Hoppbanegatan). Från Önsta: följ skogskanten norrut på åsens västra sida. Passera över motionsspåret där det klyver åkern och gå ytterligare 150 m norrut. När du ser en hög stengavel på din högra sida är du framme vid första stenen.  
+
+=Karta=
+
+Observera att koordinaterna för blocken är ungefärliga.
+
+<googlemap version="0.9" lat="59.65636" lon="16.529016" type="terrain" zoom="15">
+59.654991, 16.522429, Stora Blocket, Ensamvargsblocket, Sköldpaddsblocket
+59.656466, 16.527793, Sutterängblocket
+Dolt i sänkan till höger om spåret 
+59.654406, 16.528695, Namnlösa blocket
+</googlemap>
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Aretha Franklin|grad=4C|typ=Krimp,Layback,Mantling|fa=Jonas Franzén|landning=4|sopad=Jonas Franzén|sittstart=ja|text=Höga blocket, Sittstart vid den överhängande areten mitt på östra sidan.}}
+{{problem|nr=2|namn=Rallarsving|grad=6C|typ=|fa=|landning=|sopad=|sittstart=|text=Lägg till info!}}
+{{problem|nr=3|namn=Ensamvarg|grad=7B|typ=|fa=|landning=|sopad=|sittstart=|text=Lägg till info!}}
+{{problem|nr=4|namn=Traversmyran|grad=6B|typ=|fa=|landning=|sopad=|sittstart=|text=Lägg till info!}}
+{{problem|nr=5|namn=Skrapan|grad=6C|typ=|fa=|landning=|sopad=|sittstart=|text=Lägg till info!}}
+| width="250px" |
+{{problem|nr=6|namn=Glassbilen kan komma|grad=6A+|typ=|fa=Jonas Franzén|landning=|sopad=|sittstart=Ja|text=Lång sträckning på östra sidan av höga blocket}}
+{{problem|nr=7|namn=Glassbilsterror|grad=6B|typ=|fa=Jonas Franzén|landning=|sopad=|sittstart=Ja|text=Lägg till info!}}
+{{problem|nr=8|namn=Kolmogorovs axiom|grad=6A+|betyg=1|typ=Arête|fa=Jonas Franzén||fadatum=2010-04-29||landning=|sopad=Jonas Franzén och Henric Skoog|text=Vänstra arêten på första blocket till höger då man kommer från Närkevägen}}
+
+| width="250px" |
+|}
+
+
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

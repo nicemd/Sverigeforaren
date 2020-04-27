@@ -1,0 +1,70 @@
+{{utkast}}
+
+==Allmänt==
+Klippan är belägen på Åland (finsk!) dit man tar sig med färja från Stockholm, Kapellskär eller Grisslehamn.
+
+Klippan är ca 25 meter som högst och hänger över med 3-4 meter. Riktigt fin kompakt granit med tunna vertikala sprickformationer. Inte mycket att jamma i dock.
+
+==Övrigt==
+[[Bild:Skålberget1.jpg|300px]] [[Bild:Skålberget2.jpg|300px]]
+[[Bild:Sk%C3%A5lberget.jpg|thumb|200px|right|Åland har inte bara bouldering: Rikard Hedman gör förstabestigningen av "Skål och välkommen" (7), Skålberget, Åland. Foto: Per Calleberg]]
+
+Den första omgången turer sattes upp 1989-91. Jag (Rikard Hedman) fick bra kontakt med markägaren som alltid kom och var nyfiken. Efter en tid blev han tyvärr ifrågasatt av folk som hade för sig att det fanns häckande fåglar på berget, så jag plockade för säkerhets skull ner alla hängare. De flesta hängarna sitter nu åter uppe tack vare finska klättrare. Jag tror inte det är något problem med access längre, men håll en låg profil för säkerhets skull. Det mesta är bultat med avfirningskedja, men ett litet rack kan vara bra att ha med om det blir för mycket skräck.
+
+==Vägbeskrivning==
+På vägen från Godby till Bomarsund, ta av mot Sunds kyrka, kör genom Brännbolstad så dyker klippan efter en bit upp på höger sida.
+
+
+
+Huvudväggen, från vänster till höger.
+
+{{led|nr=1|namn=Aqua vit|grad=8-|text=Väggklättra direkt höger om startsprickan upp till hylla, sedan hård sträckning genom överhäng|fa=[[Rikard Hedman]]}}
+
+{{led|nr=2|namn=Projekt|grad=?|text=Allt utom 2 meter gjort, borde gå med bra stick och fingerstyrka}}
+
+{{led|nr=3|namn=Skål och välkommen|grad=7|text=Finns på bild i SF|fa=[[Rikard Hedman]], [[Per Calleberg]] -90}}
+
+{{led|nr=4|namn=Skakad inte rörd|grad=7+|text=Grenar ut höger från Skål|fa=[[Rikard Hedman]]}}
+
+{{led|nr=5|namn=Upptrappning|grad=7|text=Halva trapper sedan upp|fa=[[Rikard Hedman]]}}
+
+{{led|nr=6|namn=Trapper|grad=7-|text=Uppför rampen|fa=[[Rikard Hedman]], [[Per Calleberg]], -90}}
+
+{{led|nr=7|namn=Som ett skålat troll|grad=7-|text=Eget kan behövas i startsprickan|fa=[[Rikard Hedman]], [[Per Calleberg]] -90}}
+
+{{led|nr=8|namn=För fulla muggar|grad=8-|text=|fa=[[Rikard Hedman]]}}
+
+{{led|nr=9|namn=?1|grad=8+|text=Tunn spricka med pitong, resten bultat|fa=[[Rikard Hedman]]}}
+
+{{led|nr=10|namn=?2|grad=8|text=Samma start sedan höger, saknar nog hängare|fa=[[Rikard Hedman]]}}
+
+{{led|nr=11|namn=?3|grad=7|typ=trad|text=Naturligt säkrad}}
+
+{{led|nr=12|namn=?4|grad=7|typ=trad|text=Naturligt säkrad}}
+
+{{led|nr=13|namn=?5|grad=7|text=Kort bultad|fa=[[Rikard Hedman]], [[Per Calleberg]] -90}}
+
+
+Hyllan uppe till vänster.
+
+
+
+På nästa hylla uppe tv finns även en fin? kamin, 5, en fin ow-spricka ca 8, ett boulderartat och lite krystat dieder('''Wild style''', 7, [[E. Massih]] 08) och på samma hylla längre tv ("'''straighten up'''", 8; "'''Lighten up'''", 7 samt "'''Dirtbag de lux'''" och "'''Dirtbag delight'''", båda ca 5, [[E. Massih]] 08) samtliga nat säkrade. 
+
+
+Långt t.v på den långsträckta väggen t.v. på berget finns en bultad sexa ('''Svinga en bägare''', 6+, mixade säkringar, FA: [[Buster Delin]] och [[Per Calleberg]], 1991) och en naturligt säkrad sexa med handjam ([[Rikard Hedman]]).
+
+Längst t.h., i skärningen mot huvudväggen, ligger '''Passageraren''' (6); bultad ([[Per Calleberg]], [[Rikard Hedman]], 1990)
+
+[[Kategori:Åland]]
+[[Kategori:Finland]]
+[[Kategori:Resten av världen]]
+
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar ledmall]]
+
+[[Kategori:Sport]]
+[[Kategori:Mix]]
+[[Kategori:Trad]]
+[[Kategori:Överhäng]]

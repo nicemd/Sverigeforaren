@@ -1,0 +1,140 @@
+{{info klippa
+  |lat=59.4158
+  |long=13.515
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+
+{{boulderkomplett}}
+
+==Allmänt==
+I skogen vid stadsdelen Rud i Karlstad finns några klippväggar och utspridda block. Primärt problem i det lättare registret men annat gôtt återfinns också.  
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.405083" lon="13.522797" type="map">
+59.4158, 13.515, Hästspåret
+</googlemap>
+
+</div>
+
+Parkera vid bostadsområdet i närheten av Horsensgatan. Obs. betalparkering. 
+Förbjudet att parkera vid förskolan som ligger till vänster om du kommer från stan och kör uppför Horsensgatan. Har hittills varit riskfritt att parkera på den grusplats som är bakom busshållplatsen direkt efter förskolan. Högst upp på Horsensgatan finns en parkeringsficka till vänster. För latmaskar som tar bilen till löprundan i elljusspåret. Vid parkering här blir det lite längre att promenera. 
+
+Promenera rakt in i skogen bakom/förbi förskolan via en av många vältrampade stigar. Du kommer strax ut på ett elljusspår. Följ detta åt vänster (max 100m?) tills du ser en sprayfärgad (orange) gran/tall intill en ljusstolpe. Vik in på stigen som går in vid sprayade trädet. Följ denna väl upptrampade stig över stock och sten i lätt stigning via fler orangefärgade träd. Efter ett hundratal meter kommer du fram till en grövre grusstig som är hästspåret. Följ denna uppåt åt vänster. När uppförsbacken tar slut tar klipporna vid. Det bästa hittar du längst ner i nedförsbacken. 
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Topo==
+
+[[Bild:Tn 20090424849.jpg|700px]]
+
+Vertikala väggen. Problem 1-12
+
+[[Bild:Topo.jpg|750px]]
+{{sidbrytning}}
+
+==Problem==
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Svat | grad=3+ | typ=sva | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=2 | namn=Lätta sprickan | grad=2+ | typ=spricka | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=3 | namn=Bågen | grad=3+ | typ=vertikalt | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=använd listerna till toppen}}
+
+{{problem | nr=4 | namn=Inte så svår som man kan tro | grad=6a | typ=vertikalt | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=5 | namn=Layaway | grad=5c | typ=vertikalt | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=ta juggen och gå rakt upp}}
+
+{{problem | nr=6 | namn=Svåra sprickan | grad=5a | typ=vertikalt | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=7 | namn=Bowl | grad=6a+ | typ=vertikalt | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=rakt upp på facet bredvid sprickan, lite otäckt utsteg}}
+
+{{problem | nr=8 | namn=Depeche Mode på Arvikafestivalen | grad=6c | typ=vertikalt, balansigt, crimp | fa=Sören Danielsson | landning=3 | betyg=1 | fadatum=maj 2009 | sittstart= | variant= | uteslutningar= | sopad= | text=Börja där horisontalspricka möter en lodrät spricka. Rakt upp på facet via det grunda enfingerhålet (som faktiskt sväljer två fingertoppar). Nyp till och gå rakt upp till dåliga crimpar, möblera fötter och fortsätt rakt upp via crimp och kant. FA gjordes utan bulliga gastongreppet kl 13 som underlättar något. Varianter finns således. Hur som helst känsligt och balansigt problem. Graden oviss. Prova och bedöm själv}}
+
+{{problem | nr=9 | namn=Brave | grad=6a | typ=vertikalt, crimp | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=crimpa och gå till tvärsprickan}}
+
+{{problem | nr=10 | namn=Namnlös | grad=6a | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=som ovan nämnda led}}
+
+{{problem | nr=11 | namn=Lätta i mitten | grad=5a | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=12 | namn=Lätta till höger | grad=4 | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=13 | namn=Grytkryp | grad=5a | typ= | betyg=1 | fa= | landning=1 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=liggstart med benen i grottan, rakt upp via snälla grepp till hyllan där mantlingen tar vid. Roligt/annorlunda och fint problem.}}
+
+{{problem | nr=14 | namn=Projekt | grad=? | typ= | fa= | landning=1 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=samma start som {{ledlänk|namn=Grytkryp}} men låg travers ut till högerhörnet och sedan upp. Beundransvärt nyp i crimpen och kroppstyrka troliga nyckelingredienser.}}
+
+{{problem | nr= | namn=projekt? | grad=? | typ= | fa= | landning=1 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=samma som projekt i problem 14, men traversen görs högt istället för lågt.}}
+
+{{problem | nr=15 | namn=Namnlös | grad=6a | typ= | fa= | landning=3 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=sittstart via sidepull och upp}}
+
+{{problem | nr=16 | namn=Fin liten sak | grad=5a | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=17 | namn=Namnlös | grad=6a+ | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr= | namn=Fackpampen | grad=4 | typ= | fa=Jonas Wallmander, Sören Danielsson | landning=3 | fadatum=maj 2009 | sittstart= | variant= | uteslutningar=ja | sopad= | text=Balansövning till vänster om Träben. Längst till vänster på blocket finns tydliga steg. Rakt upp. Händerna på ryggen.}}
+
+{{problem | nr=18 | namn=Träben | grad=6b | typ= | fa= | landning=3 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=Sittstart i gropen/hålet. Tidigare nejdens hårdaste 6b om man var över 175cm lång. Dåvarande lösning = heelhook vänster, dra ut högerbenet ur gropen och gå rakt upp på "areten". Ny lösning = heelhook höger och upp.}}
+
+| width="350px" |
+
+{{problem | nr=19 | namn=Namnlös | grad=5c | typ=crimp | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=vid mitten av stenen och upp via crimper}}
+
+{{problem | nr=20 | namn=It ain't over until it's over | grad=6c | typ=mantling, överhäng, crimp | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=Börjar i nedre tvärsprickan upp till list och upp via sprickan som går snett upp åt vänster. Listen numera borta. Oklart hur det påverkat graden}}
+
+{{problem | nr=20a | namn=Parasiten | grad=7a? | typ=slabb, crimp, heelhook | fa=Sören Danielsson | landning=3 | betyg=3 | fadatum=2009-07-08 | sittstart=ja | variant= | uteslutningar=ja | sopad= | text=Sittstart vid tydliga och snälla startgrepp i nedre högra hörnet på blocket. Leta dig upp via areten till läppen, följ läppen till vänster en meter till du möter den tunna, tunna lodräta sprickan. Utsteget är rakt upp över denna. Stenen i nederkant tillhör annat block och är (såklart) uteslutet. Mkt fint problem som bjuder på intressant och sportig klättring. Namnet taget från projektnamnet på FA's då ofödda avkomma.}}
+
+{{problem | nr=21 | namn=Sunes crimp | grad=6a+ | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=tidigare graderad 6c}}
+
+{{problem | nr=22 | namn=Fina pinchen | grad=6a | typ=pinch, slope, sidepull | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=upp till sidepull sedan till pinch och avsluta med slope}}
+
+{{problem | nr=23 | namn=Namnlös | grad=4 | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=upp längst med sprickan}}
+
+{{problem | nr=24 | namn=Namnlös 5b | grad=5b | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar=ja | sopad= | text=stå på stora stenen och upp utan att använda vänstra sprickan i led 23}}
+
+{{problem | nr=25 | namn=Namnlös 5a | grad=5a | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=upp på lister som bara blir bättre och bättre}}
+
+{{problem | nr=26 | namn=Svag tendens till svängdörr | grad=6c | typ= | fa= | landning=3 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=Börja på två sidepulls och sedan upp Kanske 6a eller 6b}}
+
+{{problem | nr=27 | namn=Ingen svängdörr alls | grad=5b | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=28 | namn=Namnlös | grad=5a | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=29 | namn=Sva | grad=2 | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=30 | namn=Namnlös | grad=3 | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=31 | namn=Namnlös | grad=4+ | typ= | fa= | landning=3 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=areten sittstart}}
+
+{{problem | nr=32 | namn=Namnlös | grad=3+ | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=33 | namn=Namnlös | grad=3+ | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=}}
+
+{{problem | nr=34 | namn=Namnlös | grad=4 | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=traversera på slopiga kanten med händerna}}
+
+{{problem | nr=35a | namn=Drop Knee| grad=5a | typ= | fa= | landning=3 | fadatum= | sittstart= | variant= | uteslutningar= | sopad= | text=Facet till vänster om nr 29 }}
+
+{{problem | nr=35b | namn=variant | grad=6a | typ= | fa= | landning=3 | fadatum= | sittstart= | variant=ja | uteslutningar= | sopad= | text=trevlig sittstart som nr 36 sen vidare höger och upp för 35A}}
+
+{{problem | nr=36 | namn=Ont i knät | grad=4+ | typ= | fa= | landning=3 | fadatum= | sittstart=ja | variant= | uteslutningar= | sopad= | text=}}
+
+|}
+
+
+Mer leder finns men har ej tagits med i dena utgåva...
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:bouldering]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[kategori:Saknar skrivarformatering]]
+[[Category:Värmland]]

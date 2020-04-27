@@ -1,0 +1,39 @@
+{{utkast}}
+
+==Allmänt==
+Rödhällsberget ligger en dryg mil nordväst om Hudiksvall. Klippan ligger längst uppe på en kulle, och har en ohygglig anmarsch längs en kraftledningsgata. Väl framme är det lätt att orientera sig;
+väggen, som är en sydvägg bestående av gnejs, är mer eller mindre
+sammanhängande i ca 100 meters längd. Bitvis är klippan litet lös,
+vilket är mest besvärande för de som rensar nyturer; de etablerade
+lederna är i huvudsak rena och fasta.
+
+== ==
+
+Syd-ost om Rödhällsberget finns ett mäktigt stup, Tannaklitten (GPS-koordinater: Lat: N 61º 48' 23.84"   Long: E 16º 54' 19.12"). Enligt uppgift är väggen 50 m hög och så brant att om man firar utför den hamnar man 2-3 m ut från basen på väggen. Antagligen är det aldrig klättrat där.
+
+[[Bild:Armerad.jpg|thumb|300px|right|Buster Delin på förstabestigningen av Armerad betong (7-), Rödhällsberget, 1990. Foto: Peter Brolin]]
+
+==Vägbeskrivning==
+Saknas.
+
+Ungefärliga GPS-koordinater: Lat: N 61º 48' 49.18" Long: E 16º 54' 31.67"
+
+==Klippan==
+
+Ren och fast klippa där lederna går.
+
+{{led|nr=1|namn=Starten|längd=6|grad=3+|typ=trad|fa=Peter Brolin och Per Calleberg 1990|text= Brant liten spricktur nästan längst ut till vänster på berget.}}
+
+{{led|nr=2|namn=Med borsten i käften|längd=6|grad=3|typ=trad|fa=Buster Delin 1990|text= Vass laybackkant i hörnet 2m till höger om "Starten"}}
+
+{{led|nr=3|namn=Armerad betong|längd=14|grad=7-|gruv=b|typ=trad|fa=Buster Delin och Per Calleberg 1990|text= Kraftfull, överhängande vägg- och sprickklättring på väggen som ligger i vinkel mot de föregående lederna. Välkommen viloposition på hyllan mitt på väggen. En fast bult vid insteget. Fina kil- och Friendsäkringar i övrigt --- om man orkar lägga dem.}}
+
+{{led|nr=4|namn=Penetrera|längd=12|grad=5-|gruv=b|typ=trad|fa=Stefan Lindberg mfl 1989|text= Runt hörnet, 8 m till höger om Armerad betong, ligger en A-formad grotta. Denna led följer en linje med i huvudsak väggklättring till vänster om grottan. Fint diederutsteg.}}
+
+{{led|nr=5|namn=Livet under pylonerna|längd=12|grad=6-|gruv=b|bultar=2|typ=mix|fa=Per Calleberg, Peter Brolin och Buster Delin 1990|text= Långt till höger på berget finns ett ordentligt överhängande parti där klippan bitvis är dystert grå. I vänsterkanten av den överhängande väggen finns en tydlig arete. Leder följer denna. Insteg i ett litet hörn till vänster om den egentliga areten. 6 m upp rundar man areten och avslutar med fin väggklättring på aretens högra sida. 2 borrbultar.}}
+
+[[Bild:Pylonerna.jpg|thumb|300px|right|Per Calleberg gör förstabestigningen av Livet Under Pylonerna (6-), Rödhällsberget, 1990. Foto: Per Callebergs arkiv.]]
+
+[[Kategori:Saknar vägbeskrivning]] [[Kategori:Saknar karta]] [[Kategori:Saknar skiss]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

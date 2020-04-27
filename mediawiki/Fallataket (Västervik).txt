@@ -1,0 +1,23 @@
+{{info klippa
+  |lat=57.76055
+  |long=16.527777}}
+
+{{boulderstub|extern=ja}}
+
+==Allmänt==
+Fallataket är en överhängande vattenslipad granitvägg. Taket ligger i skogsmiljö och huserar ovanligt branta linjer.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.76055" lon="16.527777" type="map" zoom="13" controls="small">
+57.76055, 16.527777, Fallataket (parkering)
+</googlemap>
+</div>
+<div style="clear:both"></div>
+
+== Extern förare ==
+http://www.vastervikclimbing.se/klattercentret/pdfer/
+
+[[Kategori:Småland]]
+[[Kategori:Västervik]]

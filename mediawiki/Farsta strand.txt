@@ -1,0 +1,119 @@
+{{info klippa|lat=59.237928|long=18.096607}}
+
+{{boulderkomplett}}
+
+
+==Allmänt==
+
+Ca 3-5 meter hög bouldervägg ett stenkast från Farsta Strands tunnelbana och pendeltåg. Klippan ligger i direkt anslutning till en stor, nybyggd lekpark med prylar för allt från 1-10+ år - perfekt om man måste släpa på barn när man vill klättra ute.
+
+==Vägbeskrivning==
+
+<div style="float:right">
+<googlemap version="0.9" lat="59.236622" lon="18.099289" zoom="16" height="350">
+59.237928, 18.096607, Farsta Strands bouldervägg
+</googlemap>
+</div>
+
+Ta T-bana eller pendeltåg till Farsta strand. 
+
+'''Från t-banan:''' gå rakt över det runda torget och igenom två tunnlar. Du kommer då till pendeltåget. Sen:
+
+'''Från pendeltåg:''' gå ner från perrongen och håll till höger. Därefter syns en parkeringsplats. Snedda tv över den till vägkorsningen Ågersta broväg/Edagränd. Gå över vägen och in i skogen tv om Edagränd tills det asfalterade diket dyker upp. Följ det till dess slut. Fortsätt rakt fram mot lekplatsen. Klippan ligger till vänster.
+
+==Problem==
+
+Från vänster till höger:
+
+{{problem|namn=Lätt och slätt|grad=?
+|fa=Pål Nylander –95
+|text=Sva, variant omvänt problem, spring ner från toppen.}}
+
+{{problem|namn=Låp|grad=?
+|fa=Pål Nylander –95
+|text=Sva, variant undvik det stora greppet på slutet.}}
+
+{{problem|namn=Anders hörna|grad=5B
+|fa=Anders Hagelbäck –95
+|text=Hörnet th om svaet.}}
+
+{{problem|namn=Björkrejset|grad=?
+|fa=Pål Nylander –95
+|text=Stora grepp till vänster om björken.}}
+
+{{problem|namn=?|grad=6B
+|fa=Jonas Fajersson –97
+|text=2 m till höger om björken. Höger hand på sluttande grepp, hyfsad sträckning till krafset med vänster hand och sedan till toppen, staket ingår ej.}}
+
+{{problem|namn=Plejben|grad=6B
+|fa=Marco Kupiainen –95
+|text=Vänster hand på samma sloper som ?, sedan ut till höger.}}
+
+{{problem|namn=Anders problem|grad=5B
+|fa=Anders Hagelbäck –95
+|text=Diederformationen, ett antal varianter finns. Vegetativ uttoppning.}}
+
+{{problem|namn=Anders memorial|grad=6B
+|fa=Pål Nylander –95
+|text=I början av det brantare partiet. Roligt problem.}}
+
+===Branta delen===
+
+{{problem|namn=Le loup magnifique|grad=8A
+|fa=Chris Ellis 2000
+|text=Ståstart, 1 m till vänster om “Jimpans”, upp lite åt vänster.}}
+
+{{problem|namn=Desire for dead meat|grad=8A
+|fa=Matt Adams 2001
+|text=Samma som le loup, med nytt utsteg  (direct finish)}}
+
+{{problem|namn=Jimpans buttstart|grad=7A
+|fa=Jimmy Paladino –95
+|text=Den markanta sprickan rakt upp. Hård start. Starta sittande med händerna på det stora greppet, sedan rakt upp med höger hand till sido/pinch-greppet, vidare med vänster hand till slopern och till toppen. Listgreppet till vänster om det stora startgreppet ingår ej.}}
+
+{{problem|namn=En bit av en kaka|grad=6C
+|fa=Jimmy Paladino –95
+|text=Variant av Jimpans buttstart. Använd greppet till vänster innan ett sidogrepp i sprickan med höger hand.}}
+
+{{problem|namn=Hot beef injection|grad=6C+ (8-)
+|fa=Jimmy Paladino –95
+|text=Trixig travers. Starta sittande under Divide et impera, med händerna i de två kopparna under det gula spraymärket. Traversera lågt åt vänster och avsluta med limgreppet.}}
+
+{{problem|namn=Bang that!|grad=7A+
+|fa=Jimmy Paladino –95
+|Starta som Hot beef injection, när man kommer till det stora greppet fortsätt upp Jimpans buttstart. Det stora greppet till vänster får inte användas.}}
+
+{{problem|namn=Johans förlängning|grad=7B+
+|fa=Johan Boman 2000
+|text=Förlängning av Bang that! med två move. "The first cross-over move on the extension sure adds some spice to the nice traverse. Even if you can do Jimpans butt start blindfolded this might give you some problems."}}
+
+{{problem|namn=Divide et impera|grad=6B+ (7)
+|fa=Marco Kupiainen –95
+|text=Starta stående med de bra greppen på läppen ovanför spraymärket. Kliv upp med höger fot i koppen som är strax nedanför handgreppen på läppen. Ryck till och mantla, sen upp på svaet.}}
+
+{{problem|namn=Ling|grad=7A+
+|fa=Micael Meyer -98
+|text=Startar stående som Divide et impera, men istället för att rocka upp på högerfoten och mantla så går man upp med vänster hand till slopern i sprickan och jobbar vidare...}}
+
+{{problem|namn=Drop zone|grad=7C
+|text=Startar på till höger om \"Ling\" på areten, gå upp till starten på ling, sedan droppa ner på hyllan. Slutar med \"Bit av en kaka\".}}
+
+{{problem|namn=Belek|grad=7B
+|fa=Micael Meyer -98
+|text=Sittande start på hörnet till höger, samma avslutning som Ling.}}
+
+{{problem|namn=Hörnan|grad=?
+|fa=Pål Nylander –95
+|text=Flera olika varianter och elimineringar.}}
+
+{{problem|namn=Släng dig i väggen!|grad=?
+|fa=Marco Kupiainen –95
+|text=Minisvaet th om Hörnan. Ta sats och spring upp för svaet, inga händer tillåtna.}}
+
+Följande finns oxå: Dego Jesus 7A, någonstans?
+
+=== Extern länk ===
+
+Forum tråd på Bloxc: http://www.bloxc.com/forum/viewtopic.php?t=1440
+
+[[Kategori:Stockholm]]

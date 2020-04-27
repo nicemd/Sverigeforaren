@@ -1,0 +1,25 @@
+{{info klippa
+  |lat=57.7827777
+  |long=16.532222}}
+
+{{boulderstub|extern=ja}}
+
+==Allmänt==
+Mommehål består av två sektorer, dels “Mommehålstenen” och del “Mommehål 2”. Mommehålstenen är ett stort 
+block som bl.a. huserar Västerviks första 8A boulder. Det ligger i planterad granskog och granne med endurobanan. “Mommehål 2” är ett nytt boulderområde med många lätte problem för nybörjare. Särskilt rekommenderade 
+linjer markeras med en stjärna.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.7827777" lon="16.532222" type="map" zoom="13" controls="small">
+57.7827777, 16.532222, Mommehålstenen (parkering)
+</googlemap>
+</div>
+<div style="clear:both"></div>
+
+== Extern förare ==
+http://www.vastervikclimbing.se/klattercentret/pdfer/
+
+[[Kategori:Småland]]
+[[Kategori:Västervik]]

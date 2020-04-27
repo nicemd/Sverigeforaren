@@ -1,0 +1,302 @@
+{{info klippa
+  |lat=59.19231
+  |long=18.40541
+}}
+
+{{komplett}}
+[[Bild:Dyvik_karta.png|thumb|350px|right|Dyviksudd, Gritstoneberget, Dödskalleberget m.fl.]]
+[[Kategori:Stockholm]]
+[[Kategori:Tyresö]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+
+==Allmänt==
+500m lång "klippa" uppdelad på fyra partier med ett 100-tal leder.
+
+==Beskrivning==
+Denna klippa ligger utmed östra sidan av Dyviksuddsvägen, nästan allra längst ut på Tyresöhalvön. Den är uppdelad i fyra tämligen klart åtskilda delar med en sammanlagd längd av närmare 500 m. Höjden varierar mellan 10–20 m. Stora delar av väggarna inleds med ett överhäng av varierande storlek och antalet lätta leder begränsas därför till ett fåtal. Till dags dato finns här ett 100-tal leder. Dessutom finns några svåra artificiella leder. Klättringen är i huvudsak sprick- och kaminklättring i de lägre graderna (5 och 6) medan de svårare lederna ofta utnyttjar väggarna och överhängen mellan de stora formationerna. Tyvärr är det på grund av den täta snårskogen som växer under klippan svårt att lokalisera lederna från vägen. Lyckas man komma fram till klippan är det dock sällan några problem att hitta rätt led. Dyviksudd har på senare år blivit populärt framför allt bland de duktigare klippklättrarna. Mer än hälften av lederna är svårare än 6+. Dessa leder är till stor del borrbultssäkrade och därmed ofta välsäkrade. De numera klassiska turerna i sexaregistret har däremot sällan ens vanliga bultar och kräver att man kan lägga sina kilar väl för att bli rimligt säkrade. 
+
+==Miljö==
+Väst, mestadels öppet för solen förutom Lord Hård-väggen som är skuggig och kall på vår och höst. 
+ 
+{{sidbrytning}}
+==Kommunikationer:==
+Som för [[Dödskalleberget]]. 
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.19231" lon="18.40541" zoom="14" type="map" controls="small">
+59.19231,18.40541,[[Dyviksudd]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Dyviksudd
+lat=18405410
+long=59192310
+</slresa>
+</div> 
+
+Som för [[Dödskalleberget]]. Klipporna ligger efter vägen, ett par hundra meter längre fram efter en vänsterkrök. En parkeringsficka finns vid klippans början. Parkera under inga omständigheter på mötesplatser eller privata platser. Den naturliga utgångspunkten är den lilla gräshyllan under den stora rödaktiga diedern ( Apokalyps ) ca 200 m efter vänsterkröken som avgränsar klippan åt v. En stig leder upp till denna hylla några m innan en skyltad mötesplats. Diedern är faktiskt synlig ända nere från vägen. Skisserna över klippan är ganska schematiska men bör ändå tjäna som en vägledning fram till klippan och klättringen. 
+
+
+{{nyttstycke}}
+
+==Access {{access}}==
+
+Verkar ständigt vara hotat av klätterförbud. Var diskreta och parkera endast på parkeringsplatsen nedanför klippan.
+
+{{AccessDB|klippa=dyviksudde}}
+
+{{nyttstycke}}
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Dyvik_oversikt.png]]
+
+{{nyttstycke}}
+
+=== Gibbon-partiet ===
+[[Bild:Dyvik_a.png]]
+
+Klippans norra ände börjar med ett stort överhäng. Sprickan genom detta är Gibbon. 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=1|namn=100 grader|grad=-7|betyg=|längd=10|fa=[[Niklas Björnerstedt]], [[Mikael Wegrelius]][[1986|-86]]|bultar=|typ=trad}}
+{{led|nr=2|namn=Zanzibar|grad=7+/8-|betyg=|längd=15|fa=[[Daniel Bidner]][[1986|-86]] |bultar=|typ=mix}}
+{{led|nr=2a|namn=Zanzibar direkt|grad=7-|betyg=|längd=5|fa=[[Johan Luhr]], [[Niklas Björnerstedt]][[1989|-89]] |bultar=2|typ=mix}}
+{{led|nr=3|namn=Gibbon|grad=6+|betyg=|längd=9|fa=[[Christer Åstrand]][[1978|-78]] |bultar=|typ=trad}}
+{{led|nr=4|namn=Club Piraya|grad=7/7+|betyg=|längd=7|fa=[[Eva Sehlin]], [[Anders Lundahl]][[1989|-89]] |bultar=|typ=mix}}
+{{led|nr=5|namn=Taklagsöl|grad=7+|betyg=|längd=7|fa=[[Eva Sehlin]], [[Anders Lundahl]][[1989|-89]] |bultar=1|typ=mix}}
+{{led|nr=6|namn=Sir Mör|grad=8/8+|betyg=|längd=7|fa=[[Anders Lundahl]][[1989|-89]] |bultar=2|typ=mix}}
+{{led|nr=7|namn=Gravitera mera|grad=7+|betyg=|längd=7|fa=[[Anders Lundahl]][[1989|-89]] |bultar=1|typ=mix}}
+{{led|nr=8|namn=Eternell|grad=7+|betyg=|längd=6|fa=[[Anders Lundahl]], [[Eva Sehlin]] [[1989|-89]] |bultar=1|typ=mix}}
+
+| width="250px" |
+
+{{led|nr=9|namn=Längtan|grad=6|betyg=|längd=5|fa=[[Eva Sehlin]], [[Anders Lundahl]][[1989|-89]]  |bultar=|typ=trad}}
+{{led|nr=10|namn=Laybackhörnet|grad=6|betyg=|längd=8|fa=[[Christer Åstrand]][[1979|-79]] |bultar=|typ=}}
+{{led|nr=11|namn=American flyer|grad=6|betyg=|längd=15|fa=[[Ed Webster]][[1991|-91]] |bultar=1|typ=mix}}
+{{led|nr=12|namn=Boren av obehag|grad=7+|betyg=|längd=12|fa=[[Anders Lundahl]], [[Eva Sehlin]][[1989|-89]] |bultar=4|typ=}}
+{{led|nr=13|namn=Kult|grad=7+/8-|betyg=|längd=13|fa=[[Anders Lundahl]][[1989|-89]] |bultar=4|typ=mix}}
+{{led|nr=14|namn=Orion|grad=7-|betyg=|längd=10|fa=[[Eva Sehlin]], [[Anders Lundahl]][[1989|-89]] |bultar=1|typ=mix}}
+{{led|nr=15|namn=Smearson et partners|grad=7+|betyg=|längd=10|fa=[[Eva Sehlin]], [[Anders Lundahl]][[1989|-89]] |bultar=2|typ=}}
+{{led|nr=16|namn=Hörnet|grad=4+|betyg=|längd=12|fa=[[Okänd]][[-??]] |bultar=|typ=trad}}
+{{led|nr=17|namn=Nageltrång|grad=6|betyg=|längd=6|fa=[[Christer Åstrand]][[1978|-78]] |bultar=|typ=trad}}
+
+
+| width="250px" |
+
+{{led|nr=18|namn=Crankman|grad=7|betyg=|längd=8|fa=[[Anders Lundahl]][[1989|-89]] |bultar=|typ=}}
+{{led|nr=19|namn=Vänsterprassel|grad=6-|betyg=|längd=12|fa=[[Daniel Bidner]], [[Stefan Kallin]] [[1981|-81]]|bultar=|typ=trad}}
+{{led|nr=20|namn=Maja|grad=6-|betyg=|längd=12|fa=[[Torbjörn Berg]], [[Kenth Lindström]] [[1974|-74]] |bultar=|typ=trad}}
+{{led|nr=21|namn=Alpinisten|grad=6+|betyg=|längd=14|fa=[[Christer Åstrand]][[1978|-78]] |bultar=|typ=trad}}
+{{led|nr=22|namn=Fingerkroken|grad=6|betyg=|längd=14|fa=[[Christer Åstrand]], [[Ulf Lagercrantz]] [[1978|-78]] |bultar=|typ=trad|text=Insteget är ca 5- för långa men betydligt svårare för korta}}
+{{litentext|text=Sprickan th är fin variant grad 5.}}
+{{led|nr=23|namn=Mina Kulor - din haka|grad=8|betyg=|längd=14|fa=[[Daniel Bidner]][[1989|-89]] |bultar=2|typ=mix}}
+{{led|nr=24|namn=Finn din stil|grad=8-/8|betyg=|längd=14|fa=[[Johan Luhr]], [[Daniel Bidner]][[1989|-89]] |bultar=2|typ=mix}}
+{{led|nr=25|namn=Marillion|grad=8+|betyg=|längd=14|fa=[[Johan Luhr]][[1991|-91]] |bultar=2|typ=mix}}
+{{litentext|text=Enl. gamla stockholmsföraren fanns 1996 några påbörjade projekt till höger om Marillion. Dom är kanske gjorda nu.}}
+
+|}
+
+{{sidbrytning}}
+
+=== Kokoskorvs och Apocalyps-väggen ===
+[[Bild:Dyvik_b.png]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{litentext|text='''Kokoskorvs-väggen'''. Th om första partiet faller klippan tillbaka och blir både lägre och ointressantare tills berget efter en ravin (lämplig nedstigning) åter skjuter i höjden. Denna del, som är bergets högsta parti, är ca 50m lång med ett högt och brant svaparti i vänstra halvan. }} 
+{{led|nr=26|namn=Dyrbar Fritid|grad=6|betyg=|längd=27|fa=[[Lars Svadängs]], [[Niklas Björnerstedt]][[1983|-83]] |bultar=|typ=}}
+{{led|nr=27|namn=Motorburen ungdom|grad=6+|betyg=|längd=23|fa=[[Niklas Björnerstedt]], [[Harald Brandt]], [[Staffan Ericsson]][[1988|-88]] |bultar=|typ=}}
+{{led|nr=28|namn=Brutal konfekt|grad=7-|betyg=|längd=23|fa=[[Claes Jelinek]][[1985|-85]]/ [[Lars Svadängs]], [[Claes Jelinek]][[1986|-86]] Insteg |bultar=|typ=}}
+{{led|nr=29|namn=Tights |grad=6|betyg=|längd=22|fa=[[Lars Svadängs]], [[Lars Cronlund]], [[Mats Almlöf]][[1985|-85]] |bultar=|typ=}}
+{{led|nr=30|namn=Kokoskorven|grad=6+|betyg=|längd=23|fa=[[Lars Svadängs]], [[Birger Hedlund]][[1984|-84]] |bultar=|typ=mix}}
+{{led|nr=32|namn=Sandinista|grad=7-|betyg=|längd=20|fa=[[Daniel Bidner]][[1986|-86]] |bultar=|typ=mix}}
+{{led|nr=32|namn=Kamikaze|grad=6/6+|betyg=|längd=20|fa=[[Daniel Bidner]][[1984|-84]] |bultar=|typ=}}
+| width="250px" |
+{{led|nr=33|namn=Minos|grad=6+|betyg=|längd=16|fa=[[Mårten Dahlström]], [[Daniel Bidner]][[1984|-84]] |bultar=|typ=}}
+{{led|nr=34|namn=Just ask|grad=5-|betyg=|längd=20|fa=[[Harri Sporrevik]] repsolo [[1987|-87]] |bultar=|typ=}}
+{{litentext|text=Här bryts väggen av en stor ränna men tornar upp sig igen efter 15m.}} 
+{{litentext|text='''Apocalyps-väggen'''. Den tredje väggen är inte så hög men här ligger att antal extremt svåra turer men även en del mer mänskliga turer. Den mest         kännetecknande formationen är den stora dieder där Apocalyps går.}}
+{{led|nr=35|namn=Till en god vän|grad=5+|betyg=|längd=25|fa=[[Gustav Schaffter]], [[Harri Sporrevik]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=35a|namn=Äpplekaka|grad=6|betyg=|längd=7|fa=[[Harri Sporrevik]]. [[1988|-88]] |bultar=|typ=}}
+{{led|nr=36|namn=Bad|grad=4+|betyg=|längd=10|fa=[[Mats Holmgren]], [[Stefan Thunberg]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=37|namn=Romans|grad=6+|betyg=|längd=10|fa=[[Anders Lundahl]], [[1987|-87]] |bultar=|typ=trad}}
+{{led|nr=38|namn=Redo|grad=7+|betyg=|längd=15|fa=[[Anders Lundahl]], [[Eva Selin]][[1987|-87]] |bultar=1|typ=}}
+{{led|nr=39|namn=Reptilen|grad=8/8+|betyg=|längd=13|fa=[[Anders Lundahl]], [[1988|-88]]  |bultar=4|typ=mix}}
+{{led|nr=40|namn=Kosmos kid|grad=8/8+|betyg=|längd=12|fa=[[Johan Luhr]], [[Rikard Hedman]][[1988|-88]] |bultar=5|typ=}}
+| width="250px" |
+{{led|nr=40a|namn=Zorro|grad=9-|betyg=|längd=12|fa=[[Johan Luhr]] [[1989?|-89?]] |bultar=|typ=}}
+{{led|nr=40b|namn=Räven|grad=8-/8|betyg=|längd=14|fa=[[Massih]] [[2011|-11]] |bultar=|typ=}}
+
+{{led|nr=41|namn=Kilroy|grad=8+|betyg=|längd=12|fa=[[Anders Lundahl, Clean: Fredrik Rundqvist]] [[1985|-85]] ||typ=trad}}
+{{led|nr=41a|namn=Kilroy direkt|grad=8+/9-|betyg=|längd=12|fa=[[Johan Luhr]] [[2013|-13]] ||typ=trad}}
+{{led|nr=42|namn=Apocalyps|grad=6+/7-|betyg=|längd=13|fa=[[Christer Åstrand]][[1979|-79]] |bultar=|typ=}}
+{{led|nr=42a|namn=Asers Hangel|grad=6+|betyg=|längd=6|fa=[[Jacob Sjöstrand]], [[Daniel Bidner]] [[1985|-85]] |bultar=|typ=}}
+{{led|nr=43|namn=Apunkalypse|grad=6|betyg=|längd=10|fa=[[Daniel Bidner]] solo [[1987|-87]] |bultar=|typ=}}
+{{led|nr=44|namn=Fingersprickan|grad=5|betyg=|längd=10 |bultar=|typ=}}
+{{led|nr=45|namn=Kök|grad=5+|betyg=|längd=10|fa=[[Birger Hedlund]] solo [[1987|-87]] |bultar=|typ=}}
+{{led|nr=46|namn=Mantelhooken|grad=6+|betyg=|längd=10|fa=[[Choe Brooks]], [[Jan Liljemark]][[1980|-80]] |bultar=|typ=}}
+{{led|nr=47|namn=Mirage|grad=6+|betyg=|längd=7|fa=[[Daniel Bidner]][[1984|-84]] |bultar=|typ=}}
+{{litentext|text=Till h kommer en ravin ned, lämplig som nedstigningsväg. }}
+|}
+
+{{sidbrytning}}
+
+=== No more heroes-väggen ===
+[[Bild:Dyvik_c.png]]
+
+Väggen börjar nästan genomgående med kraftiga överhäng, som gör det svårt att komma åt klättringen ovanför. Många av lederna här är mycket svåra framför allt i starten förbi överhänget. Ca 15m in på klippan finns den första tydliga linjen, Sly, en bred spricka som går upp mot ett överhäng. I väggen tv finns en vacker spricka i perfekt klippa som tunnar ut och försvinner ett par m under toppen. Detta är numera Navigare. 
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=48|namn=Pa tidens brant|grad=7|betyg=|längd=17|fa=[[Anders Lundahl]], [[Eva Selin]] [[1987|-87]] |bultar=|typ=}}
+{{led|nr=48a|namn=P B Arkebuserad|grad=6-|betyg=|längd=4|fa=[[Daniel Bidner]][[1987|-87]]  |bultar=|typ=}}
+{{led|nr=49|namn=Solkatt|grad=7+|betyg=|längd=15|fa=[[Anders Lundahl]], [[Eva Selin]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=50|namn=Post Pinus|grad=8-/8|betyg=|längd=15|fa=[[Anders Lundahl]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=51|namn=Dr Mabuses hämnd|grad=6+|betyg=|längd=16|fa=[[Jan Liljemark]], [[Rikard Hedman]] [[1982|-82]] |bultar=|typ=}}
+{{led|nr=52|namn=Navigare|grad=7+|betyg=|längd=15|fa=[[Anders Lundahl]], [[Eva Selin]][[1987|-87]]|bultar=|typ=}}
+{{led|nr=53|namn=Sly|grad=3+|betyg=|längd=10|fa=[[Eva Selin]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=54|namn=Pavanne|grad=6|betyg=|längd=25|fa=[[Eva Selin]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=55|namn=No more heroes|grad=6|betyg=|längd=25|fa=[[Jeremy Sheenan]], [[Lars Svadängs]], [[Jan Liljemark]][[1982|-82]] |bultar=|typ=}}
+| width="250px" |
+{{led|nr=56|namn=Early warning|grad=7+/8-|betyg=|längd=25|fa=[[Anders Lundahl]], [[Eva Selin]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=57|namn=Kapten Luhr|grad=8+/9-|betyg=|längd=|fa=[[Johan Luhr]][[1990|-90]] |bultar=|typ=}}
+{{litentext|text=Nästa tydliga hörn, 10m th om No more heroes är leden Namnlös.}}
+{{led|nr=58|namn=Pol|grad=7-|betyg=|längd=13|fa=[[Thomas Hansson]], [[Gary Hansson]] [[1989|-89]] |bultar=|typ=}}
+{{led|nr=59|namn=Pot|grad=7-|betyg=|längd=13|fa=[[Gary Hansson]], [[Thomas Hansson]][[1989|-89]]  |bultar=|typ=}}
+{{led|nr=60|namn=Besserwisser|grad=5|betyg=|längd=13|fa=[[Lars Svadängs]], [[Birger Hedlund]], [[Dan Engström]][[1984|-84]] |bultar=|typ=}}
+{{led|nr=61|namn=Rose Comple|grad=7|betyg=|längd=13|fa=[[Anders Lundahl]], [[Eva Selin]][[1987|-87]] |bultar=|typ=}}
+{{led|nr=62|namn=Namnlös|grad=5?|betyg=|längd=10|fa= |bultar=|typ=}}
+{{led|nr=63|namn=Monsieur Ballayr|grad=7+|betyg=|längd=12|fa=[[Eva Selin]], [[Anders Lundahl]][[1987|-87]] |bultar=2|typ=}}
+{{led|nr=64|namn=A-ha|grad=7+|betyg=|längd=12|fa=[[Eva Selin]], [[Anders Lundahl]][[1987|-87]] |bultar=|typ=mix}}
+| width="250px" |
+{{led|nr=65|namn=Admiral Hornblower|grad=7+|betyg=|längd=7+/8-|fa=[[Anders Lundahl]][[1987|-87]] |bultar=|typ=mix}}
+{{led|nr=66|namn=Fingerkrossen|grad=7-|betyg=|längd=14|fa=[[Anders Lundahl]], [[Eva Selin]][[1981|-81]] |bultar=|typ=}}
+{{litentext|text=Här tar en stor hylla vid som är smått strulig att ta sig upp på.}}
+{{led|nr=67|namn=Gyllne tider|grad=7/7+|betyg=|längd=|fa=[[Rikard Hedman]], [[Mattias Flodin]], [[Johan Luhr]][[1989|-89]] |bultar=|typ=}}
+{{led|nr=68|namn=1000 punx|grad=A4|betyg=|längd=18|fa=[[Daniel Bidner]][[1986|-86]] |bultar=|typ=aid}}
+{{led|nr=69|namn=Sällskapsresan|grad=5-|betyg=|längd=12|fa=  |bultar=|typ=trad|typ=is}}
+{{litentext|text=En bit bakom utsteget på Sällskapsresan finns två korta leder:}}
+{{led|nr=70|namn=Straffa stygga sopsäckar|grad=6+/7-|betyg=|längd=6|fa=[[Claes Jelinek]], [[Birger Hedlund]][[1985|-85]]|bultar=|typ=}}
+{{led|nr=71|namn=Grädde på moset|grad=6-|betyg=|längd=5|fa=[[Dan Engström]], [[Ingemar Gustafsson]], [[Claes Jelinek]][[1985|-85]] |bultar=|typ=}}
+|}
+{{sidbrytning}}
+[[Bild:Dyvik_d.png]]
+{|
+|- valign="top"
+| width="250px" |
+{{litentext|text=Nästa led ligger på väggen th om Sällskapsresan.}}
+{{led|nr=72|namn=Död åt alla|grad=7+/8-|betyg=|längd=12|fa=[[Jacob Sjöstrand]][[1985|-85]], [[Daniel Bidner]][[1987|-87]]}}
+{{led|nr=73|namn=Tredje stenen från solen|grad=A2|betyg=|längd=12|fa=[[Marco Kupiainen]][[1995|-95]] |bultar=|typ=}}
+{{led|nr=74|namn=Stentrick|grad=6-|betyg=|längd=13|fa=[[Lars Grankvist]][[1985|-85]] |bultar=|typ=}}
+{{led|nr=75|namn=Ingemars kamin|grad=6|betyg=|längd=13|fa=[[Ingemar Strandberg]], [[Lars Cronlund]] [[1977?|-77?]] |bultar=|typ=}}
+{{led|nr=76|namn=Halvhård|grad=A1+|betyg=|längd=22|fa=[[Jonas Olsson]], [[Daniel Bidner]] [[1987|-87]] |bultar=|typ=}}
+{{led|nr=77|namn=Laser-Jesus|grad=7+|betyg=|längd=17|fa=[[Daniel Bidner]][[1989|-89]] |bultar=|typ=}}
+{{led|nr=77a|namn=Bidrags-Jesus (min bäste vän)|grad=6+/7-|längd=17|fa=[[Daniel Bidner]], [[Magnus Buhré]] [[-89]]}}
+| width="250px" |
+{{led|nr=77b|namn=Jesus i betong|grad=7|längd=17|fa=[[Daniel Bidner]], [[Magnus Buhré]] [[-89]]}}
+{{led|nr=78|namn=Waves|grad=7|längd=17|fa=[[Anders Lundahl]], [[Eva Selin]] [[-87]]}}
+{{led|nr=79|namn=Vi accelererar|grad=5?|längd=17|fa=[[Stefan Bergström [[-7]]]]}}
+{{led|nr=80|namn=Captain Cook|grad=7+/8-|längd=20|fa=[[Eva Selin]], [[Anders Lundahl]] [[-87]]}}
+{{litentext|text=Överhängen blir nu bara större och större. Fram till den imponerande väggen som avslutar berget är överhängen så stora att enbart artificiella leder finns. Ett par fina leder finns dock för dem som orkar fira till läppen av överhänget och starta därifrån.}} 
+{{led|nr=81|namn=Napalm sticks to kids|grad=A2|längd=20|fa=[[Daniel Bidner]] [[-87]]}}
+{{litentext|text=Sprickan bredvid har också gjorts men inte rapporterats.}}
+| width="250px" |
+{{led|nr=82|namn=Hjärndöd|grad=A2+|längd=20|fa=[[Daniel Bidner]] [[-87]]}}
+{{led|nr=82a|namn=Festen har börjat|grad=8/8+|längd=20|fa=[[Johan Luhr]] [[-91]]}}
+{{led|nr=83|namn=Jag är död|grad=A2|längd=20|fa=[[Jonas Olsson]] [[-87]]}}
+{{led|nr=84|namn=Bladerunner|grad=A2+/M10 R/X|längd=9|fa=[[Kalle Persson]] [[-82]FaMix=[Erik Massih]] [[-10]]}}
+{{led|nr=84a|namn=Qvinna av i dag|grad=6+|längd=18|fa=[[Niklas Björnerstedt]], [[Daniel Bidner]] [[-89]]}}
+{{led|nr=84b|namn=Fet front|grad=6|längd=18|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[-83]]}}
+{{led|nr=85|namn=A bunch of angels and some other shit|grad=A1+|betyg=|längd=10|fa=[[Bertil Holmberg]], [[Sven Blom]], [[Kalle Persson]] [[-82]]|bultar=|typ=aid}}
+|}
+
+{{sidbrytning}}
+
+=== Lord Hård-väggen ===
+[[bild:dyviksudd001.jpg|thumb|right|225px|Kalkylerad fisk Foto: [[Användare:Jonass|Jonas Ahlman]]]][[Bild:Dyvik_e.png|500px]]
+
+
+Bergets mest imponerande vägg. Här ligger ett antal extremt svåra turer samt några lite mänskligare.  
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=86|namn=Vänsterprasslaren|grad=A2+|längd=12|fa=[[Christer Jansson]] [[-95]]}}
+{{led|nr=87|namn=Kalkylerad fisk|grad=7+/8-|längd=23|fa=[[Thomas Heide]], [[Sven Blom]] [[-82]], FF: [[Anders Lundahl]] [[-85]]}}
+{{litentext|text=Johan Luhr har gjort två varianter på Kalkylerad fisk. Enbart den vänstra resp enbart den högra sprickan. Båda av grad 8 men något krystade.}}
+{{led|nr=88|namn=Guillou låter sektledaren piska kvinna i TV/Inga vargar jagar mig|grad=A3/fri 8|längd=20|fa=[[Per Julius]] [[-88]]|text=Friklättrad 2007 av S. Wulf}}
+{{led|nr=89|namn=Fly and die|grad=A3+|längd=20|fa=[[Mikael Sribhadung]] [[-88]]}}
+{{led|nr=90|namn=Freedonia|grad=8-/8|längd=20|fa=[[Anders Lundahl]] [[-86]]}}
+{{led|nr=91|namn=Fantasia|grad=8|längd=20|fa=[[Johan Luhr]], [[Rikard Hedman]] [[-88]]}}
+| width="250px" |
+{{led|nr=91a|namn=Ut i det fria|grad=8-/8|längd=20|fa=[[Johan Luhr]] [[-90]]}}
+{{led|nr=92|namn=Lord Hård|grad=8-/8|längd=20|fa=[[Kalle Persson]] [[-82]] FF: [[Anders Lundahl]] [[-84]]}}
+{{led|namn=Variant på Mamma Mia|fa=[[Erik Massih]] -08|grad=7+/8-|typ=trad|text=Start i Mamma mia in i Lord Hård undviker chippade passagen}}
+{{led|nr=93|namn=Mamma mia|grad=8|längd=17|fa=[[Eva Selin]], [[Anders Lundahl]] [[-86]]}}
+{{led|nr=94|namn=Goddag yxskaft|grad=7+/8-|längd=16|fa=[[Sven Blom]], [[Yvonne Svensson]] [[-82]] FF: [[Eva Selin]], [[Anders Lundahl]] [[-84]]}}
+{{led|nr=95|namn=99 ballonger|grad=8-/8|längd=16|fa=[[Harri Sporrevik]] [[-90]] FF: [[Johan Luhr]] [[-92]]}}
+| width="250px" |
+{{led|nr=96|namn=Med kritpåsen i bakluckan|grad=8-|längd=~18|fa=[[Johan Luhr]], [[Thomas Hansson]] [[-89]]}}
+{{led|nr=96a|namn=Utan pardon|grad=8-|längd=8|fa=[[Johan Luhr]], [[Thomas Hansson]] [[-89]]}}
+{{led|nr=97|namn=Presstopp|grad=7-|längd=18|fa=[[Birger Hedlund]], [[Rikard Hedman]] [[-84]]}}
+{{led|nr=98|namn=Orgier på personaltoaletten|grad=6+|längd=15|fa=[[Claes Jelinek]], [[Dan Engström]] [[-83]]}}
+{{led|nr=99|namn=Skola – arbete – död|grad=7/7+|längd=8|fa=[[Daniel Bidner]], [[Niklas Björnerstedt]] [[-89]]}}
+{{led|nr=100|namn=Snutslakt|grad=6|längd=6|fa=[[Daniel Bidner]], [[Magnus Buhré]] [[-86]]}}
+|}
+{{sidbrytning}}
+
+=== Graffiti-väggen ===
+Fortsätter man 70m i Lord Hård-väggens förlängning dyker ytterligare en liten vägg upp. Väggen ligger öppet och fint och fångar solen lite tidigare än huvudklipporna. Av någon outgrundlig anledning har någon sprayat diverse klotter på botten av väggen. Diverse möjligheter till korta leder och boulderproblem finns för den hugade. Två problem finns ca 15m tv om Prima materia: Humle, 7 (B) (Johan Luhr -89), som följer en spricka och Dumle, 7 (B) (Johan Luhr -89), alldeles th. 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=101|namn=Ofantligt kort|grad=7-/7|längd=6|fa=[[Niklas Björnerstedt]], [[Johan Luhr]] [[-89]]}}
+
+| width="250px" |
+
+{{led|nr=102|namn=Prima materia|grad=7+|längd=8|fa=[[Lars Grankvist]], [[Niklas Björnerstedt]] [[-88]]}}
+
+| width="250px" |
+
+{{led|nr=103|namn=Oanad publik|grad=7|längd=7|fa=[[Niklas Björnerstedt]], [[Per Normark]], [[Staffan Ericsson]] [[-89]]}}
+{{litentext|text=Några m th om Oanad publik finns ytterligare ett boulderproblem, Som i en ask, 7+/8- (B) (Johan Luhr -89). Tunn listklättring i början.}} 
+
+|}
+
+=== Lilla Dyviksväggen ===
+Klipparti inne i skogen, ca 50m th om Lord Hård-väggen längs vägen. Den tydligaste formationen är diedern där Crank, catch or disappear går. 
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=104|namn=Imse vimse spindel|grad=6-|längd=13|fa=[[Harri Sporrevik]], [[Anna Groth]] [[-90]]}}
+{{led|nr=|namn=Little Britain|grad=7+ (E4 6a)|betyg=2|längd=13|fa=[[Jonas Paulsson]][[-08]]|text=Den vackra arêten alldeles t v om "Crank, catch or disappear". Sololed eller hög boulder med klassikerpotential.}}
+{{led|nr=105|namn=Crank, catch or disappear|grad=7-|längd=13|fa=[[Harri Sporrevik]] [[-90]]}}
+
+| width="250px" |
+
+{{led|nr=106|namn=Avskaffa paragraf fetma|grad=6+|längd=14|fa=[[Harri Sporrevik]] [[-90]]}}
+{{led|nr=107|namn=Djungelboken|grad=6-|längd=15|fa=[[Harri Sporrevik]], [[Anna Groth]] [[-90]]}}
+
+| width="250px" |
+
+{{led|nr=108|namn=Faxa mig en yuppienalle|grad=6+|längd=11|fa=[[Harri Sporrevik]] [[-90]]}}
+{{led|nr=109|namn=U2|grad=6-/6|längd=8|fa=[[Ulrica Edholm]], [[Ulrika Tiegs]] [[-90]]}}
+
+|}
+
+
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}

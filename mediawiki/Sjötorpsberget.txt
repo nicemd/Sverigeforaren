@@ -1,0 +1,92 @@
+{{info klippa
+  |lat=59.21117
+  |long=18.15954
+}}
+
+{{komplett}}
+[[bild:I_have_a_dream.jpg|thumb|height=200|Stockholms 'baby 8a', I have a dream]] 
+__TOC__
+==Allmänt==
+Liten, brant klippa ca 1 km söder om Skogås pendeltågsstation. Den är 10-14 m hög och har ett antal ganska korta, men i vissa fall tämligen fina leder. En massa gamla militära befästningsverk bjuder på en del överraskningar.
+På grund av närhet till bostadsområdet så är platsen tyvärr ganska nedskräpad. Så farligt är det dock inte, men det är ingen höjdarklippa att ta med krypande barn eller hundar till på grund av en del krossat glas.
+
+==Miljö==
+Sydvänd men delvis skuggig. 
+
+{{clear}}
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=300 height=200 lat="59.21117" lon="18.15954" zoom="13" type="map" controls="small">
+59.21117,18.15954,[[Sjötorpsberget]]
+</googlemap>
+</div>
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Sjotorpsberget
+lat=18159540
+long=59211170
+</slresa>
+</div> 
+Nynäsvägen till Skogås-avtaget och vidare mot Skogås. Ca 400 m efter järnvägen, ta h på Rapsodivägen och parkera på förgreningen till Rapsodivägen 272-378. Promenera vidare ner på förgreningen till gångvägen och v på denna.
+
+Parkering på Rapsodivägen kan medföra parkeringsböter eftersom samfälligheten har infört att endast boende får parkera på dessa platser. Alternativ parkeringsplats är att istället för att åka in på Radsodivägen fortsätt rakt fram på Österleden. Kör tills den tar slut och parkera. Här slipper man alla förbudsskylter som det kryllar av i området. Gå ner till vattnet och gå trevligt promenadstråk åt höger.
+
+==Kommunikationer==
+Väl avstigen från pendeltåget i Skogås, promenera söderut längs järnvägen, igenom småhusområdet. Efter en brant backe kommer den asfalterade stigen ner på en smal grusväg. Klippan ligger ca 100 m åt v.
+
+{{clear}}
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Sjötorp.png]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=1|namn=Midsommardansen|grad=3|längd=12|fa=[[Mats Hårdefeldt]], [[Lars Svadängs]] [[-75]]}}
+{{led|nr=1a|namn=ABKK|grad=6-|längd=6|fa=[[Daniel Bidner]], [[Stefan Kallin]] [[-83]]}}
+{{led|namn=Okänd|grad=5+|längd=12|bultar=2|text=Gemensam start med 1/1a. Går sen rakt upp via två borrbultar.}}
+{{led|nr=2|namn=Smutsrännan|grad=5|längd=12|fa=[[Christer Åstrand]], [[Björn Bergström]] [[-78]]}}
+{{led|nr=2a|namn=Ett äckel|grad=6b+|typ=sport|längd=12|bultar=5|fa=[[Erik Hagelin]], [[Mikael Widerberg]][[-12]]|ny=ja|text=Ny led på det sva-aktiga partiet mellan Smutsrännan och Dubbeltaket. Tenderar att upplevas som lite äckligt... Testa får du se.}}
+{{led|nr=3|namn=Dubbeltaket|grad=6-|längd=12|fa=[[Christer Åstrand]], [[Björn Bergström]] [[-78]]}}
+{{led|nr=4|namn=1984|grad=6-|längd=12|fa=[[Mikael Thorsell]] [[-84]]}}
+{{led|nr=5|namn=Branta svaet/S-sprickan|grad=5-|längd=12|fa=[[Lars Svadängs]], [[Ulf Lagercrantz]] [[-78]]}}
+{{led|nr=6|namn=Neanderthal|grad=6-|längd=12|fa=[[Mikael Thorsell]], [[D Vilhelm Casteel]] [[-84]]}}
+{{led|namn=Nyheter från Gud|grad=7+|typ=sport|längd=12|bultar=2|fa=[[Stefan Pettersson]]|text="Startar" under taket, kliv upp till insteget via 6.}}
+{{led|nr=6a|namn=Mickes led|grad=5-|längd=7|fa=[[Mikael Thorsell]], [[D Vilhelm Casteel]] [[-84]]}}
+| width="250px" |
+{{litentext|text=10m th finns en inskärning med en kaminspricka ovanför en hylla. Th om den finns en slät gulaktig vägg som är pepprad med borrbultar.}}
+{{led|namn=Finska flickan|grad=6c|längd=14|typ=sport|fa=[[Mikael Widerberg]]|text=Bultlinje till vänster om häng loss.}}
+{{led|nr=7|namn=Häng loss|grad=7b+|typ=sport|längd=14|fa=[[Johan Luhr]] [[-94]]}}
+{{led|nr=8|namn=Kamindiedern|grad=5+|längd=14|fa=[[Christer Åstrand]], [[Björn Bergström]] [[-78]]}}
+{{led|nr=8a|namn=Omega 3|grad=6b|längd=7|fa=[[Johan Luhr]] [[-94]]}}
+{{led|nr=9|namn=Flotter Otto|grad=7-|längd=10|typ=mix|fa=[[Michael Stimmer]], [[Claes Jelinek]] [[-88]]}}
+{{led|nr=10|namn=Opti|grad=7a|typ=sport|längd=13|fa=[[Johan Luhr]] [[-94]]|text=Saknar hängare?}}
+{{led|nr=11|namn=Kryssa|grad=7c|längd=13|typ=sport|fa=[[Johan Luhr]] [[-94]]}}
+{{led|nr=11a|namn=I have a dream|grad=8a|längd=8|typ=sport|fa=[[Johan Luhr]] [[-94]]|betyg=2|text=Känslig och svagt överhängande. }}
+{{led|nr=12|namn=Kalaspuffen|grad=7a|längd=9|typ=sport|fa=[[Claes Jelinek]], [[Michael Stimmer]] [[-88]]|text=Viker av höger över bullen och ansluter nu för tiden till ankaret på Glöm din dröm, om man vill ha något att fira från. }}
+| width="250px" |
+{{led|nr=12a|namn=Kalaspuffen direkt|grad=7a+|längd=9|typ=sport|fa=[[Johan Luhr]] [[-94]]|betyg=2}}
+{{led|nr=12b|namn=Glöm din dröm|grad=6b|längd=13|typ=sport|fa=[[Erik Hagelin]] [[-12]]|ny=ja|text=Ny led som legat gömd under mossan till höger om Kalaspuffen, innan Mister Twister. Roligt krux.}}
+{{led|nr=13a|namn=Mr Twister|grad=6b+|längd=10|fa=[[Peter Yakubenko]] [[-07]]|typ=sport|text=Genom taket till vänster om Mr Grotesh. Har tappat nyckelgrepp i starten och kan vara svårare nu. 4bb}}
+{{led|nr=13|namn=Mr Grotesh|grad=7a|längd=11|fa=[[Johan Luhr]] [[-94]]|betyg=1|typ=sport|text=Rejält överhängande klättring på stora grepp}}
+{{led|nr=14|namn=Casall|grad=7b|typ=sport|längd=11|fa=[[Johan Luhr]] [[-94]]|betyg=2|text= En extrabult har placerats till höger om första bulten där klippkvaliteten är bättre.}}
+{{led|nr=14a|namn=Nescafé|grad=6c+|typ=sport|längd=11|fa=[[Peter Yakubenko]] [[-08]]|text=Till höger om Casall. Start vid det stora flaket. Gemensamt ankare med Casall. 6 bb}}
+{{led|nr=14b|namn=Ghetto rebel|grad=6c|typ=sport|längd=12|fa=[[Andreas Harne]] [[-09]]|text=Börjar på mitten av flaket och går rakt upp till ett eget ankare. Kan vara lite lös. Först överhängande powerklättring, sedan fingrigt sva. 7 bb}}
+{{led|nr=15|namn=Bröstutställning|typ=sport|grad=6b+|längd=12|fa=[[Michael Stimmer]], [[Claes Jelinek]], [[Björn Alber]] [[-88]]|betyg=1||text=Ombultad -09 och försedd med nytt ankare.}}
+{{led|namn=Ransom|grad=6c|längd=12|typ=sport|fa=[[Stefan Pettersson]]|text=Genom taket mellan 15 och 16.}}
+{{led|nr=16|namn=Pungsuell|grad=7a+|typ=sport|längd=13|fa=[[Johan Luhr]] [[-94]]|betyg=1|text=Klippans uppvärmningsled}}
+{{led|nr=17|namn=Analterror|grad=7b+|typ=sport|längd=13|fa=[[Claes Jelinek]], [[Michael Stimmer]] [[-88]]}}
+{{led|nr=17a|namn=Rövsvett|grad=6c|typ=sport|längd=|fa=[[Claes Jelinek]], [[Michael Stimmer]] [[-88]]}}
+{{led|nr=18a|namn=Skogsorm|grad=7b+|längd=11|fa=[[Peter Yakubenko]] [[-08]]|typ=sport|text=Vertikal vägg till vänster om Ramaskri. 5 bb}}
+{{led|nr=18|namn=Ramaskri|grad=6+|längd=12|fa=[[Kaj von Damm]], [[Buster Delin]] [[-91]]|typ=trad|text=Dieder längst till höger}}
+|}
+
+==Extern förare==
+Förare finns på [http://www.plonk.se/snf/sjotorpberget.html Stockholms Nätförare].
+
+{{tryckt förare|stockholmsföraren (1996)=ja|stockholmsföraren (2008)=ja}}
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]
+[[Kategori:Sport]]
+[[Kategori:Trad]]

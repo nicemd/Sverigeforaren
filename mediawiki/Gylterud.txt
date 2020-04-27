@@ -1,0 +1,83 @@
+{{info klippa
+  |lat=59.72534077357537
+  |long=12.777099609375
+}}
+
+{{komplett}}
+{{boulderstub}}
+
+==Allmänt==
+Naturskön trad-klippa strax söder om Mangskog. Ett trevlig ställe med en del roliga leder och visst nyturspotential.
+
+==Beskrivning==
+
+I anslutning till de två största och markantaste väggarna finns även Värmlands största grotta (Gylterudsgrottorna), som med sina 50 meter av gångar i sig är värt ett besök. Klaustrofobivarning på ingångshålet. tänk tunn. 
+
+Lederna är gissningsvis 15-20 meter långa och klippan är i övrigt fast och relativt mossfri. Lederna består mestadels av sprickleder men undantag finnes. I närområdet, högre upp i terrängen finns även ett antal småväggar där en del nyturer kan etableras. I dagsläget är klättringen mest koncentrerad till nedre väggen och det är främst denna som avhandlas nedan. 
+
+På Gylterudsväggen gäller bultförbud. Topprep kan med fördel sättas i de många träd som finns men statiskt rep/långa slingor anbefalles. Väg till toppen finns på vänster sida om berget. 
+
+Boulders går också att etablera på de många block som är utspridda i ravinen/bäcken och bland väggarna. Dessa problem är förmodligen aldrig klättrade och om de gjorts finns inget dokumenterat. 
+
+'''Accessregler:''' 
+Sunt förnuft. Dvs. lämna berget som du skulle vilja hitta det och visa hänsyn till människor och övrig flora/fauna.    
+
+
+== Vägbeskrivning ==
+
+<googlemap lat="59.72534077357537" lon="12.777099609375" zoom="9" type="map">
+59.72534077357537,12.777099609375,Gylterudsberget
+</googlemap>
+
+
+Kör från Arvika på riksväg 61. Efter drygt 1 mil ska du svänga vänster mot Mangskog. Fortsätt på denna väg tills du ser en skylt (egentillverkad?) mot Gylterudsgrottorna åt vänster. Har du kommit ända fram till Mangskog har du kört för långt. Lite oklart att hitta vid första försöket, men sök och du ska hitta.
+Följ grusvägen och håll höger. Efter något hundratal meter når du något som kan liknas vid en parkeringsficka eller en mindre vändplats. Här parkerar du fordonet. Fortsätt på (skogs)vägen till fots. Mitt i en uppförsbacke (efter något hundratal meter) bör du höra en bäck på höger sida och se en stig som leder till den. Följ stigen, korsa bäcken (egentillverkad bro), vandra över några stenblock och väggen är rakt fram.   
+
+== Nedre Väggen ==
+
+[[Bild:gylterud.jpg|650px]]
+
+{{led|nr=0|namn=??? | grad=4-5isch? | typ=topprep | betyg= |fa= | text=Längst till vänster har en led putsats fram, men endast gjorts på topprep pga osäkra klättrare. Börjar någon meter till vänster om arkeologen och letar sig snett uppåt höger.}} 
+
+{{led|nr=1|namn=Arkeologen | grad=5 | typ=trad | betyg=2 |fa=Johan Sagvik, Emil Engqvist | text=Första kruxet kommer redan i början, upp till den lilla hylllan. Det andra är vid utsteget. En typisk gylterudsled som erbjuder lagom svår, välsäkrad men framförallt fin klättring.}} 
+
+{{led|nr=2|namn=Den flygande holländaren | grad=5- |typ=trad | betyg=3 | fa=Emil Engqvist, Anders Borg/Tväråna | text=Samma insteg med krux som Arkeologen, viker sedan till höger mot utegskruxet. Mycket väl och lättsäkrad om man vet var kilsprickorna är. För den duktige finns ett tidigare utsteg i den stora sprickan. En klassiker.}} 
+
+{{led|nr=3a|namn=Zipper | grad=6+ | typ=trad | fa=Joakim Johansson, Martin Norlander | text=Så blev den äntligen klättrad, säg vem som inte spanat på den. Den är nog bergets längsta led med sin bakvända S-form. Kallas Zipper efter att Jocke gjorde ett 5m fall vid förstabestigningen, vid vilka alla kilar utom den sista rippade. Senare har ett 10m markfall gjorts så att leda bör övervägas mer än en gång. Att sätta en bult i kruxet har övervägts, men bultfritt berg hade högre prioritet. I kruxet där sprickan viker av uppåt behövs ett par skor med bra friktion. Görs vanligtvis med låg travers då man kan stå på den lilla hyllan. Samma utsteg som holländaren.}} 
+
+{{led|nr=3b|namn=variant | grad=? | typ=trad | text=Vik ej av mot holländaren utan gå rakt fram över det lilla överhänget.}}
+
+{{led|nr=4a|namn=Speed is the key | grad=6+/7- | typ=trad | fa=Martin Norlander, Dag Andersson | text=Börjar mellan Zipper och Ingenting och slutar vid den förras krux. Flott väggklättring på små grepp.}}
+
+{{led|nr=4b|namn=variant | grad=7(?) | fa=Anders Borg/Tväråna | text=Istället för att gå Zippers utsteg, så kan man gå till höger om detta. En aningens diffus.}}
+
+{{led|nr=5a|namn=Ingenting | grad=4+ | typ=trad | fa=Sammy Tranemyr, David Algesten | text=Trevlig led med naturlig sträckning. Utsteg i kaminen till höger.}}
+
+{{led|nr=5b|namn=Engqvist travers | grad=5- | fa=Emil Engqvist | text=Variantutsteg till ingenting. Under det lilla överhänget till Holländarutsteget.}}
+
+{{led|nr=6|namn=Dörrkarmen | grad=6- | typ=trad | betyg=2 | fa=Johan Sagvik | text=Följ den lilla sprickan snett uppåt höger. Kruxet kommer smygande i mitten. Klättring när den är som bäst, prova och njut.}}
+
+{{led|nr=7|namn=Projekt | grad=? | typ=trad | text=Borstad av Jonne och Sören en kall höst 2008, men var för blöt och kall för att leda. Nytt försök någon under 2009?}}
+
+{{led|nr=8|namn=Projekt | grad=? | typ=trad | text=Om någon gjort/gör den så uppdatera.}}
+
+== Stora väggen ==
+
+Denna vägg är inte så utvecklad och är ännu ej avtecknad. Vissa partier är intressanta ur klättringssynpunkt. Tyvärr ganska problematiskt att sätta topprep, men det går. 
+
+{{led|nr=1 | namn=Jävulstrappan | grad=5+ | typ=trad | fa=Martin Norlander, Jocke Johansson | text=På vänsterdelens ytterhörn. Börjar med en liten hylla som går åt vänster, viker sedan upp till höger till en stor sluttande hylla. Från denna, något överhängande upp till näta avsevärt mindre hylla. Kruxet kommer på sluttampen, en bit innan man når den lilla granen som markerar ledens slut. Besvärligt att toppsäkra och nervig att leda.}}
+
+{{led|nr=2 | namn=Projekt | grad=? | typ=trad | text=Till höger om hörnet, på den jobbigt överhängande väggen finns framförallt intressanta sprickor. Den första är den stora sprickan som börjar en bit upp på hörnet. Ser ut att bli något av det luftigaste, vildaste och brutalaste i nejden. Den andra börjar istället en bit upp till höger, men har samma utsteg. Den toppsäkrade kan få stor pendel och sten i handen om han inte ser upp.}}
+
+== Bouldering ==
+
+Denna klippa har på senare tid uppmärksammats ytterligare då X antal boulderproblem etablerats på de stora blocken i närheten av de övriga klippväggarna. 
+Ryktet gör gällande att problemen håller hög klass och är nejdens finaste. 
+
+Förare över boulderproblemen finns i Arvika boulderförare som hittas på följande länk [http://27crags.com/crags/gylterud http://27crags.com/crags/gylterud]
+
+
+[[Kategori:Värmland]]
+[[Kategori:trad]] 
+[[Kategori:vertikalt]]
+[[Kategori:bouldering]]

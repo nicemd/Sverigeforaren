@@ -1,0 +1,73 @@
+{{info klippa
+  |lat=57.71407
+  |long=11.9325
+}}
+
+{{utkast}}
+==Allmänt==
+Ramberget ligger rätt så nära stan, men har ett dåligt rykte bland lokala klättrare. Trad, nyturer och bouldering erbjuds.
+
+==Mer==
+Ramberget har kort anmarsch ifrån bilen. Dock är berget stort och att ta sig mellan de olika delarna kan kräva att man flyttar bilen. 
+[[bild:valkomstbild_ramberget.jpg]]
+
+===Vägbeskrivning===
+
+
+Vägbeskrivningen i den första utgåvan av Göteborgsföraren är felaktig. Klippan ligger mer västerut än vad som anges. Klippan ligger precis nedanför parkeringen. 
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+
+<googlemap lat="57.71407" lon="11.9325" zoom="9" type="map">
+57.71407,11.9325,Ramberget
+</googlemap>
+Parkeringen är den som är på toppen av Ramberget. Vägarna mest söder ut är slutet av Herkulesgatan samt Gamla Rambergsvägen. Moskén ligger mer österut om man följer Herkulesgatan. 
+
+[[Bild:oversikt_ramberget.jpg]]
+
+==Kollektivtrafik==
+Närmsta hållplats är "Ramberget", buss 31 ifrån Wieselgrensplatsen. 
+
+
+Ramberget, mitt i Hisingen, erbjuder urban klättring. Ganska roligt.
+
+==Stora Plattan==
+Lederna ligger rakt nedanför parkeringen
+{{led|namn=Stora diedret|grad=4|fa=Johnny Lindquist}}
+{{led|namn=Nästa dieder|grad=?|text=Nästa dieder, ser fint ut...|fa=}}
+{{led|namn=Taktraversen|grad=5-|fa=Johnny Lindquist}}
+{{led|namn=Projekt taktraversen|grad=?|typ=projekt|text=Projektet som går igenom taket istället för traveren|fa=}}
+{{led|namn=Sent i November|grad=5+|fa=Johnny Lindquist|typ=mix }}
+{{led|namn=Kort och Koncis|grad=4|fa=Topprep?}}
+{{led|namn=Breda sprickan|grad=4-|fa=Johnny Lindquist}}
+
+{{led|namn=Jordlöparen|fa=Johnny Lindquist|grad=4-}}
+{{led|namn=Stora Plattan|grad=5-|fa=Johnny Lindquist}}
+{{led|namn=By Ruta|grad=5-|fa=Topprep?}}
+{{led|namn=Shaky flake|grad=3|fa=Johnny Lindquist}}
+{{led|namn=Break Dance|grad=5|fa=Johnny Lindquist|typ=mix}}
+
+{{led|namn=Fingersprickan|grad=6+|fa=|text=Ska ligga 50 meter åt höger..}}
+
+==Svarta väggen==
+{{led|namn=Shadow on the Wall|grad=6|fa=Johnny Lindquist}}
+{{led|namn=GB|grad=6+|fa=}}
+{{led|namn=Dubbelsprickan|fa=Johnny Lindquist|grad=4-|betyg=1}}
+==Lavasten==
+På grund av Lundbyleden som går nedanför berget är det omöjligt att höra vad din replagskamrat säger vid denna sektion. Det finns fler tänkta linjer här om nytursmakaren är intresserad. 
+{{led|namn=Main Course|grad=6-|fa=Niklas Lindhardt och Anders Widén|ny=1}}
+{{led|ny=1|namn=Lunchrasten|grad=5-/5|fa=Niklas Lindhardt och Patrik Lampa}}
+{{led|namn=Korpberget|grad=5-|text=|fa=Magnus Delin &Jonas Jonas Lyckegård 2011|typ=trad|längd=20}}
+{{led|namn=Lavasten|grad=5-|text=Kul klättring på diabas, därefter ganska lätt till toppen|längd=25|fa=Magnus Delin &Jonas Lyckegård 2011|typ=trad}}
+
+{{led|namn=Ebba|fa=2013|typ=trad|grad="5+"|text=Sprickklättring i allt från fingertopp, fingrar, händer, knytnävar, chickenwing och helkroppsjam|ny=1}}
+
+==Bonusväggen==
+{{led|namn=Takspricka|fa=fa=nej|text=Någonstans mitt på Ramberget finns det en off-width takspricka. 2:a replängd|grad=svår|typ=projekt}}
+==Moskebouldering==
+{{led|namn=Boulderväggen|grad=bouldering}}
+
+
+
+
+[[Kategori:Göteborg]]

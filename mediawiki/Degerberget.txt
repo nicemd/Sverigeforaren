@@ -1,0 +1,13 @@
+http://27crags.com/crags/degersjoberget
+
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Själens krigare|grad=5A|typ=Aréte,Jug|fa=Pär L & Fredrik N|landning=2|betyg=1|fadatum=2004-09-25|sopad=Pär L & Fredrik N|text=Juggigt och fint. Lätt överhängande aréte. Ligger på stenen längst till vänster när man har ryggen mot sjön.}}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

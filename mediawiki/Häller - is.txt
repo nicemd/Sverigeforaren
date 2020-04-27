@@ -1,0 +1,14 @@
+{{utkast}}
+
+<googlemap version="0.9" lat="58.430931" lon="11.473975" zoom="16">58.430325, 11.471851, Isklättring HällerBrosöyla</googlemap>
+==Allmänt==
+Ca. 150 m till höger om Mallorol finns en fin ispillar "Brosöyla", 10m WI 4. Brant.
+
+==Vägbeskrivning==
+Se [[Häller]].
+Klättrad någon gång på början av 90 talet
+
+==Access==
+Se häller under "Klippa" 
+
+[[Kategori:Is]]

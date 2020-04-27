@@ -1,0 +1,71 @@
+{{info klippa
+  |lat=59.809878
+  |long=17.60157
+}}
+
+{{komplett}}
+[[Kategori:sva]]
+[[Kategori:överhäng]]
+[[Kategori:vertikalt]]
+[[Kategori:Uppsala]]
+[[Kategori:Uppland]]
+
+==Allmänt==
+Uppsalas högsta och brantaste klätterklippa, 15 m och bitvis överhängande.
+
+'''OBSERVERA! En av bultarna på ankaret till stöldförsök är lös! Det är en Limbult som går att vicka lite på. BACKA UPP!''' --2010-05-17
+
+== Introduktion ==
+Ett par lättare sprickturer, men mestadels väggklättring i grad 6 och uppåt. Mycket goda topprepsmöjligheter med bultade ankare - lätt åtkomliga från toppen - på nästan varje led. Ovanför klippan finns en mindre vägg med några boulderproblem. Att klippan ligger inne i skogen och sällan får sol gör att det bildas is på vintern, och enorma mängder mygg på sommaren. Högra delen av klippan (speciellt svaet) börjar mossa igen av samma orsak.
+
+== Vägbeskrivning ==
+<div style="float:right; width:355px; height:255px; margin: 3px; border: 1px solid gray;">
+<googlemap width=350 height=250 lat="59.809878" lon="17.60157" zoom="12" type="map" controls="small"> 59.809878,17.60157,[[Predikstolen]] </googlemap>
+</div>
+Ta Dag Hammarskjölds väg söderut från Uppsala centrum och vid trafikljuset vid Ulleråker sväng av till höger på Vårdsätravägen. Forsätt några kilometer fram till en avtagsväg skyltad mot Hammarskog och tag av där över bron. Parkering finns runt hörnet till vänster. Gå sedan 10 minuter norrut på stigen genom Hågadalen, och missa inte klippan en liten bit in i skogen.
+
+Det går även bra att ta stadsbusslinje 18, till "Lurbo bro", vilket tar ca 12 min från stora torget.
+
+<div style="clear:right"></div>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=predikstolen}}
+
+== Rekommenderade leder ==
+{{Ledlänk|namn=Stöldförsök}}
+
+{{Ledlänk|namn=Högmässan}}
+
+== Leder ==
+[[Bild:predikstolen_vanster_small.jpg|frame|[[Predikstolen/Vänster|Vänstra sidan av Predikstolen]].<br>Foto: Mark Harris ]]
+
+Listade från vänster till höger om man står nedanför klippan. Sparsmakad lista - lägg gärna till fler! 
+
+{{led|nr=4|namn=Maginotlinjen|grad=6+|fa=Joakim Neander och Mats Olsson 1982|typ=sport}}
+
+{{led|nr=5|namn=Namnlös|grad=7-|fa=Mats Höglind 1988|typ=trad}}
+
+{{led|nr=6|namn=Vårtid|grad=8|fa=Rickard Hedman 1991|typ=sport}}
+
+{{led|nr=7|namn=Stöldförsök|grad=7+|fa=Mats Höglind 1989|bultar=höger bult i ankaret är lös, minst 5|typ=mix|betyg=2}}
+
+{{led|nr=8|namn=Alla dårars arete|grad=7+|fa=Rick McGregor 1979|bultar=minst 2|typ=mix}}
+
+{{led|nr=9|namn=Tidelipomm|grad=7-|fa=Rickard Hedman 1991|typ=trad}}
+
+{{led|nr=10|namn=Högmässan|grad=6|fa=Rick McGregor 1979|typ=trad|betyg=1}}
+
+{{led|nr=11|namn=Flera häv|grad=6|fa=Åke Danielsson 1984|typ=trad}}
+
+{{led|nr=12|namn=Mr. Merlin|grad=6/6+|fa=Joakim Neander och Mats Olsson 1982|typ=trad}}
+
+== Kuriosa ==
+Även om ryktet säger att den stått modell för klippan i tavlan [http://sv.wikipedia.org/wiki/Karl_XII:s_likf%C3%A4rd Karl XII:s likfärd], så ligger den klippa som ofta omnämns som modell för tavlan ca 1 km söder om Predikstolen. Det förefaller dock ganska osannolikt att en klippa i Uppsala stått modell för en tavla som Gustaf Cederström målade i Paris 1878. Däremot är det tänkbart att Cederström valde någon av klipporna i Hågadalen som modell när man målade repliken av ovan nämnda tavla 1884. Han höll vid den tiden till i Krusenberg.
+
+== Länkar ==
+Mark Harris stod för mycket av ursprungsmaterialet till den här sidan, och hans sida om [http://alpha2.bmc.uu.se/mark/climbing/climbing_areas_swedish.html klättring kring Uppsala] är ovärderlig om man sitter fast i den uppländska leran och undrar vart alla klippor tagit vägen.
+
+Boulderproblemen ovanför klippan beskrivs i [http://www.bergsklattring.nu/ubgV1_1.pdf Uppsala Boulderguide], men den har inte uppdaterats på år och dar. För mer information om bouldering i närheten, kolla in [[Boulderområden#Uppsala|listan på boulderområden]] här på Sverigeföraren.
+
+Klippan beskrivs också på www.bergsklättring.nu. [http://www.bergsklattring.nu/index.php?pg=/showpage.php&t=145 länk till vänstra delen]

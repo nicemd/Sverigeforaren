@@ -1,0 +1,119 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Bitch Slabb|grad=5B|typ=Krimp,Slab|fa=Björn Knutsson|landning=3|betyg=1|sopad=Björn Knutsson|text=Går rakt upp.}}
+{{problem|namn=Jakten på Röd Ragnar|grad=6B+|typ=|fa=Peter Nilsson|landning=5|betyg=1|fadatum=2008-03-26|sopad=Peter Nilsson|sittstart=ja|uteslutningar=ja|text=Vertikala sprickan till vänster är utesluten.}}
+{{problem|namn=Gul snö|grad=5A|typ=Krimp|fa=Peter Nilsson|landning=4|fadatum=2008-03-26|sopad=Peter Nilsson|sittstart=ja|text=Går rakt upp.}}
+{{problem|namn=Blåbär|grad=5A|typ=|fa=Peter Nilsson|landning=2|fadatum=2008-03-26|sopad=Peter Nilsson|text=Kan göras med ss. Frivilligt.}}
+{{problem|namn=Turkish|grad=4A|typ=|fa=Peter Nilsson|landning=3|fadatum=2008-03-26|sopad=Peter Nilsson|text=Rakt upp via jugge-hålet.}}
+{{problem|namn=Rosalita|grad=6A+|typ=Travers H->V|fa=Peter Nilsson|landning=1|betyg=1|fadatum=2008-03-26|sopad=Peter Nilsson|text=Travers.}}
+{{problem|nr=1|namn=Always|grad=6A|typ=Slopers|fa=Jon Kågström|landning=1|betyg=1|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|text=Sittstart. Börja med båda händerna på den lätt sluttande listen.}}
+{{problem|nr=1|namn=Gröna milen|grad=4A|typ=|fa=Peter Nilsson|landning=2|fadatum=2008-03-26|sopad=Peter Nilsson|text=Första problemet längst upp till vänster.}}
+{{problem|nr=2|namn=Libresse|grad=4C|typ=Slab|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|variant=ja|text=Inga händer, rakt upp.}}
+{{problem|nr=3|namn=Pampers|grad=2|typ=Slab|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|text=Går rakt upp på stenen.}}
+{{problem|nr=4|namn=Tuvok|grad=5A|typ=Krimp,Slopers,Travers V->H|fa=Jon Kågström|landning=1|betyg=1|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|text=Traversera runt stenen, börja vid Janeway och avsluta på motsvarande sida av stenen.}}
+{{problem|nr=5|namn=Janeway|grad=5B|typ=Pinch|fa=Jon Kågström|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|text=Sittstart under bullen till vänster om mantlings kruxet, och gå rakt upp.}}
+{{problem|nr=6|namn=Seven Of Nine|grad=5C|typ=Mantling|fa=Magnus Holmström|landning=3|betyg=1|fadatum=2003-04-09|sopad=Magnus Holmström|sittstart=ja|uteslutningar=ja|text=Mantlings krux på den utstickande spetsen. Använd inte stenen under spetsen för fötterna.}}
+{{problem|nr=7|namn=Neelix|grad=3B|typ=Jug|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|text=Sittstart strax till höger om spetsen. Börja med bägge händerna på den tydliga hyllan. Gå där efter snett upp till höger.}}
+{{problem|nr=8|namn=Bultbräda|grad=3A|typ=Layback,Aréte|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|text=Sittstart. Följ arêten.}}
+{{problem|nr=9|namn=Lego|grad=3A|typ=Mantling|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|text=Lätt mantlings problem.}}
+{{problem|nr=10|namn=Kapten Haddock|grad=6A|typ=Travers V->H|fa=Jon Kågström|landning=3|betyg=2|fadatum=2003-09-08|sopad=Jon Kågström|text=Travers som börjar längst till vänster och går runt stenen och upp.}}
+{{problem|nr=11|namn=Kapten Rödskägg|grad=6A|typ=Krimp|fa=Peter Nilsson|landning=3|betyg=1|fadatum=2003-09-08|sopad=Peter Nilsson|sittstart=ja|text=Sittstart på en hög och en låg crimper.}}
+{{problem|nr=12|namn=Kapten krok|grad=5A|typ=|fa=Peter Nilsson|landning=3|betyg=1|fadatum=2003-09-08|sopad=Peter Nilsson|text=Rakt upp.}}
+{{problem|nr=13|namn=Kapten Gulskägg|grad=4A|typ=|fa=Peter Nilsson|landning=3|betyg=1|fadatum=2003-09-08|sopad=Peter Nilsson|text=Rakt upp}}
+{{problem|nr=14|namn=Kapten Bakfylla|grad=6B|typ=Travers H->V|fa=Roger Karlsson|landning=3|betyg=2|fadatum=2003-09-08|sopad=Jon Kågström|text=Travers som börjar längst till höger och går runt stenen åt vänster och upp. (Kapten Haddock, bakvägen).}}
+{{problem|nr=16|namn=Nirvana|grad=5B|typ=Krimp|fa=Jon Kågström|landning=3|sopad=Jon Kågström|text=Samma start som Zen, men gå snett upp till vänster på stenen.}}
+{{problem|nr=17|namn=Zen|grad=5A|typ=Krimp,Slopers|fa=Jon Kågström|landning=3|sopad=Jon Kågström|text=Traversera runt den slopiga kanten på stenen, mantla på andra sidan.}}
+{{problem|nr=18|namn=Mantra|grad=4A|typ=Mantling|fa=Jon Kågström|landning=2|sopad=Jon Kågström|text=Mantla.}}
+{{problem|nr=19|namn=Natural born Hooker|grad=7A|typ=Krimp,Slopers,Mantling|fa=Peter Nilsson|landning=1|betyg=2|sopad=Peter Nilsson|sittstart=ja|text=Sittstart på samma sätt som Bummel Fummel men går rakt upp på stenen.}}
+{{problem|nr=20|namn=Bummel Fummel|grad=6C|typ=Krimp,Slopers|fa=Jon Kågström|landning=1|betyg=2|sopad=Jon Kågström|sittstart=ja|text=Sittstart på krimpern går via kanten snett upp åt höger på stenen.}}
+{{problem|nr=21|namn=Devil|grad=6A|typ=Krimp|fa=Jon Kågström|landning=2|betyg=1|sopad=Jon Kågström|sittstart=ja|text=Sittstart, går rakt upp.}}
+{{problem|nr=22|namn=Fantomens Brallor|grad=6B|typ=Krimp,Slopers,Travers H->V|fa=Björn Knutsson|landning=3|sopad=Björn Knutsson|text=Travers, börjar vid guran och slutar på andra sidan stenen.}}
+{{problem|nr=23|namn=Guran|grad=2|typ=Jug|fa=Peter Nilsson|landning=3|sopad=Peter Nilsson|sittstart=ja|text=Sittstart. Använd dom stora hyllorna på vägen upp.}}
+{{problem|nr=24|namn=Cliffhanger|grad=5B|typ=Krimp,Mantling|fa=Robin Persson|landning=3|sopad=Robin Persson|startgrepp=ja|uteslutningar=ja|text=Start på de nedre greppen, fötterna får endast användas på själva stenen.}}
+{{problem|nr=25|namn=Slap that Slope|grad=6C|typ=Slopers,Travers H->V|fa=Fredrik Bodin|landning=1|betyg=3|sopad=Jon Kågström|sittstart=ja|text=Traversera längst bort till höger på stenen och gå upp där.}}
+{{problem|nr=26|namn=Myrstigen|grad=4A|typ=Jug|fa=Peter Nilsson|landning=2|sopad=Peter Nilsson|startgrepp=ja|text=Börjar på nersidan på den stora juggen, går rakt upp.}}
+{{problem|nr=27|namn=Myrstick|grad=6A+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=2|betyg=2|sopad=Fredrik Bodin|sittstart=ja|uteslutningar=ja|text=Sittstart vid den högra areten, använd ej stora juggen till höger.}}
+{{problem|nr=28|namn=Bjärvfällan|grad=6C|typ=Krimp,Slopers|fa=Peter Nilsson|landning=4|betyg=2|sopad=Peter Nilsson|startgrepp=ja|text=Klättra rakt upp på stenen. Börja med vänster hand på slopern och höger på listen. Kan vara bra med en padda som skydd mot stenen bakom.}}
+{{problem|nr=29|namn=Björnfällan|grad=6B+|typ=Krimp,Slopers,Aréte|fa=Magnus Holmström|landning=4|betyg=1|sopad=Magnus Holmström|text=Börja vid arêten, gå rakt upp.}}
+{{problem|nr=30|namn=Pocketpicker|grad=7B|typ=Krimp,Slopers,Aréte|fa=Fredrik Bodin|landning=4|betyg=3|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart vid arêten. Följ sedan denna upp och länka samman med Bjärvfällan.}}
+{{problem|nr=31|namn=?|grad=7A|typ=Krimp,Slopers,Aréte|fa=Magnus Kempe|landning=4|betyg=2|sopad=Magnus Kempe|sittstart=ja|text=Startar lika som Pocketpicker, men går rakt upp med lätt dragning åt höger. Slutar lika som Björnfällan.}}
+| width="250px" |
+{{problem|nr=32|namn=Trallavers|grad=6A|typ=Krimp,Slopers|fa=Jon Kågström|landning=3|betyg=1|sopad=Jon Kågström|text=Travers till trall, sen upp.}}
+{{problem|nr=33|namn=Get Stoned|grad=5B|typ=Krimp,Slopers|fa=Jon Kågström|landning=3|sopad=Jon Kågström|text=Klättra upp via den stora slopern vid trädet med tjock bark.}}
+{{problem|nr=34|namn=Get High|grad=5C|typ=Krimp|fa=Magnus Holmström|landning=3|sopad=Magnus Holmström|text=Gå upp via mini diedret, använd ej grepp brevid (ej så uppenbart).}}
+{{problem|nr=35|namn=Trivial|grad=5A|typ=Krimp|fa=Jon Kågström|landning=3|sopad=Jon Kågström|text=Rakt upp.}}
+{{problem|nr=36|namn=Trall|grad=5B|typ=Krimp|fa=Magnus Holmström|landning=3|sopad=Magnus Holmström|text=Börja längst till höger på stenen gå sedan rakt upp.}}
+{{problem|nr=37|namn=Stardate 8130.4|grad=5B|typ=Mantling,Travers V->H|fa=Magnus Holmström|landning=3|betyg=1|sopad=Magnus Holmström|text=Traversera från vänster till höger på stenen sedan upp.}}
+{{problem|nr=38|namn=Plasma Injector|grad=5C|typ=Krimp,Mantling|fa=Jon Kågström|landning=3|sopad=Jon Kågström|startgrepp=ja|text=Börja på spetsen, mantla sedan upp på stenen.}}
+{{problem|nr=39|namn=Exorcisten|grad=6C|typ=Mantling,Dyno|fa=Magnus Holmström|landning=4|betyg=1|sopad=Magnus Holmström|startgrepp=ja|uteslutningar=ja|text=Sittstart med händerna på listen, går rakt upp. Inga andra stenar är med för fötterna}}
+{{problem|nr=40|namn=Counter Strike|grad=6A|typ=Krimp|fa=Jon Kågström|landning=3|sopad=Jon Kågström|sittstart=ja|text=Sittstart. Rakt upp.}}
+{{problem|nr=41|namn=Black Meza|grad=6C|typ=Krimp,Slopers,Travers V->H|fa=Tony Berglund|landning=3|sopad=Tony Berglund|sittstart=ja|text=Starta lika som Counter Strike. Traversera åt höger förbi ett utstickande parti och vidare till det tydliga slutet på stenen, där du går upp.}}
+{{problem|nr=42|namn=Nypa salt|grad=5A|typ=Krimp,Pinch|fa=Jon Kågström|landning=3|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|text=Börja sittande med pinchen, gå sedan rakt upp.}}
+{{problem|nr=43|namn=Nypa salt (variant)|grad=5C|typ=Slopers,Pinch,Dyno|fa=Jon Kågström|landning=3|sopad=Jon Kågström|variant=ja|startgrepp=ja|uteslutningar=ja|text=Gå upp till slopern på mitten av stenen, dyna därefter direkt upp på stenen.}}
+{{problem|nr=44|namn=Ali Baba|grad=5C|typ=Mantling|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|text=Sittstart rakt under stenen. Gå rakt upp på stenen.}}
+{{problem|nr=45|namn=Jalla Jalla|grad=5C|typ=Slopers|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|text=Sittstart under kanten till höger på stenen. Gå upp via kanten.}}
+{{problem|nr=46|namn=Amen|grad=5C|typ=Krimp,Slopers|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|text=Sittstart med båda händerna på sloprarna, gå rakt upp via listerna.}}
+{{problem|nr=47|namn=Välsedd|grad=5C|typ=Krimp|fa=Jon Kågström|landning=3|betyg=1|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|text=Sittstart nere till höger på stenen. Högra handen på areten och andra på en liten bulle till vänster. Gå sedan till snett upp åt vänster på stenen.}}
+{{problem|nr=48|namn=Kram|grad=5B|typ=Layback|fa=Jon Kågström|landning=3|fadatum=2003-04-09|sopad=Jon Kågström|sittstart=ja|text=Samma start som Välsedd, men går rakt upp.}}
+{{problem|nr=49|namn=Hårdkokt|grad=6C+|typ=Krimp,Spricka|fa=Peter Nilsson|landning=2|betyg=2|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på den lilla listen. Rakt upp.}}
+{{problem|nr=50|namn=Vitan|grad=3B|typ=Slab|fa=Peter Nilsson|landning=3|sopad=Peter Nilsson|text=Går rakt upp.}}
+{{problem|nr=51|namn=Gulan|grad=5A|typ=Slab|fa=Peter Nilsson|landning=2|sopad=Peter Nilsson|variant=ja|uteslutningar=ja|text=Samma som "Vitan" fast utan händer.}}
+{{problem|nr=52|namn=Med strumporna på|grad=6C|typ=Krimp|fa=Peter Nilsson|landning=2|betyg=1|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Sittstart med händerna i den horisontella sprickan. Rakt upp.}}
+{{problem|nr=53|namn=Egget|grad=5A|typ=Mantling|fa=Peter Nilsson|landning=2|sopad=Peter Nilsson|text=Mantling, rakt upp.}}
+{{problem|nr=54|namn=Löskokt|grad=5C|typ=Krimp|fa=Peter Nilsson|landning=2|betyg=1|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Sittstart. Använd de två listerna och traversera lite åt höger, sedan upp.}}
+{{problem|nr=55|namn=Petzl|grad=5A|typ=Krimp,Spricka|fa=Jon Kågström|landning=3|sopad=Jon Kågström|sittstart=ja|text=Sittstart. Följ den stora sprickan åt höger.}}
+{{problem|nr=56|namn=Five Ten|grad=5B|typ=Krimp|fa=Jon Kågström|landning=3|sopad=Jon Kågström|sittstart=ja|text=Sittstart på samma grepp som Petzl. Gå rakt upp istället.}}
+{{problem|nr=57|namn=The North Face|grad=5A|typ=Krimp,Aréte|fa=Jon Kågström|landning=3|sopad=Jon Kågström|sittstart=ja|text=Sittstart. Gå rakt upp via det fina greppet på areten.}}
+{{problem|nr=58|namn=Metolius|grad=5C|typ=Krimp|fa=Jon Kågström|landning=3|betyg=1|sopad=Jon Kågström|uteslutningar=ja|text=Använd endast bullen och blocket som sticker ut under bullen. Bra att vara vig.}}
+{{problem|nr=59|namn=Wild Country|grad=6A|typ=Krimp,Travers V->H|fa=Peter Nilsson|landning=3|sopad=Peter Nilsson|text=Traversera från vänster till höger på stenen.}}
+{{problem|nr=60|namn=Sweet´n Low|grad=6A|typ=Krimp|fa=Peter Nilsson|landning=3|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Sittstart på greppet nere till vänster på stenen. Gå snett upp till höger.}}
+{{problem|nr=61|namn=Svalt|grad=5A|typ=Krimp,Slab|fa=Jon Kågström|landning=2|betyg=1|sopad=Jon Kågström|text=Går rakt upp.}}
+{{problem|nr=63|namn=Cracker|grad=5B|typ=Krimp,Slab,Spricka|fa=Peter Nilsson|landning=2|sopad=Peter Nilsson|uteslutningar=ja|text=Använd endast sprickan för händerna.}}
+{{problem|nr=64|namn=High Balls|grad=5A|typ=Highball,Spricka|fa=Fredrik Bodin|landning=6|sopad=Fredrik Bodin|text=Högt boulder som följer spricklinjen till höger om granen.}}
+{{problem|nr=65|namn=Travis|grad=6C|typ=Krimp,Travers V->H|fa=Fredrik Bodin|landning=5|sopad=Fredrik Bodin|startgrepp=ja|text=Traversera höger från High Balls till starten på kryptonite.}}
+{{problem|nr=66|namn=Crack Jack|grad=6B|typ=Layback,Spricka|fa=Fredrik Bodin|landning=5|betyg=1|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar till vänster om sprickan under det lilla taket, följer sedan laybackklättring i sprickan.}}
+{{problem|nr=67|namn=Old Spice|grad=5A|typ=Layback|fa=Peter Nilsson|landning=6|betyg=1|sopad=Peter Nilsson|text=Följer arêten upp till toppen, ganska hög och dålig landning.}}
+{{problem|nr=68|namn=Uncle Cracker|grad=6A|typ=Krimp,Spricka|fa=Peter Nilsson|landning=5|betyg=1|sopad=Peter Nilsson|text=Följer sprickan som går snett upp åt höger.}}
+{{problem|nr=69|namn=Adamantium|grad=7A+|typ=Krimp,Överhäng,Dyno|fa=Dag Knutsson|landning=5|betyg=1|fadatum=2002-04-05|sopad=Dag Knutsson|sittstart=ja|startgrepp=ja|text=Sittsstart på samma grepp som Kryponite, men går snett upp åt vänster}}
+| width="250px" |
+{{problem|nr=70|namn=Kryptonite|grad=7A+|typ=Krimp,Överhäng,Dyno|fa=Fredrik Bodin|landning=4|betyg=2|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart. Börjar på det stora greppet nere till vänster, travers åt höger och sedan upp.}}
+{{problem|nr=71|namn=Plysch|grad=5B|typ=Krimp,Jug|fa=Fredrik Bodin|landning=4|betyg=1|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på de stora greppen, därefter rakt upp.}}
+{{problem|nr=72|namn=Boulder Ball|grad=6A|typ=Krimp,Travers V->H|fa=Fredrik Bodin|landning=5|betyg=1|sopad=Fredrik Bodin|startgrepp=ja|text=Travers som går runt hela stenen. Börjar och slutar på spetsen på nedsidan.}}
+{{problem|nr=73|namn=Warcraft|grad=5C|typ=Krimp,Slopers|fa=Peter Nilsson|landning=2|betyg=1|sopad=Peter Nilsson|sittstart=ja|uteslutningar=ja|text=Bara själva stenen är tillåten för fötterna. Går rakt upp.}}
+{{problem|nr=74|namn=Cornerkick|grad=6A+|typ=Krimp,Reach|fa=Fredrik Bodin|landning=4|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Samma start som Blade, går sedan ut till sprickan vänster om arêten och därefter upp. Dåligt borstad på slutet.}}
+{{problem|nr=75|namn=Blade|grad=6A|typ=Krimp,Aréte,Reach|fa=Fredrik Bodin|landning=5|betyg=1|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart på juggen inga fötter på klipphällen. Går sedan rakt upp för arêten. Alternativt (6c) stående start på övre juggen, armgång upp till det bra greppet på arêten sedan samma}}
+{{problem|nr=76|namn=Jammin|grad=6B+|typ=Krimp,Jam,Jug|fa=Fredrik Bodin|landning=4|betyg=1|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart på juggen. Klipphällen är ej med som fotsteg. Gå sedan ut till sprickan till höger, sedan rakt upp.}}
+{{problem|nr=77|namn=Sloping Bastard|grad=6B|typ=Krimp,Slopers,Travers H->V|fa=Fredrik Bodin|landning=4|betyg=1|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar längst bort till vänster på den slopiga hyllan. Travers åt vänster, avslut hängande I juggen.}}
+{{problem|nr=78|namn=Creamcracker|grad=6A+|typ=Krimp,Spricka|fa=Peter Nilsson|landning=3|sopad=Peter Nilsson|text=Stående start vid det lilla taket som sticker ut. Gå rakt upp, följer sprickan på slutet.}}
+{{problem|nr=78|namn=Dark Horse|grad=6C|typ=Krimp,Aréte,Spricka|fa=Peter Nilsson|betyg=2|fadatum=2004-04-17|sopad=Peter Nilsson|text=Börjar med en ståstart vid Sloping bastard sen upp och runt arreten, till den vertikala sprickan å sen till topps.}}
+{{problem|nr=80|namn=Barren|grad=5B|typ=Krimp,Slab|fa=Fredrik Bodin|landning=3|betyg=1|sopad=Fredrik Bodin|startgrepp=ja|text=Börjar mitt på väggen på listerna och går rakt upp.}}
+{{problem|nr=81|namn=Sundsvallsgrodan|grad=5B|typ=Dyno,Jug|fa=Fredrik Bodin|landning=1|sopad=Fredrik Bodin|startgrepp=ja|text=Dubbeldyno från den horisontella sprickan upp till nästa.}}
+{{problem|nr=82|namn=Ketoprofen|grad=6B|typ=Krimp|fa=Jon Kågström|landning=2|betyg=1|sopad=Jon Kågström|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart strax till höger om Sundsvalls grodan. Med högra handen på en rejäl sidepull och vänstra handen på en sidepull list. Traversera åt vänster runt areten och upp. Den stora nedersta horisontella sprickan är inte med.}}
+{{problem|nr=83|namn=Kofoten|grad=5B|typ=Krimp,Mantling|fa=Jon Kågström|landning=4|sopad=Jon Kågström &Robin Persson|text=Boulderproblem som startar långt ner och går rakt upp . Bängligt brytmove vid mantlingen.}}
+{{problem|nr=84|namn=Titanic|grad=6A+|typ=Krimp,Mantling,Dyno|fa=Peter Nilsson|landning=4|betyg=1|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart under den överhängande delen, går rakt upp över spetsen, mantlingskrux. Inget annat utom själva stenen är med.}}
+{{problem|nr=85|namn=Skåpluckan|grad=5C|typ=Mantling,Dyno|fa=Fredrik Bodin|landning=1|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart vid den låga stenen med vänster hand på arêten och höger hand under stenen.}}
+{{problem|nr=86|namn=Svabard|grad=5C|typ=Krimp,Slopers,Slab|fa=Fredrik Bodin|landning=4|betyg=1|sopad=Fredrik Bodin|text=Svaklättring, med ett antal lister, går rakt upp}}
+{{problem|nr=87|namn=Da Crimp|grad=6B|typ=Krimp,Slab|fa=Fredrik Bodin|landning=3|sopad=Fredrik Bodin|text=Går rakt upp.}}
+{{problem|nr=88|namn=Vänsterhängd|grad=6A|typ=Layback,Aréte|fa=Fredrik Bodin|landning=2|betyg=1|sopad=Fredrik Bodin|uteslutningar=ja|text=Svängdörrsproblem, endast arêten är tillåten för händerna tills man kommer upp på svaet.}}
+{{problem|nr=89|namn=Flash-Light|grad=3B|typ=Krimp,Jug|fa=Fredrik Bodin|landning=3|betyg=1|sopad=Fredrik Bodin|text=Lätt problem som går på stora grepp, går rakt upp}}
+{{problem|nr=90|namn=Stigmata|grad=7A+|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=5|betyg=2|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart. Leden går rätt upp över bullen, utan att gå ut åt vänster.}}
+{{problem|nr=91|namn=Slopersh|grad=6B|typ=Slopers,Pinch|fa=Fredrik Bodin|landning=4|betyg=1|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart med händerna på juggen. Leden går rakt upp på kortsidan av bullen. Väggen till höger är ej med.}}
+{{problem|nr=92|namn=?|grad=5C|typ=Krimp,Travers H->V|fa=Henrik Åsberg & Staffan Nordensson|landning=1|betyg=1|sopad=Henrik Åsberg & Staffan Nordensson|text=Traversera längst nerifrån väggen och mantla längst till vänster innan väggen blir för låg.}}
+{{problem|nr=93|namn=Oves Brorsa|grad=6B|typ=Krimp|fa=Peter Nilsson|landning=4|betyg=1|sopad=Peter Nilsson|startgrepp=ja|uteslutningar=ja|text=Startar med händerna högt upp på två crimprar, alldeles vid diedret. Väggen till vänster är ej med. Leden går rakt upp till kanten.}}
+{{problem|nr=94|namn=Ove|grad=6B+|typ=Krimp,Dyno|fa=Fredrik Bodin|landning=3|sopad=Fredrik Bodin|startgrepp=ja|text=Startar på två crimps sedan rakt upp till den bra kanten.}}
+{{problem|nr=95|namn=Total Satisfaction|grad=6B|typ=Krimp|fa=Peter Nilsson|landning=5|betyg=2|sopad=Peter Nilsson|text=Går rakt upp ute vid arêten}}
+{{problem|nr=96|namn=Skrapa Haka|grad=5A|typ=Krimp,Slopers,Slab|fa=Jon Kågström|landning=3|betyg=1|sopad=Jon Kågström|text=Går rakt upp. Akta hakan!}}
+{{problem|nr=97|namn=Vampire|grad=6A+|typ=Överhäng,Jug|fa=Jon Kågström|landning=3|betyg=1|sopad=Jon Kågström|sittstart=ja|text=Sittstart på stenen rakt in i grottan. Klättra ut och rakt upp.}}
+{{problem|nr=98|namn=Vampire (variant)|grad=6B+|typ=Överhäng,Jug|fa=Jon Kågström|landning=3|betyg=1|sopad=Jon Kågström|sittstart=ja|variant=ja|uteslutningar=ja|text=Samma start som "Vampire", men man får inte använda högra väggen.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

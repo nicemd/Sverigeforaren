@@ -1,0 +1,129 @@
+<!-- Detta gör det möjligt att markera klippan på kartor -->
+{{info klippa
+  |lat=59.779148
+  |long=12.308013
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+
+<!-- {{stub}} -->
+{{utkast}}
+<!-- {{komplett}} -->
+{{boulderutkast}}
+
+
+==Allmänt==
+Strax utanför Åmotfors finns en klippa som på senare tid fått ett litet uppsving pga några nybultade leder.
+Ta kontakt med [http://www.josseklatter.net Jösse Klättersällskap] för mer information.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.779148" lon="12.308013" zoom="10" type="map" controls="small">
+59.779148,12.308013,[[Åmotforsklippan (ungefärlig position)]]
+</googlemap>
+</div>
+
+Kör längs riksväg 61 från Arvika mot Åmotfors/Charlottenberg/Norge. 2 mil från Arvika anländer du Åmotfors. Sväng av väg 61 till vänster mot Åmotfors (avfarten pekar mot ett industriområde som heter strand) och kör förbi den lilla bensinstationen. Kör under järnvägsviadukten och sväng vänster i korsningen därefter. Fortsätt genom det mäktiga centrumet (obs det går snabbt!). I korsningen vid kyrkan sväng höger mot Koppom. Fortsätt denna väg genom och ut ur samhället. Fortsätt någon kilometer tills du når en bro. Sväng ner höger precis innan bron och parkera så du inte är i vägen för någon/något. Går det inte på vägen/stigen så parkera på fickan på andra sidan vägen. Promenera på vägen längs älven någon minut. Fortsätt rakt fram när vägen övergår till en mindre stig och slyn blir irriterande. Börja spana upp åt höger när du får kliva över bävergnagda träd. Vid ett stort bävergnagt träd, leta dig upp genom stenrösen till höger och klippan kommer uppenbara sig efter några frustande höjdmeter. 
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+{|
+|- valign="top"
+| width="350px" |
+
+Som en första grund kommer här de leder som finns registrerade till dags dato.
+Först de gamla reg. lederna från tidigt 90-tal, har endast tagit med de registrerade ledda turerna.
+
+{{led |nr=1|namn=Spricka nr 4.5 |grad = 6- | typ=trad |betyg=1 |fa= [[Martin Jurander 2009]], [[]] | text = Allra längst till vänster på berget går denna lilla offwidht, tack vare bergets unika vinkelsammansättning bjuds du på trivsam jugfest. }}
+
+{{led |nr=2|namn=Engstad |grad = 5 | typ=trad |betyg= |fa= [[Emil Engquist]], [[Anders Borg/Tväråna]] | text = Börjar under det stora taket, och drar sig innan dess början till vänster. Dåligt säkrad.}}
+
+{{led |nr=3|namn=Regnleden |grad = 4+ |betyg= | typ=trad |fa= [[Joakim Johansson]], [[Martin Norlander]] | text = trevlig led , skapligt lätt att leda , börjar på höger sida om det stora taket, sista biten i en svadieder. Det finns en utstegsvariant via den överhängande väggen (grad5)}}
+
+{{led |nr=4|namn=Påskleden |grad = 4+ |betyg= | typ=trad |fa=[[Joakim Johansson]], [[T Johansson]] | text = Börjar vid björkarna(a' tidigt 90 tal!)}}
+
+{{led |nr=5|namn=Anders killösa |grad = 5- |betyg= | typ=trad |fa= [[Anders Borg/Tväråna]] | text = Upp på väggen mellan Påskleden och Kommunisten, dåliga småkilar }}
+
+{{led |nr=6|namn=KPML(r) | grad = 6- |betyg= |typ = trad |fa= [[Joakim Johansson]], [[Martin Norlander]] | text = Kan kännas igen på att klippan här är röd, tre insteg möjligt men vanligast i överhängande nisch , fin spricka . En klassiker ! }}
+
+{{led |nr=7|namn=Kommunisten | grad = 6- | typ = trad |betyg= | fa= [[Joakim Johansson]], [[Anders Borg/Tväråna]] | text = samma insteg som led nr 5 men men traverserar halvvägs åt höger }}
+
+{{led |nr=8|namn=FAQ FRA |grad =7 | typ=trad |betyg= |längd=15 |fa=[[Martin Jurander]] |text=5 meter till höger om kpmlr. Otroligt brant startspricka med klassiska sportmoves leder upp till typiskt sportcrux! , Korsa höger och följ nästa dieder några meter innan du bryter ut på toppväggen , välsäkrad. }}
+
+{{led |nr=9|namn=Anarki | grad = 4+ | typ = trad |fa= [[Joakim Johansson]], [[Martin Norlander]] | text = Sprickan femton meter till höger om Kommunisten. Snett upp åt vänster, bra säkringar}}
+
+| width="350px" |
+
+Nu följer de nya lederna, de går på uppdelade små kraftigt överhängande väggsektioner, endast sex är klara men många fler går att göra. På grund av ledernas relativt blygsamma längd så är det bultat ganska tätt , för att undvika markfall , en trygg sportklättermiljö med andra ord ! Väl mött.
+
+{{led | nr=10 | namn= Wall-E |grad = 6a+ |betyg= | typ=sport |fa=[[Martin Jurander]]  | bultar =4 | text= Första leden, går via ett lite klurigt minidieder upp, kan uppfattas som brant. Från hyllan som diedret mynnar ut i, inte lika delikat. toppankare.}}
+
+{{led |nr=11|namn= Solkatt |grad = 6b | betyg= |typ = sport |fa=[[Moa Wall]]  |  bultar = 3 | text = Går genom överhängets vänstra sida via tunna flak till balansig väggklättring på slutväggen, två alternativmöjligheter på slutväggen till vänster eller höger om sista bulten. Gemensamt ankare med led nr 11.}}
+
+{{led |nr=12|namn= Gravitationsdans | grad = 7b+ | betyg= 2|typ = sport | bultar = 3|fa= [[Martin Jurander]] | text = Brant klättring mitt i väggen , tung position på mitten. Toppankare.}}
+
+{{led |nr=13|namn=Ina |grad=6c |typ=sport |bultar =4 |betyg= |fa = [[Martin Jurander]] |text = överhängande liten tur som bjuder på lite motstånd för den skeptiske !  Toppankare}}
+
+{{led |nr=14|namn = Lilian | grad = 7a | typ = sport |betyg=1 | bultar= 4 |fa= [[Martin Jurander]]  | text = Pelaren till höger , pumpande , magnifika positioner. Toppankare.}}
+
+{{led |nr=15|namn = Lars | grad = 7a+ | typ = sport |betyg= | bultar= 5 |fa= [[Martin Jurander]]  | text = På andra sidan pelaren. Drar sig åt vänster. Samma ankare som led nr 13.Obs omedelbart till höger om ledens mittdel finns två block som ser ut att kunna lossna om man hänger loss i dem , håll er till vänster ! ( Ska försöka få bort dem någon dag /m)}}
+
+{{led |nr=16|namn = Lars-lilian | grad = 7b | typ = sport |betyg=1 | bultar= 5 |fa= [[Martin Jurander]]  | text = Kör första halvan av Lars och gå över i sluthalvan av Lilian .Lite mer klättring !}}
+
+
+
+{{led |nr =17|namn=Den nya generationen| grad= 3+ | betyg= | typ=trad | längd=14  |fa=[[Moa Wall]]  | text= Den vänsterlutande hörnformationen som startar vid wanted-ledens insteg , välsäkrad , bra nybörjarled! Fin för sin grad}}
+
+{{led |nr=18|namn= Wanted |grad =6b | betyg=2 | typ =sport | bultar= 4 |fa =  [[Martin Jurander]], [[Moa Wall]] |text = 6 meter vidare åt höger från Lilian ligger denna arete , rolig sportklättring ,4bb plus toppankare }}  
+
+
+|}
+
+[[Bild:amotfors1.jpg|300px|thumb|Vid repet framför Moa går leden
+{{ledlänk|namn=Wall-E}}, mitt i överhänget går
+{{ledlänk|namn=Gravitationsdans}}|center]]
+
+[[Bild:amotfors2.jpg|300px|thumb|Martin Jurander klättrar {{ledlänk|namn=Ina}}|center]]
+
+==Bouldering==
+
+Om man istället fortsätter vägen/stigen rakt fram till ett jätteblock och där viker av upp åt höger i 40 m kommer man till en nyligen påbörjat boulder , ca 20 projekt och där det mest intressanta är det stora taket !
+
+
+{{problem |nr=1|namn= Mia |grad =6A | betyg=1 | typ = | bultar=  |fa =  |text = Fin takkant-travers vid övre sidan av blocket  }} 
+
+{{problem |nr=2|namn= Mio |grad =6B | betyg= | typ = | bultar=  |fa =  |text = Väggproblem på vänstra väggen med sittstart nere i en sjysst alkov.Fina krimpar!  }} 
+
+{{problem |nr=3|namn= Max |grad =6A | betyg= | typ = | bultar=  |fa = |text = Vänsterareten/kanten av taksidan , klurig onemove-wonder, typ. }} 
+
+{{problem |nr=4|namn= Mao |grad =6C?? | betyg=3 | typ = | bultar=  |fa = |text = Vänstra rampen i taket , gymnastisk . }} 
+
+{{problem |nr=5|namn= Maj |grad =7A+ | betyg= | typ = | bultar=  |fa = |text =Startar mellan Moa och Mao . }} 
+
+{{problem |nr=5|namn= Moa Direkt |grad =7A+ | betyg= | typ = | bultar=  |fa = |text = Moa utan högerkanten.Äntligen!!! }} 
+
+{{problem |nr=6|namn= Moa |grad =7A | betyg=3 | typ = | bultar=  |fa =  |text = Högra rampen i taket och högerkanten av taket bildar detta topp 5 problem  .  }}
+
+{{problem |nr=7|namn= Kråkan |grad =6A| betyg= | typ = | bultar=  |fa =  |text = 10 m upp åt höger från huvudblocket, ligger denna lilla pärla , kass landning dock!  .  }}
+
+==Arvika Boulderförare==
+
+All bouldering i Jösse Härad återfinns numera på www.27crags.com 
+Uppdaterade leder, bilder osv hittas alltså på följande länk... [http://27crags.com/crags/amotfors http://27crags.com/crags/amotfors]
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]] 
+[[Kategori:Bouldering]]
+[[kategori:Saknar skiss]]
+[[Category:Värmland]]

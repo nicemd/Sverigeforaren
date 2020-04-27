@@ -1,0 +1,22 @@
+{{info klippa
+  |lat=58.48158
+  |long=16.32894
+}}
+
+{{stub|extern=ja}}
+[[Kategori:vertikalt]][[Kategori:sva]][[Kategori:trad]][[Kategori:sport]]
+
+[[Bild:ramunderberget.jpg|frame|Ramunderberget]]
+ 
+==Vägbeskrivning==
+<googlemap lat="58.48158" lon="16.32894" zoom="12" type="map">
+58.48158,16.32894,Ramunderberget
+</googlemap>
+Parkera på något bra ställe i Söderköping, lämpligtvis i närheten av kanalen. Korsa kanalen vid slussen och följ kanalen åt höger (österut). Efter c:a 200 meter är ni framme vid klippan.
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

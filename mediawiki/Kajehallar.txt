@@ -1,0 +1,103 @@
+{{info klippa
+  |lat=56.78970
+  |long=12.83583
+}}
+
+{{utkast}}
+== Allmänt ==
+Cirka 400 m klippa uppdelad på sex partier. 
+
+Lederna är antingen naturligt säkrade eller klättras på topprep. Det är enkelt att sätta topprep, men det krävs en hel del statiskt rep på sina håll.
+
+Ungefär mitt på väggen finns ett flackare parti med en stig upp.
+
+== Access ==
+Det finns inga närliggande hus, och de locals vi träffat på verkade vänligt inställda till och vana vid klättrare.
+== Hitta hit ==
+Klippan ligger på cykelavstånd från Halmstad (1,5 mil) och det går att ta sig hit med lokaltrafiken. 
+Kör gamla göteborgsvägen till Kvibille. Vid gästgiveriet, ta av in på vägen mot Slättåkra och Oskarsström. Fortsätt cirka 400 meter och sväng sedan vänster in på Lundsgårdsvägen. I höjd med Ekegränd går ni höger in i skogen och följer högerkanten av dalen. Efter 300 meter kommer man till Originalväggen.
+Alternativt kör man in till höger på skogsvägen innan Ekegränd och följer den till den stora grusplanen där man kan parkera. Sedan är det bara att gå direkt åt vänster och snedda upp genom skogen så kommer man direkt på klipporna ovanifrån.
+<googlemap width=350 height=300 lat="56.78970" lon="12.83583" zoom="11" type="map" controls="small">
+56.78970,12.83583,[[Kajehallar]]
+</googlemap>
+
+== Klippor ==
+=== Originalväggen ===
+
+[[Bild:original.jpg|250 px|thumb|Slutet, Kongo, Stenen på benen, Fet och värdo]]
+[[Bild:original2.jpg|250 px|thumb|Mr. Mean, Arresterad]]
+{{led|nr=1|namn=Agrikulturen|grad=4|längd=20|fa=D. Lindwall - 91|typ=trad|text=}}
+
+{{led|nr=2|namn=Jam Session|grad=6+|längd=20|fa=D. Lindwall - 91|typ=trad|text=}}
+
+{{led|nr=3|namn=Slutet|grad=6+|längd=20|fa=D. Lindwall, J. Lundgren - 90|typ=trad|text=}}
+
+{{led|nr=4|namn=Kongo|grad=6+|längd=20|fa=Mattias Lundqvist -97|typ=trad|text=Förstod aldrig hur den skulle avslutas. Oklart avritat i Halmstadföraren men ska enligt denna ha ett "härligt utsteg".}}
+
+{{led|nr=5|namn=Stenen på benen|grad=6+|längd=20|fa=D. Lindwall, M. Andersson -91|typ=trad|text=Fin layback fram till kruxet.}}
+
+{{led|nr=6|namn=Fet och värdo|grad=4+|längd=15|fa=J. Lundgren, M. Jönsson - 90|typ=trad|text=}}
+
+{{led|nr=7|namn=Mr. Mean|grad=7|längd=20|fa=D. Lindwall, J. Lundgren -91|typ=trad|text=}}
+
+{{led|nr=8|namn=Arresterad|grad=5+|längd=20|fa=D. Lindwall - 90|typ=T.R.|text=}}
+
+{{led|nr=9|namn=Sväng vänster|grad=5+|längd=20|fa=Björn Hedberg - 07|typ=T.R.|text=Fin helkroppsjam halvvägs.}}
+
+{{led|nr=10|namn=Runout|grad=?|längd=20|fa=Ludde - 07|typ=trad|text=Första vettiga säkringarna 3m upp under flaket.}}
+
+=== Introväggarna===
+
+===Black Labelväggen===
+{{led|nr=1|namn=Je suis un gode|grad=7|längd=15|fa=D. Lindwall - 93|typ=T.R.|text=}}
+
+{{led|nr=2|namn=Lugna gatan|grad=6-|längd=15|fa=D. Lindwall - 93|typ=trad|text=}}
+
+{{led|nr=3|namn=Black Label|grad=7-|längd=15|fa=D. Lindwall - 93|typ=T.R.|text=}}
+[[Bild:blacklabel.jpg|150 px|thumb|Lugna Gatan, Black Label, Svarta konster]]
+
+{{led|nr=4|namn=Svarta konster|grad=6-|längd=15|fa=D. Lindwall - 93|typ=trad|text=}}
+
+{{led|nr=5|namn=Svart hål|grad=4|längd=10|fa=D. Lindwall - 93|typ=trad|text=}}
+
+{{led|nr=6|namn=Dirty Harry|grad=5-|längd=15|fa=Björn Hedberg -97|typ=T.R.|text=}}
+
+{{led|nr=7|namn=Jenny. B|grad=5+|längd=15|fa=Olof Wojtkowiak -97|typ=T.R.|text=}}
+
+{{led|nr=8|namn=Sprickan|grad=4+|längd=15|fa=Sten Johansson -97|typ=T.R.|text=}}
+
+{{led|nr=9|namn=El Kamino|grad=4+|längd=20|fa=J. Lundgren, D. Lindwall - 93|typ=trad|text=}}
+
+===Red Labelväggen===
+{{led|nr=1|namn=Red Label|grad=7|längd=15|fa=D. Lindwall - 93|typ=trad|text=}}
+
+{{led|nr=2|namn=Röde Orm|grad=6|längd=15|fa=D. Lindwall, N. Lindqvist - 93|typ=trad|text=}}
+
+===Skuggväggen ===
+{{led|nr=1|namn=Ett skepp kommer lastat|grad=4+|längd=10|fa=D. Lindwall, J. Lundgren - 93|typ=trad|text=}}
+
+{{led|nr=2|namn=Grenen i grenen|grad=4|längd=10|fa=J. Lundgren -93|typ=trad|text=}}
+
+{{led|nr=3|namn=Knakelibrak snabel|grad=4+|längd=10|fa=D. Lindwall - 93|typ=trad|text=}}
+
+{{led|nr=4|namn=Pinne i brasan|grad=4-|längd=10|fa=D. Lindwall - 93|typ=trad|text=}}
+
+{{led|nr=5|namn=Lakritstrollet|grad=5|längd=10|fa=N. Lindqvist -93|typ=T.R.|text=}}
+
+===Nya Väggen===
+{{led|nr=1|namn=Genvägen|grad=5-|längd=15|fa=Adde Nilsson -07|typ=trad|text=Börjar inne i hörned på hyllan till vänster om Blåmes och följer sprickan. Hyfsat välsäkrad.}}
+
+{{led|nr=2|namn=Blåmes|grad=6-|längd=15|fa=Björn Hedberg -07|typ=T.R|text=Börja uppe på hyllan, gå rakt upp på flaket (fin spricka till vänster), upp på platån och fortsätt rakt upp på väggen. Greppen på väggen är bättre än de ser ut att vara.}}
+
+{{led|nr=3|namn=2:a chansen|grad=5|längd=15|fa=Adde Nilsson -07|typ=trad|text=Börja uppe på hyllan och följ sprickan upp på platån och in i kaminen. Svårsäkrad(?) innan platån.}}
+
+== Källor ==
+{{cite book  | editor=Karlsson, Kristian, Hermansson, Peter, Lundqvist, Mattias 
+  | title = Halmstadföraren
+  | publisher = Halmstad klätterklubb
+  | date = 1998
+  | location = Halmstad
+  | pages = 48
+}}
+For more routes see http://www.mountain-environment.com/Rock_climbing_guide_Kajehallar.pdf 
+[[Kategori:Halland]]

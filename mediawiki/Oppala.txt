@@ -1,0 +1,151 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Oppalaklippan==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Thunder Road|grad=6B+|typ=Krimp,Highball|fa=Staffan Hemström|landning=3|betyg=2|fadatum=2006-04-21|sopad=Staffan Hemström|text=Går till höger om CH brinner på "Nya klippan". Kan säkras med två bultar.}}
+{{problem|namn=Nanoteknik|grad=6A+|typ=Slopers,Slab|fa=Staffan|landning=4|betyg=2|fadatum=2008-04-26|sopad=Staffan|text=Ligger bredvid repklippan. Startar mitt på väggen, därefter snett upp höger via tvärsprickan och kristaller. Slabbfest.}}
+| width="250px" |
+{{problem|nr=1|namn=Årets Första|grad=5B|typ=Krimp|fa=Maria Olsson|landning=4|betyg=2|fadatum=2006-04-18|sopad=Maria Olsson|uteslutningar=ja|text=Sprickorna på höger och vänster är uteslutna. Går till vänster på skogsklippan i Oppala.}}
+{{problem|nr=1|namn=Gött mos|grad=5A|typ=Travers V->H,Jug,Spricka|fa=Staffan Hemström|landning=4|fadatum=2006-06-07|sopad=Staffan Hemström|sittstart=ja|uteslutningar=ja|text=Problemet ligger på södra boulderväggen, den första du ser när du kommer från parkeringen. Starta sittande på hörnet, endast sprickan.}}
+| width="250px" |
+|}
+==Fire Away==
+För att komma till denna sektorn svänger du vänster mot Oppala i Björke. Efter ca 20m svänger du av till höger, följ denna väg förbi husen. Efter ca 1,5 km så ser du blocken på vänstersidan inne i skogen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Tänt vare´här|grad=6A|typ=Krimp,Heel hook|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2003-10-14|sopad=Daniel Hultgren|sittstart=ja|text=Går på "Fire Away blocket", längst ute till vänster.}}
+{{problem|namn=Tag betäckning|grad=5C|typ=Överhäng,Jug|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2003-10-09|sopad=Daniel Hultgren|sittstart=ja|text=Går till vänster om "Fire Away".}}
+{{problem|namn=Fire Away!|grad=7A|typ=Slopers,Pinch,Överhäng|fa=Daniel Hultgren|landning=2|betyg=3|fadatum=2003-10-15|sopad=Daniel Hultgren|uteslutningar=ja|text=Krimpen ute till vänster efter taket är utesluten, gå direkt över taket via slopern.}}
+{{problem|namn=Jopp-Hej-Di|grad=6C|typ=Krimp,Slopers|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2003-10-01|sopad=Daniel Hultgren|sittstart=ja|startgrepp=ja|text=Låg start på två små krimpar. Går på "Fire Away blocket" till höger om "Freakin´you out".}}
+| width="250px" |
+{{problem|namn=Pang i bygget|grad=3C|typ=Jug|fa=Daniel Hultgren|landning=2|fadatum=2003-10-01|sopad=Daniel Hultgren|text=Går på "Fire Away blocket" på baksidan mot skogen.}}
+{{problem|namn=Nu smäller det!|grad=4A|typ=Krimp,Jug|fa=Daniel Hultgren|landning=2|fadatum=2003-10-01|sopad=Daniel Hultgren|text=Går på "Fire Away blocket" på baksidan mot skogen.}}
+{{problem|namn=Små röda bär|grad=6A+|typ=Slopers,Jug|fa=David Hallman|landning=2|betyg=1|sopad=David Hallman|sittstart=ja|text=Gå snett uppåt höger.}}
+{{problem|namn=Stelkramp|grad=6C|typ=Krimp,Slopers,Mantling|fa=David Hallman|landning=2|betyg=1|sopad=David Hallman|text=Till höger om "Fire Away"}}
+| width="250px" |
+{{problem|namn=Freakin´you out|grad=7A|typ=Mantling,Överhäng|fa=David Hallman|landning=2|betyg=3|sopad=David Hallman|sittstart=ja|text=Till höger om "Fire Away"}}
+{{problem|namn=Fire away ss|grad=7B+|typ=Krimp,Pinch|fa=Mattias Flodin|landning=2|betyg=3|fadatum=2005-04-27|sopad=Mattias Flodin|sittstart=ja|text=}}
+{{problem|namn=Musketörerna|grad=7B+|typ=Krimp,Slopers|fa=David Hallman|landning=2|betyg=1|fadatum=2007-10-07|sopad=David Hallman|sittstart=ja|text=Sittstart. Till hö om Fire away}}
+|}
+==Hugo==
+Sväng vänster vid Björke mot Oppala. Efter järnvägen ta första vägen till höger, parkera vid vändplanen. Blocken ligger i kullen rakt fram.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Kaktus|grad=6C+|typ=Krimp|fa=David Hallman|landning=2|sopad=David Hallman|sittstart=ja|text=Ligger på det lilla blocket vid stigen, nära "Hugo" blocket. Sittstart vid areten sen snett åt vänster och uppåt.}}
+{{problem|namn=Columbus|grad=7A+|typ=Krimp,Slopers,Överhäng|fa=David Hallman|landning=3|betyg=2|sopad=David Hallman|sittstart=ja|text=Går på "Hugoblocket". Vänstra delen av "Hugo" taket, sittstart under taket, upp längs den vänstra aréten.}}
+{{problem|namn=Hugo|grad=7A|typ=Slopers,Överhäng,Jug|fa=David Hallman|landning=3|betyg=3|sopad=David Hallman|sittstart=ja|uteslutningar=ja|text=Sittstart under taket och upp igenom högra sidan av taket. Gå rakt igenom taket och ta greppet på läppen innan du går runt kanten till höger.}}
+{{problem|namn=Lätta aréten|grad=5B|typ=Highball,Aréte|fa=David Hallman|landning=3|sopad=David Hallman|sittstart=ja|text=Baksidan av "Hugo" blocket, vänstra aréten.}}
+{{problem|namn=Catch that shrimp|grad=6C|typ=Krimp,Överhäng|fa=David Hallman|landning=3|betyg=1|fadatum=2004-04-12|sopad=David Hallman|startgrepp=ja|uteslutningar=ja|text=Går på "Hugoblocket" till vänster om "Kill-O-Zap". Starta med v hand på  lilla greppet till vänster, hoppa med h hand till krimpen. Gå rakt upp inte ut på aréten.}}
+{{problem|namn=Kill-O-Zap|grad=6C+|typ=Krimp,Spricka|fa=Daniel Hultgren|landning=3|betyg=2|sopad=Daniel Hultgren|sittstart=ja|text=Går på baksidan av "Hugo blocket". Tydliga linjen mitt på väggen.}}
+{{problem|namn=Fikus|grad=6A|typ=Överhäng|fa=David Hallman|landning=2|sopad=David Hallman|sittstart=ja|text=Ligger på blocket nere vid åkern, från "Hugo" blocket följ åkerkanten ca 100m. Sittstart vid överhänget till vänster om granen.}}
+{{problem|namn=Bilbo|grad=6C|typ=Slopers,Travers V->H|fa=David Hallman|landning=3|betyg=1|sopad=David Hallman|text=Ligger på ett mindre block bredvid det stora blocket högst uppe på kullen. Sittstart till vänster följ kanten till höger.}}
+{{problem|namn=Fågel Fenix|grad=7B|typ=Slopers,Överhäng|fa=David Hallman|landning=3|betyg=2|fadatum=2005-02-05|sopad=David Hallman|sittstart=ja|text=Samma start som "Hugo" följ sedan rampen åt vänster genom taket och toppa ut rakt genom taket.}}
+| width="250px" |
+{{problem|namn=Väsen|grad=7A|typ=Krimp|fa=David Hallman|landning=4|betyg=1|fadatum=2004-11-03|sopad=David Hallman|sittstart=ja|text=Ligger på stora blocket uppe på kullen bredvid "Hugoblocket", under kojan. Går inte upp över kanten slutar på sista stora juggen.}}
+{{problem|namn=Smeagol|grad=6B+|typ=Krimp,Reach|fa=Daniel Hultgren|landning=4|betyg=1|fadatum=2005-05-05|sopad=Daniel Hultgren|sittstart=ja|text=Ligger på samma block som "Bilbo" bredvid det stora blocket högst uppe på kullen. Sittstart mitt på väggen och rakt upp.}}
+{{problem|namn=Kung Fu|grad=7A+|typ=Krimp,Överhäng|fa=David Hallman|landning=3|betyg=2|fadatum=2005-05-05|sopad=David Hallman|sittstart=ja|text=Ligger på stora blocket högst uppe på kullen. Sittstart vid trädet upp och till höger, sluta på en stor jug ute vid aréten.}}
+{{problem|namn=Hero|grad=7A+|typ=Krimp,Slopers,Highball|fa=Mattias Flodin|landning=5|betyg=2|fadatum=2005-05-02|sopad=Mattias Flodin|text=Ligger på stora blocket högst uppe på kullen. Starta till vänster om tallen gå upp och till höger. Toppa ut via sprickan.}}
+{{problem|namn=Hero ss|grad=7C+|typ=Krimp,Highball|fa=Mattias Flodin|landning=4|betyg=3|fadatum=2005-05-11|sopad=Mattias Flodin|sittstart=ja|text=Sittstart under taket.}}
+{{problem|namn=Åkesson|grad=5B|typ=Krimp,Highball|fa=Thomas Hultman, Ronny Andersson|landning=3|betyg=2|fadatum=2005-05-26|sopad=Thomas Hultman, Ronny Andersson|text=Går på höga svasidan på samma block som Bilbo}}
+{{problem|namn=De tre jugoslaverna - Bogdan|grad=-|typ=Mantling,Jug|fa=Thomas Hultman|landning=3|betyg=2|fadatum=2005-05-27|sopad=Thomas Hultman|startgrepp=ja|text=Samma sten som HUGO men till vänster om granen. etabl. med båda händerna på vänstra juggen. mantla upp på avsatsen och balansera vidare mot toppen. Lätt problem om du orkar mantla.}}
+{{problem|namn=Det gör ont!|grad=7A|typ=Aréte|fa=David Hallman Ronny Andersson|landning=3|fadatum=2005-05-30|sopad=David Hallman Ronny Andersson|sittstart=ja|text=Samma block som "Bilbo", aréten till höger om denna.}}
+| width="250px" |
+{{problem|namn=Flygande kniven lowstart|grad=7C|typ=Krimp|fa=Mattias Flodin|landning=4|betyg=2|fadatum=2005-11-05|sopad=Mattias Flodin|startgrepp=ja|text=Ligger på stora blocket på toppen av kullen. Till vänster om "väsen", start på gröna prickar.}}
+{{problem|namn=Pride|grad=7B+|typ=Slopers,Spricka|fa=Mattias Flodin|landning=3|betyg=2|fadatum=2005-11-14|sopad=Mattias Flodin|sittstart=ja|text=Stora blocket i Oppala. Starta på stenen till hö om "Hero". Rakt upp.}}
+{{problem|namn=Wu Li mästarn|grad=7A+|typ=Layback|fa=David Hallman|landning=4|fadatum=2005-11-20|sopad=David Hallman|sittstart=ja|text=Ligger till hö om "Kung fu". Samma slutgrepp}}
+{{problem|namn=Oväsen|grad=7B+|typ=Krimp|fa=Mattias Flodin|landning=3|betyg=3|fadatum=2006-05-27|sopad=Mattias Flodin|text=Problemet ligger på stora stenen i oppala, till höger om "väsen"}}
+{{problem|namn=Hugo light|grad=6B+|typ=Slopers,Överhäng,Jug|fa=David Hallman|landning=3|betyg=2|sopad=David Hallman|sittstart=ja|text=Samma problem som Hugo men utan uteslutningar, dvs det är ok att runda högerkanten från greppet mitt i taket.}}
+{{problem|namn=Davids etablering|grad=7C|typ=Överhäng,Aréte|fa=Mattias Flodin|landning=3|betyg=1|fadatum=2006-09-17|sopad=Mattias Flodin|startgrepp=ja|text=Går på baksidan av hugo blocket. Starta på gröna prickar, skick arete till vänster. sedan rakt upp.}}
+{{problem|namn=Pride festival|grad=7B+|typ=Överhäng,Highball|fa=Jon Smedsaas|landning=4|betyg=1|fadatum=2006-10-01|sopad=Jon Smedsaas|variant=ja|text=Stora blocket i Oppala. Låg sittstart till Pride, utan att sitta på stenen.}}
+{{problem|namn=Oväsen ss|grad=8A|typ=Krimp|fa=Mattias Flodin|landning=3|betyg=2|fadatum=2006-10-09|sopad=Mattias Flodin|sittstart=ja|variant=ja|text=Sittstarten till Oväsen}}
+{{problem|namn=The art of war|grad=7B+|typ=Highball|fa=M Flodin|landning=5|fadatum=2007-04-08|sopad=M Flodin|text=Till höger om Pride. Den galanta spricklinjen}}
+|}
+==Linskäkten==
+Sväng vänster i Björke mot Oppala. Kör över järnvägen, när vägen gör en 90 grader sväng åt vänster ta av åt höger in på grusväg. Kör en knapp kilometer tills vägen svänger tvärt höger, sväng då av vänster (skylt Linskäkt). Första blocket finns ca 20m in till vänster.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Old mans crimp|grad=6B|typ=Krimp|fa=David Hallman|landning=2|betyg=1|sopad=David Hallman|sittstart=ja|startgrepp=ja|text=Ligger på det första blocket man kommer till efter att man svängt av mot Linskäkten, till vänster inne i skogen. Ligger på baksidan av blocket. Start på två små krimpar.}}
+{{problem|namn=Señorita|grad=6A|typ=Slopers|fa=David Hallman|landning=2|sopad=David Hallman|sittstart=ja|text=Ligger på det första blocket man kommer till efter att man svängt av mot Linskäkten, till vänster inne i skogen. Till höger om "Old man's crimp"}}
+{{problem|namn=Jack Sparrow|grad=6C|typ=Slopers,Layback|fa=Daniel Hultgren|landning=2|betyg=2|sopad=Daniel Hultgren|sittstart=ja|text=Ligger på det första blocket man kommer till efter att man svängt av mot Linskäkten, till vänster inne i skogen. Följer aréten åt höger upp till "slopkoppen" sedan mantling.}}
+{{problem|namn=Black Pearl|grad=6B+|typ=Mantling,Aréte|fa=Daniel Hultgren|landning=2|betyg=1|sopad=Daniel Hultgren|sittstart=ja|text=Ligger på det första blocket man kommer till efter att man svängt av mot Linskäkten, till vänster inne i skogen. Följer aréten åt vänster till stora "slopkoppen" sedan mantling.}}
+{{problem|namn=Davids travers|grad=7A|typ=Slopers,Travers H->V|fa=David Hallman|landning=2|betyg=2|sopad=David Hallman|sittstart=ja|text=Ligger på det första blocket man kommer till efter att man svängt av mot Linskäkten, till vänster inne i skogen. Låg travers på baksidan av blocket.}}
+{{problem|namn=Lingon dans|grad=6A+|typ=|fa=David Hallman|landning=2|sopad=David Hallman|sittstart=ja|text=Ligger på ett block på andra sidan vägen från "Salut" blocket. Det vänstra problemet på blocket.}}
+{{problem|namn=Håll i hålet|grad=6C|typ=|fa=David Hallman|landning=2|sopad=David Hallman|sittstart=ja|text=Ligger på blocket inne i skogen på andra sidan vägen från "Salut" blocket. Problemet till höger på blocket.}}
+| width="250px" |
+{{problem|namn=Salut|grad=7A+|typ=Slopers|fa=David Hallman|landning=3|betyg=3|fadatum=2004-09-29|sopad=David Hallman|startgrepp=ja|text=Ligger på jätte blocket vid ån.Nära linskäkten}}
+{{problem|namn=Fly and cry|grad=7A+|typ=Krimp,Dyno|fa=Mattias Flodin|landning=2|betyg=2|fadatum=2005-04-27|sopad=Mattias Flodin|text=Ligger vid linskäkten, på blocket vid vägen. Ståstart vid areten.}}
+{{problem|namn=Fly in my eye|grad=7A|typ=Krimp,Slopers|fa=David Hallman|landning=2|betyg=1|fadatum=2005-04-27|sopad=David Hallman|sittstart=ja|text=Ligger vid linskäkten på blocket vid vägen. Sittstart till vänster på väggen vid den tydliga rampen, upp till kanten följ den till höger och toppa ut mitt på blocket.}}
+{{problem|namn=Salut ss|grad=7B+|typ=Slopers,Överhäng,Reach|fa=David Hallman|landning=4|betyg=3|fadatum=2005-05-10|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Squel like a pig|grad=7A+|typ=Överhäng|fa=Mattias Flodin|landning=4|betyg=2|fadatum=2005-05-11|sopad=Mattias Flodin|text=Börja på den tydliga hyllan till höger om "Salut" toppa ut på samma ställe.}}
+{{problem|namn=Just fly|grad=7B+|typ=Krimp,Överhäng|fa=Mattias Flodin|landning=2|betyg=1|fadatum=2005-05-11|sopad=Mattias Flodin|sittstart=ja|uteslutningar=ja|text=Variant på "Fly in my eye" starta på samma ställe gå upp utan att använda aréten.}}
+{{problem|namn=Fula gubben|grad=7A|typ=Krimp|fa=David Hallman|landning=3|fadatum=2005-05-31|sopad=David Hallman|sittstart=ja|text=Ligger vid Linskäkten, på stenen på högersida av vägen. Sittstart mitt på väggen, gå upp till vänster.}}
+{{problem|namn=Lucky Luke|grad=7B|typ=Krimp|fa=David Hallman|landning=2|betyg=2|fadatum=2005-10-19|sopad=David Hallman|sittstart=ja|text=Fly and Cry blocket, på väggen till höger om "Fly and Cry", sittstart vid den högra aréten. Två finger crimp.}}
+{{problem|namn=Gasten|grad=6C+|typ=Slopers|fa=David Hallman|landning=3|betyg=3|fadatum=2005-10-19|sopad=David Hallman|sittstart=ja|text=Fly and cry blocket, på andra sidan från "Fly and Cry". Problemet längst till höger på den sidan, sittstart och upp via slopiga grepp.}}
+| width="250px" |
+{{problem|namn=pingvin traversen|grad=7B|typ=Travers H->V|fa=Mattias Flodin|landning=3|betyg=2|fadatum=2005-10-21|sopad=Mattias Flodin|sittstart=ja|text=starta som pingvinmannen, traversera vänster.ligger vid Linskäkten, stora blocket}}
+{{problem|namn=Fly and cry etablering|grad=7C+|typ=Överhäng|fa=Mattias Flodin|landning=3|betyg=3|fadatum=2005-10-21|sopad=Mattias Flodin|variant=ja|startgrepp=ja|text=Ett move från sittstart. Linskäkten}}
+{{problem|namn=By the riverside|grad=6B|typ=Krimp|fa=David Hallman|landning=3|betyg=2|fadatum=2005-12-15|sopad=David Hallman|sittstart=ja|text=Fint problem som ligger mellan de stora blocken på ängen vid linskäkten, på det vänstra blocket, längst till höger ner mot ån.}}
+{{problem|namn=Norpan|grad=7A|typ=Krimp|fa=David Hallman|landning=3|betyg=1|fadatum=2006-05-21|sopad=David Hallman|sittstart=ja|text=Ligger på Fly and Cry stenen, på andra sidan blocket från F&C, sittstart till vänster på väggen, gå snett uppåt höger via några små krimpar.}}
+{{problem|namn=Fly and Cry assis|grad=8A|typ=Överhäng|fa=David Hallman|landning=3|betyg=3|fadatum=2006-10-06|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Pingvinmannen|grad=6C+|typ=Krimp,Slopers|fa=David Hallman|landning=3|betyg=2|sopad=David Hallman|sittstart=ja|text=På "Fly and Cry" blocket, på andra sidan från F&C, sittstart vid ett stort undercling, gå upp och åt vänster.}}
+{{problem|namn=Skräckblandad förtjusning|grad=6A+|typ=Dyno,Jug|fa=Ronny A, Robert W|landning=3|betyg=1|fadatum=2007-04-12|sopad=Ronny A, Robert W|startgrepp=ja|text=Starta på den övre listen, dyno till kanten. En toklång variant kan göras från den nedre listen.}}
+|}
+==Midgård==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Skogens vänner|grad=6A|typ=Överhäng,Jug|fa=Patrick O, Ronny A|landning=3|betyg=2|fadatum=2006-10-28|sopad=Patrick O, Ronny A|sittstart=ja|text=Starta vid pilarna i de tydliga "inomhusgreppen" gå upp åt höger och toppa ur rakt upp.}}
+{{problem|namn=Synd på greppet|grad=6B+|typ=Krimp,Reach,Jug|fa=Patrick O, Ronny A|landning=3|betyg=2|fadatum=2006-10-28|sopad=Patrick O, Ronny A|sittstart=ja|text=Starta vid pilarna. Samma start som Skogens vänner, men gå rakt upp.}}
+{{problem|namn=Death in the shape of a Madrock Mugen|grad=6A|typ=Reach,Jug|fa=Patrick O, Ronny A|landning=3|betyg=3|fadatum=2006-11-29|sopad=Patrick O, Ronny A|sittstart=ja|text=Problemet går vi gröna pilen. Starta vid vänstra aréten gå rakt upp via juggarna.}}
+{{problem|namn=The Escape from Madrock Mugen|grad=6B|typ=Dyno|fa=Ronny A, Patrick O|landning=3|betyg=2|fadatum=2006-11-29|sopad=Ronny A, Patrick O|text=Starta på översta juggen på Death in the shape..... Dyno till kanten.}}
+{{problem|namn=Save it for the ladies|grad=5B|typ=Aréte,Reach,Jug|fa=Patrick Olander|landning=3|fadatum=2007-03-27|sopad=Patrick Olander|sittstart=ja|text=Går på det lilla blocket strax före vändplanen i Midgård. Går på den västra aréten på sidan som vätter mot vägen, starta på hyllan och sen rakt upp till kanten.}}
+{{problem|namn=P.L.Ä.P|grad=7A|typ=Krimp,Dyno,Reach|fa=Patrick Olander|landning=3|betyg=1|fadatum=2007-03-28|sopad=Patrick Olander|sittstart=ja|text=Startar till höger om (save it for the ladies) förslagsvis med pinch/sidepull för högerhanden och crimp för vänster och sedan rakt upp (se bild)}}
+{{problem|namn=Laces untied|grad=6A+|typ=|fa=Robert Westberg|landning=3|betyg=1|fadatum=2007-03-27|sopad=Robert Westberg|sittstart=ja|text=Går till höger om P.L.Ä.P och använder pinchen från denna för vänsterhanden och crimp för högerhanden skicka med höger till sidepull/jug och ta dig sen över kanten.}}
+{{problem|namn=S.U.W.U|grad=7A+|typ=Krimp,Highball|fa=Patrick O, Tommi M|landning=3|fadatum=2007-03-29|sopad=Patrick O, Tommi M|text=Går på det stora blocket vid vägen ca 100m innan vändplanen i midgård. ståstart ca 1m till höger om den vänstra aréten på sidan som vätter mot vägen. Rakt upp till toppen inga konstigheter.}}
+| width="250px" |
+{{problem|namn=Pärts knogar|grad=6B|typ=Layback|fa=Patrick Olander|landning=3|betyg=3|fadatum=2007-03-30|sopad=Patrick Olander|text=Ta vänster innan vägen som går mot vändplanen i Midgård. efter ca 100m ta vänster igen in i skogen gå ca 70-80m och du ska se ett 5-6m högt block på höger sida, problemet går 1m från den vänstra aréten vid den gröna pilen. ståstart rakt upp till kanten.}}
+{{problem|namn=Aréteskicket|grad=7A|typ=Dyno,Aréte|fa=Patrick O, Robert W|landning=3|betyg=1|fadatum=2007-03-30|sopad=Patrick O, Robert W|uteslutningar=ja|text=går på aréten till vänster om perts knogar,se perts knogar för info om var blocket ligger. Starta med händerna på de med grönt kryss markerade greppen och sen dyno till kanten eller sidepull strax under kanten. Används valfria grepp är graden 6B.}}
+{{problem|namn=fragglarna|grad=6C|typ=|fa=David H|landning=2|betyg=2|fadatum=2007-04-09|sopad=David H|sittstart=ja|text=sons of guns blocket. traversen från janssons frestelse. Se bild på Sons of Guns problemt för att se hur fragglarna går.}}
+{{problem|namn=Cool aid|grad=6B+|typ=Krimp,Slopers,Jug|fa=Patrick O, Martin Pärt|landning=4|betyg=2|fadatum=2007-04-11|sopad=Patrick O, Martin Pärt|text=Rakt up på aréten till vänster om S.U.W.U för info om blockets läge se S.U.W.U.}}
+{{problem|namn=The Ronin|grad=6A+|typ=Krimp,Reach,Jug|fa=Patrick O, Martin Pärt|landning=2|betyg=2|fadatum=2007-04-11|sopad=Patrick O, Martin Pärt|text=Går vid aréten till höger om S.U.W.U aréten utesluten.}}
+{{problem|namn=Greenthings|grad=6C|typ=Slopers,Layback,Jug|fa=Patrick O, Martin Pärt|landning=1|betyg=3|fadatum=2007-04-11|sopad=Patrick O, Martin Pärt|sittstart=ja|text=Går på baksidan av S.U.W.U-blocket vid den högra aréten. sittstart vid grön pil först skick rakt, gå sen snett upp åt höger}}
+{{problem|nr=1|namn=Jasså Janssons frestelse är en vätska?|grad=7A+|typ=Krimp|fa=Patrick O, Robert W|landning=3|fadatum=2007-03-15|sopad=Patrick O, Robert W|startgrepp=ja|text=Går på Sons of Guns blocket precis till höger om Sons of Guns. Starta till höger om taket vid pilen på sidepull och crimp. Gå sedan vänster och upp över taket.}}
+| width="250px" |
+{{problem|nr=2|namn=Sons of Guns|grad=7C|typ=Krimp,Överhäng,Highball|fa=Patrick O|landning=3|betyg=3|fadatum=2007-03-17|sopad=Patrick O|uteslutningar=ja|text=Starta under taket på Sons of Guns blocket och gå rakt upp genom taket. Aréten till vänster är utesluten.}}
+{{problem|nr=3|namn=S.O.G.W.A|grad=6B|typ=Krimp,Reach|fa=Ronny A|landning=2|betyg=2|fadatum=2007-03-17|sopad=Ronny A|sittstart=ja|text=Går till höger om Jasså Janssons fre...... Starta på den lilla hyllan vid pilen, gå rakt upp till den stora rampen och följ den upp till höger. Avsluta med att mantla upp på jättehyllan. Lite morpho i starten.}}
+{{problem|nr=5|namn=Stölden från S.O.G|grad=5C|typ=Aréte,Jug|fa=Ronny A|landning=3|betyg=2|fadatum=2007-03-17|sopad=Ronny A|text=Går på stenen närmast järnvägen vid Sons of Guns blocket. Aréten mot järnvägen.}}
+{{problem|nr=6|namn=Skalle Pär|grad=5A|typ=Jug|fa=Janne A, Maria O|fadatum=2007-03-24|sopad=Janne A, Maria O|startgrepp=ja|text=Går på det mindre blocket framför Sons of Guns blocket.Starta på juggen och följer sen kanten för att kliva upp sen.}}
+{{problem|nr=7|namn=Ronja|grad=5C|typ=Aréte|fa=Janne A, Maria O|fadatum=2007-03-26|sopad=Janne A, Maria O|startgrepp=ja|text=Går på ett block som ligger en bit bakom Sons of Guns blocket. Starta med vänstern på areten och höger på en list, gå vidare med högern på areten, matcha med vänstern, flytta högerhanden till listen som går lodrätt på högersida, och toppa upp.}}
+{{problem|nr=8|namn=Överhäng|grad=6A+|typ=Mantling,Överhäng,Jug|fa=Ronny A|landning=5|betyg=1|fadatum=2007-03-29|sopad=Ronny A|sittstart=ja|startgrepp=ja|text=Går på Överhängsblocket. Starta sittande vid pilen nere i grottan. Händerna på den "diagonala" hyllan, gå snett upp åt vänster till jättehyllan. Skicka sedan till kanten.}}
+{{problem|nr=9|namn=Lilla Midgårds aréten|grad=5B|typ=Layback,Mantling|fa=Ronny A|landning=3|fadatum=2007-03-29|sopad=Ronny A|sittstart=ja|text=Går på överhängsblocket på aréten tll vänster om "Överhäng" följ aréten upp. Starta vid pilen.}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Bland kottar & barr|grad=6C|typ=Mantling,Överhäng|fa=David Hallman|landning=2|fadatum=2004-04-15|sopad=David Hallman|sittstart=ja|text=Startar sittande under ett brant överhäng.}}
+{{problem|namn=Bomber och granater|grad=6B|typ=Dyno|fa=David Hallman|landning=3|betyg=2|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Minihulken|grad=6B+|typ=Aréte|fa=David Hallman|landning=2|betyg=1|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=Onkel konkel|grad=5C|typ=Krimp,Slopers|fa=David Hallman|landning=2|betyg=1|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Krumelur|grad=5A|typ=|fa=David Hallman|landning=1|betyg=2|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Mini me|grad=6C|typ=Krimp,Slopers,Slab|fa=David Hallman|landning=2|betyg=2|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=ganska kort men fint problem}}
+| width="250px" |
+{{problem|namn=Corn|grad=5A|typ=|fa=David Hallman|landning=1|betyg=1|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Lätt som en fjärt|grad=4C|typ=|fa=David Hallman|landning=2|betyg=1|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

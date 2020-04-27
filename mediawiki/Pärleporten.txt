@@ -1,0 +1,68 @@
+{{info klippa
+  |lat=58.452044
+  |long=11.46492
+}}
+
+{{komplett}}
+
+==Allmänt==
+Pärleporten är en vacker västvänd vägg i botten av Åbyfjorden som säkerligen alla förbipasserande uppmärksammat men som de flesta inte klättrat på. Klippan utvecklades så sent som 2005 och har fram till idag 10st leder. Klippan är inte särskilt nybörjarvänlig även om föraren visar 5+. För att trivas här bör du vara god för grad 7 och för att älska stället bör du klättra grad 8 eller 9, först då kommer Pärleporten fram i all sin praktfullhet.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.467669" lon="11.484146" width="350">
+58.452044, 11.46492
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Från E6, kör mot Lysekil och sväng höger mot Kungshamn. Efter fyra kilometer dyker Åbyfjorden upp på vänster sida. Precis innan busshållplatsen i mötande fil finns det en liten traktorväg som man kör på över åkern, klippan dyker upp på din vänstra sida efter ca 500m. Kör förbi klippan och parkera på platserna längre fram. Platserna på vänster sida av vägen hör till huset!
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+===Huvudväggen===
+[[Bild:Pärleporten.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Styx|grad=7|typ=trad|betyg=1|bultar=|längd=30|fa=[[Jappe Pålsgård]] -05|text=Den tydliga sprickan till vänster i väggen. En led för dem med vuxen smak!}}
+
+{{led|nr=2|namn=Skärselden|grad=8|typ=trad|betyg=2|bultar=|längd=30|fa=[[Geir Arne Bore]] -05|text=Hjälp, underarmarna brinner upp! Välsäkrad och goda grepp... men då kan det väl inte vara så svårt? Prova!!! Första 10 m som Styx så diagonalt till höger tvärs över hela väggen.}}
+
+{{led|nr=3|namn=Krypa till korset|grad=5+|typ=trad|betyg=1|bultar=|längd=30|fa=[[Eirik Nordhaug, Jappe Pålsgård]] -08|text=En spännande resa som innehåller både ålning och hangling.}}
+
+{{led|nr=4|namn=Dags att deklarera|grad=8+|typ=trad|betyg=3|bultar=|längd=30|fa=[[Geir Arne Bore]] -05|text=Nödvändig delexamen för dr-grad i bohusklättring. Lika krävande mentalt som fysiskt.}}
+
+{{led|nr=5|namn=Tro som Illusion|grad=7+|typ=trad|betyg=2|bultar=|längd=20|fa=[[Eirik Nordhaug Jappe Pålsgård (ledd av både fadern och sonen)]] -08|text=Tung och analytisk spricklinje. Få men goda säkringsmöjligheter med vanligt bohusrack.}}
+
+{{led|nr=6|namn=Stigma|grad=8|typ=trad|betyg=2|bultar=|längd=20|fa=[[Geir Arne Bore]] -06|text=Vänstervänt dieder leder till tak och tunn spricka.}}
+
+{{led|nr=7|namn=Gåva till nyskild kvinna|grad=7-|typ=trad|betyg=1|bultar=|längd=20|fa=[[Anita Rostén, Jappe Pålsgård]] -06|text=Fin och finurlig led. Man får mycket för pengarna. Lite skrotigt dieder för vidare via vägg till blockigt tak (12 m). Gåtfullt genom detta och så till toppen via rampspricka till vänster.}}
+
+{{led|nr=8|namn=Gave till slaktern's sønn|grad=8-|typ=trad|betyg=1|bultar=|längd=20|fa=[[Åsmund Bjørnestad]] -08|text=Ett fint minimalistisk dieder 6m. Kliv till vänster och upp liten vägg som  led 7 till tvärsprickan. Följ denna 2m till höger och svinga genom det stora taket.}}
+
+{{led|nr=9|namn=Pärlor till mor|grad=7|typ=trad|betyg=3|bultar=|längd=20|fa=[[Ulrika Tiegs]] -08|text=Start 4m till höger om led 8. Buldrig start via tvärspricka till tunn spricka som leder vidare i en serie små diedrar skilda med små tak.  En härlig tipspromenad.}}
+
+{{led|nr=10|namn=Pärla från far|grad=7/7+|typ=trad|betyg=1|bultar=|längd=20|fa=[[Jappe Pålsgård]] -08|text=Rätt lätt upp till taket, sedan trynar du (i goda säkringar) om du har gjort analysen felaktigt – och det har du nog!}}
+|}
+
+==Film==
+2a repetitionen av Dags att deklarera
+[http://vimeo.com/5693146]
+
+[[Kategori:trad]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+[[Kategori:Bohuslän]]

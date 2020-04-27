@@ -1,0 +1,187 @@
+{{info klippa
+  |lat=61.109522222222225
+  |long=14.284425
+}}
+
+{{komplett}}
+
+==Allmänt==
+Granitklippa på Garberget mellan Mora och Älvdalen.
+
+== Beskrivning ==
+Garberget ligger mittimellan Mora och Älvdalen i norra Dalarna och kan skymtas från riksväg 70 när man åker förbi. Klippan "upptäcktes" i mitten av 80-talet och så gott som samtliga leder är gjorda mellan 1989-1991 av Erik Wadman, Micke Hellberg och Erik Hansson. Klippan är röd garbergsgranit med bra kvalitet, tyvärr är det ont om rena spricklinjer (även om de finns) och de flesta leder är utrustade med gamla 8mm borrbultar som tyvärr börjar bli i dåligt skick. Byte av de gamla bultarna är påbörjat av Dalarnas KK. Det rekomenderas att avvända topprep på de bultleder som inte fått nya bultar och leda på tradturerna. Skisser och ledbeskrivningar är tagna från Erik Wadmans förare från 1991 med några mindre ändringar. Lederna har nummer målade vid insteget och är uppräknade från vänster till höger. Några nya leder har gjorts efter målningen av numren varför de inte inte står i helt kronoligisk ordning i texten.
+
+== Vägbeskrivning ==
+<div style="float: right; margin: 6px; border: solid 1px gray;">
+<googlemap lat="61.109522222222225" lon="14.284425" zoom="11" width="350" height="200" type="map">
+61.109522222222225,14.284425,Garberg
+</googlemap>
+</div>
+Från Mora, åk RV70 mot Älvdalen. Efter ca. 20km kommer Ni till en rastplats vid Sputmosjön på vänster sida, parkera här. Gå tillbaka mot Mora 150 meter och in till vänster på en stig mittimot en liten avtagsväg (alternativ parkering). Följ stigen in i skogen, över kraftledningsgatan och och vänster upp på en brant rygg som följ till toppen. Ca. 20 minuters (brant) anmarsch. Väl på toppen är det lättast att orientera utifrån eldstaden ovanför klippan. Väggen i skogen och Svaet ligger längre upp i skogen NV om själva klippan. '''[[Garberg/Karta över området|Karta över området]]'''
+
+<div style="clear: both"></div>
+
+
+== Camping ==
+Fint att tälta på toppen, men mycket jobbigt att bära upp tältet... Tältplatser går även att hitta i skogen neranför berget.
+
+{{sidbrytning}}
+== Vänstra delen ==
+https://lh4.googleusercontent.com/-5Eq37Hsmgxs/UZ_evUdrxcI/AAAAAAAAEnQ/zZQqlLNxSrc/s512/garberg%2520v%25C3%25A4nster.jpg
+
+===Övre väggen===
+Liten vägg som ligger ovanför stora väggens vänstra kant.
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=23|namn=Babylon|grad=3+|längd=8|text=Lätt och välsäkrat hörn till vänster på väggen. Mycket bra nybörjarled för den som vill prova att leda eller för topprep. Blocken vid utsteget är lösa, sätt inga säkringar i dem. Små kamkilar bra att ha men inte nödvändiga.}}
+{{led|nr=22|namn=Blod, svett och tårar|grad=5-|längd=6|text=Mystisk mantling, har fått många att backa}}
+|}
+
+===Stora väggen===
+Stora väggen har den minsta lutningen (ca.70 grader). Här finns flera fina leder runt 25 meter. Små stoppers och mässingskilar kan vara bra på vissa leder.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=1|namn=Perestrojka|grad=6|längd=10|text=Fint tunt spricksystem längst ner till vänster på stora väggen. Kan vara ganska seriöst att onsighta om man inte har god marginal på graden. Pilliga men rätt bra säkringar.}}
+
+{{led|nr=2|namn=Glasnost|grad=6|längd=25|text=Superfin men något seriös led! Följ fingersprican tills den dör ut, gå sedan 5 meter snett upp åt höger. Följ sprickan till höger om areten och rakt upp. Tunn vägg och sprick klättring som går att säkra bra med små kilar och friends om man anstränger sig.Går bra att klättra med enkelrep men dubbelrep är till viss fördel.}}
+
+{{led|nr=24|namn=Dyr bensin|grad=6+|längd=22|text=Går till vänster om Hormoslyr. Kan upplevas som både svår och läskig. 2 bb+kilar. Borrbultar bytta-07}}
+
+| width="250px" |
+
+{{led|nr=3|namn=Hormoslyr|grad=6|längd=22|text=Småstegsklättring på ett brant sva leder upp till första borrbulten (möjligt att peta in en liten stopper före) och förbi ett litet tak och en ringbult (trä slinga genom ringen för att undvika karbinbrott). Fortsätt uppför högra delen av plattan med sikte på nästa borrbult och rakt upp till toppen. Rekomenderas. Borrbultar bytta-07}}
+
+{{led|nr=4|namn=Fåsås|grad=5-|längd=23|text=Bergets superklassiker. Starta i en spricka längst till höger på den stora hyllan nedanför stora väggen, rakt över blocket och upp till höger på skivan. Ett svakliv åt vänster leder upp till det upp och nedvända V:et som klättras på goda grepp (säkras med en kil 1,5 m till vänster som är lätt att missa). Fortsätt rakt upp via ett dieder med ett par gamla bankbultar och lite meckiga kilar, utsteg snett åt vänster.}}
+
+| width="250px" |
+
+{{led|nr=5|namn=Marcos travers|grad=3|längd=35|text=Insteg från en stor tall i mitten av stora väggens vänstra kant. Uppbruten klippa snett upp åt höger leder till aret. Gå runt denna och följ ett hyllsystem åt höger. Klättra upp i högra delen av stora väggen (rostig bult).}}
+
+{{led|nr=6|namn=Bakvändheten|grad=6|längd=10|text=Pumpande sprickklättring med avigt krux. Efter skivans topp följer man led 4 eller 7. Använd ej led 7 i starten. Mycket mossig.}}
+
+{{led|nr=7|namn=Tripp, trapp, trull|grad=4+|längd=2|text=Startar i hörnet till höger om stora väggen, sedan rakt upp i spricksystemet. Låt dig inte avskräckas av den lite svårsäkrade starten. Ganska ihållande och fin för sin grad om man inte kliver ut på några hyllor. Kan fungera OK att göra en standplats halvvägs för den som vill träna flerrepors klättring. Rekomenderas.}}
+|}
+
+===Bizarrväggen===
+20 meter lång och 10 meter hög vägg direkt till höger om stora väggens övre högra hörn.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=8|namn=Röda rumpan|grad=5|längd=13|text=Mantlingen 2 m upp krux, när lutningen avtar klättra snett upp åt höger. Tyvärr dåligt säkrad. }}
+
+{{led|nr=9|namn=64-åringen|grad=6+|längd=10m |text=Kultled. Fin klättring längs flakformationen med ett tungt, välsäkrat krux förbi andra borrbulten sedan snett åt höger. Lite känslig efter att man gjort kruxet. Ta med några kilar. Nya bultar 2007.}}
+
+| width="250px" |
+
+{{led|nr=10|namn=Smisk|grad=7-|längd=10|text=Brant, tunt och balansartat kruxparti på mitten. Numera helbultad. Mycket fin klassiker. Nya bultar 2012.}}
+
+{{led|nr=41|namn=Projekt|text=Mycket svårt öppet projekt. Vertikal väggklättring på små grepp. Bultar från 2013.}}
+|}
+=== Mittväggen ===
+Låg, brant vägg nedanför eldstaden.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=21|namn=Chief Maou|grad=6-|längd=13|text=Boulderinsteg, sedan upp till vänster om tallen.}}
+
+{{led|nr=11|namn=Mantlingen|grad=6|längd=8|typ=sport|text=Lärorik och spännande balansakt. En borrbult bytt-07.}}
+
+{{led|nr=25|namn=Lho La|grad=7|bultar=3|typ=sport|längd=8|text=Leden blir 7- om man går lite mer till höger i slutet. 3 borrbultar.}}
+
+| width="250px" |
+
+{{led|nr=12|namn=Norelleden|grad=6|längd=6|text=Kort men rolig.}}
+
+{{led|nr=13|namn=Boulderlayback|grad=5-|längd=5|text=Stor spricka i hörnet nedanför eldstaden. Ganska fin led vars enda egentliga nackdel är att den är lite väl kort.}}
+|}
+== Högra delen ==
+https://lh4.googleusercontent.com/-vnL0IViBeT4/UZ_evV7_nNI/AAAAAAAAEnU/EbFK_aRCBdY/s640/garberg%2520h%25C3%25B6ger.jpg
+
+=== Högra väggen ===
+Brant, Hykiebergsliknande kvalité på klippan. Här går några av de svåraste lederna i Garberg.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=14|namn=Areten|grad=6-|längd=5|text=Syns från eldstaden. Luftigt insteg till höger om areten.}}
+
+{{led|nr=26|namn=Direktinsteg till areten|grad=4|text= Spricka rakt nedanför areten, till vänster om Dicks led.}}
+
+{{led|nr=27|namn=Dicks led|grad=6+|längd=17|typ=mix|text=Mycket fin och underhållande väggklätttring i nedre delen och tunnare klättring i slutet. 3bb och kilar (små till medelstora). Det är möjligt att klättra upp till hyllan med borrbultarna och en kil och sedan bygga ett eget firningsankare med kilar på hyllan och fira ner innan den övre halvan som har en helt annan karaktär, både på klättringen och säkringarna. Det är lätt men lite luftigt att gå upp och ut på hyllan för att hämta ankaret efteråt. Borrbultar bytta 07}}
+
+{{led|nr=28|namn=Bussen till Jiri|grad=7|längd=18|typ=mix|text=Svagt överhängande och knepig väggklättring av mycket hög kvalitet. Toppväggen klart knepig. Borrbultarna gamla men fräscha. 6bb+1kil.}}
+
+{{led|nr=29|namn=Discount|grad=7-|längd=17|typ=mix|text=Krux strax före det lite känsliga svaet. 4bb+1kil.}}
+
+| width="250px" |
+
+{{led|nr=30|namn=Mats led|grad=6|längd=16|typ=mix|text=Lite klurigt krux vid utsteget. 3bb+ småkilar.}}
+
+{{led|nr=15|namn=Torselledden|grad=6+|längd=16|typ=sport|text=Brant och pumpande väggklättring med en bivackhylla på mitten. Fin led med krux på utsteget. 4bb.}}
+
+{{led|nr=31|namn=Flaket vänster|grad=6-|längd=15|text=För denna och följande led gäller att det är förenat med hälsofara att dra för mycket i flaket. Eventuellt kommer båda lederna upphöra att existera inom en snar framtid.}}
+
+{{led|nr=32|namn=Flaket höger|grad=3}}
+
+{{led|nr=16|namn=Åskledaren|grad=6|längd=12|text=En tunn och svårsäkrad spricka leder upp till två borrbultar, små ball-nuts är förmodligen det som fungerar bäst för att säkra sprickan. Roligt krux efter första borrbulten. Mycket fin men lite seriös.}}
+
+| width="250px" |
+
+{{led|nr=17|namn=Riksha|grad=6-|typ=sport|längd=12|text=Mycket fin och numera helbultad led. Blivande klassiker. Sex nya borrbultar satta 2013.}}
+
+{{led|nr=18|namn=En fin historia|grad=5+|längd=12|typ=trad|text=En led som verkligen gör skäl för sitt namn! En tunn sricka leder upp till det tydliga hörnet som klättras på bra grepp och jam till toppen. Småkilar och möjligen en birdbeak i nedre halvan. Rekomenderas.}}
+
+{{led|nr=19|namn=Andremannens GP|grad=6+/7-|längd=12|typ=mix|text=Använd inte sprickan till vänster. Mothängande, välsäkrat krux med sekvens åt höger. Gamla bultar med märkliga placeringar. Ta med kilar.}}
+
+{{led|nr=33|namn=Projekt|grad=?}}
+
+{{led|nr=20|namn=Påhlssons problem|grad=3+|längd=12|text=Klättra via hyllan med enbusken och upp i det stora hörnet. En ganska fin lätt led som tyvärr helt saknar säkringsmöjligheter i nedre delen.}}
+|}
+
+=== Bouldertraversen ===
+Om man fortsätter förbi högra väggen åt höger så hittar man en ca. tre meter hög och tio meter lång bouldervägg som bjuder på en underhållande och varierande travers med en fin vila på mitten.
+
+== Väggen i skogen ==
+https://lh6.googleusercontent.com/-_Rca5hGX0i8/UZ_evIKyc2I/AAAAAAAAEnM/UmnVONss7do/s640/garberg%2520skogen%2520.jpg
+
+=== Väggen i skogen ===
+Väggen i skogen har några fina leder men är tyvärr mycket mossig. Förhoppningsvis kommer även denna vägg att borstas fram  men än så länge är fokus på att rensa huvudklippan. 
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=34|namn=?|grad=6-|längd=6|text=Längst till vänster.}}
+
+{{led|nr=35|namn=Yeti|grad=8-|längd=9|text=Juggen på mitten är 3+. 2bb+1 U-bult som kan förstärkas med en dunderkil. Leden fick en "nyborstning" 2003.}}
+
+{{led|nr=36|namn=?|grad=6-|längd=9|text=Lite svårsäkrad led med ett överaskande sva på slutet.}}
+
+{{led|nr=37|namn=Projekt?|grad=?|text=Sprickan. Möjligen klättrad av Daniel Bidner tidigt 90-tal.}}
+
+| width="250px" |
+
+{{led|nr=38|namn=Mora mega|grad=7|längd=10|typ=mix|text=2 borrbultar och ett par kilar.}}
+
+{{led|nr=39|namn=Mora link|grad=6+|längd=9|typ=trad|text=Balansartat och lätt pumpande längs den vänstra sprickan. Kilar och friends.}}
+
+{{led|nr=40|namn=Mora soft|grad=6-|längd=8|typ=trad|text=Fin led som följer den högra sprickan. Ta med små kilar.}}
+|}
+
+=== Svaet ===
+Liten svaplatta ovanför vägggen i skogen.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=42|namn=Svaet|grad=5-|längd=6|text=Rakt upp mitt på svaet.}}
+
+| width="250px" |
+
+{{led|nr=43|namn=Sprickan|grad=3-|längd=4|typ=trad|text=Spricka i högerkanten. Mycket välsäkrad.}}
+|}
+
+[[Kategori:Dalarna]] [[Kategori:Sport]] [[Kategori:Trad]] [[Kategori:Sva]] [[Kategori:Vertikalt]]

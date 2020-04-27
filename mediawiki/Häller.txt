@@ -1,0 +1,266 @@
+{{info klippa
+  |lat=58.429853
+  |long=11.468697
+}}
+
+{{utkast}}
+== Introduktion ==
+  
+== Karaktär ==
+Klassisk sprick och vägg-klättring. Häller och inbefattas av Bohusläns Klätterklubbs bultpolicy om att hållas bultfria i framtiden.
+
+På denna klippa finns tilläggsgraderingarna R och X.
+'''R''' står för "runout" och betyder att det finns risk för långa fall.
+'''R/X''' är ett mellanting mellan R och X och betyder att det finns risk för allvarliga skador även om man utnyttjat klippans säkringsmöjligheter.
+'''X''' betyder att det finns risk för extremt långa fall, där ett fall på fel ställe kan leda till döden.
+
+== Vägbeskrivning ==
+<googlemap version="0.9" lat="58.426168" lon="11.455307" type="map" zoom="11" width="300" height="300" selector="no" controls="small">58.429853, 11.468697,Häller</googlemap>
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja|förförare bohuslän (2012)=ja}}
+
+==Access {{access}}==
+===Viktig uppdatering Maj 2009=== 
+Allvarliga övertramp gentemot markägare, se [http://www.klatterforbundet.se/nyheter.php?id=188]. Var extremt noga med att visa hänsyn mot markägare.
+
+{{AccessDB|klippa=haller}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parking is the main access issue at Häller. Please pay careful attention not to park so that your car gets in the way for the farmer to do his job. Park at the small designated parking lot next to his house and pay the 20 SEK fee. If the lot is full please park elsewhere - not on his courtyard or on the dirtroad leading up to the farm. 
+
+There has been reports about nesting kestrels at Häller, mainly on the ledge above the first pitch of "Tor line" and the ledge above "Tratten". Act accordingly i.e. do not climb in the vicinity of these ledges in the springtime, March - June. Note that some sectors of the cliff might be entirely closed-down in the spring due to nesting birds.
+
+In general all the standard access issues apply to Häller - therefore keep a low profile. Know that we are climbing on someone else´s property and behave in accordance with this. If "you have-to-go" make sure to dig it down deep or wait until later.... Leave no trace! If the cliff looks crowded go somewhere else for a couple of hours - there is plenty to choose from!
+
+==Leder==
+=== Klart Svår-Väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Norrbaggen|grad=7-|betyg=0|längd=20|fa=[[Kristina Pålsgård]]
+ |typ=trad|text=Allra längst till vänster. Crashpad og liten cam for å sikre starten.}}
+
+{{led|namn=Walk The Line|grad=9-|betyg=2|längd=20|fa=[[Øystein K Johnsen]]
+ |typ=trad|text=Tunn tydlig linje som börjar med ett överhäng.}}
+{{led|namn=Highwayman|grad=9-|betyg=2|längd=20|fa=[[Øystein K Johnsen]]
+ |typ=trad|text=Som Walk the line igjennom overhenget. Traverser 2-3 meter til høyre, deretter rett opp langs micro tynn riss.}}
+{{led|namn=Tröstpriset/Tackerallah|grad=7-|betyg=0|längd=30|fa=|typ=trad|text=Startar i diedret under det stora taket till höger om Walk the line. Spännande vandring under taken och upp till hyllan (7-) (Standplats, dubbelrep eller lååånga slingor). Vidare upp det superläckra diedret  (7-) till toppen.}}
+
+{{led|namn=Siddharta|grad=7+|betyg=1|längd=25|fa=[[Rein]]
+ |typ=trad|text=Startar som Tydliga Hörnet och sedan rakt upp längs areten.}}
+
+{{led|namn=Tydliga Hörnet|grad=7-|betyg=1|längd=20|
+ |typ=trad|text=Bred spricka i tydligt hörn. Startar i trädet till vänster.}}
+
+{{led|namn=Dreadline|grad=8+ R/X|betyg=0|längd=20|fa=[[Stefan Wulf]]
+ |typ=trad|text=För den modige.}}
+
+{{led|namn=Helldriver|grad=7-|betyg=0|längd=8|fa=[[Wolfgang Kraus]], [[Micael Kiess]]
+ |typ=trad|text=Kort och intensivt på väggen ovanför Tydliga Hörnet.}}
+
+{{led|namn=Den Omättliga Vägen|grad=8-/8|betyg=0|längd=12|fa=[[Martin Jakobsson]]
+ |typ=trad|text=Tunnt spricksystem mellan Helldriver och Minaret.}}
+
+{{led|namn=Minaret|grad=8+ R/X|betyg=3|längd=|typ=|fa=[[Rikard Ekehed]][[1998|-98]]}}
+
+{{led|namn=Savage Horse|grad=9- R/X|betyg=0|längd=20|fa=[[Leo Holding]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Rätt Lätt|grad=8+ R|betyg=3|längd=25|typ=trad|fa=[[Rikard Ekehed]][[1996|-96]]}}
+
+{{led|namn=Klart Svår|grad=8-|betyg=3|längd=35|typ=trad|fa=[[Hans-Christian Doseth]], [[Dag Kolsrud]][[1983|-83]]}}
+
+{{led|namn=Tre Tau|grad=7-|betyg=0|längd=25|fa=[[Hans-Cristian Doseth]], [[Dag Kolsrud]]
+ |typ=trad|text=Börjar som Klart Svår, men sedan ut höger.}}
+
+{{led|namn=Byeline|grad=7 R/X|betyg=2|längd=35|fa=[[Jappe Pålsgård]], [[Tina Jørgensen]][[juli 2010]]
+ |typ=trad|text= Följer ett tunt spricksystem rätt upp till slutet av den första taktraversen på Tre tau. Följer diedret i 5 m men går vänster ut på plattan vid nästa tak. Lite upp, lite till vänster, svårt upp och tillbaka till höger. Hela tiden på plattan. Till sist upp på den stora hyllan.  Avsluta rätt upp från block via den överhängande diedern, 7m. Birdbeaks, skyhookes, slidingnuts och små RP håller nerverna i styr.}}
+[[Bild:Jappe_på_förstebestigning_av_Byeline..JPG ]]
+
+
+{{led|namn=Stena Line|grad=7+|betyg=0|längd=50|fa=
+ |typ=trad|text=Startar till höger om pölen.}}
+
+{{led|namn=Trampoline|grad=7|betyg=3|längd=25|fa=
+ |typ=trad|text=Klättra upp till och förbi den tydliga och superfina sprickan. Traversera sedan höger ut till en stor hylla.}}
+
+{{led|namn=Slackline|grad=8-/8 R|betyg=1|längd=40|fa=[[Rickard Ekehed]]
+ |typ=trad|text=Klättra Trampoline tills det brantar till och fortsätt rakt upp till taket. Traversera sedan först vänster och sedan tillbaka snett upp åt höger.}}
+
+{{led|namn=Masculine|grad=8/8+ X|betyg=2|längd=25|fa=[[Stefan Wulf]]
+ |typ=trad|text=Väggen till höger om Trampoline.}}
+
+{{led|namn=Gamla Klassikern|grad=5|längd=40|typ=trad|fa=[[Jan Lijemark]], [[Ulf Bjorneberg]][[1975|-75]]}}
+
+{{led|namn=Supertratten|grad=7-|betyg=2|längd=45|fa=
+ |typ=trad|text=Tydlig brant spricka i diedret/kaminen till höger om taket.}}
+
+{{led|namn=Djurgårdsfärjan|grad=6|längd=45|typ=trad|fa=[[Hans Hellstrom]], [[Anders Lundahl]]}}
+
+|}
+
+=== Stora Väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Instegsvariant - Djurgårdsfärjan|grad=6+|betyg=2|längd=25|fa=[[Jan Liliemark]], [[Ulf Björnberg]]
+ |typ=trad|text=Det stora branta hörnet.}}
+
+{{led|namn=Stone Free|grad=7|betyg=3|längd=15|typ=trad|fa=[[Marius Morstad, Rune Thrap-Meyer -80]]
+ |typ=trad|text=Det branta diedret på toppen.}}
+
+{{led|namn=E6 Expressen|grad=7+ R|betyg=|längd=20|fa=[[Neil Grechham -99]]
+ |typ=trad|text=Startap på samma hylla som ''Stone Free'' men sveper ut på stora väggen och slutar i en vänsterlutande spricka.}}
+
+{{led|namn=Dr Puh och den onde E|grad=8-|betyg=1|längd=55|fa=
+ |typ=mix|text=Borrbultar.}}
+
+{{led|namn=Doktor Feg|grad=7- R|längd=55|betyg=2|typ=trad|fa=[[Lars Grankvist]], [[Ake Danielsson]][[1986|-86]]}}
+
+{{led|namn=Dr Jäkel och Magister Grankvist|grad=7-|betyg=0|längd=55|fa=
+ |typ=trad|text=Startar som Dr Feg och sedan höger.}}
+
+{{led|namn=Dr Drövels Hemlighet|grad=7+|betyg=|längd=40|fa=[[Rickard Ekehed]]
+ |typ=trad|text=Diedret till vänster om Lärarlinjen.}}
+
+| width=300px|
+
+{{led|namn=Lärarlinjen|grad=6+|betyg=2|längd=40|typ=trad|fa=[[Lars Grankvist]], [[Lars Svadangs]]/ [[Niklas Bjornerstedt]][[1983|-83]]}}
+
+{{led|namn=Symmetrilinjen|grad=7-|betyg=|längd=|fa=
+ |typ=trad|text=Diagonal handspricka som binder ihop Lärarlinjen och Tor Line.}}
+
+{{led|namn=Tor Line|grad=7-|betyg=2|längd=55|typ=trad|fa=[[Jan Liljemark]]/ [[Olof Nygren]][[1979|-79]]}}
+
+{{led|namn=Jah Line|grad=8|betyg=1|längd=50|typ=trad|fa=[[Stefan Wulf]][[-08]]}}
+
+{{led|namn=Offline|grad=7|betyg=1|längd=20|fa=[[Magnus Strömhäll]]
+ |typ=trad|text=Lätt klättring upp till en hylla under en markant och elegant, lätt överhängande, bred spricka. En eller hellre två Camalot #5/Friend #5 samt en Camalot #4/Friend #4 behövs.  Toppar  ut på en hylla med fasta kilar i ett firningsankare.}}
+|}
+
+=== Mallorolväggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Kaminen|grad=4+|betyg=|längd=40|fa=
+ |typ=trad|text=Brett ock lätt i hörnet.}}
+
+{{led|namn=Chapman|grad=6|längd=40|typ=trad|fa=[[Niklas Bjornerstedt]], [[Lars Svadangs]][[1989|-89]]}}
+
+{{led|namn=Mallorol|grad=6-|längd=35|typ=trad|fa=[[Jan Liljemark]], [[Björn Holmgren]][[1980|-80]]}}
+
+| width=300px|
+
+{{led|namn=24 Kvadrat|grad=7-|längd=|
+ |typ=trad|text=Starten på 24 karat ramlade ner. Traversera nu istället sömen fram till det som är kvar av 24 karat}}
+
+{{led|namn=Drakguld|grad=6+|längd=|typ=|fa=[[Lars Svadangs]], [[Ake Danielssson]][[1984|-84]]}}
+|}
+
+=== Canapé Väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Nimbus|grad=8+|betyg=|längd=12|fa=[[Jon Smedsaas]]
+ |typ=sport|text=}}
+
+{{led|namn=Frontline|grad=9|betyg=|längd=20|fa=[[Peter Bosma]]
+ |typ=sport|text=}}
+
+{{led|namn=Plättlätt|grad=7+|betyg=|längd=50|fa=
+ |typ=mix|text=}}
+
+{{led|namn=Canapé|grad=7+|längd=40|betyg=3|typ=mix|fa=[[Lars Grankvist]], [[Niklas Bjornerstedt]][[1989|-89]]}}
+
+{{led|namn=Hajen på Häller|grad=8/8+|betyg=2|längd=20|fa=[[Petter Restorp]]
+ |typ=trad|text=Direktinsteg till Internationalen}}
+
+| width=300px|
+
+{{led|namn=Internationalen|grad=7-|längd=20|typ=trad|fa=[[Dag Kolsrud]], [[Tore Kolsrud]][[1983|-83]]}}
+
+{{led|namn=Nio Fingrar|grad=6+|betyg=|längd=25|fa=
+ |typ=trad|text=Nästa stora dieder. Ofta blött.}}
+
+{{led|namn=Söndagsskolan|grad=6|längd=|typ=|fa=[[Dag Kolsrud]]}}
+
+{{led|namn=Hoggfarmen|grad=6|betyg=1|längd=25|fa=
+ |typ=trad|text=Kamin till spricka.}}
+
+{{led|namn=Hällflake|grad=6-|längd=|typ=|fa=[[Mattias Hallsten]][[2001|-01]]}}
+|}
+
+=In English=
+==Description==
+One of Sweden's premiere trad-crags.  Classic crack and face climbing on fine-grained granite of extraordinary quality.  There are a few bolted routes but the local climbing club and the Scandinavian climbing communities wishes no new bolts at Häller. 
+
+Please follow Bohusläns Klätterklubb's policy on staying bolt free in the future.  
+
+
+==Directions==
+From E6 take road 162 towards Lysekil.  Häller can be seen from the road a few kilometres after passing [[Hallinden]].  Follow signs towards '''Bro kyrka'''.  Don't follow the old sign pointing to 'Häller', instead take '''Vrångebäcksvägen''' 100 m further south. Drive a kilometre on Vrångeväcksvägen then drive up to the farm just beneath the cliff.  Pay 20 SKR for parking.  If the parkinglot is full, consider going somewhere else, or park down at the main road.
+
+'''Please read the access notes above.'''
+
+==Season==
+
+March--November.
+
+==Nuts and Bolts==
+Most routes are well protected by a standard trad rack.  If the grade is followed by a ”R”, the route is somewhat risky, if the grade is followed by an "X" a fall from the hard part of the route may very well be terminal. 
+
+Some X-rated routes are protected by aid gear.
+
+
+[[Kategori:Engelska]]
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sport]]
+[[Kategori:mix]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]

@@ -1,0 +1,34 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+{{info boulderområde
+|lat=59.330661
+|long=17.921791
+}}
+=Vägbeskrivning=
+<div style="float:right">
+<googlemap version="0.9" lat="59.331395" lon="17.921104" zoom="15">
+59.330661, 17.921791
+Nockeby, Stockholm, Sverige</googlemap>
+</div>
+{{clear}}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Moonlander assis|grad=8A+|typ=|fa=Brizmo|landning=5|betyg=3|sopad=Brizmo|sittstart=ja|text=Sittstart till Moonlander.}}
+{{problem|namn=Nocke-By Shooting|grad=7C+|typ=Överhäng|fa=Stefan Pettersson|landning=4|betyg=2|sopad=Stefan Pettersson|sittstart=ja|text=Sittstart som Moonlander, sedan vä längs arêteformationen.}}
+| width="250px" |
+{{problem|namn=Shizzewhizzle|grad=7C|typ=Travers V->H|fa=Crell|landning=4|betyg=1|sopad=Crell|sittstart=ja|text=Start som Moonlander ss, sedan travers höger under taket ut runt arêten.}}
+{{problem|namn=Moonlander|grad=7C|typ=|fa=Brizmo|landning=5|betyg=3|sopad=Brizmo|text=Klassiker}}
+{{problem|namn=Stillhetens hav|grad=8A|typ=|fa=Peter Bosma|landning=4|betyg=3|fadatum=2008-04-04|sopad=Peter Bosma|text=Areten till höger om Moonlander}}
+| width="250px" |
+{{problem|namn=Armstrong|grad=8A|typ=|fa=Peter Bosma|landning=4|betyg=3|fadatum=2008-04-04|sopad=Peter Bosma|text=Som Moonlander men toppa ut åt höger.}}
+{{problem|namn=Armstrong assis|grad=8B|typ=|fa=Peter Bosma|landning=4|betyg=3|sopad=Peter Bosma|sittstart=ja|text=Sittstart till Armstrong.}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

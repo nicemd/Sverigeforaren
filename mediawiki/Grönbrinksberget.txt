@@ -1,0 +1,189 @@
+{{info klippa
+  |lat=59.05954
+  |long=17.78189
+}}
+
+{{komplett}}
+[[Bild:uffes under o 12e mekanismen.jpg|thumb|350px|right]]
+==Allmänt==
+Kanske Stockholms finaste och populäraste tradklippa, Grönbrink, ligger vid Fituna Gård i Nynäshamns Kommun.
+
+==Beskrivning==
+I dagligt tal bara kallat för Fituna. Berget, beläget ovanför åkern strax öster om Fituna gård och väl synligt därifrån, har ett 30-tal leder och är en av Stockholms populäraste klätterklippor. Väggen, ca 100 m lång och 10–30 m hög, ger ett brant intryck och är speciellt i sin vänstra del ganska slät. Flera långa, både vertikala och horisontella sprickor korsar denna del av väggen men i övrigt är det tunt med större formationer. Högra delen av väggen är mera uppbruten och grepprik men har i gengäld något sämre klippa. De lägre delarna av väggen är dock skuggiga och mossiga och kan därför vara fuktiga långt efter det att de övre delarna har torkat upp. 
+
+Det här är klassisk terräng, med flera klassiska leder men också med krav på klassisk säkringsteknik. Om inte annat anges kan leden säkras tillfredsställande med små- och medelstora vajerkilar och friends. Ett antal fasta säkringar finns också, huvudsakligen på på de nyare lederna. Fin klättring, framför allt i graderna 5-6, klättring som ställer större krav på fotarbete och säkringsteknik än på biceps och snabba borrbultskopplingar.
+
+==Miljö==
+Sydväst, undre halvan av väggen skuggig och fuktig efter regn, övre delen öppen för solen och torkar snabbt.
+
+==Vägbeskrivning==
+Se access nedan!
+
+Åk väg 225 från Vårsta mot Nynäshamn. Sväng av mot Fituna Gård, det är skyltat Fituna och Båttrailers. För att parkera, kör in till vänster på sand/grusvägen i den första korsningen direkt nedanför stora backen. Kör fram till gläntan med det lutande trädet och parkera där. Följ sedan stigen/traktorvägen söderut förbi fyrvägskorsningen. När väg ansluter från höger ta den lilla (men tydliga) stigen rakt söderut in i skogen och mot berget. 
+
+Vid Grönbrinksberget får parkering ej ske vare sig på den plats som anges i Stockholmsföraren (1996) eller vid gula huset mittemot skolan. Ej heller bör man parkera vid stigens vägskäl, som förutsätter att man kört in i anslutning till villorna vid Furubo. 
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.05954" lon="17.78189" zoom="14" type="map" controls="small">
+59.05954,17.78189,[[Grönbrinksberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Gronbrinksberget
+lat=17781890
+long=59059540
+</slresa>
+</div> 
+
+<div style="clear:right;"></div>
+
+==Access {{access}}==
+
+Parkera ''inte'' framme vid husen, för då blir de boende sura, och ''inte'' på någon skogsväg för då blir bonden sur (och det är hans mark berget står på). Klarar vi detta har vi nog ingen problem med accessen till detta fina berg.
+
+'''Nytt 2008!''' 
+Det byggs en ny sommarstuga nedanför berget. Den ligger under nedstigningsleden, varför det inte är så lämpligt att använda denna. Fira av från träden istället.
+
+2008-07-13: Det är inga problem att använda nedstigningsleden, huset ligger en bra bit ned, gömt bakom träden. Man skymtar endast taket. Extra hänsyn rekommenderas dock, 
+speciellt när det gäller ljudnivån.
+
+2008-08-21
+Var i kontakt med husägaren förra hösten för accesskomittens räkning. Husägaren visste att det klättrades på berget när han började bygga och såg inget problem med det. Han var positivt inställd till klättrare och hade bara haft problem ngn enstaka gång med folk som gick över hans tomt (alltså fel väg). Så instämmmer med föregående skribent: tänk på ljudnivån, lämna inget skräp, gå inte över tomten. Men använd gärna nedstigningsleden det är ju faktiskt säkraste vägen ner.
+//Ola Tuvesson
+
+{{AccessDB|klippa=gronbrinksberget}}
+
+<div style="clear:both;"></div>
+
+{{sidbrytning}}
+
+==Leder==
+===Nedstigning===
+Från bergets topp, vänd dig utåt och följ bergskanten åt h. Denna övergår längre ned i en bred, svagt sluttande hylla. Fortsätt tills en avslutande, lätt klätterpassage tar dig ner till marken.
+
+===Vänstra väggen===
+Lederna är beskrivna från v till h, som de dyker upp när man har kommit ner för nedstigningen och går längs klippan. Tv om nedstigningen fortsätter klippan med en del mindre väggar. Dessa ligger dock rakt ovanför sportstugorna och ägarna till dessa vill inte att vi klättrar där. Då utdelningen knappast står i proportion till obehaget vi åstadkommer och kan få är det bäst att vi håller oss borta.
+
+Ovanför nedstigningshyllan finns en liten klippvägg som längre ner växer till ett kraftigare klipparti, ca 15m högt.
+
+[[Bild:Gronbrink_v.png]]
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Simpel styrka|grad=6+|betyg=|längd=|fa=[[Rikard Hedman]], [[Jan Liliemark]] [[1981|-81]]|bultar=|typ=trad}}
+{{litentext|text= Själva huvudväggen inleds med ett långt och kraftigt överhäng, ca 5m över backen. En ”riktig” led och ett par topprepsvarianter går upp över detta. Väggen ovanför är avdelad av en lång hylla som sluttar ner från v till h. }}
+
+{{led|nr=2|namn=Discotaket|grad=6|betyg=|längd=20|fa=[[Jan Liliemark]] [[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=3|namn=Reggaesprickan|grad=6|betyg=|längd=20|fa=[[Jan Liliemark]], [[Annikki Liliemark]] [[1981|-81]]|bultar=|typ=trad}}
+
+{{led|nr=4|namn=Hästafis|grad=4|betyg=|längd=20|fa=[[Karl-Erik Henriksson]], [[Annikki Liliemark]] [[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=5|namn=Bergströms fjärtström|grad=5-|betyg=|längd=25|fa=[[Per-Olof Bergström]], [[Lars Svadängs]] [[1978|-78]]|bultar=|typ=trad|text=Stora steg och sprickor. Lättsäkrad med två rejäla tallar att bygga ankare i.}}
+{{litentext|text= Ovanför och th reser sig nu den vänstra delen av huvudväggen. Detta är klippans finaste parti med flera långa, fina leder som följer tydliga spricksystem. Den markanta sprickan i v delen som startar från ett block en bit över marken är Uffes under.}}
+
+{{led|namn=Återkomsten|grad=6-|fa=[[Peter North]] [[2006|-06]]|text=Mellan nr 5 och nr 6. Starta genom det lilla taket på goda grepp. Följ tunna sprickor rakt upp. Kliv höger upp på den stora hyllan och fortsätt upp i tunna sprckor alldeles till vänster om 12:e Mekanismen. Pilliga säkringar i övre halvan (krux). Fin.}}
+
+{{led|nr=6|namn=12:e mekanismen|grad=5+|betyg=2|längd=25|fa=[[Lars Svadängs]], [[Jan Liliemark]] [[1980|-80]]|bultar=|typ=trad}}
+
+{{led|nr=7|namn=Chippendale Commodore|grad=7-|betyg=|längd=25|fa=[[Henrik Bolander]], [[Jonas Böttiger]] [[1991|-91]]|bultar=1|typ=mix}}
+
+{{led|nr=8|namn=Uffes under|grad=5+|betyg=3|längd=25|fa=[[Ulf Lagercrantz]], [[Lars Svadängs]] [[1979|-79]]|bultar=|typ=trad}}
+
+{{led|nr=9|namn=Stålmannen|grad=7|betyg=|längd=30|fa=[[Jonas Böttiger]], [[Henrik Bolander]] [[1989|-89]]|bultar=2|typ=mix}}
+
+{{led|nr=10|namn=Lex Luthor|grad=7+|betyg=|längd=30|fa=[[Henrik Bolander]], [[Jonas Böttiger]] [[1989|-89]]|bultar=4|typ=mix|text=Extremt tunn och känslig klättring. Rostig pitong efter första bb.}}
+
+| width="350px" |
+
+{{led|nr=11|namn=Klart spänt|grad=7-|betyg=1|längd=30|fa=[[Rikard Hedman]], [[Birger Hedlund]] [[1981|-81]]|bultar=|typ=trad|text=Otydlig linje, men mycket fin svaklättring längs ack så tunna sprickor efter ett roligt förkrux.}}
+
+{{led|nr=12|namn=Förhudsnisses flykt|grad=5+|betyg=1|längd=35|fa=[[Lars Svadängs]], [[Karl-Erik Henriksson]] [[1979|-79]]|bultar=|typ=trad}}
+
+{{led|nr=12a|namn=Ökad förhud|grad=6+/7-|betyg=|längd=15|fa=[[Claes Jelinek]], [[Daniel Bidner]], [[Ulrica Edholm]] [[1991|-91]]|bultar=3|typ=mix}}
+
+{{led|nr=13|namn=Skinnhissen|grad=7+/8-|betyg=|längd=10|fa=[[Claes Jelinek]], [[Johan Nilsson]], [[Ståle Ekelund]] [[1991|-91]]|bultar=3|typ=mix}}
+
+{{led|nr=14|namn=Clark Kent direkt|grad=6|betyg=3|längd=30|fa=[[Lars Svadängs]], [[Lars Grankvist]] [[1980|-80]], övre delen [[Jan Liliemark]] [[1979|-79]]|bultar=|typ=trad}}
+
+{{led|nr=15|namn=Löjliga familjen|grad=7-|betyg=2|längd=20|fa=[[Jonas Böttiger]], [[Jonas Nygren]] [[1988|-88]]|bultar=4|typ=mix}}
+
+{{led|nr=16|namn=Liliemarks träningsläger|grad=6+|betyg=1|längd=20|fa=[[Lars Svadängs]], [[Rikard Hedman]] [[1982|-82]]|bultar=|typ=trad}}
+
+{{led|nr=16a|namn=Illa ute|grad=6-|betyg=|längd=5|fa=[[Lars Grankvist]] [[1983|-83]]|bultar=|typ=trad}}
+{{litentext|text= 5m th ligger nu den tydliga kamin som delar väggen i två delar. Högt uppe tv ligger en tunn högervänd dieder som är utsteg till och substansen i nästa led. }}
+
+{{led|nr=17|namn=Åke Svenssons hörn|grad=5+|betyg=1|längd=30|fa=[[Lars Svadängs]], [[Anders Lundahl]] [[1979|-79]]|bultar=|typ=trad}}
+
+{{led|nr=17a|namn=Pensionat Höstsol|grad=6-|betyg=1|längd=8|fa=[[Lars Grankvist]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|nr=17b|namn=Dr Grankvise möter bonden|grad=5-|betyg=|längd=20|fa=[[Lars Grankvist]], [[Annikki Liliemark]] [[1981|-81]]|bultar=|typ=trad}}
+
+{{led|nr=17c|namn=Traktor, traktor trång i ruffen|grad=6|betyg=|längd=25|fa=[[Buster Delin]] [[1993|-93]]|bultar=|typ=trad|text=Ej på skissen}}
+
+{{led|nr=18|namn=Kaminen|grad=3+|betyg=|längd=30|fa=[[Karl-Erik Henriksson]], [[Pettri Tuppaka]] [[1978|-78]]|bultar=|typ=trad}}
+|}
+
+{{sidbrytning}}
+
+===Högra väggen===
+[[Bild:Gronbrink_h_3.png]]
+Th om kaminen reser sig en hög och brant vägg avbruten mitt på av en tydlig horisontell spricka. En tunn spricka går upp mitt på den övre väggen. 
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=19|namn=Kalla kårar|grad=6-|betyg=|längd=30|fa=[[Lars Svadängs]], [[Jeremy Sheehan]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|nr=20|namn=Lois Lane|grad=6|betyg=1|längd=35|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[1979|-79]]|bultar=|typ=trad}}{{litentext|text=Starta som Kalla kårar, men traversera höger vid horisontalsprickan. Fortsätt uppåt i spricka efter 2 m travers. }}
+
+{{led|nr=21|namn=Den feta näktergalen|grad=6+|betyg=2|längd=20|fa=[[Lars Svadängs]], [[Torgil Abrahamsson]] [[1984|-84]]|bultar=1|typ=mix}}
+
+{{led|nr=22|namn=Röd kryptonit|grad=6|betyg=|längd=20|fa=[[Lars Svadängs]], [[Jan Liliemark]] [[1987|-87]]|bultar=|typ=trad}}
+
+{{led|nr=23|namn=Kiosken|grad=6-/6|betyg=|längd=15|fa=[[Okända]] [[1991|-91]]|bultar=|typ=trad}}
+
+{{led|nr=24|namn=Kostym|grad=?|betyg=|längd=15|fa=[[Okända]] [[1991|-91]]|bultar=|typ=trad}}
+{{litentext|text=Ravinen är lös och läskig. Th om denna ändrar väggen i viss mån karaktär. Den blir mera uppbruten med möjlighet till fina, lite lättare leder. Klippans kvalitet är i gengäld något sämre. }}
+
+{{led|nr=25|namn=Puh|grad=5+|betyg=|längd=30|fa=[[Lars Svadängs]], [[Annikki Liliemark]] [[1982|-82]]|bultar=|typ=trad}}
+
+{{led|nr=26|namn=Christopher Robin|grad=6-|betyg=|längd=30|fa=[[Lars Svadängs]], [[Lars Grankvist]] [[1990|-90]]|bultar=3|typ=mix}}
+
+{{led|nr=27|namn=I-or|grad=5-|betyg=|längd=30|fa=[[Lars Grankvist]], [[Lars Svadängs]] [[1982|-82]]|bultar=|typ=trad}}
+
+{{led|nr=28|namn=Snuffy-Duffy|grad=5-|betyg=|längd=30|fa=[[Per-Elof Lidström]], [[Roger Pyddoke]] [[1980|-80]]|bultar=|typ=trad|text=Populär led, med bra säkringsmöjligheter och aningen varierad klättring men med jämn svårighet. Till skillnad från de lätta lederna till höger om denna går den upp på det som blir klippans högsta del, varför sista etappen kan kännas lite luftigare. Borrbult, pitong och björk finns omedelbart ovan utsteget.}}
+
+| width="350px" |
+
+{{led|nr=29|namn=Höstsaga|grad=7-|betyg=|längd=30|fa=[[Reino Liimatainen]], [[Anders Eriksson]], [[Thomas Leitner]] [[1994|-94]]|bultar=10|typ=}}
+
+{{led|nr=30|namn=Antipasta|grad=5+|betyg=|längd=knappt 30|fa=[[Per-Elof Lidström]], [[Roger Pyddoke]] [[1981|-81]]|bultar=1|typ=mix
+|text=Varierande klättring snarare än ihållande. En bult i insteget av lite tvivelaktig sort, omedelbart senare finns bra placering. Leden har mycket gott om placeringsmöjligheter, även om en del sprickor är lite "flariga". Trevlig tur. }}
+
+{{led|nr=31|namn=Ussi-Kussi|grad=5|betyg=|längd=30|fa=[[Per-Elof Lidström]], [[Roger Pyddoke]] [[1981|-81]]|bultar=1|typ=mix}}
+
+{{led|nr=32|namn=Uggla|grad=5|betyg=|längd=25|fa=[[Anders Eriksson]], [[Ulf Sahlström]] [[1993|-93]]|bultar=|typ=trad}}
+
+{{led|nr=33|namn=Tutti-Frutti|grad=4+|betyg=1|längd=knappt 30|fa=[[Per-Elof Lidström]], [[Roger Pyddoke]] [[1981|-81]]|bultar=|typ=trad|text=En lätt travers följd av en tydlig spricka. En ensam bult med snabblänk innanför utsteget. Trevlig led som är mycket välsäkrad, och ovanligt brant för sin grad. Trafikerad och mossfri.}}
+
+{{led|nr=34|namn=Tiger|grad=5|betyg=|längd=25|fa=[[Ulf Sahlström]], [[Anders Eriksson]] [[1993|-93]]|bultar=|typ=trad|text=En väldigt "direkt" linje, insteget kan säkras bra om viljan finns. Leden är ganska lik Tutti Frutti, och går bra att göra utan att kliva omkring i grannleden trots att de går nära varandra. Vertikal och fin klättring, ren och fin med ev reservation för insteget. Bra skugga under varma dagar.}}
+
+{{led|nr=35|namn=Lätt och lagom|grad=4|betyg=|längd=30|fa=[[Göran Blomqvist]], [[Lotta Nordlöf]] [[1979|-79]]|bultar=|typ=trad}}
+
+{{led|nr=36|namn=Tre gringos|grad=6|betyg=|längd=?|fa=[[Reino Liimatainen]], [[Anders Eriksson]], [[Thomas Leitner]] [[1993|-93]]|bultar=|typ=trad|text=Travers över hela berget. Tre replängder.}}
+{{led|nr=37|namn=Hanky-Panky|ny=1|grad=5|betyg=|längd=25|fa=[[Anders Henriksson]], [[Florin Pocol]],  [[2011|-11]]|bultar=|typ=trad|text=Väggtur mellan Antipasta och Ussi-Kussi. Starta omendelbart t v om Ussi-Kussi och gå rakt upp till hylla, från hyllan vidare på väggen ''mellan'' sprickan som senare går ihop med Antipasta, resp spricksystemen i Ussi-Kussi/Uggla. En spricka som utvecklas till grunt groove eller ränna, leder till ännu en hylla, varifrån det finns flera alternativ för utsteget, men förstabestigningen gjord via ngt uppbruten klippa 1 m t v om rännan. Välsäkrad, men vissa placeringar kräver små kilar och viss '''omsorg'''! Det kan vara en god idé att sträcka sig t h på insteget och klippa bulten på Ussi-Kussi. }}
+{{led|nr=38|namn=Hanky-Pasta|ny=1|grad=5|betyg=|längd=25|fa=[[Viktor Gyllenberg]], [[Anders Henriksson]],  [[2011|-13]]|bultar=|typ=trad|text=Spricka mellan Antipasta och Hanky Panky. Starta i insteget till Hanky Panky, vid hyllan/horisontalsprickorna ca 5 m upp, fortsätt i den spricka som går ihop med Antipasta strax innan dess hylla före utsteget. Gör utsteget som i Antipasta. Turen, kan på papperet framstå som en aning krystad, men är ändå trevlig femmaklättring som förtjänar att göras. Välsäkrad med viss reservation för insteget. Om bulten till Ussi-Kussi kopplas, blir klättringen fram till horisontalsprickan något mindre fokuserad.}}
+
+{{litentext|text=Th om stora väggen fortsätter klippan med ett par smärre klippartier. Här finns några kortare leder. Kvaliteten på dessa är dock icke jämförbar med den hos lederna på stora väggen.}}
+
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Trad]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Stockholm]]
+[[Kategori:Fituna]]

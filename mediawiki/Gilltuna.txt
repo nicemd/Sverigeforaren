@@ -1,0 +1,43 @@
+=Allmänt=
+Gilltuna erbjuder två fina block och en förkastningsbrant där repklättringen i Västerås hade sin vagga. Idag är majoriteten av alla dåvarende repturer på förkastningen omgjorda till boulders. Förkastningen erbjuder ett antal höga och varierande problem. Från uppvärmingar till än idag helt ogjorda problem. 
+Till detta kommer två relativt fina block som framförallt bjuder på slopiga grepp och urtoppningar man sällan ser på granit. Stenarna är utmärkta då de bjuder på olika svårigheter av mantlingar och några delikata krimpers. Fram till år 2006 varierar graderna från lätta upp till 7A.
+
+=Vägbeskrivning=
+Om du kommer på E18 åker du av vid Bäckbymotet och kör sedan Surahammarsvägen söderut tills dessa att du tvingas vika av in på Köpingsvägen. Du hittar till Gilltuna genom att åka ut från Västerås (Köpingsvägen) mot Dingtuna. Sväng höger mot Hallstahammar och innan du passerar under E18 sväng höger och parkera intill transformatorstationen(Eskilstunabor tar med fördelen vägen direkt via Dingtuna).
+Gå i riktning tillbaka mot stan, parallellt med E18 cirka 500 meter. Du hittar förkastningsbranten först och stenarna på höjden ovanför.
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Flaming mantel|grad=5B|typ=Slopers,Mantling|fa=Patrik Hagman|landning=2|betyg=2|sopad=Patrik Hagman|text=Robertsblocket, Mantlingsproblem vid stenens "framsida". En klassiker.}}
+{{problem|nr=2|namn=Flaming mantel assis|grad=6B+|typ=Slopers,Mantling,Dyno|fa=Patrik Hagman|landning=2|betyg=1|sopad=Patrik Hagman|sittstart=ja|text=Robertsblocket, Sittstarten till Flaming mantel. Starta med händerna vid "trekantsgreppet". Möjligt att gå med antingen höger eller vänster hand först. Liggstart som projekt, 7A+?}}
+{{problem|nr=2|namn=Fördömd|grad=7A+|typ=Krimp|fa=Robert Kostelac|landning=2|betyg=1|fadatum=2007-09-07|sopad=Robert Kostelac|sittstart=ja|startgrepp=ja|text=Robertsblocket, Ligg/sitt-start till Flaming mantel assis. Starta med händerna i sprickan under taket.}}
+{{problem|nr=3|namn=Wow wow|grad=6C|typ=Krimp|fa=Patrik Hagman, Tommy Torsne|landning=2|betyg=1|sopad=Patrik Hagman, Tommy Torsne|text=Robertsblocket, Slopigt problem vid den tydliga bullen. Starta med två crimpers, drag åt höger mot toppen.}}
+{{problem|nr=4|namn=Pow wow|grad=6C|typ=Krimp,Slopers|fa=Patrik Hagman, Tommy Torsne|landning=2|betyg=1|sopad=Patrik Hagman, Tommy Torsne|variant=ja|startgrepp=ja|text=Robertsblocket, Starta med höger hand i Wow wow och vänster hand i en undercling. Gå leden upp åt vänster.}}
+{{problem|nr=5|namn=Campusdraget|grad=6A|typ=Krimp,Slopers,Mantling|fa=Tommy Torsne|landning=2|sopad=Tommy Torsne|text=Robertsblocket, Campusflytt vid östra sidans vänstra kant. Hängande start utan fötter och sedan rakt upp på slopiga/crimpiga grepp.}}
+{{problem|nr=6|namn=Vicious mantel race|grad=6A+|typ=Mantling,Travers H->V|fa=Patrik Hagman mfl|landning=2|betyg=2|sopad=Patrik Hagman mfl|text=Robertsblocket, Klassisk travers som startar vid stenens sydöstra hörn (höger om Flaming mantel). Starta med händerna i den sneda sprickan, traversera till vänster och avsluta med Flaming mantel.}}
+| width="250px" |
+{{problem|nr=7|namn=Slopernetica right|grad=6B|typ=Slopers,Pinch|fa=Peter Viktorsson mfl|landning=2|sopad=Peter Viktorsson mfl|text=Robertsblocket, Starta med två tydliga slopers vid blockets nordöstra hörn. Dra till pinchen med vänster hand och vidare upp på höger sida om areten.}}
+{{problem|nr=8|namn=Slopernetica left|grad=6A+|typ=Slopers,Pinch|fa=Peter Viktorsson mfl|landning=2|sopad=Peter Viktorsson mfl|variant=ja|text=Robertsblocket, Starta med två tydliga slopers vid blockets nordöstra hörn. Dra till pinchen med höger hand och vidare upp på vänster sida om areten.}}
+{{problem|nr=9|namn=Långa traversen|grad=6B+|typ=Slopers,Mantling,Travers H->V|fa=Patrik Hagman|landning=3|sopad=Patrik Hagman|text=Robertsblocket, Starta vid stenens nordöstra hörn (Slopernetica left) och vandra sedan till Flaming mantel.}}
+{{problem|nr=10|namn=Kents lilla myra|grad=5A|typ=Jug|landning=3|sittstart=ja|text=Robertsblocket, Sittstart vid nedstigningen på stenens västra sida. Upp och mantla.}}
+{{problem|nr=11|namn=Kents stora myra|grad=6A|typ=Travers H->V,Jug|landning=4|betyg=1|sittstart=ja|text=Robertsblocket, Starta i Kents lilla myra, traversera sedan åt vänster och upp via de tydliga greppen.}}
+{{problem|nr=12|namn=Tjejstarten|grad=5C|typ=Krimp|fa=Patrik Hagman mfl.|landning=2|betyg=1|sopad=Patrik Hagman mfl.|startgrepp=ja|text=Robertsblocket, Startar mellan Flaming mantel och Wow wow. Starta på crimp med höger hand och sidotag med vänster hand. Etablera, sedan catcha till kanten och upp.}}
+{{problem|nr=13|namn=Triangeldramat|grad=6C|typ=Krimp|fa=Peter Viktorsson|landning=2|betyg=1|sopad=Peter Viktorsson|startgrepp=ja|text=Robertsblocket, Start vid det tydliga trekantsgreppet på östra sidans mitt, sedan upp åt höger. Varianten åt vänster är ett öppet projekt.}}
+| width="250px" |
+{{problem|nr=14|namn=Lippfbulle|grad=5A|typ=Jug,Heel hook|fa=Robert Kostelac|landning=2|sopad=Robert Kostelac|sittstart=ja|text=Malinsblocket, Sittstart i det nordöstra hörnet.}}
+{{problem|nr=15|namn=Kvinnliga former|grad=6A|typ=Slopers,Jug|fa=Robert Kostelac|landning=2|sopad=Robert Kostelac|sittstart=ja|text=Malinsblocket, Problemet ligger ett par meter till vänster om Lippfbulle. Matchstart vid en utstickande sloper och mantla sedan rakt upp.}}
+{{problem|nr=16|namn=Kvinnlig list|grad=7A|typ=Krimp,Överhäng|fa=Robert Kostelac|landning=2|betyg=2|sopad=Robert Kostelac|sittstart=ja|text=Malinsblocket, Startar vid en krimperlist längst till vänster på blocket och sedan rakt upp.}}
+{{problem|nr=17|namn=Gökmofvet|grad=4B|typ=Slopers|fa=Robert Kostelac|landning=2|sopad=Robert Kostelac|sittstart=ja|text=Malinsblocket, Sittstart vid nordvästra hörnet, på den tydliga sluttande trekantshyllan.}}
+{{problem|nr=18|namn=Stenbrottet|grad=5C|typ=Mantling|fa=Tommy Torsne, Patrik Hagman|landning=3|sopad=Tommy Torsne, Patrik Hagman|text=Robertsblocket, fint mantlingsproblem som startar strax till vänster om Visious mantel race, rakt ovanför stenen som ligger på backen.}}
+{{problem|nr=19|namn=Kassa sprickan|grad=5C|typ=Jug,Spricka|fa=Patrik Hagman|landning=4|sopad=Patrik Hagman|text=Robertsblocket, rakt upp via den tydliga sprickan på baksidan. Högsta problemet på stenen.}}
+{{problem|nr=20|namn=Vårruset|grad=7A|typ=Slopers,Travers V->H|fa=Patrik Hagman|landning=2|betyg=1|sopad=Patrik Hagman|sittstart=ja|text=Malinsblocket, sittstart längst till vänster på blocket, traversera till höger (på låga grepp) och mantla upp vid Kvinnliga former.}}
+|}
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,11 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Samiska för nybörjare|grad=6C|typ=Överhäng,Highball|fa=Heyman|betyg=3|fadatum=2005-11-26|sopad=Heyman|text=}}
+[[Kategori:Kiruna]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

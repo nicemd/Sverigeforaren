@@ -1,0 +1,36 @@
+{{info klippa
+  |lat=61.629811
+  |long=16.811572
+}}
+
+{{utkast}}
+==Allmänt==
+Fuskåsberget ligger några kilometer före Blaxås, på höger sida av
+vägen om man kommer från Enångershållet.
+
+==Kommunikationer==
+Vägbeskrivning saknas. Se [[Blaxsås]] och kartan där.
+Ungefärliga GPS-koordinater för klippan: Lat: N 61º 37' 47.32" Long: E 16º 48' 41.66"
+
+<googlemap lat="61.629811" lon="16.811572" zoom="11" type="map">
+61.629811,16.811572,Fuskåsberget
+</googlemap>
+
+==Klippan==
+
+Berget är bara besökt ett par gånger och även om här finns potential
+för en hel del turer, både lätta och riktigt svåra så är det en riktig
+skogsklippa som kräver en hel del rensningsarbete för att bli något.
+Tre turer har dock gjorts:
+
+{{led|nr=1|namn=Mossan|längd=30|grad=3+|gruv=b|typ=trad|fa=Torbjörn Nilsson och Per Calleberg 1983|text=Slingrar sig upp längs de lättaste passagerna på den mossiga väggen som ligger i vinkel mot en rejält överhängande vägg, långt ner på berget.}}
+
+{{led|nr=2|namn=Kyla|längd=10|grad=5+|gruv=b|typ=trad|fa=Torbjörn Nilsson och Per Calleberg 1983|text=Följer tydlig diederlinje mitt på en mindre vägg belägen 30 - 40 m in på berget ovanför utsteget på "Mossan".}}
+
+{{led|nr=3|namn=Hypotenusan|längd=15|grad=5+|typ=trad|fa=Torbjörn Nilsson och Peter Brolin 1984|text=Tydlig, diagonal spricklinje på en vägg belägen i övre högra kanten på rasbranten t h om de föregående lederna. Något lös.}}
+
+Sommaren 2007 gjorde Johan Luhr en tur som följer en spricka på den tidigare nämnda överhängande väggen. Uppgifter om namn och grad samt ledbeskrivning saknas. (Muntlig uppgift från Johan Luhr. /Per Calleberg).
+
+[[Kategori:Saknar skiss]] [[Kategori:Saknar karta]] [[Kategori:Saknar vägbeskrivning]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

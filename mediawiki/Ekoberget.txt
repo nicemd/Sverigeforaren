@@ -1,0 +1,153 @@
+{{info klippa
+  |lat=59.32703
+  |long=18.31836
+  |höjd=25
+}}
+
+{{komplett}}
+==Allmänt==
+Hög och stor "strandklippa" ganska nära stan som bjuder på både trad och sportklättring i brett spann av grader.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.32703" lon="18.31836" zoom="14" type="map" controls="small">
+59.32703,18.31836,[[Ekoberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Ekoberget
+lat=18318360
+long=59327030
+</slresa>
+</div> 
+
+Åk Värmdöleden (väg 222) i riktning Gustavsberg. Ta av i Orminge/Lännersta. Åk över motorvägen mot Orminge. Följ sedan skyltar mot Gustavsberg (Gamla Värmdövägen). Följ skyltar mot Graninge, parkera vid Graninge Stiftgård. Gå ner till vattnet i vägens förlängning och ta höger längst stranden. Klippan ligger ca 200 meter bort.
+
+Jag håller på att gräva om vägen. följ orangea deviationen.
+
+Se även [http://www.hitta.se/ViewDetailsPlace.aspx?PlaceId=2456943&SearchType=4&UCSB%3aWflWhite=1a1b&UCSB%3aWflPink=4a&UCSB%3aTextBoxWho=&UCSB%3aTextBoxWhere=ekoberget hitta.se]
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+===Vänstra delen===
+[[Bild:ekoberget1.gif]]
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=0a|namn=Stämborgarmärket|ny=1|grad=5b|längd=20|bultar=7||fa=[[Erik Hagelin]] 2012-09-29|typ=sport|text=Börjar i diedret ca 10 m till vänster om För forna klätterfantaster. Något brölig stämklättring leder upp till ett mer tekniskt utsteg.}}
+
+{{led|nr=0b|namn=Yggdrasil|ny=1|grad=6c?|längd=20|bultar=|typ=sport|text=Börjar på svat precis t v om Namnlös. Helbultad m ankare.}}
+
+{{led|nr=1|namn=Namnlös|grad=6-|längd=20|typ=sport|text=1 bb + kilar.}}
+
+{{led|nr=2|namn=För forna klätterfantaster|grad=5c|längd=25|bultar=8|typ=sport|fa=[[Per Willén]], [[Petra Carlén]] [[2002|-02]]|text=Ankare.}}
+
+{{led|nr=2b|namn=Ska ni ha stryk eller|grad=5c|bultar=4|längd=15|typ=sport|fa=[[Mats Olofsson]], [[Pia Wass]] 020811|text=Variant mellan För forna.. och Carnivore. }}
+
+{{led|nr=3|namn=Paradoxal exkursion|grad=7b+|bultar=6|längd=25|fa=[[Claes Jelinek]], [[Thomas Hansson]] [[2001|-01]]|typ=sport|text=Ankare}}
+
+{{led|nr=4|namn=Carnivore|grad=4|längd=15|fa=[[Mikaela Rapp]], TH [[2001|-01]]|typ=trad|text=Trad + ankare.(obs! endast en bult i ankaret)}}
+
+{{led|nr=5|namn=Ekoturism|grad=6c|längd=25|bultar=6|typ=sport|fa=CJ, [[Göran Wennerbrandt]] [[2000|-00]]|text=Ankare}}
+
+{{led|nr=5a|namn=Prima Ballerina|grad=6c+|längd=25|bultar=8|typ=sport|fa= [[Stefan Kalen]] [[2007|-07]]|text=Ny linje till höger om Ekoturism. Ankare}}
+
+{{led|nr=6|namn=Namnlös 2|grad=4-|längd=20|fa=Anita Rostén -00|typ=trad|text=Trad + ankare}}
+
+{{led|nr=7|namn=Lara med handklovarna|grad=5c|längd=20|bultar=7|typ=sport|fa=MO, [[Eric Deering]] 020811|text=Insteg till vänster om stora tallen. En extra borrbult säkrar numera det förut ganska läskiga slutet.}}
+
+| width="250px" |
+
+{{led|nr=7a|namn=Utan bojor|ny=1|grad=4|längd=20|fa=[[Thomas Eriksson]], [[Per Willén]] -080426|typ=trad|text=Startar mellan Lara och tallen och följer en diederformation. Leden korsar Lara och har gemensamt utsteg samt ankare med Namnlös.}}
+
+{{led|nr=8|namn=Uppkomsten|grad=6a+|bultar=6|längd=20|typ=sport|längd=20|fa=[[Tomas Leitner]], [[Anders Eriksson]] [[1996|-96]]|text=}}
+
+{{led|nr=9|namn=Nedkomsten|grad=5c|bultar=6|typ=sport|längd=20|fa=[[Tomas Leitner]], [[Anders Eriksson]] , [[Christina Ögren]] [[1996|-96]]|text=Bultad spricka. Nytt toppankare-09}}
+
+{{led|nr=10|namn=Fotografen har en stor apparat|grad=6a|bultar=7|betyg=1|längd=27|typ=sport|fa=[[Mats Olofsson]], [[Joakim Möller]] 020815|text=Går ihop med Yohoia mot slutet.}}
+
+{{led|nr=11|namn=Yohoia|grad=6c|längd=27|bultar=10|typ=sport|fa=TH, [[Gary Hansson]], MR [[2001|-01]]|text=Ankare}}
+
+{{led|nr=12|namn=Breña|grad=7b+|betyg=2|fa=[[Robin Dahlberg]] [[2003|-03]]|bultar=8|typ=sport|text=Går lite sick-sack.}}
+
+{{led|nr=13|namn=Vårkåt|grad=6c|betyg=2|fa=[[Mikael Widerberg]] [[2003|-03]]|bultar=8|typ=sport|text=Numera finns ett bultat vänsterutsteg. Graden ungefär den samma.}}
+
+{{led|nr=14|namn=Återkomsten|grad=6|längd=20|fa=[[Kenth Lindström]], [[Jan Nyström]] [[1985|-85]]|typ=trad|text=Kilsäkrad led, som antagligen "dödats" av de leder som gjorts uppför samma parti senare. Oklart vart den går dock.}}
+
+| width="250px" |
+
+{{led|nr=15|namn=Evolution|grad=6+|längd=20|bultar=2|fa=TL [[1996|-96]]|typ=mix|text=Ankare.}}
+
+{{led|nr=16|namn=Sanningen|grad=5+|längd=25|fa=[[Choe Brooks]] [[1980|-80]]|typ=trad|text=Trad. Se upp för lös sten halvvägs upp.}}
+
+{{led|nr=17|namn=Hallucogenia|grad=7c+|längd=28|fa=[[Robin Dahlberg]]|bultar=8|typ=sport|text=Ankare.}}
+
+{{led|nr=18|namn=Anomalocaris|grad=7a|betyg=2|längd=28|fa=TH -00|bultar=6|typ=sport|text=En av klippans finaste leder. Ihållande klättring på den vackra, ljusa väggen. Ankare.}}
+
+{{led|nr=19|namn=Eldonia|grad=7b+|längd=23|fa=TH -00|bultar=6|typ=sport|text=Ankare.}}
+
+{{led|nr=20|namn=Mantra|grad=7b|längd=23|fa=PW -06|bultar=6|typ=sport|text=Gör insteget till Wiwaxia upp till hyllan. Gå lite vänster och klättra pelaren upp till Wiwaxias ankare.}}
+
+{{led|nr=21|namn=Wiwaxia|grad=6c+|betyg=2|längd=23|fa=TH, AR -00|typ=sport|bultar=6|text=Efter det lite boulderartade insteget är klättringen fantastiskt fin hela vägen till toppen. Samma ankare som Mantra och Eldonia.}}
+|}
+
+===Högra delen===
+[[Bild:ekoberget2.gif]][[Bild:Ekoberget3.gif]]
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=22a|namn=Ronin|ny=1|grad=6b+|längd=20|fa=okänt [[2013|-13]]|typ=sport|bultar=x||text=Ny led t.v om Tvivlet. Ankare.}}
+
+{{led|nr=22|namn=Tvivlet|grad=6-|längd=25|fa=|typ=trad|text=Trad.}}
+
+{{led|nr=23a|namn=Cykla med musik|grad=6a+|längd=20|fa=[[Fredrik Lönn, Kathinka Kleiser Berg]][[2010|-10]]|typ=mix|bultar=3||text=Klipp bult 1, 2 och den översta på Pikaia. Klättra där emellan till vänster om Pikaias svåra parti. Använd några få handgrepp på Tvivlet innan du traverserar tillbaks ut till Pikaias bulle vid översta bulten. Säkras med mindre friends och en kil. Ankare.}}
+
+{{led|nr=23|namn=Pikaia|grad=7a+|längd=20|fa=TH [[2000|-00]]|typ=sport|bultar=7||text=Ankare.}}
+
+{{led|nr=23a|namn=Ny led|ny=1|grad=6a-6a+|längd=20|fa=okänt [[2013|-13]]|typ=sport|bultar=x||text=Ny led mellan Pikaia och Sannolikheten. Jämn och fin klättring. Ankare.}}
+
+{{led|nr=24|namn=Sannolikheten|grad=6|längd=30|fa=JN, [[Bengt Hansson]] [[1980|-80]]|typ=trad|text=Trad.}}
+
+{{led|nr=24a|namn=Klätterutrustning i cykelväskor|grad=6a|längd=30|fa=[[Fredrik Lönn, Kathinka Kleiser Berg]] [[2010|-10]]|typ=trad|text=Startar till vänster om Lögnen och går upp mot ett litet överhäng 5 meter över backen som rundas till v. Vidare rakt upp mot en utstickande bulle som rundas till h och sedan lättaste vägen till toppen med ständig dragning åt h. Säkras främst med stora och små friends men även någon kil.}}
+
+{{led|nr=25|namn=Lögnen|grad=5-|längd=30|fa=JN, BH -80|typ=trad|text=Trad.}}
+
+{{led|nr=26|namn=Hon va ond ond ond....|grad=6c+|längd=20|bultar=5|fa=CJ, [[Johan Nilsson]] -01|typ=sport|text=Ankare.}}
+
+{{led|nr=27|namn=Fruktans fötter|grad=7a|längd=15|fa=CJ, TH-01|typ=sport|bultar=5|text=Knallhårt boulderinsteg, borde kanske graderas upp ett snäpp? Ankare.}}
+
+{{led|nr=28|namn=På tiden|ny=1|grad=7b+|längd=15|fa=[[Johan Luhr]] [[2013]]|typ=sport|bultar=5|text=Thomas Hanssons gamla projekt. 7b+/7c enligt förstebestigaren Johan.}}
+
+{{led|nr=29|namn=Pangea|grad=6c|längd=20|bultar=5|fa=MR, TH-01|typ=sport|text=Ankare med bara en ring. }}
+
+| width="350px" |
+
+{{led|nr=30|namn=Opabinia|grad=7b+|längd=12|fa=TH -01|typ=sport|bultar=3|text=Ankare.}}
+
+{{led|nr=31|namn=Trollskott|grad=7a|längd=20|fa=Jakob A, Fredrik M, Johan B -06|typ=sport|bultar=5|text=Börjar t.h. om Pangea. Hårt över läppen till vila på hyllan. Avsluta med svaet på Pangea. Ankare med bara en ring. }}
+
+{{led|nr=|namn=Wienerbrödvalsen|grad=5+|längd=45|fa=BH, JN -85|typ=trad|text=Trad.}}
+
+{{led|nr=|namn=Vattenkammade snoken|grad=4-|längd=35|fa=KL, JN -85|typ=trad|text=Trad.}}
+
+{{led|nr=34|namn=Nattugglan|ny=1|grad=6a|typ=sport|betyg=1|längd=29|fa=[[Michael Collins]], [[Sylvia Janas]] -2012-10-10|text=Börjar ca 10m t.h. om Pangea, strax höger om Vattenkammade snoken. Trevlig och omväxlande led på två replängder med bekväma standplatser.<br>'''1. 6a, 20m, 10 bultar:''' Lätt klättring rakt upp på uppbruten vägg till sva platta med dragning åt vänster efter tredje bulten, sedan lätt klättring med dragning åt höger upp till ett litet överhäng som rundas ut åt höger upp till stor bekväm hylla med ankare och firningsringar. <br>'''2. 6a, 9m, 5 bultar:''' Klättra rampen ut åt höger, sedan upp genom ett brantare parti till liten hylla med ankare och firningsringar. 60m rep krävs för att nå marken härifrån med en firning.}}
+
+{{led|nr=35|namn=Morgonhönan|ny=1|grad=6a|typ=sport|längd=9|bultar=5|fa=[[Sylvia Janas]], [[Michael Collins]] -2012-10-10|text=Går rakt upp från Nattugglan's första standplats. Klättra rakt upp i hörnet, sedan vänster upp genom nisch och vidare upp med dragning åt vänster till liten hylla med ankare och firningsringar. 60m rep krävs för att nå marken härifrån med en firning.}}
+
+{{led|nr=36|namn=Patrask|ny=1|grad=6-|typ=trad|längd=30|fa=[[Michael Collins]] -2013-03-30|text=Bitvis fin klättring som skulle nog kunnat anses vara helt ok säkrad med både stort och smått, bara klippan hade varit helt solid. Skitig start i hörnet men går snabbt ut åt höger över en bulle upp till en bred spricka (Camalot #5 användbar). Följ sprickan upp till en liten hylla, kliv ut åt höger, klättra upp i hörnet och sedan vidare höger någon meter förbi buskarna innan man klättrar rakt upp mot den svagt överhängande sprickan (något dold microkil säkrar upp till sprickan). En kortare variant kan göras genom att från hyllan följa en grund spricka som går upp i riktning mot Nattugglans första standplats. Graden blir då 5 eller 5+.}}
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori : Trad]]
+[[Kategori : Mix]]
+[[Kategori : Sport]]
+[[Kategori : Vertikalt]]
+[[Kategori : Sva]]

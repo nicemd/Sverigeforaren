@@ -1,0 +1,165 @@
+{{info klippa
+  |lat=59.28897
+  |long=17.76097
+}}
+
+{{komplett}}
+[[Bild:Alvnas_karta.png|thumb|right|200px]]
+
+==Allmänt==
+"Nyupptäckt" klippa i Älvnäs på Ekerö. Klipptypen är ovanlig med en kvartsrik bergart som kan vara lite hal och inte speciellt grepprik. Klippan är ungefär 15m hög och 70m bred. Väggen går från strax under vertikalt till något överhängande. Borrbultade sportklätterturer dominerar. 
+
+==Miljö==
+[[Bild:Alvnas_flygfoto.jpg|thumb|left|Älvnäs-udden med klippan väl synlig]]
+Klippan ligger bara 15 m från Busviken. Sydvänd men det täta strandbuskaget gör att klippan är skuggig i nedre delen på sommaren. Den kan vara sipprig på tidig vår men är samtidigt rätt öppen för solen då. <br/><br/><br/><br/><br/><br/><br/>
+==Vägbeskrivning==
+<div style="float: left; margin-left: 0px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.28897" lon="17.76097" zoom="14" type="map" controls="small">
+59.28897,17.76097,[[Älvnäs]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Alvnas
+lat=17760970
+long=59288970
+</slresa>
+</div> 
+
+Åk Ekerövägen förbi Ekerö centrum. Efter 1,5 km ta h i höjd med Väsby IP in på Älvnäsvägen mot just Älvnäs. Efter 2,5 km av kringelkrokar i villa- och sportstugeområden så parkerar man bortanför ändhållplatsen för buss 305. Gå sedan v upp för Talgoxevägen och följ den över krönet till en obebyggt tomt. Det är lättast att fira från toppen då terrängen runt omkring är väldigt snårig.
+
+<div style="clear:right;"></div>
+
+== Access {{access}} == 
+
+Från bloxc, 2008-06-09:
+
+<blockquote>
+Tomtägaren med huset ovanför högra delen av väggen har hört av sig och påpekat följande:
+
+"Jag skriver till er med anledning av klättringen på vår mark. När vi talades vid för ett år sedan meddelade jag att det var OK att klättra på väggen när vi inte är nere på tomten. Det har under den senaste tiden varit intensivt med folk vilka i och för sig inte agerat störande. Dock så har det lämnats kvar en del skräp och burkar vilket INTE är ok samt att klättrarna efter klättring går ut och lägger sig på vår brygga vilket INTE är ok. Vi har i stort sätt varje helg varit nere och sagt till klättrarna att inte nyttja bryggan och övrig tomt utan hålla sig till väggen, vi har även sagt åt dem att meddela er om detta vilket gjort men det verkar inte riktigt går fram. "
+
+'''1. Gå inte ut på bryggan, utan håll er intill väggen.
+2. Alla hjälper till att plocka bort allt skräp.''' 
+</blockquote>
+
+Från [http://www.plonk.se/snf/ Plonk] 2006-10-18
+<blockquote>
+'''Viktig information om accessen vid Älvnäsklippan'''<br/>
+Tomtägaren informerar om att dom kommer att börja bebygga tomten ovanför klippan under senhösten/vintern. Detta innebär att dom kommer att behöva spränga en del. Det finns en risk för att stenar kan ramla ned vid sprängning. Tomtägaren kommer att sätta upp lappar om detta så så att klättrarna kan gå upp och titta om det är sprängning på gång.
+<br/><br/>
+Som några av er redan märkt så har man redan börjat röja en hel del nedanför klippan. På sikt kommer tomtägaren att anlägga stranden med gräsmatta mm men så länge alla respekterar detta och inte klättrar på högra delen när dom själva är nere vid vattnet tycker dom det bara är kul att det klättras lite.
+</blockquote>
+
+Från [http://www.bloxc.com/forum/viewtopic.php?p=13192&sid=ceaed072b880873216e4bab2a5cd3407 bloxc]
+<blockquote>
+Skrivet: Mån Maj 08, 2006 17:01<br/>
+<br/>
+När vi var ute i Älvnäs i helgen pratade vi med en man och fick ett oroande besked. <br/>
+<br/>
+Mannen som var mycket trevlig och sympatisk upplyste oss om att: <br/>
+- Han i vår köpt den tomt som sträcker sig in en bra bit på Älvnäs-klippan från norr (inklusive den bruna boden vid bryggan). På mannens beskrivning förstod vi det som hans tomt sträckte sig in till och med någonstans i höjd med snövitt. <br/>
+- Att han snart kommer att börja bygga ett nytt hus ovanför klippan. <br/>
+- Att det var ok att vi klättrade, men att vi skulle ”vara medvetna om att vi gjorde det på privata mark”. <br/>
+- Att han inte såg något problem i att det klättrades på klippan när de (jag gissar han och familjen) inte var där. <br/>
+- Att han förmodligen, så småningom, efter att bygget var klart, skulle röja upp även under klippan och göra området mer”privat” och att vi då skulle ”få se om det skulle vara ok att man förtsatte klättra där”. <br/>
+<br/>
+Mannen sade att han klättrat lite grann själv och undrade lite om hur svåra lederna var samt om utrustningen (bultar och ankare) var ok. <br/>
+<br/>
+Så förslgsvis: <br/>
+- Håller alla som klättrar på Älvnäs en extra låg profil. <br/>
+- Som tidigare, access uppifrån och ABSOLUT inte över tomterna från norr. <br/>
+- Om familjen är där frågar man lämpligen om det är ok att klättra. <br/>
+- Om möjligt kankse man håller sig till de södra lederna. <br/>
+<br/>
+För den som känner sig manad, skulle säkert en dialog vara bra. Hanterar vi det här bra, kanske kan vi få behålla en av stockholms finaste 7a-Snövitt. <br/>
+<br/>
+Fredrik Eckardt<br/>
+</blockquote>
+
+{{AccessDB|klippa=alvnasberget}}
+
+{{sidbrytning}}
+=== Leder ===
+[[Bild:Alvnas.png]]
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|nr=1|namn=Ultra bultra|grad=6a|betyg=|längd=15|fa=[[Patrik Wedell]], [[Per Magnell]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=1a|namn=Åskbollen|grad=6c|betyg=|längd=|fa=|bultar=|typ=sport|text=Samma insteg som forra men fortsatter direkt till hoger}}
+
+{{led|nr=2|namn=Black Widow|grad=6a+|betyg=|längd=15|fa=[[Per Magnell]], [[Patrik Wedell]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=2a|namn=Ft Molly nu fetare|grad=6b+|betyg=|längd=15|fa=[[Per Magnell]], [[Patrik Wedell]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=?|namn=Sting|grad=6c|betyg=|längd=|fa=|bultar=|typ=sport|text=Kort och hård}}
+
+{{led|nr=3|namn=Kalles Kaviar|grad=6c|betyg=|längd=15|fa=[[Mikael Widerberg]], [[Anders Blomqvist]] [[1992|-92]]|bultar=|typ=sport|text=På arêten}}
+
+{{led|nr=3a|namn=Avdrift|grad=6c|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1992|-92]]|bultar=|typ=sport|text=Samma insteg som Kalles Kaviar}}
+
+{{led|nr=3b|namn=Big trip|grad=6c|betyg=|längd=|fa=|bultar=|typ=sport|text=Samma insteg som Kalles Kaviar}}
+
+{{led|nr=4|namn=Ett enda move|grad=8-/8|betyg=|längd=15|fa=[[Johan Luhr]] [[1994|-94]]|bultar=5|typ=sport|text=}}
+
+{{led|nr=5|namn=Fuck|grad=8-/8|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1994|-94]]|bultar=6|typ=sport|text=}}
+
+| width="250px" |
+
+{{led|nr=6|namn=?|grad=7b+|betyg=|längd=15|fa=[[Thomas Hansson]] [[1992|-92]]|bultar=|typ=sport|text=Ja leden heter faktiskt så}}
+
+{{led|nr=6a|namn=I sista stund|grad=7b|betyg=|längd=15|fa=[[Thomas Hansson]] [[1996|-96]]|bultar=|typ=sport|text=Markant krux}}
+
+{{led|nr=7|namn=Speed|grad=7a+|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=8|namn=Trippad|grad=6c+|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=9|namn=Snövitt|grad=7a|betyg=3|längd=15|fa=[[Thomas Hansson]], [[Mikael Widerberg]] [[1992|-92]]|bultar=|typ=sport|text=Superfin med tvist}}
+
+{{led|nr=10|namn=Exposed|grad=7a+|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1993|-93]]|bultar=|typ=sport|text=Kanten}}
+
+{{led|nr=?|namn=Sumpan City|grad=6b|betyg=|längd=|fa=|bultar=|typ=sport|text=Krystad|text=Till höger om Exposed, rakt upp genom tydliga diedret och taket.}}
+
+{{led|nr=?|namn=Skicka|grad=6a+|betyg=|längd=|fa=|bultar=|typ=sport|text=Följer den tydliga sprickan till vänster om Edge-leden. Slutkrux upp till ankaret.}}
+
+{{led|nr=11|namn=Håll ut|grad=7b|betyg=1|längd=15|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=12|namn=Edge leden|grad=7c|betyg=2|längd=15|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport}}
+
+| width="250px" |
+
+{{led|nr=13|namn=Bamse|grad=7b|betyg=2|längd=15|fa=[[Mikael Widerberg]] [[1993|-93]]|bultar=|typ=sport|text=Bamseball}}
+
+{{led|nr=14|namn=Tok arêt|grad=7a|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=15|namn=Coma|grad=7a|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1994|-94]]|bultar=5|typ=sport}}
+
+{{led|nr=16|namn=Schyssta vibbar|grad=6c+|betyg=|längd=15|fa=[[Mikael Widerberg]], [[Lennart Peters]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|nr=17|namn=Acid Rain|grad=7a|betyg=|längd=15|fa=[[Mikael Widerberg]] [[1994|-94]]|bultar=4|typ=sport|text=koppla de tva forsta bultarna pa Schyssta vibbar. Sedan rakt upp}}
+
+{{led|nr=?|namn=Nya tomater|grad=7a+|betyg=|längd=|fa=|bultar=|typ=sport}}
+
+{{led|nr=18|namn=Daniellas babygym|grad=6c|betyg=|längd=15|fa=[[Lennart Peters]], [[Mikael Widerberg]] [[1994|-94]]|bultar=|typ=sport}}
+
+{{led|nr=?|namn=California Camping|grad=7a|betyg=|längd=|fa=|bultar=|typ=sport}}
+
+{{led|nr=?|namn=Trolleden|grad=6a+|betyg=|längd=|fa=|bultar=|typ=sport|text=Saknar hängare}}
+
+|}
+
+{{sidbrytning}}
+
+===Extern förare===
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]
+[[Kategori:Saknar skrivarformatering]]

@@ -1,0 +1,143 @@
+{{info klippa
+  |lat=56.17969813430581
+  |long=15.68075180053711
+}}
+
+{{Komplett}}
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="56.182254" lon="15.661011" type="map" zoom="9" width="300" height="175" controls="small">
+56.17969813430581,15.68075180053711,Knipehall
+
+</googlemap>
+</div>
+
+[[Bild:Knipe1.jpg|500 px||left|thumb|[[Användare:Fredrik Rapp|Henrik Sundal]] {{ledlänk|namn=Riktiga Rörelser 7-}} <br>Foto: Fredrik Rapp]]
+
+
+== Allmänt ==
+
+Knipehall är en ca 100 meter bred och 15 meter hög klippa vackert belägen i östra Blekinge. Ett 30-tal leder bjuder på utmaningar i de flesta grader.
+Klippan, som är av mycket god kvallité, ger ett kompakt intryck men är relativt sprickrik. Här finns såväl sport som aid, men fokuset ligger på tradklättring.<br>
+De lätta lederna längst till höger är mycket mossiga, i övrigt är det rent och fint.
+
+== Access ==
+
+Klippan ligger ganska tätt inpå ett hus (norr om klippan) och vid bryggorna nedanför klippan ligger  massa båtar.
+Hittills har Karlskrona Bergsportförening haft en bra dialog med husägaren, men det är givetvis självklart att man försöker hålla en låg profil när man klättrar här.
+Om du vill göra en nytur som innebär nya borrbultar vill Karlskrona Bergsportförening att du hör av dig till Patrik Lind (patrik.lind {snabela} ltblekinge.se) innan några ingrepp med borren görs.
+
+== Hitta hit ==
+
+Klippan ligger vid havet, ca fem km öster om Karlskrona. Kör E22:an mot Kalmar och ta av höger mot Lösen kyrka/Fäjö. Sväng direkt vänster mot Fäjö och följ vägen ända till bron (till Fäjö). Klippan hittar du till höger precis innan bron.
+
+
+== Södra delen ==
+
+[[Bild:KnipehallTopoM.jpg|thumb|900px|left|<br>Topo: [[Användare:Fredrik Rapp|Fredrik Rapp]]]]
+
+
+{{led|nr=1|namn=BGOV|grad=6|betyg=|längd=
+ |fa=Patrik Lind -96|bultar=|typ=trad|text=}}
+
+{{led|nr=2|namn=4:e april|grad=7|betyg=|längd=
+ |fa=Patrik Lind,-96|bultar=|typ=trad|text=}}
+
+{{led|nr=3|namn=Acromegali|grad=7|betyg=|längd=
+ |fa=Patrik Lind-96|bultar=1|typ=mix|text=}}
+
+{{led|nr=4|namn=Himlen runt hörnet|grad=6|betyg=2|längd=
+ |fa=Okänd|bultar=|typ=trad|text=Den tydligaste sprickan. Fin och välsäkrad.}}
+
+{{led|nr=5|namn=Catch the moon|grad=6/6+|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=6|namn=Uppstigningsleden|grad=4+|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=7|namn=Riktiga rörelser|grad=7-|betyg=1|längd=
+ |fa=Maria Clifford Lind -08|bultar=3|typ=sport|text=En av de enklare helbultade lederna}}
+
+{{led|nr=8a|namn=Cutlass supreme|grad=7+|betyg=1|längd=
+ |fa=Patrik Lind -96|bultar=2|typ=mix|text=Ganska desperat klättring.. }}
+
+{{led|nr=8b|namn=variant|grad=7+|betyg=|längd=
+ |fa=Patrik Lind -96|bultar=2|typ=mix|text=}}
+
+{{led|nr=9|namn=Zorrino|grad=8/8+|betyg=|längd=
+ |fa=Patrik Lind -05|bultar=5|typ=sport|text=}}
+
+{{led|nr=10|namn=Tack till socialen|grad=7|betyg=2|längd=
+ |fa=Mattias Hallsten|bultar=|typ=trad|text=Fin spricka, men med en något svårsäkrad start.}}
+
+{{led|nr=11|namn=Rot rock|grad=7+|betyg=1|längd=
+ |fa=Patrik Lind -96|bultar=3|typ=sport|text=Fin väggorienterad sportklättring.}}
+
+{{led|nr=12|namn=Kaminen|grad=5-|betyg=|längd=
+ |fa=Okänd|bultar=1|typ=mix|text=}}
+
+{{led|nr=13|namn=Typiskt makaroner|grad=6|betyg=|längd=
+ |fa=Maria Clifford Lind -08|bultar=4|typ=sport|text=Diederklättring som är knepigare än den ser ut.. }}
+
+== Norra delen ==
+
+
+{{led|nr=14|namn=HPHP|grad=5-/5|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=15|namn=En tesked tunnt|grad=7|betyg=|längd=
+ |fa=Patrik Lind -08|bultar=0|typ=trad|text=Småjobbig klättring längs tunna sprickor på brant sva.}}
+
+{{led|nr=16a|namn=Direktutsteg|grad=A2+|betyg=|längd=
+ |fa=Patrik Lind -95|bultar=|typ=|text=}}
+
+{{led|nr=16b|namn=Det sjätte kasuset|grad=A2|betyg=|längd=
+ |fa=Okänd|bultar=|typ=|text=}}
+
+{{led|nr=17|namn=Smått och blandat|grad=6|betyg=1|längd=
+ |fa=Okänd|bultar=|typ=trad|text=Om det känns jobbigt i slutet kan man gå över i nästa led när det tunnar ut.;)}}
+
+{{led|nr=18|namn=Spanska flugor|grad=7+|betyg=1|längd=
+ |fa=Patrik Lind -08|bultar=5|typ=sport|text=Startar på areten och går sen upp på ett sva.}}
+
+{{led|nr=19|namn=Kraft|grad=8-|betyg=|längd=
+ |fa=Patrik Lind -09|bultar=2|typ=sport|text=Avslutas i Franska grodor.}}
+
+{{led|nr=20|namn=Franska grodor|grad=7/7+|betyg=3|längd=
+ |fa=Okänd (topprepad av Joakim Fransson -95?)|bultar=3|typ=sport|text=}}
+
+{{led|nr=21|namn=Spandex|grad=7+|betyg=|längd=
+ |fa=Patrik Lind -03|bultar=2|typ=mix|text=Kort krux, i övrigt betydligt lättare. Svår för korta..}}
+
+{{led|nr=22|namn=Blajen|grad=6+|betyg=3|längd=
+ |fa=Okänd|bultar=2|typ=mix|text=}}
+
+{{led|nr=23|namn=Braxylen|grad=6|betyg=2|längd=
+ |fa=Maria Lind -03|bultar=1|typ=mix|text=Lite tunt med säkringar på mitten. Bra med småkilar.}}
+
+{{led|nr=24|namn=Orginal-leden|grad=5-|betyg=1|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=25|namn=Brandt|grad=7-|betyg=1|längd=
+ |fa=Okänd|bultar=1|typ=mix|text=}}
+
+{{led|nr=26|namn=Z-leden|grad=5|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=27|namn=Micke´s led (Pampers nya up´n layback)|grad=5|betyg=|längd=
+ |fa=Mikael Månsson -96|bultar=|typ=trad|text=}}
+
+{{led|nr=28|namn=Ekleden|grad=6-|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=29a|namn=Glass|grad=4+|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=29b|namn=Päron|grad=4|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+
+{{led|nr=30|namn=Grävlingen|grad=3|betyg=|längd=
+ |fa=Okänd|bultar=|typ=trad|text=}}
+[[Kategori:Blekinge]]
+
+[[Bild:Knipe.jpg|250 px|left|thumb|[[Användare:Petter Åsander|Petter Åsander]] {{ledlänk|namn=Orginalleden 5-}} <br>Foto: Tomi Biloglav]]

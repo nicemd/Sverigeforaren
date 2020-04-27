@@ -1,0 +1,61 @@
+{{info klippa
+  |lat=65.0815
+  |long=20.94659
+}}
+
+{{utkast}}
+==Allmänt==
+Huvudsakligen vertikal, med ett par överhäng. Klippan är ganska lös och grepprik.
+
+==Miljö==
+Sydvänd. Torkar väldigt snabbt.
+
+==Vägbeskrivning==
+
+<googlemap lat="65.0815" lon="20.94659" zoom="9" type="map">
+65.0815,20.94659,Hällfors
+</googlemap>
+
+Från väg E4: Sväng av E4an vid norra infarten till Byske. Ta vägen mot Fällfors. Just som du passerat den lilla byn Hällfors tar du höger in på en grusväg. Nu ser du klippan. Håll höger och parkera rakt nedanför klippan. En lätt promenad leder dig upp till väggen.
+
+==Leder==
+
+===Huvudväggen===
+(från vänster till höger)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=East face of fuckface|grad=5+|typ=trad|längd=7|fa=[[Jan-Christer Boström]]|text=Kort tradled på pelaren till vänster om grottan.|)}}
+{{led|namn=Projekt?|grad=projekt?|typ=sport|längd=6|fa=|text=Kort projekt vid grottans öppning. Brant start.|bultar=3|)}}
+{{led|namn=Projekt?|grad=projekt?|typ=sport|längd=6|fa=|text=Kort projekt lite till höger om det andra projektet. Brant start.|bultar=3|)}}
+{{led|namn=Voyager|grad=5-|typ=trad|längd=8|fa=[[Johan Lindström]]|text=Dieder. Mossigt och lite hårt för graden|bultar=|)}}
+{{led|namn=Enterprise|grad=4+|typ=trad|längd=8|fa=[[Johan Lindström]]|text=Dieder. Mossigt.|bultar=|)}}
+{{led|namn=Starla|grad=6-|typ=trad|längd=10|fa=[[Håkan Eklund]]|text=Gemensamt insteg med nästa led.|bultar=|)}}
+| width=300px|
+{{led|namn=?|grad=5+|typ=trad|längd=10|fa=[[Fredrik Andersson]]|text=Gemensamt insteg med Starla. Gemensamt utsteg med nästa led.|bultar=1?|)}}
+{{led|namn=?|grad=5|typ=sport|längd=10|fa=[[Johan Lindström]]|text=Gemensamt utsteg med leden till vänster.|bultar=4|)}}
+{{led|namn=Månstigen|grad=5-|typ=sport|längd=12|fa=[[Johan Lindström]]|text=Något vandrande led.|bultar=4|betyg=1|)}}
+{{led|namn=Solstigen|grad=6+|typ=sport|längd=15|fa=[[Johan Lindström]]|text=Gemensamma bultar och gemensamt insteg med Molnstigen?|bultar=4|betyg=0|)}}
+{{led|namn=Molnstigen|grad=5|typ=sport|längd=15|fa=[[Johan Lindström]]|text=Gemensamma bultar och gemensamt insteg med Molnstigen?|bultar=4|betyg=0|)}}
+{{led|namn=Badkarsmusik|grad=5-|typ=sport|längd=5|fa=[[Håkan Eklund]]|text=Microled somstartar ovanför den högra väggen.|bultar=2|betyg=0|)}}
+|}<br>
+
+===Högra väggen===
+Det som är mest utmärkande med detta väggparti är taket som sträcker sig halva väggens längd. <br> 
+(Leder från vänster till höger)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=?|grad=6+|typ=sport|längd=7|fa=[[Johan Lindström]], [[Johan Konradsson]]|text=Superkort led på vänstra sidan av väggen.|bultar=2|)}} 
+{{led|namn=?|grad=7|typ=sport|längd=13|fa=[[Fredrik Andersson]]|bultar=4|betyg=2|text=Fin led som traverserar vänster ovanför taket. Gemensamt insteg med Stjärnstigen. Ankare.|)}} 
+| width=300px|
+{{led|namn=Stjärnstigen|grad=6+|typ=sport|längd=11|fa=[[Johan Lindström]]|bultar=4|betyg=2|text=Fin led som går rakt upp över taket. Sista klippet är knepigt. Ankare.|)}} 
+{{led|namn=Achtung baby|grad=6-|typ=mix|längd=8|fa=[[Johan Konradsson]]|text=Långt till höger på klippan. Mixad?|)}}
+|}<br>
+
+==Förare==
+Finns med i nätföraren över skellefteå:
+http://www.skelleftea.org/forening/kfumskelleftea/Webforare/www-filer/start.html
+
+[[Kategori:sport]] [[Kategori:vertikalt]]
+[[Kategori:Västerbotten]]

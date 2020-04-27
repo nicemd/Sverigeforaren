@@ -1,0 +1,26 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Obebodd ö i Göteborgs skärgård, till så när som på en del får. Mest bouldering, potentiellt riktigt fin! Ligger bredvid Brännö och nås genom privat båt eller ca 50m simtur. Oklart med access och det enda som står att finna på internet är ett par gamla rader på crimp.se: [http://gbo.crimp.se/omraden.php?oid=18&PHPSESSID=3f1bb25aba3f2627cf55dfc02c3408fb]. Där står det framför allt att denna ö skall hållas fri från topos och grader, något som bör respekteras. Denna artikel är skapad för diskussionssyfte.  
+
+Karta på http://www.ovardar.se/rivo_aspero/karta_stor.html 
+
+
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Göteborg]]

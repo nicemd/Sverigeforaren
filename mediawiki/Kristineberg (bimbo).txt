@@ -1,0 +1,32 @@
+=Allmänt=
+Ett rätt utspritt område med låga block och några väggar av tveksam kvalité. Det finns dock möjlighet att borsta fram lite till och göra någon hyfsat fin nytur runt Nånting. Fördelar med området är ju att det är relativt stadsnära och att det finns gott om trattkantarell när det är säsong!
+
+Området är inte riktigt färdigutforskat. Jag tror att man kan finna ytterligare väggar och block närmare golfbanan norröver, på bägge sidor om vägen.
+
+=Vägbeskrivning=
+Från uppsala; Åk 55:an mot enköping och ta höger mot Läby, 3 km efter de sista rödljusen. Parkera till höger om vägen efter ca 500m eller forsätt en liten bit och parkera intill masten på vänster sida.
+
+<googlemap version="0.9" lat="59.83510629310561" lon="17.513878082652955" type="map" zoom="12" width="500" height="300">
+59.83510629310561, 17.513878082652955, Kristineberg
+</googlemap>
+
+Om man tar riktning mot väggen med Nånting, som jag försökt gissa rätt koordinater för, så kommer man ha blocken utspridda på vänster sida. Ursäkta att jag inte lämnar någon bättre beskrivning av området, men en nära förestående flytt gör att jag inte har tid att gå ut och göra någon ordentlig karta. För tillfället hoppas jag att filmerna som finns länkade nedan är tillräcklig för att hitta problemen..
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Nånting|grad=5C|typ=Arête|fa=H Skoog|landning=4|betyg=1|fadatum=2009-09-14|sopad=H Skoog|sittstart=ja|text=Håll till höger om arêten. Rätt känslig urtoppning.}}
+{{problem|namn=Bonusbanan|grad=6B|typ=Arête|fa=H Skoog|landning=3|betyg=0|fadatum=2009-10-10|sopad=H Skoog|sittstart=ja|text=Från tung start till balansig etablering på sva. Håll vänster om arêten.}}
+| width="250px" |
+{{problem|namn=Hälaren|grad=5B|typ=Vägg|fa=H Skoog|landning=2|betyg=1|fadatum=2009-10-10|sopad=H Skoog|sittstart=ja|text=Småkänslig etablering till vänster på den uppenbara väggen. Sedan är det bara att njuta.. underbart är kort.}}
+| width="250px" |
+{{problem|namn=Herr Trattkantarell|grad=5A|typ=Vägg|fa=H Skoog|landning=2|betyg=0|fadatum=2009-10-10|sopad=H Skoog|sittstart=ja|text=Grepprikt och småtråkigt, men den var så uppenbar att man inte kunde låta bli. Rakt upp till väggens hösta del. Plocka trattkantarellerna innan du lägger ner paddan.}}
+|}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

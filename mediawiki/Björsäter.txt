@@ -1,0 +1,703 @@
+=Allmänt=
+Ett antal sektorer som ligger utspridda över ett par km.
+OBS att det pågår jakt i området och många sektorer är därför stängda under jaktsäsongen. Typ Mitten Oktober - 1 Mars.[[Kategori:Saknar vägbeskrivning]]
+
+=Access {{access}}=
+
+{{AccessDB|klippa=bjorsater}}
+
+=Sektorer=
+==Byrum==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Spin off|grad=6A|typ=Krimp,Layback,Aréte|fa=Johan Lindvall|landning=2|betyg=3|fadatum=2003-04-24|sopad=Johan Lindvall|text=Går på den vänstra sidan av den stora areten på Tjurblocket.}}
+{{problem|namn=Decathlon ss|grad=7B|typ=Krimp,Slopers|fa=Stefan Holm|landning=3|betyg=1|fadatum=2004-05-02|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Bully|grad=7A+|typ=Krimp,Slopers|fa=Stefan Holm|landning=2|betyg=2|fadatum=2004-05-02|sopad=Stefan Holm|text=Nr 11, Tjurblocket, inga grepp i diedret. Bara areten och vänster om den.}}
+{{problem|namn=Bulle i ugnen|grad=6C|typ=Krimp,Aréte|fa=Peter Erhard|landning=2|betyg=2|fadatum=2005-05-02|sopad=Peter Erhard|text=Nr 11, Tjurblocket men med grepp i diedret dock ej fotsteg?}}
+{{problem|namn=Barcarolle|grad=7B|typ=Krimp,Slopers|fa=Stefan Holm|landning=2|betyg=2|fadatum=2005-05-02|sopad=Stefan Holm|sittstart=ja|text=Sittstart något v om "Ungersk dans".}}
+{{problem|namn=Apache|grad=7A+|typ=Krimp,Överhäng|fa=Stefan Holm|landning=4|betyg=2|fadatum=2005-05-02|sopad=Stefan Holm|sittstart=ja|uteslutningar=ja|text=Som nr 33 på Hästblocket men utan areten.}}
+{{problem|namn=Heel raiser|grad=7A|typ=Krimp,Heel hook|fa=Peter Erhard|landning=2|betyg=3|fadatum=2005-05-02|sopad=Peter Erhard|text=Nr 10, Tjurblocket. Bara hornet i starten. Rakt upp/något höger.}}
+{{problem|namn=Shoreline|grad=7A|typ=Krimp,Pinch|fa=Stefan Holm|landning=2|betyg=1|fadatum=2005-05-02|sopad=Stefan Holm|text=Nr 10, Tjurblocket. Klättra snett höger mha dålig krimp ute till vänster.}}
+{{problem|namn=Homohajjen ss|grad=7A|typ=|fa=Stefan Holm|landning=1|betyg=1|fadatum=2005-05-02|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Bullside ss|grad=7A|typ=Aréte|fa=Stefan Holm|landning=1|betyg=2|fadatum=2005-05-02|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Flatlusen|grad=6C|typ=|fa=Stefan Holm|landning=1|betyg=1|fadatum=2005-05-02|sopad=Stefan Holm|text=höger om Homohajjen.}}
+{{problem|namn=Porrhajjen|grad=6C|typ=Slopers,Travers V->H|fa=Stefan Holm|landning=1|betyg=2|fadatum=2005-05-02|sopad=Stefan Holm|sittstart=ja|uteslutningar=ja|text=Start i Porrsälen, utsteg i Homohajjen. Endast 'hyllan' på Porrsälen ingår, ej greppen högre upp.}}
+{{problem|namn=Choriña|grad=7B|typ=Slopers,Pinch|fa=Johan Lindvall/Adam Rosenbaum|landning=1|betyg=3|fadatum=2005-05-02|sopad=Johan Lindvall/Adam Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Mochino|grad=6B|typ=|fa=Johan Lindvall|landning=1|betyg=1|fadatum=2005-05-02|sopad=Johan Lindvall|sittstart=ja|text=}}
+{{problem|namn=Dilemma|grad=7B|typ=Krimp,Slopers,Slab|fa=Stefan Holm|landning=3|betyg=2|fadatum=2004-05-02|sopad=Stefan Holm|uteslutningar=ja|text=Vänster om "Spin off". Ej greppen i sprickan till vänster.}}
+{{problem|namn=Dampvarning|grad=5A|typ=Krimp,Dyno|fa=S Sterner|landning=1|betyg=2|fadatum=2007-08-06|sopad=S Sterner|text=}}
+{{problem|namn=Dampvarning ss|grad=6A|typ=Krimp,Dyno|fa=S Sterner|landning=1|betyg=2|fadatum=2007-08-06|sopad=S Sterner|sittstart=ja|text=Sittstart vänster vid areten}}
+{{problem|namn=Först till kvarn|grad=5B|typ=Krimp|fa=S Sterner|landning=2|betyg=1|fadatum=2007-08-06|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|namn=Nuk|grad=5C|typ=Krimp|fa=S Holm|landning=2|betyg=1|fadatum=2007-08-06|sopad=S Holm|uteslutningar=ja|text=Ej areten.}}
+{{problem|namn=Scybala|grad=5B|typ=|fa=M Börjesson|landning=3|betyg=1|fadatum=2007-08-06|sopad=M Börjesson|text=}}
+{{problem|namn=Puss på Bush|grad=5A|typ=Krimp,Slopers,Pinch|fa=J Lindfors|landning=2|betyg=2|fadatum=2007-08-06|sopad=J Lindfors|text=}}
+{{problem|namn=Tant grön|grad=5B|typ=|fa=S Sterner|landning=2|betyg=1|fadatum=2007-08-06|sopad=S Sterner|text=Morpho}}
+{{problem|namn=Grizzly|grad=4A|typ=|fa=J Kjellberg|landning=2|fadatum=2007-08-06|sopad=J Kjellberg|sittstart=ja|text=}}
+{{problem|namn=?|grad=-|typ=|fa=A Jonsson|landning=1|fadatum=2007-08-06|sopad=A Jonsson|sittstart=ja|text=}}
+{{problem|namn=Trålaren|grad=5B|typ=|fa=T Granlund|landning=3|betyg=1|fadatum=2007-08-06|sopad=T Granlund|sittstart=ja|text=}}
+{{problem|namn=Sputnik|grad=7A+|typ=Krimp|fa=W Kjell/A Rosenbaum|landning=2|betyg=1|fadatum=2007-08-06|sopad=W Kjell/A Rosenbaum|sittstart=ja|text=Lättare nu när trädet blåst ned?}}
+{{problem|namn=Skoter|grad=5B|typ=|fa=S Holm|landning=2|betyg=1|fadatum=2007-08-06|sopad=S Holm|text=}}
+{{problem|namn=Brysselsteget|grad=5B|typ=Krimp|fa=T Granlund|landning=2|betyg=1|fadatum=2007-08-06|sopad=T Granlund|text=}}
+{{problem|namn=Ole Ivars|grad=5C|typ=|fa=A Rosenbaum|landning=3|betyg=2|fadatum=2007-08-06|sopad=A Rosenbaum|text=Stor sandbag eller fel info?}}
+{{problem|namn=Hövelflis|grad=6B+|typ=Överhäng,Highball|fa=A Rosenbaum|landning=4|betyg=3|fadatum=2007-08-06|sopad=A Rosenbaum|text=Löst startgrepp!!!Betydligt hårdare än 6b+...}}
+{{problem|namn=Usch Bush|grad=6A|typ=Dyno|fa=C Eriksson|landning=3|betyg=3|fadatum=2007-08-06|sopad=C Eriksson|text=Löst startgrepp!!!}}
+{{problem|namn=Eldorado|grad=6A|typ=Highball,Aréte|fa=W Kjell|landning=3|betyg=2|fadatum=2007-08-06|sopad=W Kjell|text=}}
+{{problem|namn=Svaet|grad=5C|typ=Slab,Highball,Spricka|fa=A Rosenbaum|landning=4|betyg=2|fadatum=2007-08-06|sopad=A Rosenbaum|text=}}
+| width="250px" |
+{{problem|namn=Betongröv|grad=6A|typ=|fa=T Granlund|landning=2|fadatum=2007-08-06|sopad=T Granlund|sittstart=ja|text=}}
+{{problem|namn=Fjäder fjärt|grad=3B|typ=|fa=J Kjellberg|landning=2|fadatum=2007-08-06|sopad=J Kjellberg|text=}}
+{{problem|namn=Mossiv Attack|grad=6A|typ=Mantling|fa=S Sterner|landning=2|betyg=2|fadatum=2007-08-06|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|namn=Mosshysteria|grad=-|typ=|fa=S Sterner|fadatum=2007-08-06|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|namn=Makadam|grad=6B|typ=|fa=W Kjell|landning=2|fadatum=2007-08-06|sopad=W Kjell|sittstart=ja|text=}}
+{{problem|namn=Nr 22, Byrum plan 1|grad=6B|typ=|fa=A Rosenbaum|landning=2|fadatum=2007-08-06|sopad=A Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Tigerbalsam|grad=3C|typ=|fa=J Kjellberg|landning=1|fadatum=2007-08-06|sopad=J Kjellberg|text=}}
+{{problem|namn=All man's right|grad=-|typ=|fa=S Sterner|landning=1|fadatum=2007-08-06|sopad=S Sterner|text=}}
+{{problem|namn=Wasabi|grad=6A|typ=|fa=W Kjell|landning=1|fadatum=2007-08-06|sopad=W Kjell|text=}}
+{{problem|namn=Basra|grad=6B|typ=|fa=W kjell|landning=1|fadatum=2007-08-06|sopad=W kjell|sittstart=ja|text=}}
+{{problem|namn=Nr 27, Byrum plan 1|grad=5B|typ=|fa=A Rosenbaum|landning=1|fadatum=2007-08-06|sopad=A Rosenbaum|sittstart=ja|text=utsteg höger}}
+{{problem|namn=Nr 27, Byrum plan 1|grad=5C|typ=|fa=A Rosenbaum|landning=1|fadatum=2007-08-06|sopad=A Rosenbaum|sittstart=ja|text=utsteg vänster}}
+{{problem|namn=Koff|grad=4C|typ=|fa=W Kjell|fadatum=2007-08-06|sopad=W Kjell|sittstart=ja|text=}}
+{{problem|namn=Nr 29, Byrum plan 1|grad=6A|typ=|fa=A Rosenbaum|landning=1|fadatum=2007-08-06|sopad=A Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Bounst|grad=6A|typ=|fa=J Sterner|landning=4|betyg=2|sopad=J Sterner|text=}}
+{{problem|namn=Mamma Mu|grad=4C|typ=|fa=W Kjell|sopad=W Kjell|text=}}
+{{problem|namn=Idissla|grad=7A|typ=Överhäng|fa=W Kjell|landning=2|betyg=3|sopad=W Kjell|sittstart=ja|text=}}
+{{problem|namn=Fräck front|grad=6B|typ=|fa=W Kjell|landning=3|betyg=2|sopad=W Kjell|text=}}
+{{problem|namn=Kal|grad=5A|typ=|fa=J Sterner|sopad=J Sterner|text=}}
+{{problem|namn=Hygge|grad=5C|typ=|fa=J Sterner|sopad=J Sterner|text=}}
+{{problem|namn=Nr 1, Byrum plan 2|grad=5C|typ=|fa=S Sterner|landning=2|sopad=S Sterner|text=}}
+{{problem|namn=Myror i brallan|grad=5C|typ=|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|namn=Aerodynamitnäsan|grad=6C|typ=Krimp,Heel hook|fa=S Holm|landning=2|betyg=1|sopad=S Holm|sittstart=ja|text=}}
+{{problem|namn=Nr 4, Byrum plan 2|grad=5C|typ=|fa=M Sköldstam|landning=2|betyg=3|sopad=M Sköldstam|sittstart=ja|text=Innehåller allt man kan önska av en 5+}}
+{{problem|namn=Zonk|grad=5A|typ=|fa=M Börjesson/T Granlund|landning=2|betyg=2|sopad=M Börjesson/T Granlund|text=}}
+{{problem|namn=Nollgrader|grad=7A|typ=Överhäng|fa=C Eriksson|landning=4|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|namn=2+|grad=6C+|typ=|fa=C Eriksson|landning=4|sopad=C Eriksson|text=}}
+{{problem|namn=Nr 7, Byrum plan 2|grad=-|typ=Överhäng|fa=W Kjell|landning=4|sopad=W Kjell|sittstart=ja|text=}}
+{{problem|namn=Skiathlon|grad=5C|typ=Krimp,Slopers|fa=S Holm/M Börjesson|landning=2|betyg=2|sopad=S Holm/M Börjesson|text=}}
+{{problem|namn=Devil's thumb|grad=4C|typ=|fa=J Lindfors|landning=2|betyg=2|sopad=J Lindfors|text=}}
+{{problem|namn=Sengångaren|grad=5A|typ=|fa=S Sterner|landning=2|betyg=1|sopad=S Sterner|text=}}
+{{problem|namn=Buskis|grad=6A|typ=Slab|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|namn=Dirty Harry|grad=5C|typ=|fa=S Sterner/J Lindfors|landning=2|sopad=S Sterner/J Lindfors|text=}}
+{{problem|namn=Porrsälen|grad=6B|typ=Krimp,Slopers,Överhäng|fa=C Eriksson/J Lindfors|landning=2|betyg=3|sopad=C Eriksson/J Lindfors|sittstart=ja|text=}}
+{{problem|namn=Homohajen|grad=5C|typ=Slopers|fa=J Lindfors|landning=2|betyg=1|sopad=J Lindfors|text=}}
+{{problem|namn=Växtvärk|grad=5C|typ=|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|namn=Essens variant|grad=4C|typ=|fa=W Kjell|landning=2|sopad=W Kjell|text=}}
+{{problem|namn=Essens|grad=6B+|typ=Krimp,Slopers,Dyno|fa=W Kjell|landning=2|betyg=2|sopad=W Kjell|text=}}
+{{problem|namn=Spin-Off|grad=6A|typ=Layback|fa=J Lindvall|landning=2|betyg=3|sopad=J Lindvall|text=}}
+{{problem|namn=Profesia|grad=7A|typ=Krimp,Pinch,Layback|fa=C Eriksson|landning=2|betyg=3|sopad=C Eriksson|sittstart=ja|text="Sverige topp 10"}}
+{{problem|namn=Profesia stå|grad=6C+|typ=|fa=C Eriksson|landning=2|betyg=3|sopad=C Eriksson|text=}}
+{{problem|namn=Barba fin|grad=5A|typ=|fa=A Rosenbaum/J Kjellberg|landning=1|sopad=A Rosenbaum/J Kjellberg|sittstart=ja|text=}}
+{{problem|namn=Francois le gran|grad=5C|typ=|fa=A Rosenbaum/J Kjellberg|landning=1|sopad=A Rosenbaum/J Kjellberg|sittstart=ja|text=}}
+{{problem|namn=Bill & Bull|grad=6A|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|namn=Hellström suger|grad=6C|typ=Dyno|fa=A Rosenbaum|landning=2|betyg=3|sopad=A Rosenbaum|text=}}
+{{problem|namn=Bullside|grad=6A|typ=Aréte|fa=J Lindfors|landning=1|betyg=2|sopad=J Lindfors|text=}}
+{{problem|namn=Bullside sittstart|grad=6C|typ=Aréte|fa=S Holm|landning=1|betyg=2|sopad=S Holm|sittstart=ja|text=}}
+{{problem|namn=Mupparna på 210:an|grad=-|typ=|fa=J Kjellberg/S Sterner|sopad=J Kjellberg/S Sterner|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=Bullar och saft|grad=6B|typ=|fa=S Holm|landning=2|betyg=1|sopad=S Holm|text=}}
+{{problem|namn=Red Bull|grad=5C|typ=|fa=J Lindfors|landning=2|sopad=J Lindfors|text=}}
+{{problem|namn=Ungersk dans|grad=6A|typ=|fa=C Eriksson|landning=2|betyg=1|sopad=C Eriksson|text=}}
+{{problem|namn=Hästlegender|grad=5B|typ=Aréte|fa=S Sterner|landning=2|betyg=3|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|namn=Mulen|grad=6B|typ=|fa=M Sköldstam|landning=2|betyg=3|sopad=M Sköldstam|text=}}
+{{problem|namn=Manen|grad=6C|typ=Aréte|fa=C Eriksson/M Sköldstam|landning=2|betyg=2|sopad=C Eriksson/M Sköldstam|sittstart=ja|text=}}
+{{problem|namn=Gnega|grad=6A|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|namn=Dega|grad=6B|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|namn=Nr 3, Byrum plan 3|grad=4B|typ=|fa=J Lindfors|sopad=J Lindfors|text=}}
+{{problem|namn=Så nära, men ...|grad=5C|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|namn=Nr 5, Byrum plan 3|grad=3B|typ=|fa=J Lindfors|sopad=J Lindfors|sittstart=ja|text=}}
+{{problem|namn=Nr 6, Byrum plan 3|grad=3B|typ=|fa=J Lindfors|sopad=J Lindfors|text=}}
+{{problem|namn=Nr 7, Byrum plan 3|grad=-|typ=|fa=J Lindfors|sopad=J Lindfors|text=}}
+{{problem|namn=Cresent|grad=5A|typ=|fa=M Börjesson|landning=2|sopad=M Börjesson|text=}}
+{{problem|namn=Monark|grad=5C|typ=|fa=M Börjesson|landning=2|sopad=M Börjesson|text=}}
+{{problem|namn=DBS|grad=3B|typ=|fa=M Börjesson|landning=2|sopad=M Börjesson|text=}}
+{{problem|namn=Flicking|grad=4B|typ=|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|namn=Le col|grad=6A|typ=Krimp,Slopers|fa=S Holm|landning=2|betyg=2|sopad=S Holm|text=}}
+{{problem|namn=à bloc|grad=6A+|typ=Krimp|fa=S Holm|landning=2|betyg=2|sopad=S Holm|uteslutningar=ja|text=Smalt problem, bara krimpers.}}
+{{problem|namn=Bianchi|grad=5A|typ=|fa=S Holm|landning=2|betyg=2|sopad=S Holm|text=}}
+{{problem|namn=Peloton|grad=4B|typ=|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|namn=Domestique|grad=5C|typ=Slopers,Mantling|fa=S Holm|landning=2|betyg=1|sopad=S Holm|text=}}
+{{problem|namn=Poursuivant|grad=5B|typ=|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|namn=Les Pyrinées|grad=6A|typ=|fa=S Holm|landning=2|fadatum=2007-08-07|sopad=S Holm|text=}}
+{{problem|namn=Armstrong|grad=5B|typ=|fa=S Holm|landning=2|betyg=1|sopad=S Holm|text=Hoppstart}}
+{{problem|namn=ståstart I|grad=5B|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|namn=ståstart II|grad=5A|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|namn=Känn på den|grad=3A|typ=Aréte|fa=S Holm|sopad=S Holm|text=}}
+{{problem|namn=Byrumsvaet|grad=6A|typ=Slab|fa=M Sköldstam|landning=2|betyg=1|sopad=M Sköldstam|text=}}
+{{problem|namn=Tricky|grad=6B|typ=Highball,Aréte|fa=M Sköldstam/S Holm|landning=4|betyg=2|sopad=M Sköldstam/S Holm|text=}}
+{{problem|namn=Dä ä gött mä nyp!|grad=6A|typ=|fa=M Sköldstam|landning=4|betyg=2|sopad=M Sköldstam|text=}}
+{{problem|namn=Förspel i urskogen|grad=5C|typ=|fa=M Sköldstam|landning=4|betyg=1|sopad=M Sköldstam|text=}}
+{{problem|namn=ståstart|grad=5B|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|namn=Lamapn ä schläckt|grad=5C|typ=|fa=M Sköldstam|landning=3|betyg=1|sopad=M Sköldstam|text=}}
+{{problem|namn=Delta|grad=5A|typ=Pinch|fa=S Holm|landning=2|sopad=S Holm|sittstart=ja|text=}}
+{{problem|namn=Kryp-in|grad=5C|typ=|fa=S Holm|sopad=S Holm|text=}}
+{{problem|namn=CC cowboys|grad=6C|typ=|fa=S Holm|sopad=S Holm|text=}}
+{{problem|namn=Listad|grad=6A|typ=Slab|fa=S Holm|landning=3|sopad=S Holm|uteslutningar=ja|text=}}
+{{problem|namn=Stick i fingret|grad=6A|typ=|fa=M Sköldstam|landning=5|betyg=2|sopad=M Sköldstam|text=}}
+{{problem|namn=Vesslan|grad=6A|typ=|fa=M Sköldstam|betyg=2|sopad=M Sköldstam|text=}}
+{{problem|namn=Hale hopp|grad=6C|typ=|fa=S Holm/M Sköldstam|landning=3|betyg=1|sopad=S Holm/M Sköldstam|text=Hoppstart}}
+{{problem|namn=Gömma pinne|grad=5A|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|namn=Flisa|grad=4B|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|namn=Konrad|grad=5C|typ=|fa=M Sköldstam|landning=2|betyg=2|sopad=M Sköldstam|text=}}
+{{problem|namn=Yllekofta|grad=6A|typ=|fa=S Holm|landning=3|sopad=S Holm|startgrepp=ja|text=}}
+{{problem|namn=Karsten|grad=6B+|typ=|fa=S Holm|landning=3|sopad=S Holm|text=}}
+{{problem|namn=Gallup|grad=5A|typ=|fa=S Holm|sopad=S Holm|text=}}
+{{problem|namn=Katalina|grad=4C|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|namn=Porrsälen direkt|grad=6B+|typ=Slopers,Aréte|fa=Stefan Holm m.fl?|landning=1|betyg=2|fadatum=2007-10-17|sopad=Stefan Holm m.fl?|sittstart=ja|text=Samma start som orginalet men sedan rakt upp längs areten.}}
+{{problem|namn=Rodeo ss|grad=7A|typ=Krimp,Slopers,Toe hook|fa=Stefan Holm|landning=3|betyg=2|fadatum=2007-10-22|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Rodeo|grad=5C|typ=Krimp,Slopers|fa=Stefan Holm|landning=3|betyg=1|fadatum=2005-10-22|sopad=Stefan Holm|text=}}
+{{problem|namn=Bulleribock|grad=5C|typ=|fa=Stefan Holm|landning=3|betyg=1|fadatum=2005-10-22|sopad=Stefan Holm|text=}}
+|}
+==Hemsjön==
+Klättra inte här under jaktsäsongen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Yggdrasil|grad=6C|typ=Krimp,Slopers,Layback,Aréte|fa=Christian Eriksson|landning=2|fadatum=2003-04-24|sopad=Christian Eriksson|text=Följer areten till toppen.}}
+{{problem|namn=Yggdrasil ss|grad=7A|typ=Krimp,Slopers,Överhäng,Aréte,Heel hook|fa=Christian Eriksson|landning=2|betyg=3|fadatum=2003-04-26|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Full fart mot döden|grad=7B|typ=Mantling,Överhäng|fa=Adam Rosenbaum/Peter Erhard|landning=4|betyg=3|fadatum=2004-05-02|sopad=Adam Rosenbaum/Peter Erhard|text=}}
+{{problem|namn=Nr 30|grad=7A+|typ=Krimp,Dyno|fa=Johan Andersson|landning=3|fadatum=2005-05-02|sopad=Johan Andersson|text=}}
+{{problem|namn=Nr 30|grad=6B|typ=Krimp,Dyno|fa=Johan Andersson ?|landning=3|betyg=2|fadatum=2005-05-02|sopad=Johan Andersson ?|text=}}
+{{problem|namn=Nr 31|grad=6C|typ=Krimp|fa=Stefan Holm|landning=3|fadatum=2004-05-02|sopad=Stefan Holm|text=}}
+{{problem|namn=Minaret|grad=7A|typ=Krimp,Aréte|fa=Stefan Holm|landning=4|betyg=2|fadatum=2004-05-02|sopad=Stefan Holm|text=}}
+{{problem|namn=Chilli|grad=6C|typ=Highball|fa=Stefan Holm|landning=5|betyg=2|fadatum=2004-05-02|sopad=Stefan Holm|text=Nr 37}}
+{{problem|namn=Sädes-Erland|grad=6C|typ=Aréte|fa=Manne Anliot|landning=1|betyg=2|fadatum=2005-05-02|sopad=Manne Anliot|sittstart=ja|text=}}
+{{problem|namn=Sirius|grad=6C+|typ=Krimp,Slopers|fa=Stefan Holm|landning=3|betyg=2|fadatum=2007-05-02|sopad=Stefan Holm|sittstart=ja|text=Sittstart vid 21.1, sedan utsteg åt höger.}}
+{{problem|namn=Gottegrisen|grad=6A|typ=|fa=Manne/Staffan?|fadatum=2005-05-02|sopad=Manne/Staffan?|text=}}
+| width="250px" |
+{{problem|namn=Montecarlo|grad=6A|typ=|fa=Adam Rosenbaum|landning=2|betyg=2|fadatum=2004-05-02|sopad=Adam Rosenbaum|sittstart=ja|text=Kebabblocket}}
+{{problem|namn=Stark sås|grad=7A|typ=|fa=Manne Anliot|landning=2|betyg=2|fadatum=2005-05-02|sopad=Manne Anliot|sittstart=ja|text=Kebabblocket}}
+{{problem|namn=Voitek|grad=7B+|typ=Krimp,Slopers,Slab,Highball|fa=Stefan Holm|landning=5|betyg=3|fadatum=2007-05-02|sopad=Stefan Holm|text=Kebabblocket}}
+{{problem|namn=Sikta mot stjärnorna|grad=6C+|typ=Krimp,Mantling,Slab,Highball|fa=Stefan Holm|landning=5|betyg=1|fadatum=2007-05-02|sopad=Stefan Holm|text=Kebabblocket}}
+{{problem|namn=Rampage|grad=7A|typ=|fa=Christina Eriksson/Adam Rosenbaum|landning=2|betyg=3|fadatum=2001-05-04|sopad=Christina Eriksson/Adam Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Bill|grad=6A|typ=Slopers,Aréte|landning=2|betyg=1|fadatum=2007-11-07|text=50m in i skogen på v. sida vägen mittemot hygget. Strax innan man kommer fram till stenen med Yggdrasil o.s.v. Det var mossigt så det borde varit ogjort. Ståstart aréten v. sida.}}
+{{problem|namn=Bull|grad=6A|typ=Krimp,Överhäng|landning=3|fadatum=2007-11-07|sittstart=ja|text=50m in i skogen v. sida mittemot hygget strax innan Yggdrasilstenen. h. om "bill". Rakt upp på överhäng.}}
+{{problem|nr=1|namn=Min tv-tittande kontorsråttekropp|grad=5C|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=1|namn=Pacta sunt servanda|grad=5B|typ=|fa=S Sterner|landning=2|sopad=S Sterner|text=}}
+{{problem|nr=2|namn=Takleden|grad=-|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+| width="250px" |
+{{problem|nr=2|namn=Oväntat besök|grad=5C|typ=Slab|fa=S Sterner|landning=2|betyg=2|sopad=S Sterner|text=}}
+{{problem|nr=3|namn=Mycket snack, lite verkstad|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=3|namn=Frej|grad=6A|typ=|fa=C Eriksson|landning=3|betyg=2|sopad=C Eriksson|text=}}
+{{problem|nr=4|namn=Fotsvamp|grad=3B|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|nr=4|namn=Freja|grad=5C|typ=|fa=C Eriksson|landning=3|sopad=C Eriksson|text=}}
+{{problem|nr=5|namn=Glömt klätterskorna|grad=5C|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=5|namn=Damviken|grad=6B|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=6|namn=Tiomila|grad=6B|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=6|namn=Nine in Nelds|grad=5A|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=7|namn=Hallux Valgus|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=7|namn=Musik och simpropp|grad=4C|typ=|fa=S Sterner|landning=2|sopad=S Sterner|text=}}
+{{problem|nr=8|namn=J's fallgas|grad=3B|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=8|namn=Slyröjjjaren|grad=5C|typ=|fa=S Sterner|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|nr=9|namn=B's startgas|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=10|namn=C's spottgas|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=11|namn=Pigall|grad=6A|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=12|namn=Mördarmyrorna|grad=5B|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+|}
+==Norrviken==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Pulvriserad Tysk|grad=6A|typ=Krimp,Layback|fa=Tim Granlund/Stefan Holm|landning=1|betyg=2|fadatum=2003-04-26|sopad=Tim Granlund/Stefan Holm|text=}}
+{{problem|namn=Solflykt|grad=6A+|typ=Krimp,Layback,Travers H->V|fa=Christian Eriksson|landning=1|betyg=2|fadatum=2002-04-26|sopad=Christian Eriksson|text=}}
+{{problem|namn=Mountain Dew|grad=7A+|typ=Slopers|fa=Stefan Holm|landning=1|betyg=2|fadatum=2004-04-26|sopad=Stefan Holm|text=Nr 2, Norrviken}}
+{{problem|namn=Stjärtselleri|grad=6C|typ=Krimp,Reach|fa=Stefan Holm|landning=1|betyg=2|fadatum=2003-04-26|sopad=Stefan Holm|text=Nr 3, Norrviken. In bakom enen.}}
+{{problem|namn=Shaver|grad=6B+|typ=Krimp,Dyno|fa=Stefan Holm|landning=1|betyg=1|fadatum=2007-04-26|sopad=Stefan Holm|text=Mellan nr 1 & 2, Norrviken}}
+{{problem|namn=?|grad=5C|typ=|fa=Martin Perk|landning=1|betyg=1|fadatum=2002-04-26|sopad=Martin Perk|text=Nr 6, Norrviken}}
+{{problem|namn=Palsternackssoppa|grad=4C|typ=|fa=Elin Boström Holm|landning=1|betyg=1|fadatum=2003-04-26|sopad=Elin Boström Holm|text=Nr 7, Norrviken}}
+{{problem|namn=Vass|grad=2|typ=|fa=Elin Boström Holm|landning=1|betyg=1|fadatum=2003-04-26|sopad=Elin Boström Holm|text=Nr 8, Norrviken}}
+{{problem|namn=Minisva|grad=4C|typ=Slab|fa=Elin Boström Holm|landning=1|betyg=1|fadatum=2003-04-26|sopad=Elin Boström Holm|text=Nr 9, Norrviken}}
+{{problem|namn=Nattkörning|grad=6B+|typ=Slopers,Överhäng,Heel hook|fa=Stefan Holm|landning=3|betyg=2|fadatum=2002-04-26|sopad=Stefan Holm|text=Nr 10, Norrviken}}
+{{problem|namn=Nattkörning ss (Rebus)|grad=7A|typ=Slopers,Överhäng,Heel hook|fa=Stefan Holm|landning=3|betyg=3|fadatum=2004-04-26|sopad=Stefan Holm|sittstart=ja|text=Nr 10, Norrviken.}}
+{{problem|namn=Omkörning|grad=6A+|typ=Slopers,Överhäng|fa=Stefan Holm|landning=3|betyg=1|fadatum=2004-04-26|sopad=Stefan Holm|text=Nr 11, Norrviken.}}
+{{problem|namn=Marsminnen|grad=6B|typ=Överhäng|fa=Stefan Holm|landning=3|betyg=2|fadatum=2002-04-26|sopad=Stefan Holm|text=Nr 12, Norrviken. Nyttgrepp => ny grad. 6C => 6B}}
+{{problem|namn=Greppet|grad=4B|typ=|fa=Stefan Holm|landning=3|betyg=1|fadatum=2002-04-26|sopad=Stefan Holm|text=Nr 13, Norrviken}}
+{{problem|namn=Statique ?|grad=7A|typ=Krimp,Mantling,Reach|fa=Johan + Chrille?|landning=3|betyg=2|fadatum=2006-04-26|sopad=Johan + Chrille?|text=Mellan 11 & 12, Norrviken}}
+| width="250px" |
+{{problem|namn=Martin problem 1|grad=4B|typ=Slab|fa=Maritin Börjesson|landning=3|betyg=1|fadatum=2006-04-26|sopad=Maritin Börjesson|text=14 Norrviken}}
+{{problem|namn=Fjäderlätt|grad=4B|typ=Slab|fa=Martin Börjesson|landning=3|betyg=1|fadatum=2002-04-26|sopad=Martin Börjesson|text=16 Norrviken}}
+{{problem|namn=Fru Börjesson|grad=3A|typ=Slab|fa=Linnea Börjesson|landning=3|betyg=1|fadatum=2002-04-26|sopad=Linnea Börjesson|text=17 Norrviken}}
+{{problem|namn=Yrvaken|grad=4B|typ=Mantling|fa=Elin Boström Holm|landning=3|fadatum=2002-04-26|sopad=Elin Boström Holm|text=18 Norrviken}}
+{{problem|namn=Yrvaken ss|grad=5B|typ=Mantling|fa=Stefan Holm|landning=3|fadatum=2002-04-26|sopad=Stefan Holm|text=18 Norrviken}}
+{{problem|namn=Knogjärn|grad=5B|typ=Krimp|fa=Stefan Holm|landning=3|fadatum=2002-04-26|sopad=Stefan Holm|text=19 Norrviken}}
+{{problem|namn=Här kommer lyckan|grad=6C+|typ=Krimp,Slopers,Mantling,Överhäng,Highball,Toe hook|fa=Stefan Holm|landning=3|betyg=3|fadatum=2002-04-26|sopad=Stefan Holm|sittstart=ja|uteslutningar=ja|text=20 Norrviken. Rakt upp över bullen. Ej stora greppet långt vänster (off route men ändå).}}
+{{problem|namn=Hoppats på något|grad=6B|typ=Krimp,Slopers,Reach|fa=Stefan Holm|landning=3|betyg=2|fadatum=2002-04-26|sopad=Stefan Holm|text=21 Norrviken. Hårdare än 6A.}}
+{{problem|namn=Den maximala hastigheten|grad=5B|typ=Krimp,Slopers|fa=Stefan Holm|landning=3|betyg=1|fadatum=2002-04-26|sopad=Stefan Holm|text=23 Norrviken.}}
+{{problem|namn=Komanteln|grad=5B|typ=Mantling|fa=Martin Börjesson|landning=1|betyg=1|fadatum=2002-04-26|sopad=Martin Börjesson|text=Nr 24, Norrviken}}
+{{problem|namn=Den falske kakaoinspektören|grad=5A|typ=Slab,Aréte|fa=Tim Granlund|landning=1|betyg=1|fadatum=2003-04-26|sopad=Tim Granlund|text=Nr 25, Norrviken}}
+{{problem|namn=Drakryggen|grad=4B|typ=|fa=Elin Boström Holm|landning=1|fadatum=2003-04-26|sopad=Elin Boström Holm|text=Nr 26, Norrviken}}
+{{problem|namn=Hajgapet|grad=6B|typ=Överhäng|fa=Magnus Hansen|landning=1|betyg=1|fadatum=2003-04-26|sopad=Magnus Hansen|sittstart=ja|text=Nr 27, Norrviken}}
+{{problem|namn=Hello Nasty|grad=6B|typ=|fa=Stefan Holm|landning=1|fadatum=2002-04-26|sopad=Stefan Holm|sittstart=ja|text=Nr 28, Norrviken. Extremt låg.}}
+| width="250px" |
+{{problem|namn=Kosprång|grad=5A|typ=|fa=Martin Börjesson|landning=1|fadatum=2002-04-26|sopad=Martin Börjesson|text=Nr 29, Norrviken. Hoppstart}}
+{{problem|namn=?|grad=-|typ=|fa=Martin Börjesson|landning=2|fadatum=2002-04-26|sopad=Martin Börjesson|sittstart=ja|text=Nr 30 Norrviken}}
+{{problem|namn=Tripp|grad=1|typ=|fa=Linne Börjesson|landning=1|fadatum=2002-04-26|sopad=Linne Börjesson|text=Nr 32 Norrviken}}
+{{problem|namn=Trapp|grad=1|typ=|fa=Linnea Börjesson|landning=1|fadatum=2002-04-26|sopad=Linnea Börjesson|text=Nr 33 Norrviken}}
+{{problem|namn=Trull|grad=1|typ=|fa=Linnea Börjesson|landning=1|fadatum=2007-04-26|sopad=Linnea Börjesson|text=Nr 34, Norrviken}}
+{{problem|namn=Emu|grad=6A|typ=Slab|fa=Stefan Holm|landning=2|betyg=2|fadatum=2002-04-26|sopad=Stefan Holm|text=Nr 35, Norrviken}}
+{{problem|namn=Struts|grad=5C|typ=Slab|fa=Stefan Holm|landning=2|fadatum=2003-04-26|sopad=Stefan Holm|text=Nr 36, Norrviken}}
+{{problem|namn=Havre kiks|grad=3A|typ=|fa=Elin Boström Holm|landning=1|fadatum=2002-04-26|sopad=Elin Boström Holm|text=Nr 37, Norrviken}}
+{{problem|namn=Groove Holmes|grad=6B|typ=Highball|fa=Stefan Holm|landning=6|betyg=1|fadatum=2003-04-26|sopad=Stefan Holm|text=Nr 39, Norrviken. Landningen består av ett taggtrådsstängsel.}}
+{{problem|namn=Nattsvart|grad=6A|typ=|fa=Stefan Holm|landning=5|fadatum=2003-04-26|sopad=Stefan Holm|text=Nr 40, Norrviken}}
+{{problem|namn=Nattsudd|grad=5C|typ=|fa=Walter Kjell|landning=4|fadatum=2003-04-26|sopad=Walter Kjell|text=Nr 42, Norrviken}}
+{{problem|namn=Andromeda|grad=6A|typ=Överhäng|fa=Stefan Holm|landning=3|betyg=2|fadatum=2003-04-26|sopad=Stefan Holm|text=Nr 43, Norrviken}}
+{{problem|namn=En långvarig förlovning|grad=7B|typ=Mantling,Dyno|fa=Peter Erhard|landning=3|betyg=2|fadatum=2005-04-26|sopad=Peter Erhard|text=Samma start som nr 43 (Norrviken) men dynamiskt rakt upp (vänster om areten).}}
+{{problem|namn=Feter Pan|grad=7B|typ=Slopers,Aréte,Heel hook|fa=Adam Rosenbaum|landning=4|betyg=3|fadatum=2007-04-27|sopad=Adam Rosenbaum|text=Problemet finns nere vid kraftledningen. Klättra rakt upp genom att slappa båda areterna.}}
+|}
+==Kraftledningen==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Sparven från Minsk|grad=6C|typ=Krimp,Slopers|fa=Stefan Holm/Tim Granlund|landning=3|betyg=1|fadatum=2003-05-07|sopad=Stefan Holm/Tim Granlund|text=}}
+{{problem|namn=Nr 2|grad=-|typ=|fa=Martin Börjesson|fadatum=2002-05-07|sopad=Martin Börjesson|text=}}
+{{problem|namn=Svett|grad=4B|typ=|fa=Stefan Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Våt|grad=5B|typ=|fa=Stefan Holm|landning=2|betyg=1|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Nr 5|grad=-|typ=|fadatum=2002-05-07|text=}}
+{{problem|namn=Nr 6|grad=4B|typ=Slab|fa=Walter Kjell|landning=1|betyg=1|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+{{problem|namn=Nr 7|grad=5A|typ=|fa=Markus Sköldstam|landning=1|fadatum=2002-05-07|sopad=Markus Sköldstam|text=}}
+{{problem|namn=Den siste mohawkanen|grad=5C|typ=Krimp,Pinch,Dyno|fa=Christian Eriksson|landning=2|betyg=2|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Krafttag|grad=5B|typ=|fa=Walter Kjell|landning=2|betyg=2|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+{{problem|namn=Kraftig och saftig|grad=5B|typ=Krimp,Slopers,Mantling,Överhäng|fa=Christian Eriksson|landning=3|betyg=3|fadatum=2007-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Haft kraft|grad=6B|typ=Slopers,Mantling,Överhäng,Travers V->H,Jug,Spricka|fa=Christian Eriksson|landning=3|betyg=3|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Zoega|grad=-|typ=Krimp,Slopers,Mantling,Överhäng,Jug|fa=Christian Eriksson|landning=3|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Kraftlös|grad=7A+|typ=Aréte|fa=Walter Kjell/Adam Rosenbaum|landning=3|fadatum=2002-05-07|sopad=Walter Kjell/Adam Rosenbaum|text=}}
+{{problem|namn=Nr 13|grad=-|typ=|fadatum=2002-05-07|text=}}
+{{problem|namn=Snattis Kattis|grad=5A|typ=|fa=Kattis Sköldstam/Johan Lindfors|fadatum=2002-05-07|sopad=Kattis Sköldstam/Johan Lindfors|text=}}
+{{problem|namn=Nr 15|grad=-|typ=|fa=Walter Kjell|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+| width="250px" |
+{{problem|namn=Nr 16|grad=-|typ=|fa=Johan Lindfors|fadatum=2002-05-07|sopad=Johan Lindfors|text=}}
+{{problem|namn=Nr 17|grad=6C+|typ=Överhäng|fa=Christian Eriksson|fadatum=2002-05-07|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Dojjan|grad=3B|typ=|fa=Walter Kjell|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+{{problem|namn=Elektrifierad myrslok|grad=5C|typ=|fa=Johan Lindfors|landning=2|betyg=1|fadatum=2002-05-07|sopad=Johan Lindfors|sittstart=ja|text=}}
+{{problem|namn=Platypus|grad=6C|typ=Krimp,Slopers,Överhäng|fa=Stefan Holm|landning=3|betyg=2|fadatum=2005-05-07|sopad=Stefan Holm|text=Stora blocket vid grusvägen till Solviksklippan. Sidan mot grusvägen.}}
+{{problem|namn=DAMP|grad=7A|typ=Mantling|fa=Christian Eriksson|landning=2|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Nr 21|grad=5B|typ=Mantling,Slab|fa=Christian Eriksson|landning=3|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Nr 22|grad=4B|typ=Mantling,Slab|fa=Christian Eriksson|landning=3|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Moment 22|grad=5C|typ=Mantling,Slab|fa=Tim Granlund|landning=3|betyg=1|fadatum=2003-05-07|sopad=Tim Granlund|text=}}
+{{problem|namn=Sträck på dig|grad=6A+|typ=Aréte|fa=Martin Börjesson|landning=3|betyg=2|fadatum=2003-05-07|sopad=Martin Börjesson|uteslutningar=ja|text=Endast greppen nära areten, ej kanten.}}
+{{problem|namn=Nr 24|grad=5C|typ=|fa=Markus Sköldstam|landning=3|fadatum=2002-05-07|sopad=Markus Sköldstam|text=}}
+{{problem|namn=Vänstersväng|grad=5B|typ=|fa=Walter Kjell|landning=3|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+{{problem|namn=Nr 25|grad=4C|typ=|fa=Markus Sköldstam|fadatum=2002-05-07|sopad=Markus Sköldstam|text=}}
+{{problem|namn=Akrylamid|grad=5B|typ=|fa=Christian Eriksson|landning=2|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Teaterskeppets fyllo|grad=-|typ=|fa=Stina Sterner|landning=2|fadatum=2003-05-07|sopad=Stina Sterner|sittstart=ja|text=}}
+{{problem|namn=Lagavulin|grad=6C|typ=Mantling,Överhäng|fa=Jens Sterner|betyg=2|fadatum=2002-05-07|sopad=Jens Sterner|text=}}
+| width="250px" |
+{{problem|namn=Bowmore|grad=4C|typ=|fa=Jens Sterner|fadatum=2002-05-07|sopad=Jens Sterner|sittstart=ja|text=}}
+{{problem|namn=Glenn Rogers|grad=5A|typ=|fa=Jens Sterner|fadatum=2002-05-07|sopad=Jens Sterner|text=}}
+{{problem|namn=Jag putsar, du klättrar|grad=6B|typ=|fa=Adam Rosenbaum/Christian Eriksson|landning=2|fadatum=2002-05-07|sopad=Adam Rosenbaum/Christian Eriksson|text=}}
+{{problem|namn=Vänsterhandsflytt först|grad=5C|typ=Pinch|fa=Christian Eriksson|landning=1|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Väderspänning|grad=7A|typ=Krimp,Pinch|fa=Christian Eriksson/Adam Rosenbaum|landning=2|betyg=2|fadatum=2002-05-07|sopad=Christian Eriksson/Adam Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Kroppsspänning|grad=5C|typ=|fa=Bengt Gustavsson/Johan Lindfors|landning=2|betyg=2|fadatum=2002-05-07|sopad=Bengt Gustavsson/Johan Lindfors|text=}}
+{{problem|namn=Nr 37|grad=-|typ=|fa=Markus Sköldstam|fadatum=2002-05-07|sopad=Markus Sköldstam|sittstart=ja|text=}}
+{{problem|namn=Fällan|grad=6A|typ=|fa=Adam Rosenbaum|landning=2|fadatum=2002-05-07|sopad=Adam Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Älgen trampe|grad=4C|typ=Pinch,Layback|fa=Christian Eriksson|landning=2|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Pappa storklöv|grad=5A|typ=|fa=Johan Lindfors|landning=2|fadatum=2002-05-07|sopad=Johan Lindfors|text=}}
+{{problem|namn=Nr 41|grad=4B|typ=|fa=Jens Sterner|fadatum=2002-05-07|sopad=Jens Sterner|sittstart=ja|text=}}
+{{problem|namn=Munluder|grad=6A|typ=|fa=Christian Eriksson|fadatum=2002-05-07|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Tungur klättrur|grad=5C|typ=Layback|fa=Christian Eriksson|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Mamma mjukmule|grad=5A|typ=|fa=Johan Lindfors|fadatum=2002-05-07|sopad=Johan Lindfors|text=}}
+{{problem|namn=Nr 45|grad=-|typ=|fadatum=2002-05-07|text=}}
+|}
+==Hygget==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Hedelmä|grad=7A+|typ=Slab|fa=Stefan Holm|landning=3|betyg=2|fadatum=2003-05-02|sopad=Stefan Holm|text=Grymt morfo. Start på marken (ej på stubbe).}}
+{{problem|nr=1|namn=Hammarfall|grad=4B|typ=Layback,Slab,Aréte|fa=Stefan Holm|landning=4|betyg=2|sopad=Stefan Holm|text=}}
+{{problem|nr=2|namn=Sva't|grad=4B|typ=Slab|fa=S Holm|landning=5|sopad=S Holm|text=}}
+{{problem|nr=3|namn=Step up|grad=5B|typ=|fa=S Holm|landning=2|betyg=1|sopad=S Holm|sittstart=ja|text=}}
+{{problem|nr=4|namn=Mossning|grad=5B|typ=|fa=S Holm|landning=2|betyg=1|sopad=S Holm|text=}}
+| width="250px" |
+{{problem|nr=5|namn=Plantan ss|grad=5B|typ=|fa=S Holm|landning=2|betyg=1|sopad=S Holm|sittstart=ja|text=}}
+{{problem|nr=6|namn=Plantan|grad=4B|typ=|fa=S Holm|landning=2|betyg=1|sopad=S Holm|text=}}
+{{problem|nr=6|namn=Älgskit|grad=5B|typ=|fa=S Holm|landning=2|betyg=1|sopad=S Holm|uteslutningar=ja|text=Utan kanterna rakt upp}}
+{{problem|nr=7|namn=Kortis|grad=3B|typ=|fa=Elin Boström Holm|landning=1|sopad=Elin Boström Holm|text=}}
+{{problem|nr=8|namn=?|grad=-|typ=|fa=Daniel Hallgren|sopad=Daniel Hallgren|text=}}
+| width="250px" |
+{{problem|nr=9|namn=?|grad=-|typ=|fa=Daniel Hallgren|sopad=Daniel Hallgren|text=}}
+{{problem|nr=11|namn=Ice Storm|grad=-|typ=|fa=W Kjell|landning=2|sopad=W Kjell|text=}}
+{{problem|nr=18|namn=Jambon|grad=6A|typ=Aréte|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|nr=19|namn=Skinka|grad=5B|typ=|fa=S Holm|landning=2|sopad=S Holm|text=}}
+{{problem|nr=20|namn=Ham|grad=5C|typ=|fa=S Holm|landning=2|sopad=S Holm|text=}}
+|}
+==Stugorna==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Ratatouille ss|grad=7A|typ=Krimp,Slopers,Mantling|fa=Stefan Holm|landning=3|betyg=3|fadatum=2004-05-02|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Nr 1, Stugorna|grad=5B|typ=|fa=A Rosenbaum|landning=2|sopad=A Rosenbaum|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=Nr 2, Stugorna|grad=5B|typ=|fa=A Rosenbaum|sopad=A Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Bouillabaisse|grad=6A|typ=|fa=J Sterner/S Holm|landning=2|betyg=2|sopad=J Sterner/S Holm|text=}}
+{{problem|namn=Ratatouille|grad=6C|typ=Slopers,Mantling|fa=J Sterner|landning=3|betyg=2|sopad=J Sterner|text=}}
+| width="250px" |
+{{problem|namn=Kort å koncist|grad=4B|typ=|fa=J Lindfors|sopad=J Lindfors|sittstart=ja|text=}}
+{{problem|namn=Nr 6|grad=4B|typ=|fa=J Sterner|sopad=J Sterner|text=}}
+|}
+==Badplatsen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Scooby Snacks|grad=6C|typ=Överhäng,Travers V->H,Heel hook|fa=Stefan Holm|landning=4|betyg=2|fadatum=2004-04-16|sopad=Stefan Holm|sittstart=ja|text=Vid badplatsen följ strandkanten 200 m och blocket ligger uppe i backen.}}
+{{problem|namn=Bögballesva|grad=3B|typ=Slab|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|namn=Nötebobullen|grad=5C|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|startgrepp=ja|text=Händerna på bullen.}}
+{{problem|namn=V8|grad=6C+|typ=|fa=J Sterner|sopad=J Sterner|uteslutningar=ja|text=Ej toppkanten}}
+{{problem|namn=Björsäters byalag|grad=4C|typ=|fa=S Sterner|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|namn=Rumble in Björsäter|grad=5C|typ=|fa=J Lindfors|sopad=J Lindfors|sittstart=ja|startgrepp=ja|text=}}
+| width="250px" |
+{{problem|namn=Dubbeldajno|grad=6A|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|startgrepp=ja|text=}}
+{{problem|namn=Tjära|grad=5C|typ=Travers V->H|fa=J Sterner|sopad=J Sterner|text=Travers snett nedåt...}}
+{{problem|namn=Asfalt|grad=5B|typ=|fa=J Sterner|sopad=J Sterner|sittstart=ja|text=}}
+{{problem|namn=Bitumen|grad=5B|typ=|fa=J Sterner|sopad=J Sterner|sittstart=ja|text=}}
+{{problem|namn=Badkrukan|grad=5C|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|namn=Red line offside|grad=6A|typ=|fa=C Eriksson|sopad=C Eriksson|startgrepp=ja|text=}}
+{{problem|namn=Risk för långa fall|grad=6B|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|namn=Little Big Horn|grad=5C|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|startgrepp=ja|text=}}
+| width="250px" |
+{{problem|namn=Inget för knäsvaga|grad=5C|typ=|fa=J Lindfors|betyg=1|sopad=J Lindfors|sittstart=ja|text=}}
+{{problem|namn=Badankan|grad=4B|typ=|fa=J Kjellberg|sopad=J Kjellberg|sittstart=ja|text=}}
+{{problem|namn=Honan i baren|grad=4A|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|namn=Conan Barbaren|grad=6B+|typ=Krimp,Dyno|fa=C Eriksson|landning=2|betyg=2|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|namn=Conan barberaren|grad=3B|typ=|fa=S Holm|sopad=S Holm|sittstart=ja|text=}}
+{{problem|namn=Areten vid vägen|grad=4B|typ=|fa=W Kjell|sopad=W Kjell|text=}}
+|}
+==Hygget II==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Piriformis|grad=5A|typ=Slopers|fa=Christian Eriksson|fadatum=2002-05-24|sopad=Christian Eriksson|text=}}
+{{problem|namn=Den feta ballerinan slår till|grad=5B|typ=|fa=Christian Eriksson|fadatum=2002-05-24|sopad=Christian Eriksson|text=}}
+{{problem|namn=Mosquito coast|grad=5B|typ=|fa=Stefan Holm|fadatum=2003-05-24|sopad=Stefan Holm|text=}}
+{{problem|namn=Sittande Myggan|grad=6A|typ=|fa=Stefan Holm|landning=3|betyg=1|fadatum=2003-05-24|sopad=Stefan Holm|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=Band of Brothers|grad=5C|typ=|fa=Christian Eriksson|landning=3|fadatum=2003-05-24|sopad=Christian Eriksson|text=}}
+{{problem|namn=Nr 23|grad=6A|typ=|fa=Adam Rosenbaum|landning=3|fadatum=2003-05-24|sopad=Adam Rosenbaum|text=}}
+{{problem|namn=Tax i turban|grad=5C|typ=|fa=Johan Lindvall|landning=3|fadatum=2003-05-24|sopad=Johan Lindvall|text=}}
+{{problem|namn=Sugga i sombrero|grad=5C|typ=|fa=Johan Lindvall|fadatum=2003-05-24|sopad=Johan Lindvall|text=}}
+| width="250px" |
+{{problem|namn=Det luktar kärlek|grad=6A|typ=|fa=Christian Eriksson|landning=3|fadatum=2003-05-24|sopad=Christian Eriksson|text=}}
+{{problem|namn=Nr 27|grad=5C|typ=|fa=Adam Rosenbaum|landning=3|fadatum=2003-05-24|sopad=Adam Rosenbaum|text=}}
+{{problem|namn=Migrän|grad=-|typ=|fa=Stina Sterner/Jenny Kjellberg|fadatum=2003-05-24|sopad=Stina Sterner/Jenny Kjellberg|text=}}
+|}
+==Stora näset==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Lätta traversen|grad=3B|typ=Travers V->H|fa=Martin Börjesson|landning=2|fadatum=2003-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Den lilla fågeln|grad=5C|typ=|fa=Martin Börjesson|landning=2|fadatum=2003-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Quasimodo|grad=5C|typ=|fa=Martin Börjesson|landning=2|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Skötet|grad=4C|typ=|fa=Martin Börjesson|landning=2|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Sessna|grad=5C|typ=|fa=Martin Börjesson|landning=2|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Sidspalt|grad=5A|typ=|fa=Martin Börjesson|landning=2|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Fanbärare|grad=5C|typ=|fa=Martin Börjesson|landning=2|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Barrljungaexpressen|grad=5B|typ=|fa=Martin Börjesson|landning=2|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+| width="250px" |
+{{problem|namn=DJ-Barrljunga|grad=5C|typ=|fa=Martin Börjesson|landning=1|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Sköldpaddan|grad=6A|typ=|landning=1|betyg=1|fadatum=2007-04-27|text=}}
+{{problem|namn=Sköldpaddan ss|grad=6A+|typ=|fa=Martin Börjesson/Stefan Holm|landning=1|betyg=1|fadatum=2007-04-27|sopad=Martin Börjesson/Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Hoppjerkan från Barrljunga|grad=6A+|typ=|fa=Martin Börjesson|landning=1|betyg=1|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Sommartoppen|grad=5B|typ=Slab|fa=Martin Börjesson|landning=2|fadatum=2007-04-27|sopad=Martin Börjesson|uteslutningar=ja|text=Utan areten}}
+{{problem|namn=Läshörnan i Barrljunga|grad=4A|typ=|fa=Martin Börjesson|landning=1|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Barrljungaparken folketspark|grad=4C|typ=|fa=Martin Börjesson|landning=1|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Barrljungautfarten|grad=3A|typ=|fa=Martin Börjesson|landning=1|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+| width="250px" |
+{{problem|namn=Osthyveln|grad=4C|typ=|fa=Martin Börjesson|landning=1|fadatum=2007-04-27|sopad=Martin Börjesson|sittstart=ja|text=}}
+{{problem|namn=Jet-lag|grad=5C|typ=Överhäng|fa=Martin Börjesson|landning=1|betyg=2|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+{{problem|namn=Mantra|grad=7A+|typ=Överhäng|fa=Stefan Holm|landning=1|betyg=2|fadatum=2003-04-27|sopad=Stefan Holm|sittstart=ja|uteslutningar=ja|text=Areten ingår ej.}}
+{{problem|namn=Jet stream|grad=7A|typ=Dyno|fa=Stefan Holm|landning=2|betyg=1|fadatum=2003-04-27|sopad=Stefan Holm|text=}}
+{{problem|namn=Jackson Five|grad=6B+|typ=|fa=Martin Börjesson/Stefan Holm|landning=2|betyg=1|fadatum=2003-04-27|sopad=Martin Börjesson/Stefan Holm|text=}}
+{{problem|namn=Jackass|grad=4A|typ=|fa=Martin Börjesson|landning=1|fadatum=2007-04-27|sopad=Martin Börjesson|text=}}
+|}
+==Lilla näset==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Miniflipper|grad=6A|typ=Krimp,Slopers,Överhäng|fa=Martin Börjesson|landning=2|betyg=2|fadatum=2002-05-02|sopad=Martin Börjesson|text=}}
+{{problem|namn=Sittstart i bedgottfabriken|grad=5C|typ=Krimp|fa=Stefan Holm|landning=1|fadatum=2002-05-02|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Flora|grad=4C|typ=|fa=Martin Börjesson|landning=1|fadatum=2002-05-02|sopad=Martin Börjesson|text=}}
+{{problem|namn=Frispel|grad=6B|typ=Krimp,Slopers,Överhäng,Travers H->V|fa=Martin Börjesson|landning=2|betyg=2|fadatum=2007-05-02|sopad=Martin Börjesson|text=}}
+{{problem|namn=Crom|grad=7A+|typ=Krimp,Aréte|fa=Christian Eriksson|landning=2|betyg=2|fadatum=2002-05-02|sopad=Christian Eriksson|startgrepp=ja|text=}}
+| width="250px" |
+{{problem|namn=Fear Factor|grad=5B|typ=|fa=B Gustavsson/J Lindfors|landning=2|fadatum=2002-05-02|sopad=B Gustavsson/J Lindfors|text=}}
+{{problem|namn=Jord i näsan|grad=5A|typ=|fa=Christian Eriksson|landning=2|fadatum=2002-05-02|sopad=Christian Eriksson|text=}}
+{{problem|namn=?|grad=-|typ=|fa=Martin Perk/Bengt Gustavsson|landning=2|fadatum=2002-05-02|sopad=Martin Perk/Bengt Gustavsson|sittstart=ja|text=Nr 9}}
+{{problem|namn=?|grad=-|typ=|fa=?|fadatum=2007-05-02|sopad=?|sittstart=ja|text=nr 10}}
+{{problem|namn=?|grad=-|typ=|fa=Bengt Gustavsson|landning=2|fadatum=2002-05-02|sopad=Bengt Gustavsson|sittstart=ja|text=nr 11}}
+{{problem|namn=Psykisk process|grad=5B|typ=Krimp|fa=Johan Lindfors|landning=3|betyg=3|fadatum=2002-05-02|sopad=Johan Lindfors|text=}}
+| width="250px" |
+{{problem|namn=Janillas hangel|grad=5C|typ=Travers V->H|fa=Christian Eriksson|landning=4|betyg=2|fadatum=2002-05-02|sopad=Christian Eriksson|text=}}
+{{problem|namn=Maria Butyrskaya|grad=6A|typ=|fa=Christian Eriksson|landning=3|fadatum=2002-05-02|sopad=Christian Eriksson|text=}}
+{{problem|namn=Skalpjägaren|grad=6C|typ=Aréte|fa=Christian Eriksson|landning=3|betyg=3|fadatum=2002-05-02|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Hallon|grad=-|typ=|fa=Martin Börjesson|landning=2|fadatum=2002-05-02|sopad=Martin Börjesson|text=}}
+{{problem|namn=Pubertskalven|grad=4B|typ=|fa=Stina Sterner|fadatum=2002-05-02|sopad=Stina Sterner|text=}}
+|}
+==Ronjablocken==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+Tyvärr är mycket igen mossat men faktum är att många problem håller väldigt hög klass. Bouldrar man grad 5-6 så finns det få ställen som erbjuder så mycket kvalitet som här. Vildvittran, Kapten Nemo, Rödatråden, Lateralus m.fl är topproblemen i denna kategori.
+Det finns även ett par fina, hårda och ogjorda linjer.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Snusgropen|grad=3A|typ=Slopers,Mantling|fa=Elin Boström Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Elin Boström Holm|text=}}
+{{problem|namn=Heel hook|grad=4A|typ=Heel hook|fa=Elin Boström Holm|landning=1|fadatum=2002-05-07|sopad=Elin Boström Holm|uteslutningar=ja|text=Ej stora greppet}}
+{{problem|namn=Nr 3|grad=4B|typ=|fa=?|landning=1|fadatum=2007-05-07|sopad=?|text=}}
+{{problem|namn=Nr 4|grad=4C|typ=|fa=Walter Kjell|landning=1|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+{{problem|namn=Listus Medianus|grad=4C|typ=Krimp,Slab|fa=Johan Lindfors|landning=1|betyg=1|fadatum=2002-05-07|sopad=Johan Lindfors|text=}}
+{{problem|namn=Lateralus|grad=6A|typ=Krimp|fa=Christian Eriksson|landning=1|betyg=3|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Grann gran|grad=5A|typ=Krimp,Slopers|fa=Stefan Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Kapten Nemo|grad=5C|typ=Slopers|fa=Christian Eriksson|landning=1|betyg=3|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Röda tråden|grad=6C|typ=Krimp,Slopers,Travers H->V|fa=Stefan Holm|landning=2|betyg=3|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Det goda|grad=5C|typ=Krimp,Pinch,Mantling|fa=Stefan Holm|landning=2|betyg=2|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Balansen mellan det goda och onda|grad=5C|typ=Krimp,Slab|fa=Stefan Holm|landning=2|betyg=3|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Den onde|grad=7A+|typ=Slab,Spricka|fa=Walter Kjell|landning=2|betyg=2|fadatum=2002-05-07|sopad=Walter Kjell|text=Tunn tunn söm. 6c ursprungligen.}}
+| width="250px" |
+{{problem|namn=Hinduiskt avgrundsbröl|grad=5B|typ=Krimp,Slab|fa=Johan Lindfors|landning=1|betyg=1|fadatum=2002-05-07|sopad=Johan Lindfors|text=}}
+{{problem|namn=Nr 14|grad=5B|typ=Krimp,Slab|fa=Johan Lindfors|landning=1|betyg=1|fadatum=2002-05-07|sopad=Johan Lindfors|text=}}
+{{problem|namn=Kristet primalvibrato|grad=6B|typ=Krimp,Slopers,Layback|fa=Christian Eriksson|landning=2|betyg=3|fadatum=2002-05-07|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=La piscine|grad=5A|typ=Slopers,Slab,Jug|fa=Elin Boström Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Elin Boström Holm|sittstart=ja|text=}}
+{{problem|namn=Farmer's Lung|grad=6A|typ=|fa=Christian Eriksson|landning=1|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Sprickan|grad=3B|typ=Spricka|fa=Stefan Holm|landning=1|fadatum=2002-05-07|sopad=Stefan Holm|sittstart=ja|text=Överflödigt problem.}}
+{{problem|namn=Nr 20|grad=6B|typ=Layback|fa=Walter Kjell|landning=2|betyg=1|fadatum=2002-05-07|sopad=Walter Kjell|startgrepp=ja|text=}}
+{{problem|namn=Mattis|grad=5A|typ=Layback|fa=Christian Eriksson|landning=2|betyg=2|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Nr 22|grad=5B|typ=Layback|fa=Walter Kjell|landning=2|betyg=1|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+{{problem|namn=Kakmonstret|grad=6C|typ=Krimp|fa=Walter Kjell|landning=1|betyg=2|fadatum=2002-05-07|sopad=Walter Kjell|text=}}
+{{problem|namn=Trädstammen|grad=5B|typ=|fa=Christian Eriksson|landning=1|fadatum=2002-05-07|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Kate Moss|grad=4C|typ=Mantling|fa=Elin Boström Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Elin Boström Holm|text=Även korta personer är framgångsrika.}}
+| width="250px" |
+{{problem|namn=Birk|grad=5C|typ=|fa=Stefan Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Stefan Holm|uteslutningar=ja|text=Kanten endast vid starten}}
+{{problem|namn=Go Go Mack|grad=5B|typ=Dyno|fa=Markus Sköldstam|landning=1|betyg=1|fadatum=2002-05-07|sopad=Markus Sköldstam|text=}}
+{{problem|namn=Nr 28|grad=5A|typ=|fa=Markus Sköldstam|landning=1|betyg=1|fadatum=2002-05-07|sopad=Markus Sköldstam|text=}}
+{{problem|namn=Rumpnisse|grad=4B|typ=|fa=Elin Boström Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Elin Boström Holm|text=}}
+{{problem|namn=Röd snö|grad=6A|typ=Slab|fa=Stefan Holm|landning=1|betyg=1|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Vildvittran|grad=5C|typ=Layback,Överhäng,Jug,Spricka|fa=Johan Lindfors|landning=2|betyg=3|fadatum=2002-05-07|sopad=Johan Lindfors|sittstart=ja|text=}}
+{{problem|namn=Bertil stjärtil|grad=5B|typ=Mantling|fa=Johan Lindfors|landning=2|betyg=1|fadatum=2002-05-07|sopad=Johan Lindfors|text=}}
+{{problem|namn=Skalle-Pär|grad=6C|typ=Krimp,Slopers,Mantling|fa=Stefan Holm|landning=2|betyg=2|fadatum=2002-05-07|sopad=Stefan Holm|text=}}
+{{problem|namn=Djävulsgapet|grad=5B|typ=Krimp,Slopers,Överhäng|fa=Christian Eriksson|landning=2|betyg=3|fadatum=2002-05-07|sopad=Christian Eriksson|text=}}
+{{problem|namn=Nr 37|grad=-|typ=Överhäng|fa=Jens Sterner|landning=2|betyg=3|fadatum=2002-05-07|sopad=Jens Sterner|sittstart=ja|text=Ett par fina överhäng.}}
+|}
+==Skogsblocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Powerslave|grad=7B|typ=Krimp,Mantling,Överhäng|fa=Stefan Holm|landning=2|betyg=2|fadatum=2005-03-22|sopad=Stefan Holm|text=På skogsblocket mellan "Sport Chrille" och "Squeeze lika a pig". Rakt upp via lite ond gaston/krimp.}}
+{{problem|namn=Lipton|grad=6C|typ=Överhäng,Dyno|fa=Stefan Holm|landning=1|betyg=2|fadatum=2005-05-02|sopad=Stefan Holm|sittstart=ja|text=vid 7 (vit pil)}}
+{{problem|namn=Redneck|grad=6C|typ=Aréte|fa=Stefan Holm|landning=3|betyg=2|fadatum=2005-05-02|sopad=Stefan Holm|uteslutningar=ja|text=vänster om 1, vit pil. Ej stora greppen på 1.}}
+{{problem|namn=Sportkrille|grad=6B|typ=Krimp,Överhäng,Dyno|fa=C Eriksson|landning=2|betyg=3|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|namn=Squeeze like a pig|grad=6A+|typ=|fa=C Eriksson|landning=2|betyg=2|sopad=C Eriksson|text=}}
+| width="250px" |
+{{problem|namn=Trolltyg i tomteskogen|grad=5A|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|namn=Hill Billy banjo|grad=5B|typ=|fa=J Lindfors|landning=2|sopad=J Lindfors|text=}}
+{{problem|namn=Plattan|grad=5C|typ=Reach|fa=S Sterner|landning=2|sopad=S Sterner|text=suspekt flak}}
+{{problem|namn=Skogsmulle|grad=5B|typ=Aréte|fa=J Lindfors|landning=2|betyg=2|sopad=J Lindfors|sittstart=ja|text=Bra men suspekta grepp. Varning!}}
+{{problem|namn=Gaston kalsong|grad=6B|typ=|fa=C Eriksson|landning=2|betyg=2|sopad=C Eriksson|text=}}
+{{problem|namn=Eddies egg|grad=5B|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|namn=Diedret|grad=5A|typ=|fa=A Rosenbaum|landning=2|sopad=A Rosenbaum|text=}}
+| width="250px" |
+{{problem|namn=Best of the beast|grad=6C|typ=|fa=C Eriksson|landning=2|betyg=1|sopad=C Eriksson|text=}}
+{{problem|namn=Eliminationsvarning|grad=6A|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|uteslutningar=ja|text=}}
+{{problem|namn=Nr 13|grad=5B|typ=Slopers|fa=C Eriksson|landning=2|sopad=C Eriksson|text=Positiva slopers...}}
+{{problem|namn=Köttbullen|grad=6C|typ=Slopers,Mantling|fa=A Rosenbaum|landning=2|sopad=A Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Sömmerskan|grad=4B|typ=|fa=S Sterner|landning=3|sopad=S Sterner|text=}}
+{{problem|namn=Skäggbiffen|grad=4C|typ=Highball|fa=J Lindfors|landning=4|sopad=J Lindfors|text=}}
+|}
+==Skepparblocket==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Burrig skepparkrans|grad=6B+|typ=Krimp,Slopers,Layback,Highball|fa=Christian Eriksson|landning=3|betyg=3|fadatum=2001-05-04|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Mudvayne|grad=5C|typ=Highball|fa=Jens Sterner|landning=3|betyg=2|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|text=}}
+{{problem|namn=Gladiator|grad=6B|typ=|fa=Christian Eriksson|landning=2|betyg=2|fadatum=2001-05-04|sopad=Christian Eriksson|text=}}
+| width="250px" |
+{{problem|namn=J löper amok|grad=5B|typ=|fa=Stina Sterner|landning=2|betyg=1|fadatum=2001-05-04|sopad=Stina Sterner|text=}}
+{{problem|namn=?|grad=5A|typ=|fa=?|landning=3|fadatum=2001-05-04|sopad=?|text=}}
+{{problem|namn=Talibanskägg|grad=-|typ=|fa=?|landning=2|fadatum=2001-05-04|sopad=?|text=}}
+{{problem|namn=Groove|grad=6B|typ=|fa=Jens Sterner|landning=2|fadatum=2001-05-04|sopad=Jens Sterner|startgrepp=ja|text=Låg start}}
+| width="250px" |
+{{problem|namn=?|grad=5C|typ=|fa=Jens Sterner|landning=2|fadatum=2001-05-04|sopad=Jens Sterner|text=}}
+{{problem|namn=Grodan boll|grad=5B|typ=Slopers|fa=Johan Lindfors|landning=1|betyg=2|fadatum=2001-05-04|sopad=Johan Lindfors|startgrepp=ja|text=Halvsittande på stor sloper.}}
+|}
+==Hästhagsgölen==
+Stängt under jaktsäsongen (mitten Oktober - 1 Mars).
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Dopes to infinity|grad=6B|typ=|fa=Jens Sterner|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|uteslutningar=ja|text=Inga fötter på intilliggande stenar.}}
+{{problem|namn=Space Lord|grad=5C|typ=Dyno|fa=Jens Sterner|landning=3|betyg=1|fadatum=2001-05-04|sopad=Jens Sterner|text=}}
+{{problem|namn=Megasonic teenage warhead|grad=4C|typ=|fa=Jens Sterner|fadatum=2001-05-04|sopad=Jens Sterner|text=}}
+{{problem|namn=Tallefjant|grad=4C|typ=|fa=Jens Sterner|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|text=}}
+{{problem|namn=Valross|grad=6A|typ=|fa=Jens Sterner|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|text=}}
+{{problem|namn=Dead boys don't say no|grad=5B|typ=|fa=Johan Lindvall|fadatum=2001-05-04|sopad=Johan Lindvall|text=}}
+{{problem|namn=SiJack|grad=6B+|typ=|fa=Johan Lindvall|landning=2|betyg=2|fadatum=2001-05-04|sopad=Johan Lindvall|sittstart=ja|text=}}
+{{problem|namn=Den ensamma kossan|grad=3C|typ=|fa=Johan Lindvall|landning=2|fadatum=2001-05-04|sopad=Johan Lindvall|text=}}
+{{problem|namn=Skåran|grad=4C|typ=|fa=Christian Eriksson|fadatum=2001-05-04|sopad=Christian Eriksson|text=}}
+{{problem|namn=Surmulen|grad=3B|typ=|fa=Johan Lindfors|fadatum=2001-05-04|sopad=Johan Lindfors|text=}}
+{{problem|namn=Slingshot|grad=6A+|typ=|fa=Johan Lindvall|fadatum=2001-05-04|sopad=Johan Lindvall|sittstart=ja|text=}}
+{{problem|namn=Muskelvärk i tomteskogen|grad=4B|typ=|fa=Johan Lindfors|fadatum=2001-05-04|sopad=Johan Lindfors|text=}}
+{{problem|namn=Ont i pullisarna|grad=6A|typ=|fa=Christian Eriksson|fadatum=2001-05-04|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Nr 15|grad=3B|typ=|fa=Tim Granlund|fadatum=2001-05-04|sopad=Tim Granlund|text=}}
+{{problem|namn=Cous cous|grad=6C|typ=|fa=Jens Sterner|landning=2|betyg=3|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|text=}}
+{{problem|namn=Fetpinchen|grad=6B|typ=Pinch|fa=Christian Eriksson|landning=2|betyg=3|fadatum=2001-05-04|sopad=Christian Eriksson|sittstart=ja|startgrepp=ja|text=HH på fetpichen, VH längst ned på slopiga laybacken. Sedan snett vänster.}}
+| width="250px" |
+{{problem|namn=Fetpinchen ståstart|grad=5C|typ=|fa=Christian Eriksson|landning=2|fadatum=2001-05-04|sopad=Christian Eriksson|text=}}
+{{problem|namn=Köttsås|grad=5A|typ=|fa=Christian Eriksson|fadatum=2001-05-04|sopad=Christian Eriksson|text=}}
+{{problem|namn=Tassel|grad=2|typ=|fa=Tim Granlund|fadatum=2001-05-04|sopad=Tim Granlund|text=}}
+{{problem|namn=Tissel|grad=4C|typ=|fa=Stefan Holm|fadatum=2001-05-04|sopad=Stefan Holm|text=}}
+{{problem|namn=Mums mums|grad=4C|typ=|fa=Jens Sterner|fadatum=2003-05-04|sopad=Jens Sterner|text=}}
+{{problem|namn=Prassel|grad=1|typ=|fa=Stefan Holm|landning=1|fadatum=2003-05-04|sopad=Stefan Holm|text=}}
+{{problem|namn=Los mantlos|grad=5B|typ=Mantling|fa=Christian Eriksson|fadatum=2001-05-04|sopad=Christian Eriksson|text=}}
+{{problem|namn=Mulla Omar|grad=6A+|typ=|fa=Jens Sterner|landning=5|betyg=2|fadatum=2001-05-04|sopad=Jens Sterner|text=}}
+{{problem|namn=I klinch med Kadaffi|grad=5A|typ=|fa=Johan Lindvall|landning=5|fadatum=2001-05-04|sopad=Johan Lindvall|text=}}
+{{problem|namn=Gjort alla redan?|grad=5B|typ=|fa=Christian Eriksson|landning=1|fadatum=2001-05-04|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=Kasparov|grad=5C|typ=|fa=Jens Sterner|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|text=}}
+{{problem|namn=Svensk sallad|grad=6A|typ=Slab|fa=Johan Lindvall/Christian Eriksson|betyg=2|fadatum=2001-05-04|sopad=Johan Lindvall/Christian Eriksson|text=}}
+{{problem|namn=Pragma|grad=6B|typ=Slab|fa=Christian Eriksson|fadatum=2001-05-04|sopad=Christian Eriksson|startgrepp=ja|text=VH på layback, snett åt höger med HH.}}
+{{problem|namn=Latuttödem|grad=4B|typ=|fa=Stina Sterner|fadatum=2001-05-04|sopad=Stina Sterner|text=}}
+{{problem|namn=Bengans vårskrik|grad=4B|typ=|fa=Stina Sterner|fadatum=2001-05-04|sopad=Stina Sterner|text=}}
+{{problem|namn=?|grad=5A|typ=|fa=Adam Rosenbaum|landning=2|betyg=2|fadatum=2001-05-04|sopad=Adam Rosenbaum|text=Utsteget på Rampage}}
+{{problem|namn=Sprickan|grad=5A|typ=|fa=Jens Sterner|landning=1|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=Spank|grad=6A|typ=Krimp,Dyno|fa=Jens Sterner|landning=1|betyg=2|fadatum=2001-05-04|sopad=Jens Sterner|sittstart=ja|startgrepp=ja|text=Start på låg tydlig list sedan dyno.}}
+{{problem|namn=Börje bock|grad=5A|typ=|fa=Johan Lindfors|fadatum=2001-05-04|sopad=Johan Lindfors|sittstart=ja|text=}}
+{{problem|namn=Kilroy|grad=5A|typ=|fa=Jens Sterner|landning=2|fadatum=2001-05-04|sopad=Jens Sterner|text=}}
+{{problem|namn=Jalla Jalla|grad=5B|typ=|fa=Christian Eriksson/Jens Sterner|landning=2|betyg=3|fadatum=2001-05-04|sopad=Christian Eriksson/Jens Sterner|text=}}
+{{problem|namn=Taproot|grad=6C|typ=|fa=Jens Sterner|fadatum=2001-05-04|sopad=Jens Sterner|text=}}
+{{problem|namn=Bös|grad=3A|typ=Mantling|fa=Stina Sterner|landning=2|fadatum=2001-05-04|sopad=Stina Sterner|text=}}
+{{problem|namn=En grispris|grad=6A|typ=|fa=Christian Eriksson|landning=2|betyg=2|fadatum=2001-05-04|sopad=Christian Eriksson|sittstart=ja|text=}}
+{{problem|namn=En grispris variant|grad=6A|typ=|fa=Christian Eriksson|landning=3|betyg=2|fadatum=2001-05-04|sopad=Christian Eriksson|sittstart=ja|variant=ja|text=}}
+{{problem|namn=Farmen|grad=4B|typ=|fa=Stina Sterner/Johan Lindfors|fadatum=2001-05-04|sopad=Stina Sterner/Johan Lindfors|text=}}
+{{problem|namn=Lätta|grad=3B|typ=|fa=Stefan Holm|landning=1|fadatum=2002-05-04|sopad=Stefan Holm|text=Svanstenarna}}
+{{problem|namn=Sittstarten|grad=5A|typ=|fa=Stefan Holm|landning=1|fadatum=2002-05-04|sopad=Stefan Holm|sittstart=ja|text=Svanstenarna}}
+{{problem|namn=Till topps|grad=4B|typ=Aréte,Travers H->V|fa=Stefan Holm|landning=2|betyg=1|fadatum=2007-05-04|sopad=Stefan Holm|sittstart=ja|text=Svanstenarna}}
+{{problem|namn=Rampen|grad=4B|typ=|fa=Stefan Holm|landning=1|fadatum=2002-05-04|sopad=Stefan Holm|sittstart=ja|text=}}
+{{problem|namn=Svan sva't|grad=5C|typ=Slab|fa=Stefan Holm|landning=2|betyg=1|fadatum=2007-05-04|sopad=Stefan Holm|text=}}
+|}
+==Nifelheim==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Minus Celcius|grad=7A|typ=Överhäng|fa=Johan Lindvall|landning=2|betyg=2|fadatum=2005-05-02|sopad=Johan Lindvall|sittstart=ja|text=Nr 14, ss}}
+{{problem|namn=Matematisk pendel|grad=7B|typ=Överhäng|fa=Magnus Hansen/Adam Rosenbaum|landning=1|betyg=3|fadatum=2004-05-02|sopad=Magnus Hansen/Adam Rosenbaum|sittstart=ja|text=}}
+{{problem|namn=Loke|grad=6A|typ=|fa=Daniel|landning=1|betyg=2|fadatum=2005-05-02|sopad=Daniel|text=vänster om 16, Nifelheim}}
+{{problem|namn=Loke ss|grad=6C|typ=Mantling,Överhäng|fa=Daniel|landning=1|betyg=2|fadatum=2005-05-02|sopad=Daniel|sittstart=ja|text=v om 16, Nifelheim}}
+{{problem|nr=1|namn=Moder jord|grad=5B|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=2|namn=Sockerbiten|grad=5B|typ=|fa=S Sterner|landning=2|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|nr=3|namn=St Anger|grad=5B|typ=|fa=S Sterner|landning=2|sopad=S Sterner|text=}}
+{{problem|nr=4|namn=Åh...|grad=5C|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=5|namn=Nedstigningen|grad=4A|typ=|fa=S Sterner|landning=2|sopad=S Sterner|text=}}
+{{problem|nr=6|namn=Löken är god|grad=5C|typ=Aréte|fa=S Sterner|landning=2|sopad=S Sterner|text=}}
+{{problem|nr=7|namn=Borst martyren|grad=5C|typ=|fa=S Sterner|landning=2|sopad=S Sterner|text=}}
+{{problem|nr=8|namn=Gyllenborst|grad=6B|typ=Slopers|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=9|namn=?|grad=6B+|typ=|fa=A Rosenbaum|landning=2|sopad=A Rosenbaum|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=10|namn=Ragnarrök|grad=5C|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=11|namn=Tölpen|grad=5C|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=11|namn=Tölpen|grad=5C|typ=|fa=C Eriksson|landning=2|sopad=C Eriksson|text=}}
+{{problem|nr=12|namn=Huaaah!|grad=5C|typ=|fa=J Sterner|landning=4|sopad=J Sterner|text=Hoppstart}}
+{{problem|nr=13|namn=Falska miner|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=Start på jug}}
+{{problem|nr=14|namn=I vått o torrt|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=17|namn=Sleipner|grad=6B|typ=|fa=C Eriksson|landning=2|betyg=3|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|nr=18|namn=Homofila insekter|grad=5C|typ=Slab|fa=M Börjesson|landning=5|sopad=M Börjesson|text=}}
+{{problem|nr=19|namn=WTC II|grad=5A|typ=Slab|fa=S Holm/M Börjesson|landning=5|sopad=S Holm/M Börjesson|text=}}
+{{problem|nr=20|namn=WTC I|grad=4C|typ=Slab|fa=S Holm/M Börjesson|landning=5|sopad=S Holm/M Börjesson|text=}}
+{{problem|nr=21|namn=Lodjuret|grad=5B|typ=|fa=C Eriksson|landning=4|sopad=C Eriksson|text=}}
+{{problem|nr=23|namn=Monstervågen|grad=-|typ=|fa=S Sterner|landning=3|sopad=S Sterner|text=}}
+{{problem|nr=24|namn=?|grad=-|typ=|text=}}
+{{problem|nr=25|namn=Ask|grad=-|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|nr=26|namn=Embla|grad=-|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=27|namn=Meshuggah|grad=6A|typ=|fa=J Sterner|landning=3|betyg=2|sopad=J Sterner|text=}}
+{{problem|nr=28|namn=Barromtern|grad=5A|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=29|namn=Trädkramaren|grad=5C|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=30|namn=Nidhögg|grad=6B|typ=|fa=C Eriksson|landning=2|betyg=3|sopad=C Eriksson|text=}}
+{{problem|nr=31|namn=Tack för idag, ...|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=32|namn=Pissmyrorna anfaller II|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=33|namn=Avocado|grad=6B|typ=|fa=J Sterner|landning=2|betyg=3|sopad=J Sterner|text=}}
+{{problem|nr=34|namn=Guacamol|grad=5A|typ=|fa=J Sterner|landning=2|sopad=J Sterner|text=}}
+{{problem|nr=34|namn=Bröllopsyra|grad=5C|typ=|fa=J Lindfors|sopad=J Lindfors|text=}}
+{{problem|nr=36|namn=Vårt bröst|grad=6B|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=37|namn=Bröstvårtebouldern|grad=6C+|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=38|namn=Nedstigningsledan I|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=39|namn=Nedstigningsledan II|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=40|namn=Lurad|grad=-|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=42|namn=?|grad=-|typ=|fa=J Lindfors|sopad=J Lindfors|text=}}
+|}
+==Jotumheim==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Nedstigningen|grad=3C|typ=|fa=S Holm/M Börjesson|landning=1|sopad=S Holm/M Börjesson|text=}}
+{{problem|nr=2|namn=Spindelkvinnan|grad=5C|typ=|fa=S Sterner|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|nr=3|namn=Farbror Melker|grad=6B|typ=Krimp|fa=Martin Börjesson|landning=4|betyg=3|fadatum=2003-06-01|sopad=Martin Börjesson|text=Problemet ligger i sektor Jotumheim. Rakt upp, något vänster. Start med bra sidotag för VH.}}
+{{problem|nr=3|namn=Farbror Melker|grad=6B|typ=|fa=M Börjesson|landning=3|betyg=3|sopad=M Börjesson|text=}}
+{{problem|nr=4|namn=Saltkråkan|grad=6A|typ=|fa=S Holm|landning=3|betyg=2|sopad=S Holm|text=}}
+{{problem|nr=5|namn=Det rätta knycket|grad=6A+|typ=Dyno|fa=S Holm/M Börjesson|landning=5|betyg=2|sopad=S Holm/M Börjesson|text=}}
+{{problem|nr=6|namn=?|grad=6B|typ=Slab|fa=M Sköldstam|landning=4|betyg=3|sopad=M Sköldstam|text=}}
+{{problem|nr=7|namn=Mesa|grad=6C+|typ=|fa=C Eriksson/A Rosenbaum|sopad=C Eriksson/A Rosenbaum|text=}}
+{{problem|nr=8|namn=?|grad=5C|typ=|fa=A Rosenbaum|sopad=A Rosenbaum|text=}}
+{{problem|nr=9|namn=Lite smuts rensar magen|grad=5A|typ=|fa=S Sterner|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|nr=10|namn=Sverige - Kanada 2-1|grad=5C|typ=|fa=M Börjesson|sopad=M Börjesson|text=}}
+| width="250px" |
+{{problem|nr=11|namn=Blockmarodören|grad=7A|typ=|fa=W Kjell|landning=2|sopad=W Kjell|text=}}
+{{problem|nr=12|namn=Carmina Burana|grad=6B|typ=Aréte|fa=C Eriksson/J Lindfors|landning=3|betyg=3|sopad=C Eriksson/J Lindfors|sittstart=ja|text=}}
+{{problem|nr=13|namn=?|grad=5B|typ=|fa=J Lindfors|landning=2|sopad=J Lindfors|sittstart=ja|text=}}
+{{problem|nr=14|namn=?|grad=5C|typ=|fa=J Lindfors|sopad=J Lindfors|sittstart=ja|text=}}
+{{problem|nr=15|namn=Johans tjejjer|grad=6A|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=16|namn=Valhall|grad=6B|typ=Dyno|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=17|namn=?|grad=5B|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=18|namn=Alfatag|grad=6C|typ=|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|nr=19|namn=?|grad=5B|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=20|namn=Elefanten|grad=6A|typ=|fa=M Sköldstam|sopad=M Sköldstam|text=}}
+{{problem|nr=21|namn=The P.I.M.P Alfred|grad=6A|typ=|fa=S Sterner|sopad=S Sterner|sittstart=ja|text=}}
+{{problem|nr=22|namn=Nyckelsteget|grad=4B|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=23|namn=Hoppas foten håller|grad=6B|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+| width="250px" |
+{{problem|nr=24|namn=Längden spelar faktiskt roll|grad=5C|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=25|namn=?|grad=6A|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=26|namn=Dance of Death|grad=6A|typ=|fa=C Eriksson|sopad=C Eriksson|text=}}
+{{problem|nr=27|namn=Pudelrock|grad=5C|typ=|fa=J Lindfors|sopad=J Lindfors|text=}}
+{{problem|nr=28|namn=Första, bästa...|grad=4B|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=29|namn=Bröllopsslöjan|grad=6C+|typ=|fa=A Rosenbaum|sopad=A Rosenbaum|sittstart=ja|text=}}
+{{problem|nr=30|namn=?|grad=5A|typ=Aréte|fa=J Kjellberg|sopad=J Kjellberg|text=}}
+{{problem|nr=31|namn=Hann före|grad=6A+|typ=Aréte|fa=C Eriksson|sopad=C Eriksson|sittstart=ja|text=}}
+{{problem|nr=32|namn=Bus i buschen|grad=5A|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=33|namn=Skogens drottning|grad=5A|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=34|namn=Sjöbris|grad=5A|typ=|fa=S Sterner|sopad=S Sterner|text=}}
+{{problem|nr=35|namn=?|grad=4A|typ=|fa=J Kjellberg|sopad=J Kjellberg|text=}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Iron Maiden|grad=7B|typ=Dyno,Highball,Reach|fa=Stefan Holm|landning=5|betyg=2|fadatum=2005-04-25|sopad=Stefan Holm|text=Stort block vid bilvägen straxt innan Borkhult. Ligger fint i solen om våren. Riktigt hög och fin.}}
+{{problem|namn=Martin problem 2|grad=4B|typ=Slab|fa=Maritin Börjesson|landning=3|betyg=1|fadatum=2002-04-26|sopad=Maritin Börjesson|text=15 Norrviken}}
+| width="250px" |
+{{problem|namn=Sportiga Marie|grad=5B|typ=|fa=M Börjesson|landning=2|sopad=M Börjesson|text=}}
+{{problem|namn=500cc|grad=6B|typ=|fa=S Holm|landning=3|betyg=1|sopad=S Holm|sittstart=ja|text=}}
+{{problem|namn=Lätta|grad=3B|typ=|fa=S Holm|landning=1|sopad=S Holm|text=Svanstenarna}}
+{{problem|namn=Sittstarten|grad=5A|typ=|fa=S Holm|landning=1|sopad=S Holm|sittstart=ja|text=Svanstenarna}}
+| width="250px" |
+{{problem|namn=Till Topps|grad=4B|typ=|fa=S Holm|landning=3|sopad=S Holm|text=Svanstenarna}}
+{{problem|namn=Rampen|grad=4B|typ=|fa=S Holm|landning=2|sopad=S Holm|text=Svanstenarna}}
+{{problem|namn=Svan sva't|grad=5C|typ=|fa=S Holm|landning=2|sopad=S Holm|text=Svanstenarna}}
+|}
+[[Kategori:Linköping]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

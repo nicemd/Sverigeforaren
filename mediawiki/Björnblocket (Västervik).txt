@@ -1,0 +1,24 @@
+{{info klippa
+  |lat=57.96833
+  |long=16.43583}}
+
+{{boulderstub|extern=ja}}
+
+==Allmänt==
+Block och väggar av granit i öppen skogsmiljö ovanpå en kulle. Det stora blocket hyser idag “The Hourglass”, ett av 
+sveriges hårdaste boulderproblem.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.968333333333334" lon="16.435833333333335" type="map" zoom="13" controls="small">
+57.968333333333334, 16.435833333333335, Björnblocket
+</googlemap>
+</div>
+<div style="clear:both"></div>
+
+== Extern förare ==
+http://www.vastervikclimbing.se/klattercentret/pdfer/
+
+[[Kategori:Småland]]
+[[Kategori:Västervik]]

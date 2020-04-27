@@ -1,0 +1,173 @@
+=Allmänt=
+I Dombäck i Husum finns möjlighet till riktigt fin och lättillgänglig bouldering. Husumskogen karaktäriseras mestadels av lite högre
+väggar av granit i högsta klass, med överlag goda landningar. 
+
+=Bakgrund=
+Någon gång under år 2003 – 2004 kom området kring Dombäck i Husum att utvecklas, mestadels av Husum-sonen Per Gunarsson och några entusiastiska klättrare från Umeå. Trots den nordliga breddgraden går det att klättra i
+Husum så fort solen börjar värma, i februari månad. Om du är på genomresa i landet sväng gärna av E4:an mot
+Dombäck för att skaka liv i fläsket och nöta bort lite hud. Med ett par skor och en kritpåse i nävarna och en padda
+på ryggen så når du de första väggarna inom någon minuts vandring från parkeringen.
+
+=Vägbeskrivning=
+<div style="float: right">
+<googlemap version="0.9" lat="63.344121" lon="19.126511" type="map">
+63.352507, 19.116314, Husum
+[[Husum]]
+</googlemap>
+</div>
+Området ligger 27 km norr om Ö-vik, ca 170 km norr om Sundsvall, alternativt 70 km söder om Umeå. Kommer
+du söderöver så kan du välja två avtagsvägar för att komma rätt. Sväng av E4:an vid skylt mot Dombäck, THP
+Paperconverter. Det andra och ”säkrare” alternativet för att slippa vänstersväng på E4:an är att du kör ca 1 km
+längre fram, svänger av höger mot Husum men svänger höger igen efter avfartssvängen mot Dombäck, kör ca 1
+km, kör vidare förbi Metso Paper till dess du ser THP Flisterminal. Parkera på den stora upplagningsplatsen på
+motstående sida om vägen, alternativt parkera på de närliggande parkeringsfickorna längs vägen. När du väl har
+parkerat och klivit ut ur bilen kan du skymta den första väggen inom sektor ”Introväggen”.
+
+= Närliggande klättring =
+
+Bara ett par mil från Husum ligger [[Mosjön]] med ett av Sveriges finaste block.
+
+=Husumföraren som PDF=
+Här kan du ladda ner hela Husumföraren som PDF. OBS, stor fil - 36MB.
+
+http://www.sverigeforaren.se/media/husum_boulder.pdf
+
+=Sektorer=
+Detta är importerat från BIMBO och behöver förmodligen uppdateras med problemen från pdf-föraren ovan.
+==Introväggarna==
+Närmast parkeringsplatsen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=(Mellan nr 2 och nr 3)|grad=-|typ=Krimp,Slopers,Mantling|fa=?|landning=3|sopad=?|text=}}
+{{problem|namn=Vårsol|grad=7A|typ=Slopers,Pinch,Highball|fa=Sydde + HKLK|landning=4|betyg=2|fadatum=2005-04-13|sopad=Sydde + HKLK|text=Mäktigt problem. Starta vid giganto-underclinget och gå via dåliga grepp en bra bit över backen till en fin mantlingsnöt.}}
+{{problem|namn=Scary Mov(i)e|grad=6B|typ=|fa=Två glada gubbar|landning=4|betyg=2|fadatum=2005-07-15|sopad=Två glada gubbar|sittstart=ja|text=Går på samma sten som nr 20. Startar sittande nere till vänster om "näsan" och klättrar sedan snett upp åt höger.}}
+{{problem|namn=Lucky Luke|grad=6B|typ=Krimp,Slopers,Heel hook|fa=Två glada gubbar|landning=4|betyg=2|fadatum=2005-07-15|sopad=Två glada gubbar|sittstart=ja|text=På samma sten som nr 20. Startar sittandes under näsan och sedan upp till höger om näsan.}}
+{{problem|namn=Tyskpeddopopp|grad=7A|typ=Krimp,Dyno,Highball|fa=Per Wermelin|landning=4|betyg=1|fadatum=2005-08-23|sopad=Per Wermelin|text=Startar på väggen mellan nr 22 och 23. KLättra upp till juggen uppe till höger och följ sen samma utsteg som Baghavad Gita.}}
+{{problem|namn=Dansfri spritfest|grad=5C|typ=Krimp,Slopers|fa=Per Wermelin|landning=1|betyg=1|fadatum=2005-08-23|sopad=Per Wermelin|sittstart=ja|text=Startar ca 2 m till vänster om Black Jack. Klättra rakt upp.}}
+{{problem|namn=Domsjöbor dansar aldrig nykter|grad=5C|typ=Krimp,Slopers|fa=JW|landning=1|betyg=1|fadatum=2005-08-23|sopad=JW|sittstart=ja|text=Startar ca 1,5 m till vänster om Dansfri spritfest. Startar vid aretén och klättra sen rakt upp.}}
+{{problem|nr=1|namn=Groggen luktar bensin|grad=6C|typ=Krimp|fa=Per W, PG|landning=2|betyg=1|fadatum=2004-10-24|sopad=Per W, PG|sittstart=ja|text=Sittstart, höger hand på det man når och vänster på liten krimp under blocket.}}
+{{problem|nr=2|namn=Löständer|grad=6A|typ=Krimp,Slopers,Mantling|fa=PG, HGA|landning=2|fadatum=2004-08-23|sopad=PG, HGA|text=Följ sprickan upp}}
+{{problem|nr=3|namn=Tuggummi|grad=6C|typ=Krimp,Mantling,Travers H->V|fa=PG, HGA|landning=2|betyg=1|fadatum=2004-08-23|sopad=PG, HGA|text=Följ sprickan till traversen, traversera ut lite över en meter och sedan rakt upp.}}
+{{problem|nr=3|namn=Botniabanan|grad=7B|typ=Travers H->V|fa=Mattias Flodin|landning=2|betyg=2|fadatum=2005-09-30|sopad=Mattias Flodin|variant=ja|text=Starta vid 3 & 4. Höger till vänster, lätt insteg, klättra upp 3-4m och du har en klockren linje att traversera till vänster. Utsteg i den stora sprickan rakt upp, där traverslinjen slutar.}}
+{{problem|nr=4|namn=Bakom trädet|grad=5B|typ=Slopers,Mantling,Spricka|fa=PG|landning=4|betyg=2|fadatum=2004-09-04|sopad=PG|text=Följ sprickan upp, mer psykisk än fysisk}}
+{{problem|nr=5|namn=Bamse|grad=6B|typ=Travers V->H,Heel hook|fa=PG|landning=4|betyg=1|fadatum=2004-08-30|sopad=PG|text=Startar vid siffran och traversera snett upp till höger, mantla upp på slutet.}}
+{{problem|nr=6|namn=Bjärv mantling|grad=6A|typ=Slopers,Mantling|fa=PG|landning=2|fadatum=2004-08-25|sopad=PG|text=Rakt upp vid siffran, håll till höger.}}
+{{problem|nr=7|namn=Häleri|grad=6C+|typ=Krimp,Layback,Mantling|fa=PG, HGA|landning=3|betyg=3|fadatum=2004-08-23|sopad=PG, HGA|text=Startar vid siffran och sedan rakt upp.}}
+{{problem|nr=7|namn=Från A till Ö|grad=6B|typ=|fa=Per Wermelin + HKLK|landning=3|betyg=2|fadatum=2005-04-04|sopad=Per Wermelin + HKLK|variant=ja|text=Samma start som Häleri. Följ linjen åt höger och avsluta med Dynomits utsteg.}}
+| width="250px" |
+{{problem|nr=8|namn=Bakhalt|grad=5B|typ=Slopers|fa=Kattis och danne|landning=3|betyg=2|fadatum=2004-08-23|sopad=Kattis och danne|text=Just till vänster om Häleri. Rakt upp vid siffran, håll till vänster.}}
+{{problem|nr=9|namn=Yodas käpp|grad=5C|typ=Layback,Spricka|fa=PG, HGA|landning=2|fadatum=2004-08-23|sopad=PG, HGA|uteslutningar=ja|text=Följ sprickan upp, högersida om sprickan är uteslutet}}
+{{problem|nr=9|namn=Tradd-variant|grad=3A|typ=Spricka|fa=Pär Lindholm|landning=2|fadatum=2004-10-08|sopad=PG, Pär L, Fredrik N|text=Följ dina traddrömmar!}}
+{{problem|nr=10|namn=Timotej|grad=5B|typ=Krimp,Slopers|fa=PG, HGA|landning=3|fadatum=2004-08-23|sopad=PG, HGA|uteslutningar=ja|text=Följ sprickan/blocket rakt upp. Allt till vänster om sprickan är uteslutet.}}
+{{problem|nr=11|namn=Lingondricka|grad=4C|typ=Krimp,Slopers,Spricka|fa=PG, HGA|landning=3|fadatum=2004-08-23|sopad=PG, HGA|text=Rakt upp efter vänstra väggen}}
+{{problem|nr=12|namn=Zig Zag|grad=5C|typ=Krimp,Slopers,Pinch|fa=PG|landning=4|betyg=1|fadatum=2004-08-25|sopad=PG|text=Starta på greppen ovanför siffran och klättra upp på stenen.}}
+{{problem|nr=12|namn=Kruxlexi|grad=6B+|typ=Krimp,Slopers|fa=Janne W|landning=4|betyg=2|fadatum=2004-10-24|sopad=Janne W|variant=ja|text=Aretet vid nr 12 Zig Zag. Startar på samma startgrepp som 12, sedan rakt upp. OBS! Fuska inte och starta till vänster runt hörnet. Häng in och börja klättra från framsidan.}}
+{{problem|nr=13|namn=Tyckt|grad=6A+|typ=Krimp,Slopers,Heel hook|fa=PG, HGA|landning=2|betyg=2|fadatum=2004-08-23|sopad=PG, HGA|startgrepp=ja|text=Häng in på "bullen", ut åt höger och sedan rakt upp.}}
+{{problem|nr=13|namn=Tyckt SS|grad=6C+|typ=Krimp,Slopers|fa=PG, PerWe|landning=1|betyg=1|fadatum=2004-10-23|sopad=PG, PerWe|sittstart=ja|variant=ja|text=Startar sittandes med vänster hand på kanten längst till vänster och höger hand på krimp långt till höger.}}
+{{problem|nr=14|namn=Alma|grad=5A|typ=Krimp,Dyno|fa=Kattis och Danne|landning=2|betyg=1|fadatum=2004-08-23|sopad=Kattis och Danne|uteslutningar=ja|text=Rakt upp, bullen till höger utesluten}}
+{{problem|nr=15|namn=Tricky|grad=6A|typ=Slopers,Layback,Reach|landning=1|fadatum=2004-09-04|text=Följer sprickan direkt till höger tills den viker av uppåt, då är det bara att skiska rakt upp.}}
+{{problem|nr=16|namn=Skalman|grad=5B|typ=|fa=PG|landning=2|fadatum=2004-09-04|sopad=PG|text=Följ ryggen snett upp tills den planar ut, sedan rakt upp.}}
+{{problem|nr=17|namn=Träningsflyg|grad=5A|typ=Krimp|landning=1|fadatum=2004-09-04|startgrepp=ja|uteslutningar=ja|text=Etablera på startgreppen och skicka till en av dom tre hyllorna. Graderad efter den lägsta. Markhopp är uteslutet.}}
+{{problem|nr=18|namn=TNT|grad=6C|typ=Dyno|fa=PG, HGA|landning=2|betyg=2|fadatum=2004-08-23|sopad=PG, HGA|text=Starta i sprickan och dyna till ett bra grepp snett upp till vänster sedan upp. Lättare om det görs statiskt.}}
+{{problem|nr=19|namn=Vingklippt|grad=5C|typ=Krimp,Reach|fa=PG|landning=3|betyg=1|fadatum=2004-09-10|sopad=PG|uteslutningar=ja|text=Startar samma som TNT men går rakt upp istället. Jättehyllan en bit upp till höger är utesluten.}}
+{{problem|nr=20|namn=Reachy reach|grad=6A+|typ=Krimp,Layback,Reach|landning=3|fadatum=2004-09-04|startgrepp=ja|text=Etablera, sedan upp.}}
+{{problem|nr=20|namn=Reachy reach SS|grad=6C|typ=Krimp,Layback|fa=Sydde + PG|landning=4|betyg=2|fadatum=2004-10-17|sopad=Sydde + PG|sittstart=ja|variant=ja|text=Starta sittande med vänster hand i undercling.}}
+| width="250px" |
+{{problem|nr=20|namn=Bend Down Low|grad=5C|typ=Aréte,Reach|fa=Martin Lundblad|landning=4|fadatum=2005-04-04|sopad=Martin Lundblad|sittstart=ja|variant=ja|uteslutningar=ja|text=t.h. om reachy reach. sittstart (låg) följ areten till toppen. Utels. allt t.v. om r.r.-sprickan. Vissa grepp är samma som r.r så detta är alt. en variant på r.r.}}
+{{problem|nr=21|namn=Black Jack|grad=6A|typ=Travers H->V,Spricka,Heel hook|fa=PG|landning=2|fadatum=2004-09-07|sopad=PG|sittstart=ja|text=Sittstart där man når nere vid höger sida, traversera upp till kanten och fortsätt följa sprickan upp.}}
+{{problem|nr=22|namn=Namaste|grad=6B|typ=Layback,Aréte|fa=Pär Lindholm|landning=3|betyg=2|fadatum=2004-10-14|sopad=Pär Lindholm|uteslutningar=ja|text=Använd höger (och ENDAST höger) sida av offwidht-sprickan.}}
+{{problem|nr=22|namn=Namaste - offwidht|grad=5B|typ=Spricka|fa=Pär Lindholm|landning=4|betyg=1|fadatum=2004-10-14|sopad=Pär Lindholm|variant=ja|text=Klättra i hela sprickan hur du vill.}}
+{{problem|nr=23|namn=Sai Baba|grad=6B|typ=Highball|fa=Sydde + HKLK|landning=4|betyg=3|fadatum=2004-10-30|sopad=Sydde + HKLK|text=Ligger längst till vänster bland Introväggarna. Starta på goda grepp som blir markant sämre.}}
+{{problem|nr=23|namn=Baghavad Gita|grad=6B|typ=Krimp,Travers H->V,Reach|fa=Sydde + HKLK|landning=4|betyg=2|fadatum=2004-10-30|sopad=Sydde + HKLK|variant=ja|text=Startar på samma grepp som Sai Baba men går snett upp vänster till slutet av Namaste. Fin linje med mycket klättring.}}
+{{problem|nr=25|namn=Bra vibrationer|grad=4B|typ=Highball|fa=Fredrik Nyberg|landning=2|betyg=2|fadatum=2004-10-14|sopad=Fredrik Nyberg|text=Goda grepp, långa move, fin höjd!}}
+{{problem|nr=27|namn=Pärs spricka|grad=5C|typ=Highball,Spricka|fa=Pär Lindholm + HKLK|landning=4|betyg=3|fadatum=2004-10-08|sopad=Pär Lindholm + HKLK|text=}}
+{{problem|nr=28|namn=Husumusen|grad=6C|typ=Krimp,Slopers,Aréte|fa=PG + Sydde + HGA|landning=1|fadatum=2004-10-17|sopad=PG + Sydde + HGA|sittstart=ja|uteslutningar=ja|text=Sittstart med vänster hand på liten krimp och höger hand ner. Väggen till höger utesluten.}}
+{{problem|nr=30|namn=Doghnut Express|grad=5A|typ=Spricka|fa=Fredrik Nyberg|landning=4|betyg=1|fadatum=2004-10-08|sopad=Fredde N, Per G, Pär L|text=Följ fingersprickan upp. Ligger till vänster om Häleri.}}
+{{problem|nr=31|namn=Dynomit|grad=7A|typ=Dyno|fa=Sydde + HKLK|landning=2|betyg=2|fadatum=2004-10-30|sopad=Sydde + HKLK|text=2 meter till höger om Häleri. Inte så mycket att säga. Ta tag i de enda greppen som finns och hoppa till rampen. Mantla på lättaste sätt, ungefär rakt upp.}}
+{{problem|nr=32|namn=Stöldgods|grad=6B|typ=Slopers,Layback|fa=Sydde + HKLK|landning=2|betyg=2|fadatum=2004-10-28|sopad=Sydde + HKLK|text=Följ högra delen av Häleri-stenen upp mot toppen.}}
+{{problem|nr=33|namn=Lilleskutt|grad=6A|typ=|fa=Per Gunnarsson|landning=3|sopad=Per Gunnarsson|sittstart=ja|text=Några meter till höger om nr 5 på första väggen.}}
+{{problem|nr=40|namn=Storleken har ingen betydelse|grad=6A|typ=Heel hook|fa=PG|landning=2|betyg=1|fadatum=2004-09-04|sopad=PG|sittstart=ja|text=Sittstart nere till vänster vid siffran. Går sen snett upp åt höger, mantla över näsan.}}
+|}
+==Mellan-sektorn==
+Parkera bilen vid intro-klippan men gå snett upp åt höger vid andra änden av fältet. Efter 150-200 meter ska du börja se klippor och tak och block. Den vänstra delen har mer tak och branta stenar medan den högra är ljusare, flackare och bättre landningar.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Le Chameau|grad=6A|typ=Mantling|fa=Sydde + HKLK|landning=1|fadatum=2004-10-30|sopad=Sydde + HKLK|text=Starta hängande mitt på stenen till höger om Freddes massiva. Sedan bara en mantling. Inget att skriva hem om men bra mantlingsträning.}}
+{{problem|namn=April april|grad=6A+|typ=|fa=Sydde + HKLK|betyg=3|fadatum=2005-04-01|sopad=Sydde + HKLK|text=Längst till höger på mellansektorn, cirka 30 meter till höger om High Chaparall. Det högsta problemet, i princip borstat och klart.}}
+{{problem|namn=Högspänning|grad=6B|typ=Överhäng,Reach|fa=Sydde + Tattarn|landning=4|betyg=1|fadatum=2005-04-01|sopad=Sydde + Tattarn|sittstart=ja|text=Ligger mitt under elledningen till höger om mellanområdet. Ungefär samma höjd som "April, april" och "Disco Inferno". Startar sittande i "hålet" med händerna i sprickan. Långa, ganska tunga flytt på fina grepp.}}
+{{problem|namn=Ball breakers|grad=6A+|typ=Mantling,Överhäng|fa=Per Wermelin + HKLK|landning=1|fadatum=2005-04-04|sopad=Per Wermelin + HKLK|startgrepp=ja|text=Startar ca 6m till höger om April april vid ett överhäng. Ta startgreppet på kanten om överhänget. Dra på upp till kanten med höger och mantla sen upp på hyllan.}}
+{{problem|namn=Anus|grad=6A|typ=Krimp,Slopers|fa=Per Gunnarsson|landning=2|betyg=1|fadatum=2005-04-10|sopad=Per Gunnarsson|uteslutningar=ja|text=Aretet just till höger om nr 19 Fredrik. Följ aretet upp åt höger och kliv upp på den stora hyllan. Håll till höger om den tunna sprickan.}}
+{{problem|namn=Trucker Hat|grad=5A|typ=Slab,Spricka|fa=Pär Lindholm|landning=2|fadatum=2005-04-13|sopad=Pär Lindholm|text=7 meter till höger om Trucker Fat. Klättra vänster om sprickan men helt OK att använda sprickan så mycket du vill.}}
+{{problem|namn=Scania Love|grad=5C|typ=|fa=Pär Lindholm|landning=4|betyg=1|fadatum=2005-04-13|sopad=Pär Lindholm|uteslutningar=ja|text=10 meter till höger om Trucker Fat. Ställ en spottare till höger. Sprickan är utesluten.}}
+{{problem|namn=Missionären|grad=6C|typ=Krimp,Överhäng|fa=Per Wermelin|landning=3|betyg=2|fadatum=2005-08-23|sopad=Per Wermelin|sittstart=ja|text=Sittstart ca 1,5 m till höger om sweet69. Klättra sen lite åt vänster och sen rakt upp.}}
+{{problem|namn=Where´s the poony|grad=5C|typ=Krimp,Highball|fa=JW|landning=3|betyg=3|fadatum=2005-08-23|sopad=JW|text=Startar på kanten mot svaplattan till vänster om My little ponny. Följ kanten och avsluta mha svaplattan.}}
+{{problem|namn=Nageltrång 2|grad=7A|typ=Krimp,Heel hook|fa=Per Wermelin|landning=3|betyg=1|fadatum=2006-12-28|sopad=Per Wermelin|sittstart=ja|text=Ligger på ett block vid nerstigningsrampen från tex Stressade småbarnföräldrar. Startar med höger hand på blockets högra kant och vänster hand ute på dess vägg.}}
+{{problem|namn=Vardagsedge|grad=4A|typ=Slopers,Travers V->H,Toe hook|fa=Olof Wallin|landning=2|fadatum=2007-07-12|sopad=Olof Wallin|uteslutningar=ja|text=Ligger till höger om mellanväggen under elledningen. Börja på stenen till höger om "Högspänning" och hangla/tåhooka kanten till diedret mitt på väggen. Kliv på fotsteget och mantla lätt över kanten. Njut av havsutsikten.}}
+{{problem|namn=Mossvat|grad=2|typ=Slab|fa=Cecilia Norin|landning=2|fadatum=2007-08-01|sopad=Cecilia Norin|text=På baksidan om det stora blocket till höger om Freddes massiva. Klättra upp för den svaiga linjen på¨vänsterkanten. Ta med lite mossa på vägen.}}
+{{problem|namn=Kalaskanten|grad=3B|typ=Slopers,Travers H->V|fa=Olof Wallin|landning=1|fadatum=2007-07-24|sopad=Olof Wallin|sittstart=ja|text=När du passerat under trädet som ligger över stigen på väg mot My litte pony mfl ligger en sten precis vid stigen till vänster. Starta sittande längst till höger och traversera väster till toppen. Inget för gradjägare men fint lätt problem för klättrare.}}
+{{problem|namn=Hoppjerka|grad=5A|typ=Mantling|fa=Olof Wallin|landning=3|betyg=1|fadatum=2007-07-24|sopad=Olof Wallin|variant=ja|text=På stenen till vänster om Freddes massiva, ungefär mitt på, tror det är vänsterprassel som går där. Hoppa upp och ta kanten. Mantla och njut av din insats.}}
+{{problem|nr=1|namn=Jamaica|grad=5C|typ=Aréte|fa=Per Gunnarsson + HKLK|landning=5|betyg=1|fadatum=2004-11-04|sopad=Per Gunnarsson + HKLK|uteslutningar=ja|text=Följ aréten upp. Stora hyllan till vänster utesluten annars inget snack. Roligt balansproblem med lite härlig skräck i mantlingen. Vaken spottare och två eller fler paddor rekommenderas.}}
+{{problem|nr=2|namn=Eurocarving|grad=5C|typ=Krimp,Reach|fa=HKLK|landning=3|betyg=1|fadatum=2004-11-04|sopad=HKLK|variant=ja|uteslutningar=ja|text=Ligger långt till vänster i mellansektorn, precis till höger om siffran 2. Sprickan till vänster är utesluten. Klart intressant problem.}}
+{{problem|nr=2|namn=Piggelin|grad=5A|typ=Spricka|fa=HKLK|landning=2|betyg=1|fadatum=2004-11-04|sopad=HKLK|text=}}
+{{problem|nr=3|namn=Freddes massiva|grad=5C|typ=Mantling,Travers V->H,Travers H->V|fa=Fredde|landning=2|betyg=3|fadatum=2004-10-28|sopad=Fredde|sittstart=ja|text=Starta sittande långt inne under taket, följ sprickan ut vänster, sedan upp och handhangla ut till höger där du mantlar upp. Massor av klättring.}}
+{{problem|nr=4|namn=Sweet 69|grad=7A+|typ=Krimp,Överhäng|fa=Sydde|landning=2|fadatum=2004-11-13|sopad=Sydde|sittstart=ja|text=Sittstart 5 meter till vänster om Vänsterprassel, precis vid vattnet.}}
+{{problem|nr=5|namn=Vänsterprassel|grad=6B+|typ=Överhäng,Jug|fa=Sydde + HKK|landning=4|betyg=3|fadatum=2004-10-17|sopad=Sydde + HKK|text=Starta i given jug för höger hand under taket och det lika givna bra greppet för vänsterhanden. Klättra ända ut till spetsen, bryt sedan upp till toppen. Osannolikt fint.}}
+| width="250px" |
+{{problem|nr=5|namn=Vänsterprassel - sittstart|grad=6C+|typ=Överhäng,Jug,Heel hook|fa=Sydde + HKLK|landning=3|betyg=3|fadatum=2004-10-17|sopad=Sydde + HKLK|sittstart=ja|variant=ja|startgrepp=ja|text=Börja sittande långt ner, gå sedan som Vänsterprassel. Många flytt. Starta med höger hand som undercling långt in och vänster hand på en krimp.}}
+{{problem|nr=6|namn=108|grad=6C|typ=Slopers,Mantling,Överhäng|fa=Sydde + HKLK|betyg=3|fadatum=2004-10-28|sopad=Sydde + HKLK|text=20 meter till höger om Vänsterprassel. Gå upp till sprickan under taket, sträck dig sedan ut och passera taket på enklaste sätt.}}
+{{problem|nr=7|namn=Den japanska stocken|grad=6B|typ=Överhäng|fa=Sydde + HKLK|landning=3|betyg=1|fadatum=2004-10-28|sopad=Sydde + HKLK|sittstart=ja|text=Starta sittande på givet grepp till höger under taket. Sedan i princip rakt upp.}}
+{{problem|nr=8|namn=The Gimp Crimp|grad=6B|typ=Krimp,Dyno|fa=Per Gunnarsson & HKLK|landning=2|betyg=1|fadatum=2004-11-10|sopad=Per Gunnarsson & HKLK|uteslutningar=ja|text=Tyvärr uteslutningar, annars ett superfint problem. Antingen går du via den minimala krimpen eller så skickar du på en fin dyno direkt till hyllan. Arétet (och därigenom det bra greppet runt hörnet) samt hyllan till vänster är uteslutna.}}
+{{problem|nr=9|namn=Snedres|grad=6B+|typ=Dyno|fa=Sydde + Per Gunnarsson|landning=3|betyg=1|fadatum=2004-11-13|sopad=Sydde + Per Gunnarsson|text=Dyna från startsprickan på The Gimp Crimp till den extremt positiva hyllan ungefär 1,5 meter snett upp till höger. Sedan rakt upp.}}
+{{problem|nr=10|namn=Stressade småbarnsföräldrar|grad=7A|typ=Krimp|fa=HKLK|landning=2|betyg=3|fadatum=2004-11-27|sopad=HKLK|sittstart=ja|text=Går rakt upp via den väldigt positiva hyllan. Ett suveränt problem för dig som gillar tunn väggklättring.}}
+{{problem|nr=11|namn=Gåvan|grad=6B+|typ=Highball,Aréte|fa=Jonas W & HKLK|landning=3|betyg=3|fadatum=2004-11-13|sopad=Jonas W & HKLK|uteslutningar=ja|text=Följ aréten på vänster sida. Den stora hyllan mitt på väggen är utesluten. Vacker och luftig.}}
+{{problem|nr=12|namn=Freudian Slip|grad=5A|typ=Spricka|fa=Fredrik Nyberg|landning=5|fadatum=2004-11-10|sopad=Fredrik Nyberg|text=Är du traddräv kommer du glida upp, är du IKSU-tränad kommer du vilja klättra ner. Problemet har ett tydligt inslag av Husumskräck.}}
+{{problem|nr=13|namn=My little pony|grad=5C|typ=Slopers,Aréte|fa=Pär Lindholm + HKLK|landning=2|betyg=3|fadatum=2004-11-04|sopad=Pär Lindholm + HKLK|text=Otroligt fint balansproblem. En klassiker redan nu.}}
+{{problem|nr=14|namn=Staffan Lings mantlingsfavorit|grad=4B|typ=Mantling|fa=Per Gunnarsson|landning=1|fadatum=2004-11-10|sopad=Per Gunnarsson|text=Starta hängande i kanten och mantla sedan upp.}}
+{{problem|nr=15|namn=Trucker Fat|grad=5C|typ=Slopers|fa=Pär Lindholm|landning=2|fadatum=2004-11-10|sopad=Pär Lindholm|startgrepp=ja|uteslutningar=ja|text=Går brevid där man går upp till hyllan. Starta i de två givna greppen och smyg sedan upp via coola slopers eller gör ett ordentligt skick till toppen. Allt till höger om det högra startgreppet är uteslutet. Befriad från skräck.}}
+{{problem|nr=19|namn=Fredrik|grad=6B|typ=Krimp,Slopers,Highball|fa=Per Gunnarsson + HKLK|landning=2|betyg=3|fadatum=2005-03-30|sopad=Per Gunnarsson + HKLK|text=Väggklättring till vänster om Fabio-sprickan. Många moves och ihållande. Fantastisk linje.}}
+{{problem|nr=20|namn=Fabio|grad=5C|typ=Highball,Spricka|fa=Per Gunnarsson|landning=2|betyg=2|fadatum=2004-11-13|sopad=Per Gunnarsson|text=Lättaste vägen upp med hjälp av sprickan. Lite skräckhöjd som bonus.}}
+{{problem|nr=21|namn=Filip|grad=6C|typ=Krimp,Highball|fa=Sydde + Per Gunnarsson|landning=3|betyg=3|fadatum=2004-11-13|sopad=Sydde + Per Gunnarsson|uteslutningar=ja|text=Går på den höga väggen till höger om sprickan uppe på hyllan. Krimpkrux upp till hylla, sedan mystiska moves för att etablera sig i flaket. Ser imponerande ut.}}
+{{problem|nr=22|namn=Bra|grad=5C|typ=Slopers|fa=HKLK|landning=2|betyg=1|fadatum=2004-11-13|sopad=HKLK|startgrepp=ja|text=Starta etablerat i dom två sloprarna.}}
+{{problem|nr=23|namn=High Chaparall|grad=5A|typ=Slopers|fa=Pär Lindholm|landning=4|fadatum=2004-11-13|sopad=Pär Lindholm|text=Går på hyllan ovanför Bra och Anus. Självklart är väggen till höger utesluten. Lite gratisexponering.}}
+{{problem|nr=26|namn=Gästarbetare|grad=4C|typ=Aréte|fa=Johan Grahnén + HKLK|landning=4|betyg=1|fadatum=2005-03-30|sopad=Johan Grahnén + HKLK|uteslutningar=ja|text=Till vänster om Lätta slabben, längst till höger i Mellanområdet. Följer aréten upp. Mosshyllorna till höger är uteslutna.}}
+{{problem|nr=27|namn=Lätta slabben|grad=3B|typ=Slab|fa=HKLK|landning=2|betyg=1|fadatum=2005-03-12|sopad=HKLK|text=Längst upp till höger i mellanområdet. Givna slabbväggen.}}
+{{problem|nr=28|namn=Spansk skalle|grad=6A|typ=Krimp,Överhäng|fa=Carlos + HKLK|landning=2|betyg=1|fadatum=2005-03-12|sopad=Carlos + HKLK|sittstart=ja|uteslutningar=ja|text=Ligger längst upp till höger i mellanområdet. Fint problem som tappar en stjärna eftersom väggen till höger är lite i vägen (och såklart, utesluten).}}
+{{problem|nr=30|namn=Disco Inferno|grad=6A+|typ=Slopers|fa=Pär Lindholm + HKLK|landning=2|betyg=2|fadatum=2005-03-30|sopad=Pär Lindholm + HKLK|uteslutningar=ja|text=Längst till höger i Mellansektorn. Förmodligen svårt att nå startgrepp om man är under 175 cm. Sprickan och allt till höger om den är uteslutet. Väldigt fina moves.}}
+| width="250px" |
+{{problem|nr=41|namn=Dräparn|grad=6A+|typ=Slopers|fa=UG|landning=3|betyg=1|fadatum=2007-07-26|sopad=UG|sittstart=ja|startgrepp=ja|text=Tidigt block i till vänster om stig. Starta med VH i spricka och HH i sidogrepp.}}
+{{problem|nr=42|namn=Hägges klorex|grad=4C|typ=Reach|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=Ligger bakom problem "Dräparn". Grip tag i kanterna och smera fötterna mot blocket och upp.}}
+{{problem|nr=43|namn=Pyramid|grad=4C|typ=Reach|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|startgrepp=ja|text=Matcha på givet startgrepp, dra till kant och upp.}}
+{{problem|nr=44|namn=Klämmentin|grad=6A|typ=Krimp,Slopers|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=}}
+{{problem|nr=45|namn=Skolios|grad=5C|typ=Layback|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|uteslutningar=ja|text=Uteslutet att använda kringliggande block med fötter och händer. Starta med händerna på blockkant till höger, hellhook på samma kant.}}
+{{problem|nr=46|namn=Sitting Bölld|grad=4A|typ=Reach|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|startgrepp=ja|text=Litet block ca 5m från stig. Starta med VH på stenens kant och HH på hylla, res dig.}}
+{{problem|nr=47|namn=Le Parkour|grad=5C|typ=Krimp,Jug|fa=UG|landning=3|betyg=2|fadatum=2007-07-26|sopad=UG|sittstart=ja|uteslutningar=ja|text=Större block 10m till vänster om stig. Starta i tydliga grepp, heelhook och toehook till vänster kan underlätta.}}
+{{problem|nr=48|namn=Myr Jävlar|grad=6A|typ=Slopers,Jug|fa=UG|landning=3|betyg=2|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=Starta i hyllan, heelhook med vänster fot, höger fot på krimp.}}
+{{problem|nr=49|namn=Grizzly Man|grad=7A|typ=Krimp,Slopers|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=Starta sittandes i krimp i sloper, problemet går snett vänster. Kruxet är att resa sig, slutet lätt.}}
+{{problem|nr=50|namn=Emmys blåbärskaka|grad=5B|typ=Slopers,Aréte|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=Sittstart på vänster sida om areten, vandra upp längs kanten mot näsan och upp.}}
+{{problem|nr=51|namn=Jeremy|grad=4A|typ=|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|text=Klättra rakt upp och över näsan.}}
+{{problem|nr=52|namn=Krokodildo|grad=5A|typ=|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=Hangelproblem H->V, res dig upp på stenen som avslut.}}
+{{problem|nr=53|namn=Sulfitsmäll|grad=6A|typ=|fa=UG|landning=3|fadatum=2007-07-30|sopad=UG|sittstart=ja|text=Litet block till vänster om "Freddes massiva". Starta sittandes i heelhook för högerfot och runda näsan och sedan upp, gå ej upp för tidigt.}}
+{{problem|nr=54|namn=Happy Herb|grad=6C|typ=Krimp,Slopers,Överhäng|fa=UG|landning=5|betyg=1|fadatum=2007-07-26|sopad=UG|startgrepp=ja|uteslutningar=ja|text=Större block till vänster om "Sulfitsmäll". Startgrepp på höger sida om arete, fötterna endast på detta block. skicka till slopers på kanten sedan till två lister, Alt. skicka direkt till listerna. Bra grepp som avslut.}}
+{{problem|nr=55|namn=Ortopedens tandvärk|grad=6A|typ=Krimp,Pinch|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|startgrepp=ja|uteslutningar=ja|text=Låg start i markant list, vänstra kanten på blocket är uteslutet. Goda kvartsiga grepp}}
+{{problem|nr=56|namn=Mr Green|grad=5C|typ=Layback,Reach,Spricka|fa=UG|landning=3|betyg=1|fadatum=2007-07-26|sopad=UG|startgrepp=ja|text=Starta i undercling greppet, följ sprickan upp till tops. Kruxet är vid den stora öppningen i sprickan halvägs upp.}}
+{{problem|nr=57|namn=Liljefot 4-ever|grad=6B|typ=Krimp,Slopers|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|startgrepp=ja|text=Starta på sloper med båda händerna, skicka till höger hylla och jobba dig upp med balans å finess.}}
+{{problem|nr=58|namn=Vallmoblomma|grad=5B|typ=Krimp,Slopers,Aréte|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|text=Klättra upp för areten.}}
+{{problem|nr=59|namn=Trollväggen|grad=3C|typ=Krimp|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|text=Ensamma blocket på stenhällen till vänster om "Vallmoblomma" Inga krusiduller, rakt upp.}}
+{{problem|nr=60|namn=Trilobit|grad=6C+|typ=Krimp,Överhäng|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=Bryt dig över näspartiet.}}
+{{problem|nr=61|namn=Dioxin|grad=4A|typ=Krimp|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|sittstart=ja|text=Ingen kommentar!}}
+{{problem|nr=62|namn=Pe-piller|grad=4B|typ=Mantling|fa=UG|landning=3|fadatum=2007-07-26|sopad=UG|text=Mantelproblem som går raka vägen upp.}}
+{{problem|nr=63|namn=Kolagömma|grad=5B|typ=Krimp,Spricka|fa=UG|landning=3|fadatum=2007-07-30|sopad=UG|startgrepp=ja|text=Ligger ca 10m vänster om "Fabio".Startar i hylla till höger, vandra vänster och upp till toppen. Kruxet är att nå list eller markant hylla ca 3m upp.}}
+{{problem|nr=64|namn=Mattisborgen|grad=5A|typ=Layback,Spricka|fa=UG|landning=4|fadatum=2007-07-26|sopad=UG|text=Till vänster om "Kolagömma", följ sprickan upp, kruxet på slutet.}}
+|}
+==Bortre sektorn==
+Gå förbi mellansektorn och sedan förbi kraftledningsgatan så kommer du till den bortre sektorn.
+[[Kategori:Komplett]]
+[[Kategori:Ö-vik]]
+[[Kategori:Umeå]] <!-- Inte helt kosher kanske, men då dyker den upp under Umeå-rubriken och det är väl inte helt tokigt. -->
+[[Kategori:Ångermanland]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar skrivarformatering]]

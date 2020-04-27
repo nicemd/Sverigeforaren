@@ -1,0 +1,35 @@
+{{komplett}}
+==Allmänt==
+Falkberget ligger ca 2 mil öster om Hudiksvall, på väg mot Hornslandet.
+
+==Kommunikationer==
+
+Med bil; på väg mot Hornslandet åker man förbi en by som heter Rogsta. Ca 4 km bortom Rogsta finns en vägskylt som det står "STENSÖ 7" på. Sväng mot Stensö och åk 1 km. Här svänger man vänster på en något sämre väg, som man följer i 1 kilometer till en traktorstig på höger sida av vägen. Parkera på traktorstigen och följ denna till dess slut. Där viker man av åt höger och går rakt upp i skogen ca 100 m till berget.
+
+Ungefärliga GPS-koordinater: Lat: N 61º 45' 56.89" Long: E 17º 17' 2.18"
+
+==Klippan==
+
+Berget är något hundratal meter brett och som högst ca 10 m. Överlag
+är klippan brant och sprickrikt, om än bitvis litet löst, vilket ger
+potential för ett flertal leder.
+
+Aningen lös klippa som ger möjligheter för nyturer.
+
+{{led|nr=1|namn=Kul Krux Klan|grad=6- |typ=trad|fa=Fredrik Bergström m topprep 1991|text= Startar i sprickan under taket som följs upp på ett sva, där man sedan går in på väggen igen.}}
+
+{{led|nr=2|namn=Indianen|grad=5+ |typ=trad|fa=Fredrik Bergström m topprep 1991|text= Följer det tydliga flaket upp till taket. Sedan en stigande travers på svaet till toppen. Fin.}}
+
+{{led|nr=3|namn=Buffalo Bill|grad=6-/6 |typ=trad|fa=Bernt Hammarström m topprep 1991|text= Den tydliga sprickan 2 m till höger om Indianen. Jobbig och ihållande klättring.}}
+
+{{led|nr=4|namn=Den sista Mohikanen|grad=6+/7- |typ=trad|fa=Fredrik Bergström m topprep 1991|text= Ännu en tydlig spricka som så småningom tunnar ut och försvinner. Traversera då vänster till en annan spricka som just börjat.}}
+
+{{led|nr=5|namn=Sitting Bull|grad=0 |fa=Ingen 1991|text= Har den klättrats alls?}}
+
+{{led|nr=6|namn=Dansar med vargar|grad=4- |typ=trad|fa=André och Fredrik Bergström 1991|text= Startar i ett hörn och går upp vid det tydliga flaket som följs till toppen.}}
+
+{{led|nr=7|namn=Röd Öga|grad=4- |typ=trad|fa=André Bergström m topprep 1990|text= Fritt: André och Fredrik Bergström, 1991 Följer ett tydligt dieder t v om Apachesprickan.}}
+
+[[Kategori:Saknar skiss]] [[Kategori:Saknar karta]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

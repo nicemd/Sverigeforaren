@@ -1,0 +1,43 @@
+=Allmänt=
+Området ligger fint i sydsluttning ca 100 meter från vägen. Glest och öppet. Lätt att ta sig till och tinar fram snabbt på våren.
+=Vägbeskrivning=
+Kör väg 363 till Långviksvallen. Ta vänster mo Kassjö. Ta höger mot Storhäggsjö efter ca tre kilometer. Kör ca 2 km, parkera vid andra grustaget. Gå upp mot höger.
+=Sektorer=
+==Introväggen==
+
+==Fotbollsväggen==
+
+{{problem|nr=1|namn=Ställ tjockisen i mål|grad=5C|typ=Slopers,Mantling|fa=Matt & Pär|landning=2|fadatum=2006-06-21|sopad=Matt & Pär|sittstart=ja|text=Sittstart till vänster/bakom överhänget.}}
+{{problem|nr=2|namn=Vänsterback|grad=6A|typ=Krimp|fa=Matt & Pär|landning=3|fadatum=2006-06-21|sopad=Matt & Pär|sittstart=ja|text=Går upp vänster sida om överhänget.}}
+{{problem|nr=3|namn=Det heter soccer|grad=6B|typ=Krimp,Layback|fa=Matt Kupilik|landning=2|fadatum=2006-06-21|sopad=Matt Kupilik|text=Starta i två fina undercling och gå snett upp åt vänster mot aréten (ej till greppet till höger om granen). Luftig.}}
+==Vittergrottan==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Wall of Shame|grad=5B|typ=Highball|fa=Matt, Erik & Pär|landning=2|fadatum=2006-06-21|sopad=Matt, Erik & Pär|text=Till höger om Vittergrottan, startar till vänster om tallen och går rakt upp.}}
+{{problem|namn=Yes, Sir Captain!|grad=6C|typ=Krimp,Överhäng|fa=Matt & Pär & Erik|landning=2|betyg=2|fadatum=2006-06-21|sopad=Matt & Pär & Erik|sittstart=ja|text=På stenen brevid Vittergrottan. Starta i givet stort startgrepp och gå rakt upp.}}
+{{problem|namn=The Latin Queens|grad=6A+|typ=Slopers|fa=Matt & Pär & Erik|landning=3|fadatum=2006-06-21|sopad=Matt & Pär & Erik|sittstart=ja|uteslutningar=ja|text=På stenen brevid Vittergrottan. Sittstart tre meter till vänster om Yes, Sir Captain! Följ aréten upp åt höger. Uteslutning: Håll fötterna på väggen, ej tillåtet att kliva upp på aréten.}}
+| width="250px" |
+{{problem|namn=Easy, boy!|grad=5A|typ=Krimp,Aréte|fa=Erik & Pär|landning=3|betyg=1|fadatum=2006-06-22|sopad=Erik & Pär|text=Går på den ensamma väggen/stenen mellan Vittergrottan och Tjockisväggarna. Den högra aréten.}}
+{{problem|namn=A Brokeback Moment|grad=6A+|typ=Krimp|fa=Erik & Pär|landning=4|betyg=1|fadatum=2006-06-22|sopad=Erik & Pär|text=Går på den ensamma väggen/stenen mellan Vittergrottan och Tjockisväggarna. Rakt upp i mitten. Lite hög.}}
+{{problem|namn=Down boy, down|grad=5A|typ=Krimp,Aréte|fa=Pär & Erik|landning=3|sopad=Pär & Erik|text=Går på den ensamma väggen/stenen mellan Vittergrottan och Tjockisväggarna. Den vänstra aréten. Ett ganska misslyckat problem, vi får fundera ut hur det ska klättras sen.}}
+{{problem|namn=Sergeant|grad=6C+|typ=Aréte,Heel hook|fa=Rörmyrsligan|landning=3|betyg=3|fadatum=2006-09-01|sopad=Rörmyrsligan|sittstart=ja|text=Sittstart vid arétet och sedan rakt upp. Fina flytt med härligt häng i hälen.}}
+| width="250px" |
+{{problem|namn=Bunker|grad=6C|typ=Krimp,Överhäng|fa=Rörmyrsligan|landning=2|betyg=1|fadatum=2006-09-01|sopad=Rörmyrsligan|sittstart=ja|startgrepp=ja|text=Starta matchat och följ små grepp upp. Se upp för att toucha med ryggen i stenen bakom.}}
+{{problem|namn=Petty Officer|grad=7B|typ=Krimp|fa=Rörmyrsligan|landning=2|sopad=Rörmyrsligan|sittstart=ja|text=}}
+{{problem|namn=Sub-Lieutenant|grad=-|typ=Krimp|fa=Rörmyrsligan|landning=4|sopad=Rörmyrsligan|sittstart=ja|uteslutningar=ja|text=Aréten utesluten.}}
+|}
+==Tjockisväggarna==
+
+{{problem|namn=Marlon Brandon|grad=5B|typ=Krimp|fa=Erik & Pär|landning=3|sopad=Erik & Pär|sittstart=ja|uteslutningar=ja|text=Till vänster på den stora väggen. Lagom höjd.}}
+{{problem|namn=Homer Simpson|grad=3B|typ=Jug|fa=Erik & Pär|landning=3|sopad=Erik & Pär|text=Liten vägg till höger om den stora väggen. Sandigt litet problem.}}
+{{problem|namn=Tjock-Steffe|grad=5B|typ=Krimp|fa=Pär|landning=3|sopad=Pär|startgrepp=ja|text=Startar i skrevan till höger om stora väggen. Givna startgrepp, följ väggen till högsta punkten.}}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

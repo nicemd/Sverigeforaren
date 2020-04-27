@@ -1,0 +1,340 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!--{{stub}} -->
+ {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Jämtland Öst består av ett flertal klippor spridda över östra delen av Jämtland. <br>
+[[http://hem.bredband.net/b755182/klattring/jamtland_ost_2004-08-08.pdf Förare över Jämtland Öst hittas här.]]
+
+==Gruvsamhetsgradering==
+Gruvsamhetsgradering, eller allvarlighetsgradering, är ett graderingssystem som använts av Östersunds klätterklubb och även i Hälsingeföraren för att ge en fingervisning om både hur ihållande en led är och hur pass väl den går att säkra. 
+
+'''A''' är minst allvarlig, och innebär att det finns lättare passager eller vilopositioner mellan svårigheterna och/eller att man kan placera säkringar ovanför sig praktiskt taget hela tiden. '''B''' motsvarar normalt ihållande och säkrade leder. '''E''' är mest allvarlig och innebär att leden är extremt ihållande och helt osäkrad, med '''C''' och '''D''' nånstans mittemellan.
+
+==Vägbeskrivning==
+{|- valign="top"
+| width="400px" valign="top"|
+====Berguvsberget==== 
+21 leder, 10-45 m, 0% bb<br>
+[http://www.sverigeforaren.se/index.php/Bild:Jamtland_ost_Berguvsberget_hitta.gif Mer detaljerad karta ]
+
+==== Bergviksberget ====  
+45 leder, 6-45 m, 0% bb <br>
+Klippan består av gnejs och granit och har nu många mycket fina leder med genomgående goda säkringsmöjligheter. Man finner både medelsvåra och svåra leder av hög kvalitet vilket bör locka klättrare av alla kategorier. Den höga klassen på de lättare lederna är kanske det mest utmärkande.
+
+Berget bjuder på sprick-, hörn- och kaminklättring i en replängd. Det är nära till väg (50 m), tältplats och vatten med fin sandstrand. Solstolar och strandservering saknas dock.
+
+[http://www.sverigeforaren.se//Bild:Jamtland_ost_Bergviksberget_hitta.gif Mer detaljerad karta]
+
+==== Svarttjänsberget ====
+20 leder, 7-25 m, 8% bb<br>
+500 m närmare Höviken (åt Östersundshållet) finns ytterligare ett berg som heter Svarttjärnsberget. Svarttjärnsberget ger samma fina klättring som man finner på Bergviksberget. Även dessa väggar vetter mot söder.
+
+Detta berg har ingen riktigt stor vägg, utan är uppdelat i flera mindre väggpartier. Från vägen ser man bara en liten del av berget, men följer man bergssidan upptäcker man alla vinklar och vrår. Ett ovanligt berg i Jämtland ! Även om berget inte har någon större vägg finns några kortare verkligen utmanande leder. Klippan är av mycket god kvalitet.
+
+[http://www.sverigeforaren.se/index.php/Bild:Jamtland_ost_Bergviksberget_hitta.gif Mer detaljerad karta]
+
+==== Västerkleva ====
+25 leder, 10-90 m, 0% bb<br>
+[http://www.sverigeforaren.se/index.php/Bild:Jamtland_ost_Vasterkleva_hitta.gif Mer detaljerad karta]
+
+==== Brunflo ====
+40 leder, 6-12 m, 0% bb
+
+==== Förbergsberget ====
+
+
+==== Mariebybrottet ====
+
+
+
+
+
+| width="500px" valign="top"|
+
+[[Bild:Karta_jamtland_ost.gif|500Widthpx|right]]
+|}
+
+
+
+<!--  <div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;"> -->
+
+
+<!-- kommentarer   -->
+<!-- Karta här. Tryck på kartknappen ovan.-->
+<!-- </div>
+
+<!-- <div style="float: right; margin-left: 10px;">  -->
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+<!-- </div> -->
+
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+=== Berguvsberget ===
+[[Bild:Jamtland_ost_Berguvsberget.gif|700Widthpx]]
+{|- valign="top"
+| width="350px" valign="top"|
+
+{{led|nr=1|namn=Blodkorven|grad=5+|gruv=b|typ=trad|betyg=|bultar=|längd=20|fa=[[P.Nilsson]] -85|text=Där taket på Överraskningen går över i hörnet går man ut till vänster på plattan. Traversera några meter och gå sedan rakt upp.}}
+{{led|nr=2|namn=Överraskningen|grad=4-|gruv=a|typ=trad|betyg=|bultar=|längd=40|fa=[[G.Söderin]] -80|text=Börja i hörnet till vänster om en stor spricka. Klättra upp några meter. Fortsätt till höger under taket och så vidare rakt upp i hörnet till toppen. }}
+{{led|nr=3|namn=Korven|grad=5|gruv=a|typ=trad|betyg=|bultar=|längd=10|fa=[[P.Nilsson, S-E Brevik]] -85|text=Börja med att klättra ”arreten” till höger om hörnet upp till överkanten av taket. Gå ut till vänster på takläppen och sedan rakt upp till hyllan.}}
+{{led|nr=4|namn=Blodig Jord|grad=6|gruv=b|typ=trad|betyg=|bultar=|längd=10|fa=[[S-E Brevik]] -85|text=Från hyllan går man åt vänster upp på några block, sedan ut till höger på väggen och rakt upp.}}
+{{led|nr=5|namn=Linje 3|grad=5-|gruv=a|typ=trad|betyg=|bultar=|längd=30|fa=[[R.Olsson, L.Brolén]] -80|text=Börja med att runda ett litet överhäng åt vänster. Gå sedan något till höger och vidare upp i ett litet hörn. Kliv upp på en hylla till vänster vid hörnets slut och fortsätt rakt upp i sprickan, som är ledens krux.}}
+{{led|nr=6|namn=Kort Spricka|grad=4|gruv=a|typ=trad|betyg=|bultar=|längd=30|fa=[[C.Åstrand, G.Söderin]] -80|text=Klättra sprickan upp till stora block. Kliv upp på rampen. Gå till vänster och följ sprickorna till toppen.}}
+{{led|nr=7|namn=Räddningen|grad=5-|gruv=a|typ=trad|betyg=|bultar=|längd=45|fa=[[Ö.Söderin, G.Söderin]] -76|text=Första replängden hör knappast till bergets ”godbitar”. Blocken mot slutet av replängden har inte hårdtestats. Gör inte det Du heller.<br>'''1''' grad: 5 20 m. Starta med viss svårighet upp i det korta hörnet. Kliv ut till vänster. Undvik träden längre upp genom att gå ut på vänstra väggen. Följ skivorna några meter. Traversera sedan till höger över ”tvivelaktiga” block ut på stora hyllan. Standplats. <br>  '''2''' grad: 4 25 m. Traversera tillbaka igen och upp på rampen. Fortsätt runt hörnet och upp via sprickorna till toppen.}}
+{{led|nr=8|namn=Katedraltaket|grad=6-|gruv=c|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, C.Åstrand]] -80|text=Leden innehåller bl a ovanlig takklättring. Själva kruxet är svårsäkrat. Klättra från vänstra kanten av stora hyllan snett upp åt vänster några meter och sedan med någon dragning åt höger längs en spricka upp under taket. Kaminklättra ut i taket. Svårast första biten.}}
+{{led|nr=9|namn=Fjädrande Foten|grad=6|gruv=c|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, Tommy Nilsson]] -81|text=Klättra från stora hyllans vänstra kant några meter rakt upp. Gå därefter in i en svår lay-back upp till en utskjutande spets. Fortsätt vidare över denna och följ sprickan upp.}}
+{{led|nr=10|namn=Fläsket Brinner|grad=6|gruv=b|typ=trad|betyg=|bultar=|längd=45|fa=[[G.Söderin, K.Westman]] -79|text='''1''' VI- 15 m Klättra den stora sprickan i hörnet, som avslutas mitt på hyllan. <br>'''2''' VI 30 m. Första gången fritt: J.Liljemark, R.Hedman <br>Starta från högra kanten av den stora hyllan uppför den största sprickan. Gå med svårighet till vänster vid taket och upp i sprickan.}}
+{{led|nr=11|namn=Guppande Selen|grad=6|typ=Topprep|betyg=|bultar=|längd=15|fa=[[C.Åstrand, G.Söderin]] -80|text=Klättra kanten till höger om Fläsket Brinner.}}
+
+| width="350px" valign="top"|
+
+{{led|nr=12|namn=Bror Olssons Spricka|grad=6|gruv=b|typ=trad|betyg=1|bultar=|längd=45|fa=[[G.Söderin, C.Åstrand)]] -79|text=Detta är nog den ”flottaste” formationen på hela berget. <br> '''1''' grad: 6- 15 m En stor fin spricka går över ett litet tak efter ca 10 m och vidare upp på den stora hyllan. Nödvändigt med stora kilar. <br>'''2''' grad 6 30 m Klättra upp på skivorna och vidare i sprickan, som går upp åt vänster under taket.}}
+{{led|nr=13|namn=Upp Över Taket|grad=6-|gruv=b|typ=trad|betyg=|bultar=|längd=45|fa=[[G.Söderin, C.Åstrand, K.Westman]] -79|text='''1''' grad: 5 20 m <br>Börja i hörnet till höger om Bror Olssons Spricka med några meters kaminklättring för att sedan ta till vänster och följa några sprickor upp till en björk. Ta med stora kilar. <br> '''2''' grad: 6- 25 m <br>Fortsätt i sprickan upp till taket. (Graderingen gäller inte om man tar trädet till hjälp). Därefter luftig och fin spreisklättring ut och över taket, som är lättare än det ser ut. Följ sedan sprickan.}}
+{{led|nr=13b|namn=Instegsvariant U.Ö.T.|grad=5|gruv=a|typ=trad|betyg=|bultar=|längd=10|fa=[[M.Sundberg, C.Åstrand)]] -85|text=Klättra den fina handjamspricken till vänster om normalinsteget.}}
+{{led|nr=14|namn=? |grad=5|typ=trad|betyg=|bultar=|längd=10|fa= -|text= }}
+{{led|nr=15|namn=Pölan|grad=5-|gruv=a|typ=trad|betyg=|bultar=|längd=40|fa=[[G.Söderin, K.Westman)]] -79|text=Bortsett från den vassa skivan vid insteget, som också är den svåraste passagen, går denna led upp genom ett mindre brant parti av berget, som bitvis är mossigt. Den tillhör alltså knappast de intressantare lederna, men är ändå en av de få tänkbara nybörjarlederna på berget när man väl har klarat av det lite tunga insteget. <br>'''1''' V- 25 m <br>Starta några meter till höger om led 10. Klättra skivan upp till en hylla. Gå till vänster och följ sprickan, som går snett upp till höger förbi några träd. Gör standplats där sprickan delar sig. <br>'''2''' IV 15 m <br>Fortsätt i den vänstra sprickan till toppen.}}
+{{led|nr=16|namn=? |grad=4|typ=trad|betyg=|bultar=|längd=10|fa= -|text= }}
+{{led|nr=17|namn=? |grad=5|typ=trad|betyg=|bultar=|längd=8|fa= -|text= }}
+{{led|nr=18|namn=? |grad=5+|typ=trad|betyg=|bultar=|längd=7|fa= -|text= }}
+{{led|nr=19|namn=? |grad=6-|typ=trad|betyg=|bultar=|längd=6|fa= -|text= }}
+{{led|nr=20|namn=Ukio Tosch|grad=6-|gruv=c|typ=trad|betyg=1|bultar=|längd=25|fa=[[G.Söderin)]] -79|text=Leden går längst till höger på en pelare längs en ”bananformad” spricka. Fin lay-backklättring. Svårsäkrat i början efter insteget p.g.a. klättringens karaktär. Bör inte ledas av ”nybörjare i graden” Gå upp på blocket närmast sprickan. Följ sprickan och det påföljande hörnet för att på slutet gå ut på kanten till vänster.}}
+{{led|nr=21|namn=En Rolig Grej|grad=5-|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, K.Westman)]] -79|text=Följ den stora inte alltför branta sprickan upp på toppen av blocket.}}
+|}
+{{sidbrytning}}
+
+=== Bergviksberget, nedre ===
+[[Bild:Jamtland_ost_Bergviksberget_nedre.gif|750Widthpx]]
+
+{|- valign="top"
+| width="350px" valign="top"|
+
+{{led|nr=1|namn=Tosteda|grad=4|gruv=b|typ=trad|betyg=|bultar=|längd=20|fa=[[D.Bell, T.Nilsson]] -85|text=Börja med att klättra över några ”bullar”. Följ sedan ett hörn några meter, gå något åt vänster och upp till nästa hörn och vidare mot toppen.}}
+{{led|nr=2|namn=Rosita|grad=3|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[D.Bell]] -85|text=Följ en tunn hörn- och sprickformation.}}
+{{led|nr=3|namn=Raindrops|grad=5-|gruv=c|typ=trad|betyg=|bultar=|längd=30|fa=[[Wiström, D.Bell]] -84|text=Leden börjar vid en tunn spricka på en kort platta som ligger till vänster om ett markant hörn. Gå sedan in i det iögonfallande hörnet och följ det ända upp.}}
+{{led|nr=4|namn=Long John|grad=6-|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[P.Nilsson, S-E Brevik]] -84|text=Klättra det markanta hörnet och tag sedan den tydliga sprickan på högra väggen. Avsluta med lite väggklättring upp mot hyllan.}}
+{{led|nr=4a|namn=Direkt Insteg Long John|grad=4|gruv=b|typ=trad|betyg=|bultar=|längd=8|fa=[[G.Söderin]] -84|text=Klättra upp på skivan och hangla ut till höger så man når den fina sprickan som går upp till hyllan.}}
+{{led|nr=5|namn=John Silver|grad=4+|gruv=c|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, MSundberg]] -86|text=Traversera från slutet av första hörnet på Long John ut till höger på bra steg, men sämre grepp. Fortsätt efter några meter rätt upp till ett överhäng. Runda överhänget på höger sida. Därefter vidare upp i det korta, fina hörnet. Gå ur hörnet åt vänster och sedan vidare rakt upp med dragning åt vänster till toppen.}}
+{{led|nr=6|namn=Musse Pigg|grad=6+|typ=trad|betyg=|bultar=|längd=30|fa=[[G.Söderin, M.Sundberg]] -85|text=Börja med en vild lay-back på den kraftiga skivan. Följ sedan den böljande inbuktningen med dragning åt vänster ända upp.}}
+{{led|nr=7|namn=Farsans Fart|grad=6|gruv=b|typ=trad|betyg=|bultar=|längd=30|fa=[[G.Söderin, H.Thordarsson]] -84|text=Börja i ett överhängande hörn med en spricka. Efter hörnet fortsätter man i två sprickor och passar på att vila sig när de tar slut, fortsättningen medger tyvärr inte så mycket av detta. Hangla på goda grepp ut åt vänster 7-8 m på den släta plattan och följ en spricka snett upp åt vänster (kruxet) till toppen.}}
+{{led|nr=7a|namn=Insteg Farsans Fart|grad=5+|gruv=a|typ=trad|betyg=|bultar=|längd=7|fa=[[G.Söderin, R.Zetterqvist]] -84|text=Den tydliga sprickan under insteget till Farsans Fart. Medtag bivackutrustning.}}
+{{led|nr=8|namn=Galaxer i Mina Braxer|grad=4|gruv=a|typ=trad|betyg=|bultar=|längd=25|fa=[[R.Zetterqvist G.Söderin]] -84|text=Klättra det stora hörnet. Kruxet är längst upp.}}
+{{led|nr=8a|namn=Dir. Inst. G. i. M. B.|grad=5+|gruv=b|typ=trad|betyg=|bultar=|längd=9|fa=[[G.Söderin R.Zetterqvist]] -84|text=Börja längst inne i hörnet under taket. Gå sedan ut på väggen till vänster, klättra kanten och följ sedan sprickan snett åt vänster.}}
+{{led|nr=9|namn=Kulosprickan|grad=5+|gruv=b|typ=trad|betyg=|bultar=|längd=20|fa=[[C.Åstrand, Ö.Söderin]] -84|text=Avigt takproblem som övergår i en fin jamspricka.}}
+{{led|nr=9a|namn=Insteg Kulosprickan|grad=6-|gruv=b|typ=trad|betyg=|bultar=|längd=8|fa=[[G.Söderin]] -84|text=}}
+{{led|nr=10|namn=Rip Kirby|grad=6-|gruv=d|typ=trad|betyg=|bultar=|längd=30|fa=[[P.Malmsten, G.Söderin]] -84|text=Leden startar vid en stor gran. Börja med en spricka upp till hyllan. Jam- och väggklättring upp till ett hörn. Följ sedan hörnet och sprickan till toppen.}}
+{{led|nr=11|namn=Blixt Gordon|grad=6|gruv=d|typ=trad|betyg=|bultar=|längd=32|fa=[[G.Söderin, P.Malmsten]] -84|text=Klättra på goda grepp snett åt vänster och fortsätt på ”knoppar” till nästa spricka, krux, svårsäkrat. Från hyllan är det lättare och mer välsäkrat. Klättra den korta sprickan till ett överhäng, fortsätt snett åt vänster till en fin spricka som går snett upp till vänster och som sedan går ihop med Rip Kirby.}}
+
+| width="350px" valign="top"|
+
+{{led|nr=12|namn=Krysskolvning|grad=6|gruv=b|typ=trad|betyg=|bultar=|längd=40|fa=[[Ö.Söderin, C.Åstrand]] -84|text=Leden börjar där den stora hyllan har sin avslutning till höger. Börja med en tunn spricka, fortsätt något åt höger, sedan rakt upp och något åt höger igen mot en större spricka och lättare terräng. Följ sprickan i ca 8 m och gå därefter snett åt vänster i en mycket tunn spricka. Avsluta med samma utsteg som Mona Lisa.}}
+{{led|nr=12a|namn=Insteg Krysskolvning|grad=5+|gruv=b|typ=trad|betyg=|bultar=|längd=6|fa=[[R.Olsson, K.Olsson]] -84|text=En kort spricka som går snett upp åt vänster.}}
+{{led|nr=14a|namn=Direkt Insteg Mona Lisa|grad=5|gruv=b|typ=trad|betyg=|bultar=|längd=15|fa=[[C.Wiström, D.Bell]] -85|text=Med detta insteg blir Mona Lisa en fin och varierad led. Följ sprickan upp till blocket, gå in bakom blocket och kaminklättra upp till dess topp och gör standplats där, eller klättra ner ”på baksidan”. Fortsätt sedan på Mona Lisa.}}
+{{led|nr=15|namn=Mona Lisa|grad=4|gruv=a|typ=trad|betyg=|bultar=|längd=45|fa=[[D.Bell, G.Söderin]] -84|text=Där Nedre Väggen drar sig upp mot höger står ett stort block intill väggen. Klättra upp på blocket. Från blocket kliver man ut på väggen och traverserar på bra steg och grepp fram till en spricka med två mindre ”stubbar”. Följ sprickan ca 12 m till en större spricka som drar sig åt vänster. Följ den några meter och fortsätt rakt upp i en tunnare spricka. Sedan kan man antingen avsluta med en svårare friktionsklättring över det sista svaet eller gå ut till vänster och upp i en ränna.}}
+{{led|nr=16|namn=Leonardo|grad=4+|gruv=b|typ=trad|betyg=|bultar=|längd=35|fa=[[D.Bell, Thomas Nilsson]] -84|text=Leden börjar i ett hörn några meter till höger om det stora blocket. Börja med hörnet, gå sedan något åt vänster och fortsätt upp i de tunna sprickorna. Vidare i en bred spricka till Mona Lisa.}}
+{{led|nr=17|namn=Snowdrops|grad=5-|gruv=b|typ=trad|betyg=|bultar=|längd=35|fa=[[C.Wiström, D.Bell]] -84|text=Ett stort hörn. Börja med en bred jamspricka och svinga upp i hörnet och följ det upp.}}
+{{led|nr=18|namn=Flottleden|grad=4+|gruv=a|typ=trad|betyg=|bultar=|längd=30|fa=[[D.Bell, C.Wiström]] -84|text=En mycket fin jamspricka som avslutas med en flott hangelspricka med goda grepp. Leden börjar 10 m till höger om Snowdropshörnet på en kort friktionsplatta som leder till den välsäkrade sprickan. Följ sprickan och hangla upp till vänster där sprickan tar slut.}}
+{{led|nr=19|namn=Röda Halvmånen|grad=4+|gruv=a|typ=trad|betyg=|bultar=|längd=30|fa=[[D.Bell, C.Wiström]] -84|text=Börja med ett kort hörn, fortsätt över ett litet överhäng (”näsa”) och följ en tunn spricka upp till vänster så att man når slutet av Flottleden-sprickan. Gå sedan snett upp till höger i en lätt utstegsspricka.}}
+{{led|nr=20|namn=L.R.F.|grad=5+|gruv=a)|typ=trad|betyg=|bultar=|längd=25|fa=[[F.Götzman, R.Olsson]] -84|text=Klättra ett kort hörn upp till en hylla, fortsätt i nästa hörn och följ sedan en bred spricka ända upp.}}
+{{led|nr=21|namn=Gubben på Ängen|grad=5-|gruv=b|typ=trad|betyg=|bultar=|längd=25|fa=[[D.Bell, F.Fischer]] -85|text=Börja med att klättra sprickan rakt upp till en liten hylla, gå sedan till höger på rampen och vidare upp i utstegshörnet.}}
+{{led|nr=22|namn=Ring Så Sopar Vi|grad=4+|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[C.Wiström, F.Fischer, D.Bell]] -85|text=Klättra det tydliga hörnet till höger om led "G. på Ä." och fortsätt vidare med nästa hörn till topps.}}
+{{led|nr=7a|namn=Utsteg Farsans Fart|grad=7|gruv=|typ=bb|betyg=|bultar=2|längd=10|fa=[[??]]|text=När du är framme vid hangelsprickan fortsätt klättra rakt upp då du ser du 2 borrbultar, klättra sedan rakt upp till toppen.}} 
+|}
+{{sidbrytning}}
+
+=== Bergviksberget, övre===
+[[Bild:Jamtland_ost_Bergviksberget_ovre.gif|700Widthpx]]
+{|- valign="top"
+| width="350px" valign="top"|
+
+{{led|nr=1|namn=Stor-Snuppan|grad=6|gruv=c|typ=trad|betyg=|bultar=|längd=15|fa=[[G.Söderin, A.Nordin]] -85|text=Gå upp till taket som vid led 22. Klättra till vänster under taket tills den stora sprickan nås. Följ den till hyllan och fortsätt uppför den korta väggen till nästa hylla.}}
+{{led|nr=2|namn=Lill Snuppan|grad=6|gruv=c|typ=trad|betyg=|bultar=|längd=10|fa=[[G.Söderin, A.Nordin]] -85|text=Starta till vänster om startblocket på led 1 och 21. Klättra väggen upp mot taket och den tunna sprickan. Följ sprickan och avsluta med den korta väggen upp till hyllan.}}
+{{led|nr=3|namn=Laines Födelsedag|grad=4|gruv=b|typ=trad|betyg=1|bultar=|längd=30|fa=[[G.Söderin, H.Thordarsson, M.Almlöf]] -85|text=Starta på det stående blocket vid insteget på Pigalle. Kliv från blocket in i hörnet, följ det några meter, gå sedan åt höger i sprickan till nästa spricka som går snett upp åt vänster. Följ denna spricka upp till hyllan. Kliv åt höger upp på ryggen och klättra med dragning åt vänster mot toppen.}}
+{{led|nr=4|namn=Pigalle|grad=5-|gruv=b|typ=trad|betyg=2|bultar=|längd=30|fa=[[C.Wiström, A.Nordin]] -84|text=Leden börjar uppe i hörnet där den nedre väggen övergår till den övre. Följ hörn- och sprickformationer upp till ett litet tak. Går man ut till vänster några meter under taket är det lättare. Fortsätt med ett stort flak och avsluta med en svahäll.}}
+{{led|nr=5|namn=Grus i Dojan|grad=5-|gruv=a|typ=trad|betyg=|bultar=|längd=40|fa=[[T.Doj, H.Thordarsson, G.Söderin]] -84|text=Leden börjar 25 m till höger om Pigalle. Följ ett stort hörn upp till en tall, gå ut till vänster till ett sluttande hörn och klättra det till topps.}}
+{{led|nr=6|namn=Rickard Rättrådig|grad=6|gruv=b|typ=trad|betyg=2|bultar=|längd=20|fa=[[G.Söderin, M.Sundberg]] -85|text=Klättra det tydliga hörnet upp till taket, gå till höger under taket till sprickan som går genom taket och följ denna spricka till en hylla. Från hyllan vidare i ett lätt hörn till en tall.}}
+{{led|nr=7|namn=ZIG-ZAG Sprickan|grad=6|gruv=c|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, Ö.Söderin]] -84|text=Ca 25 m till höger om Grus i Dojan-hörnet börjar den brantare delen av väggen. Här finns några väl synliga sprickor. Väggklättra rakt upp över de två första horisontalsprickorna och avsluta med att jamma i den sista sprickan som går snett upp åt vänster.}}
+{{led|nr=8|namn=Studmen|grad=5+|gruv=a|typ=trad|betyg=2|bultar=|längd=30|fa=[[P.Malmsten, H.Thordarsson]] -84|text=Från en stor skiva traverserar man åt vänster in under en stor spricka. Följ sprickan, gå ut till höger och gör samma utsteg som Fetmans Fiende.}}
+{{led|nr=9|namn=Fetmans Fiende|grad=4|gruv=a|typ=trad|betyg=1|bultar=|längd=30|fa=[[A.Nordin, C.Wiström, D.Ball]] -84|text=Leden börjar med ett markant hörn som man följer upp till en för jämtländska förhållanden ovanlig (och trång) kamin som gett leden dess namn. Fortsätt snett upp till vänster i en hörn- och sprickformation.}}
+{{led|nr=10|namn=Frollo|grad=6+|gruv=c|typ=trad|betyg=1|bultar=|längd=30|fa=[[G.Söderin]] -84|text=Börja med en tydlig spricka som ligger till höger, under det tak som är det första stora problemet. Efter sprickan drar man sig åt vänster till nämnda tak med två korta vertikala sprickor i. Efter taket går man till höger till nästa tak och efter det följer man en spricka som går uppåt ute på kanten. Luftig.}}
+{{led|nr=11|namn=Notre Dame|grad=5+|gruv=b|typ=trad|betyg=2|bultar=|längd=35|fa=[[C.Wiström, D.Bell]] -84|text=Denna imponerande katedralliknande formation består av två hörn. Det första avslutas med ett tak. Det andra är överhängande och avslutas med att man greppar en skiva och svingar sig upp till vänster till en balkongliknande avsats där leden bokstavligen ligger under ens fötter.}}
+
+| width="350px" valign="top"|
+
+{{led|nr=12|namn=Ringaren|grad=4|gruv=b|typ=trad|betyg=2|bultar=|längd=35|fa=[[C.Wiström, D.Bell, A.Nordin]] -84|text=Namnet anspelar på föregående led. En led med fina formationer och ovanlig klättring för sin grad. Börja med en spricka som går upp i en bred kamin som avslutas med ett tak. Gå med goda grepp upp till vänster till en hylla. Sedan följer ett hörn som kan sprick-och spjärnklättras på många olika sätt, bl.a. genom ”klassisk” spjärnklättring med ryggen mot berget och med utsikt över sjön. Leden avslutas med ett överhäng med ett bra bananliknande grepp.}}
+
+''Både led 11 och led 12 kan klättras när det regnar!''
+{{led|nr=13|namn=Tour d’Argent|grad=5|gruv=c|typ=trad|betyg=|bultar=|längd=30|fa=[[L.Cronlund, C.Wiström]] -84|text=Mera Paris. Leden följer en sprickfri friktionsplatta med dragning åt vänster mot en rygg (osäkrad i början). Gå sedan något åt höger upp mot den avslutande och sprickrika väggen. Följ den stora sprickan i mitten och avsluta med ett känsligt sva.}}
+{{led|nr=14|namn=Puckeln|grad=4+|gruv=a|typ=trad|betyg=|bultar=|längd=30|fa=[[D.Bell, A.Nordin, C.Wiström]] -84|text=Ringarens förstås. Leden följer den iögonfallande sprickan över svaet upp till björken. Kruxet är ett litet överhäng, annars inga problem. OBS! Kan med fördel avslutas med Tour d’Argents utsteg.}}
+{{led|nr=15|namn=Mini Mumma|grad=5+|gruv=b|typ=trad|betyg=|bultar=|längd=8|fa=[[Ö.Söderin, G.Söderin]] -84|text=Kort men ihållande spricka upp till traversen (Mera Mumma) under det stora taket. Fortsätt sedan antingen till höger eller till vänster via traversen.}}
+{{led|nr=16|namn=Pytte Mumma|grad=6+|gruv=a|typ=trad|betyg=|bultar=|längd=7|fa=[[G.Söderin]] -84|text=Tunn spricka någon meter till höger om Mini Mumma upp till traversen.}}
+{{led|nr=17|namn=Esmeralda|grad=7-|gruv=b|typ=trad|betyg=1|bultar=|längd=30|fa=[[G.Söderin, H.Thordarsson, Ö.Söderin]] -84|text=Ringarens förälskelse. Kort vägg- och flakklättring upp till sprickan i taket. Använd sprickan för att komma över taket. Fortsätt upp i hörnet till nästa tak, kliv ut åt vänster och följ nästa hörn upp. You can’t miss it!}}
+{{led|nr=18|namn=Mera Mumma|grad=5+|gruv=b|typ=trad|betyg=1|bultar=|längd=?|fa=[[Thomas Nilsson, G.Söderin]] -84|text=En härlig hangeltravers som går under hela taket och fortsätter ända bort till Puckeln. Delen under taket går att klättra även om det regnar.}}
+{{led|nr=19|namn=Kapten Hadock|grad=6|gruv=b|typ=trad|betyg=1|bultar=|längd=25|fa=[[G.Söderin, M.Johansson]] -84|text=Leden börjar i ett litet hörn och går sedan över i ”tunn” väggoch sprickklättring efter den tunna sprickan som går ända upp.}}
+{{led|nr=20|namn=Bondleden|grad=4-|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[P.Malmsten, H.Thordarsson]] -84|text=Klättra flak- och sprickformationen till vänster om ett markant hörn.}}
+{{led|nr=21|namn=Änglastjärten|grad=4|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[H.Thordarsson, P.Malmsten]] -84|text=Klättra det markanta hörnet.}}
+{{led|nr=???|namn=Rövarkungen|grad=7-|gruv=b|typ=trad|betyg=3|bultar=|längd=25|fa=[[G.Söderin, H.Thordarsson]] -85|text=Börja med det tunna hörnet och fortsätt upp mot det lilla taket och en tunn spricka. Gå över den branta väggen upp mot den större sprickan och följ den ända upp.}}
+{{led|nr=????|namn=Super Mumma|grad=5-|gruv=b|typ=trad|betyg=|bultar=|längd=10|fa=[[M.Sundberg, G.Söderin]] -85|text=Klättra den tunna sprickan till höger om led 10.}}
+|}
+{{sidbrytning}}
+
+=== Svarttjärnsberget===
+[[Bild:Jamtland_ost_Svarttjansberget.gif|700Widthpx]]
+{|- valign="top"
+| width="350px" valign="top"|
+
+{{led|nr=1|namn=Mecki Messer|grad=6+|gruv=c|typ=trad|betyg=3|bultar=|längd=20|fa=[[G.Söderin, H.Thordarsson]] -84|text=Denna mycket fina och utmanande led börjar i vänstra kanten av väggen med ett litet hörn. Följ det upp till den första horisontalsprickan och gå till höger och sedan snett upp i en fin spricka till andra horisontalsprickan. Vidare upp i en vertikalspricka (som är något svår att nå) till tredje horisontalsprickan. Utnyttja två tunna snedsprickor för att nå den fjärde horisontalsprickan och avsluta med en vertikalspricka ända upp. Svårsäkrad mellan andra och tredje horisontalsprickan (1:a best. placerade en kil här under nedfirning.)}}
+{{led|nr=2|namn=Surabaya Jonny|grad=6-|gruv=b|typ=trad|betyg=|bultar=|längd=10|fa=[[G.Söderin]] -84|text=Traversera den nedersta horisontalsprickan.}}
+{{led|nr=3|namn=Mutter Kurage|grad=6-|gruv=b|typ=trad|betyg=2|bultar=|längd=20|fa=[[Ö.Söderin, F.Fischer, C.Åstrand]] -84|text=Leden börjar i den högra delen av detta väggparti. Klättra hörnkamin-formationen upp till taket och gå till vänster för nästa hörn. Följ det till toppen. Kruxet är en delikat mantling i sista hörnet.}}
+{{led|nr=4|namn=Kurt Weil|grad=7-|gruv=c|typ=trad|betyg=1|bultar=|längd=15|fa=[[G.Söderin, H.Thordarsson, Ö.Söderin]] -84|text=Leden börjar med ett kort och lätt hörn upp till en hylla. Från hyllans högra kant upp i en fin handjamspricka, vidare upp i ett litet hörn med en mycket tunn spricka (säkras bäst med RP:s och små stoppers). ”Tunn” ihållande klättring. När man passerat hörnet och något lättare terräng nås går man till vänster i en spricka ut över en ”bulle” och avslutar med några friktionssteg. Ihållande och luftig.}}
+{{led|nr=5|namn=Katla Kavat|grad=5+|gruv=b|typ=trad|betyg=|bultar=|längd=15|fa=[[H.Thordarsson, G.Söderin, Ö.Söderin]] -84|text=Leden börjar rakt under en tydlig vertikalspricka. Klättra rakt upp över väggen till sprickan och följ den upp till hyllan. Avsluta med flakformationen i hyllans vänstra kant.}}
+{{led|nr=6|namn=Kajivan|grad=6-|gruv=a|typ=trad|betyg=2|bultar=|längd=15|fa=[[Ö.Söderin, G.Söderin, H.Thordarsson]] -84|text=Börja i ett hörn och fortsätt med en spricka som går ut över taket. Klättra taket med fina jam upp till hyllan. Gå något till vänster på hyllan och avsluta med en kort överhängande spricka. Fortsätter man upp till höger, efter ett sönderbrutet och mindre brant parti, når man nästa vägg.}}
+{{led|nr=7|namn=Loranga|grad=5+|gruv=a|typ=trad|betyg=|bultar=|längd=7|fa=[[Ö.Söderin]] -84|text=Följ den korta sprickan som går snett upp åt vänster.}}
+{{led|nr=8|namn=Massarin|grad=6|gruv=a|typ=trad|betyg=|bultar=|längd=10|fa=[[G.Söderin, M.Almlöf]] -85|text=Starta i sprickan som går till höger från Lorangas insteg. Klättra upp till nischen och gå ut till vänster i en kort hård jam upp till hyllan.}}
+{{led|nr=9|namn=Dartangjang|grad=6-|gruv=a|typ=trad|betyg=|bultar=|längd=10|fa=[[Ö.Söderin, G.Söderin]] -84|text=Leden börjar med en spricka som går snett upp till vänster. Följ den upp till ett hål och vidare in till en nisch. Gör sedan en luftig passage åt höger i en fin hangel- och jamspricka. Gå över hyllan och fortsätt upp i en bred spricka.}}
+
+| width="350px" valign="top"|
+
+{{led|nr=10|namn=Tjuven Gustav|grad=7|gruv=b|typ=trad|betyg=1|bultar=|längd=10|fa=[[G.Söderin]] -84|text=Klättra den tunna sprickan och gör ett väggklättringskrux så att man når sprickan igen där den har vinklat av och blivit större. Sedan kort överhängande jamklättring till hyllan.}}
+{{led|nr=11|namn=Sjukt hårt grejs|grad=8|typ=sport|betyg=|bultar=3|längd=10|fa= |text=}}
+{{led|nr=12|namn=Slipsen|grad=4+|gruv=a|typ=trad|betyg=2|bultar=|längd=25|fa=[[C.Åstrand, Ö.Söderin, F.Fischer]] -84|text=Klättra det stora hörnet upp till hyllan, vidare snett upp åt höger i en något besvärlig hangel. Fortsätt rakt upp i det grunda och flacka hörnet. Gå sedan något åt höger och avsluta med en tunn spricka mot toppen.}}
+{{led|nr=12(övre)|namn=O Sole Mio|grad=6|gruv=b|typ=trad|betyg=1|bultar=|längd=30|fa=[[G.Söderin]] -84|text=(Långt uppe) Börja i den tunna sprickan ute på den trubbiga kanten, följ den till hyllan, gå åt höger till tallen och fortsätt upp i nästa spricka. Svåra jam i början, lättare sedan.}}
+{{led|nr=13|namn=Burken|grad=5-|gruv=a|typ=trad|betyg=2|bultar=|längd=25|fa=[[M.Almlöf, G.Söderin]] -85|text=Leden följer den tydliga sprickan i vänstra kanten på väggen, ca 20 m till höger om led 10.}}
+{{led|nr=14|namn=Hinken|grad=5|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, M.Almlöf]] -85|text=Följ sprickan till höger om plattan.}}
+{{led|nr=15|namn=Baljan|grad=6-|gruv=b|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, H.Thordarsson]] -85|text=Några meter till höger om led 14 går en annan spricka rakt upp. Kliv upp på en hylla, gå lite åt vänster, gå sedan tillbaka till höger och följ sprickan till toppen.}}
+{{led|nr=16?|namn=Aragons Hörn|grad=6-|gruv=a|typ=trad|betyg=|bultar=|längd=7|fa=[[S-E.Breivik, P.Nilsson]] -85|text=Ett markant hörn i väggen ovanför sista sprickan på Dartangjang}}
+{{led|nr=17|namn=Muggen|grad=6-|gruv=a|typ=trad|betyg=|bultar=|längd=7|fa=[[M.Almlöf]] -85|text=Ca 50 m rakt upp från toppen av Burken finns en kort brant vägg. I högra kanten av väggen går en tydlig spricka.}}
+{{led|nr=18|namn=Dasset|grad=6-|gruv=a|typ=trad|betyg=|bultar=|längd=7|fa=[[M.Almlöf]] -85|text=Väggen en meter till vänster om Muggen.}}
+{{led|nr=19|namn=Pottan|grad=6|gruv=a|typ=trad|betyg=|bultar=|längd=5|fa=[[G.Söderin]] -85|text=15 m snett ner till vänster om Muggen finns en kort och fin fingerspricka som går över ett tak. Är du lång når du ända upp.}}
+{{led|nr=20|namn=Wunderbar|grad=4-|gruv=b|typ=trad|betyg=|bultar=|längd=|fa=[[G.Söderin]] -85|text=Den stora skivan till vänster om Pottan.}}
+{{led|nr=|namn=Moskito|grad=6-|gruv=|typ=borrbultar|betyg=|bultar=|längd=10m|fa=[[G.Söderin, Ö.Söderin, M.Ellingsson]] -96|text=Inte så brant väggklättring (rapporterad i skogssport juni-96).}}
+{{led|nr=|namn=Malaria|grad=6|gruv=|typ=borrbultar|betyg=|bultar=|längd=10m|fa=[[M.Ellingsson, G.Söderin, Ö.Söderin]] -96|text=Inte så brant väggklättring (rapporterad i skogssport juni-96).}}
+|}
+{{sidbrytning}}
+
+=== Västerkleva===
+[[Bild:Jamtland_ost_Vasterkleva.gif|700Widthpx]]
+{|- valign="top"
+| width="350px" valign="top"|
+{{led|nr=1|namn=Halvvig|grad=5|gruv=a|typ=trad|betyg=|bultar=|längd=10|fa=[[O.Zeidlitz, E.Zeidlitz, L.Brolén, J.Luhr]] -82|text=Kort, tunn spricka.}}
+{{led|nr=2|namn=Snedstegen|grad=6|gruv=c|typ=trad|betyg=1|bultar=|längd=20|fa=[[E.Zeidlitz, J.Luhr]] -82|text=Insteg 15 m om led 1. <br>Börja med med en tydlig sned spricka upp till en horisontell spricka. Traversera ut till vänster på sluttande grepp och små friktionssteg tills krafterna tar slut. En vilopunkt har använts hittills. Fortsätt ut till vilsammare terräng.}}
+{{led|nr=3|namn=Envig|grad=5+|gruv=b|typ=trad|betyg=1|bultar=|längd=17|fa=[[E.Zeidlitz, O.Zeidlitz, L.Brolén, J.Luhr]] -82|text=Samma insteg som led 2. <br>Börja med snedsprickan. Fin klättring. Vidare rakt upp till ett balanssteg ut till vänster, som avslutar det hela.}}
+{{led|nr=4|namn=Rosa från Flen|grad=4|gruv=a|typ=trad|betyg=|bultar=|längd=60|fa=[[D.Bell, C.Wiström]] -80|text=1 III+ 20 m <br>Klättra en kamin med stora block på bägge sidor. Gör standplats under ett överhäng. <br>2 IV 40 m<br> Travers till vänster på hylla till en kort brant vägg. Klättra denna och fortsätt traversen snett uppåt vänster till en andra kort vägg. Fortsätt uppför denna och via ett kort svaparti tills topps.}}
+{{led|nr=5|namn=Etterpelaren|grad=6-|gruv=b|typ=trad|betyg=3|bultar=|längd=90|fa=[[C.Åstrand, H.Thordarsson]] -81|text=Denna led är en verklig pärla, som erbjuder helt fast och välsäkrad sprickklättring. Har man dubbelrep kan man göra en replängd av de två första. <br>1 V+ 20 m Börja med den tydliga lay-backsprickan och fortsätt upp till en liten tall. Traversera ut till vänster på en smal list till en obekväm standplats. <br>2 VI- 20 m<br> Följ fingersprickan upp över den branta hällen till en hylla under ett hörn. Fortsätt upp i hörnet med lämplig teknik till en fin standplatshylla. <br>3 VI- 40 m<br>Fortsätt från vänstra kanten av hyllan upp till en liten tall och vidare i fingersprickan till en hylla. Följ sprickan i hörnet upp till en något ”överbefolkad” hylla. <br>4 IV 10 m <br>Klättra hörnet, eller ut till höger och upp över hällen (lättare).}}
+{{led|nr=6|namn=Kunta Kinte|grad=5+|gruv=a|typ=trad|betyg=|bultar=|längd=80|fa=[[G.Söderin, K.Westman]] -80|text=1 5+ 17 m <br> Samma insteg som led 5, men fortsätt upp till hyllan med två stora tallar.<br> 5+ 20 m<br> Följ sprickan tills den fylls av en rot. Kliv ut till vänster och upp till en stor tall. <br>3 4+ 40 m<br> Följ sprickan förbi en tall. Fortsätt upp i det stora hörnet. Om man vill göra leden jämnare i svårighet kan man byta ut första replängden mot led 8.}}
+{{led|nr=7|namn=Brezjnev|grad=6-|gruv=c|typ=trad|betyg=|bultar=|längd=17|fa=[[G.Söderin, C.Åstrand]] -80|text=Tunt och dåligt säkrat insteg på små knoppar. Därefter lättare sprickklättring.}}
+{{led|nr=8|namn=Dolda Behag|grad=4+|gruv=a|typ=trad|betyg=|bultar=|längd=20|fa=[[C.Åstrand]] -80|text=Starta ut till höger på undergrepp och upp till ett något osäkrat krux innan man når björken. Följ den flotta skivan åt vänster till standplats.}}
+
+| width="350px" valign="top"|
+{{led|nr=9|namn=Vännernas Väg|grad=6|gruv=c|typ=trad|betyg=3|bultar=|längd=90|fa=[[G.Söderin, C.Åstrand, K.Westman]] -81|text=Denna led följer den magnifika spricka som går mitt på den stora hällen. Som iögonfallande och utmanande klätterformation söker den sin like i Jämtland. <br>1 4+ 15 m <br>Lay-backa en spricka till en standplats vid en tall under den avsmalnande kaminen.<br> 2 5+ 40 m<br> Upp i kaminen, som nu smalnar av mer och mer tills den bara är en fingerspricka. Ta nu ett kliv ut till vänster till en ny spricka och vidare upp till en obekväm standplats under en liten björk.<br> 3 6 20 m <br>Följ sprickan tills den tar slut. Traversera ut till höger på knoppar och upp något till den hägrande borrbulten. Gå förbi bulten på små steg till en välkommen spricka, som följs av två små tallar och en dålig standplats. <br>4 5+ 25 m <br>Fortsätt på friktion upp till vänster till en borrbult. Gå sedan vidare upp mot höger till ytterligare en borrbult och så upp på toppen.}}
+{{led|nr=10|namn=Östen Warnebring|grad=5+|gruv=b|typ=trad|betyg=|bultar=|längd=80|fa=[[E.Zeidlitz, L.Brolén]] -81|text=1 5 40 m<br> Följ hörnet, som börjar ända nere vid backen, upp åt höger till ett tak. Vidare upp till vänster i en kamin, som övergår till ett hörn och upp till en bra standplats. <br>2 5+ 45 m <br>G.Söderin, Ö.Söderin, G-O.Gustavsson <br>Upp 3 m till en hylla med en enbuske till vänster. Fortsätt förbi busken och ut till vänster på en känslig travers fram till en spricka. Upp ca 5 m på runda grepp och steg till ytterligare en spricka, som man följer ända upp. Dåligt säkrad replängd.}}
+{{led|nr=11|namn=Strandpromenaden|grad=4+|gruv=e|typ=trad|betyg=2|bultar=|längd=60|fa=[[Ö.Söderin, G.Söderin, G-O.Gustavsson]] -82|text=Leden följer ett kvartsitband, som erbjuder en fantastisk och ovanlig möjlighet, att traversera den mycket kompakta Stora Hällen ungefär på halva dess höjd. <br>OBS! I ledens nuvarande skick finns inga säkringsmöjligheter, förrän man korsar led 9 efter ca 30 m.<br> Strandpromenaden, Nedre väggen, Västerkleven, Gimdalen, G.O.Fredriksson. Foto: Örn Söderin <br>1 4 40 m <br>Börja från den sista standplatsen på led 10. Klättra ned åt vänster till den vågformade traverslinjen, som sträcker sig över hela hällen. Traversera på friktion och upp till vänster och gör en standplats vid borrbulten.<br> 2 4 20 m <br>Fortsätt ut till vänster till utsteget på led 6.}}
+{{led|nr=12|namn=Namnlösa Hörnet|grad=4|gruv=a|typ=trad|betyg=|bultar=|längd=65|fa=[[O.Zeidlitz, M.Olsson, J.Luhr]] -82|text=1 4- 40 m<br> Klättra det tydliga hörnet upp på den stora hyllan till vänster.<br> 2 4 25 m<br> Klättra från hyllan upp i den väl synliga sprickan.}}
+{{led|nr=13|namn=Med tvekan|grad=5+|gruv=d|typ=trad|betyg=|bultar=|längd=120|fa=[[G.Söderin, Ö.Söderin]] -82|text=1 III 30 m <br>Klättra instegshörnet på led 12.<br> 2 IV 45 m<br> Fortsätt hörnet snett upp åt höger, i ett sönderbrutet liggande hörn, till hyllan.<br> 3 V+ 45 m <br>Från hyllan upp i en tunn spricka. Följ den vidare rakt upp över hällen. Svårsäkrat.}}
+{{led|nr=??|namn=Markstöd|grad=6+|gruv=c|typ=trad|betyg=|bultar=|längd=15|fa=[[G.Söderin]] -85|text=Börja 1 m till höger om Kunta Kintes insteg. Klättra väggen till en tunn spricka. Följ sprickan rakt upp och vidare över väggen till en horisontell spricka. Där kan man gå över till Etterpelaren.}}
+
+|}
+{{sidbrytning}}
+
+=== Västerkleva, övre väggen===
+''Väggen ligger något hundratal meter ovanför Stora Hällen. Den är ca 400 m lång och höjden varierar från 10 m till 50 m. Endast några få leder har gjorts på Övre Väggen, men här finns fortfarande rika möjligheter att göra fina, nya leder. Längst till vänster är klippan 20 m hög och sprucken i enorma block. Sedan kommer ett parti med sämre klippa. Längre till höger blir väggen brantare. Här börjar den intressantaste delen av Övre Väggen. Här finns många fina nyturer att göra. Bl a står flera fina sprickor i kö och väntar på att få ett lednummer. Det finns ingen skiss över denna vägg ännu, men det går säkert bra att hitta lederna ändå.
+''
+
+{|- valign="top"
+| width="350px" valign="top"|
+{{led|nr=1|namn=Fåfängan|grad=5+|typ=Topprep|betyg=|bultar=|längd=20|fa=[[C.Åstrand]] -??|text=Denna led följer en kamin, som bildats av ett enormt frånsprängt block längst till vänster på väggen. Kaminen är trång och tvingar till bökig och ”oelegant” klättring. Ledens enda förtjänst är kanske det originella förhållandet, att man kan se rakt igenom berget och ut på andra sidan.}}
+{{led|nr=2|namn=Gimsprickan|grad=5+|gruv=a|typ=trad|betyg=|bultar=|längd=10|fa=[[P.Malmsten, S-E.Breivik]] -??|text=Leden börjar några meter till höger om led 1.<br> Klättra en kort fingerspricka, som går snett upp åt höger och ansluter till nästa led.}}
+{{led|nr=3|namn=Puttes Jägareld|grad=3+|gruv=a|typ=trad|betyg=|bultar=|längd=25|fa=[[Thomas Nilsson, S.Söderin)]] -??|text=Följ den markanta, breda sprickan till ett stort block. Gå runt detta på höger sida. Klättra sedan den tunna sprickan snett upp åt vänster.}} 
+{{led|nr=4|namn=Baltasar|grad=5|gruv=a|typ=trad|betyg=|bultar=|längd=25|fa=[[S-E.Breivik, D.Sollander, A.Wester, P.Sollander, P.Malmsten]] <br>Börja med en tydlig och brant spricka i ett hörn. Gå sedan till vänster och upp i sprickorna.}}
+{{led|nr=5|namn=Ölandstok|grad=6|gruv=a|typ=trad|betyg=|bultar=|längd=50|fa=[[G.Söderin, P.Asbjörnsson, F.Götzmann]] -83|text=Leden börjar i hörnet till vänster om Utan Tvekan.<br> 1 VI 25 m <br>Klättra hörnet upp till taket. Gå ut till höger och följ sedan sprickan upp till hyllan. <br>2 IV+ 25 m <br>Fortsätt från hyllan upp i ett kort hörn. Traversera åt höger vid taket och klättra en tydlig spricka upp till en stor skiva. Följ den högra kanten på denna och kliv över till väggen från skivans topp. Fortsätt sedan vidare till lättare terräng.}}
+{{led|nr=6|namn=Utan Tvekan|grad=6-|gruv=b|typ=trad|betyg=2|bultar=|längd=50|fa=[[G.Söderin, L.Cronlund]] -83|text=ett litet hörn med fingerspricka, som ligger i vänstra delen av en stor och lodrät vägg, den s.k. Örnväggen.<br> Leden börjar brant och tungt upp till en liten hylla efter 4 m.<br> Fortsätt upp mot en björk, som underlättar en kort travers till höger. Sedan är det bara att följa den fina, men ack så vassa sprickan ända upp. Kilar går att lägga nästan överallt i sprickan, bara man orkar.}}
+{{led|nr=7|namn=Ålkistan|grad=6-|gruv=e|typ=trad|betyg=|bultar=|längd=70|fa=[[G.Söderin, C.Åstrand]] -83|text=Denna led följer den breda, iögonfallande sprickan i högra kanten av Örnväggen. Ett svårt parti av leden går inte att säkra, vilket gör den mycket seriös.<br> 1 VI- 50 m <br>Starta upp förbi en björk till en spricka, som ger fin klättring upp till ett hörn. Klättra detta och fortsätt i en kamin, som är trång på gränsen till kroppsjam. Denna 10 m långa passage har inspirerat till ledens namn. Passagen går inte att säkra. Efter kaminen når man till en smalare spricka som leder till en standplatshylla. <br>2 IV- 20 m <br>Upp några meter och ut till höger till en grusränna och vidare upp.}}
+
+| width="350px" valign="top"|
+
+{{led|nr=8|namn=Cumulus Nimbus|grad=5+A2|gruv=a|typ=trad|betyg=2|bultar=|längd=60|fa=[[G.Söderin, Tommy Nilsson]] -83|text=Denna ”osannolika” led går uppför det släta, kompakta och lodräta väggpartiet i högra delen av Övre Väggen. En mycket luftig och fin led, som inte avslöjar några möjligheter i förväg.<br> 1 V+ 15 m <br>Starta med att klättra hörnet, som börjar mitt under väggen. Denna replängd kan göras separat, med nedfirning. <br>2 A2+ 25 m<br> Gå ut till vänster under taket och fortsätt sedan 3 m upp i den fina sprickan. Traversera vänster några meter och klättra sedan upp i nästa spricka. <br>3 A1 20 m <br>Fortsätt i sprickan. Gör därefter en kort travers åt höger för att sedan följa nästa spricka ända upp. Avsluta med en kort, lätt väggklättring.}}
+{{led|nr=9|namn=Noomis Nam Nam|grad=6+|gruv=c|typ=trad|betyg=3|bultar=|längd=70|fa=[[G.Söderin, Tommy Nilsson]] -83|text=En mycket intressant och variationsrik led. Leden börjar med ett stort hörn, som är skymt bakom en stor gran ca 5 m till höger om Ålkistan och någon meter upp. <br>1 V 20 m<br> Gör en fin, men något svårsäkrad lay-back i 6-7 m. Gå sedan in i jam där sprickan smalnar. Stora kilar + största ”bongen”. Hängande standplats under taket. <br>2 VI+ 25 m<br> Gå med svårighet ut under taket och sedan upp i den fina handjamsprickan, som slutar 4 m under hyllan. Delikat väggklättring följer. Fortsätt från hyllan upp i hörnet till tallen. <br>3 V+ 35 m <br>Klättra den ”lövtunna” skivan och fortsätt via en känslig balanspassage upp på hyllan. Gå åt vänster. Gör en ”nedsänkning” och hangla någon meter. Följ sedan den fina fingerjamsprickan över ”bullen” och upp på toppen.}}
+{{led|nr=10|namn=Lethe|grad=3-|gruv=b|typ=trad|betyg=|bultar=|längd=80|fa=[[L-G.Johansson, L.Brolén, O.Zeidlitz]] -83|text=Leden börjar 4 m till höger om Noomis Nam Nam. <br>1 III-<br>Klättra kaminen och uppför rännan i något rutten klippa.<br> 2 III-<br>Gör sedan en travers åt vänster över hyllor och korta väggpartier.}}
+
+|}
+{{sidbrytning}}
+
+=== Brunflo===
+[[Bild:Jamtland_ost_Brunflo_1.gif|700Widthpx]]
+[[Bild:Jamtland_ost_Brunflo_2.gif|700Widthpx]]
+
+Bakom detta namn döljer sig ett gammalt kalkstensbrott utanför Brunflo, vilket tjänar som tummelplats för oss Östersundsklättrare. Här kan man tidigt på vårkanten och sent på hösten se många klättrare i aktion.<br> <br>Eftersom klippan erbjuder ett otal leder i varierande svårighetsgrad, är helt fri från växtlighet och dessutom lättåtkomlig, har den blivit mycket populär. Här finns sprickklättring, väggklättring och friktionsklättring, i huvudsak från svårighetsgrad IV och uppåt. Även det bästa har sin akilleshäl. En del tycker att ledernas längd är en nackdel då de är 4-8 m, men för dem som gillar korta leder med svår friklättring är detta ett eldorado.<br><br> Dock överväger det positiva. En av anledningarna är att man behöver ytterst lite utrustning, då klättringen med fördel sker med topprep. Detta gör platsen idealisk för nybörjare som ännu inte har investerat i all den utrustning vi klättrare tycker oss behöva. Den som ändå vill pröva sin nyinköpta utrustning har många sprickor att välja på.<br><br> En annan fördel är läget, en sydsluttning endast två mil från Östersund. Följ E 75 till Brunflo. Där håller man utkik efter skylten till Rissna. Här tar man av och fortsätter tills man efter några kilometer kommer till en vägkorsning i byn Lunne. Där tar man till höger. Efter några hundra meter tar man till vänster, mellan två ladugårdar, för att sedan köra upp på höjden och parkera där.
+
+
+{|- valign="top"
+| width="350px" valign="top"|
+
+| width="350px" valign="top"|
+
+
+|}
+
+=== Förbergsberget===
+Klippan är vackert belägen vid Revsundssjön. Den är 40-50 m hög och 300-400 m lång. Bergarten är granit och klippan lite väl kompakt, varför enbart ett fåtal leder har gjorts. Men det finns några linjer på berget som är värda ett besök.<br><br> Det har gjorts två leder på en vägg som ligger lite avskilt upp till höger. Den första klättrades 1977 av F.Götzmann och G.Söderin. Den går upp i ett hörn, ut till vänster under ett runt tak och upp i en spricka till toppen IV+. Den andra leden börjar 7-8 m ned till höger (G.Söderin, L.Hjalmars). Leden följer olika sprickor upp mot en tydlig spricka som kapar en klippkorv V+ AO. (Klippkorv är en genuin jämtländsk bergsformation som först upptäcktes här.) I mitten av berget går två lättare leder som följer tydliga rännor. Det finns några spännande linjer kvar att göra på denna klippa.<br><br> Följ E75 till Gällö, ta av till höger mot Revsund och till höger igen vid kyrkan i Revsund.
+{|- valign="top"
+| width="350px" valign="top"|
+
+| width="350px" valign="top"|
+
+
+|}
+
+=== Mariebybrottet===
+Det ligger ett stenbrott i Marieby. Där finns det en del
+bouldering.
+
+
+
+{|- valign="top"
+| width="350px" valign="top"|
+
+| width="350px" valign="top"|
+
+
+|}
+
+
+
+== Externa länkar ==
+
+[http://hem.bredband.net/b755182/klattring/jamtland_ost_2004-08-08.pdf Informationen är hämtad från Fredrik Olofssons förare "Jämtland Öst"  från 2004-08-08]
+
+Förare över Bergviksberget och Svarttjärnsberget tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare_sverige.html Linköpings klätterklubb].
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+ [[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar koordinater]]
+
+
+[[Category:Jämtland]]

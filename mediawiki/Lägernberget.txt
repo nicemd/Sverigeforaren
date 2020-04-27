@@ -1,0 +1,89 @@
+{{info klippa
+  |lat=57.840323
+  |long=15.134025
+}}
+
+{{komplett}}
+
+==Karta==
+<googlemap width=350 height=300 lat="57.840323" lon="15.134025" zoom="9" type="map" controls="small">
+57.840323,15.134025,[[Lägernberget]]
+</googlemap>
+
+[[Kategori:Östergötland]][[Kategori:sva]][[Kategori:överhäng]][[Kategori:vertikalt]][[Kategori:Trad]][[Kategori:Sport]]
+
+
+
+==Vägbeskrivning==
+
+Klippan ligger nära sjön Östra Lägern ungefär mitt mellan Tranås och Eksjö.
+
+Från Tranås åker man väg 131 mot Hestra och Österbymo. Sväng höger i Sund mot Forsnäs gård. Precis innan Forsnäs gård sväng höger mot Hestrahult.
+
+Från Eksjö åker man väg 134 åt nordost, mot Österbymo. En dryg halvmil efter Rydsnäs tar man vänster mot Forsnäs gård. Efter att ha passerat Forsnäs gård sväng snett fram åt vänster mot Hestrahult.
+
+Från Kisa åker man väg 134 mot Österbymo och Eksjö. Tre kilometer efter Österbymo tar man höger mot Forsnäs gård. Efter att ha passerat Forsnäs gård sväng snett fram åt vänster mot Hestrahult.
+
+Efter avtaget mot Hestrahult följ vägen en knapp kilometer och sväng sedan vänster vid de första husen i Hestrahult. Följ vägen 3 kilometer och sväng sedan höger mot Lopperyd. Vid Lopperyds gård finns en bra parkering precis innan bommen.
+
+Från parkeringen är det två kilometers promenad till klippan. Fotsätt längs vägen en knapp kilometer till ett T-kors och ta vänster. Vägen kommer nu att gå som ett stort U med två nittiograders högersvängar. Vid den stora vänstersvängen gå in i skogen i ungefär samma riktning som vänsterdelen av U-et. Det är c:a 200 meter genom skogen till klippan.
+
+==Access {{access}}==
+
+{{AccessDB|klippa=lagernberget}}
+
+[http://www.hitta.se/LargeMap.aspx?z=6&cx=1460139&cy=6413073&PointX=1460139&PointY=6413073&referrer&var=Edhult&wflWhite=1a1b&wflPink=4a&SearchType=4&name=L%e4gernberget&weather=true&forecastDate=&showTraffic=false Kolla vädret vid Lägernberget]
+
+==Leder==
+[[Bild:lagern-leder-vanster.jpg]]
+
+{{led|namn=Den Yttersta Vänstern|nr=1|grad=5|betyg=|längd=15|fa=[[Per Gustavsson]] [[-91|-91]]|bultar=|typ=trad}}
+
+{{led|namn=En Bulldog i Mina Byxor|nr=2|grad=6c|betyg=|längd=10|fa=[[Jonas Håkansson ]] [[-95|-95]]|bultar=3|typ=sport}}
+
+{{led|namn=Till Puh|nr=3|grad=5|betyg=|längd=20|fa=[[Jonas Håkansson]] [[-93|-93]]|bultar=|typ=trad}}
+
+{{led|namn=Trackingroute|nr=4|grad=5|betyg=|längd=18|fa=[[Per Gustavsson ]] [[-91|-91]]|bultar=|typ=trad}}
+
+{{led|namn=The Pan Within|nr=5|grad=6a|betyg=|längd=18|fa=[[Magnus Nordqvist ]] [[-95|-95]]|bultar=5|typ=sport}}
+
+{{led|namn=Blues För Lyckliga Lillie|nr=6|grad=6a|betyg=2|längd=18|fa=[[Johan Ragnarsson ]] [[-94|-94]]|bultar=6|typ=sport}}
+
+{{led|namn=lnget Försök Inget Misslyckande|nr=7|grad=7a+|betyg=|längd=18|fa=|bultar=6|typ=sport}}
+
+{{led|namn=En Engelsman I Mina Byxor|nr=8|grad=6|betyg=|längd=18|fa=[[Jonas Håkansson ]] [[-94|-94]]|bultar=|typ=trad}}
+
+{{led|namn=Hipp Hipp Hurra|nr=9|grad=5-|betyg=|längd=20|fa=[[Jenny Ragnarsson ]] [[-95|-95]]|bultar=|typ=trad}}
+
+[[Bild:lagern-leder-hoger.jpg]]
+
+{{led|namn=N A P|nr=10|grad=7a+|betyg=|längd=14|fa=[[Nils Gustavsson]] [[-94|-94]]|bultar=4|typ=sport}}
+
+{{led|namn=I Mitten, Något Till Vänster|nr=11|grad=6c+|betyg=|längd=20|fa=[[Johan Ragnarsson]] [[-96|-96]]|bultar=6|typ=sport}}
+
+{{led|namn=Stampe Tar Syra|nr=12|grad=6b+|betyg=|längd=18|fa=[[Johan Ragnarsson]] [[-95|-95]]|bultar=5|typ=sport}}
+
+{{led|namn=Psykokanin|nr=13|grad=6c+|betyg=2|längd=18|fa=[[Johan Ragnarsson ]] [[-95|-95]]|bultar=6|typ=sport}}
+
+{{led|namn=Preparing To Fly|nr=14|grad=7a+|betyg=|längd=10|fa=[[Magnus Nordqvist ]] [[-95|-95]]|bultar=4|typ=sport}}
+
+{{led|namn=?|nr=15|grad=?|betyg=|längd=|fa=|bultar=|typ=sport}}
+
+{{led|namn=Det Var Knepigt Det Här Sa Bill|nr=16|grad=7|betyg=|längd=10|fa=[[Johan Ragnarsson]] [[-96|-96]]|bultar=1|typ=trad}}
+
+{{led|namn=Vidgade Vyer Vortex|nr=17|grad=6-|betyg=|längd=10|fa=[[Jonas Håkansson ]] [[-94|-94]]|bultar=|typ=trad}}
+
+{{led|namn=Elake Måns|nr=18|grad=4+|betyg=|längd=10|fa=[[Johan & Jenny Ragnarsson]] [[-95|-95]]|bultar=|typ=trad}}
+
+{{led|namn=Fix Orcidé|nr=19|grad=6|betyg=|längd=8|fa=[[Jonas Håkansson ]] [[-95|-95]]|bultar=|typ=trad}}
+
+{{led|namn=Skriet Från Lekparken|nr=20|grad=6+|betyg=|längd=8|fa=[[Johan Håkansson]] [[-96|-96]]|bultar=2|typ=trad}}
+
+{{led|namn=Den Extrema Högern|nr=21|grad=5|betyg=|längd=7|fa=[[Per G. ]], [[Anders K]] [[-91|-91]]|bultar=|typ=trad}}
+
+==Länkar==
+[http://www.hoglandsklattrarna.se/ccms.asp?pageID=30 Höglandsklättrarnas sida om Lägernberget]
+
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

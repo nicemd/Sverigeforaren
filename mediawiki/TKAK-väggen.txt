@@ -1,0 +1,33 @@
+{{info klippa
+  |lat=64.0875069813513
+  |long=19.9188995361328
+}}
+
+{{stub}}
+
+==Allmänt==
+Liten vertikal till lätt överhängande klippa som i stort sett är färdigutvecklad. Cruxbetonad klättring.
+
+==Vägbeskrivning==
+<googlemap lat="64.0875069813513" lon="19.9188995361328" zoom="9" type="map">
+64.0875069813513,19.9188995361328,TKAK-väggen
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=tkak-klippan}}
+
+==Uppdateringar==
+{{led|namn=¡Industria Civil!|grad=6a|typ=sport|längd=7|ny=ja|bultar=Ankare och 3|text=Längst till höger på klippan. Lite hård för graden|fa=[[Dag knutsson]] [[2009]]}}
+
+==Bilder==
+http://farm4.static.flickr.com/3471/3718152370_873d5a9ecc.jpg <br>
+http://www.flickr.com/photos/nyberg_fredrik/3718152370/ <br>
+Mangus Eriksson klättrar Lugnet 6c+, TKAK
+
+
+
+{{tryckt_förare|umeåföraren (2005)=ja}}
+
+[[Kategori:sport]][[Kategori:vertikalt]]
+[[Kategori:Västerbotten]]

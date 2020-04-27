@@ -1,0 +1,66 @@
+{{info klippa
+  |lat=59.1784
+  |long=17.7923
+}}
+
+{{utkast}} 
+
+==Allmänt==
+Damma av era naturliga säkringar. Åk ut och treva runt med kilarna bland sprickorna. Passa på, snart läggs bultmattan ut och stockholms sista fina sprickor ryker.
+
+Till höger finns huvudväggen där två leder redan är gjorda. Utrymme finns för mycket mer.
+Till vänster finns ca fem kilturer och även några korta bultturer. Längre till vänster finns lite highball.
+
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.1784" lon="17.7923" zoom="13" height="225">
+59.1784,17.7923,Tumba - Brosjön
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Från stan: åk igenom tumba emot vårsta. Sväng höger emot brotorpsbadet.
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:brosjon.png]]
+
+{|
+
+
+{{led|nr=1|namn=Berndts|grad=7a|typ=sport|betyg=|bultar=5|längd=12|fa=Reino Liimatainen 20100904|text=Tung i början och slutet}}
+{{led|nr=1|namn=Kompassriktning|grad=7a+|typ=sport|betyg=|bultar=5|längd=12|fa=Larry Valkama 20100904|text=Följer areten på slutet}}
+
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+<!-- [[kategori:Saknar skiss]] -->
+<!-- [[kategori:Saknar vägbeskrivning]] -->
+<!-- [[kategori:Saknar leder]] -->
+<!-- [[kategori:Saknar skrivarformatering]] -->
+
+[[Category:Stockholm]]
+[[Kategori:Västra Södertörn]]

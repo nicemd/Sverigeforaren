@@ -1,0 +1,23 @@
+{{info klippa
+  |lat=58.44604
+  |long=16.5998
+}}
+
+{{stub|extern=ja}}
+
+==Vägbeskrivning==
+
+<googlemap width=600 height=300 lat="58.50" lon="16.40" zoom="10" type="map" controls="small">
+58.446048520352456,16.59982681274414, Stegeborg
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=stegeborg}}
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]][[Kategori:vertikalt]][[Kategori:sva]][[Kategori:Sport]][[Kategori:Trad]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

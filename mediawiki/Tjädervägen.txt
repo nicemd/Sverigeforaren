@@ -1,0 +1,21 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Morning Glory|grad=6C|typ=Krimp,Dyno|fa=Björn K|landning=2|betyg=1|fadatum=2003-04-01|sopad=Björn K|sittstart=ja|text=Händerna på slopehyllan alt med vänster hand på liten crimp. Gå upp till crimp till vänster och dyna alt lång reach till kanten.}}
+{{problem|namn=Rise and shine|grad=6B|typ=Krimp,Slopers,Travers V->H|fa=Björn Knutsson|landning=2|betyg=3|fadatum=2003-04-02|sopad=Björn Knutsson|sittstart=ja|startgrepp=ja|text=Starta på samma startgrepp som Morning Glory och Svager. Traversera åt höger. När du kommer till kanten gå rakt upp.}}
+| width="250px" |
+{{problem|namn=Svager|grad=6A|typ=Krimp,Mantling,Dyno|fa=Björn Knutsson|landning=2|betyg=1|fadatum=2003-04-02|sopad=Björn Knutsson|sittstart=ja|startgrepp=ja|text=Samma start som morning G. och R. and S. Gå upp till ett stort crimp för höger hand. Gå vidare med samma hand och mantla över kanten.}}
+{{problem|namn=Hälhoran|grad=6C+|typ=Mantling,Travers V->H,Spricka|fa=Björn Knutsson|landning=2|fadatum=2003-04-02|sopad=Björn Knutsson|sittstart=ja|startgrepp=ja|text=Starta till v på stenen. Startgrepp en slope för V hand och en spricka för H hand. traversera åt H och samman avslut som DvärgF.}}
+| width="250px" |
+{{problem|namn=Dvärgfeten|grad=7A|typ=Krimp,Slopers,Mantling|fa=Björn Knutsson|landning=2|fadatum=2003-04-02|sopad=Björn Knutsson|sittstart=ja|startgrepp=ja|text=Startgrepp kommer att märkas ut. Gå upp till crimp v. hand sedan vidare till liten crimp h hand. Fortsätt rakt upp och avsluta med mantling. Går förmodligen att göra enklare om man är lång.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

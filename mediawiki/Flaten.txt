@@ -1,0 +1,207 @@
+{{info klippa
+  |lat=59.25852
+  |long=18.15400
+}}
+
+{{utkast}}
+[[Bild:Flaten_oversikt.png|thumb|300px|right]]
+
+==Allmänt==
+Mycket brant klippa med några av stockholms hårdaste leder. Nära till Flatenbadet om man vill ta sig ett dopp.
+
+==Extern förare==
+Förare finns på [http://www.plonk.se/snf/flaten.html Stockholms Nätförare]
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.25852" lon="18.15400" zoom="14" type="map" controls="small">
+59.25852,18.15400,[[Flaten]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Flaten
+lat=18154000
+long=59258520
+</slresa>
+</div> 
+
+
+<div style="clear:right;"></div>
+==Leder==
+
+
+===Hells cave===
+[[Bild:Flaten_0.png]]
+
+Ligger ca 150m till vänster om huvudväggen.
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=T-gul|grad=6c+|betyg=|längd=8|fa=[[Johan Luhr]] [[1994|-94]]|bultar=4|typ=sport}}
+
+{{led|namn=T-röd|grad=7b+|betyg=|längd=9|fa=[[Johan Luhr]] [[1993|-93]]|bultar=4|typ=sport}}
+
+{{led|namn=Goto hell|grad=7a+|betyg=1|längd=10|fa=[[Johan Luhr]], [[Patrik Gelin]] [[1993|-93]]|bultar=5|typ=sport}}
+
+{{led|namn=Helldriver|grad=7c|betyg=1|längd=11|fa=[[Johan Luhr]] [[1994|-94]]|bultar=7|typ=sport}}
+
+{{led|namn=Highway from hell|grad=7c|betyg=2|längd=11|fa=[[Johan Luhr]] [[1993|-93]]|bultar=7|typ=sport}}
+| width="300px" |
+{{led|namn=Hell|grad=7b+|betyg=1|längd=11|fa=[[Johan Luhr]], [[Patrik Gelin]] [[1993|-93]]|bultar=5|typ=sport}}
+
+{{led|namn=Hells angels|grad=7a+|betyg=|längd=11|fa=[[Johan Luhr]] [[1993|-93]]|bultar=6|typ=sport}}
+
+{{led|namn=Hells bells|grad=7a+|betyg=|längd=11|fa=[[Johan Luhr]] [[1993|-93]]|bultar=5|typ=sport}}
+
+{{led|namn=Mörkret|grad=7a+|betyg=|längd=9|fa=[[Johan Luhr]] [[1994|-94]]|bultar=6|typ=sport}}
+
+{{led|namn=Kalla kårar|grad=6c+|betyg=|längd=9|fa=[[Johan Luhr]] [[1994|-94]]|bultar=6|typ=sport}}
+|}
+
+===Mellanklipporna===
+
+Småväggar mellan Huvudväggen och Hells cave
+
+{{led|namn=Den utlösande faktorn|grad=6a|betyg=|längd=|fa=[[Mats Olofsson]], [[CT]]|bultar=|typ=trad}}
+
+{{led|namn=Våra är dessutom snyggare|grad=6a+|betyg=|längd=|fa=[[Mats Olofsson]], [[CT]]|bultar=|typ=sport}}
+
+{{led|namn=Natten|grad=6c+|betyg=|längd=8|fa=[[Johan Luhr]] [[1993|-93]]|bultar=3|typ=sport}}
+
+{{led|namn=Ljuset|grad=7a|betyg=|längd=9|fa=[[Johan Luhr]] [[1993|-93]]|bultar=3|typ=sport}}
+
+{{led|namn=Rost i balken|grad=6|betyg=|längd=|fa=[[CT]], [[Mats Olofsson]]|bultar=|typ=mix}}
+
+{{led|namn=Flugor på trumpeten|grad=6-|betyg=|längd=|fa=[[Mats Olofsson]], [[CT]]|bultar=|typ=trad}}
+
+{{led|namn=Darling fascist bullboy|grad=6c+|betyg=|längd=|fa=[[CT]], [[Mats Olofsson]]|bultar=|typ=sport}}
+
+{{led|namn=Namnlös 1|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Direktinsteg Massa vax|grad=7b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Massa vax|grad=6c|betyg=|längd=|fa=[[Mikael Widerberg]]|bultar=|typ=sport}}
+
+{{led|namn=Okänd 1|grad=6a+|betyg=|längd=|fa=[[?]]|bultar=|typ=sport}}
+
+{{led|namn=Mona|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Två krux|grad=6c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+===Lilla klippan===
+
+{{led|namn=Mats 29 upptäcker sin kropp|grad=6c|betyg=3|längd=25|fa=[[Mats Olofsson]] [[1994|-94]]|bultar=8|typ=sport}}
+
+{{led|namn=Ny|grad=7a?|betyg=|längd=|fa=[[?]]|bultar=|typ=sport}}
+
+{{led|namn=På gång|grad=6c+|betyg=1|längd=7|fa=[[Johan Luhr]], [[Patrik Agerkrans]] [[1992|-92]]|bultar=4|typ=sport}}
+
+{{led|namn=Turen och...|grad=6c+|betyg=|längd=7|fa=[[Patrik Agerkrans]], [[Johan Luhr]] [[1992|-92]]|bultar=3|typ=sport}}
+
+{{led|namn=Oturen|grad=6c|betyg=|längd=7|fa=[[Patrik Agerkrans]], [[Johan Luhr]] [[1992|-92]]|bultar=4|typ=sport}}
+
+{{led|namn=Onyx|grad=7a+|betyg=|längd=7|fa=[[Patrik Agerkrans]], [[Johan Luhr]] [[1993|-93]]|bultar=4|typ=sport}}
+
+{{led|namn=Teknikens under|grad=7b|betyg=|längd=7|fa=[[Johan Luhr]] [[1993|-93]]|bultar=4|typ=sport}}
+
+{{led|namn=Purimax|grad=7a+|betyg=|längd=6|fa=[[Johan Luhr]] [[1993|-93]]|bultar=4|typ=sport}}
+
+===Huvudväggen===
+[[Bild:Flaten_1.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=20a|namn=Ökad sumo|grad=8a|betyg=1|längd=|fa=[[Johan Luhr]] [[1995|-95]]|bultar=|typ=sport|text=Starta med Purimax sedan in i Sumitomo}}
+
+{{led|nr=20|namn=Sumitomo|grad=7c+|betyg=2|längd=25|fa=[[Johan Luhr]] [[1991|-91]]|bultar=11|typ=sport}}
+
+{{led|nr=21|namn=Stonelove|grad=8a|betyg=|längd=25|fa=[[Johan Luhr]] [[1996|-96]]|bultar=|typ=sport|text=Tyvärr helt svart efter brand}}
+
+{{led|namn=Pirelli|grad=7c|betyg=|längd=|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport|text=Hängare saknas}}
+
+{{led|namn=Premiär|grad=7a+|betyg=1|längd=|fa=[[Johan Luhr]], [[Patrik Agerkrans]] [[1992|-92]]|bultar=|typ=sport}}
+
+{{led|namn=Järnmannen|grad=7a|betyg=1|längd=|fa=[[Patrik Agerkrans]], [[Johan Luhr]] [[1992|-92]]|bultar=|typ=sport}}
+
+{{led|namn=Titta vi flyger|grad=6c+|betyg=1|längd=|fa=[[Patrik Agerkrans]], [[Johan Luhr]] [[1992|-92]]|bultar=|typ=sport}}
+
+{{led|namn=Blå vägen|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport}}
+
+{{led|namn=Klick|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]] [[1995|-95]]|bultar=|typ=sport}}
+
+{{led|namn=Slick|grad=7c|betyg=|längd=|fa=[[Johan Luhr]] [[1995|-95]]|bultar=|typ=sport}}
+
+{{led|namn=Long street|grad=7c+|betyg=|längd=|fa=|bultar=|typ=sport|text=Insteg i Slick}}
+
+| width="300px" |
+
+{{led|namn=Kojaks klubba|grad=7c+|betyg=|längd=|fa=|bultar=|typ=sport|text=Insteg i Kojak, sedan vänster}}
+
+{{led|nr=28|namn=Kojak|grad=7c+|betyg=2|längd=10|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport|text=Diedern rakt upp}}
+
+{{led|namn=Små rosa moln|grad=8b+|betyg=|längd=10|fa=[[Peter Bosma]] [[2002|-02]]|bultar=|typ=sport}}
+
+{{led|namn=Columbo|grad=8a|betyg=1|längd=10|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport|text=Insteg vid borrad mono}}
+
+{{led|namn=Baretta|grad=8a|betyg=1|längd=10|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport|text=Till höger om Columbo}}
+
+{{led|namn=McCloud|grad=8b|betyg=2|längd=9|fa=[[Johan Luhr]] [[1995|-95]]|bultar=|typ=sport}}
+
+{{led|namn=Cannon|grad=8a+|betyg=1|längd=3|fa=[[Johan Luhr]] [[1994|-94]]|bultar=|typ=sport}}
+
+{{led|namn=Bond|grad=8a+|betyg=|längd=9|fa=[[Johan Luhr]] [[1994|-94]]|bultar=|typ=sport}}
+
+{{led|namn=Helgonet|grad=8b|betyg=|längd=9|fa=[[Johan Luhr]] [[1996|-96]]|bultar=|typ=sport}}
+
+{{led|namn=Closeau|grad=8b|betyg=|längd=|fa=[[BS]]|bultar=|typ=sport}}
+
+{{led|namn=McCall|grad=7b+|betyg=2|längd=|fa=[[Johan Luhr]] [[1993|-93]]|bultar=|typ=sport}}
+|}
+
+===Högra väggen===
+
+{{led|namn=Agaton Sax|grad=7b+|betyg=|längd=|fa=[[Freddan]]|bultar=|typ=sport}}
+
+{{led|namn=Motorola|grad=6c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Antar|grad=7b+|betyg=|längd=|fa=|bultar=|typ=sport|text=Insteg i Motorola}}
+
+{{led|namn=Bellman|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]], [[Patrik Agerkrans]] [[1994|-94]]|bultar=4|typ=sport}}
+
+{{led|namn=Balla brallan|grad=7a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Tweak|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Iskalt|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Rammstein|grad=7c|betyg=|längd=|fa=[[Johan Luhr]], [[GS]]|bultar=|typ=sport}}
+
+{{led|namn=Liten och grym|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Hej och hå|grad=5+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Banankontakt|grad=7b+|betyg=|längd=|fa=|bultar=|typ=sport}}
+
+{{led|namn=Kurtan|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Monky bar|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Genvägen|grad=6c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Ännu än tur|grad=6c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|namn=Okänd 2|grad=6a|betyg=|längd=|fa=|bultar=|typ=sport}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar lednummer]]

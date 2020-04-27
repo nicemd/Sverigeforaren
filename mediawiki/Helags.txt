@@ -1,0 +1,71 @@
+{{utkast}}
+
+==Allmänt==
+Helagsfjället är med sina 1797 meter Sveriges högsta fjäll söder om polcirkeln. Vid närmare påseende finns oanade möjligheter till fina klätterturer.
+
+==Leder==
+
+'''Bild på väggen med lederna utritade kommer...''' 
+
+{{led|namn=Mästerfiskarn utan stövlar|grad=5+|fa=T. Ekberg M. Ärfström O. Tjärnberg 5/9-05|text=(6repl)
+
+'''1.''' 3  30m. 
+Följ gräsrampen tills denna slutar.
+
+'''2.''' 5+  55m.
+Rakt upp till ett dieder, genom detta och sedan snett uppåt
+vänster över hyllor med mycket lösgods till stand över ett litet överhäng 
+som kringgås till vänster.
+
+'''3.''' 5  45m.
+Ca. 10 meter rolig klättring rakt upp innan man klättrar snett uppåt höger
+via hyllor med brantare passager imellan. Standplats under en brant 
+spricka och ett stort tak.
+
+'''4.''' 5+  35m.
+Klättra sprickan upp till lättare terräng där man klättrar med dragning
+vänster till en hylla. Efter denna en kort vägg upp till en brant ramp. 
+Följ rampen och gör stand där den slutar.
+
+'''5.''' 5  40m. 
+Klättra upp någon meter från standplatsen och traversera sedan vänster
+över en svårsäkrad svaplatta och vidare ut till hylla på silhuetten. Därefter rakt upp via 
+dieder och lätta svan till stand på hylla med stort flak.
+
+'''6.''' 2  20m.
+Rakt upp till toppen. Stand med repet runt stort block. }}
+
+
+{{led|namn=Utan Handske mot himmelen|grad=5+|fa=T. Ekberg M. Ärfström O. Tjärnberg 6/9-05|text=(5 repl.)
+
+'''1.''' 5+  50m.
+Klättra upp ett par meter i botten av bågen till en lång hylla till vänster. 
+I högerkanten av hyllan, klättra rakt upp över svaet till ett litet dieder. 
+Vidare genom diedret till en hylla och sedan över sva upp till den stora
+gräshyllan. Stand i det stora hörnet halvvägs uppför hyllan.
+
+'''2.''' 4  45m.
+Starta uppför svaet någon meter till höger om standen. Sedan rakt upp
+förbi stora block till en hylla där väggen blir markant brantare.
+
+'''3.''' 5  45m.
+Klättra den branta sprickan rakt över standplatsen. Sikta sedan på den 
+smala kaminen i slutert av repan, genom denna till stand direkt 
+ovanför.
+
+'''4.''' 4  40m. 
+Klättra upp till en ramp/hyllsystem som följ uppåt höger tills den slutar 
+i ett dieder. Stand på den stora hyllan direkt ovanför diedret.
+
+'''5.''' 2  35.
+Gå någon meter till vänster från hyllan, sedan rakt upp över lätta svan till toppen.}}
+
+
+
+'''Länk till äldre förare över Helags:''' [http://www.ostersundskk.se/klattring/fjallklattring_helags.htm Östersunds KK]
+
+[[Kategori:Jämtland]]
+[[Kategori:Saknar ledmall]]
+[[Kategori:Saknar vägbeskrivning]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]

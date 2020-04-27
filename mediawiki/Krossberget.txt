@@ -1,0 +1,38 @@
+{{info klippa
+  |lat=65.313640
+  |long=21.205690
+}}
+
+{{stub}}
+
+==Allmänt==
+Krossberget är en ganska brant nordklippa nära Svensbyn, Piteå. Klippan är ca 200 meter lång och ca 10 - 25 meter hög och bruten på många ställen av ras och block. Det finns tre sammanhållna klippavsnitt med hög kvalitet. 
+
+==Historia==
+<div style="float:right">
+<googlemap lat="65.313640" lon="21.205690" zoom="11" type="map">
+65.313640,21.205690,Krossberget
+</googlemap>
+</div>
+1986 och 1987 borstade undertecknad [[Jörgen Vikström]] upp ett tiotal leder i registret mellan 5 och 6+. Det var på den tiden då det föreföll osannolikt att mänskliga individer, åtminstone norrlänningar, kunde klättra svårare än grad sex. Lederna fick alla namn av olika snusorter. Ettan, General, Rapé, mm. Jag har varit och klättrat på Krossberget flera somrar sedan dess och kan konstatera att lederna växer igen. Några av lederna klättrades först av [[Anders Lindholm, Holmsund]]. Några somrar var även andra Umeåklättrare där, [[Tommy Nilsson]], [[Lena Carleborg]], [[Mikael Kivijärvi]], m fl. 
+
+Anmarschen sker över hygget från den norra vägen mot Bodsjön. Det är lättgången terräng, men se upp för den abrupta klippkanten om ni har med barn eller hundar. Det finns en stor potential för nya, mkt hårda turer. Bland annat finns det en helt oexplaterad, överhängande vägg med grepprikt, överhängande utsteg, samt i detta avsnitt även en jättespricka i ett snyggt högt dieder om inte rensats. Nackdelen med Krossberget är att det är en lite fuktig och hyfsat myggig plats. Men ta med myggstift och gör upp en liten sureld vid insteget. Då blir det om inte bra så uthärdligt. / Jörgen Vikström , info@jorgenvikstrom.com.
+
+[[Kategori:Trad]] [[Kategori:vertikalt]] [[Kategori:Saknar leder]]
+[[Kategori:Norrbotten]]
+
+----
+8 leder bultades upp sommaren 2012 av Magnus Eriksson Brändström, Johan Norén, Patrik Landberg och Laban Berglund. 
+
+Värda att nämnas är IO, 7c, Uppvärmningen, 6a+ och Renkadaver, 7a. Lednamn och grad står på klippan vid respektive insteg.
+
+'''Se:''' http://www.borrbult.nu/2012/07/bultkurs-med-borrbult.html för mer information.
+==Leder==
+
+{{led|namn=Kråknästet|grad=6c|fa=Laban Berglund}}
+{{led|namn=IO|grad=7c|fa=Magnus Eriksson Brändström och Adam Evanne}}
+{{led|namn=Uppvärmningen|grad=6a+|fa=Patrik Landberg}}
+{{led|namn=Boondock Saints|grad=6a|fa=Jonan Norén}}
+{{led|namn=Renkadaver|grad=7a|fa=Magnus Eriksson Brändström och Patrik Landberg}}
+{{led|namn=Curiosity|grad=5b|fa=Patrik Landberg}}
+{{led|namn=Titania|grad=6a+|fa=Johan Norén och Laban Berglund}}

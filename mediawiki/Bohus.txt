@@ -1,0 +1,42 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Sportklippa vid Jordfallsbron strax norr om Göteborg.
+
+==Vägbeskrivning==
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Leder==
+{{led|namn=Full fart framåt|grad=6c}}
+{{led|namn=Kofotsvalsen|grad=7c}}
+{{led|namn=Klassisk|grad=7a}}
+{{led|namn=Miffo|grad=7b}}
+{{led|namn=Chamonix|grad=7b+}}
+{{led|namn=Stretch|grad=7b}}
+{{led|namn=Laddat vapen|grad=7b+}}
+{{led|namn=Voxpop|grad=7b}}
+
+ [[Kategori:sport]] 
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Göteborg]]

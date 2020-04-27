@@ -1,0 +1,68 @@
+{{info klippa
+  |lat=57.85249
+  |long=14.145461
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+
+{{utkast}}
+<!-- {{komplett}} -->
+
+==Allmänt==
+Sportklippa i skogen i trånghalla, ca 12 m hög. Minst sagt luftigt bultat, det krävs rejält ledpsyke.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="57.853315" lon="14.145412" zoom="16">
+57.852287, 14.145284, Trånghalla
+</googlemap>
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Från Jönköping: kör mot Bankeryd och sväng höger mot trånghalla, kör igenom hela samhället tills bebyggelsen tar slut och det går en väg till höger mot en järnvägsbro.Parkera på sandplanen bakom busshållplatsen och gå sedan in på en liten stig i skogen på västra sidan vägen, följ den lite åt vänster tills du ser klippan, då är det bara att gå rakt genom buskaget.
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+
+{|
+|- valign="top"
+| width="350px" |
+Från vänster till höger:
+
+{{led|nr=1|namn=Saprofag|grad=?|typ=sport|betyg=|bultar=5?|längd=|fa=|text=Vet inte om det finns toppankare, annars den led som är tätast bultad. }}
+{{led|nr=2|namn=Bergtora|grad=?|typ=sport|betyg=|bultar=|längd=|fa=|text=långt mellan 1:a och 2:a bulten}}
+{{led|nr=3|namn=Törnrosen|grad=6b?|typ=sport|betyg=|bultar=|längd=|fa=|text=hög första bult, tyvärr ofta blöt i slutet.}}
+{{led|nr=4a|namn=Magiska metspö|grad=6c?|typ=sport|betyg=|bultar=|längd=|fa=|text=Variant på nr 4, samma bultar men klättra till vänster om bultarna hela vägen. Hög första bult.}}
+{{led|nr=4|namn=Masungs massage|grad=?|typ=sport|betyg=|bultar=|längd=|fa=|text=Klättra på facet mitt för bultarna.Hög första bult.}}
+| width="350px" |
+
+==Övrigt==
+Ankare och bultar börjar bli gamla och är osmidiga, ett par nya ankare och lite komplementsbultning hade gjort denna klippa mycket trevligare,.
+
+Tog mig friheten att hitta på nya namn då ingen info om FA finns att tillgå.
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:sva]] 
+[[Kategori:vertikalt]] 
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

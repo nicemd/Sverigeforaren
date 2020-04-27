@@ -1,0 +1,12 @@
+{{info klippa
+  |lat=57.983325
+  |long=15.137096
+}}
+
+{{stub}}
+[[Kategori:DWS]]
+==Karta==
+<googlemap width=350 height=300 lat="58.016538" lon="15.135461" zoom="9" type="map" controls="small">
+57.983325,15.137096,[[Bodaberget]]
+</googlemap>
+[[Kategori:Östergötland]]

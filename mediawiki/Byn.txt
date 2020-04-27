@@ -1,0 +1,119 @@
+{{info klippa
+  |lat=59.76071786878119
+  |long=12.622604370117188
+}}
+
+{{komplett}}
+
+==Allmänt==
+Mycket fin klippa 15 km norr om Arvika. Det något allmänna namnet uttalas på värmländska med betoning på b, kort y och långt n så att man inte låter som en stockholmare som gått vilse. 
+
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.71041528963109" lon="12.621402740478516" zoom="10" type="map" controls="small">
+59.76071786878119,12.622604370117188,[[Byn]]
+</googlemap>
+</div>
+Från Arvika: Kör ut på 61:an mot Karlsad. Ta vänster mot Gunnarskog.
+
+Från Karlstad: Ta höger mot Gunnarskog strax innan du kommer in i Arvika.
+
+Härifrån tills du parkerar bilen är det ca. tolv kilometer.
+
+Strax efter sjön Racken skymtar några klippor i skogskanten. Den ena är Öjerudsklippan och har bra leder i sexa-sjua registret, den andra är skit. Kör vidare. Snart skymtar en sjö på vänster hand. Den heter Gunnern och nu är det dags att börja spana. Efter en svag vänster och en svag höger går en liten grusväg upp till höger. Den markeras av en skylt med en tax, klippans topp syns om man vet var den är.
+Kör försiktigt grusvägen uppåt och parkera likaledes försiktigt efter en vänstersväng vid en liten åker.
+
+Följ en liten traktorväg längs åkerkanten in i skogen. Efter ett tag leder en otydlig stig in till höger mot klippan. Max fem minuter.
+
+==Beskrivning==
+[[Bild:Gbs-ab.JPG|thumb|300|Projekt och Gbs-ab]]
+[[Bild:Gbsochfruitcake.JPG|thumb|300|fruitcake o rehab]]
+[[Bild:Dondiegoochrehab.JPG|thumb|300|rehab don diego o odyssen]]
+[[Bild:Dondiego.JPG|thumb|300|odyssen]]
+[[Bild:Kraftochprojekt.JPG|thumb|300|Kraft och projekt]]
+[[Bild:kraftochdyspne.JPG|thumb|300|Kraft, Konstant Dyspné och Deabaredret]]
+[[Bild:Deabaredret.JPG|thumb|300|Deabaredret och projekt]]
+[[Bild:Epik.JPG|thumb|300|Epik]]
+[[Bild:Motorburenungdomochbrand.JPG|thumb|300|Brand, Motorburen ungdom och Verklighetsspel]]
+[[Bild:Romanochnovell.JPG|thumb|300|Roman och Novell]]
+
+Lederna, som bjuder på fin, ofta någorlunda hård klättring från början till slut ligger tätt samlade på en 50 meter bred, lätt överhängande granitvägg.
+Väggen bedömdes vid de första besöken i början av nittiotalet samfällt som oklätterbart. Några år senare stod det klart att vi här hade den bästa sportklätterklippan (tradlederna är bara lite mer sportiga) i vår landsände. Svagt överhängande klättring på rundade lister och sprickor. Klippkvalitén är god till riktigt god och friktionen är som regel bra. Solen ligger på klippan under eftermiddagen, kvällen. 
+
+Alla projekt får väl betraktas som öppna vid det här laget, men bulta inte utan att först ta kontakt med någon ur Jösse Klättersällskap. Se kontaktuppgifter på http://www.josseklatter.se. 
+
+'''access'''
+* parkera så att du inte är i vägen.
+* Visa hänsyn till flora och fauna.
+* för inte oväsen vid eller på klippan. Det hörs långt när man kommer upp över träden. 
+* lämna stället som du vill hitta det (rent och snyggt).
+
+==Lederna==
+
+Topon är skapad på enklast möjliga sätt med dålig grundbild och därefter inritade linjer. Kanske underlättar något vid letande av lnjer vid klippan. Klicka på bilderna för större exemplar. Rosa heldragna linjer indikerar gjorda leder, streckade linjer indikerar projekt. Gula fyrkanter indikerar bultar eller ankare. Alla linjer och bultplaceringar är uppskattningar. Utgå från beskrivande text, bilder och sunt förnuft när ni letar linjer. 
+Det går rätt bra att orientera sig med hjälp av antalet borrbultar. Alla leder följer någorlunda tydliga linjer.
+
+Räknas upp från vänster till höger. 
+
+{{led | namn=Tusen platåer | nr=1 | grad=6- | betyg=0 | längd=10 | fa=Anders Tväråna 1998 | typ=trad | text=Startar i ett litet dieder. Nåt krafs Anders Borg/Tväråna gjorde under en rensningsdag. Nyrensad 2009.}}
+
+{{led | namn=?? | nr=2 | grad=6 | betyg=0 | längd=10 | fa=Petter Lykken 1998 | typ=trad | text= 3m till vänster om Gbs ab , nyrensad 2009.}}
+
+{{led | namn=projekt | nr= | grad=7+ ? | betyg=0 | längd=12 | fa= | typ=trad | text= Samma start som Gbs ab men drar direkt till vänster, dåliga säkringsmöjligheter och klassisk Bynstil på klättringen gör att gruvsamhetsgraden på detta proj. är tämligen hög , nyrensad 2009.}}
+
+{{led | namn=Gbs-ab | nr=3 | grad=6 | betyg=3 | längd=12 | fa=Axel Heyman, Martin Jurander 1996 |typ=trad | text=Lagomt säkrad. Perfekt uppvärmning. Enligt flera en av Arvikas finaste för sin grad. Vad förkortningen står för har aldrig avslöjats, men man kan utgå från att den döljer nåt slags förolämpning mot en viss AB.}}
+
+{{led | namn=Fruitcake | nr=4 | grad=7- | betyg=2 | längd=13 | fa=Martin Jurander 1997 | typ=trad | text=Välsäkrad, bra uppvärmning. Börjar någon meter till höger om Gbs-ab}}
+
+{{led | namn=Rehab | nr=5 | grad=6c+ | betyg=1 | längd=14 | fa=Annika Bergquist 1997 | bultar=5 | typ=sport | text= Numera helbultad -09 Kruxig starthalva med lättare avslutning.}}
+
+{{led | namn=Don Diego de la Vega | nr=6 | grad=7b+ | betyg=3 | längd=15 | fa=Christian Johansson 1999 | bultar=5 | typ=sport | text=Fantastiskt fin. Svårare ju högre man kommer. Kompletterad med ytterligare borrbult vid kruxet 2008. Borde borga för mindre/kortare luftfärder och fler bestigningar. Toppankare.}}
+
+{{led | namn=Iliaden | nr=7a | grad=7b  | betyg=3 | längd=16 | fa=M Jurander -13 | bultar=7 | typ=sport | text=Samma start som odyssen upp till nohands-vilan i hålet, sedan vänster och rakt upp, 4 självständiga bultar plus toppankare. Fin. . }}
+
+{{led | namn=Odysséen | nr=7b | grad=7c  | betyg=3 | längd=16 | fa=Christian Johansson, Anders Borg/Tväråna -98 | bultar=6 | typ=sport | text=Toppklättring. 6+ enligt Christian. Toppankare . Numera tilläggsbultad med en bult till och en ny bult som möjliggör en mer direkt väg över skölden (-2013) (Obs- Går mer rakt upp än bilden visar.) . }}
+
+{{led | nr=8 | namn=Haiku warrior | grad=7+ | betyg=2| längd=12 | fa=Martin J 2012 | bultar= | typ=trad | text=Följer det tydliga spricksystemet, tills detta tar slut och kruxet börjar. Slutar på hyllan och delar ankare med Kraft.Säkringsbeta: Det är en bit upp till första placering och i kruxet kan det kännas tryggt med en mindre offsetkil.}}
+
+{{led | nr=9 | namn=Kraft | grad=7a+  | betyg=3 | längd=12 | fa=Anders Tväråna 1998 | bultar=4 | typ=sport | text=Följ bultarna till hyllan. Använd ankaret till höger om du vill komma åt Konstant dyspné. Regnsäker, bra uppvärmningsled.}}
+
+{{led | nr=10 | namn=Kraftigare | grad=7b  | betyg=3 | längd=6 | fa=Martin Jurander 2012 | bultar=2 | typ=sport | text=Förlängningen på Kraft rakt upp från ankaret. Tung layback. men bra vila efter första kraftdelen håller graden nere.Jäkligt fin klättring !.}}
+
+
+{{led | nr= 11| namn=Kraft Extention | grad=7a+  | betyg=2 | längd=16 | fa=Martin Jurander | bultar=6 | typ=sport | text=Alternativ förlängning. Följ bultarna till hyllan, klipp lång slinga i Konstant dyspnés ankare och traversera vidare till och upp Debaeredrets avslutning , spanienkänsla !.}}
+
+
+
+{{led | nr=12 | namn=Konstant dyspné | grad=8-/8 | betyg=3 | längd=12
+ | fa=Anders Tväråna 1997 | typ=trad | text=Sprickan upp till ankare på hyllan. Fortsättning till toppen möjlig. Klicka på länk för beta i form av video.}}
+
+{{led | nr=13 | namn=Debaeredret | grad=7c+ (8+) | bultar=6 | typ=sport | betyg=2 | längd=17 | fa=Martin Jurander 2009-06-06 | text=Pumpande, toppankare. Snäppet hårdare än Odyssen !}}
+
+{{led | nr=14 | namn=Dikt | grad=8a |betyg=2| typ=sport |längd=18|fa=Martin Jurander, Okt 2011| text=8 bb plus ankare, pumpig och fin .Observera -Risk att nypa fast repet och/eller bryta av slutgreppet/flaket, Förläng toppankaret och/eller fira av själv . Nytt toppankare 2012 .}}
+
+{{led | namn=Epik | nr=15 | grad=8 | betyg=3 | längd=16 | fa=Martin Jurander, Anders Tväråna 1999 | bultar= | typ=trad | text=På klippans brantaste del. utspridda kilplaceringar. Orepeterad 2009}}
+
+{{led | namn=Projekt 3 | nr=16 | grad=>9 | text=Många långa drag på ett finger i taget. Om den ska bultas så gör det så det inte stör Epik!}}
+
+{{led | namn=Brand | nr=17 | grad=7b  | betyg=3 | längd=14 | fa=Anders Tväråna 1997 | bultar=5 | typ=sport | text=Runda sidogrepp på röd klippa. Perfekt uppvärmning om man kan flytten. Toppankare.}}
+
+{{led | namn=Motorburen ungdom | nr=18 | grad=7a+  | betyg=2 | längd=12 | fa=Christian Johansson, Anders Tväråna 1999 | bultar=4 | typ=sport | text=Genom taket till höger om Brand. Balansigt crux över facet. Toppankare i stor tall.}}
+
+{{led | namn=Verklighetsspel | nr=19 | grad=7a (7) | betyg=1 | längd=10 | fa=Anders Tväråna 1999 | bultar=2 | typ=sport | text= Leta efter bult på pelaren direkt till höger om taket. Du ska rakt upp på pelaren. Möjlighet finns att vika av höger på Romans snälla vilo-hylla. Förmodligen inte så det är tänkt. Bra med någon liten friend till slutväggen.}}
+
+{{led | namn=Roman | nr=20 | grad=6c+ | betyg=2 | längd=10 | fa=Annika Bergquist 1998 | typ=Sport |bultar=4| text=Först slabb, sen överhäng . Nytt toppankare och en extra bult i starten (-13) borgar för många fler att få klättra denna pärla.}}
+
+{{led | namn=Sonett | nr=21 | grad=6a | betyg=2 | längd=10 | fa=Martin Jurander, Martin Norlander -09 | typ=sport |bultar=4 | text=Tryggt bultad uppvärmningsled, roliga rörelser. 4bb plus toppankare.}}
+
+
+{{led | namn=Novell | nr=22 | grad=6- | betyg= | längd=8 | fa=Annika Bergquist 1999 | typ=Trad | text=Slutar tio meter upp i tallen.}}
+
+[[Kategori:Saknar kolumner]] 
+[[Kategori:Saknar skiss]]
+[[Kategori:Värmland]]
+[[Kategori:trad]]
+[[Kategori:sport]]
+[[Kategori:mix]]
+[[Kategori:vertikalt]]
+[[Kategori:Överhäng]]

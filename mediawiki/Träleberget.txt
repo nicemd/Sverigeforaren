@@ -1,0 +1,77 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Lägger mest upp klippan här för accessinformationen. 
+
+==Vägbeskrivning==
+
+
+Ta färjan över Gullmarschfjorden. När du kommer fram till leden, sväng vänster mot Lysekil, därefter svänger du vänster vid en liten gul skylt "Träleberget". Parkering vid Trellebystrands camping (kostar 20 kr). 
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Access==
+Än så länge rekommenderas ingen klättring på klippan då klättrare misstänks ha skrämt bort en Berguv. Mer info: http://klatterforum.forum24.se/klatterforum-post-261.html
+{{AccessDB|klippa=träleberget}}
+
+==Träleberget==
+{{led|namn=?|text=Led längs till vänster på klippan. |grad=4b|ny=1|längd=20|fa=Jens Larssen? (2012)|typ=sport}}
+{{led|namn=Amazon|grad=5-|fa=Eugenia Bolander och Dina Bolander}}
+{{led|namn=Den lyckliga bultaren|grad=7a+}}
+{{led|namn=och hennes kompis|grad=7b}}
+{{led|namn=Slaven|grad=7a+}}
+{{led|namn=Trälen|grad=6c+}}
+{{led|namn=Kunta kinte|grad=7b+}}
+{{led|namn=Stono Rebellion|grad=7a+}}
+{{led|namn=Mamluker|grad=7b+}}
+{{led|namn=Spartacus|grad=8a}}
+{{led|namn=Crixus|grad=7b+}}
+{{led|namn=Black moses|grad=8-|fa=Henrik Bolander och Johan Larsson}}
+
+==Trellebystrand camping==
+Det finns för tilfället 7 stycken leder, och några topprepslinjer. Lederna är ett försök att få fler gäster till Trellebystrands camping. 
+
+{{led|namn=Tuben|grad=5b}}
+{{led|namn=?|grad=5c}}
+{{led|namn=?|grad=6b+|typ=topprep}}
+{{led|namn=?|grad=6a+}}
+{{led|namn=?|grad=6b+}}
+{{led|namn=?|grad=6c|typ=topprep}}
+{{led|namn=En ost bland hermelinerna|grad=6-|längd=15|fa=Viktor Söderqvist|typ=trad|text=|typ=trad}}
+{{led|namn=?|grad=5c+|typ=topprep}}
+{{led|namn=Pippi Långstrump|grad=5c+|typ=sport}}
+{{led|namn=?|grad=6a}}
+{{led|namn=?|grad=5c+|typ=topprep}}
+{{led|namn=?|grad=5a|typ=sport}}
+
+
+Mer information:
+http://www.8a.nu/forum/ViewForumThread.aspx?ObjectId=27716&ObjectClass=CLS_UserNewsComment&CountryCode=SWE
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+ [[Kategori:sport]] 
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]

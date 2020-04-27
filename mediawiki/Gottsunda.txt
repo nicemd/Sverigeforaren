@@ -1,0 +1,44 @@
+{{boulderstub}}
+
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+
+
+=Allmänt=
+
+Ett block utvecklat av le Sydd. Ingen direkt utvecklingspotential i området men värt ett besök om inte annat för att testa Neftertiti ss.
+
+=Vägbeskrivning=
+
+Ligger längst ner på gottsundagipen, lättast att komma hit med cykel.
+
+<googlemap version="0.9" lat="59.803937" lon="17.628293" type="map" zoom="15" width="500">
+59.802318, 17.624559, Gottsunda
+1
+</googlemap>
+
+=Bild=
+
+[[Bild:Isak min bror.jpg|thumb|400px|"Isak, min bror!", 7a, Gottsunda.<BR>Foto: Anders Tväråna]]
+<BR>
+
+=Problem=
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Neftertiti ss|grad=7B|typ=Krimp,Aréte|fa=Sydde|landning=4|betyg=2|sopad=Sydde|sittstart=ja|text=Den fina arêten, sittstart vid det stora greppet.}}
+{{problem|namn=Isak, min bror!|grad=7A|typ=Krimp,Slopers|fa=Sydde och Jon|landning=4|sopad=Sydde och Jon|sittstart=ja|text=Baksidan, rakt upp från sprickan till slopers och krimpar.}}
+{{problem|namn=Men du'rå!|grad=7A|typ=Krimp,Slopers|fa=Sydde|landning=4|betyg=1|sopad=Sydde|startgrepp=ja|text=Starta med båda händerna i stort undercling.}}
+| width="250px" |
+{{problem|namn=Lonely Brigade|grad=6C|typ=Krimp,Heel hook|fa=Sydde|landning=3|betyg=2|fadatum=2006-03-27|sopad=Sydde|sittstart=ja|text=Sittstart i de stora underclingen. Rakt upp till vänster om "Men du'rå". Finaste problemet på stenen.}}
+{{problem|namn=Nefertiti direct|grad=7A|typ=Krimp,Pinch|fa=stefan|landning=3|fadatum=2006-06-24|sopad=stefan|uteslutningar=ja|text=Start vid nefertiti, klättra rakt upp med grepp i sprickorna utan greppen vänster om arêten (ett par sidtag + sloperpinchen).}}
+| width="250px" |
+{{problem|nr=1|namn=Getto crimpen|grad=4B|typ=Krimp,Jug|fa=Dan|landning=4|betyg=2|fadatum=2007-08-10|sopad=Dan|startgrepp=ja|text=Längs med valthornsvägen. Börja med höger hand på "nagelcrimpen" och vänster hand på det lägre av de två lite större crimparna. Sedan är det bara å mysa upp förbi crimp och jug. Även gjord med enbart vänster /höger hand}}
+|}

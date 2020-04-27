@@ -1,0 +1,68 @@
+{{komplett}}
+
+[[Bild:Gullberg.jpg|thumb|300px|right|Utsikt från Gullberget, 1981. Foto: Per Calleberg]]
+==Allmänt==
+Gullberget ligger drygt två mil från Söderhamn, sex km från Bergvik.
+
+==Kommunikationer==
+Med bil; från länsväg 301 kör man vid en skylt "Bergvik~5" mot
+Bergvik. Sex km från bron i Bergvik, i riktning mot Stråtjära och
+Holmsveden, ses berget som en skogsklädd höjd på höger sida. I och med
+att ett stort kalhygge gjorts närmast vägen syns klipporna tydligt. Ca
+200 m före en skogstjärn, mitt emot en halvmeterhög sprängvägg
+parkerar man. Härifrån leder en stig upp till stora klippan.
+Ungefärliga GPS-koordinater för klippan: Lat: N 61º 12' 46.37" Long: E 16º 49' 59.11"
+
+==Historik==
+{{hälsingeföraren}}
+
+==Klipporna==
+[[Bild:gullberget.jpg]]
+
+Här finns två klippor. Den stora klippan är av 8-15 m höjd och har sju
+leder, vilka alla är renborstade från lavar. Vidare finns en del små
+boulderproblem på toppen. Klippan är av granit av god kvalitet med små
+fina sprickor. Nedstigningen ligger till höger om väggen. Den lilla
+klippan, som ligger ca 50 m till vänster om den stora, består i
+princip bara av gigantiska klippblock ihoppusslade till en klippa.
+Lilla klippan är inte renborstad, och rekomenderas ej.
+
+===Stora klippan===
+[[Bild:gullb_stora.jpg]]
+
+[[Bild:KarinsSpricka.jpg|thumb|200px|right|Topprepsklättring på Karins Spricka 1980. Foto: Per Calleberg]]
+{{led|nr=1|namn=Karins spricka|längd=7|grad=3+|gruv=a|typ=trad|fa=Mikael Bäckman m topprep 1980|text= Fritt: Mikael Bäckman och Per Calleberg, 1980 Följer en sluttande, ofta blöt, kamin upp till en stor hylla. Därefter ett hörn som vetter åt höger till toppen.}}
+
+{{led|nr=2|namn=A short trip to space|längd=8|grad=5+ |betyg=2 |typ=trad|fa=Per Calleberg och Mikael Bäckman 1979|text= Fritt: Kent Andersson och Per Calleberg, 1981 Startar från toppen av ett flak, går upp i en avsmalnande kamin och följer sedan sprickan till toppen. Välsäkrad.}}
+
+{{led|nr=3|namn=Initiation|längd=18|grad=4+|gruv=b |typ=trad|fa=Lars Karlsson m topprep 1979|text= Fritt: Mikael Bäckman, Per Calleberg och Gunnar Larsson, 1979 Går uppför en kort vägg, över en hylla, följer nischen ovanför till en gran. Sedan följer man rännan ovanför till toppen.}}
+
+{{led|nr=4|namn=Klass mot klass|längd=10|grad=5|gruv=c |typ=trad|fa=Lars Eriksson m topprep 1984|text= Fritt: Birger Hedlund, 1984 Går upp i en grov spricka runt hörnet, strax till höger om "Styrkans hemvist". Fortsätt uppför svaet ovanför tills man kommer in på "Trappan".}}
+
+{{led|nr=5|namn=Vandaler i vildmarken|längd=4|grad=5|gruv=c |typ=trad|fa=Lars Eriksson m topprep 1984|text= Tunn spricka till höger om "Klass mot klass".}}
+
+{{led|nr=6|namn=Styrkans hemvist, show of strength|längd=6|grad=6- |betyg=2 |typ=trad|fa=Per Calleberg m topprep 1981|text= Diagonal jamspricka på en svagt övergängande vägg. Leder upp till överhänget på "Trappan". Välsäkrad.}}
+
+[[Bild:Styrkan.jpg|thumb|200px|right|Kent Andersson på Styrkans hemvist (6-), Gullberget, 1982. Foto: Per Calleberg]]
+
+{{led|nr=7|namn=Trappan, L'escalier de la lune|längd=15|grad=5 |betyg=2 |typ=trad|fa=Mikael Bäckman, Per Calleberg och Gunnar Larsson 1979|text= Fritt: Mikael Bäckman och Kent Andersson, Kombinationen av Styrkans hemvist och Trappan ger en trestjärnig led [[Bild:3star.png]]. Följer ett tydligt dieder upp till ett taköverhäng. Detta undviks genom en hangeltravers åt höger till en hylla. Följ sprickan ovanför till toppen. Välsäkrad.}}
+[[Bild:Shorttrip.jpg|thumb|300px|center|Kent Andersson gör första fria bestigningen av Short Trip to Space (5+), Gullberget, 1981. Foto: Per Calleberg]]
+
+===Lilla klippan===
+[[Bild:gullb_lilla.jpg]]
+
+{{led|nr=8|namn=Nedstigen|längd=7|grad=2|gruv=a |typ=trad|fa=Mikael Bäckman 1979|text= Slipprig, storblockig, kaminartad företeelse.}}
+
+{{led|nr=9|namn=The giant stone eater|längd=8|grad=5|gruv=a |typ=trad|fa=Per Calleberg m topprep 1979|text= Följer en jamspricka i ett litet hörn, som börjar en liten bit upp på väggen. Där sprickan slutar, kliver man ut vänster och når strax toppen.}}
+
+{{led|nr=10|namn=Åkes avfall|längd=6|grad=4+|gruv=b |typ=trad|fa=Lars Ericsson m topprep 1984|text= Fritt: Birger Hedlund, 1984 Startar strax till höger om ett markant dieder. Följer en diagonal linje upp åt höger. Gemensamt utsteg med "The Giant Stone Eater".}}
+
+{{led|nr=11|namn=Boulderproblem brukar man inte döpa|längd=5|grad=5+ |betyg=1 |typ=trad|fa=Birger Hedlund 1984|text= Ett rent, markerat dieder.}}
+
+{{led|nr=12|namn=Return of the king|längd=7|grad=5-|gruv=a |typ=trad|fa=Mikael Bäckman m topprep 1979|text= Trång kamin som vidgar sig uppåt.}}
+
+{{led|nr=13|namn=Små gröna män|längd=8|grad=3+|gruv=a |typ=trad|fa=Per Calleberg och Mikael Bäckman 1979|text= Där kaminen på "Return of the king" börjar, traverserar man ut åt vänster på en smal hylla och klättrar sedan det mossiga hörnet ovanför.}}
+
+[[Kategori:Saknar karta]] [[Kategori:Saknar kolumner]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

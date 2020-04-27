@@ -1,0 +1,107 @@
+[[Kategori:Västergötland]]
+
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast|extern=ja}} 
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+
+
+==Allmänt==
+Fin och välbultad sportklippa mellan Floda och Alingsås. Mest vertikal klättring. Rejäl höjd (10-15 meter) på flera av lederna men Korpen som häckar på klippan har skitar ned en hel del (bokstavligt talat).
+
+==Karaktär==
+
+Klippan är sydöstvänd och har sol på sig under större delen av dagen. Vissa delar av klippan är skymd av träd. Korp häckar under det stora taket vilket medför accessbegränsningar (se längre ned).Närheten till västra stambanan är klart störande vilket smittat av sig på lednamnen.
+
+Norsesund har utvecklats till Alingsås största sportklätterklippa och blivit ett bra komplement till Korpaberget med bättre spridning av graderna. Klättringen varierar från lättare vertikal till hård överhängande sådan. Inslag av takklättring existerar. Alla leder på klippan är välbultade och utrustade med firningsankare av Alingsås klätterklubb (tack till High Sport butiken). Se upp för lösa partier! Mycket har rensats bort men fortfarande lossar grepp.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+</div>
+<googlemap version="0.9" lat="57.898614" lon="12.497292" type="map">
+57.870962, 12.451973
+Alingsås, Sverige
+</googlemap>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Från Göteborg mot Alingsås, sväng av E20 mot Ingared/Norsesund. Fortsätt mot Norsesund och tag höger efter att ha kört under järnvägen. Följ denna väg en knapp kilometer och parkera med omdöme vid den lilla järnvägsövergången på andra sidan klippan. Klippan syns genom träden upp till vänster (åt nordväst).
+
+<div style="clear:right;"></div>
+
+==Kollektivtrafik==
+Ta Alingsåspendel ifrån Norsesund station. Följ en vanlig bilväg, i spårets riktning mot Alingsås. När du har efter en kilometer gått förbi alla bostäder ser du en liten järnvägsövergång, fortsätt 50 meter till och du börjar se klippan inne i skogen på din vänstra sida. 
+
+
+[[bild:oversikt_norsesund.jpg]] 
+{{sidbrytning}}
+
+==Access {{access}}==
+
+
+{{AccessDB|klippa=norsesund}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja|klättring i göteborg med omnejd (2006)=ja}}
+
+==Leder==
+
+Se Hans Rapp topo: http://www.gbg-guiden.info/site/archives/NORSE0807.pdf
+Vänster om de lederna som står i den nya föraren finns det fyra stycken lätta leder på ett klippparti "lite nedanför"... De lederna beskrivs inte här ytterligare. 
+
+Nedanstående leder är på själva "huvudklippan", från vänster till höger. 
+{{led|namn=Tuff tuff|grad=6-|fa=Jong Ljunggren}}
+{{led|namn=Försenad pendel|grad=5}}
+{{led|namn=Ding Dong|grad=6a+}}
+{{led|namn=Road Runner|grad=6b}}
+{{led|namn=Cobacabana|grad=7a+}}
+{{led|namn=TGV|grad=7b}}
+{{led|namn=Apollo|grad=7a+}}
+{{led|namn=Sputnik|grad=7b}}
+{{led|namn=Siluett|grad=6b+}}
+{{led|namn=Absolut|grad=7a}}
+{{led|namn=Ankorlina|grad=4c|fa=Hans Rapp|text=Den korta leden som går upp till ett ankare mitt på väggen.}}
+{{led|namn=Niten|fa=Hans Rapp|grad=6a+|text=Fortsättning på Ankarlina}}
+{{led|namn=Bruno|grad=6a+}}
+{{led|namn=Roulette|grad=6c+}}
+{{led|namn=Digitigrade|grad=6c}}
+{{led|namn=Gatorade|grad=7c+}}
+{{led|namn=Guldfisken|grad=6a|fa=Hans Rapp|text=Ifrån ledens ankare kan man dessutom topprepa sprickan/diedret till vänster}}
+{{led|namn=Gamen|grad=5c}}
+{{led|namn=Jenga|grad=5a}}
+{{led|namn=Sting|grad=6b+|fa=|text=Samma start som Gamle Svarten men går sedan ut åt vänster. }}
+{{led|namn=Gamle Svarten|grad=6a|fa=Hans Rapp|text=Brant klättring på stora juggar. Rätt så kul}}
+{{led|namn=Alter Ego|grad=6c+}}
+{{led|namn=Sköldpaddan|grad=6b+}}
+
+
+
+
+
+[[Kategori:sport]] 
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]

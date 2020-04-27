@@ -1,0 +1,127 @@
+{{info klippa
+  |lat=59.642417
+  |long=16.532707
+}}
+
+=Allmänt=
+Några kilometer från Västerås centrum ligger kanske Västerås populäraste boulderområde. Problemen håller hög klass och är av varierande art. 
+
+=Vägbeskrivning=
+
+''(markeringen på kartan visar Apalbyskolan)''
+
+<div style="width: 350; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.642764" lon="16.532192" type="map" zoom="13" width="350" height="350">
+59.642417, 16.532707, Norra Gryta
+</googlemap>
+</div>
+
+'''Norra Gryta:''' 
+
+Från Rocklundamotet, kör norrut på Vasagatan och ta vänster in på Norrleden. Sväng höger, vid trafikljus, in på Önstavägen. Passera butiken, fortsätt förbi ladugården och höger in på Lodjursvägen. Sväng sedan första vänster in på Lokattsvägen och sedan höger in på Ekorrvägen. Följ vägen vänster och pakera innan vändplan. Blocken ligger strax till höger. Det första blocket du möter - förutom det på hörntomten - är gungblocket. Det ligger strax intill vägen. En bit in till vänster ligger Motörheadblocket. Motörheadtraversen är den första delen av stenen du möter, denna del är vänd österut.
+
+'''Södra Gryta:''' 
+
+Kör in på Önstavägen och sväng därefter höger in på Älggatan vid posten och Servus. Åk ett par hundra meter och ta sedan vänster in på Rådjursgatan. Efter ett par hundra meter sväng vänster på Bävergatan nu bör du se Apalbyskolan när du kommer till vändhållplatsen. Parkera på skolans parkering. Blocken ligger i skogen 120 meter syd/väst om Apalbyskolan, ca 500 m söder om norra området.
+
+=Beskrivning=
+Gryta som består av två områden, Norra och Södra, hör sannolikt till Västerås mest besökta område. Närheten, dvs. på cykelavstånd, även en blåsig dag med paddan på ryggen, är troligen den bästa förklaringen till dess popularitet. 
+Stenarna är mestadels låga men ett mindre antal höga problem finns att tillgå.
+Området har storheter som Erik Massih som förstabestigare till ett flertal problem. Stenarna bjuder på stor variation i boulders: tekniskt, hårt, lätt och sva för att nämna något.  
+=Sektorer=
+==Norra==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Uppvärmningen, assis|grad=6A+|typ=Krimp,Mantling|fa=Tommy Torsne|landning=1|sopad=Tommy Torsne|sittstart=ja|variant=ja|text=Starta sittande med vänster hand i sidtag och höger på liten krimp. Drag sedan rakt upp till strax under kanten. Avsluta med mantlingen.}}
+{{problem|nr=1|namn=Motörheadtraversen|grad=6A|typ=Travers V->H|fa=Erik Massih|landning=1|sopad=Erik Massih|text=Starta till vänster, traversera under taket fram till björken.}}
+{{problem|nr=1|namn=Motörhead extend|grad=6C|typ=Aréte,Travers V->H|fa=Peter Viktorsson, Marcus Engström|landning=3|sopad=Peter Viktorsson, Marcus Engström|variant=ja|text=Klättra traversen och avsluta med Eriks dieder. Lång och fin.}}
+{{problem|nr=2|namn=Lemy|grad=5A|typ=|fa=Stefan Lindblom|landning=1|sopad=Stefan Lindblom|text=Starta till vänster om taket och gå sedan rakt upp.}}
+{{problem|nr=3|namn=Inte skräckmanteln|grad=6B|typ=Mantling|fa=Erik Massih|landning=3|betyg=2|sopad=Erik Massih|text=Starta under taket och gå sedan rakt upp. Avslutar i en delikat mantling.}}
+{{problem|nr=4|namn=Sit on my face|grad=6B+|typ=|fa=Erik Massih, Stefan Lindblom|sopad=Erik Massih, Stefan Lindblom|sittstart=ja|variant=ja|text=Sittstarten till Inte Skräckmanteln.}}
+{{problem|nr=5|namn=Eriks dieder|grad=6B+|typ=Slopers,Pinch,Highball|fa=Erik Massih|landning=3|betyg=2|sopad=Erik Massih|text=Klättra diedern till vänster om björken. Görs med fördel i sittande start.}}
+{{problem|nr=6|namn=Till höger om Eriks dieder|grad=6B|typ=|fa=Erik Massih|landning=3|sopad=Erik Massih|text=Klättra den högra delen av areten. Går att starta sittande.}}
+{{problem|nr=7|namn=Rule Gratinia|grad=6A+|typ=Slopers,Överhäng|fa=Erik Massih|landning=1|sopad=Erik Massih|text=Den låga traversen till höger om björken. Bra för magen. Avsluta vid juggarna till höger.}}
+{{problem|nr=8|namn=Better to burn out than fade away|grad=6B+|typ=Travers V->H|fa=Peter Viktorsson m.fl.|landning=4|sopad=Peter Viktorsson m.fl.|text=Starta där Rule Gratinia slutar och gå sedan höger via de tillverkade hålen och sedan upp via jugg och sprickor.}}
+{{problem|nr=9|namn=Better to boulder than fade away on porr|grad=6B+|typ=Travers H->V|fa=Stefan Lindblom, m.fl.|landning=3|sopad=Stefan Lindblom, m.fl.|text=Långa traversen höger till vänster. Starta på stenrampen, vandra sedan vänster runt ett balansigt hörn, vidare runt kanten och sedan via de tillverkade hålen till Rule Gritanias slut, eller ända fram till björken.}}
+{{problem|nr=10|namn=Not to borr to boulder|grad=6B+|typ=|landning=4|text=Starta vid kluvna stenen. Höger till vänster och upp innan de tillverkade hålen.}}
+| width="250px" |
+{{problem|nr=11|namn=Fingrar i brevlådan|grad=6C|typ=Överhäng|fa=Peter Viktorsson|sopad=Peter Viktorsson|text=Låg start i trekantsgreppet, via de fula hålen och sedan upp höger via jug och sprickor.}}
+{{problem|nr=12|namn=Blixt Gordon|grad=6C+|typ=Överhäng,Reach|landning=3|betyg=1|variant=ja|uteslutningar=ja|text=Som fingrar i brevlådan fast utan de tillverkade greppen.}}
+{{problem|nr=13|namn=BGI, Blixt Gordon Intergalaxial|grad=7A+|typ=Överhäng,Travers H->V,Reach|fa=Tommy Torsne|landning=3|sopad=Tommy Torsne|uteslutningar=ja|text=Starta som Better to boulder than fade away on ... och sedan lågt vänster, via den tydliga klossen in i Blixt Gordon.}}
+{{problem|nr=14|namn=Gröna hissen|grad=6A|typ=Highball|fa=Tommy Torsne|landning=3|betyg=1|sopad=Tommy Torsne|sittstart=ja|text=Starta sittande vid kluvna stenen, sedan rakt upp på den stora hyllan och vidare till topps.}}
+{{problem|nr=15|namn=Upphill Racer|grad=6A|typ=|fa=Erik Massih|landning=3|sopad=Erik Massih|text=Klättra den högra svagatan, på sidan som vätter mot gatan.}}
+{{problem|nr=16|namn=Bob Lindeman|grad=6A|typ=|fa=Stefan Lindblom|landning=3|sopad=Stefan Lindblom|text=Den vänstra svagatan.}}
+{{problem|nr=17|namn=Egon Kärman|grad=5A|typ=|fa=Erik Massih, Stefan Lindblom|landning=3|sopad=Erik Massih, Stefan Lindblom|variant=ja|text=Samma start som Bob L men avsluta till vänster.}}
+{{problem|nr=18|namn=Slappen|grad=6B|typ=Travers H->V|fa=Peter Viktorsson, Marcus Engström|landning=1|sopad=Peter Viktorsson, Marcus Engström|text=Höga blocket, 25 m öster om Motörheadblocket. Travers på blockets södra sida. Starta från björken, teknisk i starten sedan upp vänster via en spricklinje.}}
+{{problem|nr=19|namn=High Voltage|grad=6C|typ=Highball|fa=Peter Viktorsson, Marcus Engström m.fl.|landning=3|betyg=3|sopad=Peter Viktorsson, Marcus Engström m.fl.|text=Höga blocket. Starta på nordsidan, dess högra del. Väggklättring utan arete med dragning till vänster och sedan upp. HÖGT!}}
+{{problem|nr=20|namn=Svatraversen|grad=6B|typ=|fa=Erik Massih|landning=3|sopad=Erik Massih|text=Höga blockets östra sida. Travers från vänster till höger under det lilla taket. Kan med fördel avslutas upp i den högra kanten. I sådana fall högt!}}
+{{problem|nr=21|namn=Ett problem|grad=4C|typ=|landning=5|fadatum=2007-05-02|text=I Ekkorvägens hårnål, intill cykelbanan står ett block med en tripodmast på. Klättra problemet i sänkan. Dålig landning. Denna grupp av stenar bjuder dock på viss potential för den som står ut med den ojämna marken.}}
+{{problem|nr=22|namn=Åka 50-tals bil|grad=4C|typ=|fa=Stefan Lindblom|landning=3|sopad=Stefan Lindblom|text=Gungblocket, precis intill Ekorrvägen. Den vänstra delen av skölden, rakt upp över kanten. Startar från två stenar.}}
+| width="250px" |
+{{problem|nr=22.5|namn=Nordväggen Direkt|typ=Sva|fa=Erik Massih|landning=3|fadatum=2011|text=Gungblocket. Klättra diretissiman utan högra areten. Tunn och balansig svaklättring.}}
+{{problem|nr=23|namn=Osköne Ohlsson|grad=5A|typ=|landning=3|fadatum=2007-05-02|text=Gungblocket. Den högra areten som klättras med kroppen till vänster om kanten.}}
+{{problem|nr=24|namn=Slappetislapp|grad=6C|typ=Slopers,Travers V->H,Travers H->V|fa=Peter Viktorsson, Marcus Engström|landning=2|betyg=2|sopad=Peter Viktorsson, Marcus Engström|text=Sloptraversblocket, 100 m söder om Motörheadblocket. Den låga traversen vänd mot cykelbanan, dåliga fötter.}}
+{{problem|nr=25|namn=Slappetislapp, assis|grad=7A+|typ=Krimp,Överhäng,Travers H->V|fa=Tommy Torsne|landning=1|betyg=1|sopad=Tommy Torsne|sittstart=ja|variant=ja|startgrepp=ja|text=Sloptraversblocket. Starta som Inför Foucault och sedan travers i Slappetislapp istället för mantlingen.}}
+{{problem|nr=26|namn=Mantlingen|grad=6A|typ=Krimp,Mantling|fa=Tommy Torsne|landning=1|sopad=Tommy Torsne|text=Sloptraversblocket. Starta en meter vänster om starten till Slappetislapps högra start. Mantla rakt upp.}}
+{{problem|nr=27|namn=Inför Foucault|grad=7A+|typ=Krimp,Mantling,Överhäng|fa=Tommy Torsne|landning=3|betyg=1|sopad=Tommy Torsne|sittstart=ja|variant=ja|startgrepp=ja|text=Sloptraversblocket. Sittstart till mantlingen, händerna på två tydliga krimpers.}}
+{{problem|nr=28|namn=Baksidesvaet|grad=4B|typ=|landning=3|fadatum=2007-05-02|text=Svatraversblocket: One move wonder på sydöstsidan.}}
+{{problem|nr=29|namn=Svaareten|grad=6A|typ=Aréte|fa=Patrik Hagman|landning=4|sopad=Patrik Hagman|text=Sloptraversblocket. Till höger om baksidasvaet, balansig.}}
+{{problem|nr=30|namn=Simpel|grad=4A|typ=|fa=Tobias Julle|sopad=Tobias Julle|text=Sloptraversblocket. Blockets östra sida, etablera på väggen sedan ett drag till jug, därefter ännu lättare.}}
+{{problem|nr=31|namn=Utan namn|grad=6A+|typ=Pinch|landning=3|text=Sloptraversblocket. Cruxbetonad led till vänster om björken. Etablera lågt och sedan upp.}}
+{{problem|nr=32|namn=Fulhålsfobi|grad=7B|typ=Slab,Travers H->V,Reach|fa=Tommy Torsne|landning=3|betyg=2|fadatum=2007-07-10|sopad=Tommy Torsne|uteslutningar=ja|text=Motörheadblocket. Som Better to boulder than fade away on ... , dock utan fulhålen. Klättra lågt förbi fulhålen. Avsluta vid björken. Morphobrasklapp!}}
+{{problem|nr=33|namn=Nitty Gritty|grad=-|typ=|fa=Erik Massih|landning=3|betyg=3|fadatum=2008-03-29|sopad=Erik Massih|text=Till höger om Gröna Hissen, som den nu mer heter. Starta med vh på sloper och hh på krimp. Upp långt till grepp och sen lättare via bra lister till toppen.}}
+{{problem|nr=34|namn=Lilla återkomsten|grad=6C|typ=Dyno, Slopers|fa=Johan Ernlund|fadatum=2009-09-15|sopad=Jörgen Sjölander|uteslutningar=ja|text=Stora blocket. Sittstart längst till vänster på blockets västra sida, drag upp till h. Areten eliminerad.}}
+|}
+
+==Södra==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Catsch|grad=5B|typ=Reach,Jug|fa=Timo Kero m.fl|landning=3|sopad=Timo Kero m.fl|sittstart=ja|startgrepp=ja|text=Överhängande stenen, med klätterytan vänd mot cykelbanan. Sittande start under den stora juggen. Upp på rampen och vidare över kanten.}}
+{{problem|nr=2|namn=Hörn Catsch|grad=5B|typ=|fa=Marcus Engström m.fl.|landning=3|sopad=Marcus Engström m.fl.|sittstart=ja|variant=ja|text=Överhängande stenen. Samma som Catsch men med start runt hörnet på den blanka grejen.}}
+{{problem|nr=3|namn=Catsch traversen|grad=6A+|typ=Mantling,Travers H->V,Reach|fa=Peter Viktorsson m.fl.|landning=3|betyg=1|sopad=Peter Viktorsson m.fl.|sittstart=ja|variant=ja|text=Överhängande stenen. Samma som Catsch men hangla vidare till vänster och upp där hyllan smalnar av.}}
+{{problem|nr=4|namn=Långa Catsch traversen|grad=6B|typ=Mantling,Travers H->V,Reach|fa=Peter Viktorsson m.fl.|landning=3|sopad=Peter Viktorsson m.fl.|sittstart=ja|variant=ja|text=Överhängande stenen. Samma som föregående men mantla upp efter nosen, i svackan på hyllan.}}
+{{problem|nr=5|namn=Utan gnäll|grad=6C+|typ=Slab,Dyno|fa=Peter Viktorsson|landning=3|betyg=2|sopad=Peter Viktorsson|sittstart=ja|text=Överhängande stenen. Sittande start till vänster under blocket. Slabba kanten och drag sedan långt vidare och upp.}}
+{{problem|nr=6|namn=Utan direkt gnäll|grad=7A|typ=|landning=3|sittstart=ja|variant=ja|text=Överhängande stenen. Direktdrag till juggen.}}
+{{problem|nr=7|namn=PV till toppen (Patriks vänstra)|grad=6B|typ=Slopers|fa=Patrik Hagman|landning=3|sopad=Patrik Hagman|sittstart=ja|text=Överhängande blocket. Sittstart på vänstra ytterkanten, vidare till toppen på sloper med en dragning åt höger.}}
+{{problem|nr=8|namn=Pain|grad=5A|typ=Spricka|fa=Okänd|landning=5|sopad=Okänd|text=Painblocket. Det höga vassa blocket som syns bra från cykelbanan. Klättra den vassa sprickliknanade formationen på sydsidan, mitt emot den låga stenen man inte vill landa i.}}
+{{problem|nr=9|namn=Variant av pain|grad=5A|typ=|fa=Okänd|landning=5|sopad=Okänd|variant=ja|text=Painblocket. Något till höger om Pain, strax innan areten, finare.}}
+{{problem|nr=10|namn=Backside of pain|grad=6B+|typ=|fa=Erik Massih, Peter Viktorsson|landning=3|betyg=1|sopad=Erik Massih, Peter Viktorsson|text=Painblocket. På norra sidan, den lätt överhängande. Klättra upp mitt på stenen där den är som högst. Sittande 6C+.}}
+| width="250px" |
+{{problem|nr=11|namn=Pains Arete|grad=6A|typ=Aréte,Travers H->V|fa=Stefan Lindblom|landning=3|sopad=Stefan Lindblom|sittstart=ja|text=Painblocket. Starta sittande där blocket är som lägst, nordvästra hörnet, vrid upp på kanten och följ areten till toppen.}}
+{{problem|nr=12|namn=Pains vänstra|grad=6B+|typ=|fa=Tommy Torsne|landning=3|sopad=Tommy Torsne|variant=ja|startgrepp=ja|text=Painblocket. Starta lågt med händerna på den slopiga hyllan på stenens nordöstra hörn, det som vätter mot cykelbanan. Klättra sedan höger in i Backside of pain.}}
+{{problem|nr=13|namn=Pains Panidol|grad=6C+|typ=Reach|fa=Tommy Torsne|landning=3|betyg=3|sopad=Tommy Torsne|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Painblocket. Starta sittande vid pelarformationen, strax höger om sittstarten till Backside of pain. Drag först till en list till höger sedan in i Backside of pain via den lösa klossen. Toppa ut utan att använda nyckelgreppet på areten.}}
+{{problem|nr=14|namn=Windmill|grad=6A|typ=Reach|fa=Patrik Hagman, Tommy Torsne|landning=3|sopad=Patrik Hagman, Tommy Torsne|sittstart=ja|startgrepp=ja|text=Painblocket. Sittande vid listen i nordöstra hörnet, sedan rakt upp via den oborstade gatan.}}
+{{problem|nr=15|namn=Ingen plats för celluliter|grad=6B+|typ=Mantling,Reach|fa=Tommy Torsne|landning=4|sopad=Tommy Torsne|sittstart=ja|text=Painblocket. Liggstart där stenen är som lägst, västsidan. Kläm in dig under blocket, långt drag sedan känslig mantling.}}
+{{problem|nr=16|namn=Utan namn|grad=5A|typ=Mantling,Slab|fa=Okänd|landning=3|sopad=Okänd|sittstart=ja|text=Painblocket, sydvästra hörnet. Bred sittande start till höger om Ingen plats för celluliter. Avsluta i en fin mantling.}}
+{{problem|nr=17|namn=Traversen|grad=7A|typ=Krimp,Travers H->V|fa=Peter Viktorsson|landning=3|sopad=Peter Viktorsson|sittstart=ja|text=Painblocket. Starta sittande i Backside of pain och traversera till vänster runt blocket fram till Utan namn, mantla upp.}}
+{{problem|nr=18|namn=Gritstonetraversen|grad=5A|typ=Mantling,Travers V->H|fa=Erik Massih|landning=1|betyg=1|sopad=Erik Massih|text=Gritstoneblocket. Starta till vänster, nordvästra hörnet, och hangla till höger runt hörn nummer två och avsluta med en mantling vid bogen.}}
+| width="250px" |
+{{problem|nr=19|namn=Grodan Gritt|grad=6B+|typ=|fa=Tommy Torsne|landning=2|betyg=1|sopad=Tommy Torsne|sittstart=ja|startgrepp=ja|text=Gritstoneblocket. Sittstart i nordsidans vänstra del. Vänster hand i sidtag och höger på låg eller hög crimp. Ett drag till toppen, mantla eller klättra traversen.}}
+{{problem|nr=20|namn=Gritstonemantlingen|grad=3C|typ=|fa=Stefan Lindblom|landning=1|sopad=Stefan Lindblom|text=Gritstoneblocket. Mantla upp på nordsidan.}}
+{{problem|nr=21|namn=IFÖ|grad=6A|typ=|fa=Stefan Lindblom, Lars Andreen|landning=3|sopad=Stefan Lindblom, Lars Andreen|sittstart=ja|text=Gritstoneblocket. Sittstart vid bogen. Till toppen och avsluta i en lätt mantling. Sedan startgreppet lossnade 2005 har starten bivit något mer kramig.}}
+{{problem|nr=22|namn=IFÖ Revival|grad=6A+|typ=|fa=Tommy Torsne|landning=2|sopad=Tommy Torsne|sittstart=ja|variant=ja|startgrepp=ja|text=Gritstoneblocket. Sittstart till vänster om bogen. Vänster hand på låg hylla och höger på hög crimp, mantla ut med strikt hållen linjeföring i svackan/skålen.}}
+{{problem|nr=23|namn=Foot Loose|grad=3C|typ=|fa=Stefan Lindblom|landning=1|sopad=Stefan Lindblom|uteslutningar=ja|text=Gritstoneblocket, på sydsidan. Upp utan händer.}}
+{{problem|nr=24|namn=Baksidan|grad=5A|typ=Krimp|fa=Okänd|landning=2|sopad=Okänd|text=Gritstoneblocket. Ett par krystade flytt på östsidan. Leden gjordes om i en vackrare elimination av Malin Berglind 2005. Starta på små krimpers och sedan upp åt höger, via ytterligare krimp/pinch grepp. Eliminationen 6B.}}
+{{problem|nr=25|namn=One move wonder|grad=5A|typ=|fa=Peter Viktorsson, Marcus Engström m.fl|landning=1|sopad=Peter Viktorsson, Marcus Engström m.fl|text=Gritstoneblocket. Etablera i sprickan och på slopigt grepp för vänstern. Ett flytt till toppen. Sittstart 6B+.}}
+{{problem|nr=26|namn=Gritstone spinal|grad=7B|typ=|fa=Tommy Torsne|landning=2|betyg=2|sopad=Tommy Torsne|startgrepp=ja|uteslutningar=ja|text=Gritstoneblocket. Liggstart, östsidan, i blockets underkant på två tydliga grepp. Strikt linjeföring på krimp och slop utan att använda vänster kant. Teknisk och hård.}}
+|}
+
+===Bilder Södra===
+[[Bild:Gritstoneblocket.jpg]]
+Gritstoneblocket, längst sydvästerut i Södra Gryta-området.
+[[Bild:OverhangandeStenen.jpg]]
+Överhängande stenen, som man möts av när man kommer in genom buskaget från cykelvägen, längst sydösterut i Södra Gryta-området. Bakom denna ligger Gritstoneblocket en 15 meter längre bort västerut , Painblocket ligger rakt åt höger från denna sten ungefär 25 meter norrut.
+
+
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

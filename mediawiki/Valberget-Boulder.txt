@@ -1,0 +1,53 @@
+{{Stub}}
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="56.21429371296636" lon="14.89771842956543" zoom="10" type="map">
+56.21429371296636,14.89771842956543,Valberget
+
+</googlemap>
+</div>
+
+
+{{info klippa
+  |lat=56.21429371296636
+  |long=14.89771842956543}}
+
+== Allmänt ==
+Valberget är mest känt för sin repklättring, men det finns gott om block och lägre väggar här också.
+Ett fåtal lätta problem är klättrade men nyturspotentialen är stor för den som är villig att jobba lite med stålborsten.
+
+== Hitta hit ==
+'''Från E22''' tag av vid avfarten där det är skyltat mot karlshamn sjukhus, kör norrut mot Asarum. Kör rakt fram genom två små rondeller och sväng höger i tredje rondellen mot Asarums centrum. I "stora korsningen" vid ica och coop i Asarum viker man av höger och fortsätter mot utkanten av samhället. Ta höger mot Granefors och efter ca 100 meter vänster mot Tararp. Strax efter en liten bro ta höger (återigen mot Granefors) och följ vägen genom S-kurvan. Direkt efter kurvan dyker det upp två småvägar till vänster. Ta den högra av dessa, skyltat mot valberget och följ denna ca 1 kilometer till ett tydligt vägskäl. Här är det skyltat vänster till valberget, parkera bilen här, och se till att det finns plats för markägaren att ta sig förbi med skogsmaskiner. Om man är lite planerande kan man nog trycka in 4 bilar här. Fortsätt till fots på vägen fram till den stora vändplats där man brukade parkera. Fortsätt på stigen som är förlängningen av vägen och ta första förgreningen till vänster. Följ sedan stigen av snett åt vänster när du har ett gammalt (numera uppväxt) hygge på vänster sida. Vik undan för undan mer åt höger, bort från "hygget". Strax efteråt syns berget tvärs över en blöt sänka. Om ni fortsätter följa stigen så hittar ni spänger över sänkan.
+
+
+==Tungan==
+
+Ett litet utstickande block precis vid stigen efter Välkomstblocket 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Tungan| grad=L | typ=överhäng | fa=Petter Åsander| landning=1 | fadatum= | sittstart=ja | sopad=nej | text=uppenbar kort travers och mantling på högsta punkten. Kanske mer en cirkuskonst/lek än ett boulderproblem}}
+
+==Kyrkblocken==
+
+En samling block under det stora taket 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr=1 | namn=Svär inte i kyrkan| grad=L | typ=arete | fa=Petter Åsander| landning=3 | fadatum= | sittstart=ja | sopad=ja | text=Vass arete}}
+
+{{problem | nr=2 | namn=Kvällstraversen| grad=L | typ=travers | fa=Petter Åsander| landning=1 | fadatum= | sittstart=ja | sopad=ja | text=svepande traverslinje på ganska bra grepp men halvkassa steg. Mantling på hörnet.}}
+
+
+
+
+
+[[Kategori:Blekinge]]
+[[Kategori:vertikalt]]
+[[Kategori:bouldering]]
+[[Kategori:överhäng]]
+[[Kategori:sva]]

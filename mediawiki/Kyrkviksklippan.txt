@@ -1,0 +1,66 @@
+{{info klippa
+  |lat=59.20481
+  |long=18.18060
+}}
+
+{{utkast}}
+
+==Vägbeskrivning==
+Vägbeskrivning finns på [http://www.plonk.se/snf/kyrkviksklippan.html Stockholms Nätförare]
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.20481" lon="18.18060" zoom="14" type="map" controls="small">
+59.20481,18.18060,[[Kyrkviksklippan]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Kyrkviksklippan
+lat=18180600
+long=59204810
+</slresa>
+</div> 
+
+
+<div style="clear:right;"></div>
+[[Bild:kyrkviksklippan.gif]]
+==Leder==
+
+{{led|nr=1|namn=Momento|grad=6a|betyg=|längd=|fa=[[Johan Luhr]], [[Anders Granander]]|bultar=|typ=sport|text=Hängarna är på plats igen!}}
+
+{{led|nr=2|namn=Nöff, nöff|grad=6c+|betyg=|längd=|fa=[[Johan Luhr]], [[Anders Granander]]|bultar=|typ=sport}}
+
+{{led|nr=3|namn=Matt Adams catch-tur|grad=7c+|betyg=|längd=|fa=[[Matt Adams]]|bultar=|typ=sport|text=Catch!}}
+
+{{led|nr=4|namn=Den vita ankan|grad=6b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=5|namn=Oz|grad=7c+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Börja med Den vita ankan och gå höger efter taket.}}
+
+{{led|nr=6|namn=El Gringo|grad=7c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Genom taket}}
+
+{{led|nr=7|namn=Ola|grad=6c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=8|namn=Kamp|grad=7c+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=9|namn=Raf|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=10|namn=Stolen|grad=6c|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+
+'''15m till höger:'''
+
+{{led|namn=Ur en annan synvinkel|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Hängare saknas}}
+
+{{led|namn=Ur dödlig synvinkel|grad=7a|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Hängare saknas}}
+
+{{led|namn=Matiné|grad=6b|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Hängare saknas}}
+
+{{led|namn=Rival|grad=7b+|betyg=|längd=|fa=|bultar=|typ=sport|text=Hängare saknas}}
+
+{{led|namn=Luna papa|grad=7b+|betyg=|längd=|fa=|bultar=|typ=sport|text=Hängare saknas}}
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]

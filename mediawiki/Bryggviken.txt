@@ -1,0 +1,49 @@
+{{stub|extern=ja}}
+
+==Allmänt==
+Liten oansenlig klippa 5 km sydväst om Bålsta. Klippan är som mest 8 m hög och ca 20 m bred. 
+
+==Access {{access}}==
+'''OBS!!!''' Det råder begränsad acess på klippan. Det är förbjudet att beträda bergsbranter och stup under perioden 1 jan - 31 juli. 
+
+
+Förare med skiss finns på [http://www.plonk.se/snf/bryggviken.html Stockholms Nätförare],[http://www.plonk.se/oldsite/bryggviken.html Bryggviken]
+
+
+==Vägbeskrivning==
+Position: 11 H SO [http://www.openstreetmap.org/?lat=59.54982&lon=17.44811&zoom=16 kartlänk]
+<div style="width: 200; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap  width=400 height=250 lat="59.555275" lon="17.500625" zoom="12" type="map" controls="small">
+59.546943,17.448049,[[Bryggviken]]
+</googlemap>
+</div>
+
+==Leder==
+{{led|nr=|namn=Krakslottet|grad=6-|betyg=|längd=7 |fa=[[Kjell Henriksson]][[1992|-92]]|bultar=|typ=mix|text=}}
+{{led|nr=|namn=Klockspelet|grad=4+|betyg=|längd=13 |fa=[[Ake Soderberg]][[1990|-90]]|bultar=|typ=trad|text=}}
+{{led|nr=|namn=Stackars Jack|grad=6-|betyg=|längd=6 |fa=[[Ola Soderberg]][[1993|-93]]|bultar=|typ=mix|text=}}
+{{led|nr=|namn=Nangilima|grad=5-|betyg=|längd=10 |fa=[[Kjell Henriksson]][[1992|-92]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Nangijala|grad=4|betyg=|längd=8 |fa=[[Ola Soderberg]][[1997|-97]]|bultar=|typ=trad|text=}}
+{{led|nr=|namn=Valborg|grad=3+|betyg=|längd= |fa=[[Tor soderberg]][[1993|-93]]|bultar=|typ=trad|text=}}
+{{led|nr=|namn=Enigma|grad=4+|betyg=|längd=10 |fa=[[Tor Soderberg]][[1993|-93]]|bultar=|typ=trad|text=}}
+{{led|nr=|namn=On the rocks|grad=5-|betyg=|längd=11 |fa=[[Kay von Damm]][[1990|-90]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Spiran|grad=5-|betyg=|längd=7 |fa=[[Ola Soderberg]][[1989|-89]]|bultar=|typ=mix|text=}}
+{{led|nr=|namn=Trango Extrem|grad=7|betyg=|längd=15 |fa=[[Ola Soderberg]][[1990|-90]]|bultar=|typ=sport|text=}}
+{{led|nr=|namn=Jack Daniels|grad=5|betyg=|längd=15 |fa=[[Ola Soderberg]][[1989|-89]]|bultar=|typ=trad|text=}}
+{{led|nr=|namn=Det|grad=5+|betyg=|längd=6 |fa=[[Ola Soderberg]][[1989|-89]]|bultar=|typ=trad|text=}}
+{{led|nr=|namn=Biltjuven|grad=5|betyg=|längd=6 |fa=[[Ola Soderberg]][[1989|-89]]|bultar=|typ=trad|text=}}
+{{led|nr=|namn=King Karl|grad=5|betyg=|längd=10 |fa=[[Ola Soderberg]][[1989|-89]]|bultar=|typ=sport|text=}}
+{{led|nr=|namn=Magic Mushrooms|grad=6|betyg=|längd=9 |fa=[[Ola Soderberg]]|bultar=|typ=mix|text=}}
+{{led|nr=|namn=Scarface|grad=5+|betyg=|längd=8 |fa=[[Ola Soderberg]][[1989|-89]]|bultar=|typ=sport|text=}}
+
+
+[[Kategori:Trad]]
+[[Kategori:Sport]]
+[[Kategori:Mix]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar lednummer]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Saknar vägbeskrivning]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

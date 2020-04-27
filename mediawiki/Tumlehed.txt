@@ -1,0 +1,84 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+{{utkast}}
+==Allmänt==
+Klippan finns beskriven i Göteborgsföraren under "övriga klippor". Lokala förmågor klättrar här ibland, när det inte finns accessproblem vill säga.
+==T==
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}} 
+(Informationen i Klättring i Göteborg med omnejd är baserad på informationen ifrån Sverigeföraren). 
+
+[[bild:accessproblem_tumle.jpg|thumb|100px]]
+
+==Lottkärr==
+===Miljö===
+En till synes bred klippa som bjuder på en handfull mix/tradleder, brant sva, samt en helbultad led. Ligger vid en äng, utom hör- och synhåll ifrån bilväg. Anmarschen är cirka 800 meter. Vänster om denna klippa i skogsdungen finns lite intressanta block och kortare väggar (överhäng).
+
+[[bild:tumlehed_valkomstbild.jpg]]
+
+===Access===
+Det finns fågel på klippan, därför rekommenderas ingen klättring på klippan när fågeln häckar (fågeln häckar på våren har en lokalboende sagt).
+
+===Vägbeskrivning===
+Kör väg 155 ifrån Göteborg mot Öckerö. Fortsätt Torslandavägen som byter namn till Kongahällavägen. Kör förbi torget och kyrkan och sväng vänster in på Domarringsgatan. Följ Domarringsgatan ända till Västtrafiks pendelparkering och parkera där (strax efter mataffären). Gå tillbaks längs med Domarringsvägen till Lottkärrsvägen och den stora klippan syns rakt fram. Den vänstra delen av klippan är klättrad och det finns ett hål igenom buskaget för att komma fram till där lederna börjar. 
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+===Leder Lottkärr===
+'''Access:''' Den fågel som häckar vid Lottkärrsklippan gör det allt som oftast på samma ställe. Räkna därmed att det häckar fågel vid klippan varje vår (i alla fall i år 2013). Det går inte att ta miste om det är fågel eller inte, i så fall gå någonannanstans. (
+[[bild:tumlehed456789.jpg]] 
+{{led|fa=| nr=1|namn=?|grad=?|text=Kortaste leden på klippan. En ensam borrbult markerar utsteget, går att säkra med småkilar.|typ=trad}}
+{{led|fa= | nr=2|namn=kaminen1|grad=?|text=Första kaminen|typ=trad}}
+{{led|fa= | nr=3|namn=tumle3|grad=?|text=En ensam bult ger knappast en led|typ=mix}}
+{{led|fa= | nr=4|namn=led4tumle|grad=?|text=Brant start|typ=mix}}
+{{led|fa= | nr=5|namn=kaminen 2|grad=4|fa=|text=Andra kaminen, oftast blöt och en del lös sten.|typ=trad }}
+{{led|fa= | nr=6|namn=tumle6|grad=6-|typ=trad|text=Finaste leden, startar två meter till höger om kaminen|betyg=2|typ=trad}}
+{{led|namn=|grad=?|typ=topprep|text=Topprepsvariant rakt upp, svaklättring, svår|fa=}}
+{{led|fa=| nr=7|namn=tumle7|grad=5|typ=mix|text=Samma start som nästa led men går upp till vänster efter laybacken istället}}
+{{led|fa= | nr=8|namn=tumle8|grad=5|typ=mix|text=Startar ifrån marken, mantla hyllan och rakt upp|betyg=1}}
+{{led|fa= | nr=9|namn=Tumleheds heltbultade led|grad=5c|typ=sport|text=Möjligen campus-start följt av svaproblem till toppen.|betyg=2}}
+{{led|fa= | nr=10|namn=?|grad=?|typ=mix|text=efter den gemensamma starten går man den mer högra linjen, en kamplacering och en bult på slutet som markerar leden. }}
+{{led|fa= | nr=11|namn=? |grad=?|typ=mix|text=Finns en ensam bult ovanför korpboet. Möjligen en mixad led?}}
+{{led|fa= | nr=12 |namn=?|grad=?|typ=trad|text=Högerlutande svasprickan}}
+{{led|fa= | nr=13|namn=?|grad=? |typ=trad|text=Sprickan innan kaminen}}
+{{led|fa=|nr=14|namn=Torslanda adventure crackelicrack|grad=5|typ|trad|text=Högra kaminen, namnet kommer ifrån den geocache som ligger i kaminen.}}
+
+==Runhällsgatan==
+Parkera längst ner på Runhällsgatan, eller ta Gul Express till närmsta hållplats och promenera till Runhällsgatan. Klättring längs med början av vägen på vänster sida. Längd på leder är 7-12m. 
+
+'''Access:''' Denna klippa ligger mycket nära bostadshus, håll låg profil och parkera lämpligt. 
+{{led|namn=The Zero Star route|grad=3|text=Ingen klassiker direkt|fa=}}
+{{led|namn=1000mg C-vitamin|grad=5|text=Dubbelt överhäng|fa=}}
+{{led|namn=Frodo|grad=4|text=För att graden ska hålla ska man klättra rakt upp hela tiden... Välsäkrad|fa=}}
+{{led|namn=Nötknäpparen|grad=4|text=Välsäkrad i diedret|betyg=1|fa=}}
+{{led|namn=Melodifestivalen|grad=6-|längd=12|text=Fin klättring, men tyvärr jordig led. |fa=}}
+{{led|namn=Lösa flaket|grad=5|text=Bra men svårplacerade säkringar.|fa=}}
+{{led|namn=En dansk viking|grad=5-|text=Håll höger!|fa=}}
+
+''När vi gick ner för berget såg vi en asfaltsväg på höger sida (avspärrad av bom) och följde denna en kort bit upp till en äng, på andra sidan ängen hittade vi en till repklippa, ca 15 meter hög.....'' 
+
+
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]] 
+ [[Kategori:trad]] 
+[[Kategori:mix]] 
+[[Kategori:sva]]
+ [[Kategori:vertikalt]] 
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Göteborg]]

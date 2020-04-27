@@ -1,0 +1,47 @@
+{{info klippa
+  |lat=58.31978888888889
+  |long=11.388638888888888
+}}
+
+{{komplett}}
+
+[[Bild:Bläckhall_fyr.jpg|thumb|right|350px]]
+
+<googlemap lat="58.31978888888889" lon="11.388638888888888" zoom="11" type="map">
+58.31978888888889,11.388638888888888,Bläckhall
+</googlemap>
+
+Ö-klippa ca 1 sjömil norr om Lysekil. Henrik Bolander har satt upp bl a sveriges hårdaste DWS-led, "43 knop" samt flera andra leder. Klippan utvecklades under 2007 av [http://www.granitbiten.com Team Granitbiten], tillsammans med [[Rödsberget]]. 
+
+==Vägbeskrivning==
+
+Egen båt!
+
+==Leder==
+Starten på alla leder är markerade med en svart prick.
+
+[[Bild:Bläckhall_vä.jpg]]
+[[Bild:Henrik_dws.jpg|thumb|right|300px|Henrik Bolander på 43 knop]]{{led|nr=1|namn=Strömming|grad=6b S0|läng=12|fa=[[Björn Strömberg]]-07|text=Startar till vänster om takformationen. Hangla ut i taket och följ aretéten uppåt. Håll därefter snett höger tills den går ihop med Hopptornet.}}
+
+{{led|nr=2|namn=Hopptornet|grad=6a S0|läng=12|fa=[[Jerk Thomsgård]]-07|text=Startar till höger om takformationen. Linjen snett uppåt vänster. Håll till höger på slutet. Obligatorisk bakåtvolt från utsteget. Allt enligt förstabestigaren.}}
+
+{{led|nr=3|namn=Paddla på|grad=6a+ S0|läng=14|fa=[[Henrik Bolander]]-07|text=Startar två meter till höger om Hopptornet. Sedan rakt upp till toppen.}}
+
+{{led|nr=4|namn=Ribben|grad=6c+ S1|läng=15|fa=[[Henrik Bolander]]-07|text=Startar till höger om Paddla på. Krux på slutet.}}
+
+{{led|nr=5|namn=GPS|grad=7c S0|läng=16|fa=[[Stefan Wulf]]-07|text=Startar i monot. Ihållande till toppen.}}
+
+{{led|nr=6|namn=Saltkråkan|grad=7a S0|läng=14|fa=[[Henrik Bolander]]-07|text=Startar 5m till höger om GPS. Rakt upp till stora hyllan.}}
+
+{{led|nr=7|namn=43 knop|grad=7c+ S1|längd=20|betyg=3|typ=dws|fa=Henrik Bolander|text=Startar i vänsterkant av ett gammalt gråmålat fält. Följ den slopiga rampen snett uppåt höger ca 5m. Därefter rakt upp genom det lilla taket.}}
+
+[[Bild:Bläckhall_hö.jpg]]
+
+{{led|nr=8|namn=Havspärlan|längd=22|grad=7c+ S1|fa=Henrik Bolander [[2007|-07]]|text=Startar på det stora greppet till höger om 43 Knop. Teknisk klättring upp till kristallbandet. Följ sedan kristallbandet rakt upp mot toppen.}}
+
+{{led|nr=9|namn=Svart 58|längd=20|grad=7a+ S0|fa=Henrik Bolander [[2007|-07]]|text=Startar i monot vid ”58”. Klättra rakt upp till lilla hyllan. Sedan snett upp vänster till stora rampen. Följ rampen till toppen.}}
+
+
+
+[[Kategori:DWS]] [[Kategori:Bohuslän]]
+[[Kategori:Bohuslän]]

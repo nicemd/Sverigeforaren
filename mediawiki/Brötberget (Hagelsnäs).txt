@@ -1,0 +1,58 @@
+{{utkast}}
+[[Kategori:Dalarna]]
+{{info klippa
+  |lat=60.479809
+  |long=15.788212
+}}
+==Allmänt==
+Brötberget är en av Dalarnas allra bästa klippor för den som vill klättra på topprep i de lägre graderna.
+
+== Brötberget ==
+På Brötberget har det klättrats sedan slutet av 70-talet då ett gäng faluklättrare med Johan Luhr i spetsen hittade hit. Klippan är granit och saknar tyvärr överlag säkringsmöjligheter, med ett par undantag, vilket gör att de flesta leder klättras på topprep. Det finns gott om träd ovanför klippan även om det kan vara en bit från kanten så ett långt statrep eller långa slingor kan vara bra att ha med sig. För den som vill leda klarar man sig på ett kilset och några små friends upp till camalot#0.75. Lederna är mellan 8 och tolv meter långa och klippan är ca. 200 meter bred fördelat på två väggar med en stor ränna mellan.
+
+== Vägbeskrivning ==
+<div style="float: right; margin: 6px; border: solid 1px gray;">
+<googlemap lat="60.479809" lon="15.788212" zoom="11" width="350" height="200" type="map">
+60.479809,15.788212,Brötberget
+</googlemap>
+</div>
+Från Falun: Kör väg 266 mot Hedemora 2,5 mil. Strax efter att passerat under en stor elledning, ta höger mot Vika Strand. Direkt efter att man tagit höger i korsningen leder en liten stickväg in till parkering i en skogsdunge. Gå tillbaka över väg 266 där klippan syns tydligt på andra sidan åkern. Följ kanten på diket som går över åkern (inte ute på åkern!) och följ sedan skogskanten 20 meter åt vänster till en lite svårupptäckt stig som leder upp till klippan.
+
+
+== Klättringen ==
+Det har aldrig funnits någon dokumentation över vad som är klättrat av vem eller lednamn men det mesta har blivit klättrat antingen på topprep, de säkringar som funnits eller solo. Lederna nedan är ett urval på de mest uppenbara och bästa lederna och det finns mycket att upptäcka utöver dessa. Eftersom endast två av lederna har kända lednamn beskrivs klippan i löpande text.  
+
+'''Vänstra väggen.'''
+
+För att komma ovanför vänstra väggen är det lättast att klättra upp i en kort, brant ränna (grad 2) längs till vänster. Känns det inte OK att klättra rännan utan rep så kan man gå ytterligare lite vänster och runt till höger, sedan får man gå ner på den stora hyllan ovanför väggen längst till höger ovanifrån sett.
+
+Det första Du ser när Du kommer på stigen fram till klippan är en brant svaplatta i högerkant på den vänstra väggen. I vänsterkanten av plattan går ett iögonfallande spricksystem (4+) snett åt höger som antingen kan följas hela vägen eller avslutas rakt upp genom den lite brantare väggen, mycket välsäkrat. Det är även fint att klättra plattan från den lilla "hålan" och rakt upp (5+).
+
+Direkt till vänster finns två tydliga leder framsopade ur mossan. Den första är "Vid sidan av vägen" (6-), klättrad av Ted Ekberg-05. Den är bättre säkrad ut än den ser ut, dock långt ifrån bra, men fin att topprepa. (Garanterat inte klättrad vare sig innan eller efter FA annat än på topprep...) 
+
+Nästa led är den enda bultade, 2 borrbultar och en v-bult som inte syns från marken. Om man klättrar rakt upp i utsteget är svårighetsgraden uppskattningsvis 7+/8- men genom att kliva upp på lite lister/hyllor en meter till höger och sedan traversera tillbaka till vänster för att göra ett häftigt spagatkliv och klättra utsteget får man ner graden till 6+ (FA Mattias Flodin 80-tal). En borrbult och en liten tall finns ovanför kanten att rigga topprep i.
+
+Ytterligare ett par meter växer en gran alldeles intill klippan. Vid ett parti med svart klippa startar två fina varianter. Här kan man antingen klättra rakt upp (5) eller traversera ut vänster under ett flak ca.tre meter upp till "Den siste alpinisten"(5, T.Ekberg-03) som följer en serie lite ihåliga flak uppåt. (Denna led är möjligen ledd tidigare, men troligtvis inte då den grävdes fram under en halv meter jord och mossa) Båda varianterna är OK säkrade med kilar och nån friend i mellanstorlek, första tre metrarna är dock osäkrade.
+
+'''Högra väggen.'''
+Bästa vägen upp ovanför högra väggen är upp i den tydliga rännan/slänten i vänsterkanten. På sidoväggen i rännan finns några lättare topprepsleder. Det går även utmärkt att gå runt till höger även om det är lite snårigare.
+
+Om man fortsätter bort mot höger förbi den stora rännan kommer man till en lite högre, mossig vägg. I högerkanten av denna finns en ren och fin pelare med möjlighet till flera olika varianter i trea-fyra registret.
+
+Längre åt höger blir väggen mer uppbruten och mossig en bit innan man kommer fram till en tydlig pelare med ett dieder i vänsterkanten. Diedret (5) är rätt fint men nedre delen är dåligt säkrad, övre delen mycket välsäkrad.
+
+Den branta väggen till höger om pelaren erbjuder den bästa klättringen, men är avsevärt svårare med varianter från 7- till 8-. 
+
+Det fina spricksystemet som startar ovanför en liten kamin(5+/6-)längst till höger är en av klippans riktiga pärlor och mycket välsäkrat om man vill leda.
+
+== Camping ==
+Fina tältplatser finns på moss täckta hällar ovanför vänstra väggen och syns tydlig till vänster när Du går upp i den stora rännan mellan högra och vänstra väggen. Eldstad finns nedanför vänstra väggen. Vatten finns ej.
+
+
+== Access{{access}} ==
+
+Följ parkerinsanvisningarna. Tidigare brukade klättrare parkera på den lilla fickan vid åkern med resultat att bonden inte kom fram med traktorn. Elda i eldstaden och ta med skräpet hem! Dalarnas klätterklubb har även uttryckt en önskan om att hålla klippan fri från borrbultar.
+
+{{AccessDB|klippa=brotberget-hagelsnasvika}}
+
+[[Kategori:Dalarna]] [[Kategori:Sport]] [[Kategori:Sva]] [[Kategori:Vertikalt]]

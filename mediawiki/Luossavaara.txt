@@ -1,0 +1,23 @@
+{{info klippa
+  |lat=67.87369871850989
+  |long=20.223941802978516
+}}
+
+{{stub|extern=ja}}
+
+==Allmänt==
+Klättring i Kiruna utförs på berget Luossavaara. Ett stort och ståtligt berg som
+någon gång runt sekelskiftet klyvdes mitt itu av gruvbolaget LKAB.
+
+==Vägbeskrivning==
+<googlemap lat="67.87369871850989" lon="20.223941802978516" zoom="7" type="karta">
+67.87369871850989, 20.223941802978516, Luossavaara
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=loussavaara-dagbrott}}
+
+==Extern förare==
+Kirunaföraren finns att ladda ner på [http://www.borrbult.nu/forare Borrbult.nu]
+[[Kategori:Lappland]]

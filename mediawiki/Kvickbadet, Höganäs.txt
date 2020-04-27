@@ -1,0 +1,50 @@
+{{info klippa
+  |lat=56.198543
+  |long=12.553108
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+På Kvickbadet i Höganäs finns det två konstgjorda stenar för bouldering.
+
+==Beskrivning==
+Adress: Hamnplan, Höganäs. Vid Kvickbadet och småbåtshamnen. 
+
+[http://maps.google.se/maps?q=H%C3%B6gan%C3%A4s+-+Kvickbadet&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&ie=UTF-8&hq=&hnear=Kvickbadet,+H%C3%B6gan%C3%A4s&gl=se&ei=EqEHTJyOGqiHOILr9PEP&sa=X&oi=geocode_result&ct=image&resnum=1&ved=0CBgQ8gEwAA Karta]
+
+[[Bild:IMG 5834.JPG|500px]]
+<br/>Foto: Ola
+
+[[Bild:100702 Hoganas bouldering panorama.jpg|500px]]
+<br/>Foto: Ola
+
+[[Bild:IMG 5827.JPG|500px]]
+<br/>Foto: Ola
+
+[[Bild:HoganasBoulderpark2.jpg|Höganäs boulderpark. Fotograf: Höganäs Turistbyrå|500px]]
+<br/>Foto: Höganäs Turistbyrå. Används med tillstånd.
+
+==Länkar==
+* [http://hd.se/hoganas/2010/05/30/det-ar-en-oslipad-diamant/ Tidningsartikel från invigningen i Höganäs]
+* [http://www.entre-prises.com/news/2010/05/FreeformBouldersSweden Freeform climbing boulders]
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Skåne]]

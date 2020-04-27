@@ -1,0 +1,76 @@
+{{info klippa
+  |lat=57.60616
+  |long=12.15728
+}}
+{{komplett}}
+
+[[bild:greggerdutsikt.jpg]]
+
+[[Kategori:1 stjärna]]
+== Allmänt ==
+En trevlig klippa som är väl värd en förmiddag/eftermiddag. Greggered är ett litet samhälle, närmsta mataffären ligger troligen i Lindome.
+
+== Kollektivtrafik ==
+Närmsta kända busshållplats är Greggereds Kapell, där buss 763 stannar. Restid ifrån Mölndal C är 30-70 minuter.
+
+==Vägbeskrivning==
+Ifrån Göteborg, sväng av vid Kållered (Avtagsväg 63), kör rakt fram i första rondellen, sväng vänster kör över motorvägen och rakt fram (österut). Efter ett par kilometer sväng vänster skyltat Greggered. 
+
+''Alternativ resväg'' kör avtagsväg 62 (Lindome S), håll riktning mot Hällesåker. Efter ett tag, sväng vänster Greggered (skyltat). 
+
+I Greggered, som är en liten by, ställer du dig på en liten grusplan. Tänk på att bonden som äger den lilla grusplanen vill kunna parkera sin lastbil där. 
+
+<googlemap lat="57.60616" lon="12.15728" zoom="9" type="map">
+57.60616,12.15728,Greggered
+</googlemap>
+
+==Miljö==
+Lövskog, fin utsikt ifrån hyllan. Inte särskilt framkomligt för barnvagn. För att komma till toppen på berget går man till hyllans högerkant. "Skogen" runt Greggered är rätt liten. Bär med din skit härifrån!
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Accessinformation==
+Se till att parkera så att markägaren har plats för sin lastbil. Skada inte stängslet! Det är lyhört mellan klippan och närmsta grannarna, det är nog olämpligt om vi börjar störa dem (ie håll ner ljudvolymen). 
+
+{{AccessDB|klippa=greggered}}
+
+==Huvudklippan==
+Alla lederna på "huvudklippan" är borrbultade. Från Rastafari till Obladi Obladi är denna sektion 20 meter hög. 
+
+{{led|namn=Rastafarig|grad=7a|typ=bult|fa=Björn Strömberg}}
+{{led|namn=Ingen Run-Out|grad=6c+|fa=Jens Larssen}}
+{{led|namn=Greggereds kapell |grad=7c+|fa=Jens Larssen}}
+{{led|namn=Byter till flash|betyg=2|grad=6b+|fa=|text=Går längs med sprickan, korsar taket "emellan" taken. Om du fegar ur och går till Ikeas ankare (höger) så får du en fin 6a, annars fortsätter du längs med den vänsterlutande sprickan. Sekvensig. |fa=Jens Larssen}}
+{{led|namn=Ikea |grad=?}}
+{{led|namn=Buss 765|betyg=3|grad=5c+|text=Mycket fin led!|fa=Jens Larssen|typ=sport}}
+{{led|namn=Obladi Oblada| grad=6c|fa=Jens Larssen|text=Gemensam start som Buss 765 men går ut till höger istället. }}
+{{led|namn=One move Wonder|grad=?? |text=Står som projekt i föraren|fa=?}}
+{{led|namn=Joao|grad=7c|fa=Jens Larssen}}
+
+==Hyllan==
+
+Innan metallstegen finns dessa två leder: 
+
+{{led|namn=Pepparkakshuset|grad=4|typ=trad|text=Kaminen fem meter innan stegen. |fa=11-11-06|längd=8}}
+{{led|namn=Den fula ankungen|grad=5-|typ=trad|fa=11-11-06|text=Sprickan en meter till vänster om stegen.|längd=8}}
+Gå upp för metallstegen för att komma till hyllan. Det är lätt att med egna grejer bygga topprepsankare för hyllan. Hyllans leder är 15 meter långa, från Mormor till Bänken. Lilla Ekorren och Husmusen är 8 meter.  
+
+{{led|namn=Mormor|grad=5-|text=Leden följer de två sprickorna en meter ifrån varandra, delar utsteg med nästa led|fa=11-11-6}}
+{{led|namn=De tre små grisarna|grad=5|text=Spricka i hand och fingerstorlek med bra grepp och steg hela vägen. |fa=23 mars 2012|längd=15m|typ|trad|betyg=1}} 
+{{led|namn=Kjellvander på repeat|typ=trad|grad=5|fa=Johan Håkansson|text=Insteg framför trädet, klättra längs med vänsterlutande handjamspricka, 45cm travers, klättra längs med nästa vänsterlutande handspricka upp till hyllan.|ny=1 }}
+{{led|namn=topprepsled|grad=6a|typ=topprep|fa=Jens Larssen|text=Finns en ensam borrbult fyra meter vänster om Hans ankare. Jens kallar det för topprepsankare och den ger tre leder, grad 6a, 6b, 6b}}
+
+{{led|namn=Vargen|grad=6-|text=Startar i diedret vänster om Hans/Greta, upp till taket och därefter högerlutande spricka. Avslutas genom att gå upp till Hans ankare. Möjligen seriös/svårsäkrad|fa=Marek Grudzinski|betyg=1}}
+
+{{led|namn=vargant|grad=6/6+|typ=topprep|text=Gjord på topprep från ankaret till Hans. Startar i Vargen, men istället för att fly ut i Hans så håller man sig rakt under ankaret, eller aningen åt vänster och använder goa slots och tunna kristaller.|fa=|ny=1}}
+
+{{led|namn=Hans|grad=5|typ=trad|text=Samma start som Greta men går upp till vänster ankare|fa=}}
+{{led|namn=Greta|grad=5+|typ=trad|text=Samma insteg som Hans men följer spricksystemet till det högra ankaret.|fa=}}
+
+{{led|namn=Rödluvan|grad=6a+ |text=Insteg via ett träd och följ handjamspricka upp tills där bultarna börjar. sport/mix|fa=|ny=1}}
+{{led|namn=Ispo |grad=6b+| text=Tunn väggtur, fin. Hittas genom att kolla på bultlinjen. |fa=Jens Larssen|typ=sport|betyg=1}}
+{{led|namn=Bänken|grad=6+|fa=Jens Larssen}}
+
+{{led|namn=Lilla Ekorren|grad=6|fa=Petra Boström}}
+{{led|namn=Husmusen|grad=6-|fa=Petra Boström}}
+
+[[Kategori:Göteborg]]

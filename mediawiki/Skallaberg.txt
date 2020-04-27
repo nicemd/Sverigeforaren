@@ -1,0 +1,65 @@
+{{info klippa
+  |lat=57.872456
+  |long=15.029788
+}}
+
+{{stub|extern=ja}}
+[[Kategori:Östergötland]][[Kategori:sva]][[Kategori:överhäng]][[Kategori:vertikalt]][[Kategori:Trad]][[Kategori:Sport]]
+
+== Allmänt ==
+
+Skallaberg är Småländska Höglandets största berg.
+Berget är som högst ca 40/50 meter och har både svaiga, vertikala och rejält överhängande leder. Berget vätter mot väst och har eftermiddagssol.
+På berget finns (110719) 64 stycken leder, allt från 3+/4- till 8a. Det finns potential för fler leder, och även ett antal boulderproblem.
+
+== Gradöversikt ==
+<BR>Tradsäkrade leder, svenska grader.
+<P>
+<TABLE cellSpacing=1 cellPadding=2 width="100%" border=1>
+<TR>
+<TD>-4-</TD>
+<TD>-5-</TD>
+<TD>-6-</TD>
+<TD>-7-</TD>
+<TD>-8-</TD></TR>
+<TR>
+<TD>8</TD>
+<TD>13</TD>
+<TD>12</TD>
+<TD>3</TD>
+<TD>1</TD></TR></TABLE> </P>
+<P> </P>
+<P>Leder som är bultade i sin helhet, franska grader. </P>
+<P>
+<TABLE cellSpacing=1 cellPadding=2 width="100%" border=1>
+<TR>
+<TD>-4-</TD>
+<TD>-5-</TD>
+<TD>-6-</TD>
+<TD>-7-</TD>
+<TD>-8-</TD></TR>
+<TR>
+<TD>2 </TD>
+<TD>3 </TD>
+<TD>15</TD>
+<TD>6</TD>
+<TD>1 </TD></TR></TABLE></P>
+
+
+
+Utmärkt förare finns att få via länkarna nedan.
+
+==Länkar==
+* [http://www.hoglandsklattrarna.se/ccms.asp?pageID=32 Höglandsklättrarnas sida om Skallaberg]
+* Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+==Karta==
+<googlemap width=350 height=300 lat="57.872456" lon="15.029788" zoom="9" type="map" controls="small">
+57.872456,15.029788,[[Skallaberg]]
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=skallaberg}}
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

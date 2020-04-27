@@ -1,0 +1,126 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Tintin-blocken==
+
+{{problem|namn=Blå Lotus|grad=-|typ=|fa=McGregor|landning=3|fadatum=2005-12-03|sopad=McGregor
+|text=}}
+{{problem|nr=11|namn=Slabqueen|grad=6C|typ=Krimp,Slab|fa=Roshed, Stålnacke|landning=2|betyg=2|fadatum=2005-11-27|sopad=Roshed, Stålnacke|text=Uppför det ljusa svaet.}}
+
+==Strandblocken==
+
+{{problem|namn=Beach Boys|grad=-|typ=|fa=McGregor,Anti|landning=3|fadatum=2005-12-03|sopad=McGregor,Anti|text=}}
+{{problem|namn=Yardarm|grad=5B|typ=|fa=Rick|landning=3|betyg=2|fadatum=2005-06-19|sopad=Rick|text=Ett ytligt dieder 3m från vänstra kanten av sydvästra sidan av "Ship Rock" på toppen av kullen ca 300m norr om Strandblocket.}}
+==Boulderåsen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Nästan som Örebro|grad=6B+|typ=Slopers,Mantling,Överhäng|fa=Heyman|landning=2|betyg=3|fadatum=2005-11-26|sopad=Heyman|startgrepp=ja|text=Etabl lågt på rampen. Upp snett åt hö och avsluta över bullen. Fin!}}
+{{problem|namn=Senilo|grad=6B+|typ=Krimp,Reach|fa=Heyman|landning=3|fadatum=2005-11-26|sopad=Heyman|uteslutningar=ja|text=Rakt upp för väggen vä om Kapten Stofil. Catch el statiskt på slutet. Areten är givetvis inte med.}}
+{{problem|namn=Kapten Stofil|grad=6C|typ=Aréte|fa=Heyman|betyg=3|fadatum=2005-11-26|sopad=Heyman|text=Den högra areten. Fin!}}
+{{problem|namn=Den tunna röda linjen|grad=6C|typ=|fa=K.Stålnacke|landning=3|betyg=3|fadatum=2006-05-17|sopad=K.Stålnacke|text="Startar layback i sprickan sen följer man sprickan till topps, (Obs man klättrar hela tiden till v om sprickan)"Variant: "..rakt upp istället för att följa sprickan blir det ca:6b, samt om man använder hyllorna till hö om sprickan 6a..."}}
+{{problem|namn=Kapten Stofil ss|grad=6C+|typ=Krimp,Aréte,Reach|fa=Roshed|landning=3|betyg=3|fadatum=2006-08-09|sopad=Roshed|startgrepp=ja|text=Start på två sidotag och sen upp via areten.}}{{problem|namn=I-landsproblem|grad=6B|typ=Highball|fa=A.Månsson|landning=3|betyg=|fadatum=2008|sopad=A.Månsson,P.Hansson|startgrepp=|text=Det tydliga diedret på baksidan om "tunna röda".}}{{problem|namn=Project...|grad=7C?|typ=Highball|fa=|landning=3|betyg=3|fadatum=|sopad=P.Hansson|startgrepp=|text=Baksidan av Hotellbloc. Det tydliga facet. Desperat, men klart möjligt..}}
+| width="250px" |
+{{problem|namn=Senilo ss|grad=6C|typ=Krimp,Reach|fa=Roshed|landning=3|betyg=2|fadatum=2006-08-09|sopad=Roshed|startgrepp=ja|text=Sittstart på list.}}
+{{problem|namn=Lädernucken|grad=6C|typ=Krimp,Reach|fa=Roshed, Heyman|landning=3|betyg=2|fadatum=2006-08-08|sopad=Roshed, Heyman|text=Starta vid Senilo. Klättra vänster via given list och sedan rakt upp.}}
+{{problem|namn=Inte så lätt ändå|grad=6B|typ=Överhäng|fa=Pudde Hansson|landning=2|betyg=2|fadatum=2008-06-19|sopad=Pudde Hansson|sittstart=ja|text=Sittstart vid de två tydliga sidepull ramperna. Rakt upp efter dessa och mantla över bullen. Fin.}}
+{{problem|namn=the Prow|grad=7A+|typ=Överhäng|fa=Pudde Hansson|landning=2|betyg=3|fadatum=2008-06-19|sopad=Pudde Hansson|sittstart=ja|text=Tydlig prow på block strax norr om "inte så lätt ändå". Sittstart och därefter rakt uppför prowen. möjligen en halvgrad svårare. Fin!}}{{problem|namn=Mästarens kant|grad=7B|typ=wall|fa=P.Hansson|landning=3|betyg=1|fadatum=2008|sopad=P.Hansson|sittstart=ja|text=variant på "inte så lätt ändå". Layback efter vänster ramp. Fin!}}{{problem|namn=Chuck|grad=6C+|typ=slopers|fa=P.Hansson|landning=3|betyg=2|fadatum=2008|sopad=P.Hansson|sittstart=ja|text=Ss nere i nischen. Därefter upp över bullen på roliga slopers.}}{{problem|namn=Kanta Rei|grad=5B?|typ=arete|fa=?|landning=3|betyg=|fadatum=|sopad=P.Hansson,M.Strängdal,T.Nygård|sittstart=|text=Ostareten på block 13, utsiktsblocket.}}{{problem|namn=Fejselifejs|grad=5A|typ=wall|fa=?|landning=3|betyg=|fadatum=|sopad=P.Hansson,M.Strängdal,T.Nygård|sittstart=|text=Facet vänster om kanta rei.}}
+| width="250px" |
+{{problem|namn=Project...|grad=8B?|typ=roof|fa=|landning=3|betyg=3|fadatum=|sopad=P.Hansson|sittstart=|text=Linjen innanför i taket bredvid Magic Line. Desperat???}}
+{{problem|namn=Magic line|grad=7C|typ=Mantling,Överhäng|fa=Pudde Hansson|landning=2|betyg=3|fadatum=2008-06-23|sopad=Pudde Hansson|sittstart=ja|text=Takproblem bortom tunna röda österut mot träsket. Synligt när man går upp på åsen, två små tak som syns i förgrunden. Följer ett tak (60-70 grader)till en slutdyno och därefter mantling. Riktigt hårt och roligt! ..det finns en ännu lägre sittstart oxå..:)}}
+{{problem|nr=521|namn=Kill-Aila|grad=6B|typ=Krimp,Spricka|fa=P.Zandelin|landning=3|betyg=2|fadatum=2006-06-18|sopad=P.Zandelin|sittstart=ja|startgrepp=ja|text=Boulderasen ligger vid bakom den övre (andra) "dammen", gå från franska blocket in i skogen snett åt höger tills ni kommer till 2st "dammar".Startar vid den nedersta listen och fortsätter efter sprickan.}}
+{{problem|nr=899|namn=From Babylon to Njarga|grad=6C|typ=Krimp,Slopers,Spricka|fa=Kristian och Pontus|landning=2|betyg=2|fadatum=2006-06-13|sopad=Kristian och Pontus|sittstart=ja|startgrepp=ja|text=ca 50 meter från Hotel njarga mot vägen. Startar vid sprickan, ev. H hand åt höger.}}
+{{problem|namn=Penny Lane|grad=6B+|typ=wall|fa=M.Strängdal|landning=3|betyg=3|fadatum=2008|sopad=M.Strängdal|sittstart=ja|text=Sittstart hö hörn. Därefter ut vä på face
+och rakt upp.}}
+{{problem|namn=le Pilier de Lucky Luke|grad=7A|typ=pillar|fa=P.Hansson|landning=3|betyg=3|fadatum=2008|sopad=P.Hansson|sittstart=|text=Den tydliga pelaren/prowen rakt upp. Fontanstil!}}
+{{problem|namn=Lilla rädda nalle|grad=6B+|typ=Överhäng|fa=Pudde Hansson|landning=3|betyg=2|fadatum=2008-06-19|sopad=Pudde Hansson|sittstart=ja|text=Kort problem på det annars höga blocket, snett bakåt mot vägen igen fr "Nästan som Örebro". Möjligen en halvgrad lättare.}}
+|}
+
+==Det nya landet==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Farbror Nilsson|grad=5B|typ=Aréte|fa=Jakob Strömner|landning=4|betyg=1|fadatum=2006-08-10|sopad=Jakob Strömner|text=Starta på och klättra upp längs areten höger om Renjävel}}
+{{problem|namn=Renjävel|grad=6B+|typ=Dyno|fa=Carl-Ola Boström|landning=3|betyg=3|fadatum=2006-08-10|sopad=Carl-Ola Boström|text=Starta med en hand på areten och andra i överhänget. Dyna till toppen på areten.}}
+{{problem|namn=Damien assis|grad=7B+|typ=|fa=Pudde Hansson|landning=4|betyg=3|sopad=Pudde Hansson|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=Damien|grad=7B|typ=Överhäng|fa=Pudde Hansson|landning=4|betyg=3|fadatum=2008-02-08|sopad=Pudde Hansson|text=}}
+{{problem|namn=Pornografi|grad=6C|typ=|fa=Pudde Hansson|landning=2|fadatum=2008-06-19|sopad=Pudde Hansson|text=Jättefint faceproblem på ett av bermudablocken, nya landet.}}
+{{problem|namn=Tic-Tac|grad=6B+|typ=|fa=Pudde Hansson|landning=1|betyg=1|fadatum=2008-06-19|sopad=Pudde Hansson|text=faceproblem på kaminblock norrut bortom den lilla viken, nya landet}}
+| width="250px" |
+{{problem|namn=Solitude|grad=7A|typ=Överhäng|fa=Pudde Hansson|landning=4|betyg=2|fadatum=2008-06-19|sopad=Pudde Hansson|sittstart=ja|text=Kort problem nära den lilla viken i nya landet strax bortom huvudblocken.}}
+{{problem|nr=522|namn=?? Öppet projekt.|grad=-|typ=Krimp,Slopers,Mantling,Överhäng|fa=???|landning=3|fadatum=2006-06-18|sopad=???|sittstart=ja|text=Startar åt höger om "Kill-Aila" och går över nosen. Sittstarten är given, super jug.}}
+{{problem|namn=Regnskugga.|grad=6a+|typ=Krimp, Mantling|fa=Cajsa Nilsson|landning=3|fadatum=2009-05-10|sopad=???|sittstart=ja|text=På andra Bermudablocket. Sittstart på lilla stenen (samma som hangeltraversen). Toppar ur mitt på väggen via krimpramp.}}
+|}
+{{problem|namn=Biofilm.|grad=6c|typ=Dyno, Mantling|fa=Johannes Ingrisch |landning=3|fadatum=2009-05-10|sopad=???|sittstart=no|text=På andra Bermudablocket. Start on the two good holds of the traverse and dyno straight up to the edge.}}
+|}
+
+== Silverfåran ==
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=1.1 Klaustrofobiska vibrationer|grad=6B|typ=slopers|fa=P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson|text=}}
+{{problem|namn=1.2 Myror i Brallan|grad=6A|typ=wall|fa=P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson|text=}}
+{{problem|namn=1.3 Project...|grad=(8A?|betyg=3|typ=roof|fa=|landning=3|fadatum=|sopad=P.Hansson|text=}}
+{{problem|namn=1.4 Project...|grad=7B?|betyg=3|typ=mantle|fa=|landning=3|fadatum=|sopad=M.Strängdal|text=}}
+{{problem|namn=4.1 Pocahontas|grad=5B|betyg=1|typ=overhang|fa=M.Strängdal|landning=3|fadatum=2008|sopad=M.Strängdal|text=}}
+{{problem|namn=4.2 John Smith|grad=6C|betyg=|typ=overhang|fa=P.Hansson|landning=3|fadatum=2008|sopad=M.Strängdal, P.Hansson|text=}}
+{{problem|namn=14.1 Gudatraversen|grad=6A|betyg=3|typ=overhang|fa=P.Hansson|landning=3|fadatum=2008|sopad= P.Hansson|text= Sittstart vänster hörn. Följ därefter jugkanten höger och mantla över till hö. Fin!}}
+{{problem|namn=14.2 Project... |grad=7C+?|betyg=3|typ=overhang|fa=|landning=3|fadatum=|sopad=P.Hansson|text=Mittenlinjen. Sanslös och vanvettigt snygg. Dock fortfarande ogjord..}}{{problem|namn=14.3 Granitastronauten|grad=6B+|betyg=|typ=overhang|fa=P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson|text=Start till höger vid det sjungande trädet, därefter rakt upp. Ganska hög..}}
+{{problem|namn=14.4 Black Slabbath|grad=5C|betyg=1|typ=slab|fa=M.Strängdal|landning=3|fadatum=2008|sopad=M.Strängdal, P.Hansson|text=Uppför svaet utan de frestande greppen åt höger.}}
+| width="250px" |{{problem|namn=8.1 Goliat|grad=7A|betyg=|typ=overhang|fa=D.Nutti|landning=3|fadatum=2008|sopad=D.Nutti,M.Strängdal|text=}}
+{{problem|namn=8.2 Electrolux|grad=7B|betyg=|typ=prow|fa=P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson|text=}}
+{{problem|namn=9.1 Mimmi Pigg|grad=6A|betyg=3|typ=overhang|fa=M.Strängdal|landning=3|fadatum=2008|sopad=M.Strängdal|text=}}
+{{problem|namn=9.2 Project...|grad=7B?|betyg=|typ=overhang|fa=|landning=3|fadatum=2008|sopad=P.Hansson|text=}}
+{{problem|namn=11.1 doj-dojs Hotell|grad=7B+|typ=slopers|fa=Pudde Hansson|landning=4|betyg=3|fadatum=2008|sopad=Pudde Hansson|text=Start på läppen via tydliga sluttare. Därefter rakt upp vilket är betydligt svårare än det ser ut att vara..}}
+{{problem|namn=12.1 Peoples front of Judeen|grad=6B+|betyg=2|typ=|fa=M.Strängdal,P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson,M.Strängdal|text=Sittstart på listerna, därefter upp åt vänster och mantla. Fin!}}
+{{problem|namn=13.1 Bite the bullet|grad=4|betyg=|typ=slab|fa=M.Lagerquist|landning=3|fadatum=2008|sopad=M.Lagerquist|text=Det fina svaet med sprickan längst till höger}}{{problem|namn=13.2 Believe it|grad=6A|betyg=2|typ=slab|fa=M.Lagerquist|landning=3|fadatum=2008|sopad=M.Lagerquist|text=Eliminiation på föregående. Svaet utan sprickan. Fin!}}{{problem|namn=13.3 Project...|grad=7A?|betyg=|typ=slab|fa=|landning=3|fadatum=|sopad=P.Hansson|text=svaet längst till vänster. Fin och hög..{{problem|namn=13.4 Alla vill väl till Himmelen|grad=5-6A|betyg=2|typ=Highball|fa=P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson|text=Rakt uppför väggen med spricka och arete, utan arete 6A. Ta´t lugnt på toppen..}}}}
+| width="250px" |{{problem|namn=15.1 Project...|grad=7C+?|betyg=|typ=overhang|fa=|landning=2|fadatum=|sopad=P.Hansson|text=Start vid arete hö. därefter in i hänget och sedan rakt upp.}}
+{{problem|namn=15.2 Dödslängtan|grad=6B|betyg=2|typ=Highball/slab|fa=M.Lagerquist|landning=2|fadatum=2008|sopad=M.Lagerquist|text=Svaet höger om 15.1. Högt och fint!}}
+{{problem|namn=15.3 Det förlovade landet|grad=6B|betyg=3|typ=overhang|fa=M.Lagerquist|landning=3|fadatum=2008|sopad=M.Lagerquist|text=Sittstart vid spricka/list. Drag upp till läpp, och mantla över.Fin!}}
+{{problem|namn=16.1 Varning för klämrisk|grad=6B|betyg=2|typ=wall|fa=M.Strängdal|landning=3|fadatum=2008|sopad=M.Strängdal|text=Sittstart nere i hålet. Därefter vänster och upp efter succesivt bättre grepp. Trixig start.}}
+{{problem|namn=16.2 Project...|grad=8A?|betyg=3|typ=arete|fa=|landning=2|fadatum=|sopad=|text=Den vackra areten. Ser kärv ut i början..}}
+{{problem|namn=20.1 Project...|grad=7?|betyg=|typ=overhang|fa=|landning=3|fadatum=|sopad=P.Hansson|text=Borstad och klar! Otroligt snygg linje, dock fortfarande ogjord!}}
+{{problem|namn=21.1 Medvind|grad=5C|betyg=|typ=wall|fa=M.Lagerquist|landning=3|fadatum=2008|sopad=M.Lagerquist|text=Sittstart. Upp till lutande ramp.}}
+{{problem|namn=21.2 Motvind|grad=6B|betyg=|typ=wall|fa=M.Lagerquist|landning=3|fadatum=2008|sopad=M.Lagerquist|text=Sittstart. Svårare än det ser ut.}}
+{{problem|namn=21.3 Ali Jaffa|grad=7A|betyg=1|typ=dyno|fa=P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson|text=Hoppstart från undercling. Sedan kort hård dyno till topp.}}
+{{problem|namn=21.4 ???|grad=6A?|betyg=|typ=wall|fa=M.Lagerquist|landning=3|fadatum=2008|sopad=M.Lagerquist|text=}}
+{{problem|namn=22.1 Esperanza|grad=7A|betyg=3|typ=overhang|fa=P.Hansson|landning=3|fadatum=2008|sopad=P.Hansson|text=Sittstart. Följ juggstegen höger och mantla över det borstade stråket. Svinhäftig!}}
+|}
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Aretha|grad=7A|typ=Aréte|fa=Heyman|landning=3|betyg=3|fadatum=2005-11-26|sopad=Heyman|text=Den tydliga och höga areten.}}
+{{problem|namn=Månen tur&retur|grad=-|typ=|fa=McGregor|landning=3|fadatum=2005-12-03|sopad=McGregor|text=}}
+{{problem|namn=Det svarta guldet|grad=-|typ=|fa=McGregor|fadatum=2005-12-03|sopad=McGregor|text=}}
+{{problem|namn=Enhörningens hemlighet|grad=-|typ=|fa=McGregor|landning=3|fadatum=2005-12-03|sopad=McGregor|text=}}
+{{problem|namn=Plan 714 till Sydney|grad=-|typ=|fa=McGregor|landning=3|fadatum=2005-12-03|sopad=McGregor|text=}}
+{{problem|namn=Oyster|grad=6A|typ=Krimp,Slopers,Mantling|fa=Pontus|landning=3|betyg=2|fadatum=2006-06-13|sopad=Pontus|sittstart=ja|startgrepp=ja|text=Från vägen första problemet vid "Franska" blocket. Två start grepp sittandes vänster om nosen, avslutas med mantling.}}
+{{problem|namn=Omen sittstart|grad=6A|typ=|fa=Chrille|landning=2|fadatum=2006-06-16|sopad=Chrille|sittstart=ja|text=}}
+{{problem|namn=Omen|grad=5B|typ=|fa=Chrille|landning=2|betyg=3|fadatum=2006-06-16|sopad=Chrille|text=Överhänget}}
+| width="250px" |
+{{problem|namn=Kokain|grad=6A+|typ=Mantling,Överhäng,Slab|fa=Chrille|landning=1|betyg=3|fadatum=2006-06-16|sopad=Chrille|sittstart=ja|text=Sitt, ta i till slaben, sen toehooks dyno till jug sedan mantling. 45% överhäng.}}
+{{problem|namn=French connection Sittstart|grad=7A+|typ=Krimp,Slopers,Dyno|fa=Pudde|landning=2|betyg=3|fadatum=2006-06-16|sopad=Pudde|sittstart=ja|text=Sittstarten på den högra Dynolinjen.}}
+{{problem|namn=Do it|grad=5A|typ=Krimp,Pinch|fa=CB|landning=1|betyg=2|fadatum=2006-06-16|sopad=CB|sittstart=ja|text=En rörelse sen jugar, sitt, Händerna långt till höger och vänster och ta i.}}
+{{problem|namn=French connection|grad=6A|typ=Dyno|fa=CB|landning=2|betyg=3|fadatum=2006-06-16|sopad=CB|text=Etablera dig och hoppa. Ligger på Franska blocket.}}
+{{problem|namn=Hynda|grad=6A|typ=Dyno|fa=CB|landning=2|fadatum=2006-06-16|sopad=CB|text=Etablera dig och hoppa, Franska blocket}}
+{{problem|namn=För fet|grad=6A|typ=Slab,Jug|fa=CB|landning=1|fadatum=2006-06-16|sopad=CB|sittstart=ja|text=Jugg hyllan upp på Slab sen lång rörelse till jug. Längst till höger på Franska blocket.}}
+| width="250px" |
+{{problem|namn=714 sittstart|grad=6A|typ=Slopers|fa=Chrille|landning=1|betyg=3|fadatum=2006-06-16|sopad=Chrille|sittstart=ja|text=}}
+{{problem|namn=Jah|grad=7A+|typ=Dyno|fa=Carl-Ola Boström|landning=4|betyg=3|fadatum=2006-08-08|sopad=Carl-Ola Boström|startgrepp=ja|text=Från Kill-Aila, rakt norrut 100m uppe på kammen.}}
+{{problem|namn=Kaffesump|grad=4C|typ=Aréte|fa=Jakob Strömner|landning=5|fadatum=2006-08-09|sopad=Jakob Strömner|text=Ligger på samma block som Jah}}
+{{problem|namn=Kålle min brajja|grad=5C|typ=Slab|fa=P.Zandelin|landning=3|fadatum=2006-06-28|sopad=P.Zandelin|text=Vid BoulderAsen, mitten slabben efter linjen.}}
+{{problem|namn=Solitude|grad=7A|typ=Överhäng|landning=5|betyg=2|fadatum=2007-07-07|text=}}
+{{problem|nr=511|namn=Oyster|grad=6A|typ=Krimp,Slopers,Mantling|fa=P.Zandelin|landning=3|fadatum=2006-06-13|sopad=P.Zandelin|sittstart=ja|startgrepp=ja|text=Från vägen första problemet vid "Franska" blocket. Två start grepp sittandes vänster om nosen, avslutas med mantling.}}
+|}
+[[Kategori:Kiruna]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

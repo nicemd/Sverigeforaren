@@ -1,0 +1,52 @@
+{{utkast}}
+== Introduktion ==
+
+Nya berget bjuder på väggklättring med mycket grepp och steg. Klippan är knappt 20 meter hög, nästan lodrät till svagt överhängande och alla leder utom en är borrbultade. Firningsankare utan krångel finns på alla leder. 
+
+Klippan är vänd mot syd eller sydöst och har sol framemot tre. Nya berget ligger i vad som verkar vara en grusgrop. Vid första åsynen syns bara övre halvan av berget och den ser inte så imponerande ut. Men lugn, anmarschens 20 meter tar dig ner i gropen och klippan blir rätt hög. Sommartid, när solen står högt på himlen kan det bli rejält varm i gropen. Sen höst och tidig vår här man vill ha lite värme orkar inte solen upp över trädtopparna. Efter långvariga regn har nya berget svårt att torka då vatten rinner ner från mossmarkerna ovanför. Våren 2004 var det inte riktigt torrt förrän i slutet av mars.
+
+== Karaktär ==
+
+Nya berget är en betydligt mindre klippa än Gamla berget, ca femton meter hög, mestadels vertikal och alldeles översållad med grepp.
+
+Klippan utvecklades i huvudsak under perioden 92-93.
+I dagsläget finns det 12 sportturer och en mixad tur uppsatta. Här råder lyckligtvis inte någon markägarkonflikt, så det är bara att klättra på.
+
+Nya berget är en ypperlig sportklippa för de som rör sig i den lägre delen av graderingsskalan. Flertalet av turerna är i graderna 6a-6b. Nästan alla leder är väl värda att göra, undvik dock leden Ringfingerpullan -obscent namn på obscen led. Graderingen vid nya berget upplevs av många som aningen softa, men det kan ju vara trevligt i dessa tider då det gått prestige i undergradering...
+
+Klippan ligger sydostvänd (solbelyst fram till ca 14) och är vindskyddad, vilket betyder kort torktid och ypperliga förhållanden under tidig vår och sen höst. Varma högsommardagar bör förslagsvis tillbringas på annat håll.
+
+== Vägbeskrivning ==
+
+Från Göteborg tag väg 40 mot Borås. Sväng av mot Hyssna, väg 156. Vid Hyssna vänster mot Bollebygd/Seglora därefter en mindre väg till Seglora (ca. en mil)
+
+Från Borås: ta gamla Varbergvägen mot Viskafors. Före Seglora kyrka höger mot Hyssna. Efter bron håller du höger för att komma till Nya klippan. Den dyker upp på vänster sida efter ca 3-400 m. För att komma till Gamla berget, tag istället vänster efter bron. Kör sedan till nästa t-korsning (ca 1 km) där du tar höger. Efter ett tag dyker Gamla berget upp på höger sida efter att man passerat en bondgård på vänster sida och kör ut på ett mer öppet parti.
+
+{{tryckt förare|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+== Access {{access}} ==
+
+
+== Leder ==
+{{led|nr=|namn=Camino el Rey|grad=7|betyg=|längd=15|fa=[[Mattias Karlsson]][[1995|-95]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Starlet|grad=8-|betyg=|längd=15|fa=[[Jens Larsson]][[1998|-98]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Puhs horna|grad=5|betyg=|längd=10|fa=[[Rikard Andreasson]], [[Morgan Windle]][[1993|-93]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Strawberry fields|grad=6|betyg=|längd=15|fa=[[Mattias Karlsson]][[1993|-93]]|bultar=|typ=sport|text=}}
+{{led|nr=|namn=Historiskt fet|grad=6-|betyg=|längd=15|fa=[[Rikard Andreassson]][[1993|-93]]|bultar=|typ=sport|text=}}
+{{led|nr=|namn=Henry|grad=6|betyg=|längd=15|fa=[[Tomas Julin]][[1992|-92]]|bultar=|typ=sport|text=}}
+{{led|nr=|namn=Lenas led|grad=6-|betyg=|längd=15|fa=[[Lena Wegrelius]][[1992|-92]]|bultar=|typ=sport|text=}}
+{{led|nr=|namn=Bjornen sover|grad=7-|betyg=|längd=15|fa=[[Mikael Wegrelius]][[1993|-93]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Ringfingerpullan|grad=7|betyg=|längd=|fa=[[Mikael Wegrelius]][[1994|-94]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Pubic enemy|grad=?|betyg=|längd=|fa=|bultar=|typ=|text=}}
+{{led|nr=|namn=Dansa din djavul|grad=7+|betyg=|längd=15|fa=[[Petter From]][[1992|-92]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Jameson|grad=6c+|betyg=|längd=15|fa=[[Kristoffer Linsér]][[2013|-13]]|bultar=|typ=sport|text=Rakt upp, delar ankare och en bult med Svartenbrandt.}}
+{{led|nr=|namn=Svartenbrandt|grad=7-|betyg=|längd=17|fa=[[Petter From]][[1992|-92]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Pa rymmen|grad=6+|betyg=|längd=15|fa=[[Jens larssen]][[1998|-98]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Ursut|grad=6|betyg=|längd=15|fa=[[Bjorn Andreasson]][[1992|-92]]|bultar=|typ=|text=}}
+{{led|nr=|namn=Arkiv X|grad=6+|betyg=|längd=15|fa=[[Mattias Karlsson]][[1995|-95]]|bultar=|typ=|text=}}
+
+
+[[category:Barnvänligt]]
+[[category:sport]]
+[[category:Vertikalt]]
+[[Kategori:Västergötland]]

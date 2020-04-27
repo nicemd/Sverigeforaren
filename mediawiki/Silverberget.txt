@@ -1,0 +1,28 @@
+{{info klippa
+  |lat=57.98427
+  |long=16.12127
+}}
+
+{{stub|extern=ja}}
+[[Kategori:trad]]
+[[Kategori:sva]]
+
+Snyggt velodromformad klippa, med ett trettiotal leder. Främst traditionellt säkrade svaleder.
+
+== Vägbeskrivning ==
+<googlemap lat="57.98120" lon="16.12127" zoom="10" type="map">
+57.98427,16.12127,Silverberget
+57.98100,16.12223,Parkering
+</googlemap><br>
+'''Från Västervik'''<br>
+Kör mot överum, sväng vänster mot Dalhem. Följ sedan skylten "Kila 5"
+
+== Leder ==
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+Förare av [http://www.vastervikclimbing.se/klattercentret/pdfer/ Västervik Climbing].
+[[Kategori:Småland]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

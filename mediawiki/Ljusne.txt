@@ -1,0 +1,13 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|nr=1|namn=Ljusne lives|grad=7B|typ=Krimp,Mantling|fa=David Hallman, Ronny Andersson|landning=3|betyg=1|fadatum=2006-08-19|sopad=David Hallman, Ronny Andersson|sittstart=ja|startgrepp=ja|text=Starta vid högra sidan av den den större väggen, gå in vänster mot de givna crimparna mitt på vägen och rakt upp från dem.}}
+{{problem|nr=2|namn=A mans dream|grad=7A|typ=Krimp,Slopers,Mantling|fa=David Hallman, Ronny Andersson|landning=3|betyg=1|fadatum=2006-08-19|sopad=David Hallman, Ronny Andersson|startgrepp=ja|text=Starta på crimparna mitt på väggen som du använder på "Ljusne lives". Gå rakt upp och åt vänster.}}
+{{problem|nr=3|namn=Fraskalas|grad=7B|typ=Krimp|fa=Mattias Flodin|landning=3|betyg=1|fadatum=2006-10-06|sopad=Mattias Flodin|sittstart=ja|text=På andra sidan vägen om Ljusne lives.Väggklättring på crimpers.}}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

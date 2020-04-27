@@ -1,0 +1,64 @@
+{{info klippa
+  |lat=59.783134
+  |long=17.576569
+}}
+
+{{komplett}}
+[[Kategori:Trad]]
+[[Kategori:sva]]
+[[Kategori:Uppland]]
+
+==Allmänt==
+Ett trivsamt litet sva med rejäla sprickor.
+
+== Introduktion ==
+Utmärkt klippa för att lära sig leda trad. Klippan vätter mot sydväst och en öppen åker, vilket ger gott om kvällssol. Topprepsmöjligheterna är goda, men ta med ordentligt långa slingor och/eller några kilar, eftersom träden står en bit från klippkanten. Klippan är 20 m lång och höjden varierar mellan 3 och 8 meter, så om man är utrustad med crashpad och en god portion ''cojones'' kan man lämna repet hemma. Uppsalas bästa efter-jobbet-klippa?
+
+== Rekommenderade leder ==
+{{Ledlänk|namn=Talangjakten}}<br>
+{{Ledlänk|namn=Birdie Jamjam}}<br>
+{{Ledlänk|namn=Fissure Grund}}
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.783134" lon="17.576569" zoom="12" type="map" controls="small">
+59.783134,17.576569,[[Dalkarlskärret]]
+</googlemap>
+</div>
+Ta Dag Hammarskjölds väg söderut från centrum och vid trafikljuset vid Ulleråker sväng av till höger på Vårdsätravägen. Forsätt några kilometer fram till en avtagsväg skyltad mot Hammarskog och tag av där över bron (Lurbo bro). Kör vidare till avtagsvägen skyltad till Uppsala Näs på vänster sida. Ta denna väg 1km, sväng sedan till höger på grusvägen som är bakvägen till Hammarskog. Efter ett par kilometer ser du parkeringen till Dalkarlskärret på vänster sida. Korsa vägen och gå 10 minuter nordväst runt sjön. Du kommer att se väggen på höger sida. 
+
+'''Alternativ''': istället för att svänga vänster mot Uppsala Näs, ta höger i den korsningen, och ta sen in vänster på en grusväg. Passera några hus och åk vidare in i skogen. Du finner snart en pakeringsficka på höger sida -- ställ dig där eller på vändplanen något längre fram. Följ stigen mittemot den första parkeringsfickan i 5-10 minuter (finns röda markeringar). Klippan ligger på vänster sida i åkerkanten.
+
+== Leder ==
+[[Bild:Dalkarlskarret_topo_small.jpg|frame|[[Dalkarlskärret/Center|Dalkarlskärrets huvudvägg]]. Foto: Mark Harris]]
+Listade från vänster till höger när man står framför klippan. Inte en fullständig beskrivning: fyll gärna i dom som saknas!
+
+{{led|nr=4|namn=Semper|grad=4-|typ=trad}}
+
+{{led|nr=5|namn=Talangjakten|grad=4|fa=Carl-Göran Brask 1976|typ=trad}}
+
+{{led|nr=6|namn=Balansnisse|grad=4|fa=Carl-Göran Brask 1976|typ=trad}}
+
+{{led|nr=7|namn=Bullen|grad=7-|fa=Åke Danielsson 1987|typ=trad}}
+
+{{led|nr=8|namn=På tå häv|grad=6|fa=Rick McGregor 1979|typ=trad}}
+
+{{led|nr=9|namn=Fissure Grund|grad=5|fa=Erik Grund 1977|typ=trad}}
+
+{{led|nr=|namn=Fissure Very Grund Indeed|grad=A2(+)|fa=Markus Nyström 2010|typ=trad}}
+
+{{led|nr=|namn=Se dig inte om!|grad=7+/8-|fa=Wigren & Olofsson 2011|typ=trad}}
+
+{{led|nr=10|namn=Birdie Jamjam|grad=3+|typ=trad}}
+
+{{led|nr=11|namn=(namnlöst dieder)|grad=4|typ=trad}}
+
+{{led|nr=|namn=Hoppas ingen ser mig|grad=A2|fa=Markus Nyström 2009|typ=trad}}
+
+{{led|nr=12|namn=Arbetets döttrar|grad=5-|typ=trad|text=Syns ej på bilden. C:a 5 m höger om 11.}}
+
+== Länkar ==
+Mark Harris stod för mycket av ursprungsmaterialet till den här sidan, och hans sida om [http://alpha2.bmc.uu.se/mark/climbing/climbing_areas_swedish.html klättring kring Uppsala] är ovärderlig om man sitter fast i den uppländska leran och undrar vart alla klippor tagit vägen.
+
+På www.bergsklattring.nu hittas en annan förare som med lite tydligare ledbeskrivningar.
+[http://www.bergsklattring.nu/index.php?pg=/showpage.php&t=142 länk till förare]

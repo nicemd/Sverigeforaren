@@ -1,0 +1,31 @@
+{{info boulderområde|lat=64.011337|long=16.286888}}
+[[Bild:Flybäcken.jpg]]
+
+==Allmänt==
+Område med 20-30 flyttblock mitt mellan Hoting och Rossön. Stenkvaliteten är till stor del vittrad och vass men det finns även sånt som är snällt för fingrarna. 
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap version="0.9" lat="64.011337" lon="16.286888" type="map" zoom="13" width="300" height="250" controls="small">
+64.012541, 16.294441, Flybäcken boulderområde
+</googlemap>
+</div>
+Från Rossön riktning Hoting, åk väg 346 (som om du hade nått val), passera skylten Flybäcken och åk över järnvägen. De första blocken är väl synliga från vägen efter ett 50-tal meter. Parkera bilen på en liten väginfart ca 100m framåt - ur vägen för vägen. Se till att bilar som vill in på skogsbilvägen kommer förbi.
+
+Från Hoting, well, ... du har kört för långt när du kommer till järnvägen, så vänd och följ Rossöbeskrivningen.
+
+{{clear}}
+
+==Problem==
+[[Bild:Flybäcken_brontostenen.jpg|thumb|300px|right|Brontostenen, områdets största sten. Oklättrad, med potential för några mycket spektakulära problem på överhänget på baksidan.]]
+Några problem finns målade på stenarna med små pilar, andra problem är gjorda men inte uppmärkta. Denna sida kommer kompletteras med mer info efterhand.
+
+[[Bild:Flybäcken_lillbronto.jpg|thumb|300px|right|[[Användare:Peblin|Peblin]] på Lillbrontostenen.]]
+Lillbrontostenen ligger precis söder om Brontostenen. Gå rakt upp, 4 (FA [[Användare:Peblin|Peblin]]). 
+
+[[Bild:Flybäcken_kantblocket.jpg|thumb|300px|right]]
+Kantblocket ligger rätt ensamt nordost om Brontostenen. Följ den överhängande kanten till topps, 6A (FA [[Användare:Peblin|Peblin]]). Fint problem men varning för riktigt elakt vass sten - räkna med skärsår vid uttoppningen.
+
+[[Kategori:Bouldering]]
+[[Kategori:Ångermanland]]
+[[Kategori:Utkast]]

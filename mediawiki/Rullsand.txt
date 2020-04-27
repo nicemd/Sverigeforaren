@@ -1,0 +1,23 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Brändablocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Gnistan|grad=5C|typ=Mantling,Jug|fa=Robert W, Tommi M|landning=4|fadatum=2007-03-16|sopad=Robert W, Tommi M|sittstart=ja|startgrepp=ja|text=Startar på juggen på väggen sidan bort från vägen, sittstart, startgrepp.går rakt upp till en jug och mantlar sig sen upp.}}
+{{problem|nr=2|namn=Dvärgen Brinner|grad=5C|typ=Krimp,Jug|fa=Robert W|landning=4|fadatum=2007-03-16|sopad=Robert W|sittstart=ja|startgrepp=ja|text=Startar på samma grepp som Gnistan, går sen åt vänster till en krimp sen är det samma avslut.}}
+| width="250px" |
+{{problem|nr=3|namn=Fire Up|grad=6C|typ=Aréte,Jug|fa=Robert W|landning=4|fadatum=2007-03-16|sopad=Robert W|sittstart=ja|startgrepp=ja|text=Startar på samma grepp som gnistan, går åt vänster och slutar upp på aréten på hörnet över stenen som ligger på backen.}}
+{{problem|nr=4|namn=Slopers On Fire|grad=6B|typ=Krimp,Heel hook|fa=Robert W|landning=4|fadatum=2007-03-16|sopad=Robert W|sittstart=ja|startgrepp=ja|text=Startar på samma grepp som gnistan, går ut till krimpen till vänster sen en heel hock på start greppet och slutar med en slopig ut toppning ovanför.}}
+| width="250px" |
+{{problem|nr=5|namn=Eldklotet|grad=6C+|typ=Överhäng|fa=Robert W|landning=4|fadatum=2007-03-16|sopad=Robert W|sittstart=ja|text=På höger sida av stenen sidan mot vägen, sittande med benen under överhänget och slutar ovanför överhänget.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

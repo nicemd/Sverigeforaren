@@ -1,0 +1,45 @@
+<!-- Detta gör det möjligt att markera klippan på kartor -->
+{{info klippa
+  |lat=59.539159
+  |long=12.10173
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{boulderstub}}
+
+==Allmänt==
+Fåtal problem på boulderställe mellan Årjäng och Koppom. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.560767" lon="12.216797" type="map" zoom="9">
+59.539159, 12.10173, Vännacka
+</googlemap>
+
+</div>
+
+Utgå från kartan för att hitta. Syns direkt från vägen. Parkera längre fram vid tjärnet. 
+
+==Arvika Boulderförare==
+
+Bilder, korrekta beskrivningar osv hittas på Arvika boulderförare som hittas på följande länk.
+[http://27crags.com/crags/vannacka http://27crags.com/crags/vannacka] 
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:bouldering]]
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Värmland]]

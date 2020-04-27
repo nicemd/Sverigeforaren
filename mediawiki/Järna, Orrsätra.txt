@@ -1,0 +1,74 @@
+{{komplett}} 
+
+== '''Allmänt''' ==
+
+Nytt boulderområde utanför Järna. Blocken hittades våren 2009 och en del har utvecklats. 
+Två feta block, några mindre och en del små väggar. De stora blocken är de intressantaste med flera mycket överhängande sidor. Till och med lite tak finns. Tyvärr ganska vass sten på sina ställe och lite grepplöst. Potential för flera nya leder, främst lite hårdare. Alla projekt är självklart öppna. 
+
+Länge bort i området finns även en del kompakta väggar med möjlig potential för repklättring. En annan samling block varav ett riktigt as ligger ca 1km närmre Järna. Vintertid syns de över en åker på höger sida (om man åker från Järna). Här har inget gjorts ännu.
+
+== Vägbeskrivning ==
+
+Blocken ligger i ett fint lövskogsområde några km från Järna på vägen mot Nykvarn. Block A ligger ca 50meter från vägen upp i en backe men trots detta är riktigt svåra att se under sommarn när det är löv på träden. Detta är antagligen förklaringen till att de inte hittats förrän nu. Om man kommer från Järna ligger blocken på höger sida direkt efter en grusväg som tar av åt höger skyltad "Backa". Parkera väl åt sidan på grusvägen. Parkera ej på traktor vägen i kanten på åkern då denna används av bonden.
+
+Karta: [http://www.hitta.se/LargeMap.aspx?z=3&mp=%3Cpts%3E%3Cpt%20x%3D%221596164%22%20y%3D%226555316%22%20i%3D%22http%3A//www.hitta.se/images/point.png%22%3E%3Ct%3EOrrs%E4tra%20boulder%3C/t%3E%3C/pt%3E%3C/pts%3E]
+
+== Översikt ==
+(OBS! Alla små block är ej utritade)
+
+[[Bild:Översikt.jpg]]
+
+== Block A ==
+
+[[Bild:Block_A.jpg]]
+
+
+Det största blocket i området. 2 fina arreter, en grotta och lite annat väntar på bestigning.
+
+{{problem|nr=A:1|namn=Miss Warrior|grad=6B+|sittstart=|text=(Nils Å. 09)}}
+{{problem|nr=A:2|namn=-|grad=-|sittstart=|text= Öppet projekt (borstat)}}
+{{problem|nr=A:3|namn=|grad=-|sittstart=|text= Öppet projekt (borstat)}}
+{{problem|nr=A:4|namn=|grad=-|sittstart=|text= Öppet projekt}}
+{{problem|nr=A:5|namn=|grad=-|sittstart=|text= Öppet projekt}}
+{{problem|nr=A:6|namn=?|grad=?|sittstart=|text= Hoppstart till kanten, Johan L. -09
+}}
+{{problem|nr=A:7|namn=|grad=-|sittstart=|text=Öppet projekt}}
+
+== Block B ==
+
+[[Bild:Block_B.jpg]]
+
+Ett litet block om ligger nedanför den lillla tvärväggen mellan block A och block C. Två problem gjorda, möjligen plats för ett till.
+
+{{problem|nr=B:1|namn=Bestigningen|grad=6A|sittstart=ja|text=(Jenny K. 09)}}
+{{problem|nr=B:2|namn=Kärleksnästet|grad=6A+|sittstart=ja|text= (Jenny K. 09)
+}}
+
+
+
+
+== Block C och D ==
+
+[[Bild:Block_C_o_D.jpg]]
+
+'''''Block C:'' Det andra stora blocket i området. Två riktigt överhängande sidor och en stor slabb. Potential för fler hårda turer.'''
+
+{{problem|nr=C:1|namn=Tingeling|grad=6C|sittstart=ja|text=Ståstart 6A+ (Nils Å. 09)}}
+{{problem|nr=C:2|namn=Tarzans son|grad=6A|sittstart=|text= Start vi sprickan sen rakt upp. (Ola T. 09) Sittstarten har projekt namn Tarzan (öppet) mycket hårdare }}
+{{problem|nr=C:3|namn=Hangelkammrennen|grad=6A|sittstart=|text= Ståstart längst till vänster travers längs rampen och sedan upp. Riktigt fint! Hyfsat hög så padda stenen.(Nils Å. 09)}}
+
+
+
+'''''Block D'': Några enklare uppvärmningsproblem'''
+{{problem|nr=D:1|namn=Dä ä bar å åk|grad=4|sittstart=ja|text=Start på de tydliga sidotagen sen rakt upp (Nils Å. 09)}}
+{{problem|nr=D:2|namn=Blå pist|grad=5|sittstart=ja|text=Start med vh på sidotaget och hh på slopen. Rakt upp. (Ola T. 09)}}
+{{problem|nr=D:3|namn=?|grad=5|sittstart=ja|text=Start med båda händer på den låga slopern klättra snett upp vänster på greppen. (Jenny K. 09)}}
+{{problem|nr=D:4|namn=Albins led|grad=4|sittstart=ja|text=Start som D3 men rakt upp.(Ola T. 09)}}
+
+[[Bild:Block_C.jpg]]
+
+Nils på Hangelkammrennen, block C
+
+[[Bild:Tarzans_son.jpg]]
+
+Ola på Tarzans son, block C

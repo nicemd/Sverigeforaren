@@ -1,0 +1,69 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+ 
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Liten men ack så fin klippa för den som gillar sprickklättring av hög kvalité, ofta väldigt ihållande. På senare år har en ny hård och fin led gjorts, och klippan förtjänar mer besök!
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+</div>
+<googlemap version="0.9" lat="63.052412" lon="15.147357" zoom="15">
+63.050078, 15.147099
+Mårtens Blomtorn
+</googlemap>
+
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+'''Vägbeskrivning.'''
+Från Brunflo, åk mot Rissna tills det står Singsjöböle på en skylt. Sväng in till Singsjöböle och ta den första   skogsbilvägen åt vänster. Efter ungefär 3-4 km kommer en korsning, sväng åt höger. Efter du kört ca 2km håll utsikt efter där vägen rundar sig efter en liten tjärn åt vänster. Sedan kommer en större tjärn där berget bokstavligen ligger ovanför tjärnen. <div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+A: Mårtens vänstra, -6
+B: Eagle, 6
+C: Mårtens högra, -7
+D: Karis superspricka, -7
+E: Aeroflot, 7+
+
+{|
+|- valign="top"
+| width="350px" |
+
+
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+
+<!-- [[Kategori:trad]] -->
+
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Jämtland]]

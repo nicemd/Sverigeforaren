@@ -1,0 +1,27 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Idefix|grad=7A+|typ=Krimp,Överhäng,Dyno|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2003-04-02|sopad=Christofer Björklund & Fredrik Bodin|sittstart=ja|text=Sittstart under den överhängande arêten. Går rakt upp, avslutas när du står ovanför överhänget.}}
+{{problem|namn=Homeschool|grad=7B|typ=Slopers,Travers V->H|fa=Christofer Björklund|landning=3|betyg=3|fadatum=2003-04-02|sopad=Christofer Björklund|sittstart=ja|startgrepp=ja|text=Sittstart. Börjar med händerna på den slopiga hyllan. Traversera sedan åt höger bort till arêten och gå upp där}}
+{{problem|namn=Doglegg|grad=7A|typ=Krimp|fa=Christofer Björklund|landning=2|betyg=1|fadatum=2003-04-02|sopad=Christofer Björklund|startgrepp=ja|text=Börjar med undercling går sedan upp med  dragning åt vänster.}}
+{{problem|namn=Slice|grad=6C|typ=|fa=Fredrik Bodin|landning=2|betyg=1|fadatum=2003-04-02|sopad=Fredrik Bodin|variant=ja|startgrepp=ja|text=Statisk variant på "Hole in one", där man går upp via underclingen.}}
+| width="250px" |
+{{problem|namn=Hole in one|grad=6A|typ=Dyno|fa=Christofer Björklund ?|landning=2|betyg=3|fadatum=2003-04-02|sopad=Christofer Björklund ?|startgrepp=ja|text=Dynoproblem från den tydliga listen upp till hålet.}}
+{{problem|namn=Lifeline|grad=6B+|typ=|fa=Christofer Björklund|landning=2|betyg=3|fadatum=2003-04-03|sopad=Christofer Björklund|sittstart=ja|startgrepp=ja|text=Sittstart med händerna i den stora pocketen, följer sedan arêten upp.}}
+{{problem|namn=Stand fast|grad=6B|typ=Krimp,Slopers|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2003-04-03|sopad=Christofer Björklund|sittstart=ja|startgrepp=ja|text=Startar med händerna på slopelist till höger om arêten.}}
+{{problem|namn=Pelvis|grad=6A|typ=|fa=Christofer Björklund|landning=2|betyg=1|fadatum=2003-04-03|sopad=Christofer Björklund|text=Springstart eller hoppstart upp till två gastongrepp på plattan, därefter rakt upp.}}
+| width="250px" |
+{{problem|namn=Värmaren|grad=5B|typ=|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2003-04-03|sopad=Christofer Björklund|startgrepp=ja|text=Börjar med händerna på rampen, går rakt upp.}}
+{{problem|namn=Johan von Skåne|grad=7A+|typ=Krimp,Dyno|fa=Johan Andersson|landning=1|betyg=2|fadatum=2003-07-03|sopad=Christofer Björklund|sittstart=ja|variant=ja|text=Sittstartsvariant på "Värmaren".}}
+{{problem|namn=Kalix|grad=7A+|typ=Krimp,Mantling|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-07-03|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart vid arêten. Höger hand på bra sidepull och vänster hand runt arêten, går rakt upp.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

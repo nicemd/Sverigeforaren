@@ -1,0 +1,55 @@
+{{info klippa
+  |lat=59.823530058817724
+  |long=17.405476570129395
+}}
+
+{{komplett}}
+==Allmänt==
+Ungefär 10m hög klippa med mest väggklättring, och ett par fina fingersprickor. 
+
+== Beskrivning ==
+
+På Hagbyberget finns inga bultar än så länge, och det har inte klättrats så mycket. Ett mycket trevligt ställe med öppet läge, och bergen har suverän friktion. Men det finns inte så många leder, så det kan lätt bli trångt.  För att behålla det goda förhållandet med ägaren, bör klättrarna hålla sig borta under oktober månaden.
+
+Det finns en förare över berget, kontakta Björn.
+
+== Rekomenderade leder ==
+
+{{ledlänk|namn=Bärfisen}} 5+, 7m. Fin layback.
+
+== Vägbeskrivning ==
+Från Uppsala ta väg 72 till Vänge och sväng till vänster mot Hagby. Kör 5km söderut tills du ser fotbollsplanen på väster sidan. Strax innan planen ta vägen till vänster skyltat till Nyborg och kör 200m till öppningen på höger sidan. Där kan man parkera om den inte är i bruk för timmerlagring. Gå sedan 100m längre, och ta av på stigen till vänster in i skogen. Följ den 300m norrut till klippan. (Totalt 20min med bil)
+
+<googlemap lat="59.823530058817724" lon="17.405476570129395" zoom="10" type="map">
+59.823530058817724,17.405476570129395,[[Hagbyberget]]
+
+</googlemap>
+
+== Leder ==
+[[bild:Hagbyberget_topo.jpeg|frame|Hagbyberget topo]]
+
+{{led|nr=1|namn=Bärfisen |grad=5+|längd=7|fa=Björn Sollander, 1990|text=Fin layback}}
+
+{{led|nr=2|namn=Ewald's fear |grad=6-|längd=8 |fa=Al McKenzie-Hose on top-rope, 2001}}
+
+{{led|nr=3|namn=Lära leda |grad=3|längd=7 |fa=Magnus Knecht et al, 2001}}
+
+{{led|nr=4|namn=Are you M.A.D. |grad=4+|längd=10 |fa=Al McKenzie-Hose on top rope, 2001}}
+
+{{led|nr=5|namn=Vintergatan |grad=3+|längd=10 |fa=Björn Sollander, 1990}}
+
+{{led|nr=6|namn=Ultragrip |grad=4|längd=8 |fa=Björn Sollander, 1992}} 
+
+{{led|nr=7|namn=Ett hål i väggen |grad=5-|längd=7 |fa=Patrick Karlsson, 2001}}
+
+{{led|nr=8|namn=Motljusfärden |grad=5,|längd=8 |fa=Björn Sollander, Ville Sandegren, 1992}}
+
+{{led|nr=9|namn=Coomasie Blue |grad=3|längd=7 |fa=Al McKenzie-Hose, 2001}}
+
+{{led|nr=10|namn=Z-leden |grad=6|längd=8 |fa=Björn Sollander, Ville Sandegren, 1992}} 
+
+Det är troligt att lederna som jag har märkt med FA 2001 bestegs tidigare. Viva Wiki.
+
+Stämmer bra, Jag och Ville S rensade och besteg dom flesta linjer tidigt 1990. Vi solade dom flesta och tog många på kil. Vi ville inte bulta så dom riktigt svåra klättrades på topprep. Hela berget + några boulderleder klättrades av Björn Sollander, Ville Sandegren från 1900 och framåt. Namnen på dom andra personerna bör strykas om det hela skall vara korrekt. Observera att det är privat mark och det är jaktmark./Björn Sollander
+
+[[Kategori:Uppland]]

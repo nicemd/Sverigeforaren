@@ -1,0 +1,52 @@
+[[Kategori:Saknar allmän info]]
+=Vägbeskrivning=
+Kör väg 363 mot Tavelsjö. Efter Hissjö kör du ytterligare 3km fram till en korsning. Tag av mot östra Tavelsjö. Efter ca 500 m dyker en skogsbilsväg upp på högra sidan, skyltad med »Grotta«. Följ den i 700 m och parkera bilen nedanför en liten uppförsbacke.  Gå upp mot berget. 
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Why wait?|grad=7A|typ=Överhäng|fa=[[Kim ?]], [[2000]]|landning=2|betyg=2|sopad=[[Kim ?]], [[Jonas Wiklund]]|sittstart=ja|startgrepp=ja|text=Under taket till höger om nr 18. Starta så långt in som möjligt.}}
+{{problem|nr=1|namn=1|grad=5B|typ=Mantling|landning=2|startgrepp=ja|text=}}
+{{problem|nr=2|namn=2|grad=3A|typ=Jug|landning=2|text=}}
+{{problem|nr=3|namn=3|grad=3C|typ=Highball,Jug|landning=2|text=}}
+{{problem|nr=4|namn=4|grad=5A|typ=Highball|landning=2|text=}}
+{{problem|nr=5|namn=5|grad=5A|typ=Highball|landning=2|text=}}
+{{problem|nr=6|namn=6|grad=4A|typ=Highball,Jug,Spricka|landning=2|text=}}
+{{problem|nr=7|namn=7|grad=5C|typ=Highball|landning=2|text=}}
+{{problem|nr=8|namn=8|grad=6C|typ=Överhäng,Highball|landning=2|startgrepp=ja|text=}}
+{{problem|nr=9|namn=9|grad=3C|typ=Slab,Jug|landning=2|text=}}
+{{problem|nr=10|namn=10|grad=5C|typ=|landning=2|sittstart=ja|startgrepp=ja|text=Sittstart under taket. Starta med händerna en bit till höger i sprickan.}}
+| width="250px" |
+{{problem|nr=11|namn=11|grad=5A|typ=Mantling,Spricka|landning=2|sittstart=ja|text=}}
+{{problem|nr=12|namn=12|grad=5B|typ=Krimp|landning=2|text=}}
+{{problem|nr=13|namn=13|grad=5C|typ=Krimp,Aréte|landning=2|startgrepp=ja|text=}}
+{{problem|nr=14|namn=14|grad=6A|typ=Överhäng|landning=2|sittstart=ja|text=}}
+{{problem|nr=15|namn=15|grad=5B|typ=|landning=2|text=Trixigt hörn.}}
+{{problem|nr=16|namn=16|grad=6B|typ=Krimp,Överhäng|landning=3|text=Fortfarande lite oborstat + att tallen på toppen borde försvinna.}}
+{{problem|nr=17|namn=Campingbordsklassikern|grad=6A+|typ=Mantling,Highball|landning=4|text=}}
+{{problem|nr=18|namn=18|grad=6A|typ=Krimp|landning=3|text=}}
+{{problem|nr=19|namn=19|grad=3B|typ=Krimp|landning=2|text=}}
+{{problem|nr=20|namn=20|grad=4C|typ=Mantling|landning=2|text=}}
+{{problem|nr=21|namn=21|grad=5C|typ=Krimp,Slopers|landning=2|betyg=2|text=}}
+| width="250px" |
+{{problem|nr=22|namn=22|grad=2|typ=Slab|landning=2|betyg=1|text=}}
+{{problem|nr=23|namn=23|grad=3A|typ=Aréte|landning=2|betyg=1|text=}}
+{{problem|nr=24|namn=24|grad=4C|typ=Aréte|landning=2|betyg=1|text=}}
+{{problem|nr=25|namn=25|grad=4A|typ=Aréte|landning=2|text=}}
+{{problem|nr=26|namn=26|grad=4C|typ=Aréte|landning=2|text=}}
+{{problem|nr=29|namn=29|grad=5C|typ=Krimp|landning=2|text=}}
+{{problem|nr=30|namn=30|grad=6A|typ=Dyno|landning=2|betyg=3|text=Dyno x 2!}}
+{{problem|nr=31|namn=31|grad=3C|typ=Överhäng,Jug|landning=2|betyg=1|text=}}
+{{problem|nr=32|namn=32|grad=6A+|typ=Krimp|fa=?|landning=2|betyg=1|sopad=?|text=}}
+{{problem|nr=34|namn=Stubbaréten|grad=5B|typ=Aréte|fa=?|landning=3|betyg=2|sopad=?|text=En klassiker.}}
+{{problem|nr=34|namn=Stubbaréten|grad=6A|typ=Aréte|fa=?|landning=3|betyg=3|sopad=?|sittstart=ja|variant=ja|text=}}
+|}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,47 @@
+=Allmänt=
+Några ganska oansenliga block med en del schyssta leder.
+
+=Vägbeskrivning=
+10-15 km norr om Rimbo, väg 280 till Sättraby, åk vägen genom byn och ta höger när den delas, fortsätt drygt 1 km till liten åker på höger sida där huvudblocket ligger i skogsbrynet. Några block finns också på vänster sida av väg 280, mellan S Sättraby och Sättraby
+
+=Sektorer=
+==Huvudblocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Sprickan|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Följ markant sprickbildning}}
+{{problem|nr=2|namn=2|grad=5A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Start spetsigt v grepp, h spetskant, upp}}
+{{problem|nr=3|namn=Rospiggen|grad=3C|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Enklaste vägen upp}}
+{{problem|nr=4|namn=Drakula|grad=4B|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Start hand på drakulatanden}}
+{{problem|nr=5|namn=5|grad=4B|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Kanten nö hörnet upp}}
+{{problem|nr=6|namn=Blåbärsplock eller upprepningstvång|grad=7A|typ=Krimp|fa=Stefan Sjöberg, 2005|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Start lite hylla h, crimp v, några moves upp över kant}}
+{{problem|nr=7|namn=Tvåfingers|grad=6C|typ=Krimp,Pinch|fa=Stefan Sjöberg|landning=2|betyg=2|sopad=Stefan Sjöberg|sittstart=ja|text=Start pinch v, tunn grop h, upp över bullen}}
+{{problem|nr=8|namn=8|grad=6A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Rakt upp h om Tvåfingers}}
+{{problem|nr=9|namn=9|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Följ linjen snett uppåt v}}
+{{problem|nr=10|namn=10|grad=6B|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Start längst åt v, match låg hylla, slopig kant, avslut som Fingerstinger}}
+{{problem|nr=11|namn=11|grad=6A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Låg matchstart, rakt upp}}
+{{problem|nr=12|namn=Fingerstinger|grad=6B|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Start som ovan, sträckning åt h vid granen, upp i sprickan}}
+| width="250px" |
+{{problem|nr=13|namn=Trippelstam|grad=6B+|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Upp mellan träden}}
+{{problem|nr=14|namn=Dubbelstam|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Följ h sida av tallen upp}}
+{{problem|nr=15|namn=Svullobulle|grad=5A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Rakt upp över bullen}}
+|}
+
+==Tvillingblocket==
+
+{{problem|nr=16|namn=16|grad=6A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Upp mitten av lilla blocket}}
+{{problem|nr=17|namn=17|grad=4B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Traversera v>h}}
+{{problem|nr=18|namn=18|grad=4C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Traversera h>v}}
+=Sättraby S blocken=
+{{problem|nr=|namn=Means to an end|grad=7A|typ=Krimp, reach|fa=Stefan Sjöberg, 2011|betyg=1|sopad=Stefan Sjöberg|text=Start lite hylla h, reach åt v, upp på kanten}}
+{{problem|nr=|namn=Atmosphere|grad=7A|typ=Krimp, healhook|fa=Stefan Sjöberg, 2010|betyg=1|sopad=Stefan Sjöberg|text=Följ kanten åt h, runt kanten o upp}}
+{{problem|nr=|namn=In a lonely place|grad=7A|typ=Krimp, slope|fa=Stefan Sjöberg, 2010|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Följ kanten åt v, upp vid kanten}}
+[[Kategori:Roslagen]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

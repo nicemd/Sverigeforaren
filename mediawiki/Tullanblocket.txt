@@ -1,0 +1,13 @@
+{{boulderutkast}}
+{{info klippa
+|lat=59.2229
+|long=17.6771}}
+==Allmänt==
+Ett ensamt block vid vägen nära sjön Tullan.
+== Förare ==
+[[Bild:Tullanblocket.png]]
+{{led|nr=1|namn=Ge mig min mataffär tillbax era jävlar|grad=6a|typ=boulder|text=vert. ytan mot skogen|fa=JL 09}}
+{{led|nr=2|namn=Det luktar bränt|grad=6a|typ=boulder|text=aréten till höger|fa=JK 09}}
+
+[[Category:Stockholm]]
+[[Kategori:Västra Södertörn]]

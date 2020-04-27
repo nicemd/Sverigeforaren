@@ -1,0 +1,144 @@
+{{boulderutkast}}
+
+===Allmänt===
+Ett ganska stort område som är under utveckling. Potential till totalt ca 50-100 problem. Utsikten från vissa sektioner är i samma kaliber som Nynäsboulderingen. 
+
+Ganska stora avstånd och bitvis svårhittat varför en komplett förare kommer att ta tid att sammanfatta men kommer, inkl bilder. Som sagt det här är bara en stub och ett sätt att sprida ut arbetstiden för en förare./c
+
+[http://open.spotify.com/user/calleblingbling/playlist/5fdOC8MO46whkNGVrZUhag Ragnarök OST]
+
+[http://vimeo.com/12158841 Ragnarök promo]
+
+För en prel. och relativt printbar pdf förare mäjla calleblingbang på hotmail så kommer den i retur.
+
+===Vägbeskrivning===
+<CENTER>Här och var
+<googlemap version="0.9" lat="59.020856" lon="17.753992" type="map"></googlemap></CENTER>
+
+===Områden===
+Rävberget ligger otillgängligt och ca 20 min promenad från parkeringen. Högaberget tvärtemot, dvs nära. Stenkvallen är allt från vattenpolerad till fnasig till taggig.
+
+
+<BR><BR>
+<CENTER>[[Bild:Utsikten, upload.jpg‎]]</CENTER>
+<BR>
+
+
+===='''Högaberget'''====
+Högaberget är högt och stort, flertalet sektioner återfinns därför här. <BR><BR>
+=====Näsorna=====
+<BR>Område med en kortare korridor samt två "bullar", fina fysiska linjer.
+<BR><BR><CENTER>[[Bild:Näsorna, Just A Friend, 6B.jpg‎]]</CENTER><BR>
+{{problem|namn=Just A Friend|grad=6B|text=Sittstart, sprickan rakt upp via slopers och till tops åt höger upp.}}
+<BR><BR><CENTER>[[Bild:Pickin boogers, projekt ca 7A.jpg]]</CENTER><BR>
+{{problem|namn=Pickin Boogers|grad=6C-7A-ish|text=Sittstart, Vä hand på låg sidolist, höger upp i sprickan. Drar snett uppåt vänster, mantla ovan klykan. Mossan bör inte röras om problemet ska vara värt.}}
+<BR><BR><CENTER>[[Bild:Näsorna,Runaways, 6C.jpg]]</CENTER><BR>
+{{problem|namn=Funky Cold Medina|grad=6C?|text=Sittstart, Höger sida om sprickan och rakt upp utan vänstersidan.}}
+<BR><BR><CENTER>[[Bild:Näsorna Drop 5+.jpg]]</CENTER><BR>
+{{problem|namn=Drop|grad=4|text=Ståstart, kör sprickan upp med sylt och allt därtill.}}<BR><BR>
+
+=====Korridoren=====
+Smal, ca 1,5 meter, bred korridor med ena sidan lätta slabbar och andra sidan lätt motlutande väggar. Tenderar i våtare tider vara ganska så blött i landningarna. Sommartid duktigt med mygg. <BR><BR>
+<BR><BR><CENTER>[[Bild:Korrdoren extension, Just A Boy 5.jpg]]</CENTER><BR>
+{{problem|namn=Just A Boy|grad=4|text=Precis ovan korridoren. Sittstart, vä hand på pinch höger inne på sloper/nisch.}}
+
+<BR><BR><CENTER>[[Bild:Korridoren, Crack Pipes 6B+ & Whore Monger 5.jpg]]</CENTER><BR>
+{{problem|namn=Crack Pipes|grad=6B+|text=Grön linje, Starta i tvåfingerpocket crimpar för båda händerna och jobba dig uppåt höger.}}<BR><BR>
+{{problem|namn=Whore Monger|grad=5|text=Röd linje, Starta i stort grepp i snedsprickan, drar lätt åt höger.}}
+
+
+<BR><BR><CENTER>[[Bild:Korridoren, Reflection Eternal, 6A+.jpg]]</CENTER><BR>
+{{problem|namn=Reflection Eternal|grad=6A+|text=Sittstart, Matchande start på bred sloperlist.}}<BR><BR>
+
+=====Röda Vågen=====
+Följ dold linje i korridorens riktning. Stor röd och vacker bergsfeature till vänster med potential till lååång travers med lite risky biznizz landning.<BR><BR>
+
+=====Kylskåpet=====
+Rakt ovanför Korridoren efter Röda Vågen ligger denna sektion. Upphängda kylskåpet går inte att missa. Lite steniga landningar.<BR><BR><CENTER>[[Bild:Chillin in the abyss of ignorance, prel upload med pilar.jpg‎]]</CENTER>
+<BR>
+{{problem|namn=Chillin' in the abyss of ignorance|grad=6C?|text=Definierad start sittandes på spetsiga stenen. Höger hand på låg undercling, vänster på crimplist. Utsatt klättring på upphängt kylskåp, väldigt fin och exponerad linje.}}
+<BR><BR>
+
+=====Krypin=====
+Svårhittad sektion snett nedåt från mitten av berget. Kortare takproblem med fint motlut. Fina sträck och lättare dynamik underlättar.<BR><BR><CENTER>[[Bild:Krypin, Violent by design med start.jpg]]</CENTER><BR>
+{{problem|namn=Violent By Design|grad=6A+|text=Sittstart på sidotag nere i grottan. Via sloperkant och jugs till tops, all inclusive.}}
+<BR>
+{{problem|namn=Violent By Design elim.|grad=6B+|text=Elim. variant av Violent By Design, håll vänster om imaginär spricka som följer i linje med sloperkanten. Mantling utan högra juggen i sprickan.}}
+ <BR><BR><CENTER>[[Bild:And so it burns.jpg‎]]</CENTER><BR>
+{{problem|namn=And So It Burn|grad=6A|text=Start på lägre hyllan, rakt upp via buskhylla och spricka. Verkligen rakt upp, ej åt vänster.}}
+<BR><BR>
+<CENTER>[[Bild:Krypin,Un Dia, 6B.jpg‎]]</CENTER><BR>
+{{problem|namn=Un Dia|grad=6B|text=Sittstart med båda händerna på underklingknoppen.}}
+<BR><BR>{{problem|namn=Runaways|grad=4|text=Sittstart, areten till höger om Un Dia.}}
+
+=====Bäcken=====
+Allt från lite låga saker till lite för höga saker som eg bör repas.
+
+=====Vatten Väggen=====
+Kanske najsaste området på sommaren. Lummig bladskogs skugga med ca 10 meter till vattnet. Svart vattenpolerad klippa med schyssta grepp. <BR><BR><CENTER>[[Bild:Vatten vågen, Catholic Girls pil och grepp.jpg‎]]</CENTER><BR>
+{{problem|namn=Catholic Girls|grad=6A|text=Sittstart vä hand på crimp och höger på knoppcrimp vidare pinch, jug etc.}}
+<BR><BR><CENTER>[[Bild:One Track Mind Vågväggen, 6B.jpg‎]]</CENTER><BR>
+{{problem|namn=One Track Mind|grad=6B|text=Sittstart, Börja brett i snedtag och fet juglist. Vidare till topps med schyssta fötter och underbara slopers.}}
+<BR><BR><CENTER>[[Bild:Vatten väggen, Ready For You 6A+.jpg]]</CENTER><BR>
+{{problem|namn=Ready For You|grad=6A+|text=Sittstart, Från låga tvärlister och upp}}<BR><BR>
+
+=====Fiskarfänge=====
+Låg men fin överhängande vägg som slutar i ett gammalt övergivet fiskeläger.
+<BR><BR><CENTER>[[Bild:Guilty Conscience, 6C+-7A.jpg‎]]</CENTER><BR>
+{{problem|namn=Guilty Conscience|grad=6C+-7A|text=Sittstart, Börja i undercling upp via jug till vä om trädet och toppa åt höger utan dab.}}
+<BR><BR>
+
+===='''Rävberget'''====
+Det bor en räv i krokarna höger om grottan (därav namnet) varför man bör respektera detta och inte röra sig för mycket i det området. Nedanför i Alskogen rör det sig väldigt mkt och ofta vildsvin varför det kanske inte är att rekommendera med late night shifts här.<BR><BR>
+=====Rävloungen=====
+45 graders överhängande läpp som har potential för några linjer varav en mkt fin travers på pinchlimpor.<BR><BR><CENTER>[[Bild:Rävloungen2, upload copy.jpg‎]]<BR><BR>[[Bild:Rävloungen, upload copy.jpg‎]]<BR><BR></CENTER>
+----
+
+<BR><BR><CENTER>[[Bild:Devils pie, låg start.jpg‎]]</CENTER><BR>
+{{problem|namn=Devils Pie|grad=6C+|text=Lågstart, hö hand på jug och vänster på crimp. Flaken närmst marken elim. Upp lås av och sträck via kant och jug-list, mantla rakt upp.}}<BR>
+{{problem|namn=BiG GiRL SKiNNY GiRL|grad=6B+|text=SS på slopejugg till vänster om DP, upp till kanten och längs läppen upp i DP urtoppningen.}}
+
+<BR><BR><CENTER>[[Bild:Uppochnernerochupp, start med pil.jpg‎]]</CENTER><BR>
+{{problem|namn=Uppochnernerochupp|grad=6A|text=45 graders överhäng med etableringsstart, vänsterhand i jug höger på lägre crimplist. Upp via blindjug.}}
+<BR>
+<CENTER>[[Bild:Rävloungen, Bag Of Hammers 6A.jpg]]</CENTER><BR>
+{{problem|namn=Bag Of Hammers|grad=6A|text=Sittstart, Hakande takproblem straxt ovan Devils Pie.}}
+<BR>
+<CENTER>[[Bild:Rävloungen, Kalemba 6B.jpg‎]]</CENTER><BR>
+
+{{problem|namn=Kalemba|grad=6A-6A+|text=Sittstart, till höger om Devils Pie, matchande start på crimplist direkt under taket, ut åt höger och mantla med en avslutande slabb. Om denna borstas upp kan man tänka sig att graden sjunker men i nuvarande skick är det roligt darr på slutslabben.}}
+<BR> <BR>
+
+=====Grottan=====
+Ganska så fnasigt men långt, ca 4-5 meter, och brant, ca 45 grader, överhängande tak med en större stenbumling inkilad inunder. Bredden kanske en 10-15 meter (minus 5-6 för stenen) och höjden med urtoppning ca 4-5 meter. 
+<BR><BR><CENTER>[[Bild:IMG_4764edit.jpg‎]]<BR></CENTER>
+{{problem|namn=Krack attack light|grad=6C+|text=Röd linje, Sittstart, hö hand i sprickundercling, vänster på hög juggigt sidtag. Upp längs "areten". Sluta ståendes på stora hyllan. Detta problem kan startas en-två meter längre ner i sprickan och ökar då avsevärt i grad, kanske 7B-7C, kom och kööööp!}}
+<BR>
+Finns ffa två hårdare spricklinjer i taket. Utsidan av blocket bjuder på en riktigt skön "dubbel dyno" highball med en landning i buskage som fungerar som hålslagare i paddtyget.
+<BR><BR><CENTER>[[Bild:Dubbeldynon i grottan, tänkt linje, upload.jpg‎]]</CENTER><BR><BR>
+
+<BR><BR>
+
+===='''Hoxla'''====
+Område bortanför högaberget, rent av ett eget högt berg...
+=====Grävlingsväggen=====
+ca 20 meter bred vägg med bra höjd i ängsmiljö. Svag doft av vilddjursmusk.
+<BR><BR><CENTER>[[Bild:Gravlingsvaggen.jpg]]</CENTER><BR><BR>
+
+=====Taxi Johan=====
+Brant vägg i otymplig terräng straxt ovan "Taxi Johan"
+<CENTER>[[Bild:]]</CENTER><BR>
+{{problem|namn=This Is The Thing|grad=6B+|text=Sittstart, upp via crimpers åt höger och sedan catch till kanten. Fin!}}
+<BR><BR>
+===='''Det bortanför'''====
+Väggar som direkt angränsar till vattnet bortanför Rävberget. Schysst exponerat och ibland riktigt bökigt.  
+
+<BR><BR>
+===='''Stugan'''====
+Ett-problem sektion som ligger lite kinkigt till precis nedanför en altan varför väldigt låg profil bör hållas om man ska klättra här.
+<BR><BR><CENTER>[[Bild:Stugan, What they do, 6B.jpg]]</CENTER><BR><BR>
+{{problem|namn=What They Do|grad=6B|text=Sittstart, Travers v-h, via gräslig spricka ut på kanten och vidare till tops höger.}}
+<BR><BR>
+
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]

@@ -1,0 +1,52 @@
+{{info klippa
+  |lat=57.70103
+  |long=12.05724
+}}
+
+{{stub}}
+<googlemap lat="57.70103" lon="12.05724" zoom="9" type="map">
+57.70103,12.05724,Delsjön
+</googlemap>
+
+== Allmänt ==
+Härlanda Tjärn är en fin badsjö.  Inte så långt ifrån badplatsen ligger Brudaremossen, en ganska bred klippa 10-12 meter hög. Om man istället följer 8ans spår åt vänster innan/vid parkeringen kommer man till Härlanda Tjärn/Västra långvattnet. Finns även bouldering i skogen. se gbo-crimp. 
+
+==Access==
+Området är ett naturreservat och väldigt välbesökt. Följ de anvisningar som finns på uppsatta skyltar vid parkeringar och överallt i området. 
+
+==Kollektivtrafik==
+Ta buss 17 till Spåntorget, följ höger skyltat badplats "Härlanda Tjärn". Precis innan parkeringen hittar du starten på åttans spår, de olika klipporna beskrivs härifrån. 
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Härlanda tjärn, Västra långvattnet==
+
+Promenad: följ åttans spår tills du ser klipporna på vänster sida, knappt en kilometer. 
+[[bild:oversikt_vastralangvattnet.jpg]] 
+
+{{led | namn=Naturens under | grad=6+|fa=Patrik Alseby 1991}}
+{{led | namn=53 kg gröt | grad=7+|fa=Fredrik Persson 1990}}
+{{led | namn= Pelarleden | grad=5 | fa=Styrbjörn Johansson, Fredrik Westerdahl 1997}}
+{{led | namn=Running on Empty | grad=7b | fa=Fredrik Persson 1993}}
+{{led | namn=Jesus Christ Superstar | grad=7a+ |fa=Styrbjörn Johansson, Fredrik Westerdahl 1997}}
+{{led | namn=Bitterhet är lyx | grad=6b+|fa=Fredrik Persson, Elisabeth Olsson 1993}}
+{{led | namn=Ingemanssons platåmetod| grad=5 | fa=Styrbjörn Johansson, Fredrik Westerdahl 1997|text=Ett trekantigt tak, brant klättring på kalasgrepp!|betyg=1}}
+{{led | namn=K.O.K. | grad=4+ | Fredrik Westerdahl, Styrbjörn Johansson 1997}}
+{{led| namn=Fartdåren |grad=C1+/T3|fa=Michael Blomgren 071005|text=GPS; X 6403188, Y 1276987}}
+{{led | namn=C.C. | grad=5 | fa=Fredrik Westerdahl, Stjörbjörn Johansson 1997}}
+{{led | namn=Trollets väg | grad=7a+ | fa=Fredrik Westerdahl, Styrbjörn Johansson}}
+
+==Brudaremossen==
+Klippan hittas om man går ifrån parkeringen vid Härlanda tjärn, precis innan parkeringen följer åttans spår. När man kommer till en sjö som heter Svarttjärn håller man höger och går åt hållet skyltat mot Brudaremossen, klippan ligger på vänster sida om stigen. Klippan ligger skuggigt, är smutsig och det är mycket mygg här. Dock är klippan ganska bred och det finns väldigt många oklättrade sprickor. Nyturs-potential! 
+{{led | namn=Maryland| grad=6| fa=Patrik Alseby 1991}}
+{{led | namn=Cracker | grad=8-| fa=Patrik Alseby 1991}}
+{{led | namn=Wafer | grad=6- |fa=Patrik Alseby 1991}}
+{{led | namn=Japsy | grad=7- | fa=Patrik Alseby 1991}}
+{{led | namn=Tuc | grad=6- | fa=Patrik Alseby}}
+
+==Brudarebacken==
+Fortsätt förbi Brudaremossen. 
+{{led | namn=Orrefors | grad=7-| fa=Patrik Alseby 1991}}
+{{led | namn=Kosta Boda | grad=7| fa=Patrik Alseby 1991}}
+
+[[Kategori:Göteborg]]

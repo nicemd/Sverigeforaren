@@ -1,0 +1,40 @@
+{{boulderutkast}}
+
+Klicka på länken i listan över områden i Stockholm för en förare.
+
+===Allmänt===
+På långholmen finns '''Traversen''' under Västerbron. Dessutom finns Stockholms mesta klassiker '''Houdini'''.
+
+'''Traversen''' kommer man lättast till om man går på västra sidan på Västerbron och går ner för trappan när man kommer till Långholmen.
+
+'''Houdini''' ligger på västra sidan av Långholmen. Stort block som är upphängt mellan två klippor. 
+Där finns åven ett gäng andra problem.
+
+På den lilla klippväggen Lustberget i närheten av Houdiniblocken finns ett par andra problem, dessa finns beskrivna på föraren.
+
+===Vägbeskrivning===
+
+<googlemap version="0.9" lat="59.325396" lon="18.02556" type="map" zoom="14">
+59.321497, 18.017417, Houdiniblocken
+3st stora block, varav det tredje ligger ovanpå de andra 2.
+59.321762, 18.029852, Västerbron
+Traversen på Västerbron
+59.321762, 18.020067, Lustberget
+</googlemap>
+
+===Problem===
+'''Houdiniblocken'''<br>
+Houdini 7b+/7c - S. Petterson Starta lågt under tak<br>
+Travers 5+ - På baksidan, längst bort från taket, traversera mot Houdini längs med två sidor
+samt ett par lättare problem
+
+'''Västerbron'''<br>
+50m lång vertikal travers. Ganska hal och trixig med små grepp.
+
+'''Lustberget'''<br>
+Homo 6c - travers<br>
+Hetro 4<br>
+Bi 6c<br>
+
+
+Komplettera '''gärna''' med mer info.

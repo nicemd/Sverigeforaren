@@ -1,0 +1,39 @@
+{{info klippa
+  |lat=57.85114
+  |long=11.96779
+}}
+
+[[Kategori:Göteborg]]
+[[Category:sport]]
+[[category:vertikalt]]
+[[Category:överhäng]]
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!-- {{stub}} -->
+{{utkast}} 
+<!-- {{komplett}} -->
+
+==Om klippan==
+
+Olagligt bultade turer på en fornborg (skyddad enl fornminneslagen). Kunde blivit en katastrof för Göteborgsklättringen men det löste sig som genom ett mirakel. Nybultning här är TOTALFÖRBJUDET! Och vidare klättring högst tveksamt...
+
+== Access {{access}} ==
+
+Se ovan. På grund av älgjakt bör klättrare hålla uppsyn för jägare.
+
+{{accessDB|klippa=hakered}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Leder==
+
+Se topo: http://www.gbg-guiden.info/site/archives/hakered_v11.pdf
+
+{{led|namn=Aggresif|grad=5c+|typ=sport|fa=Ludwig Hansson och Jens Larssen}}
+{{led|namn=-9°|fa=Ludwig Hansson och Jens Larssen|grad=7a}}
+{{led|namn=Slaktad Mazda|grad=7a+|fa=Ludwig Hansson och Jens Larssen}}
+{{led|namn=Villa Medusa|grad=6b+|typ=sport}}
+{{led|namn=Baren|grad=6b}}
+{{led|namn=Sunt bondförnuft|grad=6b+|typ=sport}}
+{{led|namn=Fingersallad|grad=7a|typ=sport|fa=Ludwig Hansson och Jens Larssen}}
+{{led|namn=Abdullah|grad=7a+|fa=Jens Larssen och Ludwig Hansson}}

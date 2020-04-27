@@ -1,0 +1,24 @@
+{{boulderkomplett}}
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.237785" lon="17.881622" zoom="17">59.237511, 17.881622</googlemap>
+</div>
+
+
+==Bilder==
+[[http://www.sverigeforaren.se/images/thumb/6/6c/KL%C3%84TTRING.jpg/450px-KL%C3%84TTRING.jpg]]
+[[http://www.sverigeforaren.se/images/thumb/3/32/KL%C3%84TTRING_060.JPG/450px-KL%C3%84TTRING_060.JPG]]
+
+==Allmänt==
+Flottsbro i Huddinge kommun söder om Stockholms kommun är ett friluftsområde, mest känd för sin 100 meter höga skidbacke, ett strandbad, en campinganlaäggning och ett antal intressanta vandringsrundor och div moutntainbike spår även led-klättrings och boulder leder
+
+==Vägbeskrivning==
+Från Stockholms centrum tar du Huddingevägen (226), Sväng av efter Huddinge C ut mot Glömsta vägen
+fortsätt rakt fram.
+Sväng av till vänster där skyltning FLOTTSBRO står
+kör rakt fram tills du kommer till en korsning fortsätt rakt fram mot kyrkan eller kapellet.
+Baksidan av kapellet finns parkering. Vandra ner längs grusvägen klipporna ligger på höger sida
+
+
+==Access {{access}}==
+Flottsbro är ett friluftsområde. Vett och etikett, sunt förnuft som att ta med skräp man släpat dit osv

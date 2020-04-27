@@ -1,0 +1,116 @@
+{{boulderutkast}}
+
+{{info klippa
+  |lat=
+  |long=
+}}
+
+[[Kategori:Saknar allmän info]]
+
+==Allmänt==
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap version="0.9" lat="60.709144" lon="17.148285" zoom="10" type="map">
+60.674616, 17.141831 Gävle, Sverige
+</googlemap>
+</div>
+Från centrala Gävle
+Åk norrut på gamla E4:an förbi golfbanan. Fortsätt förbi Hille och Björke. Åk förbi skylten Eskön och ta nästa vänster ner genom grusgropen. Åk genom sandtaget och över järnvägen och sväng vänster. Fortsätt tills vägen svänger höger 90 grader. Framme.
+
+<div style="clear:both"></div>
+
+==Problem==
+{{problem|nr=1|namn=Patricks skick|grad=6B+|typ=Krimp|fa=Patrick O, Ronny A|landning=2|sopad=Patrick O, Ronny A|startgrepp=ja|text=Starta på crimparna, upp till sidepull för vänster och skick till kanten}}
+{{problem|nr=2|namn=WGS84|grad=5C|typ=Slopers|fa=Daniel H|landning=3|sopad=Daniel H|text=Håll er vänster om lilla aréten}}
+{{problem|nr=3|namn=RT90|grad=6B+|typ=Slopers|fa=Daniel H|landning=3|sopad=Daniel H|sittstart=ja|startgrepp=ja|text=Start med högerhand i undercling}}
+{{problem|nr=4|namn=Runningman|grad=7A|typ=Slopers,Travers V->H|fa=David H, Patrick O, Ronny A|landning=3|sopad=David H, Patrick O, Ronny A|startgrepp=ja|text=Start på hyllan, toppa ur vid "hålet"}}
+{{problem|nr=5|namn=Förvånad|grad=6A|typ=Jug|fa=Ronny A|landning=3|sopad=Ronny A|startgrepp=ja|text=Starta ute till höger på jugen för högerhand och stora steget för högerfot}}
+{{problem|nr=6|namn=Gammal Avokado|grad=5A|typ=Slab|fa=Patrick O|landning=3|sopad=Patrick O|text=Aréten på greppmarodören är utesluten, håll er höger om mossan}}
+{{problem|nr=7|namn=Greppmarodören|grad=6B+|typ=Krimp,Aréte|fa=Patrick O, Ronny A|landning=3|sopad=Patrick O, Ronny A|sittstart=ja|text=Gå rakt upp via aréten}}
+{{problem|nr=8|namn=Morran|grad=7A+|typ=Aréte|fa=David H, Patrick O, Ronny A|landning=3|sopad=David H, Patrick O, Ronny A|sittstart=ja|text=Rakt upp mha aréten}}
+{{problem|nr=9|namn=Sänka skepp|grad=7A+|typ=Krimp,Slopers,Överhäng|fa=Patrick O, Ronny A|landning=3|betyg=2|sopad=Patrick O, Ronny A|sittstart=ja|text=Rakt upp via "näsan"}}
+{{problem|nr=10|namn=Groggy Froggy|grad=7A|typ=Krimp|fa=David H, Patrick O|landning=3|betyg=1|sopad=David H, Patrick O|sittstart=ja|startgrepp=ja|text=Start i undercling, Rakt upp}}
+{{problem|nr=11|namn=Svårare än den ser ut|grad=6A|typ=Slopers|fa=Ronny A|landning=2|sopad=Ronny A|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på den slopiga hyllan till höger}}
+{{problem|nr=12|namn=Drängen|grad=6B+|typ=Krimp,Slopers|fa=Ronny A|landning=3|sopad=Ronny A|sittstart=ja|text=Vänster om trädet}}
+{{problem|nr=13|namn=Lill Hitler|grad=7A|typ=Krimp,Slopers|fa=Patrick O|landning=2|fadatum=2006-09-30|sopad=Patrick O|sittstart=ja|text=Vänster om drängen}}
+{{problem|nr=14|namn=Slynan|grad=5B|typ=Slopers,Aréte|fa=Patrick O|landning=2|sopad=Patrick O|sittstart=ja|text=Gå rakt upp via aréten}}
+{{problem|nr=15|namn=Los Lobos|grad=7B+|typ=Krimp,Överhäng|fa=David H, Patrick O|landning=3|sopad=David H, Patrick O|sittstart=ja|text="Traversera" in vänster och toppa ur lika som sänka skepp}}
+{{problem|nr=16|namn=Dirty Frank|grad=7A+|typ=Krimp,Slopers,Heel hook|fa=David H, Patrick O|landning=4|sopad=David H, Patrick O|sittstart=ja|variant=ja|text=Samma start som Los Pendlos, gå ej ut på "näsan" utan gå rakt upp}}
+{{problem|nr=17|namn=Ryggplask direkt|grad=5B|typ=Slopers,Mantling|fa=Ronny A|landning=3|sopad=Ronny A|variant=ja|text=Variant på ryggplask, gå rakt upp vänster om trädet}}
+{{problem|nr=18|namn=Ryggplask|grad=6A|typ=Slopers,Mantling,Travers V->H|fa=Ronny A|landning=3|sopad=Ronny A|startgrepp=ja|text=Start på stora hyllan, traversera höger och toppa ur vid trädet.}}
+{{problem|nr=19|namn=Junior Aréten|grad=6A+|typ=Krimp,Aréte,Jug|fa=Johan A|landning=3|sopad=Johan A|sittstart=ja|startgrepp=ja|text=Fina hyllan är med}}
+{{problem|nr=20|namn=S.P.S|grad=6A+|typ=Krimp,Slopers|fa=Ronny A|landning=3|fadatum=2006-10-01|sopad=Ronny A|sittstart=ja|uteslutningar=ja|text=Aréten utesluten}}
+{{problem|nr=21|namn=Shocking truth|grad=6B|typ=Aréte|fa=David H|landning=3|sopad=David H|text=Aréten rakt upp}}
+{{problem|nr=22|namn=Shocking truth (etabl)|grad=7B|typ=Krimp,Slab|fa=David H|landning=3|sopad=David H|variant=ja|startgrepp=ja|text=Etablera under taket med Vänsterhand crimp, Högerhand slab runt kanten}}
+{{problem|nr=23|namn=Retstickan|grad=5B|typ=Aréte|fa=Ronny A|landning=4|betyg=2|fadatum=2006-10-01|sopad=Ronny A|text=Aréten rakt upp}}
+{{problem|nr=24|namn=Brake a leg|grad=5C|typ=Aréte|fa=Ronny A|landning=5|sopad=Ronny A|startgrepp=ja|uteslutningar=ja|text=Starta etablerad med fötterna på väggen, ej på stora hyllan, Högerhand på sidepull, Vänsterhand på aréten.}}
+{{problem|nr=25|namn=Los Pendlos|grad=6B|typ=Layback|fa=Patrick O|landning=3|sopad=Patrick O|text=Går precis vänster om aréten, gå upp via sidepull greppen.}}
+{{problem|nr=26|namn=Mysmantlingen|grad=5C|typ=Mantling|fa=Ronny A, Patrick O|landning=3|sopad=Ronny A, Patrick O|sittstart=ja|text=Starta sittande på stenen}}
+{{problem|nr=27|namn=Andreas problem|grad=6A+|typ=Krimp,Jug|fa=Andreas ??|landning=4|fadatum=2006-10-01|sopad=Andreas ??|sittstart=ja|startgrepp=ja|text=Start på listen under taket, toppas ur rakt upp}}
+{{problem|nr=28|namn=The Dog|grad=6B+|typ=Krimp,Överhäng,Jug|fa=Patrick O|landning=4|sopad=Patrick O|sittstart=ja|startgrepp=ja|text=Samma start som Andreas problem, följ taket ut och toppa ur där det slutar}}
+{{problem|nr=29|namn=Tjockare än loket|grad=6C+|typ=Krimp|fa=Patrick O|landning=3|sopad=Patrick O|text=Rakt upp vänster om trädet}}
+{{problem|nr=30|namn=Dannes höga|grad=6A|typ=Highball|fa=Daniel H|landning=5|sopad=Daniel H|text=Starta stående på stenen i "sprickan"}}
+{{problem|nr=31|namn=Getingjakten|grad=6A+|typ=Jug|fa=Patrick O, Ronny A|landning=4|sopad=Patrick O, Ronny A|sittstart=ja|text=Ok att sitta på stenen}}
+{{problem|nr=32|namn=Myggjakten|grad=6B+|typ=Krimp,Slopers,Mantling|fa=Patrick O|landning=3|sopad=Patrick O|sittstart=ja|text=Aréten höger om min vän Gaston}}
+{{problem|nr=33|namn=Min vän gaston|grad=6B+|typ=Krimp,Slopers|fa=Ronny|landning=4|sopad=Ronny|startgrepp=ja|text=Etablerad start på slopiga hyllan}}
+{{problem|nr=34|namn=Långe Jan|grad=5B|typ=Slopers,Slab|fa=Janne A, Maria O|landning=5|sopad=Janne A, Maria O|text=Går på baksidan av blocket där Raskens går}}
+{{problem|nr=35|namn=Svaet|grad=5B|typ=Krimp,Slab|fa=Patrick O|landning=4|sopad=Patrick O|uteslutningar=ja|text=Aréten på Raskens utesluten}}
+{{problem|nr=36|namn=Raskens|grad=5C|typ=Krimp,Aréte|fa=Daniel H|landning=4|sopad=Daniel H|text=Aréten rakt upp}}
+{{problem|nr=37|namn=Svafyran|grad=4C|typ=Krimp,Slab|fa=Ronny A|landning=4|sopad=Ronny A|text=Högra problemet}}
+{{problem|nr=38|namn=Svafemman|grad=5A|typ=Krimp,Slab|fa=Ronny A|landning=4|sopad=Ronny A|text=Vänstra problemet}}
+{{problem|nr=39|namn=Jabba the hut|grad=5C|typ=Slopers|fa=Patrick O|landning=3|sopad=Patrick O|text=Stenen under utesluten}}
+{{problem|nr=40|namn=Smadda|grad=5B|typ=Slopers|fa=Patrick O|landning=3|sopad=Patrick O|text=Start på lilla aréten Sen rakt upp, inte samma urtoppning som Jabba.}}
+{{problem|nr=41|namn=Carcharodon megalodon (Rob´s Boulder)|grad=6C+|typ=Krimp,Dyno,Travers H->V|fa=Robert Hellberg|landning=3|betyg=3|sopad=Robert Hellberg|sittstart=ja|text=Sittstart i lilla sänkan, travers åt vänster och skick till kanten}}
+{{problem|nr=42|namn=Disturbed|grad=6C+|typ=Krimp|fa=Patrick O|landning=3|sopad=Patrick O|text=Höger om trädet}}
+{{problem|nr=43|namn=Korpilombolo|grad=6B|typ=Krimp,Aréte,Jug|fa=Ronny A|landning=3|sopad=Ronny A|text=Gick under namnet Lilla Aréten på tävlingen pga "tryckfels nisse"}}
+{{problem|nr=44|namn=Mentalblockering|grad=6C|typ=Dyno|fa=Stefan H, Patrick O, Ronny A|landning=5|sopad=Stefan H, Patrick O, Ronny A|variant=ja|startgrepp=ja|text=Etablera på stora hyllan, dyno till kanten.}}
+{{problem|nr=45|namn=Mentalblockering extended|grad=7A+|typ=Krimp,Dyno|fa=David H,|landning=5|betyg=2|fadatum=2006-09-30|sopad=David H,|variant=ja|text=Starta från marken i sprickan rakt under hyllan mentalblockering går från, avsluta med mentalblockering.}}
+{{problem|nr=46|namn=Sodom|grad=7A|typ=|fa=Jon Smedsaas|landning=4|fadatum=2006-10-01|sopad=Jon Smedsaas|startgrepp=ja|text=Etablerad start i överhänget till vänster om Shocking truth. Sluta i densamma. I väntan på sittstart.}}
+{{problem|nr=47|namn=Mentalblockering, ss|grad=7B+|typ=Krimp|fa=Mattias Flodin|landning=4|betyg=2|fadatum=2006-10-06|sopad=Mattias Flodin|sittstart=ja|text=Sittstarten till mentalblockering. Starta sittande på marken i sprickan.}}
+{{problem|nr=48|namn=Frans aret|grad=7A+|typ=Aréte|fa=David Hallman|landning=4|betyg=1|fadatum=2006-10-30|sopad=David Hallman|text=fina areten (projektet) vid grusgropen. ståstart på stenen. blir fin med ss.}}
+{{problem|nr=49|namn=The Squeeze|grad=6A|typ=Slopers,Jug|fa=Robert Moskowitz|landning=3|betyg=1|fadatum=2007-04-22|sopad=Robert Moskowitz|sittstart=ja|text=Problemet gårpå baksidan av stenen som S.P.S går på.}}
+{{problem|nr=50|namn=Oförvånad|grad=5B|typ=|fa=Janne Andersson|fadatum=2007-04-04|sopad=Janne Andersson|variant=ja|startgrepp=ja|text=Samma start som "Förvånad" men gå rakt upp (se bild)}}
+{{problem|nr=51|namn=The sniffles|grad=6B|typ=Slopers,Dyno|fa=Robert Moskowitz|landning=3|fadatum=2007-06-10|sopad=Robert Moskowitz|text=Located on the stone directly behind "the dog." Start on slopers - dyno to the top.}}
+{{problem|nr=52|namn=Lill Hitlers vänstra|grad=7A+|typ=Krimp,Travers H->V,Reach|fa=Robert Hellberg|landning=3|fadatum=2007-10-13|sopad=Robert Hellberg|sittstart=ja|variant=ja|text=Samma start som Drängen, traversera sedan vänster och gör Lill Hitler upp.}}
+{{problem|nr=53|namn=Slynan extension|grad=6B|typ=Krimp,Slopers,Reach|fa=Robert Hellberg|landning=2|fadatum=2007-10-13|sopad=Robert Hellberg|sittstart=ja|text=Samma start som Drängen traversera sedan vänster å gör sedan Slynan rakt upp.}}
+{{problem|nr=54|namn=Trödje Slabben|grad=6C|typ=Slopers|fa=Ronny A|landning=3|betyg=1|fadatum=2008-02-23|sopad=Ronny A|uteslutningar=ja|text=Går på samma block som Patricks skick, WGS84 samt RT90. På sidan mitt emot Patricks skick. Rakt upp vid pilen, aréten är utesluten.}}
+{{problem|nr=55|namn=Humlan|grad=7C+|typ=Krimp,Dyno|fa=Patrick Olander|landning=3|betyg=2|fadatum=2008-04-01|sopad=Patrick Olander|startgrepp=ja|text=starta på samma grepp som patricks skick och sen dyno upp till kanten.}}
+{{problem|nr=56|namn=Takida|grad=6B|typ=Slopers,Travers V->H|fa=Ronny|landning=4|betyg=1|fadatum=2008-05-03|sopad=Ronny|text=Går på samma sten som Carcharodon Megalodon och The Sniffles. När ni står med ryggen mot The Dog så går den på stenen rakt fram, starta på vänstra aréten traversera höger och avsluta med The Sniffles.}}
+{{problem|nr=57|namn=Nice Chucks|grad=6B|typ=Reach|fa=Robert Berger|landning=3|betyg=2|fadatum=2008-05-17|sopad=Robert Berger|text=Hopp till startjug, höger om Frans Aréte, fortsätt på bra grepp.}}
+{{problem|nr=58|namn=Utan slut|grad=-|typ=Mantling|fa=Martin Ahl|landning=4|fadatum=2008-06-06|sopad=Martin Ahl|startgrepp=ja|uteslutningar=ja|text=Höger om nr17(ryggplask). Ej aréteÖverhäng.Start med båda händerna på samma stora grepp i ansiktshöjd.}}
+
+Nya problem:
+
+{{problem|nr=59|namn=Kings and queens|grad=5|sittstart=ja|typ=Sva,Krimp|text=Höger om nr19(junior aretén) nord sidan.Går mellan areten och sprickan, båda är uteslutna.|fa=Martin Ahl}}
+ 
+{{problem|nr=60|namn=Ring inte mig|grad=5A|fa=Magnus Tingnert|sittstart=ja|typ=Krimp|text=Låga blocket längs stigen från Sänka skepp till Disturbed, mitt i mellan. Går längst till höger om högsta punkten, med ryggen mot Tjockare än loket, rakt upp.}}
+
+{{problem|nr=61|namn=Healhook DeLux för nybörjare|grad=5|sittstart=ja|typ=Jug,Aréte|fa=Martin Ahl|text=Vänster om Ring inte mig. Högra aréten, etablera på juggen, använd stora hyllan till höger.}}
+ 
+{{problem|nr=62|namn=Fishy feet|grad=5|sittstart=ja|typ=Krimp|fa=Martin Ahl|text=Vänster om Healhook delux. Travers från vänster till höger, start i lodräta sprickan samt listen, upp och ut innan höger aréten, använd inte juggen.}}
+ 
+{{problem|nr=63|namn=Bara cool|sittstart=ja|typ=Krimp,Jug|grad=5|fa=Martin Ahl|text=Vänster om Fishy feet, vänstra aréten. Starta höger om aréten, res dig, runda och toppa ut.}}
+
+{{problem|nr=64|namn=Gör det svårt/lätt för dig SS|grad=5C|typ=Krimp,Slab|fa=Magnus Tignert, Martin Ahl|sittstart=ja|text=Blocket ligger 5m innan grillplatsen från parkerinen längs stigen. Start med ryggen mot RT90 in i en V-formation.}}
+{{problem|nr=64|namn=Gör det svårt/lätt för dig|grad=5|typ=Krimp,Slab|fa=Magnus Tignert, Martin Ahl|text=Ståstart}}
+
+{{problem|nr=65|namn=Refraktion |grad=6B|typ=Skick,Mantling|fa=Robert Hellberg|sittstart=ja|text=Går upp mellan drängen och Lill Hitler, start på sloperhyllan.}}
+
+{{problem|nr=66|namn=Karins arete|grad=5A|typ=Travers|fa=Karin Sundqvist|landning=3||fadatum=2010-07-18|sopad=Karin Sundqvist, Fredrik Andersson|text=Går till höger om 20. Hangla kanten och toppa ur rakt upp.}}
+
+{{problem|nr=67|namn=Karins arete, ss|grad=5C|typ=Travers|fa=Fredrik Andersson|landning=3||sittstart=ja|fadatum=2010-07-18|sopad=Karin Sundqvist, Fredrik Andersson|text=Går till höger om 20. Hangla kanten och toppa ur rakt upp.}}
+
+{{problem|nr=68|namn=Sloperfest|grad=6B|typ=Slopers|fa=H Skoog|landning=3|betyg=1|sittstart=ja|fadatum=2011-09-11|sopad=Martin|text=Börja längst ner vid arêten, slappa vänster och toppa ur rakt upp}}
+
+{{problem|nr=67|namn=Ett och ett halvt|grad=5B|typ=Catch|fa=H Skoog|landning=3||sittstart=ja|fadatum=2011-09-11|sopad=|text=Skitnödig sittstart på arêten mellan Patricks skick och WGS84. Hh på liten "knopp" till höger om arêten och vh på bra krimplist långt ner }}
+{{problem|nr=69|namn=Jamare|grad=6A|typ=Krimp,Jug,Travers|fa=Martin Ahl|landning=3|sittstart=ja|fadatum=2010|text=Ligger höger om nr8-Morran Start på tydliga hyllan traversera åt vä runt hörnet och toppa ut vid svarta fältet efter krimpar}}
+
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

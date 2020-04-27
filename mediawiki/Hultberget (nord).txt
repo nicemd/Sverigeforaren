@@ -1,0 +1,55 @@
+{{utkast|extern=ja}}
+
+==Allmänt==
+Fin, vertikal sportklätterklippa utanför Eskilstuna. Många leder kring 6b-6c.
+
+
+==Vägbeskrivning==
+Du aker fran Eskilstuna mot Katrineholm pa vag 230. I en rondell efter skogstorp svanger du vanster mot Hållsta pa vag 214. Kor forbi Hållsta och efter ca 6 km efter rondellen kor du in till vanster. Skyltat "Tandersten".  Kor grusvagen over ett falt till en t-korsning. Svang hoger och parkera vid ett elskap. Du ser vaggen till vanster inne i hagen.
+ 
+
+== Leder ==
+
+{{led|nr=1|namn=Älgen|grad=3c|betyg=|längd=5|fa=[[Harri Skyttborn]][[1988?|-88?]]|bultar=|typ=trad|text=}}
+{{led|nr=2|namn=Fiat Lux|grad=4a|betyg=|längd=6|fa=[[Tom Valis]][[1985|-85]]|bultar=|typ=trad|text=}}
+{{led|nr=3|namn=Tom & Jerry|grad=5b|betyg=|längd=|fa=[[Tom Valis]][[1985|-85]]|bultar=1|typ=mix|text=}}
+{{led|nr=4|namn=Den namnlösa|grad=7a+|betyg=|längd=10|fa=[[19|-]]|bultar=2|typ=sport|text=}}
+{{led|nr=5|namn=Klubban|grad=6c+|betyg=|längd=12|fa=[[Johnny Pettersson]], [[Kent Mihlberg]][[1989|-89]]|bultar=4|typ=sport|text=Varning för potentiellt markfall vid andra bulten}}
+{{led|nr=6|namn=Takråttan|grad=6b+|betyg=|längd=13|fa=[[Tom Valis]][[1985|-85]]|bultar=4|typ=sport|text=}}
+{{led|nr=7|namn=Takbobban|grad=6c|betyg=|längd=15|fa=[[Peter Viktorsson]][[19|-]]|bultar=6|typ=sport|text=}}
+{{led|nr=8|namn=Genvägen|grad=6c+|betyg=|längd=14|fa=[[Tomas Lundgren]][[1995|-95]]|bultar=6|typ=sport|text=}}
+{{led|nr=9|namn=Omvägen|grad=6c|betyg=|längd=15|fa=[[Tomas Lundgren]][[1998|-98]]|bultar=5|typ=sport|text=}}
+{{led|nr=10|namn=Stulet Stål|grad=6c|betyg=|längd=15|fa=[[Tomas Lundgren]][[1998|-98]]|bultar=5|typ=sport|text=}}
+{{led|nr=11|namn=Tango|grad=6b+|betyg=|längd=15|fa=[[Kent Mihlberg]], [[Johnny Pettersson]][[1989|-89]]|bultar=5|typ=sport|text=}}
+{{led|nr=12|namn=Milkshake|grad=6c|betyg=|längd=15|fa=[[Johan Lundgren]][[1995|-95]]|bultar=5|typ=sport|text=}}
+{{led|nr=13|namn=McFlurry|grad=6c+|betyg=|längd=16|fa=[[Johan Lundgren]][[2002|-02]]|bultar=6|typ=sport|text=}}
+{{led|nr=14|namn=Wicked shaker|grad=7b|betyg=|längd=15|fa=[[Johan Lundgren]][[19|-]]|bultar=7|typ=sport|text=}}
+{{led|nr=15|namn=Wicked viper|grad=7b|betyg=|längd=15|fa=[[Peter Viktorsson]][[19|-]]|bultar=6|typ=sport|text=}}
+{{led|nr=16|namn=Wicked diaper|grad=7b|betyg=|längd=15|fa=[[Tobbe Lindh]][[19|-]]|bultar=6|typ=sport|text=}}
+{{led|nr=17|namn=Hylands hörna|grad=6c+|betyg=|längd=16|fa=[[Stefan Lindblom]][[2003|-03]]|bultar=6?|typ=|text=}}
+{{led|nr=18|namn=Topprepan|grad=7b|betyg=|längd=|fa=[[Thoms Lundgren]][[2002|-02]]|bultar=|typ=|text=Topprepsled}}
+{{led|nr=19|namn=2.35:an direkt|grad=6b|betyg=|längd=17|fa=[[Joel Hedman]][[1994|-94]]|bultar=7|typ=|text=}}
+{{led|nr=20|namn=2.35:an|grad=6a+|betyg=|längd=17|fa=[[Jonas Frid]][[19|-]]|bultar=7|typ=|text=}}
+{{led|nr=21|namn=Mr E|grad=6a+|betyg=|längd=18|fa=[[Kent Mihlberg]], [[Johnny Pettersson]][[1988?|-88?]]|bultar=4|typ=mix|text=}}
+{{led|nr=22|namn=Rock and roll|grad=6b|betyg=|längd=17|fa=[[Joel Hedman]][[1994|-94]]|bultar=4|typ=mix|text=}}
+{{led|nr=23|namn=Batman|grad=6c|betyg=|längd=18|fa=[[Johnny Pettersson]], [[Kent Mihlberg]][[1989|-89]]|bultar=3|typ=mix|text=}}
+{{led|nr=24|namn=Gillette |grad=7a+|betyg=|längd=17|fa=[[Fredrik Jonsson]][[- (nord)|-]]|bultar=4|typ=mix|text=}}
+{{led|nr=25|namn=Blodiga väggen|grad=6b+|betyg=|längd=17|fa=[[Tom Valis]][[1985|-85]]|bultar=2|typ=mix|text=}}
+{{led|nr=26|namn=Petite list|grad=7a|betyg=|längd=17|fa=[[Magnus Ericsson]][[2002|-02]]|bultar=6|typ=sport|text=}}
+{{led|nr=27|namn=En kvinnlig list|grad=6c|betyg=|längd=18|fa=[[Joel Hedman]][[1994|-94]]|bultar=6|typ=sport|text=}}
+{{led|nr=28|namn=Help|grad=6a+|betyg=|längd=20|fa=[[Kent Mihlberg]], [[Johnny Pettersson]][[1988?|-88?]]|bultar=1|typ=mix|text=}}
+{{led|nr=29|namn=Platta väggen|grad=6c+|betyg=|längd=18|fa=[[Jonas Frid]][[- (nord)|-]]|bultar=6|typ=sport|text=}}
+{{led|nr=30|namn=Spindeln|grad=7a+|betyg=|längd=18|fa=[[Johnne Pettersson]], [[Kent Mihlberg]][[1990?|-90?]]|bultar=3|typ=|text=}}
+{{led|nr=31|namn=Glasklar|grad=7b+|betyg=|längd=9|fa=[[Erik Massih]][[19|-]]|bultar=2|typ=|text=}}
+{{led|nr=32|namn=Kristallklart|grad=7a+|betyg=|längd=9|fa=[[Peter Viktorsson]][[- (nord)|-]]|bultar=3|typ=|text=}}
+{{led|nr=33|namn=Ouvertyr|grad=6a+|betyg=|längd=20|fa=[[Tom Valis]][[1985|-85]]|bultar=4|typ=mix|text=}}
+{{led|nr=34|namn=Objuden gäst|grad=6c+|betyg=|längd=16|fa=[[Thomas Lundgren]][[19|-]]|bultar=3|typ=|text= Plus en pitong}}
+{{led|nr=35|namn=48:an|grad=6c|betyg=|längd=16|fa=[[Johnny Pettersson]],[[Kent Mihlberg]][[1989?|-89?]]|bultar=4|typ=|text=}}
+
+==Extern förare==
+Förare finns på Eskilstuna Klätterklubbs hemsida [http://www.klattring.net www.klattring.net].
+
+
+{{tryckt förare|klättring i södermanland (2006)=ja}}
+
+[[Kategori:Södermanland]]

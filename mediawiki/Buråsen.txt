@@ -1,0 +1,129 @@
+{{info klippa
+  |lat=58.523016
+  |long=11.534443
+}}
+
+{{utkast}}
+== Introduktion ==
+  
+== Karaktär ==
+Klassisk sprick och vägg-klättring. Buråsen och inbefattas av Bohusläns Klätterklubbs bultpolicy om att hållas bultfria i framtiden. 
+
+Classic crack and face climbing. Buråsen follows the Bohusläns Klätterklubb's bolt policy on staying bolt free in the future.  
+
+== Vägbeskrivning ==
+
+<googlemap version="0.9" lat="58.522389" lon="11.534615" type="map" width="300" height="300" controls="small">58.523016, 11.534443, Buråsen</googlemap>
+
+== Access ==
+Parkera vid en grusficka på andra sidan asfaltsvägen, mitt emot cementfabriken. Vägen fram till klippan används för trafik med breda maskiner, därför är det viktigt att du inte parkerar där.
+
+Park at the little exit/lot on the opposite side of the paved road just across from the cement plant. The road leading up to the actual cliff is being used by large machines and it is important not to park anywhere on that road.
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+==Leder==
+=== Nedre Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Farenheit 450|grad=7/A0|betyg=1|längd=30|fa=[[ Sem Larsen,Dag Kolserud, Rikard Hedman -86]]
+ |typ=mix|text=Tydligt vänstersluttande dieder som börjar med ett markant tak. Taket passeras med hjälp av en gammal pitong med slinga i. Den sliriga diedern säkras med något svårfunna men bra kilar och kamsäkringar. En gammal/rutten borrbult på toppväggen}}
+
+{{led|namn=451 grader Farenheit|grad=7+|betyg=2|längd=30|fa=[[ Johan Svensson 2010-10]]
+ |typ=trad|text=Den fria versionen av Farenheit 450. Passera taket på vänster sida med några välriktade häv, kort travers in i diedern. Utsteg via en tydlig fingerspricka ca1,5meter höger om borrbulten. Välsäkrad, många småkammar.}}
+
+{{led|namn=Vi Måste Resa Hem!|grad=6-|betyg=|längd=15|fa=[[Lars Svadängs, Lars Granqvist, Niklas Björnerstedt 87]]
+ |typ=trad|text=}}
+
+{{led|namn=Äntligen Hemma|grad=6-|betyg=|längd=10|fa=[[Johan Svensson, Ann-Sofie Andersson -01]]
+ |typ=trad|text=}}
+
+{{led|namn=Golfsemester|grad=5|betyg=|längd=10|fa=[[Mikael Palmgren, Fredrik Rapp -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Get Rich Or Die Trying|grad=8|betyg=3|längd=30|fa=[[Oskar Alexandersson, Petter Restorp -09]]
+ |typ=trad|text=Parallellinjen till nästa led. Nedfirningsankare.}}
+
+{{led|namn=Grymt Slut|grad=7-|betyg=2|längd=35|fa=[[Dag Kolsrud, Niklas Björnerstedt -86]]
+ |typ=trad|text=Den tydligaste vänsterlutande sprickan mitt på väggen. Nedfirningsankare lite till vänster på toppen. En variant är att klättra halva Grymt Slut och fortsätta in i Dagstur. Denna kallas Snällt slut och är grad 7.}}
+
+{{led|namn=Dagstur|grad=7+|betyg=1|längd=35|fa=[[Rikard Hedman, Henrik Bolander -94]]
+ |typ=trad|text=}}
+
+{{led|namn=Generationsskiftet|grad=6+|betyg=1|längd=40|fa=[[Lars Granqvist, Jan Liliemark -81]]
+ |typ=trad|text=Nedfirningsankare}}
+
+| width=300px|
+
+{{led|namn=Vad Heter Din Led?|grad=6-|betyg=|längd=35|fa=[[Niklas Björnerstedt, Lars Svadängs -87]]
+ |typ=trad|text=}}
+
+{{led|namn=Sweetwater|grad=6|betyg=|längd=40|fa=[[Lars Svadängs, Niklas Björnerstedt -87]]
+ |typ=trad|text=}}
+
+{{led|namn=Procession|grad=6+|betyg=2|längd=15|fa=[[Niklas Björnerstedt, Dag Kolserud, Sem Larsen, Rikard Hedman -86]]
+ |typ=trad|text=}}
+
+{{led|namn=För Mycket För En Fot|grad=7+|betyg=|längd=15|fa=[[Rikard Hedman -86]]
+ |typ=trad|text=}}
+
+{{led|namn=Henriks|grad=8-/8|betyg=|längd=20|fa=[[Henrik Bolander -94]]
+ |typ=trad|text=Bulten i början ser rostig ut och är onödig. Traversera istället in från höger.}}
+
+{{led|namn=Knekten|grad=6|betyg=|längd=15|fa=[[Rikard Hedman -86]]
+ |typ=trad|text=}}
+
+{{led|namn=Amatören|grad=6+|betyg=|längd=15|fa=[[Dag Kolserud, Sem Larsen -86]]
+ |typ=trad|text=}}
+
+{{led|namn=Vortex|grad=8-|betyg=2|längd=20|fa=[[Johan Nilsson, Anita Rosten, Dag Lövenvald -92]]
+ |typ=trad|text=Fin sprickklättring, men ofta blöt.}}
+
+|}
+
+=== Övre Väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Vem Fan Lever Som Man Lär|grad=7-|betyg=|längd=20|fa=[[Martin Jakobsson -05]]
+ |typ=trad|text=Sprickor längst bort till vänster på den branta väggen.}}
+
+{{led|namn=Andy Aviation|grad=8-/8|betyg=1|längd=22|fa=[[Henrik Sjöqvist]]
+ |typ=trad|text=}}
+
+{{led|namn=Kärlek a.k.a Z-sprickan|grad=9|betyg=3|längd=22|fa=[[Petter Restorp -07]]
+ |typ=trad|text=}}
+
+{{led|namn=Tillbaka Till Verkligheten|grad=7-|betyg=|längd=20|fa=[[Fredrik Persson -98]]
+ |typ=trad|text=Startar i vänsterkanten av den branta väggen. Dieder.}}
+
+{{led|namn=Accésskommitén|grad=6+|betyg=|längd=40|fa=[[Marcus Sandersnäs -06]]
+ |typ=trad|text=Mellan Frank Olssons stuga och skalmansväggen ligger två dieder. Det vänstra av dessa är Accésskommitén. Fin diederklättring i ca 20meter, sedan upp på en hylla och därifrån gemensamt med nästa led till toppen.}}
+
+{{led|namn=?|grad=6|betyg=|längd=40|fa=[[Petter Restorp, Hanna Mellin -06]]
+ |typ=trad|text=Dieder till hylla, sedan sprickor till toppen.}}
+
+| width=300px|
+
+{{led|namn=Frank Olssons Stuga|grad=7-|betyg=3|längd=20|fa=[[Lars Granqvist, Niklas Björnerstedt -87]]
+ |typ=trad|text=Startar bakom ett block och går genom ett tak, och vidare förbi ett litet dieder och mer sprickor till toppen. Mycket fin!}}
+
+{{led|namn=Fröken Olssons Kafé|grad=7+|betyg=1|längd=25|fa=[[Andreas Holm, Patrik Jacobson -06]]
+ |typ=trad|text=Gemensamt insteg med Frank Olssons stuga. Vid taket, vik istället höger och klättra via en undercling/jam-travers upp på en liten svahylla. Titta runt kanten där du sedan trippar iväg i den diagonala sprickan som leder till toppen. Annorlunda och kul klättring! Bra säkrat hela vägen, om du orkar...}}
+
+{{led|namn=Pluspuls|grad=7-|betyg=1|längd=15|fa=[[Lars Granqvist, Lasse Ingemansson]]
+ |typ=trad|text=Den vänstra sprickan.}}
+
+{{led|namn=Hygienens Fiende nr 1|grad=7|betyg=2|längd=15|fa=[[Johan Nilsson, Lotti Magnitun -89]]
+ |typ=trad|text=Den högra sprickan.}}
+
+|}
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:överhäng]]

@@ -1,0 +1,399 @@
+{{info klippa
+  |lat=58.48231
+  |long=11.45600
+}}
+
+{{stub}}
+== Allmänt==
+Verkligt klassisk mark med höga väggar och kvalitetsleder i hela registret. Fantastisk badsjö några hundra meter bort.
+
+== Karaktär ==
+Klassisk sprick och vägg-klättring. Välseröd inbefattas av Bohusläns Klätterklubbs bultpolicy om att hållas bultfria i framtiden. 
+
+Classic crack and face climbing. Välseröd follows the Bohusläns Klätterklubb's bolt policy on staying bolt free in the future.
+
+==Vägbeskrivning==
+<div style="clear:right;">
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=300 lat="58.468030" lon="11.445000" zoom="11" type="map" controls="small">
+58.48231,11.45600,[[Välseröd]]
+</googlemap>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Access {{access}}==
+
+{{AccessDB|klippa=valserod}}
+
+{{tryckt förare|förförare bohuslän (2012)=ja}}
+
+==Leder==
+=== Parkeringsväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Två 49:or|grad=6|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Lyckans Väg|grad=4+|betyg=|längd=17|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Vandrar i Regn|grad=6-|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+=== Villskuddväggen ===
+Firningsankare ovanför Villskudd, det är drygt 30 meter ner men fungerar med ett intakt 60 m rep.
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=En Bökig Historia Inne I Hörnet|grad=6+|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=Detta är en underskattad led. Tips! Efter kruxbulken klättrar du välsäkrat via tunna sprickor till starten på Torsketakets 2 replängd. Fortsätt denna (krämigt kilsäkrat dieder (grad 6) och du har en tvåstjärnig kalaskombination.}}
+
+{{led|namn=Smärtgränsen|grad=7|betyg=|längd=18|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Ungdoms Slövsinn|grad=6|betyg=1|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Vildsvin|grad=6|betyg=|längd=8|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Jungfrun|grad=4|betyg=3|längd=40|fa=[[Ingemar Strandberg mfl -75,76]]
+ |typ=trad|text=Traversera vänster på den stora hyllan tvärs över väggen (luftig grad 2), stand runt hörnet. Sedan upp i den klockrena sprickan.}}
+
+{{led|namn=Den Femte Ryttaren|grad=7|betyg=|längd=25|fa=[[]]
+ |typ=mix|text=Knallfin led som för till ett syltunt men välsäkrat krux. Tyvärr är den felbultad vid det första taket. FA hade en förplacerad lååång slinga i den första bulten. Om du inte har med - och litar på - skyhooks, tvingas du göra ett 6+ flytt innan du kan klippa bulten (och riskerar ett frakturfall i rampen).}}
+
+{{led|namn=Ingemars Kamin|grad=6-|betyg=2|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Mitt Paradis|grad=7-/7|betyg=2|längd=40|fa=[[]]
+ |typ=mix|text=}}
+
+| width=300px|
+
+{{led|namn=Villskudd|grad=6-|betyg=3|längd=40|fa=[[Rune Thrap-Meyer, Ulf Geir Hansen, Håkon Staver, Dag Kolsrud, 1980]]
+ |typ=trad|text=En av Bohusläns finaste i sin grad. Hangla åt vänster tills du når fingersprickan. Gå rakt upp, fortsätt genom liten diederformation/flak. När sprickan tar slut, kliv ut åt vänster till nästa spricka. Följ denna med dragning åt höger till takets högra sida. Traversera vänster under taket, sedan upp till hyllan. Fortsätt ända till toppen för att få ut max av leden. Några långa slingor hjälper mot repdrag.}}
+
+{{led|namn=Vildvin|grad=7-|betyg=2|längd=40|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Rödsurt|grad=7-|betyg=|längd=40|fa=[[]]
+ |typ=trad|text=Alternativt utsteg till ''Vildvin''. Klättra sömen rätt upp till firningsankaret.}}
+
+{{led|namn=Benådad|grad=6|betyg=|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Nunnegurkan|grad=5+|betyg=|längd=40|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=En Gurka I Nunnan|grad=6-|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+=== Slimlineväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Via Gumball|grad=3+|betyg=|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Rektum Dei a.k.a Världens Svåraste 4+|grad=6-|betyg=|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Slimline|grad=7+|betyg=3|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Feta Linjen|grad=8- R|betyg=|längd=30|fa=[[Rein Leidal, Öystein K Johnsen -06]]
+ |typ=trad|text=Som Slimline de första 15 m upp till ett horisontellt riss som hanglas till areten till höger. Upp areten ett par meter, så ut på sva till höger. Följ detta till toppen. Leden börjar med ett tak, fortsätter med en fingerspricka, en hangel, en arete och till sist ett psykande sva långt från den sista säkringen. Den här krämleden får med sig det mesta av det bästa på en av Sveriges finaste formationer.}}
+
+{{led|namn=Torsketaket|grad=7+|betyg=1|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Vinsvinn|grad=5-|betyg=|längd=10|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+=== Stora Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Gulag|grad=6+|betyg=|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Nio Månader|grad=7/7+|betyg=2|längd=50|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Atari|grad=8-/8|betyg=3|längd=50|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Omstart|grad=7-|betyg=|längd=12|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Gör Stor Större|grad=6+|betyg=1|längd=30|fa=[[Niklas Björnerstedt, Lars Svadängs -89]]
+ |typ=trad|text=Det jämnare och finare avlutet på Stora väggen. Efter stand på Stora väggen klättra upp lite, traversera höger, och följ den naturliga linjen rakt upp. En bult saknas (sept 2010), något run-out.}}
+
+{{led|namn=Stora väggen|grad=7-|betyg=2|längd=55|fa=[[Jan Liliemark, Björn Holmgren (FF) -82]]
+ |typ=trad|text=Välsäkrad och fin om man har gott om grejer. Första replängden är 7-, stand vid busken. Andra replängden är smutsig och igenväxt (5+), och för den kompetenta sjuminusklättraren rekommenderas Gör Stor Större som ett finare avslut.}}
+
+{{led|namn=Kameleonten|grad=7+ R|betyg=3|längd=45|fa=[[Stefan Kalén]], [[Ulf Karlsson]] [[2010]]
+ |typ=trad|text=Börja direkt ovanför det stora överhänget längst ned i sprickan några meter till vänster om Uppskjuten Start. Följ denna spricka tills den börjar gå ihop med Uppskjuten Start och gå sedan vänster mot bågformad spricka. Följ den bågformade sprickan upp till hylla. Traversera vänster längsmed hyllan till möjlig standplats. Fortsätt uppåt i det lilla diedret mellan Stora väggen och Gör Stor Större och avsluta med känslig väggklättring rakt upp till utsteget. Mycket mångfacetterad och jämn klättring utan nämnvärda transportsträckor.}}
+
+{{led|namn=Uppskjuten Start|grad=7|betyg=3|längd=45|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Direktinsteg - Uppskjuten Start|grad=|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Harrys Laxermedel|grad=6-|betyg=|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Lätta Leden|grad=5|betyg=1|längd=50|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Mamma!|grad=6|betyg=|längd=35|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Storebror|grad=6|betyg=|längd=35|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Turbosex|grad=5+ A0|betyg=|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Sesem|grad=5+|betyg=|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+=== Umuliusväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Rabarberpaj|grad=5|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Adrenaline|grad=7 R|betyg=2|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Birgers Borst Direkt|grad=7|betyg=|längd=25|fa=[[Torkel Røisli -04]]
+ |typ=trad|text=Direktinsteg till Birgers borst. Startar direkt till vänster om originaldiedret. Följer en kant och några sidotag. Ansluter till Birgers borst halvvägs upp.}}
+
+{{led|namn=Birgers Borst|grad=6+|betyg=3|längd=25|fa=[[]]
+ |typ=trad|text=Mycket delikat men mycket välsäkrat krux.}}
+
+{{led|namn=Muffins|grad=7-|betyg=2|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Umulius|grad=7+|betyg=3|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Plommen I Egget|grad=5+|betyg=|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Celesta|grad=6|betyg=|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Till Slut|grad=8-|betyg=|längd=20|fa=[[Marcus Sandersnäs -05]]
+ |typ=trad|text=Några meter till höger om Celesta. Börjar i ett överhäng, upp till en pricka. Följ denna över ytterligre ett mindre överhäng, sedan fin slott-klättring till ett bitande boulderkrux som avslutas på en svahylla. Efter hyllan fin ihållande tvärbandsklättring till en avslutande spricka som leder dig till topps.}}
+
+|}
+
+=== Kaminväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Jord I Stålborsten|grad=5-|betyg=|längd=12|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Pianist! En Tri-cam|grad=6-|betyg=|längd=12|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Ett Barn Av Glas|grad=7+|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Jungeltunnel|grad=4+|betyg=|längd=|fa=[[Håkan Persson, Henrik Johnsson -05]]
+ |typ=trad|text=Går i kaminen i hörnet mellan ''Ett Barn Av Glas'' och ''Glöm Inte Det Gröna Fodralet''. Över kaminen vid hyllan, följ spricka på vänsterväggen upp till toppen. Går att säkra med normalt rack. Orensad men det går ändå.}}
+
+{{led|namn=Glöm Inte Det Gröna Fodralet|grad=6-|betyg=|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Järnkaminen|grad=5|betyg=2|längd=30|fa=[[]]
+ |typ=trad|text=Kalasled i sin grad. Äkta klassisk kaminklättring följs av fin fingerspricka.}}
+
+{{led|namn=Säter-expressen|grad=7+|betyg=1|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Bispberg|grad=6+|betyg=|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Impotent Pungråtta|grad=5|betyg=|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+=== 100-Dagar-Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Streck|grad=7-|betyg=|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Kryss|grad=7-|betyg=|längd=30|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Paulssons Puts|grad=7|betyg=|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Holsts Hyfsade|grad=3+|betyg=|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Grann Start|grad=7|betyg=2|längd=25|fa=[[]]
+ |typ=mix|text=}}
+
+| width=300px|
+
+{{led|namn=100 Dagar|grad=6-|betyg=2|längd=20|fa=[[]]
+ |typ=trad|text=Ihållande, teknisk och fin fingerspricka.}}
+
+{{led|namn=Vilde Rilde|grad=6+|betyg=|längd=8|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Manikyr|grad=5+|betyg=|längd=8|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Gud Hör Bön|grad=5+|betyg=|längd=35|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Kranföraren|grad=6+|betyg=|längd=10|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+Ungefär 100 meter till höger om 100 dagar, precis innan väggen tar slut går följande leder.
+{|
+|- valign="bottom"
+|width=230px|
+{{led|namn=David och Goliat|grad=5-|betyg=|längd=20|fa=[[Simon Talltorp]] [[2011]] |typ=trad|text=Omväxlande stora sprickor och bra lister till vänster om Pontus arête. Välsäkrad start men runout på mitten. Avslutar i det flacka diedret från hyllan till toppen.}}
+[[Bild:Ängsväggen_david_och_goliat.jpg|thumb|220px|left|David och Goliat]]
+|width=230px|
+{{led|namn=Pontus arête|grad=6|betyg=2|längd=20|fa=Topprep |typ=trad|text=Börja längs arêten på blocket för att fortsätta på arêten på väggen. Svårsäkrad.}}
+[[Bild:Ängsväggen_pontus_arete.jpg|thumb|220px|left|Pontus arête]]
+|width=230px|
+{{led|namn=Pontus styvbror|grad=5-|betyg=|längd=20|fa=[[Erik Kuiper]] [[2011]] |typ=trad|text=Väggklättring till höger om Pontus arête precis till vänster om det stora diedret. Utsteg precis till höger om arêten.}}
+[[Bild:Ängsväggen_pontus_styvbror.jpg|thumb|220px|left|Pontus styvbror]]
+|}
+
+=== Övre Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Isabelle|grad=7-|betyg=|längd=12|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Elda Inte På Hällen|grad=6+|betyg=|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Skit Inte I Mitt Kylskåp|grad=6+|betyg=|längd=20|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+=== Ying-Yang Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Havsglimt|grad=5|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Serverat Och Klart|grad=6|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=?|grad=6|betyg=|längd=15|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Lagom Bold|grad=7+|betyg=|längd=25|fa=[[]]
+ |typ=mix|text=}}
+
+{{led|namn=Ying|grad=6-|betyg=|längd=25|fa=[[]]
+ |typ=trad|text=}}
+
+{{led|namn=Yang|grad=6-|betyg=|längd=40|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+=== Skogsväggen ===
+
+{{led|namn=Wallace|grad=6+|betyg=|längd=20|fa=[[Niklas Björnerstedt, Tina Jörgensen -97]]
+ |typ=trad|text=}}
+
+=== Badklippan ===
+
+{{led|namn=Innimellom|grad=5|betyg=|längd=15|fa=[[Tina Jörgensen, Jan Ahrens -01]]
+ |typ=trad|text=}}
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:access]]

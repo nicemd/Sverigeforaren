@@ -1,0 +1,80 @@
+{{info klippa
+  |lat=59.11770
+  |long=17.85865
+}}
+
+{{komplett}}
+==Allmänt==
+Ganska nyligen utvecklad klippa med flera fina leder i registret 5c-7b, med tonvikten på 6c.
+
+==Vägbeskrivning==
+När du svängt av väg 257 så är det åker på båda sidor om vägen. Åkern på vänster sida om vägen övergår mer och mer till att bli ett träsk och ca 50-100 meter in bakom träsket ligger väggen. I höjd med att åkern på HÖGER sida tar slut och övergår till skog finns en smal och gropig grusväg som leder till en röd liten barack/förråd där det får plats ett par tre bilar.
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.11770" lon="17.85865" zoom="14" type="map" controls="small">
+59.11770,17.85865,[[Uringe]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Uringe
+lat=17858650
+long=59117700
+</slresa>
+</div> 
+
+
+<div style="clear:right;"></div>
+
+==Leder==
+
+[[Bild:uringe.jpg]]
+
+{{led|namn=Okänt|grad=6a+|betyg=|längd=|fa=|bultar=|typ=sport|text=Ny. Tungt insteg }}
+
+{{led|namn=Med lite fantasi|grad=8a|betyg=|längd=8|fa=|bultar=3|typ=sport|text=Ny. Power-klättring med skygglappar. Rampen till vänster ingår ej i starten. Gå rakt upp efter tredje bb, inte ut till höger! Leden slutar mitt på väggen (snabblänk).}}
+
+{{led|namn=Oldboy|grad=7b|betyg=2|längd=|fa=[[JE]] [[2007|-07]]|bultar=|typ=sport|text=Ny. Bultat linje mellan "Med lite fantasi och Slitvargen". Följ bultarna rakt upp och vik av till höger i den övre sprickan, avslutas i Slitvargens ankare.}}
+
+{{led|nr=1|namn=Svullo|grad=5b|betyg=|längd=|fa=[[Reino Liimatainen]], [[A Eriksson]] [[1998|-98]]|bultar=|typ=mix|text=Går ihop med {{ledlänk|namn=Okänt}} och kan ev klättras som en sportled.}}
+
+{{led|nr=2|namn=Slitvargen|grad=6c|betyg=1|längd=|fa=[[Reino Liimatainen]] [[1997|-97]]|bultar=|typ=sport}}
+
+{{led|nr=3|namn=Tvåmeters mannen|grad=6c+|betyg=1|längd=|fa=[[Reino Liimatainen]] [[1998|-98]]|bultar=|typ=sport}}
+
+{{led|namn=Tvåmeters mannen direkt|grad=7a|betyg=|längd=|fa=[[Jan Emdebrant]] [[2005|-05]]|bultar=|typ=sport|text=Ny. Fortsätt rakt upp till intressant avslutning.}}
+
+{{led|namn=Så in i tallen|grad=7b|betyg=|längd=|fa=[[Johan Luhr]] [[2007|-07]]|bultar=|typ=sport|text=Ny. Gissar att den går bakom trädet.}}
+
+{{led|nr=4|namn=Vilohemmet|grad=6c+|betyg=1|längd=|fa=[[Reino Liimatainen]] [[1998|-98]]|bultar=|typ=sport}}
+
+{{led|nr=5|namn=Tidsmaskin|grad=6c+|betyg=|längd=|fa=[[Reino Liimatainen]] [[1998|-98]]|bultar=|typ=sport}}
+
+{{led|nr=6|namn=Yogi|grad=6a|betyg=1|längd=|fa=[[Reino Liimatainen]] [[1997|-97]]|bultar=|typ=sport}}
+
+{{led|nr=7|namn=Girburken|grad=6c|betyg=1|längd=|fa=[[Reino Liimatainen]] [[1999|-99]]|bultar=|typ=sport}}
+
+{{led|nr=8|namn=Rävspel|grad=6a|betyg=|längd=|fa=[[Reino Liimatainen]], [[A Eriksson]] [[1997|-97]]|bultar=|typ=sport}}
+
+{{led|nr=9|namn=Kongo Jim|grad=7a+|betyg=|längd=|fa=[[Reino Liimatainen]] [[1999|-99]]|bultar=|typ=sport}}
+
+{{led|nr=10|namn=Mantra|grad=7a|betyg=|längd=|fa=[[Magnus Derkert]], [[Reino Liimatainen]] [[1997|-97]]|bultar=|typ=sport}}
+
+{{led|nr=11|namn=Amigo|grad=6c|betyg=1|längd=|fa=[[Reino Liimatainen]], [[Magnus Derkert]] [[1997|-97]]|bultar=|typ=sport}}
+
+{{led|nr=12|namn=Timex|grad=6c|betyg=|längd=|fa=[[Reino Liimatainen]]|bultar=|typ=sport}}
+
+{{led|namn=Sicksack|grad=5c|betyg=|längd=|fa=[[Mattias Hamlin]][[2007|-07]]|bultar=|typ=sport|text=Ny.}}
+
+{{led|namn=Filuren|grad=6c|betyg=|längd=|fa=[[Mattias Hamlin]][[2007|-07]]|bultar=|typ=sport|text=Ny.}}
+
+{{led|namn=Det lilla äventyret|grad=6c|betyg=2|längd=|fa=[[Mattias Hamlin]][[2007|-07]]|bultar=|typ=sport|text=Ny.}}
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]
+[[Kategori:Sva]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Saknar skrivarformatering]]

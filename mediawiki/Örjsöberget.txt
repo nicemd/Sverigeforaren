@@ -1,0 +1,46 @@
+[[Kategori:Trad]]
+[[Kategori:Ångermanland]]
+
+[[Kategori:Ångermanland]]
+{{info klippa
+  |lat=62.596800
+  |long=18.016100
+}}
+
+{{utkast}}
+==Allmänt==
+Solid med leder mellan 5-20m. På toppen och i närområdet finns några block där man kan hitta fina problem.
+
+==Vägbeskrivning==
+Till Örsjöklippan tar man sig lättast genom att färdas från Härnösand mot Smitingens havsbad och sedan svänga höger på grusvägen mot Örsjön. När man sedan kommit in på grusvägen mot Örsjön fortsätter man uppför backen och stannar vid första vägen åt vänster efter sandtaget. Färdas man med bil så måste man parkera vid platsen på motsatt sida av vägen. Här leder en liten skogsväg förbi ett hus. Gå uppför den branta backen och ner på ängen. I hörnet mitt emot, rakt över ängen, börjar en stig som leder ända till toppen av klippan. Därifrån kan man repellera ner till klippans fot, ta ravinen med fast rep eller vika av när stigen svänger vänster upp mot berget.
+
+==Camping==
+På toppen finns en fikaplats med härlig utsikt. Vill man ha ett dopp eller en kortare promenad rekommenderas dalgången med klappersten ner mot havet. Annars bara några kilometer till närmaste vandrarhem och camping.
+
+==Access {{access}} ==
+Färdas du med bil så är det lämpligt att parkera vid parkeringen på motsatt sida av vägen. Markägarna gillar inte att klättrare kör över gårdsplanen. Det kan förekomma att fåglar häckar i närheten och visa då hänsyn genom att inte störa dessa.
+
+==Bouldering==
+Örsjöklippan innehåller en del problem som främst finns belägna på blocken ovanför klippan. Norr om stigen som leder till klippan finns också ett fåtal problem.
+
+'''2010-07-25 fanns det''' <br>
+*'''Totalt''' 16 problem <br>
+*'''Upp till 5C''' 12 problem <br>
+*'''6A till 6C+''' 4 problem <br>
+*'''7A till 7C+''' 0 problem <br>
+
+==Leder==
+
+===1. Storaväggen===
+{{led|namn=Peters aréte|nr=1|grad=?|betyg=0|längd=|fa=[[Peter H]] [[2011]]|bultar=|typ=trad|text=Start vid botten av ravinen vänster om klippan. Följ aréten till bultat ankare. (Sportprojekt) }}
+{{led|namn=Flata Flaket|nr=2|grad=6a|betyg=0|längd=|fa=[[Jakob H,Erik L]] [[2000]]|bultar=|typ=trad|text=Insteg vid spricksystemet 1m t.v.om det vänstra diedret. Klättra rakt uppmed en armlängds avstånd från aréten. Tunna lister och grepp. Ankare. (Sportprojekt)}}
+{{led|namn=Rotfyllning|nr=3|grad=5b|betyg=0|längd=|fa=[[Jakob H, ]] [[2005]]|bultar=|typ=trad|text=Det vänstra diedret genom irriterande vegetation. Avsluta på hyllan eller fortsätt den grunda sprickan till toppen.}}
+{{led|namn=Strykjärnet|nr=4|grad=?|betyg=0|längd=|fa=[[Peter H/Jakob H (Möjligtvis gjord tidigare)]] [[2011]]|bultar=|typ=trad|text=Linjen vänster om överhänget. Startar med hjälp av blocket. Ankare. (Sportprojekt).}}
+{{led|namn=Taket|nr=5|grad=?|betyg=0|längd=|fa=[[Peter H, Erik L]] [[2011]]|bultar=|typ=trad|text=Samma start som Strykjärnet men avsluta över taket. Ankare. (Sportprojekt)}}
+{{led|namn=Björlins projektet|nr=6|grad=?|betyg=0|längd=|fa=[[]] [[]]|bultar=|typ=trad|text=Startar i den överhängande delen två meter t.v. om Bogren. Projekt}}
+{{led|namn=Bogren|nr=7|grad=?|betyg=0|längd=|fa=[[]] [[]]|bultar=|typ=trad|text=Linjen t.v. om Sprickan.  (Sportprojekt).}}
+{{led|namn=Sprickan|nr=8|grad=5c|betyg=0|längd=|fa=[[Okänd]] [[]]|bultar=|typ=trad|text=Den tydliga sprickan i högra didret. Väl uppe i sprickan väntar ihållande layback klättring. Välsäkrad med friends. Ankare.}}
+{{led|namn=Inte faan vet jag|nr=9|grad=6b/6b+|betyg=|längd=|fa=[[Mattias B]] [[]]|bultar=|typ=trad|text=Spricksystemet t.h. om Namnlös 1. Kruxet är den överhängande biten. Välsäkrad men tung. Ankare}}
+{{led|namn=Bullen|nr=10|grad=6a|betyg=|längd=|fa=[[Jakob H]] [2005]|bultar=|typ=trad|text=Insteg vid de pelarliknande formationerna (löst) Klättra upp mot bullen där man bökar sig över denna för att sedan kort traversera t.v. och sedan följa den tunna sprickan.}}
+{{led|namn=Namnlös|nr=11|grad=5c|betyg=|längd=|fa=[[Okänd]]|bultar=|typ=trad|text=Bakom blocket börjar denna korta men lite aviga led. Klättra den lätt överhängande sprickan och sedan efter lister till utsteget.}}
+{{led|namn=Trädkramaren|nr=12|grad=5b|betyg=|längd=|fa=[[Mattias B, Milly L]]|bultar=|typ=trad|text=Sprickan som ligger bakom trädet.}}

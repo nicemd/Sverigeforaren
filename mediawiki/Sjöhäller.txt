@@ -1,0 +1,70 @@
+{{info klippa
+  |lat=58.429628
+  |long=11.434836
+}}
+
+{{utkast}}
+== Introduktion ==
+  
+== Karaktär ==
+En 40m hög klippa med egen strand. Två firningsankare på toppen.
+
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.423651" lon="11.4505" type="map" zoom="11" width="400" height="300" controls="small">58.429628, 11.434836, Sjöhäller</googlemap>
+</div>
+Fortsätt förbi Häller, ca 1km. En åker passeras och vatten till höger en kulle blir synlig. Parkera vid kullens högra fot vid en liten gräsplan. Gå rakt över kullen i sänkan. Berget som vetter mot vatten dyker upp till vänster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== Access ==
+
+==Leder==
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Svarta Svanen|grad=7|betyg=1|längd=20|fa=[[Henrik Bolander]], [[Dag Lövenvald]] [[1997|-97]]
+ |typ=mix|text=Sprickor och dieder genom svart klippa. En bult.}}
+
+{{led|namn=Thriller|grad=8-/8|betyg=3|längd=40|fa=[[Henrik Bolander]], [[Jonas Böttinger]] [[1991|-91]]
+ |typ=mix|text=Börjar i sprickan v om den stora skivan. Tung sprick och diederklättring upp till hylla. Traversera h 4m under ett litet tak. Fyra borrbultar}}
+
+{{led|namn=Little Yosemite|grad=8/8+|betyg=3|längd=40|fa=[[Henrik Bolander]] [[1991|-91]]
+ |typ=trad|text=Startar vid skivan. Tunn tung och hård.}}
+
+| width=300px|
+
+{{led|namn=I All Enkelhet|grad=7+|betyg=2|längd=40|fa=[[Johan Svensson]], [[Ann-Sofi Andrsson]] [[2007|-07]]
+ |typ=mix|text=Lång linje till höger om Little Yosemite, startar i ett överhäng. Fem borrbultar som kompletteras med en god selektion kilar och friends. För berget sedvanligt hög kvalitet.}}
+
+{{led|namn=Uppercut|grad=9-|betyg=2|längd=18|fa=[[Petter Restorp]] [[2008|-08]]
+ |typ=sport|text=}}
+
+{{led|namn=Crassostrea gigas|grad=9|betyg=|längd=10|fa=[[Erik Heyman]] [[2009|-09]]
+ |typ=sport|text=}}
+
+|}
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:mix]]
+[[Kategori:sport]]

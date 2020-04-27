@@ -1,0 +1,45 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Flintan|grad=4B|typ=Jug|fa=Jörgen Åsberg|landning=4|betyg=1|fadatum=2005-06-07|sopad=Jörgen Åsberg|sittstart=ja|text=Sittstart mitt för stenen, går rakt upp.Stenen ser ut som en pilspets av flintsten.}}
+{{problem|namn=Forsa Suntrip|grad=6A|typ=Krimp,Slab|fa=Jörgen Åsberg|landning=3|betyg=2|fadatum=2005-06-07|sopad=Jörgen Åsberg|text=Rakt upp!}}
+{{problem|namn=Snabba ryck|grad=6A|typ=Krimp,Aréte,Jug|fa=Jörgen Åsberg|landning=5|betyg=1|fadatum=2005-06-15|sopad=Jörgen Åsberg|sittstart=ja|text=Startar till vänster på stenen. Går rakt upp.}}
+{{problem|namn=Dödsryck|grad=6B|typ=Krimp,Överhäng|fa=Jörgen Åsberg|landning=5|betyg=2|fadatum=2005-06-13|sopad=Jörgen Åsberg|sittstart=ja|text=Startar till höger på stenen. Går rakt upp vänster om arétet.}}
+{{problem|namn=Reach Your Nirvana|grad=6C|typ=Dyno,Jug|fa=Robert Österholm, Ulf Moberg|landning=3|betyg=3|fadatum=2005-06-16|sopad=Robert Österholm, Ulf Moberg|text=Starta med händerna på den stora hyllan under flaket och försök att nå ditt nirvana!Ett gudomligt problem!}}
+{{problem|namn=St(r)atovarius|grad=6A|typ=Reach|fa=Ulf Moberg|landning=2|betyg=1|fadatum=2005-06-15|sopad=Ulf Moberg|sittstart=ja|uteslutningar=ja|text=Aréten är ej med.}}
+{{problem|namn=Swarm|grad=6B|typ=Krimp|fa=Ulf Moberg|landning=3|betyg=2|fadatum=2005-06-14|sopad=Ulf Moberg|uteslutningar=ja|text=Startar längst till vänster på stenen. Aréten & hyllan längst ner är ej med.}}
+{{problem|namn=Moss|grad=6B|typ=Krimp|fa=Ulf Moberg|landning=2|betyg=1|fadatum=2005-06-14|sopad=Ulf Moberg|sittstart=ja|text=Startar till höger om St(r)atovarius.}}
+{{problem|namn=Nybörjartur|grad=4A|typ=Krimp,Slab,Jug|fa=Susanne Boija|landning=1|betyg=2|fadatum=2005-06-21|sopad=Susanne Boija|uteslutningar=ja|text=Rakt upp utan kanten till vänster.}}
+{{problem|namn=Solskens Aretén|grad=6A|typ=Krimp,Mantling,Aréte|fa=Robert Österholm|landning=3|betyg=2|fadatum=2005-06-21|sopad=Robert Österholm|sittstart=ja|text=Följ aretén hela vägen upp.}}
+{{problem|namn=Lita på listen!|grad=6A+|typ=Krimp,Mantling|fa=Robert Österholm|landning=3|betyg=2|fadatum=2005-06-21|sopad=Robert Österholm|text=Mycket crimp lister blir det. Går rakt upp. Rätt högt problem.}}
+| width="250px" |
+{{problem|namn=Cross your Mind|grad=6A|typ=Reach,Jug,Spricka|fa=Robert Österholm|landning=4|betyg=1|fadatum=2005-06-21|sopad=Robert Österholm|sittstart=ja|text=Startar till höger om Solskens Aretén. Följ hyllorna upp.}}
+{{problem|namn=Zulu Warrior|grad=6C|typ=Krimp,Pinch|fa=Jörgen Åsberg|landning=3|betyg=2|fadatum=2005-06-22|sopad=Jörgen Åsberg|text=Startar i eller under det lilla skarpa underclinget. Går rakt upp.}}
+{{problem|namn=Mumindalen|grad=7A|typ=Krimp,Mantling,Överhäng|fa=Jörgen Åsberg|landning=2|betyg=3|fadatum=2005-06-29|sopad=Jörgen Åsberg|text=Startar under bullen och går rakt upp.}}
+{{problem|namn=Tre dagars skäggstubb|grad=6A|typ=Krimp,Mantling,Överhäng|fa=Robert|landning=4|fadatum=2005-08-30|sopad=Robert|text=Startar till höger om Cross your mind ,följ areten upp.}}
+{{problem|namn=Bönstjälken|grad=6A|typ=Krimp,Mantling,Highball|fa=Robert|landning=3|betyg=2|fadatum=2005-08-30|sopad=Robert|text=Startar till höger om Reach your nirvana, ett lite högre problem.}}
+{{problem|namn=Listen ss|grad=6B|typ=Krimp,Reach|fa=Robert Österholm|landning=3|betyg=2|fadatum=2005-09-12|sopad=Robert Österholm|sittstart=ja|text=Sittstart på Lita på listen ,sköna grepp och move med sittstarten.}}
+{{problem|namn=Crimp it reel good!|grad=6B+|typ=Krimp,Reach|fa=Robert Österholm|landning=3|betyg=2|fadatum=2005-09-12|sopad=Robert Österholm|text=Startar till vänster om Lita på listen och utsteget är nästan samma som Lita på listen. Lätt dragning åt höger.}}
+{{problem|namn=Stora Morran|grad=7B+|typ=Krimp|fa=Fredrik Bodin & Jörgen Åsberg|landning=3|betyg=3|fadatum=2005-08-21|sopad=Fredrik Bodin & Jörgen Åsberg|text=Går rakt upp till höger om "Mumindalen".}}
+{{problem|namn=Crimpiania|grad=7A+|typ=Krimp,Travers H->V,Reach|fa=Robert Österholm|landning=3|betyg=2|fadatum=2005-10-15|sopad=Robert Österholm|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Startar mellan Crimp it reel good och Listen ss.Vänster hand på en trefingers hylla och höger i en sidepullspricka. Areten till höger inte med och stenen under ej med. Jobba er upp till stående med crimp grepp och traversera till Crimp it.}}
+| width="250px" |
+{{problem|namn=Over the Edge|grad=6A|typ=Krimp,Reach,Spricka|fa=Robert Österholm|landning=3|betyg=1|fadatum=2005-10-15|sopad=Robert Österholm|text=Startar till vänster om Crimp it reel good!}}
+{{problem|namn=Vem kan man lita på?|grad=6A|typ=Aréte,Travers V->H,Jug|fa=Robert Österholm|landning=3|betyg=1|fadatum=2007-05-01|sopad=Robert Österholm|sittstart=ja|text=Börjar till vänster och följer rampen till höger och areten upp!}}
+{{problem|namn=StairWay to what?|grad=6A|typ=Krimp,Mantling,Överhäng|fa=Robert Österholm|landning=3|betyg=2|fadatum=2007-05-01|sopad=Robert Österholm|sittstart=ja|text=Går rakt upp.}}
+{{problem|namn=HeartBreaker|grad=6B|typ=Krimp,Mantling,Reach|fa=Robert Österholm|landning=2|betyg=1|fadatum=2007-05-01|sopad=Robert Österholm|sittstart=ja|text=Sittstart, går rakt upp.}}
+{{problem|namn=Fearless|grad=6C+|typ=Överhäng,Highball,Travers V->H|fa=Robert Österholm|landning=5|betyg=1|fadatum=2007-05-10|sopad=Robert Österholm|startgrepp=ja|text=Startar längst till vänster på hyllan i sprickan.Traversera till höger och kliv upp på hyllan sen rakt upp!}}
+{{problem|namn=Treachery|grad=6B|typ=Krimp,Mantling,Highball|fa=Robert Österholm|landning=5|fadatum=2007-05-12|sopad=Robert Österholm|sittstart=ja|startgrepp=ja|text=Startar i sprickan till höger om det lilla taket.Gå rakt upp.}}
+{{problem|namn=SideWays|grad=6A|typ=Highball,Travers V->H,Spricka|fa=Robert Österholm|landning=5|betyg=1|fadatum=2007-05-12|sopad=Robert Österholm|sittstart=ja|startgrepp=ja|text=Startar på samma ställe som Treachery,följ sprickan upp.}}
+{{problem|namn=My lost soul ,my lost life...|grad=6B|typ=Krimp,Highball,Aréte|fa=Robert Österholm|landning=3|betyg=2|fadatum=2007-05-12|sopad=Robert Österholm|sittstart=ja|text=Sittstart under areten ,följ den upp.}}
+{{problem|namn=Bulgardödar´n|grad=6B|typ=Mantling,Överhäng,Jug|fa=Robert Österholm|landning=2|betyg=1|fadatum=2007-05-12|sopad=Robert Österholm|sittstart=ja|text=Går rakt upp.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

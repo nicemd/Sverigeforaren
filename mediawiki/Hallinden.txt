@@ -1,0 +1,281 @@
+{{info klippa
+  |lat=58.457523
+  |long=11.527233
+}}
+
+{{utkast}}
+
+
+'''OBS!'''<br>
+'''Parkering får endast ske vid Hallindens Buss-Station.'''<br>
+'''Det är inte tillåtet att köra in på traktorväggen som leder fram till stora väggen!'''
+
+
+== Introduktion ==
+En av sveriges absolut finaste och viktigaste klippor. Detta är det första berg du ser på väg in mot Lysekil från E6, och ett absolut måste för besökaren. Lederna är långa (upp till 50 m), utgörs generellt av fina, välsäkrade sprickor i olika bredder, och berget är på sina ställen snudd på överhängande. Turerna börjar vid 5+ men man bör ligga runt 6+ eller tom 7- för att komma åt godbitarna, och det rör sig ofta om lite vuxen klättring med krav på jamkunskaper. I övrigt är det hårt - många turer i åtta-registret. Under klippan är det platt och fint, med både skugga och sol, så även barnfamiljen kan ha det trevligt här. Solen når Stora väggen vid tvåtiden, och på branta väggen skuggar höga träd merparten av dagen.
+
+Följ parkeringsanvisningarna noga, se Access nedan.
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.45384" lon="11.566544" type="map" zoom="11" height="300" selector="no" controls="small">58.455502, 11.533628,Hallinden</googlemap>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==Access {{access}}==
+Parkeringen för Hallinden har ändrats sen den gamla föraren skrevs 2002. Parkera nu vid Hallindens pendelparkering. Den gamla parkeringen få ej användas och tänk inte ens på att köra in på traktorstigen till klippan. Detta har skett vid upprepade tillfällen och är ABSOLUT inte tillåtet. Händer detta igen riskerar vi att klippan stängs.
+{{AccessDB|klippa=hallinden}}
+
+== Leder ==
+=== Stora väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Voltige|grad=6-|betyg=0|längd=25|
+ |typ=mix|text=Väggen till vänsterom det stora diedret. En bult och två borrbultar}}
+
+{{led|namn=Delirium|grad=5+|betyg=0|längd=30|
+ |typ=trad|text=Mossigt dieder.}}
+
+{{led|namn=Mörketid|grad=7+|betyg=0|längd=30|fa=[[Robert Caspersen]] 
+ |typ=trad|text=Väggen till höger om det stora diedret.}}
+
+{{led|namn=Hatad och motarbetad|grad=6+|längd=10|typ=sport|fa=[[Per Calleberg, Rikard Hedman]]}}
+
+{{led|namn=Vad är otid?|grad=6-|betyg=1|längd=8|typ=trad|fa=[[Niklas Bjornerstedt]]}}
+
+{{led|namn=Hundra Hövdingar|grad=8- eller 6+A0|betyg=1|längd=50|typ=trad|fa=[[Mats Almlöf , Per Calleberg]]|text=Fin led med ett hårt och kort krux direkt efter standplats. Denna passage är hårdare än grad 7 vilket anges i befintlig förare. I övrigt är andra repan mycket fin.}}
+
+{{led|namn=Quick Step/Tangoläraren/Ragnars utsteg|grad=7+|betyg=0|längd=50|
+ |typ=trad|text=Första delen är 7+, andra delen är 6, och tredje delen är 5+. Klättra hela eller traversera in från Prismaster där du tycker att det ser lämpligt ut.}}
+
+{{led|namn=Prismaster|grad=6-|betyg=3|längd=55|fa=[[Buster Delin, Kay von Damm och Peter Brolin]]
+ |typ=trad|text=Mycket fin och lång tur som inte får missas. Varierad.}}
+
+| width=300px|
+
+{{led|namn=Golden River|grad=8-|betyg=2|längd=55|fa=[[Joakim Olofson]]
+ |typ=mix|text=Starta som Priesmaster och går in höger i diedersystemet som passerar ett tak, och tunnas ut på väggens övre del. 3 borrbultar}}
+
+{{led|namn=Rapé|grad=6+|betyg=2|längd=50|fa=[[Rikard Hedman, Per Calleberg]]
+ |typ=trad|text=Fin sva- och diederklättring.}}
+
+{{led|namn=Blåsningen|grad=7+|betyg=1|längd=50|fa=[[Rikard Hedman]]
+ |typ=trad|text=Startar som Rapé, men viker av åt höger efter hyllan och följer den tunna spricklinjen.}}
+
+{{led|namn=Ettan|grad=6|betyg=2|längd=50|typ=trad|fa=[[Lars Grankvist, Lars Svadangs]]
+|typ=trad|text=Fin och lång led.}}
+
+{{led|namn=Catch|grad=7+|betyg=3|längd=50|fa=[[Rikard Hedman, Jan Liljemark]]
+ |typ=trad|text=Långt och fint.}}
+
+{{led|namn=General|grad=8-|betyg=3|längd=45|fa=[[Rikard Hedman, Johan Luhr]]
+ |typ=trad|text=Långt och fint.}}
+
+{{led|namn=I andra hand|grad=5+|betyg=2|längd=50|fa=[[Lars Svadang, Lars Grankvist]]
+ |typ=trad|text=Lite mogen klättring, men inget att vara rädd för.}}<br>
+|}
+
+=== Branta väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Svarta Katten|grad=7|betyg=|längd=15|fa=[[Rikard Hedman, Per Calleberg]]
+ |typ=trad|text=Ofta blöt. Ofta skitig.}}
+
+{{led|namn=Veckans Värsting|grad=8|betyg=3|längd=25|fa=[[Rikard Hedman]]
+ |typ=trad|text=Brant och ihållande jamklättring.}}
+
+{{led|namn=Goa Brunetter|grad=8-|betyg=3|längd=27|fa=[[Henrik Bolander, Stefan Wulf]]
+ |typ=trad|text=Startar på det stora flaket. Brant och ihållande jamklättring.}}
+
+{{led|namn=Afterburner|grad=6+|betyg=2|längd=27|fa=[[Joakim Olofsson, Andreas Ulvdell]]
+ |typ=trad|text=Brant och ihållande jamklättring.}}
+
+{{led|namn=Afterburner - Variant|grad=7/7+|betyg=|längd=27
+ |typ=trad|text=Traversera vänster direkt efter starten och sedan rakt upp.}}
+
+{{led|namn=Too Cool For School|grad=8/8+|betyg=2|längd=27|fa=[[Petter Restorp, Oskar Alexandersson]] 
+ |typ=trad|text=Startar en meter till höger om After Burner.}}
+
+{{led|namn=Boomerang|grad=8/8+|betyg=3|längd=30|fa=[[Robert Caspersen]] 
+ |typ=trad|text=Sprickan till höger om Afterburner.}}
+
+{{led|namn=Pansarkryssaren Potempkin|grad=8-/8|betyg=2|längd=35|fa=[[Torkel Røisli]]
+ |typ=trad|text=Brant och ihållande jamklättring.}}
+
+{{led|namn=Kristi Brud|grad=8+|betyg=3|längd=35|fa=[[Torkel Røisli]]
+ |typ=trad|text=Sprickan till vänster om Ont Blot. Insteg vid knäckt gran, traversera tillbaka 3m mot Ont Blot och seda upp via lister till sprickan som följs till toppen.}}
+
+{{led|namn=Ont Blot|grad=6+|betyg=2|längd=35|fa=[[Michael Jansson]]
+ |typ=trad|text=Brant och ihållande jamklättring.}}
+
+{{led|namn=Ond Brud|grad=7-|betyg=2|längd=35|fa=[[Petter Restorp]]
+ |typ=trad|text=Klättra Ont Blot men traversera vänster ungefär halvvägs. Kul alternativ.}}
+
+
+| width=300px|
+
+{{led|namn=Gå På Pumpen|grad=8-/8|betyg=3|längd=45|fa=[[Rikard Hedman]]
+ |typ=trad|text=Startar med en 15-meters travers tills den givna linjen nås. Brant och ihållande jamklättring.}}
+
+{{led|namn=Per Pølsefinger|grad=8|betyg=|längd=40|fa=[[Torkel Røisli -03]]
+ |typ=trad|text=To riss starter på hver sin side av ett tre, rett etter at du har gått opp den lille avsatsen ved det store  taket. Dette er risset på høyre side av treet og er ofte vått de første metrene.}}
+
+{{led|namn=Stör Inte Blommorna På Min Led|grad=7-|betyg=2|längd=30|fa=[[Torkel Røisli, Ulrika Tiegs]]
+ |typ=trad|text=Den tydliga handsprickan.}}
+
+{{led|namn=Blommor till Mor|grad=6|betyg=0|längd=25|fa=[[Ulrika Tiegs, Torkel Røisli]]
+ |typ=trad|text=Startar med kamin.}}
+
+{{led|namn=Original|grad=7-|betyg=0|längd=20|fa=[[Torkel Røisli -03]]
+ |typ=trad|text=Opp to avsatser i starten så forbi stor LØS trekantet blokk og riss svakt mot høyre til topps.}}
+
+{{led|namn=St:Bernard|grad=7-|betyg=0|längd=20|fa=[[Torkel Røisli -03]]
+ |typ=trad|text=Riss på rødt fjell til høyre for stor kløft formasjon.}}
+
+{{led|namn=Grov|grad=6|betyg=0|längd=20|fa=[[Torkel Røisli -03]]
+ |typ=trad|text=Start i dieder med ow riss opp til liten hylle, fortsett opp dieder til riss.}}
+|}
+
+=== Hellerväggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Norskehjelpa|grad=6+|betyg=0|längd=15|fa=[[Torkel Røisli]]
+ |typ=trad|text=Grov spricka och dieder.}}
+
+{{led|namn=Nicorette|grad=4+|betyg=0|längd=18|
+ |typ=trad|text=Dieder.}}
+
+{{led|namn=Söndagstur Med Hagen|grad=8-|betyg=0|längd=25|fa=[[Dag Hagen, Torkel Røisli]]
+ |typ=trad|text=Diagonal tunn spricka.}}
+
+{{led|namn=Sunday Bouldering|grad=8-/8|betyg=0|längd=25|fa=[[Torkel Røisli]]
+ |typ=mix|text=En borrbult i starten och en kort travers för att nå sprickan. Direktinsteget är ännu ej gjort.}}
+
+{{led|namn=Pekka Svinger Kosten|grad=7/7+|betyg=3|längd=30|fa=[[Halvor Hagen]]
+ |typ=trad|text=Traversera ganska långt väster över kanten för att nå till hörn och spricka som följs till toppen. Firningsankare.}}
+
+{{led|namn=Fueled on coffee, powered by bacon|grad=7|betyg=3|längd=30|fa=[[Torkel Røisli]]
+ |typ=trad|text=Traversera väster över kanten och klättra rätt upp i diedret. En klassiker! Firningsankare.}}
+
+| width=300px|
+
+{{led|namn=Fredriksens Arete|grad=8-|betyg=1|längd=25|fa=[[Torkel Røisli]]
+ |typ=mix|text=Areten. 3 borrbutar.}}
+
+{{led|namn=Soft Fredriksens Arete|grad=7-|betyg=1|längd=25|fa=[[Torkel Røisli]]
+ |typ=trad|text=Samma som förra leden upp till hyllan. Följ sedan sprickan till vänster om areten till toppen.}}
+
+{{led|namn=Sorte Mand|grad=6|betyg=0|längd=25|fa=[[Torkel Røisli]]
+ |typ=trad|text=Diedret till höger om areten.}}
+
+{{led|namn=Pastorn|grad=6-|betyg=0|längd=25|fa=[[Gro Gujord Tangen]]
+ |typ=trad|text=Spricklinjen alldeles till höger om Sorte mand.}}
+
+{{led|namn=Pyttsan|grad=6-|längd=20|typ=trad|fa=[[Tina Jorgensen]]}}
+
+{{led|namn=Mari|grad=6-|betyg=0|längd=20|fa=[[Tina Jorgensen, Jappe Pålsgård]]
+|typ=trad|text=Samma insteg som Pyttsan i 2meter. Följ sedan bågen åt höger och därefter sprickan rakt upp.}}
+
+{{led|namn=Hagenrisset|grad=7+|betyg=0|längd=20|fa=[[Dag Hagen]]
+ |typ=trad|text=Brant bred spricka till höger om det fasta repet. Kan klättras med enklare start.}}
+|}
+
+=== Terassväggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Andra Försök|grad=6|betyg=0|längd=10|fa=[[Niklas Björnerstedt, Torkel Røisli -01]]
+ |typ=trad|text=}}
+
+{{led|namn=Grevling I Taket|grad=7|betyg=0|längd=15|fa=[[Torkel Røisli -00]]
+ |typ=trad|text=}}
+
+{{led|namn=1905|grad=7-/7|betyg=0|längd=15|fa=[[Torkel Røisli -98]]
+ |typ=trad|text=}}
+
+{{led|namn=Redern Flagget Ut|grad=7/7+|betyg=0|längd=16|fa=[[Torkel Røisli -00]]
+ |typ=trad|text=}}
+
+{{led|namn=First Blob|grad=7|betyg=0|längd=20|fa=[[Dag Hagen, Torkel Røisli -99]]
+ |typ=trad|text=Den breda sprickan.}}
+
+{{led|namn=Piss Meg I Öret|grad=7-|betyg=0|längd=18|fa=[[Torkel Røisli -98]]
+ |typ=trad|text=}}
+
+{{led|namn=Feil Finger I Feil Hull|grad=8|betyg=0|längd=20|fa=[[Torkel Røisli -98]]
+ |typ=trad|text=}}
+
+{{led|namn=Ø|grad=7-/7|betyg=0|längd=25|fa=[[Torkel Røisli -99]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=?|grad=9-|betyg=0|längd=22|fa=[[Said Belhaj -10]]
+ |typ=mix|text=limbultar och några egna säkringar}}
+
+{{led|namn=Pekkas Diplomtur|grad=6|betyg=2|längd=22|fa=[[Niklas Björnerstedt]]
+ |typ=trad|text=Handjamspricka till firningsankare.}}
+
+{{led|namn=Beauty School Drop Out|grad=9-/9|betyg=2|längd=22|fa=[[Petter Restorp]]
+ |typ=trad|text=Sportig och ihållande.}}
+
+{{led|namn=Graduation Day|grad=8+|betyg=2|längd=22|fa=[[Oskar Alexandersson]]
+ |typ=trad|text=Klättra BSDO men undviker toppkruxet genom att traversera in i nästa led 5 meter under toppen.}}
+
+{{led|namn=My Event Horison|grad=9-|betyg=2|längd=20|fa=[[Torkel Røisli]]
+ |typ=trad|text=Kort travers från höger till vänster i starten. Sen är det bara att klättra rätt upp. Firningsankare.}}
+
+{{led|namn=X3|grad=7-/7|betyg=0|längd=30|fa=[[Torkel Røisli -00]]
+ |typ=trad|text=}}
+|}
+
+{{tryckt förare|klätterguide bohuslän (2002)=ja|förförare bohuslän (2012)=ja}}
+
+En förare över Hallinden  kan man hitta på Torkel Røislis utmärkta sajt [http://www.headwall.com/headwall/explorer.jsp?srn=&sso=0&cgy=crag&cid=22&skn=classic&sst=10&scy=xx&sop=SW&sti=Unkown HeadWall]. Här finns dessutom förare till de flesta klippor av rang i Bohuslän.
+
+[[category:Multipitch]]
+[[category:Trad]]
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:mix]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]

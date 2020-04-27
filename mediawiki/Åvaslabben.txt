@@ -1,0 +1,24 @@
+{{info klippa
+  |lat=59.166251
+  |long=18.364162
+}}
+
+{{isstub}}
+
+Isklättring på ett 30m svaparti och några mindre fall.
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.166251" lon="18.364162" zoom="14" type="map" controls="small">
+59.166251,18.364162,[[Åvaslabben]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Åvaslabben
+lat=18364162
+long=59166251
+</slresa>
+</div>
+
+[[Category:Stockholm]][[Category:Tyresö]]

@@ -1,0 +1,11 @@
+{{info klippa
+  |lat=59.505039
+  |long=17.885825
+}}
+{{boulderstub}}
+Cirka 5 m hög boulder bredvid Älvsundavägen i Njursta i utkanten av Upplands Väsby. Ett tiotal problem, grad cirka 5-6b.
+
+Position: Lat: N 59º 30' 18.14" Long: E 17º 53' 8.97"
+
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

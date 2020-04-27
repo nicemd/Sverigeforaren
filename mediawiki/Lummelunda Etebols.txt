@@ -1,0 +1,21 @@
+{{boulderutkast}}
+
+== Allmänt ==
+Ett litet boulderområde vid en mindre klint. Stenen är ganska lös, varför urtoppning kan bli ett mindre äventyr. Dock finns här ett par problem med fina linjer i hårdare sten.
+
+== Vägbeskrivning==
+
+<googlemap version="0.9" lat="57.75316" lon="18.41403" zoom="15" controls="small">
+57.752999, 18.415146, Lummelunda Etebols
+Lummelunda Etebols
+</googlemap>
+
+Vid skylt Kinnerstugan, ta vänster från väg 149 och parkera vid den stora parkeringen. Gå mot klintkanten, de första problemen ligger vid de nedfallna blocken under taket. Det finns större nedfallna block längre ner med problem i lättare grader .
+
+==Problem==
+{{problem|namn=Die Erste|grad=7A|typ=Överhäng|fa=Per-Ola Nilsson|landning=3|betyg=3|fadatum=2012-04-24|text=Problemet startar i sprickan längst ner, långt skick till en hylla för att därefter följa areten till slutgreppet.}}
+{{problem|namn=The Other|grad=6C+|typ=Överhäng, små sprickor|fa=Per-Ola Nilsson|landning=3|betyg=3|fadatum=2012-06-29|text=Startar i samma spricka som Die Erste, men går ut på den vertikala delen. Samma slutgrepp som Die Erste.}}
+{{problem|namn=Etebols Balls|grad=7A|typ=Krimp, slopers|fa=Per-Ola Nilsson|landning=3|betyg=1|fadatum=2012-05-12|text=Startar inne i grottan i jugge, följer stenen ut och upp till lös urtoppning.}}
+{{problem|namn=Loose End|grad=6B|typ=Krimp|fa=Per-Ola Nilsson|landning=3|betyg=2|fadatum=2012-05-12|text=Litet block nedanför klinten. Start jugge vänster hand, grepp höger hand. Upp i gaston höger, sidotag vänster, grepp hela vägen därefter. Sista biten är lös, sträck förbi detta område för urtoppning.}}
+
+[[Kategori:Gotland]]

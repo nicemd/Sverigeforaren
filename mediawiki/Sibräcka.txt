@@ -1,0 +1,38 @@
+{{info klippa
+  |lat=57.999673
+  |long=11.634552
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Sportklätterklippa på Tjörn. Utvecklades av medlemmar ur Kvibergs klätterklubb, finns bland annat ett gäng lätta bultade turer och annat att klättra här.
+
+==Vägbeskrivning==
+Kör mot Sibräcka och återvinningscentralen. Parkera vid brukshundsklubben. 
+<googlemap lat="57.999673" lon="11.634552" zoom="10" type="map">
+57.999673,11.634552,Sibräcka
+</googlemap>
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+<!-- [[kategori:Saknar vägbeskrivning]] -->
+[[kategori:Saknar leder]]
+<!-- [[kategori:Saknar koordinater]] -->
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]

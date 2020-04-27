@@ -1,0 +1,20 @@
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+{{boulderstub|extern=ja}}
+
+[[Kategori:Uppsala]]
+
+Litet område med viss utvecklingsmöjlighet. Det finns både hårt och lite längre (blocket med jaktstugan) och lågt och lätt att borsta fram.
+
+[[Bild:Dhfjn.jpg]]
+
+=Vägbeskrivning=
+Lättast att nå med cykel via Hågavägen eller Lurbovägen.
+
+<googlemap version="0.9" lat="59.817917" lon="17.56270" type="map" zoom="12" width="500" height="300">
+59.817917, 17.5627, Ekensberg
+</googlemap>
+
+=Problem=
+Den här flashar jag nog, 6A*, sittstart (Lätt överhängande väggklättring med fin pocket)<BR>
+First ascent, yay!, 4 (Sva med överdrivet bra krimp en bit upp)

@@ -1,0 +1,91 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==Milboblocken==
+Stenarna ligger i bostadsområdet Hille, norr om Gävle.
+Kör mot Hille. När ni kommer in i Hille får ni efter ett litet tag en Preem mack på höger sida, sväng vänster där. Nu kör ni på Prästvägen. 
+Följ Prästvägen, sväng vänster efter bondgården som kommer på vänster sida. Följ den nya vägen tills det bli en T-korsning. Ta vänster i korsningen och kör ner till en vändplan och parkera där. Gå rakt ner från vändplanen över järnvägen så ser ni det första blocket uppe på en kulle på ett kalhygge
+
+
+Området består av fyra stora ganska samlade block som alla är klättringsbara.
+Blocken ligger relativt öppet (framförallt Milboblocket det första ni kommer till) vilket borde innebära att de går att klättra på från tidig vår till sen höst. 
+
+Som alltid så vill vi inte ha något accessproblem, så ta med er skräpet ifrån blocken. Håll en låg profil och parkera inte så vändplatsen blir blockerad.
+
+Inga grader är verifierade (som alltid är skalan flytande) så är ni av en annan uppfattning angående grad så hör gärna av er eller skriv in en kommentar på BIMBO.
+
+Alla projekt är öppna och det finns potential för både enklare och hårdare nyturer.
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Hille dynot|grad=6C+|typ=Dyno|fa=Stefan Hedin, Ronny Andersson|landning=3|betyg=2|fadatum=2005-10-14|sopad=Stefan Hedin, Ronny Andersson|startgrepp=ja|text=Går på Milboblocket. Starta på de tydliga greppen, dyno till kanten}}
+{{problem|nr=2|namn=Statiska Hille dynot|grad=7A|typ=Krimp,Reach|fa=Stefan Hedin|landning=3|betyg=2|fadatum=2005-10-14|sopad=Stefan Hedin|startgrepp=ja|text=Går på Milboblocket. Samma start som Hille dynot, går dock statiskt till kanten.}}
+{{problem|nr=3|namn=Reach Meister|grad=6C|typ=Krimp,Reach|fa=Stefan Hedin, Ronny Andersson|landning=3|fadatum=2005-10-17|sopad=Stefan Hedin, Ronny Andersson|sittstart=ja|startgrepp=ja|text=Sittstart på de tydliga greppen, gå sedan rakt upp.}}
+{{problem|nr=4|namn=Milbo|grad=6A+|typ=Krimp,Slopers,Reach|fa=Stefan Hedin|landning=3|betyg=3|fadatum=2005-10-17|sopad=Stefan Hedin|startgrepp=ja|uteslutningar=ja|text=Sittstart på den tydiga hyllan, gå rakt ut över näsan och sedan rakt upp. Stora stenen på undersidan är utesluten.}}
+{{problem|nr=5|namn=Milbo varianten|grad=6A+|typ=Krimp,Slopers,Reach|fa=Ronny Andersson, Stefan Hedin|landning=3|betyg=2|fadatum=2005-10-17|sopad=Ronny Andersson, Stefan Hedin|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Samma start som Milbo, men när du når näsan går du åt vänster och upp vid den vänstra aréten gå alltså ej runt kanten. Hyllorna på Right Hand Crimp och stora stenen på undersidan är uteslutna.}}
+{{problem|nr=6|namn=Right Hand crimp|grad=6B+|typ=Krimp,Reach,Jug|fa=Stefan Hedin|landning=3|betyg=2|fadatum=2005-10-17|sopad=Stefan Hedin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart på den tydliga hyllan. Gå rakt upp via den lilla crimpen. Aréten och stora stenen under är utesluten.}}
+| width="250px" |
+{{problem|nr=7|namn=Varianten|grad=6A|typ=Krimp,Travers V->H,Jug|fa=Ronny Andersson|landning=3|fadatum=2005-10-17|sopad=Ronny Andersson|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Samma start som Rakt upp men traversera den tydliga listen åt höger, avsluta rakt upp via de stora hyllorna. Det gigantiska hyllan är utesluten.}}
+{{problem|nr=8|namn=Rakt upp|grad=5B|typ=|fa=Ronny Andersson|landning=3|betyg=1|fadatum=2005-10-17|sopad=Ronny Andersson|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart på den tydliga listen som går vänster-höger över väggen. Gå sedan rakt upp. Det gigantiska hyllan är utesluten.}}
+{{problem|nr=9|namn=Hille traversen|grad=6A|typ=Travers V->H|fa=Ronny Andersson|landning=3|betyg=3|fadatum=2005-10-17|sopad=Ronny Andersson|sittstart=ja|startgrepp=ja|text=Starta längst till vänster på blockets sida på de tydliga greppen. Traversera hela sidan till höger och gå upp vid Aréten.Bra uppvärmingsalternativ.}}
+{{problem|nr=10|namn=Gang Bang Chicken|grad=6A+|typ=Highball|fa=Stefan Hedin, Ronny Andersson|landning=3|betyg=1|fadatum=2005-10-17|sopad=Stefan Hedin, Ronny Andersson|text=Går på den högra aréten på det stora blocket. (A tribute to Robert M)}}
+{{problem|nr=11|namn=Ron´s Corner|grad=6A|typ=Highball,Aréte|fa=Ronny Andersson|landning=3|betyg=3|fadatum=2005-10-17|sopad=Ronny Andersson|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart på de tydliga greppen. Följ aréten rakt upp på högra sidan, gå alltså inte in på svadelen.}}
+| width="250px" |
+{{problem|nr=12|namn=Milbo 6:an|grad=6B|typ=Reach|fa=Ronny Andersson, Måns Lööf|landning=3|betyg=2|fadatum=2005-10-17|sopad=Ronny Andersson, Måns Lööf|startgrepp=ja|text=Går på baksidan av det stora blocket. Starta på det tydliga greppet på vänstra aréten, når ni inte greppet är det ok med dubbelpadda. Gå snett upp till höger. Grad ändrad 090109 pga det förstörda startgreppet.}}
+{{problem|nr=13|namn=Flykten till Östersund|grad=6A|typ=Aréte|fa=Carola Bergström|landning=3|betyg=1|fadatum=2005-10-17|sopad=Carola Bergström|startgrepp=ja|text=Börja på högra aréten på stenen till vänster om Milbo 6:an. Gå rakt upp.}}
+{{problem|nr=14|namn=Milbo traversen|grad=7A|typ=Travers H->V|fa=Stefan hedin, Ronny Andersson|landning=3|betyg=2|fadatum=2005-10-17|sopad=Stefan hedin, Ronny Andersson|sittstart=ja|startgrepp=ja|text=Går på väggen ut mot åkern på blocket längst ner av Milboblocken. Starta sittande långt till höger i hålet på den överhängande väggen, traversera den givna linjen till aréten till vänster och gör sedan Gang Bang chicken upp.}}
+{{problem|nr=15|namn=Statiska Hilledynot ss|grad=7A|typ=Krimp|fa=Patrick Olander|landning=2|betyg=1|fadatum=2008-02-17|sopad=Patrick Olander|sittstart=ja|variant=ja|text=Starta sittande under originalproblemet, förslagsvis med högerhanden på hög gaston och vänster på låg krimp.}}
+|}
+
+==Gamla tippen==
+Ett nygammalt "område"som finns beskrivet i den gamla Gävleföraren. För att komma till området kör ni genom Hille mot Hille kyrka. Innan kyrkan kör ni vänster under järnvägen och sedan höger i T-korsningen. Följ vägen några hundra meter tills det går in en liten skogsväg på vänster sida. Vägen är dock numer avspärrad med två betongsuggor. Parkera bilen och följ vägen till den gör en högersväng. Gå då upp mot vänster och följ den gamla traktorstigen upp till "ängen". När ni nu står framför ängen ligger blocken nere till höger om ängen. 
+{{problem|nr=1|namn=Hille Corner|grad=6A+|typ=Slopers,Aréte|fa=Ronny A, Patrick O|landning=3|betyg=1|fadatum=2006-08-09|sopad=Ronny A, Patrick O|sittstart=ja|text=Går på block nummer två när ni kommer fram till stenarna. Den tydliga aréten som  svänger vänster till höger.}}
+==Hilleblocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Dissident|grad=6B+|typ=Slopers,Aréte|fa=Daniel Hultgren|landning=2|betyg=1|sopad=Daniel Hultgren|sittstart=ja|text=Blocket ligger på andra sidan vägen från Hille blocket.}}
+{{problem|namn=Världens bästa pinne|grad=6A|typ=Krimp|fa=Ronny Andersson|landning=3|betyg=1|fadatum=2004-02-21|sopad=Ronny Andersson|sittstart=ja|text=Problemet ligger vid stora flyttblocket på åkern.Går på mindre blocket på sidan ut mot åkern.}}
+{{problem|namn=Juggar är livet|grad=5C|typ=Aréte,Jug|fa=Ronny Andersson|landning=4|fadatum=2004-02-21|sopad=Ronny Andersson & David Hallman|sittstart=ja|text=Vänstra aréten sätt från Svasidan}}
+{{problem|namn=Hjälp en padda|grad=5C|typ=Krimp|fa=David Hallman|landning=3|betyg=1|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=stenen liggerpå hö sida av stora vägen när man åkt förbi stora hille stenen.vid röda ladan}}
+{{problem|namn=carpe diem|grad=6C|typ=Krimp,Slopers,Aréte|fa=David Hallman|landning=3|fadatum=2004-04-26|sopad=David Hallman|startgrepp=ja|text=problemet ligger på stora hillestenen. ståstart på areten till vänster.}}
+| width="250px" |
+{{problem|namn=tick|grad=5C|typ=Layback|fa=David Hallman|landning=1|fadatum=2004-05-03|sopad=David Hallman|sittstart=ja|text=ligger på lilla blocket bredvid stora hille stenen.}}
+{{problem|namn=Tack|grad=5C|typ=Aréte|fa=David Hallman|landning=1|betyg=1|fadatum=2004-05-03|sopad=David Hallman|sittstart=ja|text=blocket ligger bredvid stora hille stenen}}
+{{problem|namn=Lavazza|grad=6A+|typ=Aréte|fa=David Hallman|landning=2|betyg=1|fadatum=2004-05-03|sopad=David Hallman|startgrepp=ja|text=ståstart. klättra rakt upp eller lite åt höger.}}
+{{problem|namn=Våldsamt|grad=7A|typ=Layback|fa=David Hallman|landning=2|betyg=2|fadatum=2004-05-03|sopad=David Hallman|startgrepp=ja|text=starta med vänster hand på undercling.}}
+{{problem|namn=Ko skräck|grad=6C+|typ=Krimp,Slopers|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2004-10-06|sopad=Daniel Hultgren|sittstart=ja|text=Blocket ligger på andra sidan vägen från Hille stenen. Går på högersidan av väggen.}}
+| width="250px" |
+{{problem|namn=Jail bird|grad=7B+|typ=Krimp,Slopers,Överhäng|fa=David Hallman|landning=3|betyg=3|fadatum=2006-04-30|sopad=David Hallman|sittstart=ja|text=Ligger på mellanstora blocket ute på åkern i hille.}}
+{{problem|namn=Love and Happiness|grad=7B+|typ=Travers H->V|fa=David|landning=3|betyg=2|fadatum=2006-05-12|sopad=David|sittstart=ja|text=Samma start som jailbird trav vänster}}
+{{problem|namn=Cosmic Candy|grad=7B|typ=|fa=David Hallman|landning=4|betyg=2|fadatum=2006-05-21|sopad=David Hallman|text=Hopp start. Stora Hillestenen på Åkern. Osäker på Graden}}
+{{problem|namn=carpe diem ss|grad=7C+|typ=|fa=David Hallman|landning=3|betyg=2|fadatum=2007-04-09|sopad=David Hallman|sittstart=ja|variant=ja|text=ss till Carpe Diem. ligger på största hilleblocket på åkern. Areten på överhängsväggen. Se bild på carpe diem för att se hur problemet går.}}
+|}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Kärlek  vid första ögonkastet|grad=6C+|typ=Krimp,Slopers,Överhäng|fa=David Hallman|betyg=1|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Braxen knut|grad=6A|typ=Krimp,Slopers|fa=David Hallman|betyg=2|fadatum=2004-04-26|sopad=David Hallman|startgrepp=ja|text=ståstart på listerna under läppen}}
+{{problem|namn=Viva las vegas|grad=6B+|typ=Aréte|fa=David Hallman|landning=4|betyg=2|fadatum=2004-04-26|sopad=David Hallman|startgrepp=ja|text=samma start som braxen knut, håll vänster klättra uppför areten.}}
+{{problem|namn=Blåa bär|grad=6B|typ=Slab|fa=David Hallman|landning=5|betyg=1|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=En bra start|grad=6A|typ=|fa=David Hallman|betyg=2|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Kungen av danmark|grad=6C|typ=Krimp|fa=David Hallman|landning=4|betyg=2|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Kungen av danmark|grad=6A+|typ=Krimp|fa=David Hallman|landning=4|betyg=2|fadatum=2004-04-26|sopad=David Hallman|variant=ja|startgrepp=ja|text=ståstarten tillkungen av danmark}}
+{{problem|namn=Shorty|grad=6B|typ=Krimp|fa=David Hallman|landning=1|betyg=1|fadatum=2004-05-03|sopad=Daniel hultgren, David hallman|sittstart=ja|text=}}
+| width="250px" |
+{{problem|namn=Se o hör|grad=6A|typ=Överhäng|fa=David Hallman|landning=2|betyg=1|fadatum=2004-05-03|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Galne greven|grad=6C|typ=Krimp,Reach|fa=David Hallman|landning=2|betyg=2|fadatum=2004-05-03|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Fläsk fia|grad=5A|typ=Layback,Spricka|fa=David Hallman|landning=2|betyg=1|fadatum=2004-05-03|sopad=David Hallman|sittstart=ja|text=}}
+{{problem|namn=Fis Lisa|grad=5A|typ=|fa=David Hallman|landning=2|betyg=1|fadatum=2004-05-03|sopad=David Hallman|sittstart=ja|uteslutningar=ja|text=areten ingår inte.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

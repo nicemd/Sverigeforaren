@@ -1,0 +1,25 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Knubbsälen|grad=-|typ=Krimp,Mantling,Reach|fa=Daniel Hultgren, Johan Andersson, Ronny Andersson|sopad=Daniel Hultgren, Ronny Andersson, Johan Andersson|sittstart=ja|text=Gjordes med rejält magskrap första gånegn.}}
+{{problem|nr=2|namn=Magiska traversen|grad=6A|typ=Travers V->H|fa=Ronny Andersson & Johan Andersson|landning=6|betyg=3|sopad=Ronny andersson, Johan Andersson|text=Läcker travers över vattnet, håll i eller bli blöt!}}
+{{problem|nr=3|namn=Näsan|grad=6A|typ=Krimp,Aréte|fa=Ronny Andersson|landning=3|fadatum=2004-09-04|sopad=Ronny Andersson|sittstart=ja|text=Sittstart med händerna på varsin aréte, gå rakt upp och mantla}}
+| width="250px" |
+{{problem|nr=4|namn=Go tak|grad=6A|typ=Överhäng,Jug,Heel hook|fa=Ronny Andersson|landning=3|fadatum=2004-09-04|sopad=Ronny Andersson|sittstart=ja|text=Fin takklättring på stora grepp.}}
+{{problem|nr=5|namn=Aréte som få|grad=6A|typ=Mantling,Reach|fa=Ronny Andersson|landning=5|fadatum=2004-09-04|sopad=Ronny Andersson|sittstart=ja|text=Bortre aréten på det ensamma sydliga blocket.}}
+{{problem|nr=6|namn=Måns travers|grad=6A|typ=Travers H->V,Jug|fa=Måns Lööf|landning=3|fadatum=2004-09-05|sopad=Måns Lööf|text=Fin lite ihållande travers på stora grepp.}}
+{{problem|nr=7|namn=Spindelskådarn|grad=6A|typ=Krimp,Reach|fa=Ronny Andersson|landning=3|betyg=3|fadatum=2004-09-04|sopad=Ronny Andersson|sittstart=ja|text=Går ut mot vattnet på det ensamma sydliga blocket}}
+| width="250px" |
+{{problem|nr=8|namn=Lösa sprickan|grad=5C|typ=Layback|fa=Ronny Andersson|landning=4|fadatum=2004-09-05|sopad=Ronny Andersson|text=Går genom en riktigt fin spricka, passa händerna vid utsteget, mycket löst att ta i.}}
+{{problem|nr=9|namn=De tre vise männen|grad=6B+|typ=Krimp,Mantling,Reach|fa=Stefan Hedin|landning=2|fadatum=2004-09-05|sopad=Stefan Hedin|sittstart=ja|text=Fint problem genom överhäng.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

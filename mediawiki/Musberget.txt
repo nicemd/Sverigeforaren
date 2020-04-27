@@ -1,0 +1,72 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat= N 58° 12′ 41″
+  |long=E 12° 10′ 59″
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+kör E45 söderut från Trollhättan mot Göteborg sväng av vid den södra infarten till Sjuntorp, till vänster på åkern ligger klippan.sväng vänster första grusvägen. OBS! Gå inte över åkern, det finns en liten grusväg där man kan ta "skogsvägen" genom till klippan. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Musberget
+    lat=N 58° 12′ 41″
+    long=E 12° 10′ 59
+</slresa>-->
+</div>
+
+Skriv vägbeskrivning här.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+[[Bild:Skiss.gif]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+led|nr=1|namn=Yalla, Yalla! |grad=4|typ=trad|Längd=15m  Leden till vänster, av de två fyrorna till höger den andra heter något med boomschackalack . Detta är i alla fall en rolig spricka för nybörjare. Tricepsträning i slutet. Antagligen bra att träna kilplaceringar på.
+
+namn= (Inte)Helt enkelt Grad=6/6+|typ=trad||längd=12m? hård och rå klättring med undercling.
+
+
+
+
+| width="350px" |
+
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Västergötland]]

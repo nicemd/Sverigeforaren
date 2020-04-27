@@ -1,0 +1,46 @@
+{{info klippa
+  |lat=59.30855566192222
+  |long=18.43553066253662
+}}
+
+{{utkast}}
+
+[[Bild:mölnvik.jpg|frame|center]]
+
+==Allmänt==
+Ny oklättrad klippa nära Mölnvik köpcentrum. Klippan är överhängande, ca 10m hög. Ganska uppbruten men har nog potential för några leder i varierande svårighetsgrad. Tyvärr syns inte den intressantaste delen av klippan på bilden ovan.
+
+==Källa==
+Källa: [http://www.bloxc.com/forum/viewtopic.php?t=1192&start=45 Bloxc]
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.30855566192222" lon="18.43553066253662" zoom="13" type="map">
+59.30855566192222,18.43553066253662,Mölnvik klippan
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Mölnvik
+lat=18435530
+long=59308555
+</slresa>
+</div> 
+Kör värmdöleden 222. När motorvägen tar slut i en rondell, ta höger i rondellen och kör den lilla traktorstigen. Följ vägen ner till vattnet och klippan syns tydligt till vänster. 
+
+Vägen är riktigt dålig, om marken är blöt så lämna sportbilen hemma eller gå från köpcentrumet.
+<div style="clear:right;"></div>
+
+
+[[Bild:mölnvik2.jpg]]
+
+Klippan är högre och mer överhängande än vad den ser ut att vara på bilden.
+
+==Leder==
+Inga än så länge!
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Överhäng]]
+[[Kategori:Oklättrat]]

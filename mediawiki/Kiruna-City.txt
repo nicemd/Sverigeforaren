@@ -1,0 +1,11 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|nr=1|namn=Gruvvägen-sprickan|grad=5A|typ=Jug,Spricka|fa=Roshed, Larson, Nygård|landning=2|betyg=3|sopad=Roshed, Larson, Nygård|text=Upp i sprickan bara. Bra träning för utah =)}}
+[[Kategori:Kiruna]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,95 @@
+{{boulderutkast}}
+
+==Allmänt==
+==Sektorer==
+==Vägbeskrivning==
+
+<googlemap version="0.9" lat="60.72008" lon="17.12951" type="map" zoom="14" width="500" height="300">
+60.72008, 17.12951, Traversen
+</googlemap>
+==Traversen==
+För att komma till traversen kör du genom Forsby. Efter Forsby får du en stor öppen yta på vänster sida med en bom. Blocken ligger innanför den öppna ytan.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Forsbytraversen|grad=7A|typ=Travers V->H|fa=Robert kreft|landning=3|betyg=3|sopad=Robert Kreft|text=}}
+{{problem|namn=Flodins problem|grad=7B+|typ=Krimp|fa=Mattias Flodin|landning=3|betyg=3|sopad=Mattias Flodin|text=}}
+{{problem|namn=Hopi|grad=6B+|typ=Krimp,Slopers,Aréte|fa=Daniel Hultgren|landning=2|betyg=2|sopad=Daniel Hultgren|sittstart=ja|text=Går på blocket till höger om "Forsbytraversen"}}
+{{problem|namn=Novis|grad=5C|typ=Krimp,Jug|fa=David Hallman|landning=2|betyg=2|fadatum=2004-04-26|sopad=David Hallman|startgrepp=ja|text=stenen vid vägen. samma ställe som forsbytraversen}}
+{{problem|namn=Novis sittstart|grad=6A+|typ=|fa=David Hallman|landning=2|betyg=2|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|variant=ja|text=}}
+{{problem|namn=Grymma areten|grad=6C+|typ=Slopers,Aréte|fa=David Hallman|landning=4|betyg=3|fadatum=2004-04-26|sopad=David Hallman|sittstart=ja|text=samma sten som novis.}}
+{{problem|namn=Giacometti|grad=7A|typ=Krimp|fa=David Hallman|landning=4|betyg=2|fadatum=2004-04-27|sopad=David Hallman|sittstart=ja|text=samma sten som novis.areten ingår inte.}}
+{{problem|namn=medelmåttan|grad=6C|typ=Krimp,Travers V->H|fa=David Hallman och Ronny Andersson|landning=2|betyg=1|fadatum=2004-08-02|sopad=David Hallman och Ronny Andersson|sittstart=ja|text=samma sten som giacometti. stenen ligger vid vägen nära forsby traversen. starta vid  vänstra areten traversera hö avsluta med novis.}}
+| width="250px" |
+{{problem|namn=Rädda joppe|grad=6C|typ=Krimp,Heel hook|fa=David Hallman|landning=1|betyg=3|fadatum=2004-09-16|sopad=David Hallman|sittstart=ja|text=stora blocket på andra sidan järnvägen.areten på vä sida av grottöppningen.starta på stora greppet,traversera vänster.}}
+{{problem|namn=the grinch|grad=7A+|typ=Krimp,Slopers,Överhäng,Heel hook|fa=David Hallman|landning=4|betyg=3|fadatum=2004-09-16|sopad=David Hallman|sittstart=ja|text=ligger på andra sidan järnvägen.starta på stora greppet långt ner på den överhängande areten.}}
+{{problem|namn=Bländad|grad=5C|typ=Krimp,Highball|fa=Ronny Andersson|landning=3|betyg=2|fadatum=2005-05-24|sopad=Ronny Andersson|text=Går på stora blocket bakom Forsbytravers stenen. Gå förbi traversen till blocket bakom då får ni en högsida av stenen på er högra sida. Längst ut till vänster på den höga sidan går problemet. Följ den stora hyllan upp och gå sedan rakt upp.}}
+{{problem|namn=Bländad ss|grad=6A|typ=Krimp,Jug,|fa=Torbjörn Molén|landning=4|fadatum=2006|sopad=Carola Bergström, Ronny Andersson|text=Går på stora blocket bakom Forsbytravers stenen. Gå förbi traversen till blocket bakom då får ni en högsida av stenen på er högra sida. På den vänstra aréten går problemet, starta sittande under kanten.}}
+{{problem|namn=Bländande|grad=6A|typ=Krimp,Highball|fa=Carola Bergström, Ronny Andersson|landning=3|betyg=2|fadatum=2005-05-24|sopad=Carola Bergström, Ronny Andersson|uteslutningar=ja|text=Går på stora blocket bakom Forsbytravers stenen. Gå förbi traversen till blocket bakom då får ni en högsida av stenen på er högra sida. I mitten på den höga sidan går problemet. Gå rakt upp utan att aréterna eller hyllan.}}
+| width="250px" |
+{{problem|namn=En annan dag|grad=6A|typ=Krimp,Slopers,Highball|fa=Carola Bergström, Ronny Andersson|landning=4|fadatum=2005-05-24|sopad=Carola Bergström, Ronny Andersson|text=Går på stora blocket bakom Forsbytravers stenen. Gå förbi traversen till blocket bakom då får ni en högsida av stenen på er högra sida. På den högra aréten går problemet.}}
+{{problem|namn=No retreat no surrender|grad=7B|typ=Krimp,Slopers,Aréte|fa=David Hallman|landning=3|betyg=2|fadatum=2006-03-25|sopad=David Hallman|text=Går på traversblocket. Rakt upp på vänstra aréten och sen toppa ut åt höger, toppa ej ut rakt upp.}}
+{{problem|namn=Flodins problem ss|grad=7C|typ=Krimp,Överhäng|fa=david|landning=3|betyg=3|fadatum=2008-01-28|sopad=david|sittstart=ja|text=Startar sittandes rakt under ståstarten.}}
+{{problem|namn=le aréte de Magnifique|grad=6A|typ=Slopers,Överhäng,Jug|fa=Ronny|landning=3|betyg=3|fadatum=2008-04-20|sopad=Ronny|sittstart=ja|text=Går på Davids nya block, när ni står framför den överhängande sidan är det den högra aréten.}}
+{{problem|namn=Mescalitos Rage|grad=7B|typ=Överhäng|fa=David Hallman|landning=3|betyg=2|fadatum=2008-04-20|sopad=David Hallman|sittstart=ja|text=Ligger på ett nytt block i forsby, snett hö efter järnvägen sett från traversen. Överhängsväggen till vänster om hö aret och snett höger.}}
+{{problem|namn=Molles crimp|grad=6A+|typ=Crimp|fa=Torbjörn Molén|landning=4|betyg=|fadatum=2006|sopad=Torbjörn Molén|text=Samma block som bländad, fast på långsidan. etablerad start på två crimpar direkt till vänster om sprickan, gå sedan rakt upp utan att använda något till höger om sprickan.}}
+|}
+
+<googlemap version="0.9" lat="60.71477" lon="17.12539" zoom="16" controls="small">60.713416, 17.124231Ormblocket</googlemap>
+
+==Ormstenen==
+För att komma till Ormstenen: Kör genom nästan hela Forsby. Vid ett grått hus med lila knutar på vänster sida svänger du vänster,(Tegelbruksvägen). Kör över järnvägen och ta höger. Följ vägen till en liten vändplan med en bom. Gå förbi bommen på Texelvägen ca 4-500m så kommer blocket på vänster sida uppe på ett hygge.
+
+<googlemap version="0.9" lat="60.711674" lon="17.126098" zoom="16" controls="small">60.71032, 17.128115Dyno blocket</googlemap>
+
+== Dyno blocket/Wintjes fika block==
+Parkera på samma ställe som till ormblocket, gå sedan upp på texelvägen ca200m och korsa sedan ängen till vänster, på andra sidan av ängen går en skogssväg, följ den till höger ett par hundra meter och blocket dyker upp på vänster sida på en liten höjd.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Forsby dynot|grad=7B|typ=Dyno|fa=Ronny|landning=3|betyg=2|fadatum=2008-04-25|sopad=Ronny|startgrepp=ja|text=Går på den vänstra överhängande delen, Starta på den tydliga listen dyno till kanten.}}{{problem|namn=Thomas påskgodis |grad=6a |typ=crimp |fa=Thomas Nordqvist|landning=4|fadatum=2012-04-12|sopad=Thomas Nordqvist|text= Sittstart, Går till höger om forsby dynot på den högra aréten, använd endast en heelhook för vänstra foten i sprickan och toppa ut på den överhängande delen.}}
+{{problem|namn=Nybörjargodis|grad=4C|typ=Krimp,Jug|fa=Åsa Bengtsson Sjörs|landning=4|fadatum=2008-04-27|sopad=Åsa Bengtsson Sjörs|text=Går mitt på väggen på motsatta sidan mot Forsby dynot.}}
+| width="250px" |
+{{problem|namn=Footloose|grad=6c|typ=Krimp|fa=Torbjörn Molén|landning=4|fadatum=2012-05-08|sopad=Torbjörn molén|text=Går på sva väggen mot vägen, starta långt till vänster och toppa ur ungefär mitt på blocket.}}{{problem|namn=Kaffe med dopp|grad=6a |typ=jugg|fa=Torbjörn Molén|landning=4|fadatum=2012-04-12|sopad=Torbjörn molén|text= Sittstart,Går på sva delen längst ut till höger mellan sprickan och aréten. Använd inget till vänster om sprickan.}}
+{{problem|namn=Hallon grotan|grad=5c |typ=jugg|fa=Thomas wintje|landning=4|fadatum=|sopad=Thomas Wintje|text=Samma som kaffe med dopp men med stå start, Använd inget till vänster om sprickan.}}
+{{problem|namn=Livet enligt Rosa|grad=6A+ |typ=crimp|fa=Fredrik Andersson|landning=4|fadatum=2012-07-30|sopad=?|text=etablerad start med vh på låg list och hh på bra sidtag. Till höger på sidan med Saving private Joel. Kanten är inte med.}}-
+
+
+| width="250px" |
+{{problem|namn=Saving private joel
+|grad=6a |typ=slabb,jugg|fa=Torbjörn Molén|landning=4|fadatum=2012-04-12|sopad=Torbjörn molén|text= Sittstart,Samma sida som nybörjargodis, starta på den tydliga hyllan vid den vänstra aréten gå sedan rakt upp mellan dom båda aréterna på den lite överhängande delen utan att använda sprickan till höger.}}
+|}
+
+==VHS blocket==
+För att komma till blocket, kör ni mot Forsby. Kör förbi konsum triangeln men innan ni kör över järnvägen svänger ni vänster upp mot det nybyggda området i Stigslund, (Stigsberget). Sväng sedan direkt till höger in på Forsbykroken som är en grusväg. Följ grusvägen fram till bommen. Parkera vid bommen, men utan att hindra eventuell trafik! Gå vidare på grusvägen 400-500m så kommer blocket på vänster sida,strax före högspänningsledningen.Vid blocket ligger en gammal videobandspelare på marken bredvid blocket, därav namnet.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Ett litet hopp|grad=6B|typ=Krimp,Dyno|fa=Ronny Andersson|landning=3|betyg=1|fadatum=2005-06-19|sopad=Ronny Andersson|startgrepp=ja|text=Går på VHS blocket, när du står framför svasidan gå då till vänster om blocket. Börja på de tydliga greppen mitt på den höga vertikala väggen. Dyno till toppen.}}
+{{problem|nr=2|namn=Telefunken|grad=6A|typ=Krimp,Slopers,Aréte|fa=Ronny Andersson|landning=3|fadatum=2005-06-19|sopad=Ronny Andersson|text=Går på VHS blocket. När du står framför svaväggen så går problemet längs den vänstra aréten.}}
+| width="250px" |
+{{problem|nr=3|namn=Bob´s inflamation|grad=6C+|typ=Krimp,Slopers,Reach|fa=Robert Muskowitz, Ronny Andersson|landning=4|betyg=3|fadatum=2005-06-19|sopad=Robert Moskowitz, Ronny Andersson|sittstart=ja|text=Går på VHS blocket. När du står framför svaväggen går problemet precis runt den högra aréten.}}
+| width="250px" |
+{{problem|nr=4|namn=Stop Eject|grad=6C|typ=Krimp,Reach|fa=Robert Muskowitz|landning=4|betyg=1|sopad=Robert Muskowitz|text=Går direkt till vänster om "Ett litet hopp" på VHS-blocket. Precis innan den vänstra aréten.}}
+|}
+
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Hard Candy|grad=7A+|typ=Krimp,Slopers,Överhäng|fa=Patrick O, Ronny A|landning=2|betyg=3|fadatum=2008-04-26|sopad=Patrick O, Ronny A|sittstart=ja|text=ligger efter vägen mot 3G masten, på vänster sida 80-100m före vändplanen gå rakt in i skogen 100- 150m så syns blocket. Problemet startar går på den högra aretén på den branta sidan, startar på dubbelundercling och sen rakt upp och åt vänster.}}
+| width="250px" |
+{{problem|namn=Decadence|grad=7B|typ=Slopers,Överhäng|fa=David|landning=3|betyg=2|fadatum=2008-05-08|sopad=David|startgrepp=ja|text=Ligger på Grinchen blocket på andra sidan järnvägsspåret. Höger aret vid ingången mellan blocken. Start med vh i sidolist och hh långt ned på aret, klättra rakt upp.}}
+| width="250px" |
+{{problem|namn=Footprints|grad=7B+|typ=Överhäng|fa=david|landning=3|fadatum=2008-05-18|sopad=david|startgrepp=ja|text=Ligger på stora (nya) blocket på andra sidan järnvägen från forsbytraversen.Branta väggen till vä vid björken. VH på stora sidotaget och HH på tvåfingerskrimpen långt till höger.Troligen lättare om man når till stora sidotaget med HH.}}
+|}
+[[Kategori:Gävle]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar allmän info]]
+[[Kategori:Saknar vägbeskrivning]]

@@ -1,0 +1,249 @@
+{{info klippa
+  |lat=59.20832
+  |long=18.38287
+}}
+
+{{komplett}}
+[[Bild:Traskbergen_karta.png|thumb|right|350px]]
+==Allmänt==
+Idylliskt belägna klippor, som trots sitt läge ligger förvånansvärt avskilt, med vacker utsikt över Ällmora träsk. Vox populi väggen är ett mecka för 7c-klättraren, och Saharaväggen är nog en av Stockholms varmaste vårklippa.
+
+==Beskrivning==
+[[bild:träskberget001.jpg|thumb|right|350px|Natt utan slut, 7c. Foto: [[Användare:Jonass|Jonas Ahlman]]]] Klippan är mycket kompakt och med undantag för Sumpväggen så saknas större formationer. De flesta av de äldre lederna går att säkra med små till medelstora kilar. De nyare lederna innehåller en varierande mängd av fast skrot. Berget är nästan helt skuggat av träd vilket gör att det på våren behövs ett par dagar för att klippan skall torka upp. Den stora svaplattan torkar dock mycket snabbt.
+
+==Miljö==
+Sydväst, Stora Träskberget är öppet för solen, Lilla Träskberget, Överhängande väggen och Sumpväggen är relativt skuggiga men med ren klippa. Lilla Träskberget har en tendens att gro igen med nedfallna barr!
+
+<div style="clear:right;"></div>
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.20832" lon="18.38287" zoom="14" type="map" controls="small">
+59.20832,18.38287,[[Träskbergen]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Träskbergen
+lat=18382870
+long=59208320
+</slresa>
+</div> 
+
+Kör Breviksvägen, sväng av höger in på Ällmoravägen, sedan vänster in på Stubvretsvägen.När vägen svänger skarpt vänster fortsätt rakt fram in på en kort grusväg. Parkera där vägen tar slut OBS! Denna parkering finns ej längre! Parkera antingen nere på någon av parkeringarna vid Breviksmaren (båthamnen) eller på den allmänna parkeringen mittemot Tyresö Snickeri & Bygg (gamla affären) precis när du kommer fram till Brevik.
+
+Följ stigen som fortsätter in i skogen 20 m och gå sedan uppför berget th och vidare i samma riktning tills du ser träsket. Stora Träskbergets 30 m höga svaplatta går inte att missa. Om du fortsätter norrut ca 200 m avslutas berget med en ca 15 m hög, brant svavägg; detta är Lilla Träskberget.
+
+För att komma till '''Saharaväggen''' gå tillbaka ca 100m från parkeringen tills du ser en 10m bred remsa skog mellan två tomter på vänster (sydväst) sida. Ta stigen som går genom dungen längst med staketet. När stigen delar sig ta höger så ser du den överhängande Saharaväggen på höger sida uppe på en platå. Om du nu går går vänster längst med sjön kommer du till de övriga väggarna.
+
+==Kommunikationer:== 
+Ta buss 816 eller 817 från Gullmarsplan till Mossvägen (816:s ändhållplats). Följ stigen genom skogspartiet söder om vägen och ut på vägen på andra sidan. Följ denna åt v tills den efter några hundra meter övergår i en stig. Därifrån som ovan. 
+
+
+<div style="clear:right;"></div>
+
+
+==Leder==
+
+===Sahara väggen===
+[[Bild:Traskbergen_detalj.png|thumb|right|300px]]
+{{litentext|text=Överhängande vägg med korta leder. Perfekt tidigt på våren. Skiss behövs inte. Från vänster till höger:}}
+{|
+|- valign="top"
+| width=350 |
+{{led|namn=Mowgli|grad=7a|typ=sport|fa=[[Mikael Widerberg]]|text=Går snett åt vänster. Slutar på kant.}}
+
+{{led|namn=Knytkalas|grad=7b|typ=sport|fa=[[Mikael Widerberg]]|text=}}
+
+{{led|namn=Speedball|grad=6c+|typ=sport|fa=[[Anders Granander]][[2001|-01]]|text=Första bulten sitter lite knasigt. Rolig avslutning.}}
+
+{{led|namn=Curry Corner|grad=7a|typ=sport|fa=[[Mikael Widerberg]]|text=}}
+
+{{led|namn=Resultat redan idag|grad=7a+|betyg=1|typ=sport|fa=[[Mikael Widerberg]]|text=}}
+| width=350 |
+{{litentext|text=På andra sidan "blocket"...}}
+
+{{led|namn=48 timmars paus|grad=7b+|typ=sport|fa=[[Mikael Widerberg]]|text=}}
+
+{{led|namn=Sahara|grad=8a|typ=sport|fa=[[Johan Luhr]]|betyg=2|text=Klippans led. Går mitt på väggen och hänger över 30-40 grader. Distinkt krux, men tro inte det är över förän du är över kanten!}}
+
+{{led|namn=Hookabam|grad=7b|typ=sport|fa=[[Mikael Widerberg]]|betyg=1|text=Startar i hörnet}}
+
+{{led|namn=ett noll ett|grad=6c|typ=sport|fa=[[Mikael Widerberg]]|text=Tro inte du är nåt...}}
+
+{{led|namn=Bättre än boule|grad=6b+|typ=sport|fa=[[Mikael Widerberg]]|text=Kort}}
+|}
+
+===Lilla Träskberget===
+[[Bild:Traskberget_0.png]]
+
+Detta förhållandevis lilla klipparti ger fingriga leder på kompakt klippa. Många av lederna har grott igen pga lite trafik och mycket barr. Innehåller dock ett par klassiker. Lämna grejorna ovanpå berget och gå ner i en liten ränna th (vänd utåt) om klippan. 
+{|
+|- valign="top"
+| width="250" |
+{{led|nr=1|namn=Harpoon|grad=4|längd=12|betyg=1|fa=[[Jeremy Sheehan]], [[Lars Svadängs]], [[Torgil Abrahamsson]]‑82}} Fin, lätt och välsäkrad.
+{{led|nr=2|namn=Murder in reverse|grad=5-|längd=12|fa=[[Daniel Bidner]], [[Magnus Buhré]] [[-87]]}}
+{{led|nr=3|namn=Jonas|grad=6-|längd=14|fa=[[Lars Svadängs]], [[Jeremy Sheehan]], [[Göran Blomqvist]] [[-82]]|text=Liknar klättermässigt den intilliggande Moby Dick men faller du här så hamnar du på akuten eller direkt in i evigheten. Stor risk för markfall om du inte är stabil i graden! }}
+{{led|nr=4|namn=Moby Dick|grad=6-|längd=15|betyg=2|fa=[[Lars Svadängs]], [[Jeremy Sheehan]] [[-81]]|text=Detta är en fin led med riktigt hyfsade (små) säkringar. Kanske inte så modern i sin utforming men en gammal god årgångsled i sin exekvering!}}
+| width="250" |
+{{led|nr=5|namn=Ahab|grad=5|längd=14|betyg=1|fa=[[Jeremy Sheehan]], [[Lars Svadängs]] [[-81]]|text=Fin svaspricka med bra säkringar.}}
+{{led|nr=5a|namn=Pussel utan bitar|grad=7-|längd=15|fa=[[Reino Liimatainen]], [[Anders Eriksson]] [[-93]]}}
+{{led|nr=6|namn=Ismael|grad=6|längd=15|fa=[[Jan Liliemark]], [[Jeremy Sheehan]] [[-81]]}}
+{{led|nr=7|namn=Matfeta kinder|grad=6+|längd=16|fa=[[Claes Jelinek]], [[Ingemar Gustafsson]] [[-85]]}}
+| width="250" |
+{{led|nr=8|namn=Filosofens spricka|grad=6-|längd=16|fa=[[Lars Svadängs]], [[Jeremy Sheehan]] [[-81]]|text=Sparsamt säkrad klättring.}} 
+{{led|nr=9|namn=Tattoo|grad=6-|längd=16|fa=[[Jeremy Sheehan]], [[Lars Svadängs]] [[-81]]|text=Sorgligt igengrodd. Knappast klätterbar i sitt nuvarande skick.}}
+{{led|nr=10|namn=Myrstigen|grad=4+|längd=8|fa=[[Lars Svadängs]], [[Annikki Liliemark]] [[-81]]}}
+|}
+
+===Greenpeace-väggen===
+[[Bild:Traskbergen_1.png]]
+{{litentext|text=Th om Lilla Träskberget följer ett ganska långt parti med mossiga och uppbrutna väggar och plattor. Inte särskilt attraktiva! Efter ca 50m skjuter klippan åter i höjden och blir brantare och inte så uppbruten. En lång, smal hylla/ramp går ner från v till h. I rampens vänstra del finns en kort vägg uppe på toppen. }}
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=11|namn=Lilla grisen|grad=6|längd=6|fa=[[Marie-Louise Grund]], [[Claes Jelinek]] [[-88]]}}
+{{led|nr=12|namn=Tryffelgodingen|grad=5+|längd=10|fa=[[Claes Jelinek]] [[-88]]}}
+{{led|nr=13|namn=Thin mints|grad=7+|längd=~10|fa=[[Eva Selin]], [[Anders Lundahl]] [[-89]]}}
+| width="250px" |
+{{litentext|text=Följande leder ligger i väggens högra del:}}
+{{led|nr=14|namn=Hustle and a bustle|grad=5+|längd=20|fa=[[Jeremy Sheehan]] [[-83]]}}
+{{led|nr=63|namn=Hårt men roligt jobb|grad=6-|längd=15|fa=[[Johan Sandberg]] [[2011-06]]|text=Fin varierad klättring. Startar direkt vänster om Sonny's...}}
+{{led|nr=15|namn=Sonny’s crack|grad=5+|längd=15|betyg=1|fa=[[Jeremy Sheehan]] [[-83]]|text=Fin sprickklättring.}}
+| width="250px" |
+{{led|nr=16|namn=På tunga grisfötter|grad=7-|längd=13|fa=[[Claes Jelinek]], [[Marie-Louise Grund]] [[-88]]|text=Fin klättring men med sorgliga bultar. Behöver nog ett tag (eller två) med borsten för att vara riktigt njutbar.}}
+{{led|nr=17|namn=Greenpeace|grad=6-|längd=11|fa=[[Claes Jelinek]], [[Dan Engström]], [[Ingemar Gustafsson]] [[-84]]}}
+|}
+
+===D’evenin’ väggen===
+{{litentext|text=Efter ännu ett ointressant avsnitt dyker det upp en lång och lagom brant svaplatta. Den ligger alldeles tv om ett högt klipparti med väldiga överhäng i sin nedre del. Uppför denna svaplatta går en av Tyresös finaste fyraleder.  Tv om svaplattan går ett litet boulderproblem som håller på att gro igen. Welcome to Comboland, 7-, Daniel Bidner -87.}} 
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=18|namn=Scary monsters|grad=6+|längd=22|fa=[[Mats Olofsson]], [[Per Willén]], [[Mattias Block]] [[-93]]|text=Rakt upp mitten av väggen, förbi en piton och två borrbult. Starten är osäkrad.}}
+| width="250px" |
+{{led|nr=19|namn=D’evenin’ showah|grad=4+|längd=25|betyg=1|fa=[[Jeremy Sheehan]], [[Claes Jelinek]], [[Annikki Liliemark]] [[-83]]|text=Lång, fin och inte allt för läskig svatur. Börjar i den höger-lutande spricka som har några småtallar i. Upp till lite under småtallen i sprickan, traversera V till 'lösa' blocket och följ sprickan upp till toppen.}}
+| width="250px" |
+{{led|nr=19a|namn=Kvällsnöjet|grad=5-|längd=5|fa=[[Bo Sonesson]], [[Mattias Göransson]] [[-92]]
+|text=Direktstart till D'evenin' showah. Börjar på V sidan av svaplattan. Rakt upp hela vägen.}}
+|}
+
+===Överhängande väggen===
+[[Bild:Traskbergen_2.png]]
+
+{{litentext|text=Följande turer ligger på den branta väggen innan ravinen. Vänstra delen av väggen har en del formationer i sin övre del medan den högra delen bara är massivt överhängande.}} 
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=20|namn=Assar|grad=8-|längd=7|fa=[[Niklas Björnerstedt]] [[-91]]}}
+{{led|nr=21|namn=Karisma Gourmet (skitafull med tunnbrödsrulle)|grad=7|längd=9|fa=[[Claes Jelinek]], [[Johan Luhr]], [[Daniel Bidner]], [[Niklas Björnerstedt]] [[-89]]}}
+{{led|nr=22|namn=Vi vet var ni bor|grad=7+|längd=20|fa=[[Daniel Bidner]], [[Jonas Olsson]] [[-88]]}}
+{{led|nr=22a|namn=Tuff match|grad=8-/8|längd=15|fa=[[Johan Luhr]] [[-89]]}}
+{{led|nr=22b|namn=Maskinen|grad=7+|längd=15|fa=[[Johan Luhr]], [[Daniel Bidner]], [[Niklas Björnerstedt]], [[Claes Jelinek]] [[-89]]}}
+{{led|nr=22c|namn=Mitt gym|grad=8-|längd=15|fa=[[Johan Luhr]] [[-89]]}}
+{{led|nr=23|namn=Inför min dom|grad=7+|längd=20|fa=[[Daniel Bidner]], [[Magnus Buhré]] [[-88]]}}
+| width="250px" |
+{{led|nr=24|namn=En nyduschad 14-åring, C2+|grad=5-|längd=20|fa=[[Mats Stoltz|Mats]] & [[Håkan Stoltz]], [[Jan Hurtig]] [[-87]]}}
+{{led|nr=25|namn=Vänner på glid|grad=A3|längd=20|fa=[[Anders Lindfors]] [[-95]]}}
+{{litentext|text=Nästa led ligger i högerkanten av den överhängande väggen.}}
+{{led|nr=26|namn=Stenhårde Kalle|grad=7c|typ=sport|längd=20|fa=[[Johan Luhr]] [[-89]]}}
+{{led|namn=Puselipuss|grad=7c|typ=sport|längd=20|betyg=1|fa=[[Johan Luhr]]}}
+{{led|nr=26a|namn=Chilly|grad=A1/7|längd=~20|fa=[[Daniel Bidner]] [[-89]]}}
+{{led|nr=27|namn=Sno från dom rika|grad=7a|typ=sport|betyg=1|längd=~10|fa=[[Daniel Bidner]], [[Claes Jelinek]], [[Johan Luhr]], [[Niklas Björnerstedt]] [[-89]]}}
+| width="250px" |
+{{led|nr=27a|namn=Sno från dom rika, direktinsteg|grad=7a|typ=sport|längd=5|fa=[[Johan Luhr]], [[Daniel Bidner]], [[Niklas Björnerstedt]], [[Claes Jelinek]] [[-89]]}}
+{{led|nr=27b|namn=Valhalla|grad=5+|längd=15|fa=[[Birger Hedlund ]] -8?}}
+{{led|nr=28|namn=Stölpskottet|grad=6|längd=20|fa=[[Mats Olofsson]], [[Jonas Paulsson]] [[-93]]}}
+{{led|nr=28a|namn=Brakfischlet|grad=6|längd=6|fa=[[Mats Olofsson]], [[Mattias Block]] [[-93]]}}
+{{led|nr=29|namn=Rotehjonet|grad=6|längd=12|fa=[[Mats Olofsson]], [[Mattias Block]] [[-93]]}}
+|}
+
+===Stora Träskberget===
+{{litentext|text=Här finns några av Stockholms bästa svaleder. Svaet är ca 30m högt, men tyvärr inleds det med ett formationslöst överhäng som begränsar möjligheterna till vettiga insteg. Lämna grejorna ovanpå berget och gå ner i ravinen th (vänd utåt) om svaplattan. }}
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=30|namn=Oktoberfesten|grad=5|längd=30|fa=[[Lars Svadängs]], [[Jan Liliemark]] [[-80]]}}
+{{led|nr=31|namn=The Fluke|grad=5+|längd=30|fa=[[Jeremy Sheehan]], [[Lars Svadängs]] [[-82]]}}
+| width="250px" |
+{{led|nr=32|namn=Tidsfördriv|grad=4-/4|längd=20|fa=[[Lars Svadängs]], [[Jeremy Sheehan]] [[-84]]}}
+{{led|nr=33|namn=Sprit och preparat|grad=6-|längd=20|fa=[[Claes Jelinek]], [[Ingemar Gustafsson]] [[-85]]}}
+| width="250px" |
+{{led|nr=34|namn=Huvudstupa i träsket|grad=7|längd=15|fa=[[Niklas Björnerstedt]], [[Daniel Bidner]], [[Claes Jelinek]], [[Johan Luhr]] [[-89]]}}
+|}
+
+===Sumpväggen===
+[[Bild:Traskbergen_3.png]]
+{{litentext|text=Under och th om svaet, på andra sidan en massa blöta överhäng, finns ett brant klipparti med flera ordentliga diederformationer. Svårigheten att ta sig dit beror helt på vattennivån i träsket. Detta är det verkliga träskberget! Det finns dock en landremsa under samtliga leder. Ovanlig klättermiljö med flera fina leder. Tv om den första diedern finns enligt gamla Stockholmsföraren tre artificiella leder genom överhängen. Det finns också tre "nya" sportleder. }}
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Odd Job|grad=8a|typ=sport|fa=[[Johan Luhr]]}}
+{{led|namn=Mr Wint|grad=7c/7c+?|typ=sport|betyg=1|fa=[[Johan Luhr]]|text=Verkar ha förlorat ett grepp över vintern. En jugge i starten är nu en dålig crimp, vilket gjort leden något hårdare.}}
+{{led|namn=Mr Kidd|grad=7c|typ=sport|fa=[[Johan Luhr]]}}
+{{led|nr=35|namn=?|grad=A3|längd=|fa=[[Christer Jansson]] [[-96]]}}
+| width="250px" |
+{{led|nr=36|namn=Njursten|grad=A2|längd=|fa=[[Christer Jansson]] [[-96]]}}
+{{led|nr=37|namn=Decamerone|grad=A1|längd=|fa=[[Jesper Andersson]] [[-96]]}}
+{{led|nr=38|namn=Desillusion|grad=7+/8-|längd=16|fa=[[Fredrik Rundkvist]], [[Henrik Bolander]] [[-92]]}}
+{{led|nr=39|namn=Ge fan i mig|grad=7+/8-|längd=16|fa=[[Daniel Bidner]] [[-88]]}}
+| width="250px" |
+{{led|nr=40|namn=Laglös|grad=7-|längd=16|fa=[[Jonas Olsson]], [[Daniel Bidner]] [[-88]]}}
+{{led|nr=41|namn=Metal in the head|grad=6+|längd=16|fa=[[Magnus Buhré]], [[Daniel Bidner]], [[Ulrica Edholm]] [[-88]]}}
+{{litentext|text=Ovanför Metal in the head finns ett bra firningsträd.}}
+{{led|nr=42|namn=Sista natten med Sodom|grad=7+/8-|längd=16|fa=[[Daniel Bidner]] [[-88]]}}
+{{led|nr=43|namn=Helvites döfull|grad=7+|längd=16|fa=[[Daniel Bidner]] [[-88]]}}
+|}
+
+[[Bild:Traskbergen_4.png]]
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=44|namn=Some bizarre|grad=6-|längd=16|fa=[[Magnus Buhré]], [[Daniel Bidner]], [[Jonas Olsson]] [[-88]]}}
+{{led|nr=45|namn=Variationen|grad=6|längd=16|fa=[[Jonas Olsson]], [[Daniel Bidner]], [[Magnus Buhré]] [[-88]]|text=Väldigt skitig, mossa på greppen och dåligt säkrad. (Våren -08)}}
+{{led|nr=46|namn=Jojo i träsket|grad=6|längd=16|fa=[[Mats Olofsson]], [[Torgnulf Johansson]], [[Ola Johansson]] [[-93]]}}
+{{led|nr=47|namn=Wet dreams|grad=5+|längd=16|fa=[[Jonas Paulsson]] [[-93]]}}
+| width="250px" |
+{{led|nr=48|namn=Sweet dreams|grad=6-|längd=17|fa=[[Jonas Paulsson]], [[Mats Olofsson]] [[-93]]}}
+{{litentext|text=Det går ett antal hårda aidturer genom överhänget över pölen. Görs med fördel på vintern…}} 
+{{led|nr=49|namn=Specialist på våta jobb|grad=A3-|längd=20|fa=[[Ludde Hagberg]] [[-96]]}}
+{{led|nr=50|namn=Sharp shooting on Saturn|grad=A2+|längd=20|fa=[[Ludde Hagberg]] [[-96]]}}
+| width="250px" |
+{{led|nr=51|namn=Dig it|grad=A2+|längd=20|fa=[[Marco Kupiainen]] [[-96]]}}
+{{led|nr=52|namn=Se upp för träsket|grad=A3|längd=20|fa=[[Anders Lindfors]] [[-95]]}}
+{{led|nr=53|namn=Spasmolytic|grad=A3|längd=20|fa=[[Marco Kupiainen]] [[-96]]}}
+|}
+
+===Vox populi väggen===
+[[Bild:Traskbergen_5.png]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{litentext|text=På andra sidan träskpölen finns ett antal överhängande linjer. Ett par av lederna th om Vox populi är chippade enligt Johan.}} 
+{{led|nr=54|namn=Gun city|grad=7c|typ=sport|betyg=1|längd=20|fa=[[Daniel Bidner]] [[-92]]}}
+{{led|nr=54a|namn=Full fart mot döden|grad=7c|betyg=2|typ=sport|längd=|fa=[[Johan Luhr]] [[-93]]}}
+{{led|nr=54b|namn=Natt utan slut|grad=7c|längd=|typ=sport|betyg=2|fa=[[Johan Luhr]] [[-93]]|text=Långa moves mellan stora grepp.}}
+{{led|nr=54c|namn=Vox populi|grad=7a+|typ=sport|betyg=1|längd=17|fa=[[Daniel Bidner]], [[Niklas Björnerstedt]], [[Johan Luhr]] [[-89]]}}
+| width="250px" |
+{{led|namn=Nionde Kompaniet|grad=7c+|fa=[[Johan Luhr]]|typ=sport|bultar=6|text=Rakt upp från insteget på Vox Populi.}}
+{{led|nr=55|namn=Dödens tåg|grad=7c|typ=sportlängd=13|fa=[[Johan Luhr]] [[-93]]}}
+{{led|nr=56|namn=Festen vid grottorna|grad=7c+|typ=sport|längd=12|fa=[[Johan Luhr]] [[-93]]|text=Grepp har lossnat.}}
+{{led|nr=57|namn=Sista båten från Singapore|grad=7c|typ=sport|längd=12|fa=[[Johan Luhr]] [[-93]]}}
+{{led|nr=58|namn=Fruktan är mitt vapen|grad=7c|typ=sport|längd=12|fa=[[Johan Luhr]] [[-93]]}}
+| width="250px" |
+{{led|nr=59|namn=Hemliga vägar|grad=7c|typ=sport|betyg=1|längd=10|fa=[[Johan Luhr]] [[-93]]}}
+{{led|nr=60|namn=Åtta glas|grad=7c|typ=sport|längd=10|fa=[[Johan Luhr]] [[-93]]}}
+{{led|nr=61|namn=Cirkus|grad=7c|typ=sport|längd=12|fa=[[Johan Luhr]] [[-93]]}}
+{{led|namn=Det Gyllene Mötet|grad=8a|fa=[[Johan Luhr]]}}
+{{led|nr=62|namn=Örnnästet|grad=8-/8|längd=10|fa=[[Johan Luhr]] [[-93]]}}
+|}
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Trad]]
+[[Kategori:Stockholm]] [[Kategori:Tyresö]]

@@ -1,0 +1,114 @@
+{{boulderkomplett}}
+
+Det vackrast belägna området i Uppsala. Den bäst utvecklade delen består av några block på en äng, i skogen på andra sidan bäcken finns ca 50-100 block och många väggar att utveckla.
+
+=Vägbeskrivning=
+
+Kör väg 52 mot Sala från Uppsala, sväng av höger i Vänge och kör mot Fiby urskog. Passera blocken och parkera vid den skyltade parkeringen.
+
+<googlemap version="0.9" lat="59.875327" lon="17.393074" type="map" width="500" height="300">
+59.881724, 17.364106, Fiby
+</googlemap>
+
+=Sektorer=
+==Ängen==
+Blocken på ängen går ej att missa.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Painkiller|grad=7C|typ=Krimp|fa=Stefan|landning=1|betyg=1|fadatum=2008-03-20|sopad=Stefan|text=Ett par meter vä om Tottes hund på stora blocket på ängen. Starta vid uppenbar bred krimplist. Osäker grad - 7B+ - C.}}
+{{problem|nr=1|namn=Näckrofilen|grad=6C|typ=Slopers|fa=J Smedsaas|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Klättra upp åt vänster.}}
+{{problem|nr=2|namn=Bellavista|grad=6C|typ=Dyno|fa=J Smedsaas|betyg=1|sopad=J Smedsaas|text=Starta med små lister, catcha till kanten.}}
+{{problem|nr=3|namn=-|grad=5A|typ=|fa=J Smedsaas|sopad=J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=4|namn=-|grad=4C|typ=Mantling|fa=J Smedsaas|sopad=J Smedsaas|sittstart=ja|text=Sittstart höger om kanten, mantla runt åt vänster.}}
+{{problem|nr=5|namn=-|grad=5A|typ=Mantling|fa=C Dinges / R Hedman / J Smedsaas|sopad=C Dinges / R Hedman / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=6|namn=-|grad=3A|typ=Slab|fa=C Dinges / R Hedman / J Smedsaas|sopad=C Dinges / R Hedman / J Smedsaas|text=}}
+{{problem|nr=7|namn=Zoo Tycoon|grad=5A|typ=Aréte|fa=C Dinges / R Hedman / J Smedsaas|sopad=C Dinges / R Hedman / J Smedsaas|text=Följ aréten till toppen. 5c med sittstart.}}
+{{problem|nr=8|namn=Diablo|grad=6A|typ=|fa=C Dinges / R Hedman / J Smedsaas|betyg=1|sopad=C Dinges / R Hedman / J Smedsaas|text=Vägg. Rakt upp mitt på väggen (utan den stora vertikala kanten 6b).}}
+{{problem|nr=9|namn=Kannan|grad=5A|typ=Aréte|fa=C Dinges / R Hedman / J Smedsaas|sopad=C Dinges / R Hedman / J Smedsaas|text=}}
+{{problem|nr=10|namn=-|grad=4C|typ=Slab|fa=C Dinges / R Hedman / J Smedsaas|sopad=C Dinges / R Hedman / J Smedsaas|text=}}
+{{problem|nr=11|namn=Trollpisten|grad=4B|typ=Slab|fa=C Dinges / R Hedman / J Smedsaas|sopad=C Dinges / R Hedman / J Smedsaas|text=}}
+{{problem|nr=12|namn=-|grad=6A+|typ=Mantling|fa=C Dinges / R Hedman / J Smedsaas|betyg=1|sopad=C Dinges / R Hedman / J Smedsaas|sittstart=ja|text=Sittstart vid det lilla överhänget.}}
+{{problem|nr=13|namn=Kaffe och Cigg|grad=6B|typ=Överhäng|fa=O Eriksson|sopad=O Eriksson|sittstart=ja|text=Sittstart till höger.}}
+| width="250px" |
+{{problem|nr=14|namn=-|grad=4C|typ=Travers H->V|fa=R Hedman / K Svensson|sopad=R Hedman / K Svensson|sittstart=ja|text=Sittstart höger, klättra vänster ut till aréten och sedan upp.}}
+{{problem|nr=15|namn=Fred is Dead|grad=7A|typ=Överhäng|fa=Crell|landning=3|sopad=Crell|sittstart=ja|variant=ja|text=Taket bakom bananbänken. Starta med stenen under taket, gå direkt ut vänster om hornet.}}
+{{problem|nr=15|namn=Jamtaket|grad=6C|typ=|fa=J Smedsaas / D Andersson|betyg=1|sopad=J Smedsaas / D Andersson|sittstart=ja|text=Tak. Sittstart med stenen under taket, sedan rakt ut på lister.}}
+{{problem|nr=16|namn=-|grad=5C|typ=Mantling|fa=R Hedman|sopad=R Hedman|text=Rakt upp vänster om hornet.}}
+{{problem|nr=17|namn=Bananbänken|grad=6C|typ=Aréte,Heel hook|fa=Jon|landning=2|betyg=2|sopad=Jon|sittstart=ja|text=Bananformade arêten vid ängen. sittstarta vid hornet. Uppsalas populäraste problem?}}
+{{problem|nr=18|namn=-|grad=6B+|typ=Travers V->H|fa=R Hedman|sopad=R Hedman|sittstart=ja|variant=ja|text=Sittstart längst vänster, traversera höger och avsluta vid Bananbänken.}}
+{{problem|nr=18|namn=-|grad=5B|typ=Mantling|fa=R Hedman|sopad=R Hedman|sittstart=ja|text=Mantla upp på bananbänksblocket, längs vänster.}}
+{{problem|nr=19|namn=Farbror Anna och Tanten med den Långa...|grad=7A+|typ=Slopers|fa=J Smedsaas|sopad=J Smedsaas|sittstart=ja|uteslutningar=ja|text=Upp på stora slopers utan det stora greppet till vänster.}}
+{{problem|nr=20|namn=Lilla scenen|grad=4A|typ=Mantling|fa=?|sopad=?|sittstart=ja|text=SS vid hyllan på lilla blocket.}}
+{{problem|nr=22|namn=Calles Aréte|grad=5A|typ=Aréte|fa=C Dinges|betyg=2|sopad=C Dinges|text=}}
+{{problem|nr=23|namn=Tottes Hund|grad=7A+|typ=Krimp|fa=J Smedsaas|landning=2|betyg=2|sopad=J Smedsaas|text=Stora scenen, längst höger på västra väggen. Rakt upp mot "klykan".}}
+{{problem|nr=24|namn=Tottes Hungriga Hund|grad=-|typ=Dyno|fa=S Boye|sopad=S Boye|text=Hoppa upp till sprickan vid toppen.}}
+| width="250px" |
+{{problem|nr=25|namn=Tottes Lilla Pudel|grad=-|typ=Dyno|fa=S Boye|sopad=S Boye|text=Hoppa upp till den vänstra sprickan vid toppen.}}
+{{problem|nr=26|namn=-|grad=5B|typ=Dyno|fa=R Hedman / K Svensson|sopad=R Hedman / K Svensson|text=Starta med lister.}}
+{{problem|nr=27|namn=-|grad=5A|typ=Mantling|fa=R Hedman / K Svensson|sopad=R Hedman / K Svensson|text=Starta med det stora sidtaget vid aréten.}}
+{{problem|nr=28|namn=Förlös|grad=7A+|typ=Layback|fa=J Smedsaas|landning=1|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Sittstart vid diedret på kortsidan.}}
+{{problem|nr=29|namn=Le Dogge Totale|grad=7B|typ=Överhäng|fa=J Smedsaas|landning=1|sopad=J Smedsaas|sittstart=ja|variant=ja|text=På stora scenens kortsida. Sittstart med stora sidtag, dra upp åt vänster till sloper med höger hand.}}
+{{problem|nr=29|namn=Dogstory|grad=7A|typ=Överhäng,Dyno|fa=J Smedsaas|landning=1|betyg=1|sopad=J Smedsaas|sittstart=ja|text=På stora scenen, sittstart vänster om diedret med stora sidtag - catcha sedan upp höger till sloper med vänster hand.}}
+{{problem|nr=30|namn=Stora Scenen|grad=5C|typ=Aréte|fa=J Smedsaas|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Sittstart med list vid aréten, klättra upp på aréten (ingen escape ut till vänster)}}
+{{problem|nr=31|namn=-|grad=5A|typ=Travers H->V|fa=?|sopad=?|text=Hangel åt vänster längs kanten.}}
+{{problem|nr=32|namn=Med ena foten i bäcken|grad=7A|typ=Krimp|fa=J Antonsson och F Malmros|landning=1|betyg=2|sopad=J Antonsson och F Malmros|text=Baksidan stora scenen. Mitt på väggen.}}
+{{problem|nr=33|namn="Fibyaréten" -PROJEKT|grad=-|typ=Aréte|fa=?|betyg=3|sopad=?|text=Kanske Uppsalas bästa oklättrade linje. Hård hård hård.}}
+{{problem|nr=34|namn=-|grad=6B+|typ=Slab|fa=?|betyg=1|sopad=?|text=Upp åt vänster.}}
+{{problem|nr=34|namn=-|grad=6A+|typ=Slab|fa=?|betyg=1|sopad=?|text=Rakt upp på höger sida.}}
+|}
+==Skogen==
+Skogen på andra sidan ån sett från blocken på ängen är proppfull med block. Lite utveckling har skett här, och bara den är dåligt dokumenterad. För den orädde finns här stor potential.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Svart assis|grad=7B+|typ=|fa=Jon|betyg=2|sopad=Jon|sittstart=ja|text=Överhängande basaltvägg på stort block. Toppar ut vid uppenbar basalt tufa/pinch. Går inte att missa.}}
+{{problem|namn=Vitt|grad=6B|typ=Överhäng,Spricka|fa=Anders Tväråna|landning=4|betyg=1|fadatum=2008-05-11|sopad=Anders Tväråna|sittstart=ja|text=Sprickan till höger om Svart. Stora händer till knytnävar. Toppa ut över det hängande blocket.}}
+| width="250px" |
+{{problem|namn=Rosa|grad=6C|typ=Krimp,Layback|fa=skogstrollen|landning=3|betyg=1|fadatum=2008-05-12|sopad=skogstrollen|text=till vänster om svart. börja med layback vid hörnet, upp via fler sidgrepp och mantla.}}
+{{problem|namn=Frostfritt|grad=5B|typ=Arête|fa=Henric Skoog|landning=4|betyg=|fadatum=2009-01-10|sopad=Henke, Jens, Marcus|sittstart=ja|text=På litet block till höger om stort, rätt över ån från Ängen. Sittstart med händerna på stort grepp.}}
+| width="250px" |
+|}
+
+==Nybygget==
+Ligger egentligen inte i själva Fiby. Ta väg 272 norrut och sväng av vänster mot Jumkil. Håll höger efter kyrkan och ta vänster när vägen delar sig. Blocken ligger i den andra dungen på vänster sida i området nybygget. De höga och finaste linjerna är ogjorda.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Welsh Sitstart|grad=6C|typ=Dyno|fa=D Smith / J Smedsaas|sopad=D Smith / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=2|namn=Welsh Juvenile|grad=5C|typ=|fa=D Smith / J Smedsaas|betyg=1|sopad=D Smith / J Smedsaas|text=Från vertikal till horisontell spricka.}}
+{{problem|nr=3|namn=Excusé Moi Sans|grad=7B|typ=Krimp,Slopers|fa=Dylan och Jon|landning=4|betyg=1|sopad=Dylan och Jon|sittstart=ja|variant=ja|uteslutningar=ja|text=Sittstart mitt i överhänget, dra sedan rakt upp över slabben utan greppen till höger.}}
+| width="250px" |
+{{problem|nr=3|namn=Excusé Moi|grad=7B|typ=Krimp,Slopers|fa=Dylan och Jon|landning=4|betyg=1|fadatum=2006-03-19|sopad=Dylan och Jon|sittstart=ja|variant=ja|uteslutningar=ja|text=Sittstart mitt i överhänget, dra upp åt höger till gaston och upp på slabben.}}
+{{problem|nr=3|namn=Motor-Ola|grad=6C+|typ=Krimp,Slopers|fa=J Smedsaas|betyg=1|sopad=J Smedsaas|sittstart=ja|text=Sittstart vid det lilla överhänget, sedan höger och avsluta på aréten.}}
+| width="250px" |
+{{problem|nr=4|namn=The Welsh Midget and the Swedish Troll|grad=6A+|typ=Aréte|fa=D Smith / J Smedsaas|sopad=D Smith / J Smedsaas|sittstart=ja|text=}}
+|}
+==Ägget och Noshörningen==
+Ägget ligger i skogen bakom skjulet halvvägs mellan blocken på ängen och parkeringen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=-|grad=3A|typ=Slab|fa=C Dinges / L Oliv|sopad=C Dinges / L Oliv|text=Starta med den stora listen.}}
+{{problem|nr=1|namn=-|grad=5B|typ=Travers V->H|fa=C Dinges / L Oliv|sopad=C Dinges / L Oliv|variant=ja|text=Starta med det stora greppet, traversera höger och avsluta med problem 4.}}
+{{problem|nr=2|namn=-|grad=4B|typ=Slab|fa=C Dinges / L Oliv|sopad=C Dinges / L Oliv|text=Vänster om diedret.}}
+{{problem|nr=3|namn=-|grad=4A|typ=Slab|fa=C Dinges / L Oliv|sopad=C Dinges / L Oliv|text=Rakt upp vid flaket.}}
+{{problem|nr=3|namn=-|grad=4C|typ=|fa=C Dinges / L Oliv|sopad=C Dinges / L Oliv|variant=ja|text=Dieder.}}
+{{problem|nr=4|namn=-|grad=5A|typ=Mantling|fa=C Dinges / L Oliv|sopad=C Dinges / L Oliv|text=Starta med stort grepp, mantla upp åt höger på svaet.}}
+| width="250px" |
+{{problem|nr=4|namn=-|grad=4C|typ=Travers H->V|fa=C Dinges / L Oliv|betyg=1|sopad=C Dinges / L Oliv|variant=ja|text=Starta med stort grepp, traversera vänster och avsluta med problem 1.}}
+{{problem|nr=5|namn=Otto är en noshörning|grad=7A|typ=Krimp,Överhäng|fa=J Smedsaas|landning=3|sopad=J Smedsaas|sittstart=ja|text=Överhänget på noshörningen, sittstart och klättra upp över sva.}}
+{{problem|nr=5|namn=Sweet & Sour|grad=7B|typ=Överhäng|fa=SE|sopad=SE|sittstart=ja|variant=ja|text=Sittstart som Otto... dra höger till aréten och avsluta med Söt liten bagatell.}}
+{{problem|nr=6|namn=Söt Liten Bagatell (låg start)|grad=7A|typ=Slopers,Överhäng|fa=J Smedsaas|landning=3|betyg=1|sopad=J Smedsaas|variant=ja|startgrepp=ja|text=Noshörningen, starta med händerna på stora greppet på arêten, klättra upp höger.}}
+| width="250px" |
+{{problem|nr=7|namn=Söt Liten Bagatell Hoppstart|grad=6C|typ=Slopers|fa=J Smedsaas|betyg=1|sopad=J Smedsaas|text=Vänster hand på sidtag, hoppa till sloper.}}
+{{problem|nr=8|namn=Nerveuse|grad=7B|typ=Krimp,Överhäng,Highball|fa=J Smedsaas|landning=5|betyg=3|sopad=J Smedsaas|text=Till höger på ägget, campusstart.}}
+{{problem|nr=9|namn=-|grad=5C|typ=Aréte|fa=C Dinges / R Hedman|sopad=C Dinges / R Hedman|text=Stora grepp upp längs aréten.}}
+|}
+=Problem=
+{{problem|namn=Bagatellen|grad=7C+|typ=Överhäng|fa=Jon|landning=3|betyg=1|fadatum=2008-05-11|sopad=Jon|sittstart=ja|text=Sittstarten till Söt liten Bagatell.}}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

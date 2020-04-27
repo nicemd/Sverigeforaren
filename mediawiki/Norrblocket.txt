@@ -1,0 +1,25 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Svasteg|grad=4A|typ=Slab|fa=cd ls|landning=1|betyg=1|sopad=cd ls|text=till vänster på stenens slabbiga sida}}
+{{problem|nr=2|namn=Flykten|grad=6C|typ=Mantling,Travers V->H,Heel hook|fa=cd|landning=1|betyg=2|sopad=cd|sittstart=ja|text=starta på höger arete av den överhängande sidan gå sedan via läppen ut till en jugge o mantla.}}
+{{problem|nr=3|namn=Midsom|grad=7A+|typ=Krimp,Mantling|fa=cd|landning=1|betyg=1|fadatum=2005-06-11|sopad=cd|text=starta på höger sida av den överhängande delen, bara att sätta igång o mantla}}
+| width="250px" |
+{{problem|nr=4|namn=Midsom ss|grad=7C|typ=Krimp,Mantling,Överhäng|fa=cd|fadatum=2005-06-11|sopad=cd|sittstart=ja|text=sittstarta till höger på den överhängande delen, sedan ut på midsom}}
+{{problem|nr=5|namn=Tanden|grad=6B|typ=Krimp,Reach|fa=cd|landning=1|sopad=cd|text=till vänster på den vertikala väggen o sedan upp.}}
+{{problem|nr=6|namn=Intet o ensamheten|grad=7A|typ=Krimp,Reach|fa=cd|landning=1|betyg=2|sopad=cd|sittstart=ja|text=starta sittande ute till höger på den verikala väggen, sedan rakt upp på bäste sätt}}
+| width="250px" |
+{{problem|nr=7|namn=Första stegen|grad=5B|typ=Mantling|fa=cd ls|landning=1|betyg=1|sopad=cd ls|text=starta till vänster på den vågformade sidan o mantla.}}
+{{problem|nr=8|namn=Vågsvall|grad=6A+|typ=Krimp,Slopers,Mantling|fa=cd|landning=1|betyg=1|sopad=cd|text=starta i mitten på den vågformade väggen och ut}}
+{{problem|nr=9|namn=Tvivel|grad=5C|typ=Krimp,Mantling|fa=cd ls|landning=1|betyg=1|sopad=cd ls|text=starta till höger på den vågformade väggen och ut}}
+|}
+[[Kategori:Lycksele]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

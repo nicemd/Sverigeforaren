@@ -1,0 +1,87 @@
+{{info klippa
+  |lat=57.704892
+  |long=18.848022
+}}
+
+{{stub}}
+<!--{{utkast}} -->
+<!-- {{komplett}} -->
+
+[[Fil:Asunden_gotland.jpg|800px]]
+
+==Allmänt==
+Boulderklippa utanför Slite på Gotland. Potential till många fina problem. Visby Klätterklubb är i tag med uppgiften att utveckla klinten. Något lös stenkvalité
+
+==Access==
+Klinten ligger i ett Natura 2000-område. Använd grusvägen ut till själva klinten, dels för att inte störa djurlivet eller förstöra floran och dels för att det periodvis är sankmark. I övrigt så gäller som vanligt att vi inte skräpar ner och tar hänsyn till de betande fåren i anslutning till klippan.
+
+==Vägbeskrivning==
+
+<googlemap version="0.9" lat="57.704583" lon="18.847947" zoom="13">
+57.704583, 18.847947
+Slite, Gotland, Sverige
+57.704583, 18.847947, Asunden
+</googlemap>
+Några kilometer norr om Slite, sväng höger mot Hellvi. Efter ca två kilometer, sväng höger mot Barläst. Följ därefter skyltningen mot Asunden (var uppmärksam, skylten kommer snabbt). Sista biten ut till Asunden är ordentligt gropig. Parkera vid parkeringsplatsen och gå ut sista biten, en fin promenad på ca 1 km. Använd gångvägen. 
+
+[[Media:Asunden_Topo.pdf]]
+
+==Lillklinten==
+Strax norr om stora klinten finns en liten klint med fint tak.
+Än så länge har det inte etablerats några problem här, men det är bara en tidsfråga.
+
+==Norra taket==
+{{led|namn=Fyraväggen|grad=4B|typ=boulder|fa=[[Visby Klätterklubb]] -12|text=Den grepprika vertikala väggen till vänster om Norra taket. Valfri väg och urtoppning.}}
+
+{{led|namn=??|grad=5A|typ=boulder|fa=[[Carl Quick]] -12|text=Det tydliga hörnet på fyraväggen. Rakt upp, toppa ur}}
+
+{{led|namn=??|grad=7B|typ=boulder|fa=[[Maximilian Lund]] -12
+Maximilian Lund har satt projektet vid den överhängande spetsen som är fristående från klinten, på strax söder om Norra taket.}}
+
+{{led|namn=Max grustag|grad=6B|typ=boulder|fa=[[Alexander Rydén]] -12|text=Längst till höger på Norra taket. Lös start, därefter rakt upp. Toppa ur i det lilla hacket i taket.}}
+
+{{led|namn=Left Right up|grad=6B+|typ=boulder|fa=[[Per-Ola Nilsson]] -12|text=Som namnet antyder är det vänster höger ggr 2, toppa ur.}}
+
+==Stora taket==
+{{led|namn=Projekt|grad=?|typ=boulder|fa=xx xx -xx|text=Maximilian Lund har ett projekt i början av Stora taket.}}
+
+{{led|namn=Knallen|grad=5L|typ=boulder|fa=Per Bäckström -12|text=Aréten i högra kanten av det stora taket mitt på klinten. Sittstart och vidare rakt upp runt taket. Lätt fint problem på bra grepp hela vägen.}}
+
+==Södra taket==
+
+{|
+|- valign="top"
+
+{{led|namn=Quick Stop|grad=7A+|typ=boulder|fa=[[Per-Ola Nilsson]] -12|text=Vänstra sidan av taket. Rakt upp på bra grepp, höger hand på krimp vid första utskjutande del, vänster hand gaston åt vänster. Toppa ur rakt upp och inte via vertikala väggen till vänster.}}
+
+{{led|namn=Hånande fåret|grad=7A|typ=boulder|fa=[[Alexander Rydén]] -12|text=beskrivning kommer}}
+
+{{led|namn=Five finger death punch|grad=6A|typ=boulder|fa=[[Maximilian Lund]] -12|text=beskrivning kommer}}
+
+{{led|namn=Marodören|grad=6A|typ=boulder|fa=[[Alexander Sjöstrand]] -12|text=Mitt emellan Five finger och Hedlunds går detta problem rakt upp. Toppa ur}}
+
+{{led|namn=Hedlunds väg|grad=6A|typ=boulder|fa=[[David Skoog]] -12|text=beskrivning kommer}}
+
+==Småtaken==
+Söder om södra taket finns en serie med mindre tak till att klinten upphör
+
+{{led|namn=Monster traktor|grad=5C|typ=boulder|fa=[[Maximilian Lund]] -12|text=beskrivning kommer}}
+
+{{led|namn=Pierah-maous!|grad=6B|typ=boulder|fa=[[Maximilian Lund]] -12|text=beskrivning kommer}}
+
+{{led|namn=??|grad=?|typ=boulder|fa=[[Carl Quick]] -12|text=beskrivning kommer}}
+
+{{led|namn=EIF|grad=5L|typ=boulder|fa=[[Per Bäckström]] -12|text=Det lilla taket långt ut till höger. Sittstart, vidare upp till jug under taket, därefter rakt upp.}}
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+
+[[Category:Gotland]]
+[[Category:Bouldering]]

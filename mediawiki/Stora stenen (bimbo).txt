@@ -1,0 +1,143 @@
+=Allmänt=
+Ett litet men lättillgängligt område mellan Ludvika och Smedjebacken. Det är inte speciellt bra stenkvalitét, men det finns ändå ett par guldkorn. Hjälp gärna till att justera graderna!
+
+Det är inte alls omöjligt att någon klättrat vissa av dessa problem eller varianter av dem tidigare. Säg till om du vet mer!
+
+=Vägbeskrivning=
+Sväng mot Hagge från 66:an mellan Ludvika och Smedjebacken. Åk igenom hagge och fortsätt mindre än 1 kilometer tills Stora stenen kan ses 3 meter till höger om vägen. Stanna på andra sidan vägen från Stora stenen eller fortsätt till nerfarten till Vinaren och parkera. Gå tillbaka en kort bit längs vägen från Vinaren och ta sikte mot den döda trädstammen som sticker upp från hygget. Här ligger Större stenen.
+
+På andra sidan vägen från Större stenen och något längre norrut hittar man Nya stenen och dess något mindre granne, Andra nya stenen.
+
+Ytterligare ett litet tillskott, Nyare stenen, med några få klättrade problem (finns inte så mycket mer att göra där) hittar man om man svänger upp på en grusväg till vänster innan man når kurvan precis innan Stora stenen. Åk en kort bit tills det finns möjlighet att ta av åt vänster och parkera bilen där. Blocket kan man se 200-300 meter in på kalhygget ner mot vägen.
+
+
+TILLÄGG (2010-09-15)
+Om man följer ledningarna, på vänster sida (under ledningarna är det lite blött), ned mot sjön, ca 100 m, så finns där ett flertal klippblock och en ca 2,5 m hög bergvägg. 
+
+
+
+<googlemap version="0.9" lat="60.11142" lon="15.26950" type="map" zoom="12" width="500" height="300">
+60.11142, 15.26950, Stora stenen
+</googlemap>
+
+=Block=
+==Större stenen==
+
+<center>
+[[Bild:Intebadminton.jpg]]
+<br>
+</center >
+
+{|
+|- valign="top"
+| width="350px" |
+{{problem|namn=Inte badminton|grad=6B|typ=Arête/Vägg|fa=H Skoog|landning=2|betyg=2|fadatum=2010-06-16|sopad=H Skoog|text= Områdets hittills finaste problem. Ståstarta vid arêten och klättra upp via sluttande hyllan. Grön linje.}}
+
+{{problem|namn=Rövardans|grad=6A|typ=Arête|fa=J Andersson|landning=2|betyg=|fadatum=2010-10-04|sopad=H Skoog|text=Samma arête som Inte badminton startar på}}
+
+| width="350px" |
+{{problem|namn=M90-kängor|grad=4|typ=Vägg|fa=H Skoog|landning=2|betyg=0|fadatum=2010-03-19|sopad=H Skoog|text= Häftiga grepp innan urmantlingen om man går lite till vänster på väg upp. Orange linje.}}
+|}
+
+<center>
+[[Bild:regardless.jpg]]
+<br>
+</center >
+
+{|
+|- valign="top"
+| width="350px" |
+{{problem|namn=Regardless of age and disability |grad=5B|typ=Arête|fa=H Skoog|landning=3|betyg=|fadatum=2010-03-10|sopad=H Skoog|text= Stenens första problem? Klättras med kroppen till höger om arêten. Orange linje.}}
+
+{{problem|namn=Regardless of age and disability assis|grad=5B|sittstart=ja|typ=Arête|fa=A Käll|landning=3|betyg=|fadatum=2010-03-19|sopad=H Skoog|text= Börja sittandes med bägge händerna på det bra greppet nära arêten. Orange linje.}}
+
+{{problem|namn=Tandlös |grad=4|sittstart=ja|typ=Mantling|fa=H Skoog|landning=3|betyg=0|fadatum=2010-05-07|sopad=H Skoog|text= Med eller utan sittstart. Upp över hyllan och fortsätt i diedret. Blå linje.}}
+
+| width="350px" |
+
+{{problem|namn=Med ett ton i famnen |grad=6A+|sittstart=ja|typ=Arête|fa=H Skoog|landning=3|betyg=0|fadatum=2010-05-07|sopad=H Skoog|text= Starta sittandes med händerna på det vassa greppet under det lilla taket. Se upp för ett möjligtvis löst block vid starten. Grön linje.}}
+
+{{problem|namn=Prioritering|grad=6B|typ=Överhäng|fa=J Andersson|landning=3|betyg=0|fadatum=2010-07-14|sopad=H Skoog|text= Upp snett åt höger via stor, lite läskig undercling. Lila linje}}
+
+{{problem|namn=Mer klättring |grad=6A+|sittstart=ja|typ=Travers|fa=H Skoog|landning=3|betyg=0|fadatum=2010-10-04|sopad=H Skoog|text= Samma start som "Med ett ton i famnen". Traversera vänster under den tunna tvärsprickan och avsluta med "Om skon inte passar"}}
+|}
+
+<center>
+[[Bild:Skon.jpg]]
+<br>
+</center >
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem|namn=Tofflan |grad=4|typ=Arête|fa=J Bayou|landning=3|betyg=|fadatum=2010-07-06|sopad=H Skoog|text=Följ arêten till toppen och mantla ur upp åt vänster. Blå linje.}}
+
+{{problem|namn=Om skon inte passar Direkt |grad=6A |typ=Vägg|fa=H Skoog |landning=3|betyg=|fadatum=2011-04-06|sopad=H Skoog|text= Sittstarten är fortfarande ett projekt. Etablera och klättra rakt uppåt. Orange linje.}}
+
+{{problem|namn=Om skon inte passar |grad=5C|typ=Travers|fa=H Skoog|landning=3|betyg=1|fadatum=2010-03-12|sopad=H Skoog|text= Starta ståendes med HH vid eller i pocket och VH på krimp. Urtoppning ovanför "gropen". Grön linje.}}
+
+| width="350px" |
+{{problem|namn=Om skon inte passar ss |grad=6A|sittstart=ja|typ=Travers|fa=H Skoog|landning=3|betyg=1|fadatum=2010-03-19|sopad=H Skoog|text= Samma sittstart som "Regardless of age and disability". Dra först till pocket och jobba vidare därifrån. Grön linje.}}
+
+{{problem|namn=En storlek för små |grad=6B|typ=Vägg|fa=H Skoog|landning=3|betyg=1|fadatum=2010-05-07|sopad=H Skoog|text= Samma startalternativ som för "Om skon inte passar", men gå inte längre än till högra greppet i gropen utan jobba istället uppåt till höger om den lilla sprickan. Uteslut "klykan" för en stjärna! Grön linje med gulgrön linje för avslut.}}
+
+{{problem|namn=Goforit|grad=6A+|typ=Arête|fa=H Skoog|landning=3|betyg=1|fadatum=2010-07-14|sopad=H Skoog|text=Arêten klättrad med kroppen på vänster sida. Lila linje.}}
+|}
+
+==Stora stenen==
+
+<center>
+[[Bild:movies.jpg]]
+<br>
+</center >
+
+{|
+|- valign="top"
+| width="350px" |
+{{problem|namn=Let's all go to the movies |grad=6A+|sittstart=ja|typ=Travers|fa=H Skoog|landning=3|betyg=|fadatum=2010-03-09|sopad=H Skoog|text= Områdets första problem? Skottades fram när boulderabstinensen var som värst. Traversera från bra grepp vid lilla trädet. Se upp för lös sten vid urtoppningen! Grön linje.}}
+
+| width="350px" |
+{{problem|namn=Lastbilsbrand|grad=6B+|sittstart=ja|typ=Arête|fa=H Skoog|landning=3|betyg=1|fadatum=2010-03-26|sopad=H Skoog|text= Fin och intensiv sittstart. Allt som nås från arêten är ok. Orange linje.}}
+|}
+
+<center>
+[[Bild:NMyrornaT.jpg]]
+<br>
+</center >
+
+{|
+|- valign="top"
+| width="350px" |
+{{problem|namn=Regnskugga|grad=4|typ=Sva|fa=H Skoog|landning=3|betyg=|fadatum=2010-04-28|sopad=H Skoog|text= Upp på svaets vänstra sida. Grön linje.}}
+
+| width="350px" |
+{{problem|namn=När myrorna tystnar|grad=5A|typ=Sva|fa=H Skoog|landning=3|betyg=|fadatum=2010-04-07|sopad=H Skoog|text= Rakt upp där svaet är som högst. Orange linje.}}
+|}
+
+==Nya stenen==
+
+<center>
+[[Bild:Borka.jpg]]
+<br>
+</center >
+
+{|
+|- valign="top"
+| width="350px" |
+{{problem|namn=Borkalinjen|grad=6B|sittstart=ja|typ=Arête|fa=J Andersson|landning=5|betyg=0|fadatum=2011-04-11|sopad=H Skoog|text= En riktigt avig sittstart. Halva svårigheten med det här problemet är att inte dabba i början. Följ arêten och mantla upp runt hörnet. Blå linje.}}
+
+{{problem|namn=Vårskrik|grad=6A+|sittstart=ja|typ=Arête|fa=J Andersson|landning=5|betyg=1|fadatum=2011-04-11|sopad=H Skoog|text=Börja vid de bra greppen nere till höger och följ arêten upp åt vänster. Mantla ur runt hörnet. Grön linje}}
+
+| width="350px" |
+{{problem|namn=Mattislinjen|grad=6A+|sittstart=ja|typ=Mantling|fa=J Andersson|landning=5|betyg=0|fadatum=2011-04-11|sopad=H Skoog|text=Mantla upp från de bra greppen nere till höger. Kanten till vänster och stora sidtaget ute till höger är "off limits". Gul linje.}}
+|}
+
+[[Kategori:Ludvika]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Smedjebacken]]
+[[Kategori:Dalarna]]

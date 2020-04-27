@@ -1,0 +1,102 @@
+{{info klippa
+  |lat=59.221
+  |long=17.88}}
+
+{{boulderutkast}}
+Tullinge - skansberget ( the complete guide :)
+
+Parkeringstips: Kör rakt fram istället för att svänga vänster in på skansbergsvägen. Då kommer man till en liten badparkering.
+
+<googlemap width=350 height=300 lat="59.221" lon="17.88" zoom="11" type="map" controls="small">
+59.221,17.88,här
+</googlemap>
+
+[[Bild:skansberget-overview.jpg]]
+
+[[Bild:skansberget-map.jpg]]
+
+
+--------------------------------
+
+Klassiska boulders:
+
+Samtliga klassiska boulders är sittstarter med definierade startgrepp, inga eliminationer, valfritt för händer och fötter.
+
+{{led|nr=A|namn=A|grad=-|betyg=0|fa=ogjord | text=Fin linje, sittstart på bra grepp, gå upp med VH till sidotag, HH in i slopersprickan nedanför läppen, matcha VH på läppen, skicka HH långt ut till höger ovanför läppen, matcha.}}
+{{led|nr=B|namn=B|grad=-|betyg=0|fa=JL | text=Löst parti, har funnits boulders, ändrats och försvunnit}}
+{{led|nr=C|namn=C|grad=7C|betyg=1|fa=JL | text=Två krimpar långt ner, rakt upp, catch till en jugge som matchas}}
+{{led|nr=Da|namn=Da|grad=7B|betyg=0|fa=JL | text=Börjar brett går via ett underkling till en jugge, brett ut till sidotag och upp till juggen som C avslutas på.}}
+{{led|nr=Db|namn=Db|grad=7B|betyg=0|fa=JL | text=Börjar samma som `Da' vid juggen går man till höger och vidare upp. Avslutas vid dom stora greppen där uppe.}}
+{{led|nr=Ea|namn=Ea|grad=7B+|betyg=2|fa=JL | text=Startar med VH i samma jugg/pocket som Db har för HH. HH på en låg krimp. Gå upp/höger till den ringformade krimpen vid läppen och sedan vänster till juggarna där uppe..}}
+{{led|nr=Eb|namn=Eb|grad=7B+|betyg=2|fa=JL | text=Startar med VH i samma jugg/pocket som Db har för HH. HH på en låg krimp. Vid den ringformade krimpen vid läppen går man istället höger och upp (ihop med `F' slutet..)}}
+
+{{led|nr=F|namn=F|grad=7B+|betyg=0|fa=JL | text=Start i undercling rakt upp.}}
+{{led|nr=G|namn=G|grad=7B|betyg=0|fa=JL | text=Start i grepp brevid undercling, catch till ett bra liten "hylla", matcha, catcha vidare till stora krimpen uppe, runt hörnet, match på dom stora greppen ovanför den stora krimpen. beta=Använd tåkrok för att göra katchen till stora listen på bullen. Kör utan tåkrok för ett plus i graderingen.}}
+{{led|nr=H|namn=H|grad=7B+|betyg=0|fa=JL/E? | text=Börjar i en stor jugge och traverserar till vänster och upp.}}
+{{led|nr=I|namn=I|grad=5a|betyg=0|fa=-- | text=Börjar i samma stora jugge och går rakt upp.}}
+
+--------------------------------
+
+Varianter och eliminationer:
+
+{{led|nr=F1|namn=F1|grad=7C+|betyg=2|fa=JL | text=Matcha underclinget, korsa över med HH, catcha VH till en bred två-tre finger pocket. HH till en list och vidare till läppen, matcha, först nu får man sjunka ner på juggen med HH, ta slopern bredvid juggen med VH, vidare med VH till en sloper/enfingerpocket på bullen, HH till stora krimpen runt bullen. Matcha och gå upp till juggarna.}}
+
+{{led|nr=F2|namn=F2|grad=7C|betyg=0|fa=LV | text=Matcha underclinget, korsa över med HH, ta underclinget/sidotaget med VH, gå vidare med HH till valfritt och sedan rakt upp som F. Inga stora grepp till höger får användas för händerna.}}
+
+{{led|nr=F3|namn=F3|grad=>7C+|betyg=1|fa=ogjord | text=Matcha underclinget, korsa över med HH, catcha VH till en bred två-tre finger pocket. HH ända upp till listerna vid läppen. Härifrån går man till vänster, VH till ringformade krimpen. Korsa HH vidare till vänster till jughyllan ovanför.}}
+
+{{led|nr=I1|namn=I1|grad=7A|betyg=0|fa=LV20071008 | text=Matcha stora juggen, korsa över med VH, till sloperlisten, catcha och matcha kanten.}}
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+Obs, bouldrarna är i oordning. Se gammal info längst ner för graderingsförslag.
+
+Traverser:
+{{led|nr=x|namn=Wrong side|grad=8A|betyg=0|fa=Johan Luhr 20070508|text=Travers ?  20+ move.}}
+{{led|nr=x|namn=Old boy|grad=7C+ (8A?)|betyg=2|fa=Johan Luhr 20070418|text=Travers ? 20+ move, travers vänster till höger}}
+{{led|nr=x|namn=I'm not weak|grad=7C+|betyg=2|fa=Johan Luhr 20061018|text=Travers från vänster till höger}}
+
+Boulder:
+{{led|nr=x|namn=Overage|grad=7C+|betyg=1|fa=Johan Luhr 20070523|text=}}
+{{led|nr=x|namn=Good Luck|grad=7C+ (8A?)|betyg=1|fa=Johan Luhr 20070421|text=många move}}
+{{led|nr=x|namn=Old school|grad=7C+|betyg=1|fa=Johan Luhr 20070418|text=elimination}}
+{{led|nr=x|namn=Keep going|grad=7C+|betyg=3|fa=Johan Luhr 20061001|text=elimination}}
+{{led|nr=x|namn=The great elimination|grad=7C+|betyg=1|fa=Johan Luhr 2006?|text=}}
+{{led|nr=x|namn=Wintertime|grad=7C+|betyg=1|fa=Johan Luhr 20061029|text=många move}}
+{{led|nr=x|namn=Bicep boy|grad=7C|betyg=2|fa=Johan Luhr 20070424|text=}}
+{{led|nr=x|namn=April wine|grad=7C|betyg=2|fa=Johan Luhr 20050404|text=}}
+{{led|nr=x|namn=The super pinch|grad=7C|betyg=1|fa=Johan Luhr 20061201|text=}}
+{{led|nr=x|namn=Evening star|grad=7A|betyg=1|fa=Johan Luhr 20040301|text=}}
+{{led|nr=x|namn=Forgotten songs|grad=7C|betyg=1|fa=Johan Luhr 20060920|text=}}
+{{led|nr=x|namn=I'm not dead yet|grad=7C|betyg=1|fa=Johan Luhr 20060913|text=}}
+{{led|nr=x|namn=November heat|grad=7C|betyg=1|fa=Johan Luhr 20060522|text=}}
+{{led|nr=x|namn=Lets rock|grad=7C|betyg=1|fa=Johan Luhr 20060522|text=}}
+{{led|nr=x|namn=Heart rate|grad=7C|betyg=1|fa=Johan Luhr 20060522|text=}}
+{{led|nr=x|namn=Never ending story|grad=7C|betyg=1|fa=Johan Luhr 20060519|text=}}
+{{led|nr=x|namn=The little elimination|grad=7C|betyg=1|fa=Johan Luhr 20060519|text=}}
+{{led|nr=x|namn=The pinch|grad=7B+|betyg=1|fa=Johan Luhr 20060913|text=}}
+{{led|nr=x|namn=Fathers day|grad=7B+|betyg=2|fa=Johan Luhr 20060522|text=}}
+{{led|nr=x|namn=Mothers day|grad=7B+|betyg=1|fa=Johan Luhr 20060522|text=}}
+{{led|nr=x|namn=Mamma i'm here|grad=7B+|betyg=2|fa=Johan Luhr 20050418|text=}}
+{{led|nr=x|namn=Fire your guns|grad=7B+|betyg=2|fa=Johan Luhr 20050418|text=}}
+{{led|nr=x|namn=Cold as hell|grad=7B|betyg=1|fa=Johan Luhr 20051121|text=}}
+{{led|nr=x|namn=Road to nowhere|grad=7B|betyg=0|fa=Johan Luhr 20050105|text=}}
+{{led|nr=x|namn=Mamma i'm coming home|grad=7B|betyg=0|fa=Johan Luhr 20050105|text=}}
+{{led|nr=x|namn=Burning for you|grad=7B|betyg=0|fa=Johan Luhr 20050105|text=}}
+{{led|nr=x|namn=Three quite minutes|grad=7B|betyg=0|fa=Johan Luhr 20050105|text=}}
+{{led|nr=x|namn=Eriks problem|grad=7B|betyg=0|fa=??? 2004|text=}}
+{{led|nr=x|namn=Dont go|grad=7A+|betyg=0|fa=Johan Luhr 20040301|text=}}
+
+
+[[Kategori:Stockholm]]

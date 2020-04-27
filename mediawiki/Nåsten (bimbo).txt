@@ -1,0 +1,187 @@
+
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+=Allmänt=
+Det första område som utvecklades i Uppsala. Mest låga block och stenen är vass. Finns några problem som är värda besväret att ta sig hit dock. Nåsten Enköpingsvägen är definitivt värt ett besök.
+=Vägbeskrivning=
+Lättast att ta cykeln hit. Följ den gamla järnvägsvallen österut från Flogsta, passera skogspartiet efter Håga by. Följ skogskanten på vänster sida till en vändplan - Nåsten ligger utspritt längs med vägen. Nåsten Enköpingsvägen nås om man fortsätter längs banvallen genom nästa skogsparti förbi ett hus på höger sida. Blocken ligger sedan invid banvallen på vänster sida.
+=Sektorer=
+==Hygget==
+Den del av Nåsten som börjar vid vändplanen och sträcker sig några hundra meter söderut.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Färjesång|grad=7B|typ=Slopers|fa=J Smedsaas|landning=3|betyg=2|sopad=J Smedsaas|sittstart=ja|text=Går på färjesångsblocket som ligger strax innan det stora blocket på höjden. Den slopiga överhängade arêten, sittstarta till vänster vid stubben - avsluta höger.}}
+{{problem|namn=Trubbel (höger)|grad=7B|typ=Krimp,Överhäng,Dyno|fa=J Smedsaas|landning=4|sopad=J Smedsaas|sittstart=ja|text=Baksidan av Färjesångsblocket. Från sluttande list och grepp i spricka; catcha upp höger till hylla.}}
+| width="250px" |
+{{problem|namn=Trubbel (vänster)|grad=7A+|typ=Krimp,Överhäng,Dyno|fa=J Smedsaas|landning=4|sopad=J Smedsaas|sittstart=ja|text=Baksidan av Färjesångsblocket. Från sluttande list och grepp i spricka; catcha rakt upp.}}
+{{problem|namn=Stigmata|grad=7A+|typ=Krimp,Dyno|fa=Stefan E|landning=3|betyg=1|sopad=Stefan E|text=Vänster om Vindflöjeln.}}
+| width="250px" |
+{{problem|namn=Dylans namnlösa|grad=7B|typ=Krimp,Överhäng|fa=Dylan|landning=5|sopad=Dylan|sittstart=ja|text=De små blocken bakom väggprojektet. Högra stenen, högra arêten.}}
+{{problem|namn=Slash|grad=7A+|typ=Highball,Aréte|fa=J Andrén|landning=5|betyg=2|sopad=J Andrén|text=Hangla arêten höger om väggprojektet.}}
+|}
+==Kaoset==
+Följ grusvägen söderut från vändplanen tills vägen börjar svänga höger in i skogen. Ta av höger upp i skogen här och du bör få syn på ett enormt block. Detta är Nåsten kaoset.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=The Spanish Pilgrim|grad=7B|typ=Krimp,Överhäng,Dyno|fa=Stefan|landning=3|betyg=2|fadatum=2006-05-07|sopad=Stefan|text=Kylskåpsstart vid arêten, rakt upp.}}
+{{problem|namn=Tills friktionen skiljer er åt|grad=5C|typ=Slab,Highball|fa=grim|landning=6|betyg=2|sopad=grim|text=samma block som the spanish pilgrim. mitt på stora väggen. rakt upp till högsta toppen. ett av uppsalas bästa highball-problem. den som ramlar från toppen blir det synd om!!}}
+| width="250px" |
+{{problem|namn=sva för fegisar|grad=5A|typ=Slab|fa=grim|landning=4|sopad=grim|text=vänstra delen av väggen bredvid "tills friktionen..."}}
+{{problem|namn=Goxoxa|grad=6B|typ=Överhäng,Aréte,Heel hook|fa=grim|landning=3|betyg=2|sopad=grim|sittstart=ja|text=block längre in i skogen. följ åsen 50m efter det stora blocket. starta på juggen, vidare till sloper.}}
+| width="250px" |
+|}
+==Enköpingsvägen==
+Består av endast 4 block men flera klassiska problem återfinns här. Om du tagit bilen längs 55:an så sväng in vänster mot bergtäkten och ställ dig direkt innanför grinden. Gå sedan ett hundratal meter tillbaka österut längs banvallen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=World's Strongest Man|grad=7B|typ=Slopers|fa=Scott och Dylan|landning=4|betyg=2|sopad=Scott och Dylan|sittstart=ja|text=Första blocket längs banvallen. Sittstart vid arêten som vetter mot vägen, klättra vänster runt arêten och avsluta på väggen till vänster.}}
+{{problem|namn=Daniels överhäng (aka King Louie)|grad=7A|typ=Krimp,Överhäng|fa=D Andersson|landning=4|betyg=3|sopad=D Andersson|sittstart=ja|text=Sittstart mitt i överhänget, klättra upp höger.}}
+| width="250px" |
+{{problem|namn=Latino Lover|grad=6C+|typ=Slopers|fa=J Smedsaas|landning=5|betyg=1|sopad=J Smedsaas|text=Rakt upp med slopers vid World's strongest.}}
+{{problem|namn=Långt ner i halsen|grad=7A|typ=Överhäng|fa=J Smedsaas|landning=4|betyg=1|sopad=J Smedsaas|sittstart=ja|uteslutningar=ja|text=Sittstart höger om King Louie under taket, klättra rakt upp utan att använda jättejuggen.}}
+| width="250px" |
+|}
+==Bitigast i Nåsten==
+De två blocken ligger på hygget öster om området Enköpingsvägen, söder om banvallen. Blocket längst in kan tydligt ses från banvallen om man står i höjd med den röda ladan på norra sidan av vägen. Stenkvalitén är hemsk, men vissa av problemen är klättervärda om man är beredd att slita lite på huden. Hjälp gärna till att justera graderna!
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Bitigast i Nåsten|grad=-|typ=|fa=|landning=|betyg=|sopad=|sittstart=|text=En liten skiss för att hitta problemen.}}
+{{problem|nr=1|namn=Två röda|grad=5C|typ=|fa=H Skoog|landning=3|betyg=|fadatum=2009-05-18|sopad=H Skoog|sittstart=ja|text=Börja med sidtag till vänster och kant till höger.}}
+{{problem|nr=2|namn=Chipped by God|grad=5A|typ=Arête|fa=H Skoog|landning=3|betyg=|fadatum=2009-05-18|sopad=H Skoog|sittstart=ja|text=Börja med kanten till vänster och eventuellt sidtag långt ut till höger.}}
+{{problem|nr=3|namn=Blodsmak in the finger|grad=5C|typ=Arête|fa=H Skoog och M Carlsson|landning=3|betyg=|fadatum=2009-05-18|sopad=H Skoog och M Carlsson|sittstart=ja|text=Börja med vänster hand vid det triangelformade "hålet". Gå upp åt höger och mantla ut.}}
+| width="250px" |
+{{problem|nr=4|namn=Hajen|grad=6A|typ=Arête|fa=H Skoog och M Carlsson|landning=3|betyg=|fadatum=2009-05-18|sopad=H Skoog och M Carlsson|sittstart=ja|text=Vasst men fint. Hade fått en stjärna om den inte åt hud.}}
+{{problem|nr=5|namn=Mersmak|grad=5C|typ=Vägg|fa=H Skoog|landning=3|betyg=1|fadatum=2009-05-18|sopad=H Skoog|sittstart=ja|text=För att få en stjärna utesluts den stora listen uppe till vänster. Samma grad oavsett hur den klättras.}}
+{{problem|nr=6|namn=Unnamed player|grad=4|typ=Vägg|fa=M Carlsson|landning=2|betyg=|fadatum=2009-05-18|sopad=M Carlsson|sittstart=ja|text=Rakt upp till väggens högsta punkt.}}
+| width="250px" |
+{{problem|nr=7|namn=Jävla padda|grad=6A|typ=Catch|fa=H Skoog och M Carlsson|landning=4|betyg=|fadatum=2009-05-18|sopad=H Skoog och M Carlsson|sittstart=ja|text=Knivig sittstart till rivig catch. Stjärnkandidat men det höll inte riktigt hela vägen, främst pga stenkvalitén. Stubben under problemet är dessutom duktigt irriterande.}}
+{{problem|nr=8|namn=Slopers FTL|grad=4|typ=Mantling|fa=H Skoog och M Carlsson|landning=4|betyg=|fadatum=2009-05-18|sopad=H Skoog och M Carlsson|sittstart=ja|text=Uppför den vertikala "trappan" från den stora listen längst ner.}}
+|}
+
+==Hygget plan 1==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=-|grad=6A+|typ=Aréte|fa=?|sopad=?|sittstart=ja|text=Sittstart från sten.}}
+{{problem|nr=2|namn=-|grad=5A|typ=|fa=?|sopad=?|text=Vägg.}}
+{{problem|nr=3|namn=-|grad=6A|typ=Mantling|fa=?|sopad=?|sittstart=ja|text=}}
+{{problem|nr=4|namn=-|grad=6A|typ=Krimp|fa=?|sopad=?|sittstart=ja|text=Sittstart från stenen.}}
+{{problem|nr=5|namn=-|grad=4A|typ=Aréte|fa=?|sopad=?|sittstart=ja|text=}}
+{{problem|nr=6|namn=Verbal Attraktion|grad=6C|typ=Mantling|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=Upp på sva (igenväxt).}}
+{{problem|nr=7|namn=En i Mängden|grad=5C|typ=Aréte|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=}}
+{{problem|nr=8|namn=-|grad=4C|typ=|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|uteslutningar=ja|text=Vägg. Låg start utan aréten.}}
+{{problem|nr=9|namn=-|grad=5A|typ=Aréte|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=}}
+{{problem|nr=10|namn=-|grad=5A|typ=Slab|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|uteslutningar=ja|text=No hands!}}
+| width="250px" |
+{{problem|nr=11|namn=-|grad=6A|typ=Överhäng|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=12|namn=-|grad=5C|typ=Aréte|fa=C Dinges / R Hedman|sopad=C Dinges / R Hedman|sittstart=ja|text=}}
+{{problem|nr=13|namn=-|grad=6A+|typ=Krimp|fa=C Dinges / R Hedman|sopad=C Dinges / R Hedman|sittstart=ja|text=}}
+{{problem|nr=14|namn=-|grad=6A+|typ=Dyno|fa=C Dinges / R Hedman|sopad=C Dinges / R Hedman|sittstart=ja|text=Sittstart med sidtag.}}
+{{problem|nr=15|namn=-|grad=5A|typ=Dyno|fa=C Dinges / R Hedman|sopad=C Dinges / R Hedman|sittstart=ja|text=}}
+{{problem|nr=16|namn=Hello, Hello|grad=6C|typ=Aréte|fa=D Smith|sopad=D Smith|sittstart=ja|text=Sittstart från stenen.}}
+{{problem|nr=17|namn=Rickards Spricka|grad=6A+|typ=Spricka|fa=R Hedman|betyg=1|sopad=R Hedman|text=}}
+{{problem|nr=18|namn=Krille Krillodil|grad=5A|typ=|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|text=Vägg.}}
+| width="250px" |
+{{problem|nr=19|namn=Christers namnlösa|grad=7B|typ=Överhäng,Aréte|fa=C Jansson|landning=3|sopad=C Jansson|sittstart=ja|text=Blocket med Rikards spricka. Sittstart vid högra arêten, stenen under ingår. Klättra upp vänster (?).}}
+{{problem|nr=19|namn=Klatch|grad=6B+|typ=|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|uteslutningar=ja|text=Vägg. Starta från marken utan hyllan till höger.}}
+{{problem|nr=20|namn=If Feet were Hands|grad=6A+|typ=Travers V->H,Heel hook|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=21|namn=-|grad=5B|typ=Aréte,Travers V->H|fa=?|sopad=?|text=}}
+{{problem|nr=22|namn=-|grad=6A|typ=Spricka|fa=?|sopad=?|sittstart=ja|text=}}
+{{problem|nr=23|namn=-|grad=6B|typ=Krimp|fa=?|sopad=?|text=Starta med små sidtag i sprickan.}}
+{{problem|nr=24|namn=Raven|grad=4A|typ=Travers H->V|fa=?|sopad=?|text=}}
+|}
+==Hygget plan 2==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=-|grad=5A|typ=Aréte|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=}}
+{{problem|nr=1|namn=-|grad=3A|typ=|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=Dieder.}}
+{{problem|nr=2|namn=Graceland|grad=5C|typ=Slab|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|uteslutningar=ja|text=Rakt upp på den vänstra sidan av svaet via tvåfingerslist i spricka, utan kanterna.}}
+{{problem|nr=3|namn=-|grad=5A|typ=Slopers,Aréte|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=Sittstart med undercling och sloper vid den låga aréten.}}
+{{problem|nr=4|namn=Bernadine|grad=4C|typ=Överhäng|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|sittstart=ja|text=Rakt upp på stora grepp.}}
+{{problem|nr=4|namn=Bernadine direct|grad=6A|typ=Överhäng,Dyno|fa=?|sopad=?|sittstart=ja|variant=ja|uteslutningar=ja|text=Catcha rakt upp till kanten utan greppen till höger.}}
+{{problem|nr=5|namn=El Che Vive|grad=6C|typ=Krimp,Överhäng|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|uteslutningar=ja|text=Rakt upp utan kanten till höger.}}
+{{problem|nr=6|namn=Fjärilen|grad=5B|typ=Mantling|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=7|namn=Hasta Siempre|grad=7A|typ=Travers H->V|fa=Jon och Christer J|landning=2|betyg=1|sopad=Jon och Christer J|sittstart=ja|text=Svablocket, sittstart längst höger på långsidan och traversera hela vägen vänster.}}
+{{problem|nr=7|namn=Puppan|grad=5B|typ=Mantling|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=7|namn=Funky, Fancy Dancer|grad=6B+|typ=Slopers|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=Klättra upp åt höger in i Manteln}}
+{{problem|nr=8|namn=Manteln|grad=5A|typ=Mantling|fa=?|sopad=?|text=Hoppstart för korta.}}
+{{problem|nr=9|namn=Cube|grad=6C|typ=Krimp|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=}}
+{{problem|nr=10|namn=Sheepshagger|grad=5A|typ=|fa=?|sopad=?|text=}}
+{{problem|nr=11|namn=-|grad=5A|typ=Aréte|fa=?|sopad=?|text=}}
+{{problem|nr=12|namn=Strändernas Svall|grad=6C|typ=Dyno|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=Starta med undercling och sidtag, sedan rakt upp till hylla.}}
+{{problem|nr=13|namn=Strandmannen|grad=5A|typ=Aréte|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|text=Klättra upp på höger sida aréten (upp på vänster sida 6a).}}
+{{problem|nr=13|namn=Strandmannen sittstart|grad=5C|typ=Aréte|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|sittstart=ja|variant=ja|text=(upp på vänster sida 6b+)}}
+{{problem|nr=14|namn=Silbergasse|grad=6B+|typ=Krimp|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=15|namn=-|grad=4C|typ=|fa=?|sopad=?|sittstart=ja|text=Höger om sprickan.}}
+{{problem|nr=16|namn=Looki looki, no hands!|grad=4A|typ=Slab|fa=O Eriksson|sopad=O Eriksson|uteslutningar=ja|text=No hands, starta vid aréten.}}
+{{problem|nr=17|namn=-|grad=6A|typ=Aréte|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=}}
+{{problem|nr=18|namn=Stå på moln|grad=6C+|typ=Krimp,Överhäng,Dyno|fa=Jon och Christer J|landning=2|betyg=1|sopad=Jon och Christer J|startgrepp=ja|text=Blocket norr om hästenblocket. Starta med grepp i sprickan, sedan upp vänster. Uppsalas hårdaste 6c+.}}
+{{problem|nr=19|namn=-|grad=6A|typ=Aréte|fa=?|sopad=?|sittstart=ja|text=Sittstart från stenen.}}
+{{problem|nr=20|namn=-|grad=4A|typ=Aréte|fa=?|sopad=?|sittstart=ja|text=Klättra rakt upp över hornet.}}
+{{problem|nr=21|namn=-|grad=6C+|typ=Travers V->H|fa=?|sopad=?|text=Starta längst till vänster intill stenen, klättra höger längs kanten upp till toppen.}}
+{{problem|nr=22|namn=Akta Rygg!|grad=6A|typ=Överhäng|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=}}
+{{problem|nr=23|namn=Shazz|grad=6A+|typ=Mantling|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|sittstart=ja|text=Sittstart vid den stora hyllan.}}
+{{problem|nr=24|namn=-|grad=6A|typ=Aréte|fa=?|sopad=?|text=Följ aréten till toppen.}}
+{{problem|nr=24|namn=-|grad=6C|typ=Aréte|fa=?|sopad=?|sittstart=ja|text=Sittstart höger om stenen med lister, upp på stora slopers på aréten.}}
+{{problem|nr=25|namn=Akta Ballen!|grad=5A|typ=Dyno|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=Starta vid aréten, catcha rakt upp.}}
+{{problem|nr=25|namn=Silverglidaren|grad=5C|typ=Krimp|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=Starta på aréten, klättra upp åt höger i spricka.}}
+{{problem|nr=25|namn=Silverglidaren sittstart|grad=6B|typ=Krimp|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|variant=ja|text=}}
+{{problem|nr=26|namn=Scherzo|grad=6A+|typ=Dyno|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|text=Starta med den slopiga hyllan, sedan något upp åt höger.}}
+{{problem|nr=26|namn=Scherzo sittstart|grad=6B|typ=Dyno|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|sittstart=ja|variant=ja|text=}}
+{{problem|nr=27|namn=Dylans catch|grad=7A+|typ=Krimp,Dyno|fa=Dylan|landning=2|sopad=Dylan|text=Vänster om köttsaft, catch till hylla från undercling och pinch.}}
+{{problem|nr=28|namn=Köttsaft|grad=7A|typ=Aréte|fa=Dylan|landning=3|betyg=1|sopad=Dylan|text=Arêten på stora blocket ovanför hästenblocket.}}
+{{problem|nr=28|namn=Köttsaft vänster|grad=7A|typ=Aréte|fa=Jon och Calle D|landning=3|betyg=1|fadatum=2006-03-23|sopad=Jon och Calle D|variant=ja|text=Starta som köttsaft, men bryt ut höger halvvägs upp till stort grepp.}}
+| width="250px" |
+{{problem|nr=29|namn=Mr Fjupp|grad=6A+|typ=Dyno|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=Starta med undercling och vass list.}}
+{{problem|nr=30|namn=Uppvärmningen|grad=4C|typ=Aréte|fa=?|sopad=?|text=}}
+{{problem|nr=31|namn=Handlös|grad=6A|typ=Aréte|fa=O Eriksson|sopad=O Eriksson|text=Starta vid aréten, följ kanten upp åt höger till toppen. (Variant: Start med vänster hand på list, stå på hyllan och hoppa upp höger till sloper och mantla 6a+)}}
+{{problem|nr=32|namn="Matt's sitstart"|grad=-|typ=Överhäng|fa=Matt Adams ??|landning=2|betyg=1|sopad=Matt Adams ??|sittstart=ja|text=Sittstart under taket på hästenblocket. Ogjord?}}
+{{problem|nr=32|namn=Mental Kollaps|grad=6A|typ=Aréte|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|text=Starta något höger om aréten, klättra upp till vänster.}}
+{{problem|nr=33|namn=Northern Light Traverse|grad=6B+|typ=Travers H->V|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|sittstart=ja|text=Start längst till höger på den slopiga hyllan, traversera vänster in i Mental Kollaps. (Variant: Fortsätt lågt runt aréten och avsluta upp på slopers 6c)}}
+{{problem|nr=34|namn=-|grad=4C|typ=Mantling|fa=?|sopad=?|text=Hoppstart till toppen och mantla.}}
+{{problem|nr=35|namn=Psychopathic|grad=6B|typ=Slopers|fa=D Smith|betyg=1|sopad=D Smith|text=Starta vid aréten, sedan upp åt vänster.}}
+{{problem|nr=36|namn=Telepathic|grad=6C+|typ=Slopers|fa=D Smith|betyg=1|sopad=D Smith|text=Starta med list höger och vänster aréte, sedan rakt upp.}}
+{{problem|nr=37|namn=-|grad=6A|typ=Aréte|fa=?|sopad=?|text=}}
+{{problem|nr=38|namn=My Favourite Things|grad=6C|typ=|fa=C Jansson / J Smedsaas|betyg=1|sopad=C Jansson / J Smedsaas|text=Vägg. Starta lågt vid stenen.}}
+{{problem|nr=39|namn=Ost, Bacon, Tomat och en Lätt Grillad Burgare|grad=6A|typ=Aréte|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=}}
+{{problem|nr=40|namn=-|grad=-|typ=Travers V->H|fa=?|sopad=?|sittstart=ja|text=Traversera höger och avsluta med 41.}}
+{{problem|nr=41|namn=-|grad=5B|typ=Mantling|fa=C Jansson / J Smedsaas|sopad=C Jansson / J Smedsaas|text=}}
+{{problem|nr=42|namn=Grottan|grad=6B|typ=|fa=?|sopad=?|sittstart=ja|text=Tak. Start längst in till höger, följ kanten till sprickan och avsluta rakt ut över läppen.}}
+{{problem|nr=42|namn=Grottbjörnen|grad=6C|typ=|fa=O Eriksson|sopad=O Eriksson|variant=ja|startgrepp=ja|uteslutningar=ja|text=Tak. Starta med sprickan i taket och gå rakt ut över läppen utan att använda kanten till höger.}}
+|}
+==Hygget plan 3==
+
+==Hygget plan 4==
+
+==Hygget plan 5==
+Gå söderut från vändplatsen och sväng upp vänster strax innan Kaoset. Gå in höger från stigen vid andra tydliga möjligheten (en bra bit in på stigen). Sikta sen in dig på första bästa ek och sen vidare mot den stora tallen som står längst söderut. Det finns möjlighet till att borsta fram ett fåtal problem till i området. Ungefärliga koordinater: N 59*49.440' E 017*32.940'.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Brachycera|grad=6A+|typ=Catch|fa=H Skoog|landning=4|betyg=2|fadatum=2009-06-27|sopad=H Skoog|text=Ståstart vid flaket i det svagt markerade diedret, etablera och catcha. Finns möjlighet att lägga till en sittstart för den starke, men då åker graden upp.}}
+
+| width="250px" |
+
+{{problem|namn=Bracharête|grad=5C|typ=Arête|fa=H Skoog|landning=4|betyg=2|fadatum=2009-08-29|sopad=H Skoog|text=Arêten till höger om Brachycera. Håll kroppen till vänster om arêten.}}
+
+| width="250px" |
+|}
+
+=Problem=
+{{problem|namn=Latino Lover assis|grad=7B+|typ=Slopers|fa=Don DiStefano|landning=3|betyg=2|fadatum=2006-04-10|sopad=Don DiStefano|sittstart=ja|text=Sittstart som World's strongest, klättra rakt upp.}}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

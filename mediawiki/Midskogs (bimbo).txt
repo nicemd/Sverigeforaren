@@ -1,0 +1,80 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Babygym|grad=7B+|typ=Slopers,Pinch,Travers H->V|fa=Per Wermelin|landning=1|betyg=2|fadatum=2003-06-27|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Leden är på välkomsstenen. Man börjar med sittstart på startgrepp ute till höger. Därefter traverserar man ut åt vänster och avslutar rakt upp, ca 1 m från grottan mellan välkomsstenen och stenen till vänster.}}
+{{problem|namn=Stressgubbar|grad=6C|typ=Krimp,Slopers|fa=Per Wermelin|landning=2|fadatum=2003-08-14|sopad=Per Wermelin|sittstart=ja|text=Problemet börjar vid kanten till vänster om Trollstjärten, går rakt upp.}}
+{{problem|namn=Boddanized|grad=6C|typ=Krimp,Mantling,Dyno|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-08-14|sopad=Fredrik Bodin|startgrepp=ja|text=Startar med frihäng i greppet i taket, går sedan rakt ut och upp.}}
+{{problem|namn=Mad ass|grad=4C|typ=Slopers,Aréte|fa=Per Wermelin|landning=3|fadatum=2003-08-14|sopad=Per Wermelin|sittstart=ja|text=Startar på stenens vänstra arête, följer sedan denna rakt upp.}}
+{{problem|namn=Pappa kan|grad=6A|typ=Krimp|fa=Per Wermelin|landning=3|fadatum=2003-08-14|sopad=Per Wermelin|sittstart=ja|text=Sittstart mitt på stenen, går rakt upp.}}
+{{problem|namn=Pampers|grad=5A|typ=Slopers,Aréte|fa=Per Wermelin|landning=3|fadatum=2003-08-14|sopad=Per Wermelin|sittstart=ja|text=Sittstart vid stenens högra kant, följer den upp.}}
+{{problem|namn=Våfflan|grad=5C|typ=Krimp,Jug|fa=Jocke S, Anders W, Jörgen Ö|landning=3|fadatum=2003-08-14|sopad=Jocke S, Anders W, Jörgen Ö|sittstart=ja|startgrepp=ja|text=Sittstart under taket, startgreppen är krimparna på läppen. Etablera sen båda händerna på den stora spetsiga juggen. Gå sen åt vänster och avsluta över kanten.}}
+{{problem|namn=Smördeg|grad=6A|typ=Aréte|fa=Jocke S, Anders W, Jörgen Ö|landning=3|fadatum=2003-08-14|sopad=Jocke S, Anders W, Jörgen Ö|text=Startar på hornet på vänstra areten och följer areten till toppen.}}
+{{problem|namn=Hajfensoppa|grad=5C|typ=Dyno,Jug|fa=Jocke S, Anders W, Jörgen Ö|landning=3|fadatum=2003-08-14|sopad=Jocke S, Anders W, Jörgen Ö|startgrepp=ja|text=Båda händerna på den spetsiga juggen och fötterna på några friktionsgrepp. Skicka till topps med en liten mantling på spetsjuggen med ena handen.}}
+{{problem|namn=Kocken|grad=6B+|typ=Krimp,Jug|fa=Per Wermelin|landning=3|fadatum=2003-08-14|sopad=Per Wermelin|sittstart=ja|text=Startar med sittstart på stenens vänstra areten. Håll händerna på två slops och etablera fötterna under taket. Klättra ut åt vänster till den stora spetsiga juggen. Fortsätt åt vänster till kristalgreppet avsluta därefter rakt upp.}}
+{{problem|namn=Hooker|grad=6C|typ=Krimp,Slopers,Travers V->H|fa=Per Wermelin|landning=4|betyg=2|fadatum=2003-08-14|sopad=Per Wermelin|sittstart=ja|text=Sitstart vid stenens högra del. Traversera runt hörnet och ut åt vänster. Vid stenens högsta punkt avslutar man rakt upp.}}
+{{problem|namn=Sälen|grad=6A|typ=Mantling|fa=Peter Nilsson|landning=1|betyg=1|fadatum=2004-04-18|sopad=Peter Nilsson|sittstart=ja|text=Börjar längst ut till höger på hajfensstenen. Mantlings bängel...}}
+{{problem|namn=The Return of the Swing|grad=7A|typ=Dyno|fa=Peter Nilsson|landning=3|betyg=2|fadatum=2004-06-07|sopad=Peter Nilsson|sittstart=ja|text=Går på Sagan om ringen stenen. Samma start som Crossroads men avslutas med ett dyno till hyllan strax under toppen istället.}}
+{{problem|namn=Föräldrafritt|grad=7B+|typ=Slopers|fa=ChrstoferB/PerW.mm|landning=2|betyg=2|fadatum=2004-10-28|sopad=ChrstoferB/PerW.mm|sittstart=ja|text=Samma start som "Babygym", går sedan rakt upp.Urtoppning kan vara lite läskig, dock ej svår.}}
+{{problem|namn=Undertow|grad=7A|typ=Krimp,Jug|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2007-04-10|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart vid det bra greppet, går rakt upp.}}
+{{problem|namn=Monkey Style|grad=7B|typ=Krimp,Överhäng|fa=Fredrik Bodin & Peter Nilsson|landning=4|betyg=2|fadatum=2007-04-13|sopad=Fredrik Bodin & Peter Nilsson|sittstart=ja|text=Sittstart inne i "grottan", går upp till kanten och följer sedan areten upp.}}
+{{problem|namn=Donkey Kong|grad=6B|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=4|betyg=1|fadatum=2007-04-13|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart med händerna på rampen, går rakt upp. Följer areten på slutet.}}
+{{problem|namn=Myggskräck|grad=6B+|typ=Krimp,Slopers,Dyno|fa=Per Wermelin|landning=3|betyg=1|fadatum=2007-04-21|sopad=Per Wermelin|sittstart=ja|uteslutningar=ja|text=Sittstart, går rakt upp. Stenen under blocket är inte med.}}
+{{problem|namn=Titan|grad=7B+|typ=Krimp,Layback,Överhäng|fa=Per Wermelin|landning=4|betyg=1|fadatum=2007-06-23|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Sittstart med samma grepp som Chrom, går rakt upp.}}
+{{problem|nr=1|namn=Anduril|grad=5B|typ=Slopers|fa=Peter Nilsson|landning=3|fadatum=2003-04-04|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Sittstart till vänster på stenen, följer kammen upp till toppen.}}
+{{problem|nr=3|namn=Mithril|grad=6A|typ=Krimp,Slopers|fa=Peter Nilsson|landning=3|fadatum=2003-04-04|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Sittstart längst till höger på stenen, följer kammen upp.}}
+{{problem|nr=4|namn=Crossroads|grad=6B|typ=Krimp,Spricka|fa=Peter Nilsson|landning=3|betyg=1|fadatum=2003-04-04|sopad=Peter Nilsson|sittstart=ja|startgrepp=ja|text=Sittstart där sprickorna korsar varandra, följer sedan sprickan som sträcker sig snett upp åt vänster.}}
+| width="250px" |
+{{problem|nr=5|namn=Farbror Bosse|grad=7A|typ=Krimp|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Samma startgrepp som crossroad. Därefter klättrar man rakt upp mot den hägra listen. Sprickan som man använder på crossroad används för vänster hand.}}
+{{problem|nr=6|namn=Myror i brallan|grad=7A|typ=Krimp|fa=Per Wermelin|landning=3|betyg=1|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Sittstart i den horisontella sprickan ca 1 m till höger om den lodräta sprickan. Följ sen väggen rakt upp.}}
+{{problem|nr=7|namn=Fan vilken fin travers|grad=6C+|typ=Krimp,Travers V->H|fa=Per W & Björn K|landning=3|betyg=2|fadatum=2003-04-07|sopad=Per Wermelin|startgrepp=ja|text=Startar på det tydliga greppet längst till vänster, travers åt höger utan att använda kanten. Går sedan upp efter den högra arêten.}}
+{{problem|nr=8|namn=Rusty deamons and dirt|grad=6C|typ=Krimp,Reach|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart nere till vänster, under det stora hålet. Gå via hålet upp till toppen med lätt dragning åt höger.}}
+{{problem|nr=9|namn=Octopus|grad=6B|typ=Aréte|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|text=Sittstart, följer de båda arêterna rakt upp, gå lite till vänster vid utsteget.}}
+{{problem|nr=11|namn=Hoppjärka|grad=5C|typ=Dyno,Aréte|fa=Peter Nilsson|landning=5|betyg=1|fadatum=2003-04-07|sopad=Peter Nilsson|startgrepp=ja|text=Börjar med hoppstart upp till den lilla hyllan, följer sedan arêten hela vägen upp}}
+{{problem|nr=12|namn=Anticimex|grad=6B|typ=Aréte|fa=Peter Nilsson|landning=3|betyg=2|fadatum=2003-04-07|sopad=Peter Nilsson|sittstart=ja|uteslutningar=ja|text=Följer arêten upp, väggen till höger är ej med.}}
+{{problem|nr=13|namn=Dirty Harry|grad=6A|typ=Krimp|fa=Per W & Björn K|landning=4|betyg=2|fadatum=2003-04-07|sopad=Per W & Björn K|sittstart=ja|text=Sittstart vid arêten till vänster om "Rusty deamons and dirt", går rakt upp.}}
+{{problem|nr=14|namn=Pappa panik|grad=6A+|typ=Krimp,Layback|fa=Per W & Björn K|landning=4|betyg=2|fadatum=2003-04-07|sopad=Per W & Björn K|sittstart=ja|variant=ja|text=Samma start som "Rusty deamons and dirt", följer sedan sprickan snett upp åt vänster och avslutas lika som "Dirty Harry".}}
+{{problem|nr=15|namn=Hål i mattan|grad=5B|typ=Aréte|fa=Per Wermelin|landning=4|betyg=1|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|uteslutningar=ja|text=Sittstart, följ aretet hela vägen upp utan att använda väggen till höger.}}
+{{problem|nr=16|namn=Anal-uslingen|grad=4B|typ=|fa=Ola Lindström|landning=4|fadatum=2003-04-04|sopad=Ola Lindström|text=Följ diedret och gör utsteget med hjälp av areten.}}
+{{problem|nr=17|namn=8a|grad=3A|typ=Slab|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|text=Svatur, går rakt upp.}}
+{{problem|nr=18|namn=Obelix|grad=5C|typ=Aréte|fa=Per Wermelin|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart, följ areten upp utan att använda väggen bakom.}}
+{{problem|nr=19|namn=Cavemaster|grad=6B+|typ=Krimp,Mantling|fa=Fredrik Bodin|landning=4|betyg=1|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart med händerna  på listerna i den lilla "grottan". Gå sedan rakt upp. Bakre väggen får ej användas. Mantlingskrux.}}
+{{problem|nr=20|namn=Roofmaster|grad=6B|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=4|betyg=1|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Börjar med sittstart på stenen under överhänget. Vänster hand på list, höger ute på kanten. Går sedan rakt upp, gå ut till vänster när du kommer upp till mossan.}}
+{{problem|nr=22|namn=Lugna puckar|grad=6B|typ=Krimp|fa=Fredrik Bodin|landning=2|fadatum=2003-04-07|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på de två crimprarna vid arêten, gå sedan upp en liten bit och bryt dig upp åt vänster. Slutar i sprickan under taket.}}
+{{problem|nr=23|namn=Hallon|grad=6C+|typ=Krimp,Slopers,Överhäng|fa=Fredrik Bodin|landning=5|betyg=2|fadatum=2003-04-07|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Startar lika som "Lugna puckar ", men följer sedan kanten hela vägen ut och runt hörnet. Gå därefter rakt upp och slutar när du har fötterna ovanför överhänget.}}
+{{problem|nr=24|namn=Skeppsbrott|grad=6C|typ=Krimp,Dyno|fa=Fredrik Bodin el Peter Nilsson|landning=3|fadatum=2003-04-04|sopad=Fredrik Bodin & Peter Nilsson|startgrepp=ja|text=Startar på sidepullgreppet under det lilla överhänget. Använd arêten till höger, gå upp till det bra greppet på kanten och sedan upp.}}
+{{problem|nr=25|namn=Apan Nilssons sving|grad=3A|typ=|fa=Peter Nilsson|landning=3|fadatum=2003-04-04|sopad=Peter Nilsson|sittstart=ja|text=Börjar med sittstart till höger på stenen, går sedan åt vänster och upp}}
+{{problem|nr=26|namn=Orson|grad=5C|typ=Krimp,Jug|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|text=Sittstart vid aretet. Klättra sedan runt det vänstar hörnet.}}
+{{problem|nr=27|namn=Mork|grad=6A|typ=Krimp,Mantling|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|text=Sittstart vid aretet. Gå sen ut åt höger med samma utsteg som Klättrargud}}
+| width="250px" |
+{{problem|nr=28|namn=Klättrargud|grad=5C|typ=Krimp|fa=Per Wermelin|landning=3|betyg=1|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|text=Startat på samma grepp som Flashdance men när man har nått kanten så traverserar man ut åt vänster. Under hajfenan klättrar man sen rakt upp.}}
+{{problem|nr=29|namn=Flashdance|grad=5C|typ=Krimp,Mantling|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|sittstart=ja|text=Startar längst till höger med sittstart. Gå sen rakt upp och över kanten}}
+{{problem|nr=30|namn=Satan det regnar|grad=5A|typ=Krimp,Slab|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|text=?}}
+{{problem|nr=31|namn=Nu är det brottomt|grad=5A|typ=Krimp,Slab|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|variant=ja|text=?}}
+{{problem|nr=32|namn=Heeling|grad=6C|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=4|betyg=2|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Börjar till vänster på "läppen", följer denna ut åt höger och sedan upp.}}
+{{problem|nr=33|namn=Trams|grad=3A|typ=Jug|fa=Peter Nilsson|landning=4|fadatum=2003-04-04|sopad=Peter Nilsson|text=Går upp till höger om "Heeling".}}
+{{problem|nr=34|namn=Flams|grad=4A|typ=Travers V->H|fa=Peter Nilsson|landning=4|fadatum=2003-04-04|sopad=Peter Nilsson|text=Travers. Börjar på kortsidan till vänster, följer kanten.}}
+{{problem|nr=35|namn=Cromagnon|grad=6C|typ=Krimp,Pinch,Aréte|fa=Fredrik Bodin|landning=5|betyg=1|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Går rakt upp ute på arêten, börjar med vänster hand på list och höger hand på sidepull.}}
+{{problem|nr=36|namn=Chrom|grad=7A|typ=Krimp,Dyno|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med händerna på underclinget. Gå sedan lite till vänster och sedan rakt upp utan att använda arêten.}}
+{{problem|nr=37|namn=CromMolybden|grad=6C|typ=Krimp,Reach|fa=Per Wermelin|landning=4|betyg=1|fadatum=2003-04-04|sopad=Per Wermelin|startgrepp=ja|text=Startar till höger om Chrom på en laybacklist för vänsterhand och en slop för höger. Sen klättrar man mot en hägrande list och därefter upp med lite dragning åt vänster.}}
+{{problem|nr=38|namn=Billy Butt|grad=5A|typ=Krimp,Slopers|fa=Per Wermelin|landning=4|betyg=1|fadatum=2003-04-04|sopad=Per Wermelin|text=Starta vid den högra delen av stenen och klättra sedan rakt upp över det lilla överhänget.}}
+{{problem|nr=39|namn=Slapp|grad=6C|typ=Slopers,Mantling|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart med vänsterhanden på arêten och höger hand på samma startcrimp som Road Tripp. Slappa upp vänster hand, sedan upp.}}
+{{problem|nr=40|namn=Road Tripp|grad=6A|typ=Krimp,Slopers|fa=Fredrik Bodin|landning=3|betyg=1|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart mitt på stenen med vänster hand på crimp och höger hand på slope, gå sedan rakt upp.}}
+{{problem|nr=41|namn=Vägtravers|grad=4A|typ=Travers H->V|fa=Per Wermelin|landning=3|fadatum=2003-04-04|sopad=Per Wermelin|text=Börjar längst till höger på stenen, traversera till vänster och sedan upp vid "Road Tripp".}}
+{{problem|nr=42|namn=Fontanstyle|grad=6B+|typ=Slopers,Mantling|fa=Fredrik Bodin|landning=3|fadatum=2003-04-04|sopad=Fredrik Bodin|startgrepp=ja|text=Start med båda händerna på listen till vänster. Gå till höger bort och upp till bullen, därefter mantlingskrux}}
+{{problem|nr=43|namn=Around the world|grad=6A|typ=Travers H->V|fa=Peter Nilsson|landning=3|fadatum=2003-04-04|sopad=Peter Nilsson|text=Går runt hela stenen, börjar på samma ställe som Vägtravers}}
+{{problem|nr=44|namn=Jumping Jack flash|grad=6B|typ=Dyno|fa=Fredrik Bodin|landning=5|betyg=1|fadatum=2003-04-04|sopad=Fredrik Bodin|startgrepp=ja|uteslutningar=ja|text=Dyno från den horisontella sprickan upp till hyllan utan att använda greppen där emellan. Går under Rosvå.}}
+{{problem|nr=45|namn=Breakdance|grad=7C|typ=Krimp,Överhäng,Dyno|fa=Fredrik Bodin|landning=3|betyg=3|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart. Börjar långt under stenen, med händerna på jug samt en list. Går sedan ut över överhänget och upp.Stenen till vänster är ej med.}}
+{{problem|nr=46|namn=Beyond Gravity|grad=6C|typ=Dyno|fa=Fredrik Bodin|landning=2|betyg=2|fadatum=2003-04-04|sopad=Fredrik Bodin|startgrepp=ja|text=Delikat dynoproblem från de små crimprarna upp till kanten.}}
+{{problem|nr=47|namn=Horse-Fly|grad=7A+|typ=Krimp,Slopers,Dyno|fa=Fredrik Bodin|landning=1|betyg=2|fadatum=2003-04-04|sopad=Fredrik Bodin|sittstart=ja|startgrepp=ja|text=Sittstart vid arêten, följer denna rakt upp med hjälp lister till vänster.}}
+{{problem|nr=48|namn=Trollstjärten|grad=6A+|typ=Slopers,Mantling|fa=Christofer Björklund|landning=1|betyg=1|fadatum=2003-04-04|sopad=Christofer Björklund|startgrepp=ja|text=Börjar på listerna vid sprickan. Traversera bort åt höger och sedan upp över bullen.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

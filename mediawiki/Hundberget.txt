@@ -1,0 +1,58 @@
+{{stub|extern=ja}}
+
+
+[[Bild:hundberget.jpg|frame|Nils Pemberton klättrar Exorcisten 6c. Foto Elin Eriksson]]
+==Allmänt==
+Korta krimpiga leder på verikal granit. Lederna ligger i huvudsak mellan 5b och 7a. Utsikten äver Älvsbyn är fin och det tycker även alla nykära som kramas på toppen av klippan.
+
+==Camping==
+Det går att campa vid klippan, men det är inte att rekommendera. Det finns stugor att hyra inne i Älvsyn.
+
+==Vägbeskrivning==
+Från  Älvsby-korsningen (Boden-Piteå-Älvsbyn-Vidsel) så ser du hundberget om du tittar mot Vidselhållet. Kör fram till parkeringen vi klippans fot. Följ stigen upp till klippans topp. Klättringen sker på små väggar på bergets topp.
+
+==Leder==
+
+===Kärleksklippan, övre===
+{{led|namn=Flakes|grad=5b|betyg=0|längd=7|fa=[[Mikael Vesterberg]] [[1994|-94]]|bultar=3|typ=sport}}
+{{led|namn=Stora biceps|grad=5c|betyg=0|längd=8|fa=[[Mikael Vesterberg]], [[Fredrik Riström]] [[1994|-94]]|bultar=ca 3|typ=sport}}
+{{led|namn=Evil dead|grad=7b|betyg=0|längd=10|fa=[[Mikael Vesterberg]] [[2000|-00]]|bultar=ca 4|typ=sport|text=Tunn!}}
+{{led|namn=Hemantologi|grad=7a|betyg=0|längd=10|fa=[[Magnus Eriksson]], [[Magnus Öberg]] [[1996|-96]]|bultar=ca 4|typ=sport}}
+{{led|namn=Exorcisten|grad=6c|betyg=3|längd=10|fa=[[Mikael Vesterberg]] [[1994|-94]]|bultar=ca 4|typ=sport|text=Populär}}
+{{led|namn=Den blålilahövdade krigaren|grad=6c|betyg=0|längd=14|fa=[[Magnus Eriksson]], [[Magnus Öberg]] [[1996|-96]]|bultar=ca 4|typ=sport|text=Gemensamt slut med ''Exorcisten''.}}
+
+===Kärleksklippan, undre===
+{{led|namn=I´m not a voz|grad=4-|betyg=2|längd=12|fa=[[?]] [[?|-?]]|bultar=ca 5|typ=sportFALSKT}}
+{{led|namn=Smörbollen|grad=4+|betyg=2|längd=12|fa=[[Mikael Vesterberg]] [[1998|-98]]|bultar=ca 5|typ=sport|text=Bultad 2001.}}
+{{led|namn=Norrland über alles|grad=6a|betyg=3|längd=10|fa=[[Mikael Vesterberg]], [[Fredrik Riström]] [[1994|-94]]|bultar=3|typ=sport}}
+{{led|namn=Zorro|grad=6c+|betyg=1|längd=10|fa=[[Fredrik Riström]] [[1996|-96]]|bultar=ca 4|typ=sport|text=Rakt upp.}}
+{{led|namn=Liemannen|grad=6b+|betyg=2|längd=12|fa=[[Fredrik Riström]] [[1995|-95]]|bultar=ca 4|typ=sport|text=Traverserar åt höger längs sprickan.}}
+{{led|namn=Darkwing Duck|grad=6c|betyg=0|längd=10|fa=[[Magnus Eriksson]] [[1996|-96]]|bultar=ca 4|typ=sport|text=Rakt upp. Håller inte graden om man använder areten till höger.}}
+
+===Cyberman===
+{{led|namn=Helt fel|grad=6b|betyg=0|längd=8|fa=[[Magnus Eriksson]] [[1997|-97]]|bultar=ca 3|typ=sport|text=Ej rekommenderad.}}
+{{led|namn=Rymdmyran|grad=6c|betyg=0|längd=10|fa=[[Magnus Eriksson]] [[1995|-95]]|bultar=ca 4|typ=sport|text=Startar på hyllan.}}
+{{led|namn=Lee-Loo|grad=7a|betyg=0|längd=12|fa=[[Hans Stenlund]] [[2001|-01]]|bultar=ca 5|typ=sport|text=Tunn!}}
+{{led|namn=Projekt|grad=?|betyg=|längd=14|fa=|bultar=|typ=|text=Ej färdigbultat.}}
+{{led|namn=Cyberman|grad=6c+|betyg=3|längd=15|fa=[[Fredrik Riström]] [[1995|-95]]|bultar=ca 6|typ=sport|text=En "bullig" arete}}
+{{led|namn=Astro girl|grad=6b+|betyg=0|längd=15|fa=[[Mikael Vesterberg]] [[1998|-98]]|bultar=ca 5|typ=sport|text=Startar vid ett dieder.}}
+
+===Korpen flyger===
+{{led|namn=Torr i mun|grad=6c+|betyg=3|längd=10|fa=[[Magnus Öberg]], [[Magnus Eriksson]] [[1996|-96]]|bultar=ca 4|typ=sport}}
+{{led|namn=Korpen flyger|grad=7a|betyg=0|längd=10|fa=[[Magnus Öberg]] [[1997|-97]]|bultar=ca 4|typ=sport|text=Just till höger om areten}}
+
+==Förare==
+http://www.borrbult.nu
+
+==Övrigt==
+En scen i filmen Jägarna spelades in här. Kärleksparet satt och kramades på toppen av det som kallas ''Kärleksklippan''.
+Det är vanligt att de lokala ungdomarna håller fester på klippans topp.
+
+=In English=
+Vertical, crimpy routes.
+
+==Directions==
+From the intersection between Road 374 and Road 94, drive another kilometer to a parking lot directly beneath the cliff. The sportclimbing is not on the large wall, but rather on small crags scattered on the top of the hill. 
+
+[[Kategori:sport]] [[Kategori:vertikalt]]
+[[Kategori:Norrbotten]] [[Kategori:Engelska]]

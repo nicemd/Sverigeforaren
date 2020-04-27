@@ -1,0 +1,86 @@
+{{info klippa
+  |lat=64.71554
+  |long=12.59247
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Allmän text om klippan här. Denna text visas i klipp-listan
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Skriv vägbeskrivning här.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Leder==
+
+
+{{led|nr=1|namn=Namn på led|grad=9c+|typ=trad|betyg=3|bultar=|längd=30|fa=[[namn på fa]] -08|text=ledbeskrivning}}
+{{led| namn=Tommy og tiegeren|grad=7}}
+{{led| namn=Tårar i regn|grad=8}}
+{{led| namn=Peppsi|grad=7}}
+{{led| namn=Lattja|grad=6+}}
+{{led| namn=Café Olé|grad=7}}
+{{led| namn=Jäger|grad=6+}}
+{{led| namn=Kung Bore på besök|grad=7+|fa=Geir Arne Bore}}
+{{led|namn=Restmat|grad=7+}}
+{{led|namn=Amalie sover|grad=7+}}
+{{led|namn=Pearl jam|grad=6+}}
+{{led|namn=Gymnopedie|grad=7-}}
+{{led| namn=Yamamoto|grad=6}}
+{{led| namn=Eiriksgatan|grad=6}}
+{{led| namn=Anallogi|grad=6+}}
+{{led| namn=Andromeda|grad=7-}}
+{{led| namn=Olivia|grad=5}}
+{{led| namn=Börstetaket|grad=7}}
+{{led| namn=Enigma|grad=7+}}
+{{led|namn=Magien|grad=8}}
+{{led|namn=Mezzo forte|grad=6+}}
+{{led| namn=Karl Alfred|grad=6-}}
+{{led| namn=Feministiskt initiativ|grad=5+}}
+{{led| namn=Nesten syv|grad=6-}}
+{{led|namn =Stigfinnaren|grad=6-}}
+{{led|namn=Yamyohann|grad=7}}
+{{led| namn=Röd Gryning|grad=6-}}
+
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+ [[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]

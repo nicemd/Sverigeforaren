@@ -1,0 +1,58 @@
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+==Allmänt==
+Agnesberg förknippas oftast med isklättring bredvid riksväg 45. På andra sidan Ramnebacken erbjuds dock sommarklättring. Lederna klättrades mest på 80-talet och får idag endast besök av nyfikna lokala spekulanter som undrar vad som erbjuds. 
+
+==När klippan passar ==
+Klippan kan vara ett alternativ om man bor alldeles i närheten, bilen pajar och alla spårvagnar har slutat gå, samtidigt som vädret tillåter klättring....... 
+
+==Vägbeskrivning==
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+==Miljö==
+Det är enligt ryktet rätt övervuxet framför lederna.. 
+
+==Leder==
+{{led|namn=Saturnus|grad=6}}
+{{led|namn=Neptun|grad=5+}}
+{{led|namn=Venus|grad=7-}}
+{{led|namn=Pluto|grad=6-}}
+{{led|namn=Mercurius|grad=4+}}
+
+
+{{led|namn=David|grad=5}}
+{{led|namn=Goliath|grad=6+}}
+
+{{led|namn=April, april|grad=4+}}
+{{led|namn=Semirammis|grad=4-}}
+{{led|namn=Ekorren|grad=5+}}
+{{led|namn=Piff|grad=5-}}
+{{led|namn=Puff|grad=5-}}
+
+
+{{led|namn=Kojan|grad=5}}
+{{led|namn=Slangen|grad=5}}
+
+
+
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Göteborg]]

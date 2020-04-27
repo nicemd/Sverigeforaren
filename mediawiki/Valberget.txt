@@ -1,0 +1,214 @@
+{{Komplett}}
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="56.21429371296636" lon="14.89771842956543" zoom="11" type="map">
+56.21429371296636,14.89771842956543,Valberget
+
+</googlemap>
+</div>
+
+[[Bild:Rampfeber.jpg|400 px|thumb|[[Användare:Petter Åsander|Petter Åsander]] gör första fribestigningen av {{ledlänk|namn=Rampfeber}}<BR>Foto: Fredrik Rapp]]<br>
+
+{{info klippa
+  |lat=56.21429371296636
+  |long=14.89771842956543}}
+
+== Allmänt ==
+
+Valberget är Blekinges största berg, med fin kristallrik granit som kan slita endel på fingertopparna.
+Berget är som högst ca 30 meter och har både svaiga, vertikala och rejält överhängande delar riktade åt alla väderstreck.<br>
+På berget finns i nuläget ett 60-tal leder, allt från 4- till 8- men fokus ligger kring 6 - 7. Det finns potential för fler leder, och även ett antal boulderproblem (se [[Valberget-Boulder]]).
+Klippan har ganska kort säsong några månader på våren, från att vintern tappar sitt tag om berget fram till att knotten och myggen vaknar till liv. På hösten är det ofta väldigt blött på många ställen.
+Den korta säsongen gör att det inte klättras regelbundet här, vilket leder till att många leder mossar igen, ta med borstar!
+
+== Access ==
+Markägaren är positivt inställd till klättring, men vill inte se några fler bultar på berget.
+Det har dessutom varit problem med bilar på vändplatsen närmast berget, och det är mycket viktigt att parkera bilen i vägskälet innan vändplatsen, som bara ger ca 300 meter längre anmarsch.
+
+== Övernattning ==
+Eldstäder finns på tre ställen, under det stora taket, under "Skånsk dynamit" samt på toppen av klippan, vid utsteget av "Fem myror...".<br>
+Dessa tre platser är bra för övernattning. Inget dricksvatten finns vid berget.<br>
+
+== Hitta hit ==
+'''Från E22''' tag av vid avfarten där det är skyltat mot karlshamn sjukhus, kör norrut mot Asarum. Kör rakt fram genom två små rondeller och sväng höger i tredje rondellen mot Asarums centrum. I "stora korsningen" vid ica och coop i Asarum viker man av höger och fortsätter mot utkanten av samhället. Ta höger mot Granefors och efter ca 100 meter vänster mot Tararp. Strax efter en liten bro ta höger (återigen mot Granefors) och följ vägen genom S-kurvan. Direkt efter kurvan dyker det upp två småvägar till vänster. Ta den högra av dessa, skyltat mot valberget och följ denna ca 1 kilometer till ett tydligt vägskäl. Här är det skyltat vänster till valberget, parkera bilen här, och se till att det finns plats för markägaren att ta sig förbi med skogsmaskiner. Om man är lite planerande kan man nog trycka in 4 bilar här. Fortsätt till fots på vägen fram till den stora vändplats där man brukade parkera. Fortsätt på stigen som är förlängningen av vägen och ta första förgreningen till vänster. Följ sedan stigen av snett åt vänster när du har ett gammalt (numera uppväxt) hygge på vänster sida. Vik undan för undan mer åt höger, bort från "hygget". Strax efteråt syns berget tvärs över en blöt sänka. Om ni fortsätter följa stigen så hittar ni spänger över sänkan.
+
+== Sektor 1 ==
+Detta är den första delen av klippan man kan ana bakom skogen över sänkan vid anmarschen.
+Det mesta här är väldigt mossigt, förutom dom nya turerna. Vissa partier kan uppfattas som lite smuliga.
+
+[[bild:valskiss1.gif]]
+
+{{led|nr=1|namn=Dysmorfofobi|grad=7-/7|betyg=0|längd=10|fa=Patrik Lind -92|bultar=1|typ=mix|text=En av de första lederna på berget. Det markerade utsteget gjordes senare. Mossig våren 2009}}
+
+{{led|namn=Klaustrofobi|grad=6|betyg=0|längd=11|fa=Ronny Ek -11|bultar=0|typ=trad|text=Kompromisslös hand och fistjamspricka. Följer den tydliga sprickan rakt upp mellan led 1 och 2. Rensad april 2011}}
+
+{{led|nr=2|namn=Skitrännan|grad=6|betyg=0|längd=12|fa=Mark Jansson -91|bultar=1|typ=mix|text=Insteg bakom ett träd. Mossig våren 2009}}
+
+{{led|nr=3|namn=Söndagspromenaden|grad=4+|betyg=0|längd=14|fa=Benny Palmgren -91|bultar=0|typ=trad|text=Följer ett dieder upp till en stor hylla och sen vidare. Mossig våren 2009}}
+
+{{led|nr=4|namn=kirkuk|grad=A2|betyg=0|längd=15|fa=Petter Åsander -09|bultar=0|typ=|text=Samma insteg som bagdad men fortsätter rakt upp i Z-sprickan och gör en lång sträckning för att nå bagdads övre parallell-spricka.}}
+
+{{led|nr=5|namn=Bagdad|grad=6+|betyg=2|längd=15|fa=Petter Åsander -08|bultar=0|typ=trad|text=Underhållande hangelspricka som startar någon meter till höger om Söndagspromenaden. Välsäkrad klättring med intressanta moves. Rensad hösten 2008}}
+
+{{led|nr=6|namn=Libanesens kamin|grad=6-|betyg=1|längd=15|fa=Petter Åsander -08|bultar=0|typ=trad|text=En härligt bökig offwidth som blir bredare och bredare ända till en ganska tight kamin. Kräver en stor kam i början sedan välsäkrad med små kammar. Ett måste för dig med sjuka böjelser! Ett variantutsteg är att gå över i bagdads laybackspricka halvvägs. rensad hösten 2008}}
+
+== Sektor 2 ==
+Den här sektorn ligger precis till vänster om det stora taket. Mellan led 3 & 4 går ett bultat övergivet projekt.
+
+[[bild:Valskiss2.gif]]
+
+{{led|nr=1|namn=Cigg & Jäger|grad=6-|betyg=|längd=10|fa=Ronny Ek -09|bultar=0|typ=trad|text=Ett något överhängande hörn med spricka.}}
+
+{{led|namn=Streckolin|grad=6|betyg=1|längd=10|fa=Ronny Ek -11|bultar=0|typ=trad|text=Fin svaled till vänster om led 2 med början bakom stenblocket. Välsäkrad för den uppfinningsrike. Rensad april 2011. (tack för borstningen)}}
+
+{{led|nr=2|namn=Lil' sis|grad=5|betyg=1|längd=6|fa=Joanna Sernbo -08|bultar=0|typ=trad|text=Kort men fin led, varierande klättring i den välsäkrade sprickan några meter till vänster om "Bad to the bone".}}
+
+{{led|nr=3|namn=Bad to the bone|grad=5+|betyg=3|längd=10|fa=Anders Repfennig & Mark Jansson -91|bultar=0|typ=trad|text=Ihållande rakt dieder. femmaklättring för sexaklättrare. Den här leden är tyvärr ofta blöt, skulle må bra av en rensning.}}
+
+{{led|nr=4|namn=Palmyra|grad=A2+|betyg=0|längd=10|fa=Petter Åsander -09|bultar=0|typ=|text=Följer det lilla diedret två meter höger om led 3. Ganska kluriga placeringar och ett träd lite för nära ryggen ger ett + till graden. Utsteg till höger om det hängande blocket i toppen.}}
+
+{{led|nr=5|namn=Käring på tvären|grad=7-|betyg=2|längd=15|fa=Patrik Lind -93|bultar=5|typ=mix|text=Samma insteg som Slaktarn, men viker av mot vänster efter tre bb. Mossig våren 2009.}}
+
+{{led|nr=6|namn=Slaktarn från Svängsta|grad=7|betyg=1|längd=15|fa=Mark Jansson -93|bultar=8|typ=sport|text=Följer bultlinjen åt höger precis på kanten till taket. Leden är tyvärr chippad av förstabestigaren men de chippade greppen påverkar inte svårigheten. Förstabestigarens val av lednamn har därmed fått en annan betydelse än vad han avsåg. Rensad september 2009.}}
+
+== Sektor 3 ==
+Denna sektor är det stora taket, som inte kan missas.
+
+[[bild:Valskiss3.1.gif]]
+
+{{led|nr=1|namn=Valarfhall|grad=A1+|betyg=2|längd=|fa=Johan Francke & Daniel Nilsson -95|bultar=0|typ=|text=En riktigt häftig led genom det 6 meter långa taket! Lätt, med bra kilar, men fysiskt jobbig aidklättring.}}
+
+{{led|nr=2|namn=Crash test dummy|grad=A4|betyg=1|längd=20|fa=Harald Bohlin -98|bultar=0|typ=|text=Knallhård aidled som traverserar under det stora taket. Leden följer det "horisontella diedret" vars botten är helt sluten. Vid förstabestigningen användes specialtillverkade stora circleheads av bly som slogs fast mellan de båda väggarna. Helt sjuk linje med markfallspotential nästan hela vägen!}}
+
+{{led|nr=3|namn=Frige Guzman|grad=A2|betyg=0|längd=16|fa=Erik & Stefan Sandelin -94|bultar=0|typ=|text=Rolig aid-klättring som ansluter till Gullefjun vid första kemankaret.}}
+
+{{led|nr=4|namn=Gullefjun|grad=7/8-|betyg=1|längd=16|fa=Mark Jansson-93|bultar=|typ=sport|text=Insteget görs vid eldstaden, graderingen är avhängande om du använder stocken eller inte.}}
+
+{{led|nr=5|namn=Denguefeber|grad=A2|betyg=0|längd=16|fa=Fredrik Rapp -08|bultar=0|typ=|text=Traverslinje från herman hednings insteg till gullefjun. Nervös start leder till en lugnare fortsättning. Fira av från någon av de sista bultarna på "Gullefjun". Pitonger & heads behövs.}}
+
+{{led|nr=6|namn=Vinglögg|grad=A2|betyg=1|längd=14|fa=Per Järgle -94|bultar=0|typ=|text=Överhängande dieder till vänster om Herman Hedning}}
+
+{{led|nr=7|namn=Herman Hedning|grad=7|betyg=2|längd=12|fa=Daniel Ehmann -94|bultar=0|typ=trad|text=Fint överhängande dieder med goda säkringar.}}
+
+== Sektor 4 ==
+Precis till höger om taket, med två karaktäristiska jamsprickor
+
+[[bild:Valskiss4.gif]]
+
+{{led|nr=1|namn=Fabrikören|grad=7-|betyg=1|längd=12|fa=Daniel Ehmann -93|bultar=1|typ=mix|text=Börjar i en spricka mellan Herman H och Klara skivan. Skulle behöva en omgång med stålborsten}}
+
+{{led|nr=2|namn=Klara skivan|grad=6-|betyg=0|längd=9|fa=Joakim Fransson & Jörgen Fors -94|bultar=0|typ=trad|text=Den vänstra jamsprickan. en lös skiva i toppen gör det lite läskigt att leda.}}
+
+{{led|nr=3|namn=Farbror smärtfri|grad=6-/6|betyg=2|längd=8|fa=Daniel Ehmann -92|bultar=0|typ=trad|text=Sagolik jamspricka med relativt gott om knoppar att stå på utanför sprickan. Vältejpade händer rekomenderas starkt. Behöver rensas, kräver riktigt lång tid att torka efter ett regn. Skriv in dig på toppen!}}
+
+{{led|nr=4|namn=Den lille förarglige|grad=6+|betyg=0|längd=7|fa=Benjamin Ehmann -94|bultar=1|typ=sport|text=Hårt insteg rakt upp till bulten}}
+
+{{led|nr=5|namn=Disponenten|grad=6|betyg=0|längd=7|fa=Patrik Lind -92|bultar=1|typ=sport|text=Fingrig led, och rostig bult}}
+
+== Sektor 5 ==
+Första sektorn på bortre sidan av berget.<br>
+Gå stigen över en liten stenmur för att komma hit.
+
+[[bild:Valskiss5.gif]]
+
+{{led|nr=1|namn=Hippocampus|grad=7|betyg=2|längd=10|fa=Patrik Lind -94|bultar=2|typ=mix|text=Hårt krux och tunt utsteg, Mossig våren 2009}}
+
+{{led|nr=2|namn=Tänder på dig Sofia|grad=5|betyg=0|längd=6|fa=Petter Åsander -09 Solo|bultar=0|typ=trad|text=Väldigt kort led, eller relativt hög boulder, bestäm själv. Oavsett vilket så är det fin jamövning. Leden ligger en halvmeter till vänster om ett träd som givetvis inte får användas.}}
+
+{{led|nr=3|namn=Våga välja växel|grad=7+|betyg=0|längd=|fa=Daniel Ehmann -94|bultar=3|typ=sport|text=Mossig våren 2009}}
+
+{{led|nr=4|namn=Thats what friends are for|grad=6|betyg=2|längd=10|fa=Daniel Ehmann -92|bultar=0|typ=trad|text=Fin pumpande spricka, som säkras med friends och kilar. Rensad våren 2009}}
+
+== Sektor 6 ==
+
+[[Bild:Valskiss6.jpg]]
+
+{{led|nr=1|namn=Simplex|grad=5+|betyg=0|längd=14|fa=Johan Granqvist -92|bultar=0|typ=trad|text=Stor lite grötig spicklinje med en stor utstickande sitthylla på mitten. Fin i toppen. Ta med stora friends.}}
+
+{{led|nr=2|namn=Käringdröm|grad=4+|betyg=0|längd=15|fa=Emese Bàlint -94|bultar=0|typ=trad|text=Stort dieder med en hylla på mitten. Rensad våren 2007.}}
+
+{{led|nr=3|namn=Myggjagaren|grad=6|betyg=2|längd=18|fa=Lasse Karlsson -92|bultar=3|typ=mix|text=Brant svaklättring i början, som passeras med hjälp av areten. Sedan vidare upp i den fina sprickan på väggen.}}
+
+{{led|nr=4|namn=Gothskådaren|grad=6c+|längd=18|fa=Ola Modéer -11|typ=sport|text=Bultlinjen till höger om areten vid myggjagaren.}}
+
+{{led|nr=5|namn=Män är från mars, kvinnor är från venus|grad=A3|betyg=|längd=18|fa=Fredrik Rapp -08|bultar=0|typ=trad|text=Aidklättring uppför den släta skölden som klyvs av några tunna sömmar. Några rivets finns, vilka binder ihop den blankaste passagen. Gott om såväl tid som utrustning rekommenderas. Ankare finns på toppen.}}
+
+{{led|nr=6|namn=Bökhörnet|grad=5|betyg=|längd=18|fa=Ola Knutsson & Erik Sandelin -99|bultar=0|typ=trad|text=Samma insteg som Skakis men fortsätt upp i hörnet med den stora sprickan (till vänster om orginallinjen).}}
+
+{{led|nr=7|namn=Skakis|grad=5+|betyg=|längd=|fa=Anders Repfennig & Benny Palmgren -92|bultar=0|typ=trad|text=Insteg över ett litet tak och sedan vidare i sprickan förbi ett träd. Rejält mossig våren 2009.}}
+
+{{led|nr=8|namn=Höjdartraversen|grad=6+/7-|betyg=1|längd=|fa=Mark Jansson -92|bultar=0|typ=trad|text=En stor spricka som börjar på toppen av "Skånsk dynamit-blocket". Utsteget görs rakt upp via areten och är gemensam med "Liftarens guide till galaxen". }}
+
+== Sektor 7 ==
+
+
+[[Bild:Valskiss7.gif]]
+
+{{led|nr=1|namn=TNT|grad=A2+|betyg=2|längd=18|fa=Patrik Lind & Daniel Ehmann -93|bultar=0|typ=|text=Fin artificiell klättring i den vänstra tunna sprickan brevid Skånsk dynamit. Gå antingen hela vägen till toppen eller traversera ut till ankaret på Skånsk dynamit.}}
+
+{{led|nr=2|namn=CP-mongoloid dumjävul|grad=A3|betyg=2|längd=15|fa=Anders Jakobsen -95?|bultar=0|typ=|text=Sveriges bästa lednamn? Den högra sömmen på dynamit-blocket. Går väldigt nära TNT, men bjuder ändå på väldigt fin aidklättring. Fira av från ankaret på Skånsk dynamit.}}
+
+{{led|nr=3|namn=Skånsk Dynamit|grad=7a|betyg=3|längd=15|fa=Patrik Lind 92|bultar=4|typ=sport|text=Fantastisk linje med omväxlande och pumpande klättring. Uppgraderad. Benchmark 7a! Fast ankare.}}
+
+{{led|nr=4|namn=Knallhatten|grad=7+/8-|betyg=3|längd=5|fa=Daniel Ehmann -94|bultar=0|typ=trad|text=Ett utsteg från Skånsk dynamit, bra säkringar. Förstabestigningen gjordes med förplacerade säkringar.}}
+
+{{led|nr=5|namn=Primitiv|grad=6|betyg=1|längd=15|fa=Ola Knutsson & Erik Sandelin -99|bultar=0|typ=trad|text=Breda sprickan i hörnet till höger om Skånsk dynamit.}}
+
+{{led|nr=6|namn=Köttflöjten|grad=7+|betyg=1|längd=15|fa=Tomasz Ratajczak -92|bultar=|typ=sport|text=Areten till höger om skånsk dynamit, teknisk.}}
+
+{{led|nr=7|namn=För jävla bra|grad=A2|betyg=2|längd=25|fa=Per Järgle & Daniel Ehmann -94|bultar=0|typ=|text=Lång artificiell linje som går i en båge och sammansluter med led 13.}}
+
+{{led|nr=8|namn=Rampfeber|grad=7|betyg=3|längd=25|fa=Daniell Nilsson, Johan Francke & Per Jacobsson -95 (A1) FFA: Petter Åsander -09|bultar=0|typ=|text=Lång fin och varierande friklättring med bra säkringar. Startar med en underclingsekvens åt höger längs med flaket för att ta sig upp på hyllan, sen följer man sprickan som sveper åt höger ända till toppen. Bulten som helt omotiverat sitter en decimeter från sprickan halvvägs upp användes inte vid förstabestigningen. Den ursprungliga Aid-leden "ERU" går rakt upp över flaket via en bult i starten.}}
+
+{{led|nr=9|namn=Enhörningen|grad=6|betyg=3|längd=18|fa=Benny Palmgren -92|bultar=6|typ=Mix|text=Fin varierad klättring, först över ett sva, sen upp i en naturligt säkrad laybackspricka. Skulle må bra av en rensning. Leden har ett fast ankare upp på svaet ovanför. Halvvägs upp på leden viker en bultlinje av åt vänster. Den har inte klättrats.}}
+
+{{led|nr=10|namn=Longing for the sun|grad=A2+|betyg=|längd=15|fa=Ola Knutsson -98|bultar=0|typ=Aid|text=Starta på Enhörningen och fortsätt i tunn spricka till vänster om Boffer tills sprickan tar slut. Avsluta på Boffer.}}
+
+{{led|nr=11|namn=Boffer|grad=A2|betyg=|längd=15|fa=Daniell Nilsson & Johan Francke -95|bultar=0|typ=|text=Aid-led från insteget på Enhörningen till utsteget på Polski lover}}
+
+{{led|nr=12|namn=Liftarens guide till galaxen|grad=7-|betyg=1|längd=12|fa=Patrik Lind -92|bultar=|typ=sport|text=Mycket exponerad traversspricka åt vänster vid Enhörningens utsteg. Ansluter till Höjdartraversens utsteg. Mark Jansson förberedde leden för en förstabestigning med bultar (trots den fina sprickan), ovetande om att Patrik Lind samtidigt passade på att göra en d:o med kilar och friends. Hård för graden.}}
+
+{{led|nr=13|namn=-|grad=ca 6-|betyg=|längd=10|fa=?|bultar=0|typ=trad|text=Spricklinje till toppen från Enhörningens stand. orensad våren 2009}}
+
+{{led|nr=14|namn=Rackham röde|grad=6+|betyg=|längd=10|fa=Benny Palmgren -93|bultar=3|typ=mix|text=Utstegsvariant till Enhörningen. orensad våren 2009}}
+
+{{led|nr=15|namn=Yeti|grad=4-|betyg=|längd=8|fa=Benny Palmgren -92|bultar=0|typ=trad|text=Lättaste utsteget från enhörningen. Bör rensas.}}
+
+{{led|nr=16|namn=Polski lover|grad=7+|betyg=2|längd=15|fa=Sandor Moldovan -92|bultar=|typ=sport|text=En krävande bultlinje några meter till höger om Enhörningen.}}
+
+{{led|nr=17|namn=Ground up|grad=6|betyg=|längd=15|fa=Ronny Ek -09|bultar=|typ=trad|text=Klockren jamspricka strax till höger om polski lover. Borstades upp redan 2007 av John Nordfjäll i tron att det var "rebell" han borstade. fira av från en liten tall två hyllor ovanför där sprickan slutar, eller mossorientera dig ända till toppen?}}
+
+== Sektor 8 ==
+Sista biten av berget på baksidan.
+Firningsankaret ovanför Hamstertampongen ser ut att behöva bytas ut, men kan kompletteras med en gul camalot.
+
+[[Bild:Valskiss8.gif]]
+
+{{led|nr=1|namn=Rebell|grad=5+|betyg=0|längd=25|fa=Anders Repfennig & Benny Palmgren -91|bultar=0|typ=trad|text=Spricka och dieder leder till stand i en stubbe. Andra repan görs i ett stort dieder åt vänster. Mer mossa än klippa...}}
+
+{{led|nr=2|namn=Fem myror är fler än fyra elefanter|grad=6-|betyg=3|längd=30|fa=Mark Jansson & Benny Palmgren -91|bultar=0|typ=trad|text=Mycket fin klassiker. Startar med en lite avig decimeterbred spricka åt vänster, viker sedan av åt höger upp till ett rutnätssystem av sprickor, sedan över ett tak till en liten hylla och sen vidare till toppen som har fast ankare. Se upp för repdrag. Skulle behöva rensas i starten.}}
+
+{{led|nr=3|namn=Förspelet|grad=5+|betyg=1|längd=12|fa=Benny Palmgren|bultar=4|typ=sport|text=En bultlinje från Fem myrors insteg till insteget på Hamstertampongen. Fin uppvärmning till Hamstertampongen eller Avbrutet samlag. Ganska bitig för graden. Rensad våren 2009.}}
+
+{{led|nr=4|namn=Hamstertampongen|grad=6+|betyg=2|längd=8|fa=Daniel Ehmann -94|bultar=0|typ=trad|text=Tydlig spricklinje till höger om fem myror. Börjar i en stand på en hylla. Har fast ankare vid insteget och ca 2 meter från toppen.}}
+
+{{led|nr=5|namn=Avbrutet samlag|grad=6+|betyg=1|längd=8|fa=Mark Jansson -92|bultar=6|typ=sport|text=Tätbultad och intensiv väggled till höger om Hamstertampongen.}}
+
+{{led|nr=6|namn=Svaplattan|grad=6+|betyg=3|längd=20|fa=Benny Palmgren -91|bultar=3|typ=mix|text=Balansig svaklättring av ypperlig kvalitet, här visas det väldigt fort om du inte kan ditt smearande. Småfriends i toppen. Mossar tyvärr igen ganska fort, gör en insats för klättringen och borsta upp den om det behövs. Rensad våren 2009.}}
+
+{{led|nr=7|namn=Old mans arete|grad=6-|betyg=1|längd=20|fa=Benny Palmgren -91|bultar=4|typ=mix|text=Välsäkrad klättring i sprickan på areten till höger om svaplattan, halvvägs tar sprickan slut och man följer högra sidan av areten tillsammans med Old mans väggtur.}}
+
+{{led|nr=8|namn=Inget för Pelle|grad=6+|betyg=2|längd=20|fa=Jörgen Samuelsson -94|bultar=7|typ=mix|text=Grötigt insteg strax till höger om areten. Ansluter till Old mans väggtur/arete halvvägs.}}
+
+{{led|nr=9|namn=Old mans väggtur|grad=6+|betyg=2|längd=20|fa=Benny Palmgren -91|bultar=9|typ=sport|text=Följer en bultlinje rakt upp i gröten och viker sedan av ut mot areten. Grovrensad våren 2009 men skulle behöva rensas mer i starten.}}
+
+{{led|nr=10|namn=Old mans dieder|grad=6+|betyg=1|längd=20|fa=Benny Palmgren -91|bultar=4|typ=mix|text=samma insteg som föregående, men viker av mot höger i det svaiga diedret som säkras med kilar och friends. Rensad våren 2009}}
+
+{{led|nr=11|namn=Mormor i hallonlandet|grad=6-|betyg=|längd=|fa=Patrik Lind -92|bultar=|typ=trad|text=Sama insteg som Old mans vägg.. men viker av åt höger i en spricka bara efter någon meter. behöver rensas}}
+
+{{led|nr=12|namn=Thorin|grad=A1|betyg=|längd=|fa=Johan Francke 95|bultar=|typ=|text=En lätt artificell led som gjordes solo vid förstabestigningen.}}
+
+[[Kategori:Blekinge]]
+[[Kategori:Överhäng]]
+[[Kategori:Sva]]
+[[Kategori:Vertikal]]

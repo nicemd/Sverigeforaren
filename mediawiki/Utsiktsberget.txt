@@ -1,0 +1,49 @@
+{{info klippa
+  |lat=58.86075236944444
+  |long=17.834566319444445
+}}
+
+{{komplett}}
+
+==Allmänt==
+Utsiktsberget är beläget på södra Svärdsö mellan Oxnö och Torö på Södertörns sydspets. Berget är ca 8–10 m högt och ligger ca 300 m från fina badmöjligheter, för övrigt är berget mycket lättillgängligt. Klippan bjuder på mycket varierad klättring med fin friktion och ett brett svårighetsregister. 
+ 
+==Miljö==
+Väst, öppet läge. 
+
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap lat="58.86075236944444" lon="17.834566319444445" zoom="11" width="300" height="250" type="map">
+58.86075236944444,17.834566319444445,Utsiktsberget
+</googlemap>
+</div>
+
+Svärdsö ligger drygt 5 km sydväst om Nynäshamn (fågelvägen). Man kör ut några km på Svärdsö och passerar Svärdsögården som ligger på vänster hand. Efter 1km svänger man in på Ringvägen, sedan första h in på Måsvägen som följs till vändplatsen, där man parkerar. Sedan återstår 3–4 minuters promenad fram till berget som ligger på v sida.
+
+==Leder==
+[[Bild:Utsiktsberget.png]]
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Lättmatros|grad=A3|längd=8|fa=[[David Fält]] [[-87]]}}
+{{led|nr=2|namn=Styrman|grad=A2|längd=8|fa=[[Lars-Åke Svartz]] [[-87]]}}
+{{led|nr=3|namn=Hej å Hå, Jungman Jönsson|grad=5-|längd=10|fa=[[N Jönsson]], [[Björn Reimers]]}}
+{{led|nr=4|namn=Köldsvinet|grad=5+|längd=10|fa=[[Thomas Hjort]], [[N Jönsson]], [[Björn Reimers]] FF: [[David Fält]], [[Magnus Wärme]] [[-88]]}}
+{{led|nr=5|namn=Draggen|grad=4-|längd=10|fa=[[N Jönsson]], [[Björn Reimers]] [[-87]]}}
+{{led|nr=6|namn=Varma bullar|grad=6+|längd=10|fa=[[Johan Luhr]], [[Rikard Hedman]] [[-88]]}}
+{{led|nr=7|namn=Skotlås|grad=6|längd=10|fa=[[Lars-Åke Svartz]], [[Jan Mellring]] [[-87]] FF: [[Harald Brandt]], [[Niklas Björnerstedt]] [[-88]]}}
+| width="350px" |
+{{led|nr=8|namn=Utan åror|grad=7|längd=11|fa=[[David Fält]], [[Lars-Åke Svartz]] [[-87]] FF: [[Johan Luhr]], [[Rikard Hedman]] [[-88]]}}
+{{led|nr=9|namn=Bogserbåten|grad=5+|längd=10|fa=[[David Fält]], [[Per-Elof Lidström]] [[-87]]}}
+{{led|nr=9a|namn=Andra bullar|grad=7+/8|längd=|fa=[[David Fält]] [[-88]] FF: [[Johan Luhr]], [[Rikard Hedman]] [[-88]]}}
+{{led|nr=10|namn=Bryggan|grad=4+|längd=10|fa=[[Jan Hammarbäck]], [[Thomas Hjort]], [[Björn Reimers]] [[-87]]}}
+{{led|nr=11|namn=Livbojen|grad=4-|längd=8|fa=[[Lars-Åke Svartz]], [[Sam Westerholm]] [[-83]]}}
+{{led|nr=12|namn=Fördäckssprickan|grad=5-|längd=10|fa=[[David Fält]], [[Magnus Wärme]] [[-88]]}}
+{{litentext|text=I övrigt är två leder gjorda på den lilla överhängande väggen mellan klippan och vändplanen tv och th om en gran. Man överbord, A1, 5m (Lars-Åke Svartz -88) och Direkta förstaget, A1, 5m (David Fält -88).}} 
+|}
+{{led|nr=|namn=Davids Face|grad=7c+|fa=[[Johan Luhr]]?|text=David Fälts gammla projekt. Vart går denna?}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Stockholm]]
+[[Kategori:Södra Södertörn]]

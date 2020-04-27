@@ -1,0 +1,143 @@
+{{info klippa
+  |lat=58.22570
+  |long=15.73050
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+<!--Allmän text om klippan här. Denna text visas i klipp-listan-->
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.227986" lon="15.727229" zoom="15">
+58.2267, 15.7244, Parkeringen
+58.2257, 15.7305, Klippan
+</googlemap></div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+<!--Skriv vägbeskrivning här.-->
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+<!--[[Bild:Skiss.gif]]-->
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Blåkläder|grad=5+|typ=trad|betyg=|bultar=|längd=12|fa=[[Helene Landin]] -09|text=}}
+
+| width="350px" |
+
+|}
+
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=2|namn=Telefonterror|grad=5|typ=trad|betyg=|bultar=|längd=12|fa=[[Helene Landin]] -09|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=3|namn=Öppet projekt|grad=?|typ=mix|betyg=|bultar=1|längd=15|fa=|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=4|namn=Öppet projekt|grad=?|typ=|betyg=|bultar=|längd=14|fa=|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=5|namn=Äntligen regn|grad=6-|typ=trad|betyg=|bultar=|längd=14|fa=[[Fredrik Nordström]] -08|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=6|namn=En längtande blick|grad=6(-)|typ=mix|betyg=|bultar=3|längd=13|fa=[[Erik Kuiper]] -10|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=7|namn=Öppet projekt|grad=?|typ=|betyg=|bultar=|längd=13|fa=|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=8|namn=Tassa på tå|grad=5(+)|typ=mix|betyg=|bultar=2|längd=~8|fa=[[Erik Kuiper]] -10|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=9|namn=Öppet projekt|grad=?|typ=|betyg=|bultar=|längd=17|fa=|text=}}
+
+| width="350px" |
+
+|}
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=10|namn=Öppet projekt|grad=?|typ=|betyg=|bultar=|längd=|fa=|text=}}
+
+| width="350px" |
+
+|}
+
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:Trad]]
+[[Kategori:Mix]]
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+<!--[[kategori:Saknar leder]]-->
+<!--[[kategori:Saknar koordinater]]-->
+[[kategori:Saknar skrivarformatering]]
+
+[[Kategori:Östergötland]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

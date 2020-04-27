@@ -1,0 +1,25 @@
+{{info klippa
+  |lat=57.753333
+  |long=16.626944}}
+
+{{boulderstub|extern=ja}}
+
+==Allmänt==
+VO är ett stort område bestående av block och väggar i öppen skogsterräng med mestadels bra landningar. Delar 
+av området ligger centralt i anslutning till en idrottsanläggning och är lätt åtkomligt med lokaltrafiken. VO delas upp i 
+ett antal olika sektorer: “Sebulba”, “Dillerium”, “Sjöstenarna”, “Titty Twister”, “Svarta väggen” och “Röda väggen”.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.753333" lon="16.626944" type="map" zoom="13" controls="small">
+57.753333, 16.626944, parkering Karstorps motionsanläggning
+</googlemap>
+</div>
+<div style="clear:both"></div>
+
+== Extern förare ==
+http://www.vastervikclimbing.se/klattercentret/pdfer/
+
+[[Kategori:Småland]]
+[[Kategori:Västervik]]

@@ -1,0 +1,40 @@
+{{info klippa
+  |lat=59.32516388888889
+  |long=18.19763888888889
+}}
+
+{{utkast}}
+==Allmänt==
+Brant svaberg i norra änden av viken som går in mot Nyckelvikens gård. Enklast är att komma åt klippan från vägen ut mot Kungshamn. Här finns några leder. Enklast är att fira ned till vattnet från en hylla med ett litet träd en bit under toppen.
+
+==Vägbeskrivning==
+<googlemap lat="59.32516388888889" lon="18.19763888888889" zoom="12" type="map">
+59.32516388888889,18.19763888888889,Nyckelviksberget
+</googlemap>
+
+
+==Leder==
+
+{{led|namn=Fi|nr=1|grad=5-|betyg=|längd=20|fa=[[Lars Svadängs]], [[Kenneth Nollkrantz]] [[1980|-80]]|bultar=|typ=trad|text=}}
+
+{{led|namn=Badkvigor|nr=2|grad=6-|betyg=|längd=30|fa=[[Rickard Hallerfeldt]], [[Peter Brolin]] [[1990|-90]]|bultar=1|typ=mix|text=}}
+
+{{led|namn=Att angöra en brygga|nr=3|grad=5|betyg=|längd=30|fa=[[Buster Delin]], [[Rickard Hallerfeldt]] [[1990|-90]]|bultar=1|typ=mix|text=Bultat insteg/standplats vid vattnet.}}
+
+{{led|namn=Slängd överbord|nr=4|grad=6+|betyg=|längd=20|fa=[[Buster Delin]], [[Kay von Damm]] [[1990|-90]]|bultar=1|typ=mix|text=Samma stand som Att angöra en brygga. Samma avslut som Ra.}}
+
+{{led|namn=Ra|nr=5|grad=5|betyg=|längd=20|fa=[[Kenneth Nollkrantz]], [[Lars Svadängs]] [[1980|-80]]|bultar=|typ=trad|text=}}
+
+{{led|namn=Dyning|nr=6|grad=4|betyg=|längd=28|fa=[[Buster Delin]], [[Peter Brolin]] [[1990|-90]]|bultar=|typ=trad|text=Firningsankare}}
+
+{{led|namn=Istället för Lidingö Runt|nr=7|grad=5|betyg=|längd=18|fa=[[Peter Brolin]], [[Buster Delin]] [[1990|-90]]|bultar=|typ=trad|text=}}
+
+{{led|namn=Baklås|nr=8|grad=6-|betyg=|längd=16|fa=[[Buster Delin]], [[Peter Brolin]] [[1990|-90]]|bultar=1|typ=mix|text=}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Sva]] [[Kategori:Saknar vägbeskrivning]] [[Kategori:Saknar skiss]]
+[[Kategori:Trad]]
+[[Kategori:Mix]]

@@ -1,0 +1,47 @@
+{{info klippa
+  |lat=57.74872
+  |long=12.15781
+}}
+
+{{utkast}}
+
+== Allmänt ==
+Kåhög i ligger i Partille och erbjuder hårda leder på bult. Klippan är 10-20 meter hög. Du kan räkna med att vara väldigt ensam på klippan.
+
+== Karaktär ==
+Klippan vätter m ot syd men är skuggad av stora träd. Det kan nog vara blött här på våren. Ett stort minus är den extremt frekventa och högljudda tågtrafiken som passerar förbi!
+
+Lederna är ca 10-20 m långa och svagt överhängande. Alla leder är bultade och utrustade med firningsankare. rekomenderade leder är Le Débutant 8- och Den långa resan 8.
+
+== Vägbeskrivning ==
+<googlemap lat="57.74872" lon="12.15781" zoom="9" type="map">
+57.74872,12.15781,Kåhög
+</googlemap>
+
+Från Göteborg ta E20:an mot Stockholm. Sväng av vid Jonseredsmotet och följ skyltarna mot Kåhög (längs Kåhögsvägen). Parkera bilen på höger sida strax efter att du har passerat järnvägen (i korsningen mellan Byvägen o Torsetvägen).
+
+Hela bilresan är ca 12km lång.
+
+Från parkeringen gå uppåt in i skogen (förbi huset) och du når klippan efter ca 100 m promenad.
+
+{{tryckt förare|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+== Rekommenderade leder ==
+
+{{led|nr=|namn=Helt Blånk|grad=6c+(7)|betyg=0|längd=10|fa=[[Johan Luhr]] [[2001|-01]]
+ |bultar=|typ=sport|text=Ganska Bökig.}}
+
+{{led|nr=|namn=Neborian|grad=7b(8-)|betyg=0|längd=15|fa=[[Johan Luhr]] [[2001|-01]]
+ |bultar=|typ=sport|text=Cruxi. Något lös.}}
+
+{{led|nr=|namn=Le Débutant|grad=7b(8-)|betyg=1|längd=20|fa=[[Johan Luhr]] [[2001|-01]]
+ |bultar=|typ=sport|text=Fin.}}
+
+{{led|nr=|namn=Den Långa Resan|grad=7b+(8)|betyg=1|längd=20|fa=[[Johan Luhr]] [[2001|-01]]
+ |bultar=|typ=sport|text=Lätt för sin grad.}}
+
+[[category:trad]]
+[[category:sport]]
+[[category:Vertikalt]]
+[[Category:överhäng]]
+[[Kategori:Göteborg]]

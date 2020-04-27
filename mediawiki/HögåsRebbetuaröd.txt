@@ -1,0 +1,100 @@
+{{boulderutkast|extern=ja}}
+
+
+<googlemap version="0.9" lat="55.794575" lon="13.969975" type="map" zoom="13" controls="large">
+55.793368, 13.954954, Stora stenen
+55.801474, 13.980532, Blåbärsblocket
+55.801088, 13.979244, Myrblocket
+55.789252, 13.961263, Djungelblocket
+55.791607, 13.948839, Musblocket
+55.789786, 13.952229, Halalblocket
+</googlemap>
+
+==Allmänt==
+
+På åsen sydväst om Degeberga (vägen mellan Forsakar och Vallarum) finns ett område med ett antal block. Observera att området är utspritt, inte så högt (1,8-4 m) och absolut inte värt ett omväga besök, men om du råkar vara i närheten eller har vägarna förbi kan det vara värt besväret. På [http://maps.google.com/maps/ms?ie=UTF&msa=0&msid=200774747100642001592.0004a7cf630d7f4915a18 Google maps] hittar du en karta med alla problem. Glöm inte att göra en fästingkontroll efteråt.
+
+==Access==
+
+Området ägs till största delen av Sveaskog. De flesta blocken ligger långt från bebyggelse men självklart råder jag alla besökare att hålla låg profil. Kör långsamt på skogsvägarna. Observera att periodvis sker mycket jakt i markerna. Ser ni jaktlag eller en samling bilar parkerade råder jag er att hitta nya klättringsmål för dagen. Framförallt – respektera naturen!
+
+==Förare==
+
+[[Bild:Hogas_Rebbe_Oversiktskarta.jpg]]
+
+Länk till högupplöst pdf-[[Bild:Hogas_Rebbe_Oversiktskarta.pdf‎]]
+
+
+===Stora stenen===
+
+Områdets primära och högsta block (ca 4 m). Ligger utmed vägen.
+
+[[Bild:Rebbe_stora_stenen.jpg]]
+
+
+{{problem|nr=1|namn=Rödbeta|grad=6a|text=starta med båda händer på hög smal list, klättra upp till vänster.}}
+{{problem|nr=2|namn=Rödbeta direkt|grad=5b|text=Samma start som Rödbeta, klättra direkt upp till höger.}}
+{{problem|nr=3|namn=projekt|grad=?|text=Ett av områdets hårdaste problem - någonstans i 7-registret. Matcha startgreppet, placera högerfoten högt, hoppa upp med vänsterfoten. Klättra rakt upp. Osäker på om detta är ett projekt eftersom jag sett kritrester på detta problem hösten 2010.}}
+
+===Blåbärsblocket===
+
+Ca 3 m höjd. En av de finare blocken med mycket fina problemet Blåbärsmuffins/Variant
+
+[[Bild:Rebbe_blabarsblocket1_4.jpg]]
+
+
+{{problem|nr=1|namn=Blåbärspaj|grad=5a|sittstart=ja|text=Sittstart på stenen, starta med båda händer på stora greppet i sprickan, klättra rakt upp.}}
+{{problem|nr=2|namn=projekt|grad=? (6a+ till 6c?)|sittstart=ja|text=Sittstart, starta med båda händer på crimpen i sprickan, klättra rakt upp. One move wonder}}
+{{problem|nr=3a|namn=Blåbärsmuffins|grad=6a/6a+|sittstart=ja|betyg=2|text=Sittstart med båda händer på sned list. Klättra till vänster.}}
+{{problem|nr=3b|namn=Variant|grad=6B|sittstart=ja|text=Klättras som blåbärsmuffins men de bra greppen på areten ovanför ingår inte.}}
+{{problem|nr=4|namn=Raritet|grad= 6A|sittstart=ja|text=Sittstart till höger. Klättra till vänster utmed areten.}}
+
+===Myrblocket===
+
+Områdets finaste block (ca 3 m). Myror i överflöd.
+
+[[Bild:Rebbe_myrblocket1.jpg]]
+
+[[Bild:Rebbe_myrblocket2_3.jpg]]
+
+[[Bild:Rebbe_myrblocket3_4.jpg]]
+
+[[Bild:Rebbe_myrblocket5_6.jpg]]
+
+
+{{problem|nr=1|namn=projekt|grad=?|sittstart=ja|text=Sittstart till vänster. Klättra snett upp till höger.}}
+{{problem|nr=2|namn=Skrafs|grad=6B/6B+|sittstart=ja|text=Sittstart med händerna på slopern. Klättra upp till vänster.}}
+{{problem|nr=3|namn=Inga kristaller|grad=6B/6B+sittstart=ja|text=Sittstart med händerna på slopern. Klättra snett upp åt höger. Kristalljuggen till höger ingår inte}}
+{{problem|nr=4|namn=projekt|grad=?|text=}}
+{{problem|nr=5|namn=projekt|grad=?|sittstart=ja|text=}}
+{{problem|nr=6|namn=Pesto|grad=6a/6a+|sittstart=ja|text= Start med Höger hand på sloper och vänster på crimp!}}
+
+===Djungelblocket===
+
+Hyfsat högt block för att vara Högås (ca 3 m). Huvudsak slab men östra sidan hyser ett finare svagt överhängsproblem. Mygg, knott och flugor i massor under sommaren. Blocket kräver en liten promenad i något svårtillgänglig och bitvis blöt terräng. Se rekommenderad väg (streckad linje) på översiktskartan. Parkera bilen på plant utrymme bredvid vägen i skogsdungen enligt översiktskartan. Gå österut genom granskogen (i gränsen mellan de höga träden och den slyväxta nyplanteringen). Efter 30 meter passerar du en liten bäck och fortsätter ytterligare 70 meter där du viker av söderut och kommer fram till en stor sten brevid en annan bäck. Gå 10 meter västerut så hittar du en gammal skogsväg som du följer söderut. Gå ca 50 meter till kullen - nu skymtar du Djungelblocket ett tiotal meter till öster.
+
+[[Bild:Rebbe_djungelblocket_1_2.jpg]]
+
+
+{{problem|nr=1|namn=Högertå och vänsterhäl|grad=5c|sittstart=ja|text=sittstart med händerna på slopers - börja med en höger tåkrok för att avsluta med en vänster hälkrok.}}
+{{problem|nr=2|namn=Högertå och vänsterhäl låg|grad=projekt|sittstart=ja|text=Låg sittstart på Högertå och vänsterhäl. Starta med händerna på de låga listerna.}}
+
+
+===Halalblocket===
+
+Riktig lowball (1,8 m)
+
+[[Bild:Rebbe_halalblocket_1.jpg]]
+
+[[Bild:Rebbe_halalblocket_2.jpg]]
+
+{{problem|nr=1|namn=Halal|grad=5b|sittstart=ja|text=Sittstart med vänstran på sloperpinch till vänster. Klättra upp åt höger. Den låga hyllan till vänster om startgreppet ingår inte.}}
+{{problem|nr=2|namn=Hal-ål|grad=5a|sittstart=ja|text= Sittstart med händerna på låg sloper. klättra rakt upp.}}
+
+
+===Musblocket===
+
+Lite lägre block (2,5 m). 
+
+{{problem|nr=1|namn=projekt|grad=?|sittstart=ja|text=Sittstarttill vänster. Klättra upp till höger.}}
+{{problem|nr=2|namn=Näbbmusen|grad=5a|sittstart=ja|text=Sittstart längst till höger. Klättra till vänster.}}

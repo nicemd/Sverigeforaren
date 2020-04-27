@@ -1,0 +1,15 @@
+{{kategorikarta|kategori=Bohuslän|lat=58.066891563094586|long=11.73314094543457|width=300|height=200|zoom=7}}
+
+Se även [[Göteborg]]
+
+Sveriges mesta klätterområde sträcker sig ifrån [[Göteborg]] i söder upp till Norska gränsen i norr. Bjuder på omväxlande klättring allt ifrån hårda sportklättringsleder till ljuva spricklinjer i benhård granit av bästa kvalitet.
+Se även http://www.bohusbergen.se
+
+[[Bild:Access.jpg]] '''Var väldigt nogrann med att följa uppställda accessregler när ni besöker Bohuslän. Det finns ett flertal områden där det är mycket känsligt. Var försiktig, så kan fler uppleva Bohuslänsk granit.'''
+
+{{klipplista|kategori=Bohuslän}}
+
+{{nyklippa|kategori=Bohuslän}}
+
+=Tryckt förare=
+{{trycktförarelista|kategori=Bohuslän}}

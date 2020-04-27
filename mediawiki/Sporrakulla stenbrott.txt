@@ -1,0 +1,77 @@
+{{info klippa
+  |lat=56.286202164598976
+  |long=14.252185821533203
+}}
+
+{{komplett}}
+
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="56.286202164598976" lon="14.252185821533203" zoom="9" type="map" controls="small">
+56.286202164598976,14.252185821533203,Sporrakulla stenbrott
+
+</googlemap>
+</div>
+
+
+[[Bild:Sporrakulla4.jpg|400 px|thumb|Foto: [[Användare:Frapp|Fredrik Rapp]]]]
+
+== Allmänt ==
+
+Sporrakulla stenbrott är ett gammalt stenbrott beläget några kilometer utanför det lilla samhället Sibbhult, mitt emellan Osby och Kristianstad i nordöstra Skåne. Brytningen i gamla brottet är avslutad sedan många år men lite sten bryts fortfarande i det nya mindre brottet som är beläget alldeles intill. I gamla brottet hittar man en del ganska underhållande klättring. Klippväggarna är väldigt renskurna och ger ett tämligen inbjudande intryck. Som ofta i stenbrott lyser dock säkringsmöjligheterna med sin frånvaro, varför man låtit bulta där det inte går att säkra tillfredställande på naturlig väg. I vissa fall kan man få komplettera med någon kil. Det finns fortfarande potential för endel nyturer. Tyvärr bryts väggen, av en hylla (vilken iofs är bra att gå på) vilket medför att de flesta leder är väldigt korta. De lokala kidsen har dessvärre också klottrat på klippan.
+
+== Hitta hit ==
+Stenbrottet ligger några kilometer öster om det lilla samhället Sibbhult i nordöstra Skåne. 
+
+<b>Norrifrån:</b> Kör väg 23 till Osby. I södra rondellen tar man av mot Glimåkra. Fortsätt genom Glimåkra mot Sibbhult. Väl där tar man vänster i T-kors. Snart passeras en fotbollsplan på höger sida.
+
+<b>Från Kristianstad:</b> Kör väg 19 norrut mot Osby. I Broby tar man höger på väg 119 mot Lönnsboda. Strax är Sibbhult skyltat åt höger. I Sibbhult passeras en fotbollsplan. 
+
+<b>Från Hässleholm:</b> Ta väg 119 mot Broby och Lönnsboda. I Broby korsar man väg 19 och fortsätter på väg 119 mot Lönnsboda. Strax är Sibbhult skyltat åt höger. I Sibbhult passeras en fotbollsplan. 
+
+Någon kilometer utanför Sibbhult är Sporrakulla gård skyltat åt vänster. Ta in här och följ grusvägen ända fram till parkeringsplatsen vid Sporrakulla gård. ''Nere i vänster hörn av parkeringsplatsen finns en liten dold skogsväg. Denna lilla väg får betraktas som förvånande farbar så länge du inte kör sänkt sportåk. Följ denna lilla skogsväg ca. 500 m till nästa korsning. Ta höger. Kör ytterligare ca. 500 m och du ser stenbrottet och dess sjö på vänster sida i en glänta. Fortsätt 100m till och ta av från vägen upp åt vänster via en brant backe till du når en stor parkeringsplan.'' '''OBS! Denna väg är numera bommad vid parkeringen och man får istället ta promenad den biten. OBS!'''
+
+Om det av någon anledning blir strul med att hitta på alla små grusvägar så är det dags för <b>plan 2:</b>
+
+Kör tillbaka ut till stora asfaltvägen och fortsätt ytterligare 300 m på denna till nästa grusväg in till vänster. Här finns en bom. Denna är ofta låst. Om den inte är låst kan du iofs köra in, men med risk för att bli inlåst för gott i de Sibbhultska grusvägslabyrinterna. Ett bättre alternativ är att parkera vid bommen (utan att blockera) och gå de ca 1.2  km som det är till klippan härifrån. Där vägen delar sig går du höger upp för backen och står snart på tidigare nämnda parkeringsplan.
+
+== Gamla brottet ==
+
+{{led|nr=1|namn=Brittsommar|grad=5+|betyg=1|längd=13
+ |fa=Fredrik Rapp & Zebastian Mattsson 05|bultar=5|typ=sport|text=Den längsta leden i brottet. Fira ner till stand på den lilla hyllan vid vattenytan och första bulten. Ankare på toppen.}}
+
+{{led|nr=2|namn=Bommajävel|grad=6+|betyg=1|längd=8
+ |fa=|bultar=|typ=sport|text=Häftig och exponerad ute på areten. Ankare}}
+
+{{led|nr=3|namn=Diedern|grad=4|betyg=|längd=5
+ |fa=Fredrik Rapp|bultar=|typ=trad|text=Mycket kort led i hörnet. Ankarbultar finns}}
+
+{{led|nr=4|namn=Fladdermusen|grad=6-|betyg=|längd=6
+ |fa=Topprep|bultar=|typ=|text=Intressant och teknisk klättring längs borrillorna på vinkelväggen. Endast topprepad. Ankarbult finns.}}
+
+{{led|nr=5|namn=Nybörjaren|grad=3|betyg=|längd=7
+ |fa=Fredrik Rapp 05|bultar=2|typ=sport|text=Precis till höger om kanten. Lätt på stora grepp. Ankarbult finns}}
+
+{{led|nr=6|namn=Catch Licorice|grad=5+|betyg=1|längd=7
+ |fa=Fredrik Rapp 05|bultar=1|typ=mix|text=Klurig start där dynamik kan vara av behov. Liten kil på toppväggen. Ankarbultar.}}
+
+{{led|nr=7|namn=Sanches|grad=5|betyg=1|längd=7
+ |fa=Fredrik Rapp & Zebastian Mattsson 05|bultar=3|typ=sport|text=Ankarbult.}}
+
+{{led|nr=8|namn=Lönsboda Fox|grad=7-|betyg=|längd=7
+ |fa=Fredrik Rapp|bultar=1|typ=mix|text=Tekniskt avslut. Någon egen bit i början.}}
+
+{{led|nr=9|namn=Fiskesprickan|grad=5|betyg=1|längd=8
+ |fa=Fredrik Rapp|bultar=|typ=trad|text=Den tydliga sprickan som också är välsäkrad. Ankarbultar.}}
+
+{{led|nr=10|namn=Slabben|grad=6|betyg=|längd=8
+ |fa=Topprep|bultar=|typ=|text=Den släta väggen till höger om sprickan. Inga säkringar. Ankarbultar.}}
+
+{{led|nr=11|namn=Like A Prayer|grad=5+|betyg=2|längd=8
+  |fa=Martin Vilhelmsson & Björn Cairns 2011
+  |typ=trad|text=Fira ner och bygg ankare ca 1 meter från vatten ytan, följ sprickan.}}
+
+[[Bild:Sporrakulla1.jpg|500 px|thumb|Huvudväggen vid Sporrakulla stenbrott]]
+[[Bild:Sporrakulla2.jpg|500 px|thumb|]]
+[[Bild:Sporrakulla3.jpg|500 px|thumb|]]
+[[Kategori:Skåne]]

@@ -1,0 +1,22 @@
+{{info klippa
+  |lat=57.7971
+  |long=11.95506
+}}
+
+{{stub}}
+<googlemap lat="57.7971" lon="11.95506" zoom="9" type="map">
+57.7971,11.95506,Presidentklippan
+</googlemap>
+==Allmänt==
+Klippa nära Norrleden på Hisingen. Bara hårda leder, bland annat en överhängande spricka som är grad 7b enligt förstabestigaren.
+
+==Leder==
+
+{{led|namn=Plutten|typ=trad|grad=7b (8/8+)|fa=Jens Larssen, 2001|text=Överhängande spricka}}
+
+{{led|namn=Roll on|grad=6c+}}
+{{led|namn=Teknikens värld|grad=7c}}
+{{led|namn=Premiär|grad=7a+}}
+[[Kategori:Göteborg]]
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}

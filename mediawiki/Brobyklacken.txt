@@ -1,0 +1,23 @@
+{{info klippa
+  |lat=58.49056
+  |long=16.48694
+}}
+
+{{stub|extern=ja}}
+[[Kategori:vertikalt]][[Kategori:trad]][[Kategori:sport]]
+
+==Vägbeskrivning==
+<googlemap lat="58.49056" lon="16.4" zoom="11" type="map">
+58.49056,16.48694,Brobyklacken
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=brobyklacken}}
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}
+
+[[Kategori:Östergötland]]

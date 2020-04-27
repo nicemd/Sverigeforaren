@@ -1,0 +1,22 @@
+{{boulderkomplett}}
+
+[[Bild:Tuna backar översikt.jpg]]
+
+== '''Allmänt''' ==
+Superfin klippa vid Rönnvägen, nära Järna brandstation.
+Balansig och fin klättring.
+
+== Vägbeskrivning ==
+Från Södertälje/Sthlm åker du väg 57 mot Järna och svänger av till höger mot Nykvarn. Klippan ligger sedan på höger sida precis vid vägen efter 1,5 km  
+
+== Problem ==
+{{problem|nr=1|namn=Asuk ♥ Teya|grad=6A+|text=Sittstart upp till sloper och sidokant, vidare upp via taket och toppa ut rakt upp (inte fega ut till vänster =) (Leif Olsson. 10)}}
+
+{{problem|nr=2|namn=Off we go!|grad=6B+|text=Sittstart upp till bra sidocrimpers, skicka upp till liten crimp till höger om "Asuk ♥ Teya". Vidare upp via bra jugge och toppa ut rakt upp till höger. (Leif Olsson. 10)}}
+
+{{problem|nr=3|namn=Klaustrofobiske Asuk|grad=6B|text=Sittstart upp till de 2 crimparna längst till höger nedanför taket. Gå upp via taket och avsluta via "Off we go!" (Leif Olsson. 10)}}
+
+{{problem|nr=4|namn=Hey ho, lets go!
+|grad=6B+|text=Samma start som Klaustrofobiske Asuk, men går istället ut till höger till bra hylla och sen toppa ut rakt upp till höger. (Leif Olsson.)}}
+
+[[Kategori:Södermanland]]

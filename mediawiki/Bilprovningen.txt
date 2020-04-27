@@ -1,0 +1,74 @@
+{{info klippa
+  |lat=56.1799131099773
+  |long=14.844846725463867}}
+
+
+{{Komplett}}
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="56.1799131099773" lon="14.844846725463867" zoom="11" type="map" controls="small">
+56.1799131099773,14.844846725463867,Bilprovningen
+
+</googlemap>
+</div>
+
+[[Bild:IMG_4713.1.jpg|500 px|thumb|left|Om du har ombesiktning på bilen så kan det vara lägligt att kombinera med lite fin sportklättring på klippan bredvid]]
+
+
+[[Bild:Gelin Karelin-1.jpg|400 px|thumb|Bekväm "roadside" cragging. Micke Blixt hänger loss på [[Gelin Karelin]] 7c <br>Foto: [[Användare:Fredrik Rapp|Fredrik Rapp]] ]]
+
+
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+== Allmänt ==
+
+En liten men grymt överhängande klippa som ligger minst sagt urbant i Karlshamns industriområde. Endast några få leder finns gjorda, men Gelin Karelin är att betrakta som en av de mest klassiska hårda turerna i Skåne/Blekinge-regionen. Anmarschen är väldigt kort då man i princip kan säkra genom takluckan på bilen! Alla sportleder har ankare.
+
+== Hitta hit ==
+
+Väster ifrån: Kör E22an mot Kalmar. Ta av från E22 vid Karlshamn västra (Exit no 51). Ta höger vid avfartens slut. Kör söderut på väg 29 i ca. 1,7 km och ta vänster i nästa rondell in på Vekerumsvägen. Fortsätt 800 meter och ta sen vänster in på Gröna vägen. Fortsätt 60 meter till. Can´t miss it! Dessutom är det även skyltat mot bilprovningen. Dock inte hela vägen från E22an.
+
+== Lederna ==
+
+{{led|nr=1|namn=Halvnelson|grad=7+/8-|betyg=1|längd=10|fa=[[Fri: Kasper Berkowicz, Aid: Ola Modéer]] -12, -08|bultar=0|typ=trad|text=Brant boulder start som följs av en lättare spricka. Hyfsat säkrad, men akta hyllan. Ganska kort. Slutar vid tallen på den stora bilden. <br>Tidigare brant aidlinje A1+, Ola Modéer -08.}}
+
+{{led|nr=2|namn=Hög standard|grad=A3|betyg=2|längd=14|fa=[[Fredrik Rapp]] -07|bultar=1|typ=trad|text=Fin och brant aidklättring som övergår till en tunn copperheadsöm på sva mot slutet. Någon rivet finns där denna tunnar ut helt.}}
+
+{{led|nr=3|namn=Gelin Karelin|grad=7c|betyg=2|längd=14|fa=[[Patrik Gelin]] -95 |bultar=5|typ=sport|text=Kanonhäftig och mycket brant sportklättring längs den överhängande sprickan. Ett måste för den hängivne och sydsvenske sportklättraren! Ankare. Etablerades av Mark Jansson i början på 90-talet, men den förste som klarade en bestigning var Patrik Gelin. Går även att klättra på egna säkringar...}}
+
+{{led|nr=4|namn=Japp|grad=8a+|betyg=1|längd=12|fa=[[Johan Luhr]] -09?|bultar=5?|typ=sport|text=Stabil centrallinje som anses mycket fin. Ankare.}}
+
+{{led|nr=|namn=Japp/Gelin Karelin|grad=7c+|betyg=0|längd=|fa=[[Johan Luhr]] -12|bultar=|typ=sport|text=Variant om man inte har något annat att göra -  Första halvan på Japp och sedan in i Gelin Karelin}}
+
+{{led|nr=5|namn=Shrek|grad=8b|betyg=1|längd10|fa=[[Johan Luhr]] -10|bultar=5?|typ=sport|text= Skåne/Blekinges hårdaste led! Linjen forcerar klippans mest kompakta yta, utan att erbjuda allt för mycket respit.. Ankare.}}
+
+{{led|nr=6|namn=Dubbelt upp|grad=8a|betyg=0|längd=10|fa=[[Johan Luhr]] -04|bultar=4|typ=sport|text=Fin linje som är knepigare än den ser ut. Ankare.}}
+
+{{led|nr=|namn=Hål in one|grad=7c|ny=1||betyg=0|längd=10|fa=[[Johan Luhr]] -12|bultar=|typ=sport|text=Starta de två första bultarna som Dubbelt upp sedan snett vänster och upp.}}
+
+{{led|nr=7|namn=Biltema|grad=7c|betyg=0|längd=7|fa=[[Johan Luhr]] -04|bultar=3|typ=sport|text=Kort linje långt till höger. Ankare.}}
+
+{{led|nr=8|namn=Släng dig i väggen|grad=7c|betyg=0|längd=7|fa=[[Johan Luhr]] -04|bultar=3|typ=sport|text=Kort linje längst till höger. Ankare.}}
+
+
+
+[[Kategori:Blekinge]]
+[[Bild:BIlprov1.jpg]] [[Bild:Bilprov2.jpg]]

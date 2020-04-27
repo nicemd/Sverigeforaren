@@ -1,0 +1,61 @@
+{{info klippa
+  |lat=57.74215
+  |long=12.07489
+}}
+
+{{utkast}}
+== Allmänt ==
+Egentligen den sista utposten av [[Fjällbo]] innan Partille. Solid, fin klippa med företrädesvis turer i grad 7 och uppåt. Glest bultat men med goda möjligheter till egna säkringar.
+
+== Karaktär ==
+Hög, vertikal och ren klippa. Här finns några traditionellt säkrade turer till vänster, men det är den högra delen av väggen som ger Resilin dess karaktär. Lederna är här glest bultade och bör med modern etik betraktas som mixturer. Utmärkta säkringsmöjligheter kompletterar bultarna. Toppankare finns på flera av lederna, och det är lätt att gå upp på toppen (via vänstra sidan av klippan). Bultarna är nyligen inspekterade av Göteborgs klätterklubb. 
+
+Klippan är lättillgänglig och har en lekplats 50 meter bort. Barnvänligt med andra ord.
+
+Några leder brukar vara blöta ett tag efter regn.
+
+== Vägbeskrivning ==
+<googlemap lat="57.74210" lon="12.07480" zoom="17" type="karta">
+57.74210,12.07480,Resilin
+
+</googlemap> 
+
+{{tryckt förare|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+== Access ==
+Tänk på ljudnivån, grannhusen ligger väldigt nära! Parkera med vett.
+
+== Leder ==
+{{led|namn=BOD|grad=5|fa=Torbjörn Bengtsson & Johan Nilsson}}
+{{led|namn=Resilin|grad=7|betyg=1|längd=20
+ |typ=mix|text=}}
+{{led|namn=Penicillin|grad=8-|fa=Henrik Sennelöv & Mats Hulander}}
+{{led|namn=BH|grad=6}}
+{{led|namn=LSD|grad=7-}}
+{{led|namn=PS|grad=6}}
+{{led|namn=Medicin|grad=7-}}
+{{led|namn=KGB|grad=7|betyg=2|längd=20|fa=Johan Nilsson & Dag Kalsrud
+ |typ=mix|text=Känsligt. Välsäkrad med små kammar och kilar som komplement till de två bultarna. Toppankare går att nå uppifrån, men det är en bra idé att säkra sig med en bit statiskt rep eller en lång slinga.}}
+
+{{led|namn=Bungy|grad=7b+}}
+{{led|namn=HTH|grad=7-}}
+{{led|namn=RP|grad=7-|betyg=3|längd=20
+ |typ=trad|text=Riktigt fin klättring. Dåligt med placeringar.}}
+{{led|namn=X-ray|grad=8}}
+{{led|namn=ETC|grad=7b+?}}
+{{led|namn=VPS|grad=8}}
+{{led|namn=UPA|grad=7c}}
+{{led|namn=PCP|grad=7+|betyg=2|längd=20|fa=Johan Nilsson & Rikard Hedman
+ |typ=mix|text=Sekvensigt. Toppankare. Ytterst välsäkrad med ett par små kamsäkringar som komplement till bultarna.}}
+{{led|namn=HIV|grad=8|fa=Johan Luhr&Henrik Sennelöv}}
+{{led|namn=MBD|grad=7b+}}
+{{led|namn=Aha|grad=7}}
+{{led|namn=?|grad=6+|fa=Dag Kolsrud & Sem Larsen}}
+{{led|namn=PG|grad=7+}}
+{{led|namn=SL|grad=7}}
+{{led|namn=TNT|grad=6|fa=Joakim Olofsson}}
+{{led|namn=DDT|grad=6+|fa=Patrik Alseby}}
+{{stub}}
+
+[[Kategori:Göteborg]]
+[[Kategori:Barnvänligt]]

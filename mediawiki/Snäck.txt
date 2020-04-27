@@ -1,0 +1,59 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=57.673199
+  |long=18.336035
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Ovanför vattenrutschbanan vid Snäck finns ett bultat hörn på fin, fast klippa. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="57.673452" lon="18.336074" zoom="18">
+57.673194, 18.336034
+</googlemap>
+</div>
+
+
+
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Le premier projet|grad=6a+|typ=sport|betyg=0|bultar=?|längd=?|fa=[[Anders Lindström]] -??|text=Glest bultad}}
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+
+<!-- [[Kategori:vertikalt]] -->
+
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Gotland]]

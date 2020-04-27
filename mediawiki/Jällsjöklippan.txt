@@ -1,0 +1,17 @@
+{{info klippa
+  |lat=58.2946
+  |long=16.2400
+}}
+
+{{stub|extern=ja}}
+
+==Allmänt==
+En mindre klippa med blandade hårdare leder.
+
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]][[Kategori:vertikalt]][[Kategori:överhäng]][[Kategori:Sport]][[Kategori:Trad]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

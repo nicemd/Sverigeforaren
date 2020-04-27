@@ -1,0 +1,105 @@
+{{info klippa
+  |lat=56.195364318056235
+  |long=15.034103393554688
+}}
+
+{{komplett}}
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=350 lat="56.195364318056235" lon="15.034103393554688" zoom="9" type="map" controls="small">
+56.195364318056235,15.034103393554688,Köpegårda
+
+</googlemap>
+</div>
+
+[[Bild:Skalen.gif|thumb|400px|Udi Grinberg klättrar [[Skålen]] 7- <br>Foto: [[Användare:Petter Åsander|Petter Åsander]] ]]
+
+== Allmänt ==
+Köpegårda är en sportklippa mellan Karlshamn och Ronneby. Klippan bjuder på ett 20-tal fina leder från grad 3 - 7.
+Vackert belägen med sydläge vid en åker gör att den torkar snabbt och kan klättras tidigt på våren.
+Klippan är svaig (förutom sektor A) och vass, vilket innebär mycket friktion, men greppen kan kännas lite gömda ibland.
+Köpegårda är en populär klippa, försök hålla låg profil med omtanke om familjerna som bor tvärs över åkern.
+I området finns även ett par stycken boulderblock.
+Minst fem st leder till är gjorda, utöver de som redovisas nedan: en travers på okänd höjd, 2 st lätta (~5) i högerkanten av huvudklippan, en på blocket i högerkanten och en i den vänstra sprickan i sektor C. Därutöver har det även gjorts några boulders i sektor A.
+
+== Hitta hit ==
+'''Från Karlshamn''' kör du österut mot Karlskrona, vid Åryd svänger du av från E22:an och tar sedan vänster under E22:an och sedan snabbt höger igen för att köra under E22:an igen.
+Efter ca 1 km kommer en skylt åt höger "Köpegårda", efter 1 km på den vägen ser du klippan på vänster sida. fortsätt köra en liten bit tills det viker av en grusväg in mot klippan, parkera här och gå sedan sista biten.<br>
+'''Obs''' Gena inte över åkern! Gå runt åkern utmed kanten.
+
+== A-Sektorn ==
+Detta är den bortersta delen av väggen, på vänster sida om huvudväggen.
+Insteget till de lätta lederna till höger kan vara lite bökigt att nå.
+
+[[Bild:Kopet2.gif]]
+
+{{led|nr=1|namn=Jätten snopps spottkopp|grad=6|betyg=2|längd=
+ |fa=Benny Palmgren 92|bultar=3|typ=sport|text=Kort tung och överhängande, men på goda grepp.}}
+
+{{led|nr=2|namn=Snoppostradan|grad=6+|betyg=1|längd=
+ |fa=Benny Palmgren 92|bultar=2|typ=mix|text=Något tyngre än föregående led. En friend kan vara hjälplig.}}
+
+{{led|nr=3|namn=Frankrike nästa|grad=7-|betyg=3|längd=
+ |fa=Mark Jansson|bultar=3|typ=sport|text=En klassiker, den mest tekniska av de överhängande lederna.}}
+
+{{led|nr=4|namn=Saddam´s roof|grad=6+|betyg=|längd=
+ |fa=Benny Palmgren 92|bultar=1|typ=sport|text=}}
+
+{{led|nr=5|namn=Snusmumrik|grad=4-|betyg=|längd=
+ |fa=Anders Repfennig|bultar=|typ=trad|text=Startar med ett osäkrat sva, sedan upp i sprickan.}}
+
+{{led|nr=6|namn=Ladulås|grad=4-|betyg=|längd=
+ |fa=Benny Palmgren 92|bultar=1|typ=mix|text=}}
+
+{{led|nr=7|namn=Hereford|grad=4+|betyg=|längd=
+ |fa=Anders Repfennig 91|bultar=|typ=trad|text=Rolig led över svaet upp till den märkliga bullformationen. Kruxet är välsäkrat och består i att komma upp på hyllan.}}
+
+== B-sektorn ==
+
+Detta är huvudväggen, det första du ser av Köpegårda.
+
+[[Bild:Kopet.gif]]
+
+[[Bild:Kopegarda1.jpg|thumb|800px|B-sektorn <br>Foto: Fredrik Rapp]]
+
+{{led|nr=1|namn=John Deere|grad=5+|betyg=1|längd=
+ |fa=Anders Repfennig 91|bultar=|typ=trad|text=}}
+
+{{led|nr=2|namn=Skördetid|grad=6|betyg=3|längd=
+ |fa=Benny Palmgren|bultar=6|typ=sport|text=Fin klättring över diverse flak. Den rädde kan behöva någon kil att komplettera bultarna med. Bygg ankare med slinga runt träd.}}
+
+{{led|nr=3|namn=Lantluft|grad=6-|betyg=1|längd=
+ |fa=Benny Palmgren 92|bultar=3|typ=mix|text=Följ vänster sida av den stora sprickan utan att använda kanten. Ta med kilar.}}
+
+{{led|nr=4|namn=A date with Newton|grad=6-|betyg=1|längd=
+ |fa=Mark Jansson 91|bultar=|typ=trad|text=Fin klättring längs med den uppenbara sprickan åt vänster. Tänk på andremannen när ni lägger säkringar - risk för ödesdigra pendelfall!}}
+
+{{led|nr=5|namn=Rukrännan|grad=5-|betyg=2|längd=
+ |fa=Mark Jansson 91|bultar=3|typ=mix|text=Den stora lockande sprickan. Välsäkrad med kilar och någon friend i första halvan, sedan bb i toppen. Man behöver inte använda någon off-width-teknik för att ta sig upp här. Har bultat ankare tillsammans med "Lantluft".}}
+
+{{led|nr=6|namn=Tjurskräck|grad=6+|betyg=3|längd=
+ |fa=Emese Bálint 92|bultar=6|typ=sport|text=Mycket fin balansled med krux på slutet. Bultat ankare.}}
+
+{{led|nr=7|namn=Skålen|grad=7-|betyg=1|längd=
+ |fa=Lasse Karlsson 92|bultar=4|typ=sport|text=Fin balansled, men lite långt mellan bultarna som dessutom är otaktiskt placerade. Slutar i föregående ankare.}}
+
+{{led|nr=8|namn=Old McDonald|grad=5|betyg=2|längd=
+ |fa=Anders Repfennig 91|bultar=6|typ=sport|text=En fin väggtur för de mindre vältränade klättrarna. Har en rejäl bult som firningsankare.}}
+
+{{led|nr=9|namn=Bränd potatis|grad=6-|betyg=1|längd=
+ |fa=Benny Palmgren 91|bultar=5|typ=mix|text=}}
+
+{{led|nr=10|namn=Bullshit|grad=5-|betyg=2|längd=
+ |fa=Anders Repfennig 91|bultar=2|typ=mix|text=Välsäkrad led med två bb mot slutet.}}
+
+== C-sektorn ==
+
+Denna lilla vägg ligger inne bland träden innan huvudväggen
+
+[[Bild:Kopet3.gif]]
+
+{{led|nr=1|namn=Slaktaren från Bagdad|grad=7|betyg=|längd=
+ |fa=P.Kaufmann m.fl 92|bultar=|typ=trad|text=}}
+
+[[Kategori:sport]]
+[[Kategori:Blekinge]]

@@ -1,0 +1,26 @@
+{{utkast}}
+
+==Allmänt==
+En relativt oansenlig klippa. De leder som har gjorts är rätt igengrodda.
+
+==Miljö==
+Västvänd och öppen.
+
+==Vägbeskrivning==
+Värmdöleden från Danvikstull, sväng av mot Saltsjöbaden (väg 228). Passera Tippen, och kör mot Älgö. Passera
+Solsidans station och fortsätt ut på Älgö. Efter 4 km, kör in på Berghemsvägen och följ den ner till klippan som ligger vid vändplanen. Den sista kilometern av Berghemsvägen är stängd för obehörig biltrafik.
+
+==Leder==
+{{led|nr=1|namn=Fänrik fläng|grad=3+|längd=18|fa=[[Thomas Breding]] [[-92]]}}
+
+{{led|nr=2|namn=Gris - gugge|grad=5+|längd=14|fa=[[Thomas Breding]], [[Anders Garnell]] [[-92]]}}
+
+{{led|nr=3|namn=Socker conny|grad=6|längd=16|fa=[[Thomas Breding]], [[Anders Garnell]] [[-92]]}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar karta]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Trad]]

@@ -1,0 +1,62 @@
+{{info klippa
+  |lat=59.22568
+  |long=18.30759
+}}
+
+{{komplett}}
+
+==Allmänt==
+Sydvästvägg i Solberga, nära Gamla Tyresö. Väggen är ca 250 m lång och som högst 40 m. Inget väggparti är dock högre än 10 m, då berget är uppbrutet i hyllsystem med korta väggar däremellan. Det finns tre partier med ca 50 m mellanrum.
+
+==Miljö:==
+Sydväst, öppet för solen. 
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.227961" lon="18.302879" type="map" zoom="13" height="250" controls="small">
+59.22568, 18.30759
+[[Solberga]]
+</googlemap>
+</div>
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Solberga
+lat=18307590
+long=59225680
+</slresa>
+</div> 
+Åk Tyresövägen och sväng h i rondellen till Brakmarsvägen. Följ denna till den andra vägen på vänster sida. Den heter Passet. Denna väg följs tills den tar slut (10 m) varefter du svänger h in på Vallvägen. I slutet på Vallvägen ligger en parkeringsplats och nu syns berget 30 m upp i skogen
+
+<div style="clear:right;"></div>
+
+==Leder==
+===Vänstra delen===
+[[Bild:Solberga_v.png|right]]
+
+Klippan här är relativt flack men högre än övriga delar. På toppen finns några lätta nötter.
+
+{{led|nr=1|namn=Trumpetsolo|grad=5|längd=7|fa=[[Ståle Ekelund]] [[-88]]}}
+{{led|nr=2|namn=Myrr|grad=4+|längd=20|fa=[[Gustav Schaffter]] [[-88]]}}
+{{led|nr=3|namn=Nya tider|grad=7-|längd=~10|fa=[[Ståle Ekelund]] [[-89]]}}
+{{led|nr=4|namn=Mera Totex|grad=5|längd=~10|fa=[[Peter Brolin]], [[Eva Rozenbeek]] [[-89]]}}
+{{led|nr=5|namn=Impuls|grad=3|längd=5|fa=[[Gustav Schaffter]] [[-88]]}}
+{{led|nr=6|namn=Norsk dans nr to|grad=7-|längd=7|fa=[[Ståle Ekelund]] [[-88]]}}
+{{led|nr=7|namn=Norsk dans nr en|grad=6-|längd=11|fa=[[Ståle Ekelund]], [[Gustav Schaffter]] [[-88]]}}
+{{led|nr=8|namn=Valdresmarsj|grad=5-|längd=12|fa=[[Ståle Ekelund]], [[Gustav Schaffter]] [[-88]]}}
+{{led|nr=9|namn=Charlie don’t surf|grad=5|längd=7|fa=[[Marco]] & [[Pentti Kupiainen]] [[-94]]}}
+
+===Mittpartiet===
+{{led|nr=10|namn=Chianti Ruffini|grad=7+/8-|längd=8|fa=[[Anders Lundahl]], [[Eva Selin]] [[-89]]}}
+{{led|nr=11|namn=Power Mix|grad=8|längd=8|fa=[[Anders Lundahl]] [[-89]]}}
+{{led|nr=12|namn=Flatfinger|grad=8/8+|längd=7|fa=[[Anders Lundahl]] [[-89]]}}
+===Högra delen===
+[[Bild:Solberga_h.png|right]]
+{{led|nr=13|namn=Yummi yummi|grad=7-|längd=8|fa=[[Ståle Ekelund]] [[-88]]}}
+{{led|nr=14|namn=Rost i torpeden|grad=6-|längd=10|fa=[[Marco Kupiainen]], [[Christer Jansson]] [[-94]]}}
+{{led|nr=15|namn=Legionären|grad=7-|längd=13|fa=[[Ståle Ekelund]] [[-89]]}}
+{{led|nr=16|namn=Naturförädlande medel|grad=5+|längd=9|fa=[[Gustav Schaffter]]([[solo]] [[-88]]}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Trad]] [[Kategori:Vertikalt]] [[Kategori:Överhäng]]
+[[Kategori:Stockholm]] [[Kategori:Tyresö]]
+[[Kategori:Saknar kolumner]]

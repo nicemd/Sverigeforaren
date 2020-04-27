@@ -1,0 +1,74 @@
+{{info klippa
+  |lat=61.7622
+  |long=17.0217
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+
+==Allmänt==
+Klippan vetter mot ost och ligger till största delen gömd av träd. Trots detta letar sig solens strålar ned mellan träden på förmiddagarna, vilket är kanske den bästa tidpunkten för klättring här. Klippan består av kompakt granit med få sprickor vilket innebär att så gott som alla leder är bultade. Dock kan vissa leder behöva kompletteras med egna säkringar. Höjden på klippan är som högst ca 15 meter men de flesta lederna är strax under 10 meter långa. Medellutningen på klippan är inte så stor (ca 75 grader) vilket tillsammans med en relativt grepprik granit gör att de flesta lederna är lätta. Passar nybörjaren perfekt!
+
+Informationen hämtad från [http://hem.passagen.se/bigstone/hogklitt.htm denna sida]
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="61.7622" lon="17.0217" zoom="11" type="map" width="355" height="300">
+61.7622, 17.0217 Högklitt
+</googlemap>
+</div>
+
+Med bil från Hudiksvall, kör mot Hög. Efter E4 är det ca 4,5 km till korsningen mot Gåcksäter. Sväng där och parkera vid första mötesplatsen till vänster. Därifrån väntar en lätt promenad fram till klippan. Från bilen fortsätter man Gåcksätersvägen en kort bit till första "korsningen" där man gårupp till vänster. Följ vägen tills du kommer till en äng på höger sida. Korsa denna och följ sedan de gula snitslarna fram till klippan.
+
+GPS-koordinater: Lat: N 61º 45' 44.36";  Long: E 17º 1' 18.23"
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:högklitt_skiss.gif]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Första leden|grad=5|typ=mix|betyg=3|bultar=3|längd=9|fa=[[Henrik Tykosson]] och [[Lars Enqvist]] m topprep, 1999 Fritt: [[Henrik Tykosson]] och [[Fredrik Lärka]] -99|text=Klättra från rönnen rakt upp till tallen. Efter första bulten finns det en bra horisontellspricka i vilken en friend med fördel placeras. Risk för ett lååååånnngt fall annars! Jämn och fin klättring. Leden har fått mycket beröm av de som klättrat den. Ett måste alltså!!}}
+
+{{led|nr=2|namn=Flyg som en lärka|grad=6-|typ=mix|betyg=|bultar=2|längd=9|fa=[[Fredrik Lärka]] -99|text=Starta till vänster under taket och traversera till höger upp till bult. Klättra sedan till vänster om denna och fortsätt till toppen.}}
+
+{{led|nr=3|namn=Bogserlinan|grad=4+|typ=mix|betyg=|bultar=2|längd=9|fa=[[Henrik Tykosson]] och [[Fredrik Lärka]] -99|text=Följ spricksystemet till höger om "Flyg som en lärka" upp till toppen. Gemensamma bultar med dito.}}
+
+{{led|nr=4|namn=Myran|grad=4+|typ=trad|betyg=|bultar=|längd=9|fa=[[Henrik Tykosson]] och [[Fredrik Lärka]] m topprep -00|text=Startar till vänster om pelaren och fortsätter sedan rakt upp. Ankare.}}
+
+{{led|nr=5|namn=Per Pedes|grad=5-|typ=trad|betyg=1|bultar=|längd=9|fa=[[Henrik Tykosson]] och [[Fredrik Lärka]] m topprep -00|text=Starta från hyllan ovanför Myran och gå rakt upp. Tunn och rolig led. Endast ankare, men skall bultas vid senare tillfälle.}}
+
+{{led|nr=6|namn=Trängsel med Picea|grad=4|typ=mix|betyg=|bultar=2|längd=9|fa=[[Henrik Tykosson]] och [[Fredrik Lärka]] m topprep, 2000 Fritt: [[Eyvind]] -00|text=Pressa dig mellan klippan och granarna och följ sedan bultarna till toppen.}}
+
+{{led|nr=7|namn=Blemad|grad=4|typ=trad|betyg=|bultar=2|längd=9|fa=[[Henrik Tykosson]] och [[Fredrik Lärka]] -99|text=Leden utgår från granarna vid TmP och fortsätter sedan på hyllan till spricksystemet vilket följs till toppen.}}
+
+| width="350px" |
+
+{{led|nr=8|namn=Startsvårigheter|grad=4+|typ=trad|betyg=|bultar=|längd=9|fa=[[Henrik Tykosson]] och [[Lars Enqvist]] m topprep, 1999 Fritt: [[Henrik Tykosson]] -00|text=Leden fick inte detta namn för att den är svår utan att de första metrarna är betydligt svårare än fortsättningen vilket består av 3:a klättring. Detta är den enda led som säkras helt naturligt på klippan. Ankare på toppen.}}
+
+{{led|nr=9|namn=Bös i ögat|grad=4+|typ=mix|betyg=|bultar=2|längd=9|fa=[[Henrik Tykosson]] och [[Lars Enqvist]] m topprep, 1999 Fritt: [[Henrik Tykosson]] och [[Peter Norin]] -00|text=Går upp i det tydliga diedret för att sedan gå ut en aning åt höger för att sedan gå rakt upp till toppen. Lätt och rolig led. Säkras med fördel med egna säkringar före 1:a bult.}}
+
+{{led|nr=10|namn=Pest|grad=5+|typ=mix|betyg=|bultar=3|längd=9|fa=[[Peter Norin]] -00|text=Går till höger om den tydliga sprickan en bit upp på väggen. Följ bultarna och du är på rätt led!}}
+
+{{led|nr=11|namn=Kolera|grad=6-|typ=mix|betyg=|bultar=3|längd=9|fa=[[Peter Norin]] -00|text=Börjar på den snett lutande väggen. Går sedan vidare upp genom taket. Följd bultarna och du är rätt!}}
+
+{{led|nr=12|namn=I skuggan av Betula|grad=3+|typ=trad|betyg=1|bultar=|längd=9|fa=[[Henrik Tykosson]] m topprep -00|text=Startar från ett liggande block på marken och fortsätter därifrån snett uppåt till höger för att efter ett par meter gå rakt upp till toppen. Grepprik led. Endast ankare, men skall bultas. Perfekt för förstagångsklättraren!}}
+
+|}
+
+
+
+[[Kategori:trad]]
+[[Kategori:mix]] 
+[[Kategori:sva]] 
+
+[[kategori:Saknar skrivarformatering]]
+[[kategori:Saknar skiss]]
+
+[[Category:Hälsingland]]

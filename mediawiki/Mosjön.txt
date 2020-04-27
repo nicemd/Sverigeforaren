@@ -1,0 +1,351 @@
+{{info boulderområde
+  |lat= 63.319274
+  |long=18.99828
+}}
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="63.322627" lon="19.000425" type="terrain" zoom="13">
+63.319274, 18.99828
+Mosjön boulderområde
+</googlemap>
+</div>
+
+=Allmänt=
+Vår-sommar 2008 såg Mosjöns boulderområde sitt första ljus, ryktet spreds att ett av sveriges coolaste block (boulder) modell större hade hittats på en skogsslänt i Mosjön, norr om Örnsköldsvik. Efter att området inventerats så visade det sig att det fanns flertalet stora block, highballs, väggar samt mindre stenar...Det är en högkvalitativ bouldering på sten med samma goda kvalitet och friktion som [[Ringkallen]].
+
+Stora och lilla stenen samt några övriga problem är välrensade och välklättrade.  Utgå från att övriga problem är dåligt rensade och ytterst lite klättrade och därför har märkliga grader.  De stenar och problem som är ordentligt klättrade och rensade anges särskilt.
+
+''Mosjön ligger för övrigt ca 10 km söder om Husums boulderområde, Dombäck.''
+
+=Bild & Film=
+[http://www.flickr.com/photos/henrik_josefsson/sets/72157604950760846/ Bilder från Mosjön av Henrik Josefsson]
+[http://www.flickr.com/photos/wiklund/sets/72157605015457503/ Bilder från Mosjön av Jonas Wiklund]
+{{sidbrytning}}
+
+=Boende=
+Det går bra att slå upp tältet i närheten av vändplanen. Inget rinnande vatten.  [http://web.telia.com/~u66015155/framsida.htm Mosjön camping] har stugor, husvagnscamping och tältplatser knappt en kilometer från klättringen.
+
+=Väder=
+[http://www.yr.no/sted/Sverige/Västernorrland/Högbyn/ Väderprognos från yr.no] (Det finns ett annat Mosjön i Västernorrland, Höbyn är närmaste ort med väderprognos på yr.no)
+
+=Pdf=
+===Översiktsbild Mosjön boulderområde===
+[http://www.sverigeforaren.se/media/MosjönÖversikt2009.pdf Översiktsbild 2009 i pdf-format]
+
+===Problemsortering===
+[http://www.sverigeforaren.se/media/SorteringMosjön2009.pdf Problemsorteringslista 2009 i pdf-format]
+
+=Vägbeskrivning=
+[[Bild:Mosjon_karta.jpg]] 
+
+Mosjön ligger drygt två mil norr om Örnsköldsvik längs E4, just söder om Husum.  Vid infarten mot Mosjö Camping vid E4:an, tag av mot Lilla Mosjön.
+
+Följ grusvägen ca 500m. Sväng in på skogsbilvägen åt höger vid 4-vägskorsningen. 
+
+Det går bra att parkera direkt efter backen bredvid vägen eller längre fram vid en vändplan.
+Där skogbilvägen svänger åt vänster så går en alldeles ny traktorväg upp mot slänten. Gå längs traktorvägen till dess den svänger av mot höger vid en liten glänta, ta diagonalt åt vänster och gå upp på slänten mot blocken.
+{{sidbrytning}}
+
+=Översiktsbild=
+[[Bild:Mosjön2009.png]]
+{{sidbrytning}}
+
+=Sektorer=
+== A. ==
+{|
+| width="350px" |
+{{problem|nr=1|namn=Ordkriget|grad=6B|sittstart=ja|text=Traverse till vänster, upp i slutet av kortsidan.}}
+{{problem|nr=2|namn=Foxhole|grad=6A+|sittstart=ja|betyg=1|text=Starta vid kanten.}}
+{{problem|nr=3|namn=Barbwire|grad=5C|betyg=1|text=Traverse, följ sprickan till vänster.}}
+{{problem|nr=4|namn=Gunship|grad=5B|text=Rakt upp.}}
+{{problem|nr=5|namn=Assasin|grad=5B|sittstart=ja|text=Startar vid kanten, använd lister till höger för HH.}}
+{{problem|nr=6|namn=POW|grad=6C|sittstart=ja|betyg=2|text=Startar under överhänget i givna grepp, slutar med sloper. Dåligt rensat utsteg}}
+{{problem|nr=7|namn=Wallenbergaren|grad=L|text=Rakt upp för slabpartiet.}}
+| width="500px" |
+[[Bild:Krigsblocket.jpg|thumb|350px|right|]]
+|}
+
+== B. ==
+{|
+| width="300px" |
+{{problem|nr=1|namn=Schvullo|grad=6B|sittstart=ja|text=Väggen och dess lister, ej areten.}}
+{{problem|nr=2|namn=Snickarens Matlåda|grad=6A+|sittstart=ja|betyg=1|text=Arete.}}
+{{problem|nr=3|namn=True Blood|grad=7A+|sittstart=ja|betyg=1|text=Klättra via krimpers och slopiga grepp upp till toppen.}}
+{{problem|nr=4|namn=Tårtan|grad=6A+|text=Arete.}}
+| width="550px" |
+[[Bild:BMI-block.jpg|thumb|550px|left|]]
+|}
+{{sidbrytning}}
+
+== C. ==
+{|
+| width="450px" |
+[[Bild:små5.jpg|thumb|300px|left|]]
+{{problem|nr=1|namn=Flaavio|grad=6C|sittstart=ja|betyg=1|text=Traverse till vänster, upp via sprickan på slutet.}}
+| width="450px" |
+[[Bild:Små2.jpg|thumb|200px|right|]]
+{{problem|nr=2|namn=Bäcken|grad=5B|text=Klättra rakt upp, arete ej med.}}
+{{problem|nr=3|namn=Älfven|grad=6A|sittstart=ja|text=Klättra ngt till höger.}}
+|}
+{{sidbrytning}}
+== D. ==
+{|
+| width="350px" |
+{{problem|nr=1|namn=Kaffedarren|grad=6A|sittstart=ja|text=Slopers och kant.}}
+{{problem|nr=2|namn=Fikatajm|grad=6B+|sittstart=ja|text=Slopers.}}
+{{problem|nr=3|namn=Julmust|grad=L|sittstart=ja|text=Via stora grepp upp.}}
+| width="500px" |
+[[Bild:FikaTajm.jpg|thumb|200px|left|]]
+|}
+
+== E. ==
+{|
+| width="300px" |
+[[Bild:Krokodilsten3.jpg|thumb|300px|left|]]
+{{problem|nr=1|namn=Skuggan|grad=6B+|sittstart=ja|text=Traverse till vänster, tydliga startgrepp, upp i slutet.}}
+{{problem|nr=2|namn=Fascisten|grad=6C|sittstart=ja|text=rakt upp via krimpers & slopig kant.}}
+{{problem|nr=3|namn=Krokodilen|grad=6B|sittstart=ja|text=Klättra ngt till höger, upp för kanten.}}
+| width="400px" |
+[[Bild:Krokodilsten2.jpg|thumb|400px|left|]]
+{{problem|nr=4|namn=(Project)|grad=7?|text=Stora & mindre grepp, knöligt avslut.}}
+{{problem|nr=5|namn=Tigersprång|grad=7A|text=Få moves, skutta upp högt med fötterna, trixigt!}}
+{{problem|nr=6|namn=Blazed and Confused|grad=6C+|sbetyg=1|text=Traverse till vänster, upp en kort bit in på långa sidan.}}
+{{problem|nr=7|namn=Lindansaren|grad=L|text=Rakt upp för slabpartiet.}}
+|}
+
+== F. ==
+
+Dessa problem är alla acceptabelt rensade.  Ytterligare lite borstning skulle inte skada.
+
+{|
+| width="350px" |
+{{problem|nr=1|namn=Sundsvallarn|grad=6B|sittstart=ja|text=Arete för VH och spricklist för HH.}}
+{{problem|nr=2|namn=Radioprataren|grad=5C|sittstart=ja|text=Rakt upp via jussta grepp, ngt långa moves.}}
+{{problem|nr=3|namn=Lifestyle|grad=6A+|sittstart=ja|text=Går ngt till vänster, upp för den slopiga kanten.}}
+| width="500px" |
+[[Bild:wermelin.jpg|thumb|225px|left|]]
+|}
+{{sidbrytning}}
+
+== G. Lilla stenen ==
+Samtliga problem är välrensade. Ingen ytterligare borstning behövs.
+
+{|
+| width="325px" |
+[[Bild:Soulweeper.jpg|thumb|300px|left|]]
+{{problem|nr=1|namn=Soulweeper|grad=6C|typ=Överhäng|fa=Per Lindmark|landning=2|betyg=1|fadatum=2008-09-07|sopad=Linus Malm|startgrepp=ja|text=Startar till höger om trädet vid den stora sloperrampen. Vänster hand på vertikala delen av rampen, höger hand på det lägre greppet på rampen. Går ut åt höger.}}
+{{problem|nr=1b|namn=(Project)|grad=8?|sittstart=ja|betyg=3|text=Sittstarten till Soulweeper.}}
+{{problem|nr=2|namn=(Project)|grad=7C?|typ=Överhäng|fa=|landning=2|betyg=|fadatum=|sopad=Jonas Wiklund|text=Startar till höger om trädet i stor brevlåda. Traverserar ut åt höger.}}
+[[Bild:Volbeat.jpg|thumb|300px|left|]]
+{{problem|nr=6|namn=(Project)|grad=?|sittstart=ja}}
+{{problem|nr=7|namn=Volbeat|grad=7A|typ=Jam, Slopers|fa=Per Lindmark|landning=2|betyg=0|fadatum=2008-09-07|sopad=Linus Malm, Per Lindmark|sittstart=ja|text=Startar på stenens vänstra sida. Starta etablerad i jamsprickan. Går ut snett åt vänster}}
+{{problem|nr=8|namn=(Project)|grad=?|landning=1|betyg=|fadatum=|sopad=|text=Startar där "Volbeat slutar, lång hangeltravers till vänster, hela långa kanten till blockets slut.}}
+| width="380px" |
+[[Bild:Mosjon_Return_to_sender.jpg|thumb|380px|left|]]
+{{problem|nr=3|namn=Return to Sender|sittstart=ja|grad=7C+|typ=Överhäng, Crimp|fa=Fredrik Sydstrand|landning=2|betyg=3|fadatum=2009-05-16|sopad=Linus Malm, Per Gunnarsson, Mikael Andersson, Hans Stenlund|text=Sittstart mitt på den överhängande sidan, gå rakt upp.}}
+{{problem|nr=3b|namn=Return to Sender|grad=7B+|typ=Överhäng, Crimp|fa=Mikael Andersson|landning=2|betyg=2|fadatum=2008-09-21|sopad=Linus Malm, Per Gunnarsson, Mikael Andersson, Hans Stenlund|text="Ståstartsvarianten" mitt på den överhängande sidan, gå rakt upp. '''Variant: Return to sender höger, 7A+''', använder aretet till höger.}}
+{{problem|nr=4|namn=Deliverance|grad=6C+|typ=Överhäng,Aréte|fa=Per Nogren|landning=2|betyg=1|fadatum=2008-05-07|sopad=Per Nogren|sittstart=ja|text=Sittstart vid kanten. Följ den högra aréten och toppa ut vid stenens högsta punkt.}}
+|}
+
+== H. ==
+{|
+| width="370px" |
+[[Bild:Musik1.jpg|thumb|370px|left|]]
+{{problem|nr=1|namn=Wretch|grad=6B|sittstart=ja|betyg=1|text=Starta i vertikala rampen till vänster om trädet, reach, sloper.}}
+{{problem|nr=2|namn=Nevermind (Project)|grad=7?|sittstart=ja|betyg=1|text=Startar i givet grepp vid areten, klättra ngt till höger.}}
+{{problem|nr=3|namn=Purple|grad=6C|sittstart=ja|text=Överhäng, på sten till vänster om "Nevermind", fysisk start & trixigt slut.}}
+| width="200px" |
+[[Bild:Musik2.jpg|thumb|220px|left|]]
+{{problem|nr=4|namn=Dirt|grad=6B+|sittstart=ja|text=Tak, högra hyllkanten ej med.}}
+[[Bild:Musik3.jpg|thumb|220px|left|]]
+{{problem|nr=5|namn=Skebokvarnsv 209|grad=6C|sittstart=ja|text=Överhäng, krimp.}}
+{{problem|nr=6|namn=Praise Jah|grad=6A+|text=Krimp på väggdelen, ta dig över taket mha sörre grepp.}}
+|}
+{{sidbrytning}}
+
+== I. ==
+{|
+| width="350px" |
+{{problem|nr=1|namn=What the F+++|grad=7A+|sittstart=ja|text=Tak, start i krimplist.}}
+{{problem|nr=2|namn=Meat is Murder|grad=5A|text=}}
+{{problem|nr=3|namn=Lustans Lakejer|grad=5A|fa=hj,dk,fn 2009-04-26|text=Klättra via den tydliga rampen mitt på stenen. Går att göra med sittstart om du är lagd åt det hållet}}
+{{problem|nr=4|namn=Vegans can´t Jump|grad=5A|fa=hj,dk,fn 2009-04-26|text=Ca två meter till höger om "Lustans Lakejer". Dynamisk till toppen eller statiskt via krimp på areten.}}
+{{problem|nr=5|namn=Moroten|grad=5A|text=Krimp, följ sloperhyllan till höger.}}
+{{problem|nr=6|namn=Moroten|grad=5A|text=Reach.}}
+{{problem|nr=7|namn=Staffan å Bengt|grad=L|sittstart=ja|text=Går rakt upp i stora grepp.}}
+| width="450px" |
+[[Bild:Vegan.jpg|thumb|400px|right|]]
+|}
+
+== J. ==
+{|
+| width="350px" |
+{{problem|nr=1|namn=Vittrans Magont|grad=5B|sittstart=ja|text=Båda kanterna är med.}}
+{{problem|nr=2|namn=Tomtens Huvudvärk|grad=5A|sittstart=ja|text=Krimp, klättra rakt upp via tydliga grepp.}}
+| width="500px" |
+[[Bild:Troll.jpg|thumb|400px|right|]]
+|}
+
+== K. ==
+{|
+| width="400px" |
+[[Bild:Mat.jpg|thumb|300px|left|]]
+{{problem|nr=1|namn=Småplåck|grad=6B|text=Highball, krimp.}}
+{{problem|nr=2|namn=Jul Stress|grad=5A|text=Highball, klättra till vänster.}}
+[[Bild:Mat4.jpg|thumb|200px|left|]]
+{{problem|nr=3|namn=Flykten (Project)|grad=7?|text=Krimp, reach, rakt upp.}}
+{{problem|nr=4|namn=Spice|grad=5C|text=Högra kanten ej med.}}
+| width="350px" |
+[[Bild:Mat3.jpg|thumb|200px|left|]]
+{{problem|nr=5|namn=Shitlist|grad=5B|text=Rakt upp, sprickan till höger ej med.}}
+[[Bild:BrannFlejk.jpg|thumb|250px|left|]]
+{{problem|nr=6|namn=Brannflejk|grad=5B|text=Väggen nedanför "Shitlist", klättra via sprickan upp.}}
+|}
+{{sidbrytning}}
+
+== L. Linedanceblocket==
+
+Dessa problem är ofta klättrade och mycket välrensade.
+
+{|
+| width="350px" |
+{{problem|nr=1|namn=LineDance|grad=6A|typ=Krimp|fa=?|landning=3|betyg=2|fadatum=2008-05-11|sopad=?|uteslutningar=ja|text=Starta längst till vänster på stenen. Gå rakt upp. Aréten är utesluten.}}
+{{problem|nr=2|namn=Pubafton|grad=6B|typ=Krimp|fa=?|landning=2|betyg=2|fadatum=2008-05-11|sopad=?|text=Starta i mitten av stenen. Gå rakt upp.}}
+{{problem|nr=3|namn=Tradare|grad=6B|typ=Slopers,Aréte|fa=?|landning=3|betyg=0|fadatum=2008-05-11|sopad=?|sittstart=ja|text=Sittstart under lilla taket på stenens högerkant. Gå rakt upp.}}|}
+| width="500px" |
+[[Bild:LD.jpg|thumb|275px|left|]]
+|}
+
+== M. Stora stenen ==
+
+Samtliga klättrade problem är mycket välrensade och ofta klättrade.  Detta är Mosjöns pärla, och anledningen till att man åker hit i första läget.
+
+{|
+| width="350px" |
+På bortre sidan av stenen ligger ett ensamt problem
+{{problem|nr=|namn=Eastern comfort|grad=6A|typ=Highball,Aréte|fa=Jonas Wiklund|landning=3|betyg=1|sopad=Jonas Wiklund (toppen), mfl (starten)|text=Följ rampen/ytterhörnet upp till toppen.}}
+
+----
+
+{{problem|namn=(Projekt)|nr=1|grad=projekt|typ=Krimp,Pinch,Tak|fa=|landning=3|betyg=2|fadatum=|sopad=Dag Knutsson, Per Gunnarson,?|startgrepp=ja|text=Det uppenbara problemet där taket är som lägst. Starta in mot väggen och klättra till toppen.  Alla move gjorda av flera klättrare. Långt och hårt.}}
+{{problem|nr=2|namn=Nirvana|grad=7C|betyg=3|fa=Dag Knutsson|landning=3|text=Slopers, pinch, överhäng, starta i stor undercling mitt under taket. Lättaste vägen upp.}}
+{{problem|namn=(Project)|nr=3|grad=projekt|typ=Krimp,Sloper,Överhäng|fa=|landning=3|betyg=2|fadatum=|sopad=Jonas WIklund, Hans Stenlund, Linus Malm|startgrepp=ja|text=Starta som "Nirvana" men dra åt höger från den sluttande rampen. Alla move gjorda av flera klättrare. Långt men lätt.}}
+{{problem|namn=Mumana|nr=4|grad=7B+|typ=Överhäng|fa=Conny|landning=3|betyg=3|fadatum=2008-06-15|sopad=Conny|startgrepp=ja|text=Röd linje, Starta med höger hand på stor dålig list och vänster hand på låg stor list. Första movet är upp till undertagen. Klättra rakt upp. '''Variant:''' Klättra som Gud ville med naturlig stående start, 7B}}
+{{problem|nr=5|namn=Shangri-La|grad=6C|typ=Överhäng,Aréte|fa=TKAK|landning=2|betyg=3|sopad=TKAK|sittstart=ja|text=Följ aréte upp till toppen.}}
+| width="500px" |
+[[Bild:Mosjon_stora_stenen.jpg|thumb|500px|left|]]
+ {{problem|nr=7|namn=Tralla-La|grad=6A|typ=Slopers|fa=Henrik Josefsson|landning=3|betyg=1|fadatum=2008-05-09|sopad=Henrik Josefsson|sittstart=ja|startgrepp=ja|text=Sittstart. Startar på lilla skeppet på klippan som stora taket vilar på. Starta från juggen i sprickan, gå rakt upp via sloperrampen.}}
+{{problem|nr=8|namn=PN's uppvärmningsboulder|grad=5C|typ=Slopers,Mantling,Reach|fa=?|landning=3|fadatum=2008-05-11|sopad=?|sittstart=ja|uteslutningar=ja|text=Sittstart. Alla "ergonomiskt" utformade grepp är uteslutna. Klättra som boulderguden tänkte. OBS!! Undvik att använda det lösa blocket till höger på toppen.}}
+{{problem|nr=9|namn=PG's uppvärmnigsboulder|grad=5A|typ=Krimp,Mantling|fa=?|landning=3|fadatum=2008-05-11|sopad=?|sittstart=ja|uteslutningar=ja|text=Sittstart. Gå via de "ergonomiskt" utformade greppen till toppen. Alla andra grepp är off-limit. OBS!! Undvik att använda det lösa blocket till höger på toppen.}}
+|}
+{{sidbrytning}}
+
+== N. Övre väggen ==
+Välrensat och ofta klättrat problem.
+{|
+| width="350px" |
+{{problem|namn=Hyperborea|nr=1|grad=7B|typ=Tak|fa=Jonas Wiklund|landning=3|betyg=2|fadatum=|sopad=Linus Malm, Jonas Wiklund|startgrepp=ja|text=Taket under den höga väggen ovanför Stora stenen. Starta med höger hand på bra list och vänster hand i klyka. Kliv av efter ni mantlat ut på väggen ovanför taket, eller fortsätt 6-7 meter till toppen (orensat).}}
+| width="500px" |
+[[Bild:Hyperborea.jpg|thumb|215px|left|]]
+|}
+
+== O. ==
+{|
+| width="350px" |
+{{problem|nr=1|namn=Vakttornet|grad=5B||landning=1|betyg=0|fadatum=|sopad=|startgrepp=|text=Highball, med fin utsikt.}}
+{{problem|nr=2|namn=Fyrvaktaren|grad=5B||landning=1|betyg=0|fadatum=|sopad=|startgrepp=|text=Highball, Mitt på väggen, kanterna uteslutna.}}
+{{problem|nr=3|namn=Vårdkasen|grad=5B|sittstart=ja|landning=1|betyg=0|fadatum=|sopad=|startgrepp=|text=Highball, krystat med sittstart men det blev bara så!!}}
+| width="500px" |
+[[Bild:Bergstoppen.jpg|thumb|215px|left|]]
+|}
+
+== P. ==
+{|
+| width="350px" |
+{{problem|nr=1|namn=Cannahuana|grad=5B+|sittstart=ja|text=Det lilla blocket på baksidan.}}
+{{problem|nr=2|namn=Grottmannen|grad=5A|sittstart=|text=Mantling.}}
+{{problem|nr=3|namn=IL PAPA|grad=6B+|betyg=|text=Brant slab, båda kanterna är med för VH och HH.}}
+{{problem|nr=4|namn=Pro Anna|grad=6C|text=Krimp, klättra till vänster och upp till det stora sidogreppet, sedan upp till toppen.}}
+{{problem|nr=5|namn=Kubansk Snedres|grad=6B|sittstart=ja|text=Klättra sprickan upp.}}
+{{problem|nr=6|namn=Oklottrad|grad=6C|text=Klättra upp väggen mellan ''Snedres'' och ''Bitter End''.|betyg=1|}}
+{{problem|nr=7|namn=The Bitter End|grad=5C|betyg=|text=Klättra aréten upp.}}
+{{problem|nr=8|namn=Hempf Fest|grad=6A|text=Väggen med VH & HH i spricka resp kant.}}
+{{problem|nr=9|namn=Galactico|grad=6B+|text=Endast den vänstra tunna sprickan med händerna, en variant av "Hempf Fest".}}
+| width="500px" |
+[[Bild:Kubansk.jpg|thumb|300px|right|]]
+|}
+{{sidbrytning}}
+
+== Q. Snygga areten ==
+
+Den höga snygga areten är vacker men väl futuristisk. Den zig-zag formade sprickan är hyggligt rensad men det övriga är skitigt. 
+
+{|
+[[Bild:Zappatisten.jpg|thumb|400px|left|]]
+{{problem|nr=1b|namn=(Project)|grad=8?|sittstart=|betyg=|text=Futuristiskt.}}
+{{problem|nr=3|namn=Biaffra (Project)|grad=7?|sittstart=ja|betyg=1|text=Grön linje, Starta i den tunna sprickan som övergår i den stora sprickan.}}
+{{problem|nr=4|namn=Zappatisten|grad=6B+|sittstart=ja|betyg=2|text=Blå linje, Följ den stora sprickan upp till toppen.}}
+{{problem|nr=5|namn=Xpress Urself|grad=6B+|text=Den vänstra aréten upp.}}
+{{problem|nr=6|namn=Tribunalen|grad=L|betyg=|text=Klättra den stora sprickan på blockets vänstra sida.}}
+|}
+
+== R. Tunna röda pilen ==
+Välborstad och ofta klättrad.  Kommer nog tyvärr att gro igen pga vattenrinning.
+{|
+| width="350px" |
+{{problem|nr=1|namn=Den tunna röda pilen|grad=6B|betyg=2|fa=Jonas Wiklund|fadatum=2009-09-05|rensad=Ulf, Jonas Wiklund|text=Highball, klättra den långa sprickan upp till toppen. Välrensad nu, men är blöt efter regnväder, så räkna med att den växer igen lite för varje år.}}
+| width="500px" |
+[[Bild:MightyM.jpg|thumb|250px|left|]]
+|}
+
+== S. ==
+{|
+| width="350px" |
+{{problem|nr=1|namn=K-BAR|grad=6C|betyg=1|text=Den uppenbara kanten, dålig landning!!.}}
+{{problem|nr=2|namn=Pancake (Project)|grad=7?|betyg=|text=Klättra rakt upp via de pannkaksformade listerna, hylla till vänster är ej med.}}
+{{problem|nr=3|namn=Mirakel Spektakel|grad=6A|betyg=|text=Aréten upp, att kliva till höger ut på hyllan är uteslutet.}}
+{{problem|nr=4|namn=Släng Morsan av Tåget|grad=6B|betyg=1|text=Krimp, reach, aréten ingår ej.}}
+{{problem|nr=5|namn=Stretch|grad=6C+|sittstart=ja|betyg=|text=Krimp och reach, går lite till vänster, aréten är med.}}
+{{problem|nr=6|namn=Bite (Project)|grad=7?|betyg=2|text=Aréte, krimp, reach.}}
+{{problem|nr=7|namn=Inkörsporten|grad=5C|betyg=|text=Starta lägre ned på marken lite till höger om den högre marknivån till vänster. Upp till den stora greppformationen mitt på väggen, upp för kanten.}}
+{{problem|nr=8|namn=Verdens Gang|grad=6A|sittstart=ja|betyg=|text=Sloperkanter till hyllkant sedan upp.}}
+| width="500px" |
+[[Bild:Kniv-blocket.jpg|thumb|430px|left|]]
+{{problem|nr=9|namn=Smyge|grad=5C|text=Slab, krimp, mitt på väggen, kanterna ingår ej.}}
+{{problem|nr=10|namn=Nödnedgången|grad=5A|text=Slab, VH på vänstra kanten.}}
+|}
+{{sidbrytning}}
+
+== T. ==
+{|
+| width="450px" |
+[[Bild:Obscene1.jpg|thumb|270px|left|]]
+{{problem|nr=1|namn=Some Kind of Monster (Project)|grad=8?|betyg=|text=Låg start i krimp, slopers till toppen.}}
+{{problem|nr=2|namn=Hair-Raiser|grad=6C+|sittstart=ja|betyg=|text=Överhäng, krimp & slopers. Starta i sloperhyllan...Akta ryggen!}}
+| width="450px" |
+[[Bild:Obscene.jpg|thumb|320px|left|]]
+{{problem|nr=3|namn=Obscen|grad=6A+|betyg=|text=Konstigt problem! Kliv upp på sloperhylla, skicka till krimp & slopers, kliv upp...}}
+{{problem|nr=4|namn=Gloryhole|grad=5C|betyg=|text=Vägg, krimp, klättra mitt på väggen till hålet, krimp till toppen. Kanter på båda sidor ingår ej!.}}
+|}
+
+=In English=
+==Description==
+Resting on a forested hill in Mosjön, north of Örnsköldsvik, is one fantastic boulder, one quite fine boulder, and a few less interesting boulders and faces; offering high-quality steep bouldering on high-friction rock with comfortable holds.
+
+==Directions==
+Mosjön is about 20 km north of Örnsköldsvik along the E4, just south of Husum.  Take the road to '''Lilla Mosjö''' opposite to the entrance to '''Mosjön Camping'''.  Follow the gravel road 500 m and turn right on a rough logging road. Park at the turn around and walk up-hill to the boulders. See [[#Vägbeskrivning]] above for maps.
+
+==Season==
+Mid april--November
+
+==Staying there==
+There are many places to pitch the tent around the bouldering area, but no fresh-water creeks.  [http://web.telia.com/~u66015155/framsida.htm Mosjön camping] have reasonably priced cabins and a trailer park.
+{{sidbrytning}}
+
+[[Kategori:Ö-vik]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Saknar skrivarformatering]]
+[[Kategori:Ångermanland]]
+[[Kategori:Utkast]]
+[[Kategori:Engelska]]

@@ -1,0 +1,52 @@
+{{info klippa
+  |lat=58.305199
+  |long=15.845525
+}}
+
+{{komplett}}
+[[Kategori:Vertikalt]][[Kategori:Sport]]
+
+==Vägbeskrivning==
+Från Linköping åk väg 35 mot Åtvidaberg. Sväng höger mot Grebo. Ta höger mot Norrby före samhället. Passera röd ladugård öppet belägen, efter ytterligare några hundra meter parkera in på traktorväg åt vänster inne i en skogsdunge. Gå längs kanten av fälten och sedan in i skogen mot sjön. Nere vid sjön, följ den åt höger (norrut).
+
+<googlemap width=600 height=400 lat="58.305199" lon="15.845525" zoom="11" type="map" controls="small">
+58.305199,15.845525,[[Käringberget (Grebo)]]
+</googlemap>
+
+==Klippan==
+[[Bild:Karingberget-figurer-v1.0.1-2006-06-20.gif]]
+
+{{led|nr=1|namn=Ryggraden|grad=6|fa=Walter Kjell -99|typ=trad|text=Längs arêten.}}
+
+{{led|nr=2|namn=Scar Tissue|grad=6|fa=Marcus Johansson -99|typ=trad|text=Upp i diedret till taket. Ut till höger längs sprickan och sedan rakt upp. Svårsäkrad.}}
+
+{{led|nr=3|namn=Dyngrak på Fillingerakan|grad=6a+|bultar=5|fa=Stina Sterner -99|typ=sport}}
+
+{{led|nr=4|namn=Smoke on the Walter|grad=6a+|längd=15m|bultar=6|fa=Walter Kjell -99|typ=sport}}
+
+{{led|nr=5|namn=Texas|grad=6b|bultar=6|fa=Adam Rosenbaum -99|typ=sport}}
+
+{{led|nr=6|namn=Kid|grad=6b+|bultar=5|fa=Martin Perk|typ=sport}}
+
+{{led|nr=7|namn=Kid i Texas|grad=5c+|längd=17|bultar=6|fa=Martin Perk, Adam Rosenbaum, Anders Tolf -99|typ=sport}}
+
+{{led|nr=8|namn=Chuck Neris|grad=5c+|bultar=6|fa=Fredrik Neregård -99|typ=sport}}
+
+{{led|nr=9|namn=Kalashnikov|grad=6b+|bultar=5|fa=Christian Eriksson -99|typ=sport}}
+
+{{led|nr=10|namn=Finnkampen|grad=6b+|bultar=6|fa=Christian Eriksson -99|typ=sport}}
+
+{{led|nr=11|namn=Zebulon|grad=6c|bultar=6|fa=Christian Eriksson -99|typ=sport}}
+
+{{led|nr=12|namn=Snake Eyes|grad=6a|bultar=5|fa=Jens Sterner -99|typ=sport|text=Längs arêten. Vissa grepp är mycket vassa. Lite kruxigt att nå toppankaret men man kan alltid traversera vänster runt blocket om det skulle behövas.}}
+
+{{led|nr=13|namn=Bobby Peru|grad=5c|bultar=4|fa=Jens Sterner -99|typ=sport|text=Ett krux efter första bulten. Fin rejäl layback om man vill då man kommer upp till blocket.}}
+
+{{led|nr=14|namn=Bladas|grad=5b|längd=11|bultar=4|fa=Mattias Bladh -99|typ=sport}}
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]][[Kategori:vertikalt]][[Kategori:Sport]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

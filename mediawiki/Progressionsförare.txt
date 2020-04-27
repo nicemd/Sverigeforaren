@@ -1,0 +1,64 @@
+{{utkast}}
+== Vad är en progressionsförare? ==
+Det här är en kul grej. Ett sätt att ordna sveriges finaste, vackraste, mest typiska eller mest unika linjer. De ska ordnas efter den ordning man som klättrare bör bocka av dem, om man nu hade en teleporteringsapparat hemma och kunde ta sig dit man ville på nolltid. Det betyder att det inte nödvändigtvis är graden som sätter ordningen - en gradmässigt hårdare led kan vara välsäkrad och lämplig att ge sig på tidigare än en mer seriös men lättare tur, till exempel.
+
+== Sveriges finaste linjer ==
+<br>
+{{led|namn=Ättestupan|grad=5b|typ=sport|fa=[[Andreas Harne]] [[2003|-03]]|betyg=3|längd=20m|text=Trevlig, välbultad led. För graden exponerad och fin klättring.}}
+{{ledlänk|klippa=bistaberget|namn=Ättestupan}}, [[Bistaberget]], [[Södermanland]]
+<br><br>
+{{led|namn=Vita Leden genom dödlarshålet|grad=4-|typ=trad|längd=40|fa=[[Rickard Strand]], [[Tommy Nilsson]] [[1976]]|text= Följ Vita leden-sprickan och sväng sedan vänster in under ett tak. Klättra in i grottan och gör stand. Andra replängden går ut genom grottan på andra sidan och upp på väggen. Välsäkrad med kilar.|betyg=3}}
+{{ledlänk|klippa=Dödlarsberget|namn=Vita Leden genom dödlarshålet}}, [[Dödlarsberget]], [[Norrbotten]]
+<br><br>
+{{led|namn=Luftiga steget|grad=5-|betyg=3|längd=15
+ |typ=trad|text=Exponerad, skön och välsäkrad. Kalasled i sin grad|fa=}}
+{{ledlänk|klippa=Utby|namn=Luftiga steget}}, [[Utby]], [[Göteborg]]
+<br><br>
+{{led|namn=Heta Linjen|grad=5|typ=mix|fa=[[Tommy Nilsson]], [[Chris Craggs]] [[1978]]|längd=110|betyg=3|text=Rösås finaste led som går i en rak linje över ett av bergets högsta och brantaste partier. Ofta klättrad. Klättras vanligtvis i 3 replängder. Sista replängden är minnesvärd. Andra replängden kan upplevas som lite svårsäkrad. Nästan ingen mossa och kompakt klippa. Gemensam start med bultleden.}}
+{{ledlänk|klippa=Rösås|namn=Heta Linjen}}, [[Rösås]], [[Ångermanland]]
+<br><br>
+{{led|namn=Spagaten|grad=5+|betyg=3|längd=20
+ |typ=trad|text=|fa=}}
+{{ledlänk|klippa=Utby|namn=Spagaten}}, [[Utby]], [[Göteborg]]
+<br><br>
+{{led|namn=Bananblocket|grad=6-|betyg=3|längd=20
+ |typ=trad|text=Vacker linje.|fa=}}
+{{ledlänk|klippa=Fjällbo|namn=Bananblocket}}, [[Fjällbo]], [[Göteborg]]
+<br><br>
+{{led|namn=Mörkret faller – ljuset stiger|grad=6-/6|betyg=3|längd=32|fa=M Ryden|bultar=|typ=trad|text=Jämn och mycket fin klättring ända till toppen. Omväxlande och mer teknisk än tung. Balansig i början. Välsäkrad.}}
+{{ledlänk|klippa=Ågelsjön|namn=Mörkret faller – ljuset stiger}}, [[Ågelsjön]], [[Östergötland]]
+<br><br>
+{{led|namn=Mallorol|grad=6-|betyg=3|längd=35|fa=Jan Liliemark, Björn Holmgren|bultar=|typ=trad|text=Klassiker på ett mäktigt berg.}}
+{{ledlänk|klippa=Häller|namn=Mallorol}}, [[Häller]], [[Bohuslän]]
+<br><br>
+{{led|namn=Villskudd|grad=6-|betyg=3|längd=40|fa=Rune Thrap-Meyer, Ulf Geir Hansen, Håkon Staver, Dag Kolsrud|bultar=|typ=trad|text=Varierad, ihållande. Jam, undercling, travers - allt. En av sveriges finaste 6-.}}
+{{ledlänk|klippa=Välseröd|namn=Villskudd}}, [[Välseröd]], [[Bohuslän]]
+<br><br>
+{{led|namn=Tuborg|grad=6+|betyg=3|längd=20
+ |typ=trad|text=Superklassiker och test-piece för 6+ klättrare.|fa=}}
+{{ledlänk|klippa=Utby|namn=Tuborg}}, [[Utby]], [[Göteborg]]
+<br><br>
+{{led|namn=Halvvägs till himmelen|grad=6|typ=trad|längd=28|betyg=5|fa=[[Jens Åström|J. Åström]] [[2003|-03]]|text=Första replängden är en av Sveriges finaste spricklinjer.}}
+{{ledlänk|klippa=Offerhällan|namn=Halvvägs till himmelen}} [[Offerhällan]], [[Lappland]]
+<br><br>
+{{led|namn=Mefisto|grad=7|betyg=3|längd=22
+ |typ=sport|text=Mycket vacker linje, ihållande. Hade troligen varit en trad-klassiker om den inte legat i ett sportområde.|fa=}}
+{{ledlänk|klippa=Hylteberget|namn=Mefisto}}, [[Hylteberget]], [[Göteborg]]
+<br><br>
+{{led|namn=Wild thing|grad=7a+|typ=sport|längd=15|fa=[[Kari Nikkuma]] [[1996]]|text=Klassiskt jugrally.|betyg=3}}
+{{ledlänk|klippa=Niemisel|namn=Wild thing}}, [[Niemisel]], [[Norrbotten]]
+<br><br>
+{{led|namn=Hugga|grad=7|betyg=3|längd=45
+ |typ=trad|text=Första replängden följer en brant, oförlåtande och pumpande spricka, andra replängden en greplös öppen bok. Fantastisk|fa=}}
+{{ledlänk|klippa=Blåberget|namn=Hugga}}, [[Blåberget]], [[Västerbotten]]
+<br><br>
+{{led|namn=Trampoline|grad=7|betyg=3|längd=30
+ |typ=trad|text=}}
+{{ledlänk|klippa=Häller|namn=Trampoline}}, [[Häller]], [[Bohuslän]]
+<br><br>
+{{led|namn=Joshua|grad=8-/8|betyg=3|längd=12
+ |typ=trad|text=Händer och knytnävar i takspricka som övergår till en ''brant'' spricka.|fa=}}
+{{ledlänk|klippa=Välaberget|namn=Joshua}}, [[Välaberget]], [[Jämtland]]
+<br><br>
+{{led|namn=Better burn out than fade away|grad=7c+|typ=sport|längd=27|fa=[[Kari Nikkuma]] [[1996]]|text=Bättre än så här blir inte sportklättring, finaste leden i Niemisel.|betyg=3}}
+{{ledlänk|klippa=Niemisel|namn=Better burn out than fade away}}, [[Niemisel]], [[Norrbotten]]

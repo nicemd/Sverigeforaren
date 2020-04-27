@@ -1,0 +1,294 @@
+{{info klippa
+  |lat=58.68110
+  |long=16.10570
+}}
+
+{{utkast}}
+
+== Allmänt ==
+Ett härligt område med mycket klättring, men också en vacker badsjö med dykklippor och stränder, fina campingmöjligheter och smidig anmarsch. Lämpar sig även utmärkt för den som reser med kompisar eller familj som inte klättrar, eftersom det finns så mycket annat att göra. Många av klipporna är barnvänliga.
+
+==Karta==
+<googlemap width=350 height=300 lat="58.67454" lon="16.12198" zoom="11" type="map" controls="small">
+58.68110,16.10570,Ågelsjön, Stora väggen
+58.67750,16.11770,Ågelsjön, Lilla berget
+58.67454,16.12198,Ågelsjön, Parkering
+</googlemap>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=agelsjon}}
+
+Ett pågående naturreservatsprojekt kan få konsekvenser för klättringen. Visa hänsyn när ni är där!
+
+== Logi ==
+Mellan parkeringen och lilla berget finns gott om tältplatser. Där finns också eldstad och soptunna. mer avskilda platser hittar du om du följer stigen längs sjön efter lilla berget. Tältning vid fotbollsplanen rekommenderas EJ om man inte är förtjust i knott.. 
+
+
+{{tryckt förare|klättring vid ågelsjön (1995)=ja|klättring i sverige (1996)=ja|klättring i östergötland (2011)=ja}}
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+== Leder ==
+<div style="float:right;">
+[[Bild:Ågelsjön.jpg]]</div>
+Klättringen i ågelsjön är utspridd på ett stort antal väggar med olika karaktär. <br>
+A-lagsväggen, B-lagsväggen, Drakväggen, Volxväggen, Surfväggen, Ravinväggen och Östväggen ligger utspridda på "Fotbollsberget" eller Borgarberget, som ligger norr om fotbollsplanen.<br>
+Längs stigen utmed sjön hittar man först Lilla berget, flankerat av Röda Oktoberväggen till höger och divaväggen till vänster.<br>
+Följer man sedan stigen vidare längs sjön kommer man så småningom till Stora väggen. Ovanför den ligger svaplattan och bortom den dels några tvärväggar, dels sjöklippan.
+
+==== Fotbollsberget  ====
+Fotbollsberget eller Borgarberget som det egentligen heter ligger precis norr om den gamla fotbollsplanen. Här finns en hel del fina leder, och det är ofta "ledigt" även när lilla berget är täckt av topprep och körna ringlar långa vid stora berget och svaplattan.
+====== Drakväggen ======
+Drakväggen ligger precis över vägen från fotbollsplanens nordvästra hörn. Lätt att känna igen på den inristade draken.
+[[Bild:Väggdrake.jpg]]
+
+Här går tre mycket fina bultade svaleder. Från vänster till höger:
+
+{{led|nr=1|namn=Bussiga Leffe|grad=5-|betyg=2|längd=10|fa=[[M Lund]] [[1992|-92]]|bultar=4|typ=sport|text=Ankare med två borrbultar. Träd att fira från.}}<br>
+{{led|nr=2|namn=Edelmans dream team|grad=6-|betyg=2|längd=10|fa=[[U Åkesson]] [[1992|-92]]|bultar=3|typ=sport|text=Första bulten känns långt borta. I synnerhet som det finns en elak sten att falla på.}}<br>
+{{led|nr=3|namn=Asym air|grad=6-|betyg=2|längd=10|fa=[[F Axelsson]] [[1992|-92]]|bultar=4|typ=sport|text=Fin lagom känslig svaklättring med klipp från bra positioner.}}<br>
+
+====== A-lagsväggen ======
+A-lagsväggen ligger till höger och ovanför drakväggen. Leder i grad 6 till 8+. Bultningen är inte överdrivet tät.
+
+{{led|namn=Soderleden|grad=6-|längd=|fa=|typ=}}
+
+{{led|namn=E4-an|grad=7-|betyg=3|längd=20|fa=[[P Welin]] [[1991|-91]]|bultar=4|typ=mix|text=Finns kedja för toppsäkring.}}
+
+{{led|namn=66-an|grad=7-|längd=20|fa=[[Fredrik Schlyter]]|bultar=4|typ=mix}}
+
+{{led|namn=Autobahn|grad=6|betyg=3|längd=20|typ=trad|text=Respektingivande linje som dock är rolig och välsäkrad.}}
+
+{{led|namn=Anglaporten|grad=6|längd=20|fa=[[Fredrik Schlyter]]|typ=mix}}
+
+{{led|namn=Super Mario|grad=7+|längd=|fa=|typ=}}
+
+{{led|namn=Rank Xerox|grad=7+|längd=|fa=|typ=}}
+
+{{led|namn=trollslandan|grad=8|längd=|fa=|typ=}}
+
+{{led|namn=Smaug|grad=8|längd=|fa=|typ=}}
+
+{{led|namn=Gandalf|grad=6|längd=20|fa=[[Fredrik Schlyter]]|typ=trad}}
+
+{{led|namn=Stairways to heaven|grad=8|längd=|fa=|typ=}}
+
+{{led|namn=Zappodbebbelbrock|grad=8-|längd=|fa=|betyg=4|typ=}}
+
+====== B-lagsväggen ======
+B-lagsväggen ligger till höger om A-lagsväggen och har, som namnet antyder, lite lättare leder än den förra.
+
+{{led|namn=Sanna|grad=5|längd=10|fa=[[Fredrik Schlyter]]|typ=trad|text=Det bor en aggresiv halvmeter lång huggorm i den fina sprickan (våren 2008).}}
+
+{{led|namn=Desperate Reality|grad=6|betyg=2|längd=15|typ=trad|text=Fräck linje med en del layback och jam. Inte helt lättsäkrad men det går.}}<br>
+
+
+====== Volxväggen ======
+Går du upp till höger om B-lagsväggen hittar du en låg överhängande klippvägg. Det är Volxväggen. Korta boulderartade leder.
+====== Surfväggen ======
+Ta till vänster vid Volxväggen så kommer du till Surfväggen.<br>
+{{led|namn=Silversurfaren|grad=7|betyg=3|längd=9|fa=[[P Welin]] [[1991|-91]]|bultar=3|typ=sport|text=Tung och teknisk. Har numer ankare.}}
+
+{{led|namn=LA Woman|grad=5|betyg=2|längd=10|fa=[[O Johansson]] [[1991|-91]]|bultar=4|typ=sport|text=Följ den tydliga diagonalen. Mantla upp på hyllan där du får ett avbrott i en annars fin led. Ytterligare två bultar och ankare.}}
+
+{{led|namn=Bamse|grad=6|fa=M Lund/ S Ward|bultar=4|typ=mix}}
+
+{{led|namn=Tjej-leden|grad=6-/6|fa=[[Sanna Akerlund]]/ [[Milka Nilsson]][[1992|-92]]|bultar=2|typ=mix}}
+
+{{led|namn=Psykedeliska polkagrisar|grad=5-|typ=trad|fa=[[J Martensson]]}}
+
+{{led|namn=Flyktiga polkagrisar|grad=4+|typ=trad|fa=[[A Rydén]]}}
+
+{{led|namn=Tombstone blues|grad=6/6+|typ=mix|fa=[[O Johansson]][[1991|-91]]}}
+
+{{led|namn=Bamse|grad=6|typ=|fa=[[M Lund]]/[[S Ward]][[1992|-92]]}}
+
+{{led|namn=Skalman|grad=7-|typ=mix|fa=[[S Ward]][[1993|-93]]}}
+
+{{led|namn=Punisher|grad=7|typ=mix|fa=[[P Welin]][[1991|-91]]}}
+
+====== Ravinväggen ======
+[[Bild:Ågelsjön_ravinväggen.jpg|thumb|200px|Ravinväggen]]
+Ovanför Surfväggen ligger en trång ravin. Det är (surprise) Ravinväggen. Leder i grad 6 til 8.<br>
+
+{{led|namn=To bult or not to be|grad=6|typ=mix|fa=[[Fredrik Schlyter]][[1991|-91]]}}
+
+{{led|namn=Ragnarök|grad=6|betyg=2|längd=10|fa=[[P Welin]] [[1990|-90]]|bultar=1|typ=mix}}
+
+{{led|namn=Frifall|grad=6|typ=mix|fa=[[Fredrik Schlyter]][[1991|-91]]}}
+
+{{led|namn=Felicia|grad=6-|betyg=3|längd=10|fa=[[C Johnsson]] [[1992|-92]]|bultar=4|typ=sport|text=Väggklättring på bra grepp (men bara om man tar dom rätt.) Ankare.}}
+
+{{led|namn=En dans på rosor|grad=8|betyg=2|längd=12|fa=[[Fredrik Schlyter]] [[1992|-92]]|bultar=3|typ=mix}}
+
+{{led|namn=Ängladans|grad=7+/8-|betyg=4|längd=12|fa=[[Fredrik Schlyter]] [[1992|-92]]|bultar=5|typ=sport}}
+
+{{led|namn=Dark side|grad=7+|betyg=|längd=|fa=[[M Carstens]][[1992|-92]]|bultar=|typ=}}
+
+{{led|namn=Ensamma mans Drommar|grad=6|betyg=|längd=|fa=[[K Johansson]][[1993|-93]]|bultar=|typ=}}
+
+{{led|namn=Time is an ocean|grad=6+|betyg=|längd=|fa=[[J Rasmussen]][[1993|-93]]|bultar=|typ=}}
+
+{{led|namn=Skaka galler|grad=6-/6|betyg=|längd=|fa=[[P Karlsson]][[1993|-93]]|bultar=|typ=}}
+
+==== Lilla berget och där omkring ====
+[[Bild:Ågelsjön_lilla.jpg|thumb|300px|Lilla berget]]<br>
+[[Bild:32192 397548624155 746994155 4408368 675168 n.jpg|thumb|200px|Lilla berget]]<br>
+"Lilla berget" är den första lodräta klippväggen om man följer stigen efter sjön. Mycket topprep fina dagar. Många vandrare som stannar och tittar.
+
+====== Lilla berget ======
+
+{{led|namn=Skitsprickan|grad=4|betyg=1|längd=11|fa=|bultar=|typ=trad|text=Finare klättring än namnet antyder. Välsäkrad och perfekt som introduktion till att leda på kil. }}
+
+{{led|namn=Röda tår|grad=6b|betyg=1|längd=11|fa=|bultar=3|typ=sport|text=Ett förnedrande instegskrux, sedan fin väggklättring upp till urtoppningen som är det verkliga kruxet.}}
+
+{{led|namn=Ranger Danger|grad=6|betyg=|längd=10|fa=[[M Sribhadung]] [[1988|-88]]|bultar=|typ=trad|text=Inte ser denna tydliga spricka ut som en sexa sedd nedifrån, men väl på väggen inser du att den håller sin grad...}}
+
+{{led|namn=Tuborg|grad=6|betyg=3|längd=10|fa=[[P Welin]] [[1988|-88]]|bultar=3|typ=mix}}
+
+====== Divaväggen ======
+Divaväggen är lilla bergets fortsättning till vänster.
+
+{{led|namn=Tequila Tango|grad=5/5+|fa=[[Fredrik Schlyter]]|bultar=3|typ=sport}}
+
+{{led|namn=Raggiga Rune|grad=5-|fa=[[B Bagmark]]|typ=trad}}
+
+{{led|namn=Divaleden|grad=5|betyg=2|längd=11|fa=|bultar=|typ=trad}}
+
+{{led|namn=Nollan|grad=6-/6|betyg=|längd=11|fa=|bultar=4|typ=sport}}
+
+====== Röda oktoberväggen ======
+Röda oktoberväggen är Lilla bergets fortsättning till höger.
+
+{{led|namn=Röda oktober|grad=6-/6|betyg=3|längd=10|fa=[[P Karlsson]] [[1991|-91]]|bultar=3|typ=sport}}<br>
+
+====== Borrbultspartiet ======
+Borrbultspartiet ligger bortom och ovanför Divaväggen.
+
+{{led|namn=Guteblandning|grad=6|betyg=|längd=|fa=[[M Carstens]][[1992|-92]]|bultar=|typ=trad}}
+
+{{led|namn=Jack the ripper|grad=5-|betyg=|längd=|fa=|bultar=|typ=trad}}
+
+{{led|namn=Moon walk|grad=6+/7-|betyg=|längd=|fa=[[Fredrik Schlyter]][[1991|-91]]|bultar=|typ=}}
+
+{{led|namn=Tao Trip|grad=7+/8-|betyg=|längd=|fa=[[O Kylstam]][[1991|-91]]|bultar=|typ=mix}}
+
+{{led|namn=Bultande Kärlek|grad=7|betyg=|längd=|fa=[[Fredrik Schlyter]][[1992|-92]]|bultar=|typ=}}
+
+{{led|namn=Borrbult är livet|grad=7-|längd=|betyg=4|fa=[[P Welin]][[1987|-87]]|typ=}}
+
+{{led|namn=Tvärsprickan|grad=6+|betyg=|längd=|fa=[[O Kylstam]][[1990|-90]]|bultar=|typ=trad}}
+
+{{led|namn=Muppsprickan|grad=5+|betyg=|längd=|fa=|bultar=|typ=trad}}
+
+{{led|namn=Anonym|grad=4|betyg=|längd=|fa=|bultar=|typ=trad}}
+
+==== Bokskogsväggen  ====
+En bit bortom lilla berget ligger "Bokskogsväggen" i nästan ständig skugga.
+
+==== Stora Väggen och där omkring ====
+Till Stora Väggen kommer du genom att följa sjön från lilla berget. Anmarchen ca 15-20 minuter. Du märker när du är framme...
+====== Stora Väggen ======
+En imponerande vägg med härlig väggklättring. Det kan ta ett tag innan lederna torkar efter regn.
+
+{{led|namn=Jacobs Stege|grad=8+|längd=|fa=|typ=}}
+
+{{led|namn=Route 66|grad=9-/9|längd=|fa=|typ=}}
+
+{{led|namn=Falleben|grad=6|längd=|fa=|typ=}}
+
+{{led|namn=Copperhead road|grad=6|längd=|fa=|typ=}}
+
+{{led|namn=Crack|grad=7|längd=|fa=|typ=}}
+
+{{led|namn=Mescalin trip|grad=7|längd=|fa=|typ=}}
+
+{{led|namn=Shoot man shoot|grad=6-/6|längd=25|fa=[[Patrik Leje]]|bultar=1|typ=mix|text=Bjuder på lite motstånd redan innan taket. Taket är säkrat med en bult. Resten av leden ovanför taket kan vara lite skitig.}}
+
+{{led|namn=Tillägnad prinsessan|grad=6-|längd=|fa=|typ=}}
+  	
+{{led|namn=Lynnard Skynnard|grad=5|betyg=3|längd=21|fa=|bultar=1|typ=mix|text=Borrbultad start leder upp till fin spricka, som dock kan klättras runt om man ogillar jam. Passera ett flak för att komma till ett ankare med två bultar och kätting. Rekommenderas varmt.}}
+
+{{led|namn=Lynnard Direkt|grad=6/6+|längd=|fa=|typ=mix|text=Fortsätt rakt upp från standplatsen på Lynnard Skynnard, via 1st borrbult, sen Trad-spricka (något svårsäkrad bitvis) till borrbultat toppankare, görs givetvis i ett svep från marken, ca 40meter!}}
+
+{{led|namn=Tung Gung|grad=6|längd=|fa=|typ=trad|text=Utsteg från Lynnard via den stora diederformationen.}}
+
+{{led|namn=Take a trip in the air|grad=6-|längd=22|fa=[[F Schlyter]]|typ=trad|text=Delar insteg med Lynnard Skynnard, fortsätter sedan upp i spricka till höger och upp till ankaret på Lavskägge. Fin sprickklättring men verkar sällan besökt - mossig (Aug 2007)!}}
+
+{{led|namn=Lavskägge|grad=7-/7|betyg=3|längd=21|fa=[[P Welin]]|bultar=10|typ=sport|text=Borrbultad väggklättring. Tung start och avslutning. Ankare med två bultar och kedja.}}
+
+{{led|namn=Lavskägge - direkt|grad=7+|längd=10|fa=|typ=|text=Fortsätt rakt upp från Lavskägges ankare.}}
+
+{{led|namn=Mörkret faller – ljuset stiger|grad=6-/6|betyg=3|längd=32|fa=M Ryden|bultar=|typ=trad|text=Jämn och mycket fin klättring ända till toppen. Omväxlande och mer teknisk än tung. Balansig i början. Välsäkrad. Våren 2012 föll en sten bort i början som antagligen kommer göra leden lite svårare, typ grad 6}}
+
+{{led|namn=Prostetnic vogon jeltz|grad=7-/7|betyg=|längd=21|fa=[[O Welin]]|bultar=5|typ=sport|text=Bultlinjen till höger om Mörkret faller. Ankare.}}
+
+{{led|namn=Silmarillion|grad=7-|betyg=|längd=21|fa=[[P Welin]]|bultar=|typ=mix|text=Sprickklättring till höger om Prostetnic. Sprickan har några inslagna pitonger, i övrigt kilsäkrad. Samma ankare som Prostetnic.}}
+
+{{led|namn=Free bird|grad=6-/6|betyg=|längd=30|fa=[[O Kylstam]]|bultar=|typ=trad}}
+
+{{led|namn=Rode Orm|grad=8|längd=|fa=|typ=}}
+
+{{led|namn=Mowgli|grad=6|betyg=|längd=25|fa=[[Patrik Leje]]|bultar=2|typ=mix Knepigt insteg resten typ 5/5+ klättring}}
+
+{{led|namn=Phantom|grad=6|betyg=3|längd=20|fa=[[P Welin]]|bultar=|typ=mix}}
+
+====== Svaplattan ======
+Till höger (och ovanför) stora väggen. Soligt och snabbtorkat. Du kommer hit genom att klättra insteget på {{ledlänk|namn=La sportiva}} (4) eller genom att fira uppifrån. Det finns bra ankare för topprep.
+
+{{led|namn=Rotsprickan|grad=5-|betyg=|längd=|fa=|bultar=|typ=trad}}
+
+{{led|namn=Dubbelsprickan|grad=5-|betyg=1|längd=18|fa=|bultar=|typ=trad|text=Mer ihållande än rotsprickan.}}
+
+{{led|namn=Sweet Jane|grad=5|betyg=1|längd=18|fa=|bultar=4|typ=sport}}
+
+{{led|namn=La Spotiva|grad=7-|betyg=1|längd=25|fa=|bultar=5|typ=sport}}
+
+====== Gammbultspartiet  ======
+Gammbultspartiet ligger till höger om stora väggen, och leder upp mot svaplattan.
+
+{{led|namn=Gammbulten|grad=4+/5-|betyg=|längd=|fa=|bultar=|typ=trad|text=Ett alternativ till {{ledlänk|namn=La sportiva}} för den som vill upp till svaplattan. Några kruxiga etapper med avsatser mellan. Rejält mossig (2007)}}
+{{led|namn=La sportiva|grad=7-|typ=mix|text=Kilsäkrad fyraklättring upp till svaplattan, sedan bultad 6b+}}
+
+====== Valhallväggen ======
+Här ligger några leder i 4/5-registret. Graniten är inte snäll mot fingrarna.<br>
+
+
+==== Sjöklippan ====
+{{led|namn=Flaket|grad=4|typ=trad|text=Simma till insteget och sola upp?}}
+
+====  Ostväggen ====
+
+==== Musväggen  ====
+
+==== Joshuaväggen  ====
+
+==== Traskväggen  ====
+
+==== Nordväggen  ====
+
+==== Boulderväggen  ====
+
+==== Triangelväggen  ====
+
+==== Bermudaväggen  ====
+
+==== Tvarväggen  ====
+
+==== Ovre isväggen  ====
+
+==== Undre isväggen  ====
+
+
+[[Kategori:Norrköping]]
+[[category:Barnvänligt]]
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:Vertikalt]]
+[[Kategori:Sva]]
+[[Kategori:DWS]]
+[[Kategori:Is]]
+[[Kategori:Östergötland]]
+[[Kategori:Barnvänligt]]

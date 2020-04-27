@@ -1,0 +1,71 @@
+{{info klippa
+  |lat=59.35422
+  |long=18.12936
+}}
+
+{{komplett}}
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Lidingö]]
+[[Kategori:Stockholm]]
+
+==Allmänt==
+Klippa på Lidingö mittemot Värtahamnen. Den är låg (6-7m) men turerna är koncentrerade och underhållande. Klippan har ett antal korta, svagt överhängande problem. Samtliga turer är borrbultssäkrade. Några av borrbultarna är målade i ett försök att få dem att smälta in i klippans färg. Se upp med barr på utstegen vid stora tallen, det kan löna sig att borsta dessa utsteg innan de klättras.
+
+==Miljö==
+Sydvästvänd, relativt öppet.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.355596" lon="18.131647" type="map" zoom="15" width="375" height="275" overview="yes" controls="small">
+59.35422, 18.12936, [[Baggeby]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Baggeby
+lat=18129360
+long=59354220
+</slresa>
+</div> 
+
+Åk till bostadsområdet Baggeby (se kartan. Leta reda på Farkostvägen 8. Mittemot detta hyreshus leder en tydlig grusstig ned mot vattnet. Följ denna i högerböj i ca 3 minuter. Klippan ligger på h sida i en liten slänt.
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Leder==
+[[Bild:baggeby.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Ny 1|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=1|namn=Resonator|grad=6b+|betyg=|längd=8|fa=[[Göran Wennerbrant]], [[Claes Jelinek]] -93|bultar=2|typ=sport}}
+
+{{led|nr=2|namn=Subtil irreversibilitet|grad=7b|betyg=|längd=8|fa=[[Claes Jelinek]] -94|bultar=3|typ=sport}}
+
+{{led|nr=3|namn=Riding with the wrong guy|grad=7c|betyg=|längd=8|fa=[[Stefan Ösund]] -94|bultar=3|typ=sport}}
+
+{{led|nr=4|namn=Klifingertango|grad=7a+|betyg=|längd=7|fa=[[Claes Jelinek]], [[Göran Wennerbrant]] -93|bultar=3|typ=sport}}
+
+{{led|nr=5|namn=Tarmterapeuten|grad=6c+|betyg=|längd=7|fa=[[Claes Jelinek]], [[Göran Wennerbrant]] -93|bultar=3|typ=sport|text=Starta med Klifingertango sedan höger vid andra bb}}
+
+| width="300px" |
+
+{{led|nr=|namn=Ny 2|grad=7b+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Starta med Klifingertango sedan höger vid första bb}}
+
+{{led|nr=6|namn=Fjärt i värtan|grad=6b|betyg=|längd=7|fa=[[Göran Wennerbrant]], [[Claes Jelinek]] -93|bultar=2|typ=sport}}
+
+{{led|nr=7|namn=Kapten Stört|grad=7a|betyg=|längd=7|fa=[[Claes Jelinek]], [[Göran Wennerbrant]] -93|bultar=2|typ=sport}}
+
+{{led|nr=8|namn=Fis i vinden|grad=6a+|betyg=|längd=6|fa=[[Göran Wennerbrant]], [[Claes Jelinek]] -93|bultar=2|typ=sport}}
+
+{{led|namn=Ny 3|grad=6a+|betyg=|längd=|fa=[[Johan Luhr]]|bultar=|typ=sport|text=Utan stenen}}
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}

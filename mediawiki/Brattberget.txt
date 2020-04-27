@@ -1,0 +1,190 @@
+{{utkast}}
+{{info klippa
+  |lat=62.329806
+  |long=17.426977
+}}
+
+[[Bild:Brattberget.jpg|thumb|400px|right|Anne & Linda klättrar Skrubben i norrländsk kvällsol. Foto: [[Användare:Peblin|Per Lindh]]]]
+
+==Allmänt==
+En handfull klippor på stranden. Klättringen är huvudsakligen mixad, med både egna kilar och stödbultar. Sedan en tid tillbaka rustas klippan successivt av Sundsvalls klätterklubb och den bjuder nu även på mycket fina sportturer & tradleder. Brattberget har ca 60 leder av varierande kvalité.
+
+==Karaktär==
+[[Bild:Onda_vibrationer_olof_bjerke.jpg|150 px|thumb|Klättrare på Onda vibrationer, 6+. Brattberget.<br>
+Foto: Christian Gulliksson.]]
+Brattberget är ett berg som utvecklades på den tiden när män var män och klättrare mera män. Flera av lederna gjordes med marginella egentillverkade säkringar och lederna kan inte sägas vara den mest välsäkrade med dagens mått mätt. 
+
+Då detta gjort att många fina men livsfarliga leder i 5/6-registret mossat igen har Sundsvalls klätterklubb påbörjat en omsorgsfull ombultning av klippan för att göra några av de insomnade lederna tillgängliga för en bredare publik. Brattberget bjuder därför numera på ett antal mycket fina helbultade sportleder & tradleder och de gamla klassikerna har fått (och får) nya fräscha ankare. 
+
+Några av lederna på Brattberget är av mixkaraktär där du behöver några kilar och sen får resten bultat. Eller tvärtom. Många leder har toppankare eller närliggande ankare (även tradklassikerna som t.ex. Skrubben) som går att komma åt uppifrån. Ta med några långa slingor om du vill toppa.
+
+Crimpar utgör de flesta greppen och det finns också någon enstaka spricka. Lutningen på väggarna är just under 90 grader.
+{{clear}}
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="62.351521" lon="17.368698" width="300" height="200" type="map" zoom="10">
+62.329806, 17.426977
+</googlemap></div>
+
+Från Sundsvall kör man söder ut till Kvissleby, ca 15km. Vid trafikljusen tar man vänster mot Essvik. Kommer man på E4 söderifrån kör man förbi Kvissleby centrum (som man har på höger sida), och svänger höger vid trafikljusen.
+
+Kör över Ljungan och ta vänster direkt efter bron. Kör igenom Essvik och Stockstrand och fortsätt tills du når några cisterner. Ett par hundra meter efter cisternerna går en liten vägsnutt in till vänster - kör in på den och parkera i dungen. Följ sen stigen över berget till vindskyddet - drygt 5 minuters anmarch. Själva klippan ligger sydost om vindskyddet - eller till höger om det när man kommer från parkeringen.
+
+För att ta sig ner till klippan finns det (förutom firning) två vägar. Antingen:
+* Gå ganska direkt ut mot vattnet snett höger ner från vindskyddet. Du kommer då till en stor, blockig nedstigningsränna som du kan scrambla ner i med viss försiktighet. Eller,
+* Följ stigen som går ovanpå klippan och tar dig längst bort på stora väggen. Där finns fasta rep som hjälper dig nedför stigen ner till insteget på '''Over the top'''. Denna väg rekommenderas för förstagångsbesökaren.
+
+==Miljö==
+Östvänt och nära havet. På grund av detta så startar säsongen här ganska sent, men mitt i sommaren är det underbart svalt och skönt. Skulle det ändå vara för varmt så kan man ta sig ett dopp mellan lederna.
+{{sidbrytning}}
+==Camping==
+[[Bild:DSC 0001 as Smart Object-1 copy.jpg|thumb|300px|right|Foto av vindskyddet vid Brattberget. Foto:Olof Bjerke]]
+Det finns bra möjligheter till övernattning vid vindskyddet på bergets topp. Det kan vara klurigt att hitta bekväma tältplatser så ta med ett myggnät och sov i vindskyddet. 
+
+I närheten av vindskyddet finns också dass. Vatten får man bära med sig.
+{{clear}}
+
+==Leder==
+[[Bild:Brattberget_oversikt.png|center]]
+Lederna på Brattberget är uppdelade på sex stycken väggar. Vill man fira ner finns det bra ankare på i stort sett alla väggar, utom möjligen Vikingaväggen som är lite svår att komma åt uppifrån.
+
+Lederna nedan anges från vänster till höger. Flera leder (i synnerhet på Stora väggen) har en sten vid starten med ledens namn. Rena sportturer har här graderats med fransk gradering medans trad & mix leder har graderats med svensk gradering.
+
+===Stora väggen===
+[[Bild:Brattberget_storv.jpg|thumb|400px|right|Första 3-4 lederna på stora väggen. Leden mitt i bild är Halvrobban.]]
+
+Stora väggen ligger ovanför alla andra klippor och är den enda som inte har direkt strandkontakt. Du tar dig hit lättast genom att följa stigen ovanpå berget, och gå ner på stigen som tar dig till Over the top. Det är inga problem att sen ta sig ner till de andra klipporna på stranden.
+
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Over the top|grad=6a|typ=sport|gruv=a|längd=15|längd=15|bultar=?|fa=[[Mattias Andersson]] [[1992]]|text=Ombultad 2008. Har flera bultar än tidigare och nytt ankare.|betyg=1}}
+{{led|namn=Raka spåret till Chicago|grad=5b|gruv=a|typ=sport|längd=20|bultar=6|fa=[[Robert Ericson]] [[1989]]|text=Mycket fin väggklättring. Leden har fått nya bultar och är nu en ren sporttur. Firningsankare.|betyg=1}}
+{{led|namn=Halvrobban|grad=6a+|gruv=a|typ=sport|längd=20|bultar=7|fa=[[Daniel Nordström]] [[1991]]|text=Följer först flaksprickan, därefter känslig väggklättring. Fin. Ombultad 2008 och nu en ren sporttur. Ankare.|betyg=3}}
+{{led|namn=Död åt TSV|grad=6|gruv=c/d|typ=trad|längd=20|bultar=|fa=[[Daniel Nordström]] [[1993]]|text=överhäng i starten och sedan en spricka. Svårsäkrad.|betyg=}}
+{{led|namn=Bapu|grad=6-|gruv=b|typ=mix|längd=20|bultar=2|fa=[[Patric Backlund]] [[1992]]|text=|betyg=}}
+{{led|namn=Fyrvaktaren|grad=6-|gruv=a|typ=trad|längd=20|bultar=|fa=[[Johan Hedman]] [[2010]]|text=Följer en tydlig spricka. Bultat ankare.|betyg=2}}
+{{led|namn=Nebula|grad=5a|gruv=a|typ=sport|längd=20|bultar=9|fa=[[Pär Åslund, Johan Hedman]] [[2010]]|text=Start i diedret till vänster om Berkaleden sedan utsteg lite vänster mot det mörka hålet. |betyg=2}}
+{{led|namn=Berkaleden|grad=6-/6|gruv=b|typ=mix|längd=|bultar=5|fa=[[Kenth Bergquist]] [[1991]]|text=Börjar till höger om arêten. Mixad fin led|betyg=1}}
+{{led|namn=Memsahib|grad=5b+|typ=sport|längd=15|bultar=7|fa=[[Michael Collins]] [[2013]]|text=Följer flakformationer strax höger om Berkaleden. Ankare |betyg=1}}
+{{led|namn=Storm|grad=6+|gruv=b|typ=trad|längd=|bultar=|fa=[[Kenth Bergquist]] [[1992]]|text=Följer ett spricksystem. Dåligt säkrad på slutet.|betyg=}}
+{{litentext|text=Här börjar en stor tydlig "flakformation" som slutar 15-20 meter upp med en hylla. På hyllan slutar både Vängåvan, Snaggraggaren och Sunrise. Om man vill avslutar man Halvdesperat där också.}}
+{{led|namn=Halvdesperat|grad=6b+|typ=sport|längd=15|bultar=7|fa=[[Daniel Nordström]] [[1991]]|text=Stand i 1 st limbult eller upp till Vängåvanhyllan. Kompletteringsbultad 2009 |betyg=1}}
+{{led|namn=Vängåvan|grad=6-|gruv=b|typ=mix|längd=|bultar=1|fa=[[Anders Wester]], [[Dick Gunnars]] [[1989]]|text=Följer en tydlig spricka. Bultat ankare|betyg=2}}
+| width=300px|
+{{led|namn=Till Malin|grad=6c|gruv=a|typ=sport|längd=18|bultar=8|text=En ren sporttur. Ankare.|betyg=1}}
+{{led|namn=Snaggraggaren|grad=6|gruv=b/c|typ=mix|längd=|bultar=3|fa=[[Anders Wester]], [[Dick Gunnars]] [[1989]]|text=Fira av från ''Vängåvan''.|betyg=}}
+{{litentext|text=Här slutar marken och börjar igen 3 meter längre ner. Gå runt "stupet" så har du en spricklinje direkt till höger om det:}}
+{{led|namn=Sunrise|grad=5+/6-|gruv=b/c|typ=mix|längd=35|bultar=2|fa=[[Kenth Bergquist]] [[1992]]|text=Startar i hörnet och följer sprickan upp. ankare |betyg=1}}
+{{led|namn=Vanilla rush|grad=6c|gruv=a|typ=sport|längd=26|bultar=10|fa=[[Peter Ålander]] [[2010]]|text=Ihållande väggklättring. Fin. Ankare.|betyg=3}}
+{{led|namn=Magnolia|grad=6b+|gruv=a|typ=sport|längd=27|bultar=13|fa=[[Johan Hedman]] [[2009]]|text=Ihållande väggklättring. Fin. Ankare.|betyg=2}}
+{{led|namn=Prokrastinering|grad=6b|gruv=a|typ=sport|längd=30|bultar=12|fa=[[Falko Fleischmann]] [[2011]]|text=Följ aretet till "tanden" sedan rakt över överhänget, känns lite utsatt. Om man har uppskjutarbeteende kan man smita ur halvvägs till ankaret av "Inre röster" då 6a. Ankare. Välsäkrad.|betyg=2}}
+{{led|namn=Biverkan|grad=5|gruv=b|typ=trad|längd=18|bultar=|fa=[[Falko Fleischmann]] [[2011]]|text=Insteg bakomför "Prokrastinering", kamin och sprickan ovanpå areten. Där sprikan viker till vänster går man in till "Inre röster" och till ankaret, alt. usteg via "Prokrastinering" (bult). Bultat ankare}}
+{{led|namn=Inre röster|grad=5+|gruv=b|typ=trad|längd=18|bultar=|fa=[[Johan Hedman]] [[2010]]|text=Följer en tydlig spricka till ankare halvägs upp på väggen. Funkar med vanligt rack (upp till Camalot #3) men bra med stor kamkil typ Camalot #4. Bultat ankare|betyg=1}}
+{{led|namn=Du, jag och psykologen|grad=6+|gruv=c|typ=trad|längd=28|bultar=|fa=[[Johan Hedman ]][[2010]]|text=Följer en diedret och spricklinjerna hela vägen upp. Bultat ankare|betyg=1}}
+{{led|namn=Picea|grad=6c+|gruv=a|typ=sport|längd=29|bultar=12|fa=[[Johan Hedman]] [[2010]]|text=Ihållande väggklättring. Fin. Ankare.|betyg=3}}
+{{led|namn=Rätt medicin|grad=6-|gruv=b|typ=trad|längd=35|bult=1|fa=[[Ove Dalsegg]] [[1988]]|text=Följer en spricka en bit upp till slutet som går i en slags dieder. sopad och rensad 2009, det tidigare osäkrade slutet är kompletterat med en bult.|betyg=3}}
+|}
+{{sidbrytning}}
+
+===Vikingaväggen===
+[[Bild:Brattberget_vikinga.jpg|thumb|600px|center|Vikingaväggen, med Radioväggen och Stora Väggen till vänster och Kortsidan med Onda Vibrationer väl synlig till höger.]]
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Tors vrede|grad=7-/7|gruv=b/d|typ=mix|längd=|bultar=2|fa=[[Daniel Nordström]] [[1992]]|text=Långt mellan bultarna.|betyg=}}
+{{led|namn=Frejas fröjd|grad=6c|gruv=b|typ=sport|längd=|bultar=4|fa=[[Daniel Nordström]], [[Joakim Svedberg]] [[1993]]|text=Rensad & sopad 2012.|betyg=1}}
+{{led|namn=Bultkastaren|grad=6c+ |gruv=a|typ=sport|längd=|bultar=Retrobultat 2008, 9 st|fa=[[Daniel Nordström]] [[1992]]|text=|betyg=2}}
+{{led|namn=Ragnarök|grad=6|gruv=b|typ=mix|längd=|bultar=4|fa=[[Kenth Bergquist]] [[1992]]|text=|betyg=}}
+{{led|namn=Helt apropå|grad=5+|gruv=c|typ=trad|längd=|bultar=|fa=[[Ove Dalsegg]] [[1988]]|text=Svårsäkrad vid kruxet.|betyg=}}
+{{led|namn=Ont direkt|grad=6b/6|gruv=b|typ=mix|längd=|bultar=6|text=samma start som ont i stjärten de tre första bultarna sedan rakt upp genom taket.Det går att få några friends innan taket.|betyg=1}}
+{{led|namn=Ont i stjärten|grad=6a|gruv=a|typ=sport|längd=|bultar=6|fa=[[Mats Ekdahl]], [[Daniel Nordström]] [[1991]]|text=helbultad linje sedan 2008. Välsäkrad.|betyg=2}}
+{{led|namn=Trappstegen|grad=3+|gruv=c|typ=trad|längd=|bultar=|fa=[[?]] [[?]]|text=Svårsäkrad, lös och djävlig.|betyg=}}
+{{led|namn=Snabbspolning|grad=5-|gruv=b|typ=trad|längd=|bultar=|fa=[[Sven Heidorn]] [[1993]]|text=Följ sprickan något till höger om ''Trappstegen''.|betyg=}}
+{{led|namn=Odens öga|grad=6b|typ=sport|längd=20|bultar=10||text=Sprickan i taket.|betyg=1}}
+| width=300px|
+{{led|namn=Hugin|grad=6b|typ=sport|längd=18|bultar=9||text=|betyg=0}}
+{{led|namn=Eufrat|grad=5+/6-|gruv=b|typ=trad|längd=25|bultar=|fa=[[Simon Talltorp]] [[2011]]|text=Den vänstra av de två tydliga högerlutande sprickorna. Markant krux några meter upp. Kruxet kräver Camalot #4 eller större för adekvat säkring.|betyg=}}
+{{led|namn=Tigris|grad=5|gruv=b|typ=trad|längd=23|bultar=|fa=[[Simon Talltorp]] [[2011]]|text=Den högra av de två tydliga högerlutande sprickorna. Fina handjam.|betyg=1}}
+{{led|namn=Kaminen|grad=5-|gruv=b|typ=trad|längd=22|bultar=|fa=[[Erik Kuiper]] [[2011]]|text=Kamindelen är enkel och inte bökig.|betyg=1}}
+{{led|namn=Off-width sprickan|grad=se nedan|gruv=|typ=trad|längd=14|bultar=|text=Gå in under det stora blocket och skrambla upp till en avsats där det finns en off-width spricka till vänster. Annorlunda och intressant klättring med flera bestigningsvarianter. Nedan beskrivs två. Minst två större kamkilar typ Camalot #4 kan vara bra för bekväm säkring.|betyg=}}
+{{led|namn=Off-witdh free|grad=6|gruv=a|typ=trad|längd=14|bultar=|fa=[[Erik Kuiper]] [[2011]]|text=Når man så får man, dvs hitta lättaste vägen upp i närheten av sprickan. Stämma mot det stora blocket och utsteg lite till höger om sprickan kan vara två bra tips.|betyg=}}
+{{led|namn=Off-width pure|grad=6+?|gruv=a|typ=trad|längd=|bultar=|fa=Öppet projekt|text=Inga klämblock får användas och utsteget skall ske via sprickan. Stämklättring kommer också här till heders, fast nu bara mellan väggarna. Lite småbökig.|betyg=}}
+|}
+
+===Kortsidan===
+[[Bild:Brattberget_kortv.jpg|thumb|right|150px|Kortsidan.]]
+Detta är den vänstra kortsidan av Sjöväggen.
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Neverland|grad=6-|gruv=b|typ=trad|längd=20|bultar=|fa=[[Simon Talltorp]] [[2011]]|text=Breda sprickan upp till det stora klämblocket. Gå runt arêten till diedret och sedan rakt upp.|betyg=2}}
+{{led|namn=Onda vibrationer|grad=6+|gruv=b/c|typ=trad|längd=|bultar=|fa=[[Ove Dalsegg]] [[1988]]|text=Upp i sprickan. Följ flaket åt vänster när du kommer upp till ''Mindre vibrationer''. Ankare.|betyg=1}}
+{{led|namn=Norskdödaren (mer vibrationer)|grad=5+|gruv=b|typ=mix|längd=|bultar=2|fa=[[Ove Dalsegg]]|text=Rakt upp över bullen. Delar första bult med ''Mindre vibrationer''. En bit upp till nästa säkringspunkt från första bulten. Ankare.|betyg=}}
+| width=300px|
+{{led|namn=Mindre vibrationer|grad=4+|gruv=b|typ=mix|längd=|bultar=2|fa=|text=Start i en tydlig spricka. Efter första bulten går leden snett upp åt vänster till sprickorna till vänster om överhänget. Därefter rakt upp.|betyg=}}
+{{led|namn=Zakai|grad=5|gruv=c|typ=trad|längd=|bultar=|fa=[[Christian Söderberg]] [[1989]]|text=Följer arêten.|betyg=}}
+|}
+{{sidbrytning}}
+
+===Sjöväggen===
+[[Bild:brattberget_sjo.jpg|thumb|350px|center|Foto av Sjöväggen. Skrubben till vänster i bild, mitt i bild Listig och Stark.]]
+[[Bild:skrubban.jpg|frame|Klättrare på Skrubben, 6. Brattberget.<br>
+Foto: Johan Hedman.]]
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Zakai|grad=5|gruv=c|betyg=0|längd=|fa=[[Christian Söderberg]] [[1989|-89]]|bultar=|typ=trad|text=Följer arêten.}}
+{{led|namn=Blitzkrieg|grad=6|gruv=b|betyg=0|längd=|fa=[[Daniel Nordström]] [[1989|-89]]|bultar=|typ=trad|text=Leden går i ett "Z"-mönster.}}
+{{led|namn=Skrubben|grad=6|gruv=b/c|typ=trad|längd=30|fa=|text=Klassikern på berget. Följer en spricka som till en början är riktigt bred, som smalnar av efterhand. Ankare. |betyg=3}}
+{{led|namn=Utan ork|grad=6c+|typ=sport|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=8|typ=sport|text=Ihållande sportklättring, bultat ankare 2008|betyg=2}}
+{{led|namn=Saling the seas of cheese|grad=7a+|gruv=a/b|betyg=0|längd=|fa=[[Daniel Nordström]] [[1993|-93]]|bultar=3|typ=sport|text=Kort. Ankare.}}
+{{led|namn=Neros pendel|grad=7-|gruv=c|betyg=0|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=3|typ=mix|text=Man vill inte råka ut för neros pendel. sopad 2012}}
+{{led|namn=Listig och stark|grad=6a|gruv=b|betyg=3|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=|typ=sport|text=Uppsprucken klippa, med goda grepp.|betyg=3}}
+{{led|namn=Slammer|grad=6-|gruv=b/c|betyg=0|längd=|fa=[[Daniel Nordström]], [[Mats Ekedal]] [[1992|-92]]|bultar=2|typ=mix}}
+| width=300px|
+{{led|namn=Den trallande pedofilen|grad=6+|gruv=c|betyg=0|längd=|fa=[[Martin Kempe]] [[1990|-90]]|bultar=2|typ=mix|text=Efter 1:a BB klättrar man runt areten och kopplar en BB runt hörnet. Sedan klättrar man tillbaka runt areten.}}
+{{led|namn=Misstänkta förbindelser|grad=6|gruv=d|betyg=0|längd=|fa=[[Daniel Nordström]] [[1989|-89]]|bultar=2|typ=mix|text=Svärsäkrad på slutet.}}
+{{led|namn=Premiärdiedern|grad=5-|gruv=b|betyg=0|längd=|fa=?? [[1988|-88]]|bultar=|typ=trad|text=Följ diedern från början till slut.|betyg=1}}
+{{led|namn=Disco's out, murder's in|grad=6b|typ=sport|betyg=2|längd=|fa=Daniel Nordström [[1991|-91]]|bultar=7|text=Samma insteg som Premiärdiedern.Nytt ankare & kompletteringsbultad 2009|betyg=2}}
+{{led|namn=Beska droppar|grad=7a|gruv=a/b|betyg=1|längd=|fa=[[Ove Dalsegg]] [[1990|-90]]|bultar=5|typ=sport|text=mantla upp & Stand i ankare, sopad 2012.}}
+{{led|namn=Fotflax|grad=6|gruv=a|betyg=0|längd=|fa=[[Kenth Bergqvist]] [[1993|-93]]|bultar=4|typ=sport|text=Svatur precis efter nedstigningen. Stand i enkel bult.}}
+{{led|namn=Hylands hörna|grad=7-|gruv=a/b|betyg=0|längd=|fa=[[Sven Heidorn]] [[1993|-93]]|bultar=3|typ=mix|text=sport Dieder vid slutet av nedstigningen.}}
+|}
+
+===Lilla väggen===
+[[Bild:Brattberget_lillv.jpg|thumb|600px|center|Högra delen av Sjöväggen, nedstigningsrännan och Lilla väggen. '''Nya chanser''' väl synlig.]]
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Pöket|grad=4|gruv=b|betyg=0|längd=|fa=[[Patrik Backlund]] [[1992|-92]]|bultar=1|typ=mix|text=Kort led. Går över två block i nedstigningssprickan.}}
+{{led|namn=Böket|grad=4+|gruv=d|betyg=0|längd=|fa=[[Christian Söderberg]] [[1989|-89]]|bultar=|typ=trad|text=Startar på den stora stenen. Går runt hörnet och sedan rakt upp.}}
+{{led|namn=Nya chanser|grad=6-|gruv=a|typ=trad|längd=10|fa=|text=Följer ett spricksystem med en travers åt vänster ca 3m meter upp. Välsäkrad.|betyg=2}}
+| width=300px|
+{{led|namn=Stela chanser|grad=6|gruv=b|betyg=0|längd=8|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=|typ=trad|text=Gemensam start med Nya chanser. Leden går rakt upp där Nya chanser traverserar vänster.}}
+{{led|namn=Stela lemmar|grad=6+|gruv=b/c|betyg=0|längd=9|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=|typ=trad|text=Startar till höger om Stela chanser. Gemensamt utsteg med Stela chanser.}}
+{{led|namn=Nya lemmar|grad=6c+|gruv=a|betyg=0|längd=9|fa=[[Ove Dalsegg]] [[1990|-90]]|bultar=5|typ=sport|text=ren sportled som gåtts igenom 2009, ankare i två bultar|betyg=2}}
+|}
+
+{{sidbrytning}}
+
+===Radioväggen===
+Radio väggen ligger under stora väggen och är en bra klippa att lägga topprep på om man har barn eller nybörjare. Du behöver kilar och slingor för ankarna.
+
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=89.7 MHz|grad=3+|gruv=c|betyg=0|längd=|fa=[[Christian Söderberg]] [[1989|-89]]|bultar=|typ=trad|text=Lös.}}
+{{led|namn=Radio Nova|grad=4+/5-|gruv=b|betyg=0|längd=|fa=[[Patriq Backlund]] [[1992|-92]]|bultar=2|typ=mix|text=Friend vid utsteget.}}
+{{led|namn=P1|grad=3|gruv=b|betyg=0|längd=|fa=[[Christian Söderberg]] [[1989|-89]]|bultar=|typ=trad|text=Lös.}}
+| width=300px|
+{{led|namn=P2|grad=2|gruv=b|betyg=0|längd=|fa=[[Christian Söderberg]] [[1989|-89]]|bultar=|typ=trad}}
+{{led|namn=P3|grad=4-|gruv=b|betyg=0|längd=|fa=[[Christian Söderberg]] [[1989|-89]]|bultar=|typ=trad}}
+|}
+
+==Länkar==
+En utskriftsvänlig variant av föraren kan ni hitta på [http://www.linkopingsklatterklubb.se/index.php/forare_sverige.html LKKs hemsida].
+
+[[Kategori:trad]] [[Kategori:Sport]] [[Kategori:Mix]] [[Kategori:vertikalt]] [[Kategori:Saknar leder]] [[Kategori:Saknar skiss]]
+[[Kategori:Medelpad]]

@@ -1,0 +1,135 @@
+{{info klippa
+  |lat=59.551025
+  |long=12.832031
+}}
+
+{{boulderkomplett}}
+
+
+==Allmänt==
+Ett mytiskt jättekast av rang. Uppskattningsvis 4-5 meter högt och lustigt nog finns alla klätterelement (sva, vertikal, överhäng) på en och samma sten. 
+
+==Beskrivning==
+
+Mer uppdaterad förare finns på www.27crags.com
+Detta då problem uppstod vid uppdatering av denna förare. 
+
+Överlag platta och fina landningar. Endast någon liten sten, stubbe eller sly som stör.  
+
+Troligtvis har stenen fått klätterbesökare förut, men detta har inte kunnat verifieras. Rätta gärna direkt på sidan om problemens namn, grader osv inte stämmer. 
+
+När jag var där passade jag på att samtala med markägaren Nils som bor i änden på grusvägen. Han inte bara gav sitt medgivande utan uppmuntrade också besök och klättring. Jag skulle tom. få låna stegar om jag behövde ta mig upp. Han berättade också att han hade några block på gården dit jag var välkommen. Jag var uppe och kikade, men de jag såg var inte intressanta. 
+
+Storleken på stenen gör att många olika problem av olika karaktär går att etablera. Gissningsvis finns utrymme att skapa 10-15 enskilda problem. Nyturspotentialen är stor och stenen kategoriseras därför som oklättrad för den som är på jakt. 
+
+På toppen av stenen växer en liten tall. I denna har man fäst ett gammalt rep/tamp som turister o.dyl har använt för att med hjälp av den intilliggande granen ta sig upp på stenen. Status på repet är såklart okänt, men det kan med fördel användas vid nedstigning. Nedstigning kan annars visa sig problematiskt och att ta med ett eget rep för att fästa någonstans är ingen dum idé. 
+
+Observera att stenen är en sevärdhet i området och får regelbundna besök. Länsstyrelsen har även kategoriserat den som en fridlyst historia av något slag. Agera därefter!
+
+Stenen ligger mestadels i skugga hela dagen. Baksidan (överhänget) och toppen kan därför vara extra fuktig flera dagar efter regn. Var uppmärksam på halkig mossa när du är på väg uppför svaiga utsteg och vid nedstigning! Flera gånger mer kruxigt än klättringen upp.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.551025" lon="12.832031" type="map" zoom="10" scale="yes" overview="yes">
+59.515426, 12.846451, Avelbolsstenen
+</googlemap>
+
+</div>
+
+'''Från Arvika:'''
+ 
+Kör ut från Arvika längs väg 175 mot Klässbol och Säffle. 
+Efter inte fullt 2 mil kan man svänga av höger mot Klässbol. Efter några hundra meter till kan man än en gång svänga ner höger mot Klässbol. I denna "4-vägskorsning" sväng istället vänster mot Värmskog, Avelsbol eller vad det nu kan tänkas stå på skyltarna. 
+Fortsätt på denna väg utan att svänga av från den asfalterade vägen i ungefär 8 km. Håll utkik efter en fornminnesskylt som pekar upp åt höger. 
+Om du når en t-korsning och tittar ut över en sjö, så har du kört ända till Värmskog. Leta i så fall upp Liljenäs café och smaka deras underbara räkmackor (den med färska räkor). Vänd sedan om och fortsätt leta. 
+
+'''Från Karlstad:'''
+ 
+Kör från Karlstad längs E18 mot Oslo. Vid rondellen vid Grums (Burgerking och OK-macken) ta höger mot Grums Centrum. Innan du når centrum sväng höger (i höjd med ridskolan och en hamburgerkiosk) mot Värmskog. Följ denna väg någon kilometer. Sväng än en gång höger mot Värmskog tätt följt av ytterligare en vänstersväng mot Värmskog. Kör över bron till Värmskog och fortsätt köra igenom denna. I en vänstersväng runt sjön lilla värmeln sväng upp höger mot Klässbol, Avelsbol eller vad det kan tänkas stå på skylten. I svängen finns en liten brandstation. Följ denna väg ungefär en mil tills du ser ett minnesmärke som pekar upp åt vänster. Kommer du fram till en t-korsning har du kört alldeles för långt. Vänd om och gör rätt. 
+
+'''Parkering'''
+
+Parkera på en liten ficka strax innan stenen.
+
+==Sektioner==
+
+Se bilder nedan om stenens utseende. 
+
+Heldragna linjer = gjorda problem
+
+Streckade linjer = projekt... mer eller mindre framputsade.
+
+[[Bild:Oversikt-avelsbolsstenen.JPG|thumb|center|480px|Översikt.]]
+
+
+===Sida 1 - Svasidan===
+
+Hårt ansatt av lav och mossa som blivit ett med berget. Inga tydliga grepp, men det finns säkert något litet under mossan som räcker. Kan bli en del kul balansiga leder med helkroppskontakt mot klippan. Möjligen finns något att göra där sida 1 möter sida 4. 
+
+[[Bild:Avelsbolsstenen-sida1.jpg|thumb|300px|center|sida 1. sva-sidan]]
+
+
+===Sida 2 - Vägsidan===
+
+Snällare med hyllor på vertikalen som övergår i sva.
+Visa total hänsyn vid klättring på denna sida, då vägen går precis bredvid stenen.
+
+[[Bild:PICT0001-1.JPG|thumb|300px|center|sida 2. väg-sidan]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr= | namn=Järnspikar | grad=5isch? | typ=hyllor, sva | fa=[[Sören Danielsson]] | landning=2 | fadatum=2008-07-26 | sittstart=ja | sopad= behövs knappast | text=Problemet närmast på bilden. Sittstart med matchning på bulliga utsticket precis under de rostiga spikarna (ni förstår när ni är där). Sedan mer eller mindre rakt upp}}
+
+{{problem | nr= | namn=projekt | grad=5isch? | betyg= | typ=hyllor, sva | fa= | landning=2 | fadatum= | sittstart= | text=problemet i mitten på bilden. behöver putsas.}}
+
+| width="350px" |
+
+{{problem | nr= | namn=Markägarens välsignelse | grad=4-5isch? | typ=hyllor, sva | betyg= |landning=2 | fa=[[Sören Danielsson]] | fadatum=2008-07-26 | text=Problemet längst bort. Ståstart på två mindre grepp under stora hyllan. Sedan lätt uppstigning på oputsade grepp.}}
+
+|}
+
+
+===Sida 3 - Highballsidan===
+
+Stenens högsta sida/vägg med full höjd på gissningsvis 4-5 meter. 
+Om någon lyckas ta sig upp på denna helt platta vägg, så ska jag vara den första att göra hatten av. Väggen är helt slät med mikroskopiska utbuktningar. Highball och riktig testpiece. 
+
+[[Bild:Avelsbolsstenen-sida3.JPG|thumb|220px|center|sida 3. highball-sidan]]
+
+{{problem | nr= | namn=projekt | grad=6-7isch? | betyg= | typ=crimp, highball | fa= | landning=3 | fadatum= | sittstart= | text=projektet till höger är den som klättras på bilden. Början går väl an, men sen försvinner alla grepp. Möjlig utväg upp till vänster om man är duktig?}}
+
+{{problem | nr= | namn=projekt | grad=6isch? | betyg= | typ=areté, catch, crimp | fa= | landning=3 |putsad=Sören Danielsson | fadatum= | sittstart= | text=Intressant problem på hörnet. Snällt grepp ut till taskig crimp, som kanske någon orkar hålla för att etablera fötter på dåliga steg innan tokig catch till taskig kant.}}
+
+[[Bild:Climbing-sida3.jpg|center|thumb|300px|--[[Användare:Nostradamus|Sören]] på highball-sidan ]]
+
+
+===Sida 4 - Överhängssidan===
+
+Ganske kraftigt överhängande med primärt dåliga grepp till svaig läpp och usteg. Testpiece! 
+
+[[Bild:PICT0002-1.JPG|center|thumb|300px|sida 4. Överhängssidan]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{problem | nr= | namn=projekt | grad=6-isch? | typ=överhäng, mantling | fa= | landning=2 | fadatum= | sittstart= | sopad= Sören Danielsson | text=Projektet på bilden gör den duktige enkelt? Fina hyllor och sprickor till läppen. Där blir allt märkligt svårare. Utsteget är bättre putsat än bilden visar, men kruxet att ta sig över kanten var för mycket för mig. Om man hade en spotter kanske jag hade vågat idiotslänga en tass över kanten, men...--[[Användare:Nostradamus|Sören]]}}
+
+
+| width="350px" |
+
+
+|}
+
+{{sidbrytning}}
+
+
+[[Kategori:bouldering]]
+[[Kategori:oklättrat]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+[[Kategori:Värmland]]

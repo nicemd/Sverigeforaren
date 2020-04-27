@@ -1,0 +1,103 @@
+[[Kategori:Östergötland]][[Kategori:sva]][[Kategori:överhäng]][[Kategori:vertikalt]][[Kategori:Trad]][[Kategori:Sport]]
+{{info klippa
+  |lat=58.095436
+  |long=14.797809
+}}
+
+{{utkast}}
+
+[[bild:rodberget.jpg|thumb|400px|Rödberget på avstånd <BR>Foto: [[Användare:Fl0at|Kenny Carlsson]]]]
+__TOC__
+
+==Allmänt==
+
+Rödberget (Flugebosjön) är ett nyfunnet berg knappt 20 km bilresa nordväst om Tranås
+
+Än så länge finns bara fem färdiga leder, men också just nu elva pågående projekt varav sex är öppna. Vi har nu även fått tillåtelse att använda borrbult på klippan.
+
+==Beskrivning==
+Klippan är 200-250 m bred och höjden varierar utmed klippan. Som högst är klippan ca 50 meter, men delad av en hylla. 
+Den största delen utav berget består av sva men det finns både vertikala samt överhängande delar. Höjden på potentiella leder ligger på mellan 5 och 35(?) meter. Uppskattningsvis så finns det potentiella leder alltifrån grad 3 till 8.
+
+<div style="clear: both"></div>
+ ………
+
+==Miljö==
+Skuggig miljö i blandskog, men delar av klippan ligger mer öppet. Nära till Flugebosjön där man kan svalka av sig med ett bad.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="58.095436" lon="14.797809" zoom="9" width="400" type="map" controls="small" scale="yes" overview="yes">
+58.095436,14.797809,[[Rödberget]]
+</googlemap>
+</div>
+
+Från Tranås, åk mot Ödeshög. Efter ca 16 km sväng vänster vid skylt Flugebo 3.
+
+I korsningen strax efter Flugebo, ta av vänster in på Grusvägen och passera två stycken grindar. Strax innan grustaget går det en stig på vänster sida som löper till berget.(Markerad med blå färg på nedan karta). Bilar kan parkeras vid grustaget.
+
+Alternativt kan man från Tranås ta vägen mot Duvebo, följ denna 12-13 km och tag av till höger vid skylt Hakebo 1. Efter ett par kilometer delas vägen, välj då den vänstra vägen. Vid Flugebo, ta höger ner på Grusvägen. Därefter, följ ovan beskrivning.
+
+ [http://www.hitta.se/LargeMap.aspx?z=6&cx=1440533&cy=6441602&PointX=1440533&PointY=6441602&referrer&var=tran%E5s&wflWhite=1a1b&wflPink=4a&SearchType=4&name=R%f6dberget_%28Flugebosj%f6n%29&weather=true&forecastDate=&showTraffic=false Kolla vädret vid Rödberget]
+
+[[Bild:Rodberget_400.jpg]]
+
+En större kartbild finns [http://www.hoglandsklattrarna.se/img/upload/Rodberget.jpg här].
+{{sidbrytning}}
+
+==Access {{access}}==
+
+{{AccessDB|klippa=rodberget-flugebosjon}}
+
+==Bilder==
+
+Bilder på en helt orörd, ''och därmed orensad'', klippa finns på nedan länk.
+
+[http://www.hoglandsklattrarna.se/rodberget/index.html http://www.hoglandsklattrarna.se/rodberget/index.html]
+
+==Leder (inklusive projekt)==
+(Från vänster till höger sett nerifrån, höger till vänster sett uppifrån)
+
+=== Stora väggen ===
+{{led|namn=1|nr=1|grad=projekt|typ=trad|längd=25|text=Sprickan till höger om det stora stående flaket.  Leden rensades och borstades av [[Användare:Fl0at|Kenny Carlsson]] sommaren -07. Denna led kommer behöva kompletteras med en till två borrbultar. [[Öppet projekt]].}}
+
+{{led|namn=2|nr=2|grad=projekt|typ=trad|längd=20|text=Sprickan mellan Projekt nr 1 och diedret. Efter 5-6 meter traverserar man 2 m åt höger och följer den grova sprickan över taket. [[Öppet projekt]].}}
+
+{{led|namn=3|nr=3|grad=projekt|typ=trad|längd=20|text=Det högra diedret på huvudvägggen. Leden rensades och borstades av [[Användare:Fl0at|Kenny Carlsson]] sommaren -08, men kan nog behöva lite mer puts innan den klättras. [[Öppet projekt]].}}
+
+{{led|namn=4|nr=4|grad=projekt|typ=trad|längd=20|text=Sicksack i sprickor mellan diedret och Stygga flickor och en kasse pilsner. Kan möjligtvis behöva nån bult. [[Öppet projekt]].}}
+
+{{led|namn=Stygga flickor och en kasse pilsner|nr=5|grad=5-|typ=trad|längd=18|betyg=2|fa=[[Användare:Fl0at|Kenny Carlsson]], [[Marcus Bennäs]][[2008|-08]]|text= Den tydliga sprickan, ca 10-12 m höger om det stora flaket.}}
+
+=== Överhängsväggen ===
+
+{{led|namn=1|nr=1|grad=projekt|typ=sport|längd=|text=Brant och ännu obultat, men många timmar rensning offrad. Följer spricklinjen mitt på väggen, något till vänster. [[Stängt projekt]] tillhörande [[Användare:xtian|Christian Johansson]].}}
+
+{{led|namn=2|nr=2|grad=projekt|typ=sport|längd=|text=Brant och ännu obultat. Mitt på väggen. [[Stängt projekt]] tillhörande [[Användare:xtian|Christian Johansson]].}}
+
+{{led|namn=3|nr=3|grad=projekt|typ=sport|längd=|text=Brant och ej färdig bultad, saknas 3 bultar. Pelaren(Bult pillaren). [[Stängt projekt]] tillhörande [[Användare:xtian|Christian Johansson]].}}
+
+{{led|namn=Jag förklarar krig|nr=4|grad=5+|typ=trad|längd=18| fa=[[Användare:xtian|Christian Johansson]]. [[2008|-08]]|text= Diedret till höger om överhänget. Börjar med osäkrad lätt klättring (går att få i någon halvtaskig kil några meter upp) upp till hyllan halvvägs. Sedan rolig stämklättring. En röd HB offset (nr8), eller liknande är bra att ha. }}
+
+{{led|namn=5|nr=5|grad=projekt|typ=trad|längd=14|text=Tunn klättring, upp längs den halva jättegrytan, till höger om överhängsväggen. [[Stängt projekt]] tillhörande [[Tom Bjernerud]].}}
+
+=== Lilla väggen ===
+
+{{led|nr=1|namn=Tre röda|grad=5a|betyg=|längd=8|fa=[[Marcus Bennäs]], [[Användare:Fl0at|Kenny Carlsson]][[2008|-08]]|bultar=3|typ=sport|text= Första leden på Rödberget.}}
+
+{{led|nr=2|namn=2|grad=projekt|typ=sport|längd=10|text=Projekt i mitten av den vänstra delen på Lilla klippan. [[Öppet projekt]].}}
+
+{{led|nr=3|namn=Blod, svett och tårar|grad=6a|bultar=4|typ=sport|längd=12|fa=[[Christoffer Beidegårdh]][[2008|-08]]|text=Led som slutar med arêten till höger på lilla klippan.}}
+
+{{led|nr=4|namn=Blodpudding|grad=5c|bultar=6|typ=sport|längd=16|fa=[[Christoffer Beidegårdh]], [[Användare:Fl0at|Kenny Carlsson]][[2008|-08]]|text=Led i mitten av Lilla klippan. Leden följer en arête upp till ett tak, därefter fortsätter leden några meter upp längs diedret till höger om taket. Lite kruxig start, därefter enklare.}}
+
+{{led|nr=5|namn=5|grad=projekt|typ=sport|längd=18|text=Projekt på högra delen av Lilla klippan. [[Stängt projekt]] tillhörande [[Marcus Bennäs]].}}
+
+{{led|nr=6|namn=Ett hjärta RÖTT|grad=5+|typ=trad|längd=8|fa=[[Användare:xtian|Christian Johansson]][[2008|-08]]|text=Tydlig spricklinje långt till höger på Lilla klippan. Ska eventuellt få ett ett bultat ankare. För närvarande så klättrar man vidare efter den lilla tallen upp till toppen.}}
+
+{{led|nr=7|namn=7|grad=projekt|typ=sport|längd=8|text=Projekt längst till höger på Lilla klippan. [[Öppet projekt]].}}
+
+<br>
+
+''För mer info kring Access och kring berget följ denna länk: [http://www.hoglandsklattrarna.se/ccms.asp?pageID=43 http://www.hoglandsklattrarna.se/ccms.asp?pageID=43] ''
+[[Kategori:sva]][[Kategori:överhäng]][[Kategori:vertikalt]][[Kategori:Trad]]

@@ -1,0 +1,74 @@
+{{info klippa
+  |lat=59.33506
+  |long=18.27507
+}}
+
+{{komplett}}
+==Allmänt==
+Liten överhängande klippa med endel fina leder. Ligger i mörk barrskog - glöm inte myggmedel!
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.33506" lon="18.27507" zoom="14" type="map" controls="small">
+59.33506,18.27507,[[Margreteberg]]
+</googlemap>
+</div>
+Kör värmdöleden 222, avfart mot Orminge. Efter Orminge C tag vänster in på Skarpövägen, därefter första höger in på Hasseluddsvägen. 200m senare tag höger in på Margretebergsvägen. Följ grusvägen till en vändplan. Parkera och följ
+vägen tillbaka. Klippan ligger på vänster sida, i skogen mitt emot de röda husen och kan skymtas från grusvägen.
+
+Efter klättringen rekommenderas ett besök på [http://www.alltomstockholm.se/profil.aspx?fid=2&EntityID=898707 Restaurang Telegraf]
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Margreteberg
+lat=18275070
+long=59335060
+</slresa>
+</div> 
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+[[Bild:margreteberg_skiss.gif]]
+{|
+|- valign="top"
+| width="300px" |
+{{led|nr=1|namn=Känn dig hemma|grad=6c|fa=[[Johan Luhr]]|typ=sport|text=Leden längst till vänster}}
+
+{{led|nr=2|namn=Hemlös|grad=7b|fa=[[Johan Luhr]]|typ=sport|text=Arêten, direktinsteg}}
+
+{{led|nr=3|namn=Coolman|grad=7c|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Arêten med insteg från höger}}
+
+{{led|nr=4|namn=Det mörka hotet|grad=7c+|fa=[[Johan Luhr]]|typ=sport|betyg=2|text=Kroppstung och teknisk}}
+
+{{led|nr=5|namn=Djungel Jim|grad=8a+|fa=[[Johan Luhr]]|typ=sport|betyg=2|text=Ny. Snett upp till vänster}}
+
+{{led|nr=6|namn=Rolex|grad=8a+|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Rakt upp}}
+
+{{led|nr=7|namn=Dyra vanor|grad=7c+|fa=[[Johan Luhr]]|typ=sport|text=Svänger av åt höger}}
+
+| width="300px" |
+{{led|namn=Breitling|grad=8a+|fa=[[Johan Luhr]]|typ=sport|text=Insteg i {{ledlänk|namn=Dyra vanor}} sedan vänster till {{ledlänk|namn=Rolex}}}}
+
+{{led|nr=8|namn=Långa farbrorn|grad=7c|fa=[[Johan Luhr]]|typ=sport|text=Reach}}
+
+{{led|nr=9|namn=Stövla på|grad=6c|fa=[[Johan Luhr]]|typ=sport|text=En led man kan vara utan}}
+
+{{led|nr=10|namn=Flyt|grad=7b+|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Sprickan}}
+
+{{led|namn=Närmare 50 än 40|grad=7c+|bultar=4|fa=[[Johan Luhr]] -07|typ=sport|betyg=1|betyg=1|text=Kylskåpsklättring på arêten. Kort och bouldrig. Hörnet används ej.}}
+
+{{led|nr=11|namn=Lätt som en plätt|grad=5a|fa=[[Johan Luhr]]|typ=sport|text=Diedret}}
+
+{{led|nr=12|namn=Svaleden|grad=7b+|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Tunn svaklättring.}}
+|}
+
+
+[[bild:Margreteberg.jpg|thumb|right|250px|Hemlös Foto: [[Användare:Jonass|Jonas Ahlman]]]]
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Sva]]

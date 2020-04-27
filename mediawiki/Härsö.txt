@@ -1,0 +1,48 @@
+{{info klippa
+  |lat=59.20926
+  |long=18.41711
+}}
+
+{{komplett}}
+
+==Allmänt==
+Härsö ligger utanför Tyresö och har en brant sydspets vars väggar (Harso udde) är väl synliga från Tyresö-Brevik. Ett annat väggparti finns ca 500m längre norrut och har några artificiella turer. Härsö klack, det branta berget i NO ger också ett fåtal möjligheter. 
+Till vänster om sjöklippan finns en mäktig vägg (ca 20m), som har få formationer och lär bjuda på svår klättring. En topprepstur är framborstad i vänsterkanten.
+
+På sjöklippan finns det ett flertal riktiga linjer kvar att göra,
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.217596" lon="18.391457" type="map" width="300" height="175" controls="small">
+59.20926, 18.41711
+[[Härsö]]
+</googlemap>
+</div>
+
+Båt.
+
+<div style="clear:right;"></div>
+==Leder==
+===Norra klippan===
+{{led|nr=1|namn=Do androids dream of electric sheep?|grad=A3+|längd=28|fa=[[Marco Kupiainen]] [[-96]]}}
+{{led|nr=2|namn=Another day at the office|grad=A1|längd=18|fa=[[Marco Kupiainen]] [[-96]]}}
+{{led|nr=3|namn=Hearts filthy lesson|grad=A2|längd=18|fa=[[Christer Jansson]] [[-96]]}}
+{{led|nr=4|namn=Autobahn|grad=A1|längd=18|fa=[[Ludde Hagberg]] [[-96]]}}
+
+===Udden===
+[[Bild:Harso.png]]
+{{led|nr=5|namn=Den hårda resningen|grad=7-|längd=15|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=6|namn=Undervattensnalle|grad=5|längd=18|fa=[[Mats Olofsson]], [[Marco Kupiainen]] [[-95]]}}
+{{led|nr=7|namn=Arkipelagens pärla|grad=5+|längd=12|fa=[[Marco Kupiainen]], [[Mats Olofsson]] [[-95]]}}
+{{led|nr=8|namn=Bad boy Bubby|grad=A2+|längd=15|fa=[[Marco Kupiainen]] [[-96]]}}
+{{led|nr=9|namn=Utan snus försmektar vi på denna ö|grad=A2|längd=10|fa=[[Martin Jacobsson]] [[-96]]}}
+{{led|nr=10|namn=Ingen metall|grad=5|längd=10|fa=[[Marco Kupiainen]]([[solo]] och utan metall) [[-95]]}}
+{{led|nr=14|namn=Namn var inge viktigt|grad=5+/6-|längd=15|fa=[[Marco Kupiainen]],[[Anders Jakobssen]][[-99]]}}
+{{led|nr=11|namn=Hörnet|grad=4|längd=}}
+{{led|nr=12|namn=Pumping iron|grad=?|längd=}}
+{{led|nr=13|namn=Scenic cruiser|grad=A1|längd=}}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Stockholm]] [[Kategori:Tyresö]]
+[[Kategori:Saknar vägbeskrivning]]
+[[Kategori:Stockholms Skärgård]]

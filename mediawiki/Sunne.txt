@@ -1,0 +1,20 @@
+{{isutkast}}
+
+==Allmänt==
+
+Sunne eller rättare sagt, Östanås utanför Sunne (vägen mot Mårbacka) hyser ett litet bergsparti där det bildas is på vintern. 
+Berget och dess is syns från vägen. Håll utkik åt sidan när du passerar den blå by-skylten Östanås. 
+
+Stället har tidigare besökts av lokala förmågor samt utvalda delar ur Karlstad Klätterklubb. 
+
+
+==övrigt==
+Mer information kommer... 
+
+
+<googlemap version="0.9" lat="59.822818" lon="13.226852" type="map" zoom="8" controls="small">
+59.81679144989599, 13.227039272546916, Östanåsberget
+</googlemap>
+
+
+[[Kategori:Värmland]]

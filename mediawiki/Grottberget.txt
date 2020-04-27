@@ -1,0 +1,47 @@
+{{stub|extern=ja}}
+[[Kategori:Ångermanland]]
+{{info klippa
+  |lat=62.626200
+  |long=18.007700
+}}
+
+{{utkast}}
+==Allmänt==
+Grottberget består av några små men roliga klippor runt 10-20 meters höjd och en del boulderproblem i anslutning till klippan. Grottberget ligger mot norr och erbjuder framför allt fin kvällsklättring med utsikt över Norra sundet och Högakusten. Klättringen är trad, sport och bouldering. 
+
+==Vägbeskrivning==
+Grottberget ligger liksom Örsjöklippan på Härnön. Klippan ligger vid kronans gamla skyttebanor. Lättaste vägen är att ta sig till myrans flygfält och fortsätta framåt på grusvägen. Vik av vänster efter flygfältet och parkera. Följ grusvägen som går in i skogen från parkeringen förbi ”Torget” och ta åt vänster då den delar sig. När du kommer ut på stora grusvägen fortsätter du till Grottbergsvägen och tar höger på den. Där ser du berget framför dig. Framme vid skjutvallen finns en stig som leder till klippan. Cykel är lämpligt. 
+Om du vill ta bilen hela vägen till klippan så förutsätter det att bommarna vid skjutbanan är uppfällda. Med bil är det enklast att åka nedanför Högslättens fotbollsplan och följa denna grusväg förbi en brant backe (sopbacken) och sedan vika höger vid Grottbergsvägen. Parkera vid skjutvallen närmast berget. Det råder dock i dagsläget fordonsförbud efter första skjutbanan vilket innebär att  cykel är att föredra och parkering med bil sker på egen risk.
+
+==Camping==
+Tältning kan ske i närheten av klippan. Annars bara några kilometer till närmaste vandrarhem och camping.
+
+==Access {{access}} ==
+Var observant så ingen skjutning sker då du är vid klippan!!!
+
+==Bouldering==
+Grottberget har flera små områden med problem. Ovanför klipporna finns ett antal block som benämns med Östblocken. Snett uppåt vänster från Storaväggen och ovanför den bortre skjutbanan ligger vid det brandhärjade området Brandblocken. Följ klippan från Storaväggen genom snår och nerfällda träd. När du kommit till den stora grottan börjar området med Brandblocken. En alternativ väg är att gå rakt upp från den skjutbana som ligger längst bort. Björnpasset i närheten av Grottberget innehåller också ett antal problem.
+
+'''2010-07-25 fanns det''' <br>
+*'''Totalt''' 12 problem <br>
+*'''Upp till 5C''' 9 problem <br>
+*'''6A till 6C+''' 2 problem <br>
+*'''7A till 7C+''' 1 problem <br>
+
+==Leder==
+Det finns  11 leder. Storaväggen är det väggparti som ligger bakom och till vänster om klacken. Klacken är det första väggpartiet som man möter efter stigen och går ut som en klack från Storaväggen. Korta leder.
+===1. Storaväggen===
+
+{{led|namn=Luddes Piller Göra|nr=1|grad=5b|betyg=1|längd=10|fa=[[Erik L]] [[2000]]|bultar=|typ=trad|text=Gå upp i den breda sprickan och traversera sedan någon meter t.v. Klättra rakt upp. Blandade lister och crimps.}}
+{{led|namn=Puma|nr=2|grad=5c/6a|betyg=1|längd=10|fa=[[Okänd]] [[?]]|bultar=|typ=trad|text=Sprickan t.h. Klättra den överhängande sprickan och ta sedan lite t.v (5c) eller rakt upp (6a). Tung i överhänget men fin spricka.}}
+{{led|namn=Kaminen|nr=3|grad=6b|betyg=1|längd=10|fa=[[Okänd]] [[?]]|bultar=|typ=trad|text=Går upp i den tunna sprickan 2m t.h om Puma. Gå sedan över det lilla taket och rakt upp i sprickan. Ihållande klättring. Ankare.}}
+{{led|namn=Krack Krasch|nr=4|grad=6c|betyg=1|längd=10|fa=[[Erik L, Jakob H]] [[2009]]|bultar=|typ=trad|text= Startar överhängande med sned spricka, fortsätter i den tydliga sprickan. Ankare.}}
+{{led|namn=Diedret|nr=5|grad=Projekt|betyg=1|längd=10|fa=[[]] [[]]|bultar=|typ=trad|text= Det högra diedret. Kan startas med överhängande spricka.}}
+{{led|namn=Häng lööse|nr=6|grad=Projekt|betyg=1|längd=10|fa=[[]] [[]]|bultar=|typ=trad|text= Linjen över taket}}
+
+===2. Klacken===
+{{led|namn=Bananasplit|nr=7|grad=5b|betyg=1|längd=6|fa=[[Jakob H]] [[2000]]|bultar=|typ=trad|text= Går upp i banansprickan, Välsäkrad.}}
+{{led|namn=Lodrätt, eller?|nr=8|grad=6a|betyg=1|längd=8|fa=[[Erik L, Jakob H]] [[2008]]|bultar=4|typ=sport|text= Går på brant parti. Ankare.}}
+{{led|namn=Knifen|nr=9|grad=Projekt|betyg=1|längd=8|fa=[[]] [[]]|bultar=|typ=sport|text= Knivskarp aréte}}
+{{led|namn=Rimfaxe|nr=10|grad=5b|betyg=1|längd=7|fa=[[Jakob H]] [[2000]]|bultar=|typ=trad|text=  Börjar rakt nedanför sprickan ett par m t.h om kanten där det är överhängande. Ankare.}}
+{{led|namn=Nybörjarleden|nr=11|grad=4b|betyg=1|längd=8|fa=[[Stieg B]] [[1998?]]|bultar=|typ=trad|text=Går i sprickan t.h om Rimfaxe. Fin och lätt jamspricka. Början kan tyckas vara avig. Bra nybörjar led. Ankare.}}

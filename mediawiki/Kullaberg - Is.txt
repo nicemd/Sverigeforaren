@@ -1,0 +1,16 @@
+{{utkast}}
+
+<googlemap version="0.9" lat="56.317489" lon="12.477379">
+56.297885, 12.474758, Kullaberg - Is
+</googlemap>
+
+==Allmänt==
+På halvön Kullaberg i Skåne finns en handfull isar vid goda förhållanden.
+
+==Vägbeskrivning==
+Se [[Kullaberg]].
+
+==Access==
+Se [[Kullaberg]].
+
+[[Kategori:Is]]

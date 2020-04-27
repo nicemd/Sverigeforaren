@@ -1,0 +1,141 @@
+{{info klippa
+  |lat=57.7702607272836
+  |long=12.221088409423828
+}}
+[[Kategori:2 stjärnor]]
+{{utkast}}
+[[Category:sport]]
+
+==Allmänt==
+Trevlig klippa ovanför sjön, med mestadels bult men även en del kil. Överkomliga grader. Ta ett dopp efter klätterdagen, antingen från bryggan nedanför klippan, eller vid badstranden i sjöns norra ände. Ta med skräp härifrån!
+
+==Karaktär==
+Klätterklippa med lite längre (20 meter) vertikala turer, och turer med brant svakaraktär, det mesta är lättare än 7a. Merparten ganska skuggigt. Väldigt många människor klättrar här, ofta får man stå i kö för de finare lederna. Ta med skräp härifrån. Visa hänsyn mot andra klättrare. Använd alltid egna karbiner i firningsankarna! 
+
+[[bild:aspen_valkomstbild.jpg]]
+
+På [[#Fikahyllan|Fikahyllan]] klättrar många nybörjare.
+
+==Vägbeskrivning==
+<googlemap version="0.9" lat="57.77073" lon="12.22465" zoom="16">57.770638, 12.225337, Aspen></googlemap>
+
+Om du kör av vid Hulanmotet, kör längs med motorvägen. Sväng vänster i rondellen skylt mot Aspenäs, sedan vänster igen. Fortsätt svänga vänster så ofta du kan. Följ Goråsvägen. Efter att du har passerat en gammal lada på varje sida av vägen dyker en grusparkering på höger sida upp, ställ bilen här!
+
+==Kollektivtrafik==
+Ta tåg till Aspedalen, beställ taxi till klippan därifrån. 
+
+{{tryckt förare|klättring i göteborg med omnejd (2006)=ja|klättring i göteborg med omnejd (2012)=ja}}
+
+==Access {{access}}==
+
+{{AccessDB|klippa=Aspen}}
+
+
+
+
+
+==Väggar==
+[[Bild:aspen.png]]
+===Nalle Puh===
+Väggen som ligger längst bort ifrån parkeringen, för att komma hit gå längs med vägen tills klippan tar slut och gå in i skogen.  
+Ca 20m hög vägg med flera borrbultade turer. Den finaste är antagligen leden med samma namn som väggen, Nalle Puh(5c).
+{{led|namn=Spricka nummer 1|grad=5-}}
+{{led|namn=Transpilleten|grad=5+}}
+{{led|namn=Serious hiking|grad=6b+}}
+{{led|namn=Grodan boll|grad=6c|fa=Patrik Svahn & Marcus Rimen|text=En mer frekvent klättrad led}}
+{{led|namn=Kalle Stropp|grad=6c|typ=sport}}
+{{led|namn=Ior|grad=6b|fa=Peter Svahn|typ=sport}}
+{{led|namn=Nalle Puh|grad=5c/5+|längd=20|typ=sport| betyg=3|fa=Krister Stoltz |text=}}
+{{led|namn=Nasse|grad=6a/5+|längd=20|typ=sport| betyg=3 |fa=Krister Stoltz | text=Samma insteg som Nalle Puh, fortsätter till ankaret höger om Nalle Puhs.}}
+{{led|namn=Tiger|grad=6c |fa=Jens Larssen|text=Tiger går upp till Nasses ankare. |typ=sport}}
+{{led|namn=Plåtniklas|grad=6c|fa=Patrik Svahn & Marcus Rimen|typ=sport}}
+{{led|namn=Rövjammet|typ=trad|text=Kaminen höger om Plåtniklas. Bultarna går i allra högsta grad undvika, (samma grad, roligare klättring)|betyg=2|grad=5+|fa=}}
+{{led|namn=Spökbultaren|grad=7a+|Startar i högerkanten om kaminen och ankaret höger om kaminen}}
+{{led|namn=Nangiala|grad=6c+|typ=sport}}
+{{led|namn=Peak performance|fa=Jens Larsssen|text=Inte helt oklättrad|grad=7a}}
+{{led|namn=Görans tur|grad=5+}}
+{{led|namn=Projekt nummer 17|grad=6b+|text=Numera bultat? Vilken namn?|fa=?|ny=1}}
+{{led|namn=Luke Skywalker|grad=6b+|fa=Krister Stoltz?|ny=1}}
+{{led|namn=Exodus|grad=6c}}
+{{led|namn=Markus led|grad=7a}}
+{{led|namn=Robert & Hans led|grad=6}}
+{{led|namn=Zorro|grad=7b}}
+
+===Columbushyllan===
+Ligger ovanför Nallepuh. Se till att inte sparka ner sten eller tappa saker på de som klättrar i Nalle Puh. 
+{{led|namn=Columbus|grad=4|längd=6|typ=trad | fa=}}
+{{led|namn=Marco Polo|grad=6|längd=6|typ=trad | betyg=1 |fa=}}
+
+===Sheriffen===
+Höger om Nalle Puh-området eller rakt nedanför Highway-hyllan. En del svårare leder, inklusive Sheriffen.
+{{led|namn=Weight watcher|grad=6c|fa=Krister Stoltz|typ=sport}}
+{{led|namn=Viggo Viking|grad=6a+|fa=Krister Stoltz|typ=sport}}
+{{led|namn=Astra|grad=6}}
+{{led|namn=TV1|fa=|grad=5-|typ=trad}}
+{{led|namn=TV2|fa=|grad=5+|text=Tv1 och Tv2 är de inbjudande sprickorna vänter om överhänget (Robin Hood)|typ=trad}}
+{{led|namn=Super Channel|grad=6-|fa=|text=Super Channel är fortsättningen på Tv1/Tv2|typ=trad}}
+{{led|namn=Robin Hood|grad=7b|fa=Jens Larssen|typ=sport|text=Det mycket inbjudande överhänget|typ=sport}}
+{{led|namn=Spricka nr 2|fa=|grad=5|text=Följer flaket|typ=trad}}
+{{led|namn=Lucifers längtan|grad=6|text=Samma start som Sheriffen fast rakt upp|typ=mix|fa=}}
+{{led|namn=Sheriffen|betyg=1|grad=7a+|fa=Jens Larssen|typ=sport}}
+{{led|namn=Little John|grad=6b|betyg=1|fa=Jens Larssen|text=Tar slut vid ringen|typ=sport}}
+{{led|namn=Sir väs|grad=8a|fa=Jens Larssen|text=Fortsättning på Little John, ska klättras ifrån backen (inte ifrån hängande stand)|typ=sport}}
+{{led|namn=30-årspresenten|grad=7-|typ=trad}}
+
+===Amaretto===
+{{led|namn=Fredriks långa näsa|grad=7-|typ=trad}}
+{{led|namn=Amaretto|grad=7a|fa=Patrik Svahn & Marcus Rimen}}
+{{led|namn=Flakmoppen|grad=5+|typ=trad|fa=|text=Flakmoppens utsteg heter Afrodite, Afrodite fortsätter och blir Helenas salva}}
+{{led|namn=?|grad=?|fa=Jens Larsson|text=sitter två topprepsankare till vänster om Mors lilla olle, singelbultar}}
+{{led|namn=?|grad=?|fa=Jens Larsson|text=Man ser ankarna ganska lätt ifrån foten av fikahyllan}}
+{{led|namn=Mors lilla Olle|grad=3a|betyg=|längd=|fa=[[Jens Larssen]]|bultar=|typ=sport|text=Upp till sista bulten|ny=1}}
+{{led|namn=I skogen gick|grad=5a|längd=|fa=[[Jens Larssen]]|bultar=|typ=sport|text=fortsättning på Mors lilla Olle|ny=1}}
+{{led|namn=Leden Jens glömde|grad=5-|längd=12|text=Sprickan rakt under Mors lilla Olles Ankare, sitter en gammal pitong fyra meter upp|typ=mix|fa=fa=längesen}}
+{{led|namn=Stå inte på vägen och säkra|grad=5b|betyg=|längd=|fa=[[Jens Larssen]]|bultar=|typ=sport|text=Bultarna är numera borttagna}}
+
+===Highwayhyllan===
+Highway-hyllan rekommenderas! Lättaste vägen är att gå skrambla ovanför Fikahyllan och följa bergets topp tills ni ser två firningsankare som tillhör Highway 66 och Sonic Youth. Insteget till sportlederna har två limbultar. Var försiktig så ni inte sparkar ner sten på Sheriffen, tänk på att ropa "Sten!". 
+{{led|namn=Tomas Aréte|grad=6+}}
+{{led|namn=Hans spricka|grad=5}}
+{{led|namn=Highway 66 | betyg=3|grad=5c|längd=10|typ=sport |text=Exponerad, Highway 66 är den arete som har ett firningsankare. |fa=Patrik Svahn}}
+{{led|namn=Sonic Youth|grad=6a+|längd=10|typ=sport | text= |fa=Krister Stoltz}}
+
+===Översta hyllan===
+Ovanför fikahyllan, skrambla ner eller klättra någon led mellan Svarta leden och Mr-100 upp. 
+{{led|namn=Helenas Salva|grad=4-}}
+{{led|namn=Johan 1|grad=4|typ=trad|text=Den välsäkrade sprickan, utmärkt nybörjareled!|fa=|betyg=3}}
+{{led|namn=Blodvite|grad=4+|fa=|text=Startar i diedret och följer sprickan. En del lösa grepp och en hel del smuts. Smutisigt utsteg. Leden får inga stjärnor. }}
+
+===Fikahyllan===
+Låt bli att topprepa direkt i ringarna! Använd egna karbiner. Från parkeringen gå in i skogen men parallellt med vägen, uppför. 
+{{led|namn=Afrodite|grad=5+|typ=trad}}
+{{led|namn=Svarta leden|grad=5+|typ=trad}}
+{{led|namn=Fladdermusen|grad=5|typ=trad}}
+{{led|namn=Tunnsprickan|grad=6|typ=trad}}
+{{led|namn=Teatime|grad=4|typ=sport}}
+
+{{led|namn=Mr100|grad=4a|längd=10|typ=sport|betyg=2}}
+
+{{led|namn=Den riktiga fikahyllan|ny=1|grad=4|typ=trad|fa=16 Oktober 2011|text=Offwidth-sprickan med samma start som Carl Gustavs HP, fast rakt upp.}}
+{{led|namn=Carl Gustavs HP|grad=6a|längd=10|typ=sport | text=Fin led|fa=|betyg=1}}
+{{led|namn=Silvias VF|grad=5c+|längd=10|typ=sport|betyg=2}}
+{{led|namn=Victiorias FM|grad=5|längd=10|typ=trad | text=Lätt att sätta upp topprep om man har ett statiskt rep med sig. Fin och nybörjarevänlig.|fa=|betyg=1}}
+{{led|namn=Nudisten|grad=4+|längd=10|typ=trad |fa=| text=Mycket fin nybörjareled. |betyg=3 }}
+{{led|namn=Subba|grad=6a|längd=10|typ=sport|fa= | text=Sportled oavsett vad som står i föraren. Mycket fin! |betyg=2}}
+{{led|namn=Bonus|grad=6-|längd=10|typ=topprep |fa=| text=Topprepsled som går rakt upp till ankaret. |betyg=3}}
+{{led|namn=Caffe Latte|grad=4c|längd=10|typ=sport|fa= | text= inget att rekommendera. }}
+{{led|namn=Espresso House|grad=3+|typ=trad|fa=13/6-2011|text=Dieder 4 meter till höger om Caffé Latte|ny=1}}
+
+
+[[Kategori:Göteborg]]
+
+===Mumindalen===
+Höger om parkeringen, istället för vänster om parkeringen där alla andra leder finns. 5-6 bultade leder av måttlig kvalité. Utrustade med firningsankare. Rekommenderas varma sommardagar då det är för varmt för att vara på fikahyllan eller då det är fullt av klättrare på alla andra områden av Aspen (händer).
+{{led|namn=Super Tilde|grad=4a|typ=projekt|text=Firningsankare på en liten vägg vänster om Mumindalen|fa=}} 
+{{led|namn=Mumin|grad=6a+|fa=Krister Stoltz}}
+{{led|namn=Hemulen|grad=5c|fa=Krister Stoltz}}
+{{led|namn=Lilla my|grad=?}}
+{{led|namn=Snorkfröken|grad=5b|fa=Krister Stoltz}}
+{{led|namn=Too-ticky|grad=6b|fa=Krister Stoltz}}
+{{led|namn=Stinky|grad=6b|fa=Peter Svahn}}
+{{led|namn=Ribbensdiedren|grad=5+|typ=trad|fa=Mikael Kristiansen}}

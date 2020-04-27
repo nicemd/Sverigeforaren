@@ -1,0 +1,23 @@
+{{utkast}}
+==Allmänt==
+På södra sluttningen av det 102 m höga berget (över havet!) finns ett par mindre klippor. Den norra klippan har svastruktur medan den södra är brantare med några spricklinjer. 
+
+==Vägbeskrivning==
+Högkullberget i södra ändan av den långa dal som väg 225 följer innan den går upp på Fullbro malm. Alldeles efter avtagsvägen mot Kagghamra gård går en enskild väg upp åt v, förbi några hus. Följ denna väg i ca 1 km tills den kommer ut på en äng. Klippan ligger uppe i skogen tv rakt in från ängens bortre hörn.
+
+Gamla koordinater: '''10 I SV 555156'''
+
+==Kommunikationer==
+Buss 783 stannar vid avtagsvägen till Kagghamra gård.
+
+==Leder==
+{{litentext|text=Det norra klippartiet har en markant dieder i sin högra del.}}
+{{led|nr=1|namn=Daggpunkt|grad=6-|längd=10|fa=[[Lars Grankvist]], [[Niklas Björnerstedt]] [[-84]]}}
+{{led|nr=2|namn=Maskerad|grad=4|längd=12|fa=[[Jeremy Sheehan]], [[Lars Svadängs]] [[-84]]}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Fituna]]
+[[Kategori:Sva]]
+[[Kategori:Vertikalt]]
+[[Kategori:Saknar karta]]
+[[Kategori:Gamla koordinater]]

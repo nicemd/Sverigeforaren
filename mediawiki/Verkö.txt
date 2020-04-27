@@ -1,0 +1,27 @@
+{{boulderstub}}
+{{info klippa
+  |lat=56.169951
+  |long=15.629547}}
+
+
+
+
+== Allmänt ==
+Fint område som ligger precis vid vattnet. Finns ett trettiotal problem med flera möjligheter till nya leder.
+
+==Vägbeskrivning==
+Från E22: 
+*Kör av på avfart 64 mot Karlskrona öst
+*Vid andra rondellen följ skyltar mot Verkö
+*När man kört över bron tar man fjärde vägen till höger. Det är en liten grusväg, väldigt lätt att missa.
+*Följ grusvägen ca 800m till en korsning.
+*Sväng vänster och parkera på grusplanen.
+Boulderområdet ligger ca 100m ner mot havet.
+
+==Karta==
+[[Fil:VerköABB.jpg]]
+
+==Problem==
+A stenen
+{{led|nr=1|namn=Led 1|grad=6||längd=4
+|typ=boulder|}}

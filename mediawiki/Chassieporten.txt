@@ -1,0 +1,52 @@
+{{info klippa
+  |lat=59.168391
+  |long=17.636906
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+
+==Allmänt==
+Liten klipp-snutt med fantastisk stenkvalitet, allt annat talar emot klippans helhetsintryck.
+Numera är det lite mer röjt så att klippan ligger lite mer exponerad utan träden som syns t v på bilden!
+
+==Vägbeskrivning==
+Järnagatan/Nyköpingsvägen utanför Scanias chassieverkstad, egentligen på andra sidan Scania än själva Chassieporten.
+
+
+<googlemap width=350 height=300 lat="59.168391" lon="17.636906" zoom="14" type="map" controls="small">
+59.168391,17.636906,[[Chassieporten]]
+</googlemap>
+<slresa>
+titel=Chassieporten
+lat=17636906
+long=59168391
+
+</slresa>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Sdt copy.jpg]]
+
+{{led|nr=1|namn=Ludmillaz|grad=6c|typ=trad|betyg=1|bultar=|längd=7|fa=[[Mikael Söderström]] -10|text=Solo}}
+{{led|nr=2|namn=Bayram|grad=7b+|typ=sport|betyg=1|bultar=|längd=9|fa=[[Robin Dahlberg]] -08|text=Upp o stå!}}
+{{led|nr=3|namn=Se upp!|grad=7c|typ=sport|betyg=0|bultar=3 + ankare|längd=9|fa=[[Johan Luhr]] -08|text=}}
+{{led|nr=4|namn=Ostkanten|grad=5 (5b)|typ=mix|betyg=0|bultar=1|längd=9|fa=[[Anders Henriksson]] 090517|text=Uppsprucket och flackt efter bulten. Ett kilknippe eller småkammar om man vill säkra ovanför bulten. Delar sista bult med "Se upp!".}}
+
+
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Stockholm]]
+[[Kategori:Västra Södertörn]]

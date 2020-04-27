@@ -1,0 +1,32 @@
+{{utkast}}
+{{info klippa|lat=61.83671|long=16.003647}}
+==Allmänt==
+Berget karakteriseras av svahällar, men det finns också kortare
+sprickturer att göra. Även någon kamin eller väggtur kan locka den
+inbitne. Två inte alltför mossiga väggar bildar bergets sydvägg, vars
+högsta höjd är ca 40 m. På den vänstra väggen finns möjlighet till
+flera svåra sva/väggturer och långa sprickturer. Nedanför berget finns en badplats och dessutom finns här tältmöjligheter.
+
+==Kommunikationer==
+<center>
+<googlemap version="0.9" lat="61.83671" lon="16.003647" type="terrain" zoom="10" height="200" scale="yes">
+61.848601, 15.9161, Ranungsberget
+</googlemap>
+</center>
+Berget är beläget norr om Ranugnssjön, ca en mil väster om Ljusdal.
+
+Med bil; Man följer vägen från Ljusdal till Föne och tar till höger
+vid en bro strax innan Ranugnssjön. Följ vägen till sjön och parkera i
+närheten av en av mötesplatserna nedanför branten.
+
+==Berget==
+[[Bild:ranungs.jpg]]
+
+==Sydväggen==
+{{led|namn=Buenos Wires|grad=5,5+|text=Fin, tunn spricka|fa=Olle och Erik Zeidlitz [[1993|-93]]}}
+{{led|namn=Psykopompus|grad=2,5|text=Flak/Svatur|fa=Olle och Erik Zeidlitz [[1993|-93]]}}
+
+
+[[Kategori:Saknar leder]] [[Kategori:Saknar karta]]
+[[Kategori:Hälsingland]] [[Kategori:Trad]]
+[[Kategori:Hälsingland]]

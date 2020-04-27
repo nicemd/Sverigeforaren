@@ -1,0 +1,31 @@
+{{info klippa
+  |lat=57.85019
+  |long=11.7478
+}}
+
+{{stub|extern=ja}}
+<googlemap lat="57.85019" lon="11.7478" zoom="9" type="map">
+57.85019,11.7478,Bräcke
+</googlemap>
+== Allmänt ==
+Området har två bultade kilturer, i grad 6. Sedan finns det ett gäng branta 8a-turer. Ludvig Hansson och Jens Larssen som har bultat. 
+== Leder ==
+{{led |namn=Sluta bulta mina kilturer|grad=4+|fa=13 maj 2011|text=I början av stigen finns en högerlutande spricka bakom en ek. |ny=1 }}
+
+{{led |namn=Bilbo | grad=6b/6- | text=Bultad, välsäkrad kiltur|fa=Bultad av Jens Larssen & Ludvig Hansson}}
+{{led |namn=Lukas | grad=6a/6-| text=Bultad kiltur|fa=Bultad av Jens Larssen & Ludvig Hansson}}
+
+{{led |namn=Tessy | grad=6c+}}
+{{led |namn=It ain't over until the fat lady sings |grad=7c+}}
+{{led |namn=Lycka till |grad=8a}}
+{{led |namn=Lyckans ost|grad=8a|fa=Henrik Seeliger}}
+{{led |namn=Arne Naess |grad=7c+|fa=Johan Luhr}}
+{{led |namn=Loch Ness|grad=8a}}
+{{led |namn=Ålen |grad=7c}}
+{{led |namn=Ormen|grad=6a+}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+'''Extern förare:''' http://www.gbg-guiden.info/site/archives/karna_v16.pdf
+
+[[Kategori:Göteborg]]

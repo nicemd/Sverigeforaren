@@ -1,0 +1,51 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.170914
+  |long=18.137398
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+
+==Allmänt==
+Klippan ligger vid sjön Rudan i Handen och är väl synlig från pendeltåget, alldeles innan stationen. Sitt namn har berget fått pga dess stora likhet med ett elefanthuvud som med sin snabel dricker ur Rudans vatten.
+
+==Miljö==
+Nord och väst, öppet för solen. Sipprigt på vår och höst.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.170914" lon="18.137398" type="map" zoom="13" width="300" height="225">
+59.171596, 18.133578, Elefantberget
+</googlemap>
+</div>
+Ta av från Nynäshamnsvägen mot Handen. Strax norr om Handen ta h (om du kommer norrifrån) på Kolartorpsvägen. Efter järnvägen, ta v på Ängsvägen och sedan v igen på Sotargränd. Parkera en bit in i skogen. Klippan ligger några hundra meter längre fram.
+
+Klippan ligger extremt nära den fina boulderingen i [[Kolartorp]].
+
+==Kommunikationer==
+Från Handens pendeltågsstation, gå runt sjöns södra ände och gå tillbaka mot norr uppe på berget.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+{{led|nr=1|namn=Taste of hell|grad=7+/8|längd=|fa=[[Daniel Bidner]] [[-84]]}}
+{{led|nr=2|namn=Taste of heaven|grad=?|längd=|fa=[[D Vilhelm Casteel]], [[Stefan Kallin FF]], [[Daniel Bidner]] [[-84]]}}
+{{led|nr=3|namn=Elefantsprickan|grad=9-/9|längd=~13|fa=[[Lars Grankvist]], [[Rikard Hedman]] [[-80]] FF: [[Johan Luhr]] [[-94]]|text=Bultad av JL, DWS/Solad av Stefan Wulf 2007 (?)}}
+{{led|nr=4|namn=Krakeli brak|grad=8-|längd=|fa=[[Johan Luhr]] [[-94]]}}
+{{led|nr=5|namn=Pip|grad=7+/8|längd=|fa=[[Johan Luhr]], [[M Denkert]] [[-94]]}}
+{{led|nr=6|namn=Pellefant|grad=4+|längd=~10|fa=[[Daniel Bidner]] [[-83]]}}
+{{led|nr=7|namn=610 Newton|grad=6-|längd=~8|fa=[[Daniel Bidner]], [[Stefan Kallin]] [[-83]]}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:DWS]]
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Stockholm]]

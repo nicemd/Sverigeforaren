@@ -1,0 +1,97 @@
+{{info klippa
+  |lat=57.640568
+  |long=15.589551
+}}
+
+{{utkast}}
+[[Kategori:Trad]][[Kategori:Sport]][[Kategori:Sva]]
+
+Klippa nära Mariannelund med obegränsad access. Klippan bjuder på både sportklättring och trad, är ca 10-40m hög och vätter mot öst.
+
+De första dokumenterade lederna är från 1983 och berget har sedan dess varit populärt resmål för klättrare som inte räds sägner och rykten. Klippan lutar åt "rätt" håll för de flesta och erbjuder många fina leder. Ta med myggstift.
+
+Sprickorna ger bra kilplaceringar. Dubblerade mellanstora kilar hjälper dig mer än kamsäkringar.
+
+==Vägbeskrivning==
+
+<googlemap width=350 height=300 lat="57.620329" lon="15.568838" zoom="11" type="map" controls="small">
+57.640568,15.589551,[[Trollevägga]]
+</googlemap>
+
+Omedelbart öster om Mariannelund, följ väg norrut mot Kåremåla i ca 2 km. Parkera vid vandringsleden och följ denna ca 500 m in till berget.
+
+[http://www.hitta.se/LargeMap.aspx?z=6&cx=1484631&cy=6390571&PointX=1487111&PointY=6390671&referrer&var=Mariannelund&wflWhite=1a1b&wflPink=4a&SearchType=4&name=Trollev%e4gga&weather=true&forecastDate=&showTraffic=false Kolla vädret vid Trollevägga]
+
+==Leder==
+{{led|namn=I'm safe Bob|grad=4|betyg=|längd=25|fa=[[Tommy Schultz]] [[1996|-96]]|bultar=|typ=trad}}
+
+{{led|namn=En halvböj|grad=6+|betyg=|längd=30?|fa=|bultar=|typ=trad}}
+
+{{led|namn=Trolldansen|grad=7a|betyg=2|längd=17|fa=[[Jim Wasmuth]] [[1992|-92]]|bultar=6|typ=sport}}
+
+{{led|namn=Den sista Asolon|grad=6+|betyg=|längd=17|fa=[[Patrik Andersson]] [[1985|-85]]|bultar=|typ=trad}}
+
+{{led|namn=Expanderande traversen|grad=3, 5, 6|betyg=|längd=110|fa=|bultar=|typ=trad|text=Tre replängders travers! Var beredd på mossa i partierna mellan andra leder.}}
+
+{{led|namn=Vågspel|grad=5-|betyg=2|längd=35|fa=[[Jim Wasmuth]] [[1983|-83]]|bultar=|typ=trad|text=Trettiofem meter ren njutning!}}
+
+{{led|namn=Inflationen|grad=4+|betyg=1|längd=35|fa=[[Jim Wasmuth]] [[1983|-83]]|bultar=|typ=trad}}
+
+''Varianter:''
+
+{{led|namn=Ökad inflation|grad=6+|betyg=|längd=12|fa=[[Jacob Sjöstrand]] [[1984|-84]]|bultar=|typ=trad}}
+
+{{led|namn=Evas fingerborg|grad=6|betyg=|längd=15|fa=[[Patrik Andersson]] [[1984|-84]]|bultar=|typ=trad}}
+
+{{led|namn=Banditen|grad=6|betyg=|längd=40|fa=[[Jan Stenström]] [[1995|-95]]|bultar=3|typ=mix}}
+
+{{led|namn=Dackefejden|grad=3+|betyg=1|längd=40|fa=[[Tommy Schultz]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|namn=EKG|grad=5+|betyg=|längd=20|fa=[[Fredrik Ohlsson]] [[1984|-84]]|bultar=|typ=trad}}
+
+{{led|namn=Alta Via|grad=6-|betyg=|längd=45|fa=[[Tommy Schultz]] [[1998|-98]]|bultar=|typ=trad}}
+
+{{led|namn=Påskliljan|grad=6-6-|betyg=|längd=45|fa=[[Tommy Schultz]] [[1998|-98]]|bultar=3|typ=mix}}
+
+{{led|namn=Solrosen|grad=5+|betyg=|längd=40|fa=[[Gunnar Woodsack]] [[1994|-94]]|bultar=6|typ=mix}}
+
+{{led|namn=Long John|grad=5+|betyg=3|längd=40|fa=[[Jim Wasmuth]] [[1983|-83]]|bultar=|typ=trad}}
+
+''Varianter (svårsäkrade):''
+
+{{led|namn=Jacobs led|grad=6|betyg=|längd=20|fa=[[Jacob Sjöstrand]] [[1984|-84]]|bultar=|typ=trad}}
+
+{{led|namn=Polskt regnväder|grad=6|betyg=|längd=15|fa=[[Jacob Sjöstrand]] [[1984|-84]]|bultar=|typ=trad}}
+
+{{led|namn=Mörka småland|grad=5+|betyg=|längd=40|fa=[[Tommy Schultz]] [[1996|-96]]|bultar=|typ=trad}}
+
+{{led|namn=Sulan slinter|grad=6|betyg=|längd=40|fa=[[Tommy Schultz]] [[1998|-98]]|bultar=3|typ=mix}}
+
+{{led|namn=Älvornas dans|grad=6|betyg=|längd=30|fa=[[Johan Strömstad]] [[1990|-90]]|bultar=|typ=trad}}
+
+{{led|namn=Trollegata|grad=5-|betyg=3|längd=30|fa=[[Jacob Sjöstrand]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|namn=Zonterapi|grad=6-|betyg=|längd=30|fa=[[Tommy Schultz]] [[1996|-96]]|bultar=2|typ=mix}}
+
+{{led|namn=Spinkmina|grad=5a|betyg=|längd=25|fa=[[Jim Wasmuth]] [[1990|-90]]|bultar=7|typ=sport}}
+
+{{led|namn=Lambada|grad=4a|betyg=|längd=15|fa=[[Jim Wasmuth]] [[1990|-90]]|bultar=5|typ=sport}}
+
+{{led|namn=X|grad=4-|betyg=|längd=20|fa=[[Göran Nachtweij]] [[1983|-83]]|bultar=|typ=trad}}
+
+{{led|namn=Y|grad=6|betyg=|längd=20|fa=[[Tommy Schultz]] [[1983|-83]]|bultar=|typ=trad}}
+
+
+Till höger om huvudväggen ligger också:
+
+{{led|namn=Tvärstopp|grad=6|betyg=|längd=10|fa=[[Stefan Pettersson]] [[1984|-84]]|bultar=|typ=trad}}
+
+{{led|namn=Spindeln|grad=6|betyg=|längd=10|fa=[[Bobby Larsson]] [[1984|-84]]|bultar=|typ=trad}}
+
+==Länkar==
+[http://www.linkopingsklatterklubb.se/index.php/trollevagga.html Linköpings klätterklubbs beskrivning av Trollevägga].
+
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+[[Kategori:Småland]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

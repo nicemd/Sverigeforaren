@@ -1,0 +1,293 @@
+{{info klippa
+  |lat=59.34278
+  |long=18.37871
+}}
+
+{{utkast}}
+[[bild:Skevik.jpg|thumb|250px|Vy från ängen mot klippan]] 
+
+==Allmänt==
+Mycket imponerande och populär klippa med mycket fin sportklättring i graderna 6c-7c+.
+
+==Beskrivning==
+På Ormingelandet, ca 2 mil O om Stockholm, ligger denna mycket imponerande klätterklippa. Jätteblock bildar en effektiv barriär nedanför berget och förklarar varför platsen i folkmun fått namnet Skeviksgrottan. Höga träd och blockterräng i övrigt förstärker detta intryck. Väggpartierna, som är branta och ofta svagt överhängande, når en höjd av 30m och bildar en halvcirkelformad amfiteater av omkring 100 m längd som        är vänd mot väst. Klippans karaktär är mestadels sprick- och strukturrik, men med en del kompakta        partier. Lösa skivor och block förekommer även om huvuddelen av lederna har fast klippa. Sammantaget innebär detta att utbudet av leder till övervägande del hänför sig till svårighetsgraden 6 och däröver. Det är också dessa som ger den bästa klättringen. Platsen är ett lagskyddat fornminne och besöks framför allt av     andra än vi klättrare. Ta hänsyn till detta. Slutligen ett par ord om säkringsmedel. Sedan den artificiella eran sitter ett antal rostiga bultar kvar. De för dock en tynande tillvaro och det är bara en tidsfråga innan de vittrat bort. På de nyare turerna sitter en och annan färsk fix bult och ett numera ganska stort antal borrbultar! Generellt går det bra att förstärka sina säkringar med en uppsättning vajerkilar. Friends förgyller som alltid tillvaron. 
+
+Mycket fin sportklättring för den som ligger mellan 6c+ och 7c+. Lätt överhängande med god friktion. Har nyligen fått ett antal nya välbultade leder som {{ledlänk|namn=Ryska fakulteten}} 7b och {{ledlänk|namn=Luftslottet direkt}} 6c+. 
+
+==Miljö:==
+Väst, stora delar skuggiga men bitvis öppet för solen. Klippan torkar relativt fort efter regn.
+
+<div style="clear:right"></div>
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.34278" lon="18.37871" zoom="14" type="map" controls="small">
+59.34278,18.37871,[[Skevik]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Skevik
+lat=18378710
+long=59342780
+</slresa>
+</div> 
+
+[[bild:Skevik-overview.png|thumb|200px|right|Skiss av klippan sedd uppifrån]]
+Kör väg 222 mot Gustavsberg. Sväng av vid avfart Norra Lagnö / Skevik. Ta andra vänster in på Lagnövägen, kör tills du kommer ut till en T-korsning. Sväng höger in på Skeviksvägen (riktning Gustavsberg) och ta vänster efter ca 1km vid  busshållplats Koviks hagar finns en vägbom.  Fortsätt 300 m norrut längs Lagnövägen för att hitta parkering.Följ sen traktorvägen till fots. Ta vänster på ängen och du ser klippan (se bild).
+
+'''UPPDATERING''' Låst bom uppsatt av markägaren pga mycket bil- och skräpdumpning så att parkering är omöjlig på den tidigare parkeringsplatsen. Är grinden öppen och man kör in och parkerar så riskerar man att bli inlåst bakom grinden i en vecka.
+
+Kommer du från Gustavsberg - åk förbi OK-macken, ta vänster på skeviksvägen. Du åker förbi [[Gustavsbergs Vattentorn]] efter bara 50 meter. Fortsätt ca 2-3 km och ta av höger vid samma busshållplats och lilla skylt.
+
+<div style="clear:right"></div>
+
+==Leder==
+{{sidbrytning}}
+===Lilla och vänstra väggen===
+[[Bild:Skevik_v.png]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Rivstart|grad=7c+}}
+
+{{led|nr=1|namn=Släng dig i väggen|grad=8-|längd=6|fa=[[Johan Luhr]] [[-91]]}}
+
+{{led|nr=2|namn=Kraftmaskin|grad=7a+|typ=trad|längd=7|fa=[[Lars Thulin]], [[Johan Arnegård ]][[-87]] FF, [[Johan Luhr]], [[Mattias Flodin]] [[-88]]}}
+
+{{led|nr=3|namn=Fader Berg|grad=5|längd=12|fa=[[Jan Nyström]] [[-77]]}}
+
+{{led|nr=4|namn=Arrêtera|grad=6c|typ=sport|längd=14|fa=[[Anders Lundahl]], [[Eva Selin]] [[-90]]|text=Tung klättring på arêten. Saknar hängare på första bulten.}}
+
+{{led|nr=5|namn=Mylingen|grad=6b|typ=sport|längd=14|fa=[[Kristian Dahlgren]] [[-88]]|text=Den vänstra leden på lilla väggen. Är nu ok bultad.}}
+
+{{led|namn=Hål i dig|grad=6b|typ=sport|text=Den högra leden. Boulder-start sedan lättare. }}
+
+{{led|nr=6|namn=Lilla kaminen|grad=3-|längd=14}}
+
+{{led|namn=Café opera|grad=6c+|typ=sport|text=Lättare om man använder väggen till vänster}}
+
+{{led|nr=7|namn=Hard rock café|grad=7a|typ=sport|fa=[[Eva Selin]]/ [[Anders Lundahl]] [[1988|-88]]|text=Klassiker!}}
+
+{{led|nr=8|namn=Let there be rock|grad=7c|typ=sport|[[Johan Luhr]] [[1991|-91]]|text=Sva-insteg, sedan överhängande och dynamisk!}}
+
+{{led|nr=9|namn=Voodoo|grad=7b|typ=sport| fa=[[Anders Lundahl]][[1988|-88]]}}
+
+{{led|nr=10|namn=Den ofullbordade|grad=6a+|typ=trad|fa=[[Eva Selin]]/ [[Anders Lundahl]][[1981|-81]]}}
+
+| width="250px" |
+
+{{led|namn=Rovdjuret|grad=7c+|typ=sport|text=Startar med insteget på Faiblesse, sedan vänster och upp. Slutar vid Faiblesses ankaret mitt på väggen.}}
+
+{{led|nr=11|namn=Faiblesse|grad=6b+|typ=sport|fa=[[Anders Lundahl]][[1988|-88]]|text=Balansig klättring i längst en spricka. Slutar mitt på vägg. Nybultad. Fin!}}
+
+{{led|nr=11a|namn=Vilddjuret|grad=8a|typ=sport|fa=[[Johan Luhr]][[1991|-91]]|text=Startar med Faiblesse, upp i diedern och sedan vänster genom överhänget.}}
+
+{{led|namn=Vildmannen|grad=8a+|typ=sport|text=Kombination Rovdjuret + Vilddjuret}}
+
+{{led|nr=11b|namn=Ingen vinner|grad=7c|typ=sport|fa=[[Anders Lundahl]][[1991|-91]]|text=Startar med Faiblesse, sedan snett upp åt höger.}}
+
+{{led|nr=12|namn=Direktknöl|grad=6+|betyg=|längd=6|fa=[[Anders Lundahl]]/ [[Eva Selin]][[1989|-89]]|bultar=|typ=|text=}}
+
+{{led|nr=13|namn=Knölleden|grad=5+|betyg=|längd=25|fa=|bultar=|typ=|text=}}
+
+{{led|namn=Kattresan|grad=7b+|typ=sport|text=Startar med Ingen vinner, sedan ännu mer åt höger. Fin! Obs! En stor sten känns lös efter högertraversen - var försiktiga!}}
+
+{{led|nr=14|namn=Delphi|grad=7/7+|typ=trad|fa=[[Anders Lundahl]]/ [[Eva Selin]][[1988|-88]]}}
+
+{{led|nr=14a|namn=Guru|grad=8-|typ=sport|fa=[[Anders Lundahl]][[1988|-88]]|text=Logisk fortsättning på Delphi. Startar mitt på väggen på hylla}}
+
+| width="250px" |
+
+{{led|nr=15|namn=Melphi|grad=7b}}
+
+{{led|nr=16|namn=Knäleden|grad=4+|längd=25|text=Startar som Knölleden snett åt höger}}
+
+{{led|nr=17|namn=Levande legender|grad=7|betyg=1|längd=20|fa=[[Anders Lundahl]]/[[Eva Selin]][[1989|-89]]|bultar=|typ=mix|text=Troligen inte ofta klättrad. Upp till en hylla.}}
+
+{{led|nr=18|namn=I mörkaste Peru|grad=6-|betyg=|längd=20|fa=[[Lars Svadangs]]/[[Rikard Hedman]][[1981|-81]]|bultar=|typ=mix|text=Troligen inte ofta klättrad. Upp till en hylla. Startar bakom en stor lind}}
+
+{{led|nr=19|namn=Spaghettiwesterns fader|grad=7-|längd=6|typ=sport|fa=[[Eva Selin]], [[Anders Lundahl]][[1988|-88]]|text=Enbart utsteg}}
+
+{{led|nr=20|namn=Rurprapsodi|grad=7|längd=7|fa=[[Eva Selin]], [[Anders Lundahl]] -84|typ=mix|text=Ev svårare pga lossnade grepp}}
+
+{{led|namn=Insteg|grad=6a?|typ=sport|text=Bultat gemensamt insteg till {{ledlänk|namn=Puls}} och {{ledlänk|namn=Vrålfinger}}}}
+
+{{led|nr=21|namn=Vrålfinger|grad=7a|betyg=1|typ=sport|text=Samma insteg som Puls}}
+
+{{led|nr=22a|namn=Puls|grad=7c+|betyg=2|typ=sport|fa=[[Johan Luhr]][[1991|-91]]|text=Tung, intensiv, ihållande och känslig - allt en riktigt hård led ska vara!}}
+
+{{led|nr=22|namn=Centralpelaren|grad=6a+|betyg=2|typ=trad|fa=[[Anders Lundahl]]/ [[Eva Selin]][[1979|-79]]|text=Klassiker som inte är helt lätt. Varning för rostiga pitonger.}}
+
+{{led|nr=22b|namn=Septembersol|grad=5+|typ=trad|text=Alt. utsteg}}
+|}
+
+{{sidbrytning}}
+
+===Högra väggen===
+[[Bild:Skevik_h.png]]
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|nr=23|namn=Irrbloss|grad=7/7+|längd=20|typ=trad|text=Starta med Centralpelaren sedan ut höger}}
+
+{{led|nr=23a|namn=Irrbloss direktsinsteg|grad=7|längd=10|typ=mix|text=}}
+
+{{led|namn=Nattsudd|grad=7b+|typ=sport|text=Balans. Slutar mitt på väggen.}}
+
+{{led|nr=24|namn=Fobi|grad=7b+|längd=28|betyg=1|typ=sport|fa=[[Anders Lundahl]][[1988|-88]]|text=12bb och ett ankare (-08)}}
+
+{{led|nr=24a|namn=Resa till natten ände|grad=7a+/7b|längd=28|typ=sport|fa=[[Stefan Kalén]][[ 2013]]|text=Två första bultarna på Fobi sedan till höger om Fobi och rakt upp. Ankare, kedjan vid toppen.}}
+
+{{led|nr=25|namn=Silicon valley|grad=7-|längd=28|typ=sport|fa=[[Eva Selin]], [[Anders Lundahl]][[1989|-89]]|text=Superdirettissima med start i vänsterkant av svaplattan. Säkras med 10bb och har försetts med eget ankare. Alla bultar utom en satta -08}}
+
+{{led|nr=26|namn=Syttende mai|grad=6c|betyg=1|typ=sport|fa=[[Eva Selin]], [[Anders Lundahl]][[1983|-83]]}}
+
+{{led|nr=27|namn=Magnesia Carbonara|grad=6c|typ=sport|fa=[[Anders Lundahl]], [[Eva Selin]][[1989|-89]]|text=6 borrbultar, ombultad -08. Kedjorna i ankaret utbytta mot stålringar.}}
+
+{{led|nr=28|namn=Solero|grad=5+|betyg=|längd=7|fa=[[Anders Lundahl]][[1989|-89]]|typ=sport|text= Används med fördel som direktinsteg till {{ledlänk|namn=Syttende mai}} och {{ledlänk|namn=Magnesia Carbonara}}. Förstärkt, -08, med ytterligare en bult på insteget.}}
+
+{{led|namn=Coop|grad=6c+|typ=sport|text=Samma insteg som Konsum, men viker av vänster mitt på väggen. Övre delen gemensam med Spöksonaten.}}
+
+{{led|namn=Konsum|grad=6c|typ=sport|betyg=2|text=Samma insteg som Coop. Fin klättring längs arêten.}}
+
+| width="250px" |
+
+{{led|nr=31|namn=Atlantis|grad=7a+|typ=mix|fa=[[Eva Selin]], [[Anders Lundahl]][[1984|-84]]|text=Lång och ihållande.}}
+
+{{led|nr=32|namn=Spöksonaten|grad=6b+|typ=mix|fa=[[Anders Lundahl]], [[Eva Selin]][[1983|-83]]|text=Sällan klättrad. Övre delen har i princip övertagits av {{ledlänk|namn=Coop}} som i stort sett följer samma sträckning. Nedre delen har också delvis bultats och ingår numera i Luftslottet direkt (om man gör som de flesta och håller vänster om bultarna). Mittpartiet upp till tvärsprickan och vidare upp i den korta, högervända diedern är fortfarande kilsäkrat. Klättras nästan aldrig.}}
+
+{{led|nr=33|namn=Luftslottet|grad=6c+|typ=sport|fa=[[Eva Selin]], [[Anders Lundahl]][[1988|-88]]|text=Hade tidigare en bladbult, men är nu helbultad. }}
+
+{{led|nr=33a|namn=Luftslottet direkt|grad=6c+|typ=sport|fa=[[Peter Yakubenko]][[2006|-06]]|text=Ett alternativ till Icones som klippans uppvärmningsled. Den är en förlängning av Luftslottet som finns med i gamla Stockholmsföraren. Startar uppför det sneda blocket ca 2 meter tills man når första bulten, där går man över från blocket till själva väggen och därefter i stort sett rakt upp emellan Atlantis och Tabu upp till originalleden. Enligt förstabestigaren går leden till höger om bultarna (nära Tabu), men de flesta håller sig på vänster sida. Välsäkrad med 9 bb (-06) och ett ankare med två ringar.}}
+
+{{led|nr=34|namn=Tabu|grad=7b|betyg=3|typ=sport|fa=[[Eva Selin]], [[Anders Lundahl]][[1988|-88]]|text=Lång och ihållande. }}
+
+{{led|namn=Ryska fakulteten|grad=7b|fa=[[Peter Yakubenko]][[2005|-05]]|typ=sport|text=Startar med Tabu, sedan höger genom lilla taket.}}
+
+{{led|nr=35|namn=Huvudleden|grad=6c+|typ=trad|fa=[[Jan Liliemark]], [[Lars Svadangs]][[1981|-81]]}}
+
+{{led|nr=36|namn=Megaplus|grad=7a+|typ=mix|text=Fin men sällan klättrad.}}
+
+| width="250px" |
+
+{{led|nr=37|namn=Megadans|grad=7c|typ=sport|fa=[[Johan Luhr]][[1991|-91]]|text=Megaballt krux! Nya borrbultar -05.}}
+
+{{led|namn=Megautsteg|grad=7b+|typ=sport|text=Fortsätt rakt upp förbi ankaret på Megadans till klippans topp. Svår och dynamisk väggklättring. 2bb och toppankare.}}
+
+{{led|nr=38|namn=Non stop|grad=7b|betyg=2|typ=sport|fa=[[Anders Lundahl]][[1984|-84]] / [[Eva Selin]], [[Anders Lundahl (direktutsteg)]][[1989|-89]]|text=Tekniskt fotarbete belönas. Svårare än Tabu. Ihållande i nedre delen och med en liten "sting in the tail" på slutet.}}
+
+{{led|nr=39|namn=Pumpmaskin|grad=7a+|typ=sport|fa=[[Johan Luhr]], [[Rikard Hedman]][[1989|-89]]|text=Pumpig :-)}}
+
+{{led|nr=41|namn=Icones|grad=6c+|betyg=2|typ=sport|fa=[[Anders Lundahl]], [[Eva Selin]][[1989|-89]]|text=Fin led som alltid är upptagen!}}
+
+{{led|nr=41a|namn=Bates motel|grad=7/7+|betyg=|typ=sport|fa=[[Claes Jelinek]], [[Daniel Bidner]][[1991|-91]]|text=Utstegsvariant till Icones. Går rakt upp genom taket där Icones viker av åt vänster på mitten.}}
+
+{{led|nr=42|namn=Via Aqua|grad=6+/7-|typ=trad|fa=[[Jan Liliemark]], [[Lars Grankvist]][[1981|-81]]}}
+
+{{led|nr=43|namn=Hamlet|grad=7a|betyg=|typ=sport|fa=[[Anders Lundahl]][[1987|-87]]|text=Väggklättring till höger om Via Aqua.}}
+
+{{led|nr=44|namn=Snabbare än tiden|grad=6c+|betyg=|typ=sport|fa=[[Daniel Bidner]][[1985|-85]]|text=Väggtur th om Hamlet som numera är helbultad. Startar antingen med ''Icones'' insteg eller via ''Spigollo Rosso''. I båda fallen får man göra en mossig travers till ledens första borrbult. Några långa slingor för att undvika repdrag kan vara bra. Sedan teknisk och ihållande väggklättring.}}
+
+{{led|nr=45|namn=Spigollo Rosso|grad=5a|betyg=|typ=sport|fa=[[Jan Nyström]], [[Bengt Hansson]][[1978|-78]] / [[Niklas Björnerstedt (direktutsteg)]][[1983|-83]]|text=Första delen längs arêten har bultats och försetts med ankare.}}
+|}
+
+{{sidbrytning}}
+
+===Sidoväggen===
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|namn=Längtan till landet|grad=6b|typ=sport}}
+
+{{led|namn=Land som stiger|grad=6c|typ=sport|fa=[[Anders Lundahl]]/ [[Eva Selin]][[1988|-88]]}}
+
+{{led|namn=Reach boys|grad=7b+|typ=mix|fa=[[Anders Lundahl]][[1990|-90]]}}
+
+{{led|namn=Verve|grad=7C+|typ=boulder|fa=[[Chris Ellis]][[2002|-02]]|text=Sittstart med avslut i Reach boys juggar. Repeterad i feb 2008.}}
+
+{{led|namn=Jump|grad=7b|fa=[[Johan Luhr]][[1991|-91]]}}
+
+{{led|nr=|namn=Bonden Pavul|grad=6|betyg=|längd=12|fa=[[Magnus Budre]]/[[Daniel Bidner]][[1989|-89]]|bultar=|typ=|text=2m t v om Böhlstark. Samma standplats som Böhlstark.}}
+
+| width="350px" |
+
+{{led|namn=Böhlstark|grad=6b|typ=mix|fa=[[Eva Selin]][[1988|-88]]}}
+
+{{led|namn=Toshiba|grad=7b}}
+
+{{led|namn=Hale hopp vänster|grad=7c+}}
+
+{{led|namn=Hale hopp direkt|grad=8a}}
+
+{{led|namn=Fugazi|grad=7b+|fa=[[Johan Luhr]]/ [[Rikard Hedman]][[1989|-89]]}}
+
+{{led|nr=|namn=NeuroLavemange live|grad=6/6+|betyg=|längd=9|fa=[[Magnus Budre]]/[[Daniel Bidner]][[1989|-89]]|bultar=|typ=|text=sju meter th om Bohlstark vid ett skarpt litet tak}}
+|}
+
+===Bouldering===
+
+[[Bild:skevik8.jpg|500px]]
+
+Från höger till vänster:
+
+[[Bild:Skevik1.jpg]]
+
+{{led|name=Projekt|grad=Vet ej|typ=boulder|fa=[[Som vill]][[?]]|text=??.}}
+
+[[Bild:Skevik2.jpg]]
+
+{{led|namn=Delusion|grad=8B+|typ=boulder|fa=[[Per Norgren]][[2010|-10]]|text=??.}}
+
+{{led|namn=Svält|grad=7B|typ=boulder|fa=[[Matte Nyberg]][[2008|-08]]|text=Starta i två tydliga undercling.}}
+
+{{led|namn=Svält ss|grad=7C|typ=boulder|fa=[[Per Norgren]][[2010|-10]]|text=??.}}
+
+{{led|namn= ?|grad=7A|typ=boulder|fa=[[Johan Luhr?]][[2004|-04]]|text=Det här ser ut som insteget till Böhlstark. Böhlstark ss då kanske...?}}
+
+[[Bild:Skevik3.jpg]]
+
+{{led|namn=?|grad=7B|typ=boulder|fa=[[Johan Luhr?]][[2004|-04]]|text=??.}}
+
+[[Bild:Skevik4.jpg]]
+
+{{led|namn=Verve|grad=7C+|typ=boulder|fa=[[Chris Ellis]][[2002|-02]]|text=Sittstart med avslut i Reach boys juggar. Repeterad i feb 2008.}}
+
+{{led|namn=Clarity|grad=8B+|typ=boulder|fa=[[Per Norgren]][[2009|-09]]|text=samma Startgrepp som Verve går sedan till höger om Verve.}}
+
+{{led|namn=Diversion|grad=7C|typ=boulder|fa=[[Peter Lindmark]][[2010|-10]]|text=Samma start som 7B nedan och samma slut som Verve.}}
+
+{{led|namn=?|grad=7B|typ=boulder|fa=[[Johan Luhr?]][[2004|-04]]|text=??.}}
+
+Sedan finns det längs längs back på vänstra sidan, mittemot "Lilla Väggen":
+
+[[Bild:Skevik5.jpg]]
+
+{{led|namn=Color Blind|grad=7C|typ=boulder|fa=[[Per Norgren?]][[2010|-10]]|text=??.}}
+
+==Kuriosa==
+I Kvarteret Skatans avsnitt [http://svt.se/svt/road/Classic/shared/mediacenter/index.jsp?d=56027&a=651005 "På mansläger med Ernst"] knuffas den odräglige mullefarbrorn Ernst tragiskt ut för en klippa. Detta sker ungefär vid ankaret till {{ledlänk|namn=Luftslottet direkt}} och Ernst landar hårt i närheten av insteget till {{ledlänk|namn=Tabu}}. Det bör dock påpekas att man i verkligheten troligtvis ''inte'' överlever fallet (i synnerhet inte om det sker med huvudet först), och att man i än mindre utsträckning lär vara i form för att begås av Kåta Gun efteråt. Carpe Diem.
+
+
+Kulturhistoria: Under 1700-talets mitt användes " grottan " som 
+gudstjänstlokal för en religös sekt, de sk Skevikarna. Samfundet 
+bildades av två finska prästsöner Jakob och Erik Eriksson. 
+De förkastade kyrkans ritualer och blev dömda till landsflykt, 
+i elva år drev de runt i Europa innan de fann en fristad på gården 
+Skevik. Enligt traditionen förkunnade de sin lära nere i Skeviksgrottan.
+
+Ur: Grottor i stockholms län.
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Trad]]
+[[Kategori:Sport]]
+[[Kategori:Vertikalt]]
+[[Kategori:Överhäng]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Saknar lednummer]]

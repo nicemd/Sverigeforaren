@@ -1,0 +1,42 @@
+{{isutkast}}
+
+== Allmänt ==
+Isarna i liden, som ligger i kanten på Indalsälvens dalgång, bjuder på det mesta från 15m WI2 till 80m WI4. Observera att om man vill sätta topprep (Trappstegsfallet/Göteborgsisarna) så blir man illa tvungen att leda upp en av WI2 fallen för att ta sig till hyllorna ovanför.
+
+För aktuellt isläge/övriga frågor se forumet [http://www.sundsvallsklatterklubb.se/forum/viewforum.php?f=20 Sundsvalls Klätterklubb].
+
+== Vägbeskrivning ==
+[[Bild:Trappstegsfallet.jpg|thumb|300px|right|Trappstegsfallet, dec 2007. Foto: Jonas Bäckström]]
+[[Bild:Liden_2.jpg|thumb|300px|right|Vänstra fallet, Göteborgsisarna, dec 2007. Foto: Jonas Bäckström]]
+[[Bild:Liden_stora_fallet.jpg|thumb|300px|right|Stora fallet, jan 2009. Foto: Jonas Bäckström]]
+[[Bild:Liden_4.jpg|thumb|300px|right|Mittpelaren, Göteborgsisarna, jan 2008. Foto: Johan Hedman]]
+Åk till Liden efter väg 86 och sväng av mot skidbacken (Berget syns nu tydligt och man kan skymta stora fallet). Följ den slingrande vägen ner till och över Indalsälven, håll därefter höger.
+
+'''Göteborgsisarna:''' Fortsätt vägen 1.3km tills du kommer till en äng och ett hus på höger sida. Parkera på vägen strax bortom huset (är oftast plogat extra brett där).
+
+Anmarschen tar ca 5min att gå. Fortsätt längs vägen du parkerat ca 200m och tag därefter av åt vänster in på en stig. Följ stigen till kraftledningen och och gå sedan rakt mot berget så kan du inte missa isarna!
+
+'''Trappstegsfallet:''' Samma parkering som Göteborgsisarna.
+
+Gå tillbaka längs vägen du kom och precis efter huset ta höger upp på stigen. Ta vänster i första T-korsningen och sedan rakt fram i den andra, upp i skogen och ut under kraftledningen. Gå sedan åt vänster tills dess att du passerat de två stora blocken och står mitt i mellan blocken och kraftledningsstolparna (i en liten svacka). Gå därefter rakt upp mot berget ~150m för att nå fallet.
+
+'''Skjutbaneisarna:''' Istället för att ta höger efter bron över älven så tar ni vänster. Ta därefter första vägen åt höger (vid dansbanan) och fortsätt ca 500m och parkera där vägen tar slut. 
+Ni kan nu se isarna rakt fram på bergväggen. Precis där slalombacken slutar (nedersta lyktstolpen) går det in en liten stig. Följ denna stig ca 300m tills ni når ett hygge, följ den vänstra hyggeskanten rakt upp igenom skogen (~200m) så når ni fallet.
+
+'''Storafallet:''' Samma parkering som Göteborgsisarna. (OBS! Parkera inte på den upplogade mötesplatsen då detta hindrar plogbilen!).
+
+Anmarschen tar ca 20-30min att gå. Gå tillbaka längs vägen, runt svängen och under kraftledningen till dess att du kommer fram till ett gammalt hygge (750m). Gå sedan rakt upp mot berget så kan du inte missa fallet (~350m).
+
+== Klättringen ==
+Anget från vänster till höger från Liden sätt.
+              
+{{led|namn=Skjutbaneisarna|grad=WI3+|längd=60|text=Börjar med ett 10m vertikalt draperi efter vilket lutningen avtar ju högre man kommer.}}
+{{led|namn=Stora fallet|grad=WI4|längd=80|text=Klättras lämpligen genom att sola upp för en sva-is till några mindre träd till vänster på fallet. Sedan följer ~40m ihållande brant klättring 80-90° för att nå snöfältet där stand görs i träd ut till vänster. Andra replängden börjar med 20m brant draperi vilket som sedan avtar till 50-60°.}}
+{{led|namn=Trappstegsfallet|grad=WI2-4|längd=50|text=Ett stort och brett isfall med väldigt varierad lutning. 60m singelrep räcker för att fira ner.}}
+{{led|namn=Göteborgsisarna|grad=WI2-4|längd=20|text=Består egentligen av fyra mindre isfall. Längst till vänster finns ett istäckt hörn följt av ett överhängande draperi som ibland når botten och bildar en fristående ispelare. Sedan följer en progressivt brantare svais och längst ut till höger (där stigen kommer ut) det högsta fallet.}}
+
+
+== Accessinformation ==
+Inga accessproblem föreligger för tillfället, men när ni parkerar se till att inte hindra ev. passerade trafik.
+
+[[Kategori:Medelpad]]

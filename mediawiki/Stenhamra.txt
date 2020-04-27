@@ -1,0 +1,26 @@
+{{info klippa
+  |lat=59.337022222222224
+  |long=17.675216666666667
+}}
+
+{{utkast}}
+
+==Allmänt==
+Stenbrott i Stenhamra på södra delen av Svartsjölandet.
+Här finns ett flertal väggar av en höjd mellan 5–15 m. Väggarna är branta och innehåller en hel del löst material. Ett fåtal lockande formationer, i övrigt mest skräp.
+
+==Bilder==
+Gammalt stenbrott som togs ur bruk 1937. Bilder finns på [http://www.stenbrottet.nu/ www.stenbrottet.nu].
+
+==Vägbeskrivning==
+<googlemap lat="59.337022222222224" lon="17.675216666666667" zoom="11" type="map">
+59.337022222222224,17.675216666666667,Stenhamra Stenbrott
+</googlemap>
+
+{{led|namn=En krallig transvestit|grad=6+|längd=10|fa=[[Claes Jelinek]], [[Daniel Bidner]], [[Magnus Buhre]] -86|text=Den tydliga arêten längst inne i brottet. Saknar säkringsplaceringar men anses tekniskt lätt för sin grad.}}
+{{led|namn=Som smort|grad=6+|fa=Lundahl/Sehlin -91|längd=10|bultar=2|text=Ett tydligt öppet hörn även det längst in i brottet.}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar vägbeskrivning]]

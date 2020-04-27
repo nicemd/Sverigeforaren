@@ -1,0 +1,43 @@
+{{boulderkomplett}}
+
+{{info klippa
+  |lat=59.237752
+  |long=18.10799}}
+
+==Allmänt==
+Klippan ligger öppet vid en gångväg, några problem varav ett par är riktigt fina.
+Fridge-klippan är det intressanta, även om det finns ett par andra klippor i gamla föraren. Minst en av de andra klipporna (Crack for kids) är ej längre tillgänglig.
+
+Området utvecklades i huvudsak av Stefan Pettersson för en massa år sedan...
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.237752" lon="18.10799" zoom="12" type="map" controls="small">
+59.237752,18.10799,[[Larsboda]]
+</googlemap>
+</div>
+
+Kör väg 73 mot nynäshamn. Efter Farsta C (om du kommer norrifrån, före Farsta C om du kommer söderifrån) ta av på Ågesta broväg. Sväng genast vänster in på Mårbackagatan, förbi Telia. Fortsätt runt området och ta höger in på Filipstabdsbacken. Du kan parkera på gatan i backen. Gå över vägen och ner för gångvägen så kommer du till en gångväg som löper mellan husen. Här ligger den intressanta klippan i Larsboda.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Boulderproblem==
+===Gammal förare===
+Gammal förare: [http://www.klaan.nu/larsboda/# Klaan] 
+
+===Fridge-klippan===
+[[Bild:Larsboda.jpg]]
+
+{{led|nr=1|namn=6c bloc|grad=6C|text=Röd linje vänster.|typ=boulder}}
+{{led|nr=2|namn=Kvartersfuriren|grad=7B|text=Grön linje. Lite löst startgrepp.|typ=boulder}}
+{{led|nr=3|namn=6c bloc|grad=6C|text=Gul linje vänster.|typ=boulder}}
+{{led|nr=4|namn=Slap that fat fridge|grad=6B|text=*** Röd linje mitten. Gå rakt upp för bullen, använd sprickorna på bägge sidorna.|typ=boulder}}
+{{led|nr=5|namn=DEA|grad=7A|text=Gul linje höger.|typ=boulder}}
+{{led|nr=6|namn=6a bloc|grad=6A|text=Röd linje höger.|typ=boulder}}
+{{led|nr=7|namn=Travers|grad=7A+|text=Blå linje höger till vänster.|typ=boulder}}
+{{led|nr=8|namn=Förortsmalajen|grad=6B+|text=Starta i "Travers" men gå rakt upp vid "DEA".|typ=boulder}}
+
+
+[[Category:Stockholm]]

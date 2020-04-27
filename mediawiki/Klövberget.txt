@@ -1,0 +1,88 @@
+{{info klippa
+  |lat=59.21373009941309
+  |long=18.350257873535156
+}}
+
+{{komplett}}
+[[Bild:Klovberget_Noret.png|right|thumb|400px]]
+
+==Allmänt==
+Klövberget ligger på Tyresös sydvästra sida och bildar en ca 1km lång bergssida som till stora delar går rakt ned i Kalvfjärden. På Klövberget finns några av Stockholms mest klassiska tradlinjer. Räcker inte det så ligger [[Noret|norets]] alla väggar strax söderut.
+
+==Beskrivning==
+Det som i klättersammanhang menas med Klövberget är huvudsakligen dess allra nordligaste del. Detta parti som delvis går ned i fjärden, delvis har fast mark under sig är ca 300 m långt och 10–30 m högt. Klippan karakteriseras av några bastanta taköverhäng som gör klippan lätt att känna igen. Tv minskar taken i omfång och en markant fristående pinnakel tjänar här som riktmärke. Th om överhängen finns ett tämligen långt klipparti som går rakt ned i vattnet. Denna del av klippan är ganska lös och vegeterad och ännu så finns endast ett par leder gjorda på denna del av berget. På den del av berget som har fast mark under sig är klippan av god kvalitet och det mesta av lös klippa har rensats bort. På de leder där det ännu finns löst material anges detta i ledbeskrivningen. De flesta lederna här ligger i mellanregistret (grad 5-6) och uppfattas nog som tämligen seriösa för sin grad. Flera av lederna är att betrakta som riktiga klassiker som absolut måste göras av dem som vill pricka av Stockholms pärlor. 
+
+'''OBS!''' Klippartiet tv om Skamvrån ligger på tomtmark och ägaren är en aktiv motståndare till all klättring på berget. Detta innebär att tills vidare är lederna 1-4 att betrakta som förbjudna och skall undvikas. Resten av väggen ligger dock utanför tomten och det finns ingen anledning att låta bli att klättra här. Oavsett vad som har målats på stenarna så är allt på själva huvudväggen utanför tomten. Tidigare var det också en del som tog sig fram till klippan genom att gå över tomten (med den gamle ägarens goda minne). Detta är nu definitivt inte att rekommendera och kan bara försämra alla möjligheter att få klättra här i lugn och ro.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.21373009941309" lon="18.350257873535156" zoom="12" width="250" height="200" type="map">
+59.21373009941309,18.350257873535156,Klövberget och {{klippa|namn=Noret}}
+</googlemap>
+</div>
+Enda sättet att ta sig fram till klippan är från ovan. Detta innebär naturligtvis att det kan vara svårt att hitta rätt första gången man besöker klippan. Följande beskrivning (se även områdesskissen) skall förhoppningsvis underlätta: Från Tegelbruksvägen tar man Mokärrsvägen upp för en brant backe. Efter ca 500 m svänger vägen svagt åt v medan en stig fortsätter rakt fram. Här kan man parkera. Följ stigen ca 100 m och vik sedan av på en liten stig som går upp på berget. Man passerar nära en vändplan. Vid denna viker man av åt v och går nu söderut, uppe på berget med de branta partierna och Kalvfjärden th om sig.
+Gör nu inte misstaget att vika av för tidigt åt h utan fortsätt 400–500 m rakt fram innan du viker av ner mot klippkanten. Ett bra riktmärke är den lilla holmen på andra sidan fjärden. Klippan ligger mitt emot denna. Om du finner en yvig tall med en koja under ett par meter ifrån kanten har du kommit rätt. Man kan nu antingen fira sig ner eller följa den exponerade men lätta nedstigningsrampen som går ner 10–15 m th (vänd utåt) om tallen. Starten på denna är dock rätt svår att hitta. Denna nedstigning slutar vid Skamvrån.
+
+<div style="clear:right;"></div>
+
+==Access {{access}}==
+
+{{AccessDB|klippa=klovberget-tyreso}}
+
+<div style="clear:right;"></div>
+
+==Leder==
+[[Bild:Klovberget_01.JPG]]
+
+===Vänstra väggen===
+Det låga klippartiet längst tv med en tydlig pinnakel, Pricken, som främsta kännetecken. Led 1-4 skall som nämnts ovan undvikas tills vidare.
+{{led|nr=1|namn=Piece of Cunt|grad=4+|längd=6|fa=[[Annikki Liliemark]], [[Jan Liliemark]] [[-79]]}}
+{{led|nr=2|namn=Timmar av kärlek/År av hat|grad=6-|längd=20|fa=[[Anders Lundahl]], [[Eva Selin]] [[-78]], FF: [[Jan Liliemark]], [[Lars Svadängs]] [[-80]]}}
+{{led|nr=2a|namn=Kärlek direkt|grad=6|längd=12|fa=[[Niklas Björnerstedt]], [[Lars Svadängs]] [[-87]]}}
+{{led|nr=3|namn=The west face of the big Prick|grad=4|längd=5|fa=[[Lars Svadängs]], [[Pelle Björklund]] [[-78]]}}
+{{led|nr=4|namn=Bred klyfta av ljus|grad=5|längd=15|fa=[[Lars Svadängs]], [[Pelle Björklund]] [[-78]]}}
+{{led|nr=4a|namn=Eva|grad=6|längd=|fa=[[Choe Brooks]] [[-80]]}}
+{{led|nr=5|namn=Hugget som stucket|grad=5|längd=|fa=[[Lars Möller]], [[Jan Liliemark]] [[-80]]}}
+===Huvudväggen===
+Själva huvudväggen inleds med en tydlig V-formad dieder, Skamvrån. Th om denna finns en bred pelare med några fina leder. 
+{{led|nr=6|namn=Sans nomine|grad=5+|längd=15|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[-79]]}}
+{{led|nr=7|namn=Skamvägen|grad=5+|längd=20|fa=[[Daniel Bidner]] [[-84]]}}
+{{led|namn=Skamvrån|nr=8|grad=4+|betyg=3|längd=20|fa=[[lars Svadängs]], [[Lars Cronlund]] [[1978|-78]]|typ=trad|text=Stockholms finaste 4+? Markant dieder utgör denna led. Starta ett par meter under leden och klättra upp och följ diedern till en markant vågrätt spricka åt vänster en bit under taket, följ denna och gör standplats vid enbusken.}}
+{{led|nr=8a|namn=Dynamisk frossa|grad=7-|längd=8|fa=[[Daniel Bidner]] [[-84]]}}
+{{led|nr=9|namn=Drömmen om Hiltin|grad=7-|längd=25|fa=[[Lars Grankvist]], [[Lars Svadängs]] [[-86]]}}
+{{led|nr=10|namn=Rampljus|grad=6|längd=25|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[-79]]}}
+{{led|namn=Hemorrojdführer|nr=11|grad=6|betyg=3|längd=25|fa=[[Jan Liliemark]], [[Lars Svadängs]] [[1979|-79]]|typ=trad|text=En stockholmsklasiker! Omväxlande och exponerad klättring med ett känsligt krux och ett något oväntat utsteg. Efter kruxpassagen kan man antingen kliva ut åt vänster och vidareu ppför den osäkrade areten eller (som vid förstabestigningen) klättra rakt upp till taket och sedan traversera vänster. En tämligen respektingivande sexa.}}
+{{led|namn=Feberkurvan|nr=12|grad=5|betyg=1|längd=25|fa=[[Lars Svadängs]], [[Ulf Lagercrantz]] [[1979|-79]]|typ=trad|text=Seriös för sin grad. Kan vara lite lös på sina ställen. Starta vid en gräshylla ett par meter till höger och upp från firningsslutet. Håll höger efter ett par meter genom svart klippa och en tunn spricka till en pelare med stora block. Klättra rakt upp mot en kort dieder via en gammal bladbult till höger. Följ diedern till taket hangla och traversera till vänster. Luftig! Glöm inte att säkra traversen för andremannen.}}
+{{litentext|text=Väggen fortsätter nu med ett tydligt hörn som reser sig från en lång sluttande hylla som börjar ca 5m över backen. Denna hylla kan med lite jävlar anamma följas fram till början av den långa traverslinjen under taken i väggens högra del. Längre ner åt h blir väggen högre men samtidigt mera uppbruten och formationsrik innan den slutligen övergår i en brant och slät vägg ovanför brant busk- och blockterräng. }}
+{{led|namn=Shangri-La|nr=13|grad=6|betyg=1|längd=25|fa=[[Lars Cronlund]], [[Lars Svadängs]] [[1979|-79]] FF: [[Anders Lundahl]][[1979|-79]]|typ=trad|text=Fin femmaklättring bortsett från ett tufft krux förbi överhänget. Välsäkrad där en hexa fungerar bättre än en friend för att säkra kruxet. Sola upp till starten av hörnet eller fira ned från toppen.}}
+{{led|nr=13a|namn=Shangri-La direkt|grad=7-|längd=~10|fa=[[Lars Grankvist]], [[Björn Alber]] [[-87]]}}
+{{led|nr=13b|namn=Doseths spricka|grad=7+|längd=~10|fa=[[Hans-Christian Doseth]] [[-82]]}}
+{{led|nr=14|namn=Den långa flykten|grad=6|längd=~30|fa=[[Lars Cronlund]], [[Lars Svadängs]] [[-78]] FF: [[Christer Åstrand]] [[-79]]}}
+{{led|nr=15|namn=Lös början fast till slut|grad=A1|längd=35|fa=[[Anders Lindfors]] [[-96]]}}
+{{led|nr=16|namn=Analfissüren|grad=6+/7-|längd=6|fa=[[Jan Liliemark]], [[Choe Brooks]] [[-80]]}}
+{{led|nr=17|namn=Lokförarens laxermedel|grad=5|längd=~25|fa=[[Lars Svadängs]], [[Lars Cronlund]] [[-78]]}}
+{{led|nr=18|namn=Fatal kalops|grad=5|längd=~20|fa=[[Lars Svadängs]], [[Jan Liliemark]] [[-80]]}}
+{{led|nr=19|namn=Det långa klivet|grad=6|längd=~20|fa=[[Jan Liliemark]], [[Jeremy Sheehan]], [[Lars Svadängs]] [[-81]]}}
+{{litentext|text=Väggen under Den långa flykten är brant och slät med en tydlig spricka i dess högra del. Taken ser omöjliga ut! Stora väggen avslutas åt h med ett jordigt hörn och ett utskjutande klipparti med flera bastanta överhäng.}}
+{{led|nr=20|namn=Rektal prolaps|grad=6|längd=~15|fa=[[Jan Liliemark]] [[-79]]}}
+{{led|nr=21|namn=The final cat|grad=7-/7|längd=6|fa=[[Jan Liliemark]] [[-83]]}}
+{{litentext|text=Följande leder startar uppe under den branta väggen. Att ta sig dit går enklast genom att fortsätta snett uppåt h från insteget på Fatal kalops tills det går att klättra tillbaka snett uppåt v. }}
+{{led|namn=På lätta fötter-Total kollaps|nr=22|grad=6|betyg=3|längd=20|fa=[[Torgil Abrahmsson]], [[Niklas Björnerstedt]] [[1984|-84]] resp. [[Jan Liliemark]],[[Lars Möller]] [[1980|-80]]|typ=trad|text=Delikat väggklättring som avslutas med ett kraftfullt utsteg över taket. Sparsamt säkrat med små/mellanstora kilar i början. En perfekt kil i taket ger dig mod för magrullningen över läppen!}}
+{{led|nr=23|namn=Pers spricka|grad=5+|längd=~20|fa=[[Per Sandström]], [[Lars Svadängs]], [[Ulf Lagercrantz]] [[-76]]}}
+{{led|nr=24|namn=Ampere|grad=6-|längd=~20|fa=[[Niklas Björnerstedt]], [[Torgil Abrahamsson]] [[-84]]}}
+{{litentext|text=Nästa led går igenom taken i högerkanten av det utskjutande klippartiet. Insteget bland träden ute th nås enklast genom att med fara för eget liv rafsa sig upp rakt underifrån.}}
+{{led|nr=25|namn=Över huvud taget|grad=5-|längd=~25|fa=[[Lars Svadängs]], [[Lars Cronlund]] [[-78]]}}
+{{led|nr=25a|namn=Under låret taget|grad=6|längd=~15|fa=[[Jan Liliemark]], [[Gudmund Söderin]], [[Kenneth Westman]] [[‑80]]}}
+{{led|nr=26|namn=Linje 2|grad=4|längd=~25|fa=[[Per-Elof Lidström]], [[Roger Pyddoke ]] [[-80]]}}
+{{led|nr=27|namn=Den Spetsige Tysken|grad=6+|betyg=1|längd=20|fa=[[Anders Grahne]], [[Mats Holmgren ]] [[2001|-01]]|typ=trad|text=En för Klövberget ganska rak linje genom hela klippan ända upp till toppen. Den startar ett par meter t v om Doseths spricka och fortsätter sedan mellan Feberkurvan och Doseths spricka upp till ett block med ett underkling, sedan vidare upp genom det första taket/överhänget. Avslutas sedan t v om Shangri La Direkt rakt upp genom det andra taket/överhänget på goda grepp. Det är en fin led med en spektakulär avslutning, väl värd att göra. Men ganska seriös eftersom det är lite blockig/lös klippa emellanåt. Finns dock acceptabla säkringar, bara man tittar noga vart man lägger placeringarna.}}
+
+===Sjöklippan===
+{{led|nr=27|namn=Östersundsexpressen|grad=6-|längd=~8|fa=[[Gudmund Söderin]], [[Kenneth Westman]], [[Jan Liliemark]] [[-80]]}}
+{{led|nr=28|namn=Havsluft|grad=5|längd=|fa=[[Jan Liliemark]], [[Lars Svadängs]], [[Ulf Lagercrantz]] [[-79]]}}
+{{led|nr=29|namn=Linje 3|grad=?|längd=|fa=[[Lars Grankvist]], [[Anders Kamb]] [[-80]]}}
+
+[[Kategori:Saknar kolumner]]
+[[Kategori:Sport]] [[Kategori:Trad]] [[Kategori:Stockholm]] [[Kategori:Tyresö]]
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}

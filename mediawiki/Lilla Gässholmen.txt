@@ -1,0 +1,70 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.3032
+  |long=18.736925
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{komplett}}
+
+==Allmänt==
+Fin DWS klättring i svårighetsgrad kring 6a. Man måste ha båt för att ta sig till området.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.3032" lon="18.736925" zoom="13">
+59.302049, 18.736925, Lilla Gässholmen
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=59.3032
+    long=59000000
+</slresa>-->
+</div>
+
+Med båt
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+[[Bild:forare_gassholmen.JPG]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Där hittar Erik en "liten" vila|grad=6b, S0|typ=DWS|betyg=2|bultar=|längd=20|fa=[[Erik Holstad]] -08|text=Tyngst i början längs vattnet, Uppför Bakis i Vasastan och sedan traversera sprickan till höger.}}
+
+{{led|nr=2|namn=Bakis i Vasastan|grad=6a, S0|typ=DWS|betyg=0|bultar=|längd=10|fa=[[Mathias Gustavsson]] -08|text=}}
+
+{{led|nr=3|namn=Tisko Tansi|grad=6a+, S0|typ=DWS|betyg=2|bultar=|längd=15|fa=[[Erik Holstad]] -08|text=Startar uppför Fiskmåsen och sedan travers åt vänster strax under sprickan.}}
+
+{{led|nr=4|namn=Fiskmåsen|grad=6a, S0|typ=DWS|betyg=2|bultar=|längd=10|fa=[[Stefan Rydin]] -08|text=Startar i den högra av två tunna sprickor.Vattendjup som en kanotpaddel;2-2,2m. Ta i beaktande, jag är tveksam till hur ett fall högt uppifrån skulle sluta./Tobias augusti2009}}
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:DWS]]
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+<!-- [[Kategori:överhäng]] -->
+
+<!-- [[kategori:Saknar skiss]] -->
+<!-- [[kategori:Saknar vägbeskrivning]] -->
+<!-- [[kategori:Saknar leder]] -->
+<!-- [[kategori:Saknar koordinater]] -->
+<!-- [[kategori:Saknar skrivarformatering]] -->
+
+[[Kategori:Stockholm]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholms Skärgård]]

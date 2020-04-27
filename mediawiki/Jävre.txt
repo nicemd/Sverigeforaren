@@ -1,0 +1,156 @@
+=Allmänt=
+Boulderområde på Högberget, Jävre. Jävre ligger mellan Skellefteå och Piteå.  Boulderområdet utvecklades av Luleklättrarna, framförallt [[Magnus Eriksson]] och [[Marcus Lagerkvist]] (??) inför tävlingen NBM 2005. I dagsläget finns runt 100 boulderproblem och de flesta enklare givna linjerna är gjorda.
+
+Framförallt lockar området 'Higball heaven' med sina fina linjer på lätt vattenpolerad granit.
+
+=Vägbeskrivning=
+Högberget ligger i Jävre, 60 km norr
+om Skellefteå och 25 km söder om Piteå.
+''Från söder'' kör E4 norrut. Passera småbåtshamnen och turiststationen på vänster
+sida om E4. Sväng av vägen vid
+trafikplats Jävre S. Kör över viadukten
+och ta höger i den lilla rondellen.
+
+''Från Norr'' följ E4 söderut. Sväng av vägen
+åt höger vid trafi kplats Jävre S och följ
+vägen rakt fram genom den lilla rondellen.
+
+Efter rondellen - följ vägen ca 250 m in
+mot bostadsområdet tills en grusväg med
+en bom blir synlig på vänster sida. En skylt
+med texten Arkeologstig visar på rätt
+väg. Sväng vänster över den lilla bron och
+följ grusvägen (håll vänster) 2 km tills en
+grillplats blir synlig till vänster om vägen.
+Parkera bilen på den öppna ytan och de första
+blocken (Introstenarna) är synliga en bit upp i backen.
+
+<googlemap version="0.9" lat="65.145898" lon="21.478271" type="terrain" zoom="13">
+65.1376, 21.479816, Jävre
+Parkering Jävre, skyltat Högberget
+</googlemap>
+
+=Sektorer=
+==Highball Heaven==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=fempyrra storglas|grad=6B|typ=Aréte|landning=1|text=Går på areten till vänster om "Silversurfaren - 103"}}
+{{problem|namn=Pers och Mats problem|grad=-|typ=|landning=3|sittstart=ja|text=Områdets lägsta sten? Sittstart och skravla sig upp. Går på baksidan av samma sten som 123 - Ass Bounce}}
+{{problem|namn=Ådi|grad=6B+|typ=Krimp,Jug|betyg=1|fadatum=2005-11-05|sittstart=ja|text=Ligger påvåg till highball från toppen vi snitsel. På Areten}}
+{{problem|nr=101|namn=Starzinger|grad=6B+|typ=Slopers,Mantling,Travers H->V|landning=1|betyg=2|sittstart=ja|startgrepp=ja|text=Travers från V -> H. Markerade startgrepp.}}
+{{problem|nr=102|namn=Aurora|grad=6C|typ=Krimp,Slopers,Heel hook|landning=1|betyg=2|text=Rakt upp vid siffran. Lättare för långa.}}
+{{problem|nr=102|namn=Aurora - Sittstart|grad=7A|typ=Krimp,Slopers,Heel hook|landning=1|betyg=2|sittstart=ja|variant=ja|text=Sittstart. Avsluta med Aurora. Osäker grad!}}
+{{problem|nr=103|namn=Silversurfaren|grad=7B+|typ=Krimp,Dyno,Highball|landning=2|betyg=3|fadatum=2005-07-02|text=Rakt upp! Otrolig linje!}}
+{{problem|nr=104|namn=Nalle Puh|grad=7A+|typ=Krimp,Dyno|landning=1|betyg=1|fadatum=2005-07-02|text=Start mitt för siffran i två pyttegrepp under taket (näsan). Sedan rakt upp.}}
+{{problem|nr=105|namn=Sorken|grad=5A|typ=Slopers,Mantling,Aréte|landning=1|betyg=1|sittstart=ja|text=Mantla ej över till vänster. Följ areten ända upp.}}
+| width="250px" |
+{{problem|nr=106|namn=Plastiska förändringar|grad=7B|typ=Krimp,Pinch,Highball|landning=1|betyg=3|uteslutningar=ja|text=Rakt upp. Sprickan (107) är utesluten.}}
+{{problem|nr=107|namn=Riddar Järnfot|grad=5A|typ=Layback,Spricka|landning=2|betyg=2|text=Stora sprickan}}
+{{problem|nr=108|namn=Bröderna Dalton|grad=6C|typ=Krimp,Slopers,Highball|landning=1|betyg=3|text=}}
+{{problem|nr=109|namn=Toadie|grad=-|typ=Krimp,Slab,Highball|landning=1|text=**PROJEKT**}}
+{{problem|nr=110|namn=Nasses Stege|grad=5A|typ=Slab|landning=1|betyg=1|text=}}
+{{problem|nr=111|namn=Hertig Thorulf|grad=5B|typ=Slopers,Aréte|betyg=2|text=}}
+{{problem|nr=112|namn=Tiger|grad=6C+|typ=Slopers,Mantling|landning=3|betyg=3|text=Tillåtet att hoppa från marken ifall man känner för det. Går även starta etablerat.}}
+{{problem|nr=112|namn=Tiger - Sittstart|grad=7A+|typ=Krimp,Slopers,Heel hook|landning=3|betyg=3|sittstart=ja|variant=ja|startgrepp=ja|text=Sittstart med båda händerna på stora greppet nere till vänster. Klättra upp och avsluta med hoppstarten (orginal). Den "fria" stenen är givetvis utesluten.}}
+{{problem|nr=113|namn=Christoffer Robin|grad=5C|typ=Slopers,Travers V->H|landning=3|betyg=1|sittstart=ja|text=Mantla upp vid pilen längst till höger på stenen.}}
+{{problem|nr=114|namn=Ior|grad=6B|typ=Slopers,Mantling|landning=1|sittstart=ja|text=}}
+{{problem|nr=115|namn=Heffaklump|grad=7A|typ=Slopers,Mantling,Travers V->H|landning=1|sittstart=ja|text=Grad osäker. Mantla vid pilen.}}
+| width="250px" |
+{{problem|nr=116|namn=Günter|grad=5A|typ=Slab,Highball|landning=3|betyg=1|uteslutningar=ja|text=Aréten utesluten.}}
+{{problem|nr=117|namn=Pondus|grad=5C|typ=Slopers|landning=3|betyg=2|text=Starta med båda händerna på stora slopern. Följ aréten och mantla EJ över till höger!}}
+{{problem|nr=118|namn=Jocke|grad=6A+|typ=Krimp,Slopers|landning=3|betyg=2|uteslutningar=ja|text=Areten utesluten}}
+{{problem|nr=120|namn=Rocky|grad=6B|typ=Krimp,Slopers,Mantling|landning=3|betyg=2|text=Mitt på väggen}}
+{{problem|nr=121|namn=Carpe Diem|grad=6B|typ=Slopers,Mantling,Aréte|landning=3|text=}}
+{{problem|nr=122|namn=Köttmannen|grad=7A+|typ=Slopers,Mantling|landning=3|betyg=2|text=Etablera på slopers och mantla upp lite till höger om siffran.}}
+{{problem|nr=122|namn=Köttmannen - Låg start|grad=7B+|typ=Slopers,Mantling,Överhäng|landning=3|betyg=2|variant=ja|startgrepp=ja|text=Låg start med båda händerna i underkling vid siffran. Sedan är det bara att kriga sig upp och mantla.}}
+{{problem|nr=123|namn=Ass bounce|grad=5B|typ=Krimp,Mantling,Heel hook|landning=3|sittstart=ja|text=}}
+{{problem|nr=124|namn=Sigges Lagun|grad=6A|typ=Slopers,Mantling|landning=1|sittstart=ja|startgrepp=ja|text=Start med båda händerna på den undre listen. Sedan bara att mantla upp.}}
+|}
+==Intro stenarna==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Svarta Änkan|grad=6C|typ=Krimp,Slopers|landning=3|betyg=1|fadatum=2005-10-19|text=Problemet ligger till höger på areten om Imse vimse pr nr 1. Hoppstart upp till sloper. Lite morpho.}}
+{{problem|nr=1|namn=Imse vimse|grad=5C|typ=Slopers,Mantling,Spricka|landning=3|fadatum=2005-10-19|text=}}
+{{problem|nr=2|namn=Alice i underlandet|grad=6A|typ=Krimp|landning=2|betyg=1|fadatum=2005-10-19|sittstart=ja|text=}}
+{{problem|nr=3|namn=Mio min mio|grad=6A|typ=Slopers,Mantling|landning=2|betyg=1|fadatum=2005-10-19|sittstart=ja|text=}}
+{{problem|nr=4|namn=Kato|grad=6A|typ=Krimp,Mantling|landning=2|betyg=1|fadatum=2005-10-19|sittstart=ja|text=}}
+{{problem|nr=5|namn=Lilla bocken Bruse|grad=6A|typ=Slopers|betyg=1|fadatum=2005-10-19|text=Mantla vid siffran}}
+{{problem|nr=6|namn=Yorgo|grad=6B+|typ=Krimp,Slopers|landning=2|betyg=2|fadatum=2005-10-19|text=Hoppstart rakt upp vid siffran.}}
+{{problem|nr=7|namn=Dr Snuggles|grad=7A|typ=Krimp,Slopers,Travers V->H|landning=2|betyg=2|fadatum=2005-10-19|sittstart=ja|startgrepp=ja|text=Travers avsluta med nr 8. Startprickar.}}
+| width="250px" |
+{{problem|nr=8|namn=Spruttibangbang|grad=6A+|typ=Krimp,Slopers|landning=2|betyg=1|fadatum=2005-10-19|sittstart=ja|text=}}
+{{problem|nr=9|namn=Grim|grad=6B|typ=Krimp,Slopers|landning=3|fadatum=2005-10-19|startgrepp=ja|text=}}
+{{problem|nr=10|namn=Fjalar|grad=6B+|typ=Krimp,Slopers|landning=3|fadatum=2005-10-19|startgrepp=ja|text=}}
+{{problem|nr=11|namn=Jum Jum|grad=5C|typ=Aréte|landning=3|fadatum=2005-10-19|text=Areten}}
+{{problem|nr=12|namn=Poe|grad=6B|typ=Krimp,Slopers,Mantling|landning=3|betyg=1|fadatum=2005-10-19|text=}}
+{{problem|nr=13|namn=LaLa|grad=6B|typ=Krimp,Slopers,Mantling|landning=3|betyg=2|fadatum=2005-10-19|text=}}
+{{problem|nr=14|namn=Tinky Winky|grad=6A|typ=Slopers|landning=3|betyg=1|fadatum=2005-10-19|text=}}
+{{problem|nr=15|namn=Dipsy|grad=6A+|typ=Mantling|landning=5|betyg=1|fadatum=2005-10-19|text=Mantling, hängstart från stenen}}
+| width="250px" |
+{{problem|nr=16|namn=Dupond et Dupont|grad=7B+|typ=Slopers,Mantling,Travers V->H|landning=4|betyg=3|fadatum=2005-10-19|text=Travers, avsluta med nr 15.}}
+{{problem|nr=17|namn=Trasig|grad=5B|typ=Krimp,Layback|landning=2|betyg=1|fadatum=2005-10-19|text=}}
+{{problem|nr=18|namn=Knasig|grad=5A|typ=Krimp,Slab|landning=2|betyg=2|fadatum=2005-10-19|text=}}
+{{problem|nr=19|namn=Knatte|grad=5C|typ=Aréte|landning=3|betyg=1|fadatum=2005-10-19|text=Areten}}
+{{problem|nr=20|namn=Fnatte|grad=6B+|typ=Krimp,Slab,Dyno|landning=3|betyg=1|fadatum=2005-10-19|uteslutningar=ja|text=Start i sprickan mitt framför siffranArete t h utesluten}}
+{{problem|nr=21|namn=Tjatte|grad=5A|typ=Krimp|landning=3|betyg=1|fadatum=2005-10-19|text=}}
+{{problem|nr=22|namn=Von Anka|grad=6C|typ=Krimp,Slopers,Mantling|betyg=2|fadatum=2005-10-19|uteslutningar=ja|text=Hylla T. V Utesluten.}}
+|}
+
+==Toppen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Akilles|grad=7A+|typ=Slopers,Överhäng,Heel hook|landning=2|betyg=3|fadatum=2005-10-19|sittstart=ja|text=Problemet ligger strax nedanför grillplatsen, ner mot Highball heaven.Följ areten över läppen och mantla upp}}
+{{problem|namn=Hobbe|grad=6C+|typ=Krimp,Överhäng,Heel hook|landning=2|betyg=3|fadatum=2005-10-31|sittstart=ja|text=problemet ligger ovanför grillplatsen om man följer baz mot ravinen. Under taket på Vsida startar den.}}
+{{problem|namn=Kalle|grad=5B|typ=Aréte,Jug,Heel hook|betyg=1|fadatum=2005-10-31|startgrepp=ja|text=Stå start på fina grepp, man måste dock orka upp med fötterna.Starta i markerade start grapp på varsin sida om areten.}}
+{{problem|namn=Butch|grad=5B|typ=Krimp,Jug,Heel hook|landning=2|betyg=1|fadatum=2005-10-31|sittstart=ja|text=Stenen som ligger utmärkt i föraren området baz. Problemet ligger till H om areten och problemet chip}}
+{{problem|namn=Tom|grad=6C|typ=Krimp,Reach|landning=2|betyg=2|fadatum=2005-10-31|sittstart=ja|text=Stenen som ligger utmärkt i föraren området baz. Problemet till H om areten efter Butch}}
+{{problem|namn=Jerry|grad=6B+|typ=Krimp,Mantling,Aréte|landning=5|betyg=2|fadatum=2005-10-31|sittstart=ja|text=Stenen som ligger utmärkt i föraren området baz.Problemet befinner sig längst till höger på areten. start i två crimpers på var sin sida om areten.lite äcklig landning.}}
+| width="250px" |
+{{problem|nr=51|namn=Pomperipossa (ext)|grad=6B|typ=Slopers,Travers V->H,Heel hook|landning=2|betyg=1|fadatum=2005-11-05|sittstart=ja|text=avsluta med 52, lågt problemLigger i området Ravinen}}
+{{problem|nr=52|namn=Pomperipossa|grad=6A|typ=Slopers,Mantling|landning=1|betyg=1|fadatum=2005-11-05|sittstart=ja|text=Mantling}}
+{{problem|nr=53|namn=Lillstrumpa|grad=5A|typ=Krimp|landning=2|betyg=1|fadatum=2005-11-05|sittstart=ja|text=}}
+{{problem|nr=54|namn=Syster yster|grad=5B|typ=Krimp|landning=2|betyg=1|fadatum=2005-11-05|sittstart=ja|text=Ligger i området ravinen}}
+{{problem|nr=55|namn=Humle|grad=3A|typ=Krimp,Jug|landning=2|betyg=1|fadatum=2005-11-05|text=Ligger i området ravinen}}
+{{problem|nr=56|namn=Dumle|grad=3A|typ=Krimp,Jug|landning=2|betyg=1|fadatum=2005-11-05|text=Ligger i området ravinen}}
+{{problem|nr=57|namn=Plupp|grad=4C|typ=Krimp,Travers V->H,Jug|landning=2|betyg=3|fadatum=2005-11-05|sittstart=ja|text=Ligger i området ravinen}}
+{{problem|nr=58|namn=Bumbibärsaft|grad=7A+|typ=Krimp,Dyno|betyg=3|fadatum=2005-11-05|sittstart=ja|text=Ligger i området ravinen, start i stora flaket.}}
+| width="250px" |
+{{problem|nr=59|namn=Gramse|grad=5C|typ=Krimp,Layback|betyg=2|fadatum=2005-11-05|text=ligger i området ravinen}}
+{{problem|nr=60|namn=Måns|grad=4C|typ=Krimp,Slab|landning=3|betyg=1|fadatum=2005-11-05|text=}}
+{{problem|nr=61|namn=Bill|grad=4B|typ=Krimp,Slab|landning=3|betyg=1|fadatum=2005-11-05|text=ligger i området ravinen}}
+{{problem|nr=62|namn=Bull|grad=4A|typ=Krimp,Slab|landning=3|betyg=1|fadatum=2005-11-05|text=ligger i området ravinen}}
+{{problem|nr=63|namn=Glader|grad=3A|typ=Jug,Spricka|landning=2|text=}}
+{{problem|nr=64|namn=Trötter|grad=5B|typ=Krimp|landning=2|betyg=1|text=}}
+{{problem|nr=67|namn=Blyger|grad=6A+|typ=Krimp,Slopers,Mantling|landning=3|betyg=1|fadatum=2007-06-25|sittstart=ja|text=Startar med vänster hand under taket i undercling. Fri fart till toppen, därefter en härlig mantling}}
+{{problem|nr=68|namn=Toker|grad=6A|typ=Krimp,Reach|landning=2|betyg=1|text=}}
+{{problem|nr=69|namn=Butter|grad=5B|typ=Krimp,Jug|landning=2|text=}}
+{{problem|nr=70|namn=Snövit|grad=5A|typ=Aréte|landning=2|betyg=1|text=}}
+|}
+==södra sidan==
+
+==norra sidan==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Puff the magic dragon|grad=6C|typ=Slopers,Aréte|landning=3|betyg=1|fadatum=2005-10-16|text=Rakt upp på högra sidan av arétet.}}
+{{problem|namn=Shredder|grad=6C+|typ=Mantling,Jug,Heel hook|landning=3|betyg=3|fadatum=2005-10-18|startgrepp=ja|text=Starta i juggen under taket, klättra ut mot läppen och mantla där det ter sig naturligt.}}
+| width="250px" |
+{{problem|namn=Raphael|grad=6C|typ=Krimp,Överhäng,Jug|landning=5|betyg=1|fadatum=2005-10-18|startgrepp=ja|text=Starta i juggen under taket, klättra rakt upp.}}
+{{problem|namn=Donatello|grad=6A+|typ=Mantling,Jug,Heel hook|landning=3|betyg=1|fadatum=2005-10-20|text=Ståstart på den lilla stenen under taket. Rakt upp och mantla.}}
+| width="250px" |
+|}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

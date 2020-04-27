@@ -1,0 +1,25 @@
+{{info klippa
+  |lat=57.85638
+  |long=16.514166}}
+
+{{boulderstub|extern=ja}}
+
+==Allmänt==
+Fruberget bjuder på väggar, grottor och block av otroligt fin stenkvalitet. Området har i dagsläget några av sveriges 
+längsta och brantaste problem. Läget, på berget nära havet, ger svalka på sommaren och en unik miljö. Fruberget 
+delas in i fyra sektorer: “Fat Cat”, “Lilla grottan & v-väggen”, “Lätta väggen” och “Stora grottan”.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.85638" lon="16.514166" type="map" zoom="13" controls="small">
+57.85638, 16.5141669, Fruberget (parkering)
+</googlemap>
+</div>
+<div style="clear:both"></div>
+
+== Extern förare ==
+http://www.vastervikclimbing.se/klattercentret/pdfer/
+
+[[Kategori:Småland]]
+[[Kategori:Västervik]]

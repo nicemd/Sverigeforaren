@@ -1,0 +1,12 @@
+{{info klippa
+  |lat=58.016538
+  |long=15.135461
+}}
+
+{{stub}}
+[[Kategori:DWS]][[Kategori:Trad]]
+==Karta==
+<googlemap width=350 height=300 lat="58.016538" lon="15.135461" zoom="9" type="map" controls="small">
+58.016538,15.135461,[[Svalberget]]
+</googlemap>
+[[Kategori:Östergötland]]

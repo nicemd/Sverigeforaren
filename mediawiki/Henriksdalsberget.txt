@@ -1,0 +1,82 @@
+{{info klippa
+  |lat=59.31069
+  |long=18.12031
+}}
+
+{{komplett}}
+==Allmänt==
+Brant liten vägg på baksidan av Henriksdalsberget, alldeles under bostadsområdet Henriksdal. Klippan är inte alls så lös som den ser ut. Den typiska leden bjuder på överhängande klättring på stora grepp. En bra kvällsklippa för varma sommarkvällar.
+
+==Miljö:==
+Östvägg, delvis skuggigt.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.31069" lon="18.12031" zoom="14" type="map" controls="small">
+59.31069,18.12031,[[Henriksdalsberget]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Henriksdalsberget
+lat=18120310
+long=59310690
+</slresa>
+</div> 
+
+Från Södermalm åk över Danviksbron och ta v vid rödljusen. Kör Kvarnholmsvägen ca 400 m och ta vänster igen och sedan höger över Kvarnholmsvägen och upp för backen ca 400 m mot Henriksdalsringen.
+Parkera innan hyreshusen vid en grusparkering på v sida. Gå ner mot båthamnen via en trätrappa. Innan trappan tar slut: vik av åt h längs klipporna. Klippan ligger ca 150 m in åt h och 60 m ovanför båthamnen längst in i Svindersviken. [http://www.henriksdalsberget.se Mer info om Henriksdalsberget]
+<div style="clear:right;"></div>
+
+==Leder==
+[[Bild:henriksdalsberget.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+{{led|namn=Mördargrävlingen|grad=6c|betyg=|längd=10|fa=[[MW]], [[LL]]|bultar=|typ=sport}}
+
+{{led|nr=1|namn=Björn Borg|grad=6c|betyg=|längd=10|fa=[[Johan Luhr]], [[Niklas Adler]][[1995|-95]]|bultar=|typ=sport}}
+
+{{led|nr=2|namn=Peak Performance|grad=6b+|betyg=|längd=10|fa=[[Johan Luhr]], [[Niklas Adler]][[1995|-95]]|bultar=|typ=sport}}
+
+{{led|nr=3|namn=Armani|grad=6c+|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=3a|namn=Armani utstegsvariant|grad=7a+|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=4|namn=Drakkar|grad=7a+|betyg=|längd=10|fa=[[Johan Luhr]], [[Patrik Gelin]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=4a|namn=Drakkar ustegsvariant 1|grad=6c+|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|namn=Drakkar ustegsvariant 2|grad=6c+|betyg=|längd=10|fa=|bultar=|typ=sport}}
+
+{{led|nr=5|namn=Ursprunget|grad=6c|betyg=|längd=10|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=6|namn=Boss|grad=7a+|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+| width="300px" |
+
+{{led|namn=Boss variant|grad=7b+|betyg=|längd=10|fa=[[Johan Luhr]]|bultar=|typ=sport}}
+
+{{led|nr=7|namn=Equipage|grad=7a|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=8|namn=Aramis|grad=7b+|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=9|namn=Fahrenheit|grad=7a+|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=10|namn=Lacoste|grad=7a|betyg=|längd=10|fa=[[Johan Luhr]], [[Patrik Gelin]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=11|namn=Van Gils|grad=7a+|betyg=|längd=10|fa=[[Johan Luhr]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=12|namn=Tsar|grad=7a|betyg=|längd=10|fa=[[Johan Luhr]], [[Patrik Gelin]][[1992|-92]]|bultar=|typ=sport}}
+
+{{led|nr=13|namn=Adidas|grad=6c|betyg=|längd=10|fa=[[Johan Luhr]], [[Patrik Gelin]][[1992|-92]]|bultar=|typ=sport}}
+|}
+
+{{tryckt förare|stockholmsföraren (1996)=ja}}
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Sport]]
+[[Kategori:Överhäng]]
+[[Kategori:Saknar skrivarformatering]]

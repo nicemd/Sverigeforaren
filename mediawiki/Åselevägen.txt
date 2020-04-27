@@ -1,0 +1,34 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Trösten|grad=4B|typ=Slab|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-04-17|sopad=Johan Danielsson|text=På sva-stenen. Ta inte grepp på kanten/toppen innan du är ända uppe}}
+{{problem|namn=Solsken|grad=5B|typ=Aréte|fa=Johan Danielsson|landning=3|betyg=3|fadatum=2004-04-20|sopad=Johan Danielsson|text=Stora blocket.Starta längst ut i vänstra kanten. Använd list och arete för händer, håll fötterna på väggen.}}
+{{problem|namn=Rutchkanan|grad=3C|typ=Jug|fa=Maria Eriksson|landning=3|betyg=1|fadatum=2004-04-20|sopad=Johan Danielsson|text=Stora blocketStarta vid högerkanten och klättra på de stora formationerna.}}
+{{problem|namn=Ömma fingrar|grad=5B|typ=Krimp,Spricka|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-04-20|sopad=Johan Danielsson|uteslutningar=ja|text=Stora blocketStarta till vänster om rutchkanan med ena handen i sprickan till höger. De stora formationerna till höger uteslutna.}}
+{{problem|namn=License to crimp|grad=5B|typ=Krimp,Slopers|fa=Johan Danielsson|landning=3|betyg=2|fadatum=2004-04-26|sopad=Johan Danielsson|text=På överhängande blocket. Problemet går på den flackare kanten av blocket. Starta genom att stiga upp på den lilla stenen för att nå startgrepp. Rakt upp på crimpers.}}
+{{problem|namn=Svårare än synbart|grad=6A|typ=Krimp,Slopers|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-04-27|sopad=Johan Danielsson|text=Överhängande blocket. Startar runt hörnet till höger om "License to crimp". Starta mellan då två tallarna och gå med en dragning åt höger upp. Hård start sedan lättare.}}
+{{problem|namn=Light fast and high|grad=5C|typ=Krimp,Slopers,Överhäng|fa=Johan Danielsson|landning=3|betyg=2|fadatum=2004-04-26|sopad=Johan Danielsson|text=Överhängande blocket. Startar mellan de två stenarna på den överhängande delen på motsatt sida mot License to crimp. Starta genom att kliva upp på stenen till höger för att etablera startgrepp.}}
+| width="250px" |
+{{problem|namn=Turbobacken|grad=5A|typ=Slopers,Aréte|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-04-27|sopad=Johan Danielsson|text=På stenen till vänster om stora stenen. Starta längst ut i vänsterkanten och klättra upp med dragning åt höger}}
+{{problem|namn=Det bidde en travers|grad=5A|typ=Krimp,Slopers,Överhäng|fa=Johan Danielsson|landning=1|fadatum=2004-04-26|sopad=Johan Danielsson|text=Överhängande blocket. På samma sida som Light fast and high. Starta på den högra sidan alldeles vid hörnet. Etablering på överhänget därefter ett kliv runt hönet för att etablera sig på den stora hyllan}}
+{{problem|namn=Inkasso|grad=6A+|typ=Slopers,Aréte|fa=Johan Danielsson|landning=3|betyg=2|fadatum=2004-04-28|sopad=Johan Danielsson|text=På västra vertikala stenen. Areten på västra sidan vid det spruckna flaket. Starta genom att etablera dig på den tunna listen med händerna på slopern på aretet.}}
+{{problem|namn=Hej och hå|grad=5A|typ=Överhäng,Travers V->H,Jug|fa=Johan Danielsson|landning=3|fadatum=2004-04-28|sopad=Johan Danielsson och Marlene Ågran|text=På västra vertikala blocket. På sidan mot vägen finns överhängande del. Starta runt vänstar hörnet och runda hörnet på de stora greppen. Kort och vass.}}
+{{problem|namn=Mossa på toppen|grad=5A|typ=Krimp,Slab|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-05-06|sopad=Johan Danielsson|text=På stenen med hålet. På vänsterkanten räknat från hålet. Rakt upp över sva-partiet. Förmodligen hårdare för korta.}}
+| width="250px" |
+{{problem|namn=Spruckna drömmar|grad=5B|typ=Pinch,Slab,Aréte|fa=Johan Danielsson|landning=3|fadatum=2004-05-13|sopad=Johan Danielsson|text=På stora blocket. På sidan av stenen till vänster om solsken. Startar runt hörnet. Kliv upp på små formationer och använd areten för att nå toppen}}
+{{problem|namn=Solskenssvaet|grad=5B|typ=Slab|fa=Johan Danielsson|landning=4|betyg=2|fadatum=2004-05-10|sopad=Johan Danielsson|text=Svaet till vänster (runt hörnet) om solsken.}}
+{{problem|namn=hackspetten|grad=6A|typ=Krimp,Pinch,Överhäng|fa=Johan Danielsson|landning=3|betyg=2|fadatum=2004-05-13|sopad=Johan Danielsson|text=På stenen med hålet. Starta mellan tallen och hålet. Klättra upp till höger om hålet. Förbjudet att använda trädet som hjälp!}}
+{{problem|namn=Insomnia|grad=6B|typ=Krimp,Slopers,Överhäng|fa=Johan Danielsson|landning=3|betyg=2|fadatum=2004-05-13|sopad=Johan Danielsson|text=På överhängande stenen. Till höger om Light fast and high. Etablering på crimpers. Dyna mot slopers på toppen och börja kampen...}}
+{{problem|namn=Svett|grad=6A|typ=Krimp,Överhäng|fa=Johan Danielsson|landning=3|betyg=1|fadatum=2004-05-13|sopad=Johan Danielsson|text=I grytan brevid stora blocket. Starta på vänsterkanten och klättra på krimpers till toppen.}}
+{{problem|namn=Höstsol|grad=5B|typ=Aréte|fa=Pär Lindholm & LKK|landning=3|betyg=2|fadatum=2005-10-08|sopad=Pär Lindholm & LKK|uteslutningar=ja|text=Aréten till höger om Solsken. Håll spricka och till vänster om denna.}}
+|}
+[[Kategori:Lycksele]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

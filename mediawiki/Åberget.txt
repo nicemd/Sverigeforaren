@@ -1,0 +1,77 @@
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!-- {{stub}} -->
+{{utkast|extern=ja}}
+<!-- {{komplett}} -->
+
+
+<!-- Detta gör det möjligt att markera klippan på kartor-->
+{{info klippa
+  |lat=65.7903
+  |long=21.6924
+}}
+
+
+==Allmänt==
+Stenbrott utanför Boden. Torkar snabbt. Klippan är vänd åt sydväst. Chipping på en helt ny nivå! Högre upp på samma berg finns [[Åbergsfortet]], som kan vara ett bra alternativ om värmen är jobbig och vinden inte riktigt når ner i stenbrottet.
+
+==Vägbeskrivning==
+[[Bild:åberget.jpg|frame|Joakim Söderström klättrar {{ledlänk|namn=Fidos Flykt|klippa=Åberget}}. Foto: [[Användare:nyberg fredrik|Fredrik Nyberg]] ]]
+Från Luleå kör man förbi första korsningen i Sävast (Vid golfbanan). I nästa korsning svänger man vänster. Följ Sävastvägen genom samhället. När husen på vänster sida upphör är det ca 3,5 km kvar tills man ska svänga höger. Strax innan man ska svänga så finns det ett stall och några hagar på höger sida. Den asfalterade avtagsvägen dyker upp i en lätt högersväng. Följ den 100 m och ta sedan vänster in på en sandig/stenig sämre väg. Härifrån bör klippan skymta genom skogen. Parkera och gå, eller om du har ett bra fordon så kan du köra hela vägen fram till klippan (i så fall svänger du höger efter 20 m).
+
+
+
+<googlemap version="0.9" lat="65.7903" lon="21.6924" type="map" zoom="11" width="350" height="350">65.7903, 21.6924, Åberget</googlemap>
+
+==Leder==
+Flera av lednamnen är målade på klippan, så det är lätt att orientera sig. Leder från vänster till höger. I föraren på www.borrbult.nu (Fyrkantenförare - Sportklättring) finns topo.
+
+===Moderna transporter-väggen===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Blue Highway|grad=6a+|typ=sport|längd=7|betyg=|bultar=3|fa=[[Johan Olsson]]|text=}}
+| width=300px|
+{{led|namn=Moderna transporter|grad=5c|typ=sport|längd=7|betyg=|bultar=2|fa=[[Johan Olsson]]|text=}}
+|}
+
+===Huvudklippan===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Flaket|grad=5c|typ=sport|längd=15|betyg=|bultar=|fa=[[Johan Olsson]]|text=Nytt ankare.}}
+{{led|namn=No hands|grad=6b+|typ=sport|längd=15|betyg=|bultar=6|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Torkat renkött|grad=6c|typ=sport|längd=15|betyg=|bultar=5|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Brutal A|grad=7a|typ=sport|längd=8|betyg=|bultar=4|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Stora D|grad=6c|typ=sport|längd=16|betyg=|bultar=6|fa=[[Håkan Landström]]|text=Klättras aldrig}}
+{{led|namn=Fidos flykt|grad=6c|typ=sport|längd=20|betyg=1|bultar=7|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Fido dirkekt|grad=7a|typ=sport|längd=20|betyg=2|bultar=7|fa=[[Ander Eliasson]]|text=}}
+{{led|namn=Fido superdirekt|grad=7b+|typ=sport|längd=20|betyg=3|bultar=7|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Dr Pepper|grad=7c|typ=sport|längd=20|betyg=|bultar=|fa=[[Martin Fransson]] [[2001]]|text=}}
+{{led|namn=Jalla jalla|grad=7c+|typ=sport|längd=20|betyg=|bultar=|fa=[[Martin Fransson]] [[2002]]|text=}}
+{{led|namn=Just did it|grad=8a|typ=sport|längd=20|betyg=2|bultar=|fa=[[Peter Bosma]] [[1998]]|text=}}
+{{led|namn=Vitsippan|grad=7a+|typ=sport|längd=20|betyg=3|bultar=7|fa=[[Johan Olsson]]|text=Åbergets mest klassiska led. Sloperramp och arete'.}}
+| width=300px|
+{{led|namn=Pärleporten|grad=6a+|typ=sport|längd=20|betyg=|bultar=ca 7|betyg=3|fa=[[Richard Strand]], [[John Ekman]]|text=Fin spricka.}}
+{{led|namn=Hugg i och dra|grad=6c+|typ=sport|längd=18|betyg=|bultar=5|fa=[[Anders Eliasson]], [[Kasper Kotake]]|text=Väggen t h om ''Pärleporten'' utan att använda sprickan.}}
+{{led|namn=Ormet kryper|grad=6c+|typ=sport|längd=18|betyg=|bultar=6|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Bladerunner|grad=7a|typ=sport|längd=15|betyg=|bultar=5|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Apansiktet|grad=6c|typ=sport|längd=15|betyg=1|bultar=5|fa=[[Johan Olsson]]|text=}}
+{{led|namn=Nästan trettio|grad=7b|typ=sport|längd=15|betyg=|bultar=|fa=[[Mikael Nilsson]]|text=}}
+{{led|namn=Spex|grad=7b|typ=sport|längd=15|betyg=|bultar=|fa=?|text=}}
+{{led|namn=Helium|grad=6c|typ=sport|längd=8|betyg=|bultar=3|fa=[[Anders Bjöken]]|text=}}
+{{led|namn=Karrakkdrakk|grad=6b|typ=sport|längd=8|betyg=|bultar=5|fa=[[Johan Olsson]]|text=Juggig och brant.}}
+{{led|namn=No sweat|grad=4|typ=sport|längd=8|betyg=|bultar=2|fa=[[Robert Zachrisson]]|text=Enkel bult med karbin som ankare.}}
+|}
+
+==Extern förare==
+http://www.borrbult.nu klicka på 'Förare' i menyn till höger, därefter 'Fyrkantenförare - Sportklättring'.
+
+=In English=
+Quarried rock. Very warm in summer. A good spring and autum venue.  Mostly drilled routes, but with a few good "natural" routes.
+
+==Directions==
+From the center of '''Boden''', drive towards Bodsvedjan and continue towards Sävast. Just after passing Bodsvedjan you see the cliff on your left. After a left curve turn left on a road. Follow that road for 100  m and turn left again on a rough road that you follow for another 150 meter. Park directly beneath the cliff.
+
+
+[[Kategori:sport]] [[Kategori:vertikalt]]
+[[Kategori:Norrbotten]] [[Kategori:Engelska]]

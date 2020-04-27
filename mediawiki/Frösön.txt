@@ -1,0 +1,19 @@
+{{info klippa
+  |lat=63.19277978350721
+  |long=14.604778289794922
+}}
+
+{{isstub}}
+
+==Allmänt==
+Klätterklippa på cykelavstånd från centrala Östersund.
+
+== ==
+Förare: [http://www.fredrikolofsson.se/forare/frosoforaren_2007_04_19.pdf Förare Frösöberget]
+
+Läs mer hos [http://www3.utsidan.se/okk/klattring/froson/froson.htm Östersunds klätterklubb]
+
+<googlemap width=450 height=300 lat="63.18627597743666" lon="14.621257781982422" zoom="13" type="map" controls="small">
+63.19277978350721,14.604778289794922,[[Frösöberget]]
+</googlemap>
+[[Kategori:Jämtland]]

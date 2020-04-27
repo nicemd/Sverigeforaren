@@ -1,0 +1,29 @@
+[[Kategori:Saknar allmän info]]
+=Vägbeskrivning=
+Gå mot sportklätterklippan på Fortet och när skogen börjar öppna upp sig lite på höger sida så följer ni de rödvida stittslarna ner i skogen.
+=Sektorer=
+==Stenen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Storm Troopah|grad=6B+|typ=Slopers,Reach,Jug|landning=2|betyg=1|fadatum=2006-11-02|text=}}
+{{problem|nr=2|namn=A New Hope|grad=6B|typ=Dyno|landning=2|fadatum=2006-11-02|startgrepp=ja|uteslutningar=ja|text=Sug tag i juggen och flyg mot kanten.}}
+{{problem|nr=3|namn=Tatooine|grad=5B|typ=Krimp,Dyno|landning=3|fadatum=2006-11-02|startgrepp=ja|text=}}
+{{problem|nr=4|namn=Endor|grad=5B|typ=Krimp,Dyno|landning=3|fadatum=2006-11-02|startgrepp=ja|text=}}
+| width="250px" |
+{{problem|nr=5|namn=Jedi Knight|grad=6B+|typ=Krimp,Mantling,Dyno|landning=2|fadatum=2006-11-02|startgrepp=ja|text=}}
+{{problem|nr=6|namn=Tie Fighter|grad=5C|typ=Krimp,Slopers,Dyno|landning=2|betyg=1|fadatum=2006-11-02|text=Klättra rakt upp. En av de finare på stenen.}}
+{{problem|nr=8|namn=The Emperor|grad=6B|typ=Mantling,Aréte|betyg=1|fadatum=2006-11-02|text=Klättra på vänstra sidan av aretet. Mantla rakt upp.}}
+| width="250px" |
+{{problem|nr=13|namn=X-Wing|grad=6B|typ=Krimp,Slopers,Reach|landning=2|fadatum=2006-11-02|text=Klättra rakt upp utan att escapa till vänster. Etablerad start.}}
+{{problem|nr=14|namn=Jabba the Hut|grad=7A|typ=Krimp,Överhäng,Dyno|landning=3|betyg=2|fadatum=2006-11-02|text=Klättra rakt upp.}}
+|}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

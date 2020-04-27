@@ -1,0 +1,85 @@
+{{info klippa
+  |lat=59.33494
+  |long=18.22588
+}}
+
+{{utkast}}
+==Allmänt==
+Flera mindre klippor av renodlad sportkaraktär. Här kan man även [[Orminge|bouldra]] och bada.
+
+==Extern förare==
+Förare med skiss finns på [http://www.plonk.se/oldsite/talludden.html Stockholms Nätförare]
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.33494" lon="18.22588" zoom="14" type="map" controls="small">
+59.33494,18.22588,[[Talludden]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Talludden
+lat=18225880
+long=59334940
+</slresa>
+</div> 
+
+Kör Värmdöleden (222) och sväng av via Skuru (direkt efter Skurubron). Sväng till vänster och kör under motorvägen. Sväng höger och sedan vänster mot Talludden (på Talluddsvägen). Kör rakt fram en stund sedan Höger (Helmdalsvägen), Vänster (Friggvägen), höger (Emblavägen). Nära slutet av Emblavägen finns det en vänd/parkerings plats. Parkera bilen där och sedan följer Mariedalsvägen ner. Efter några meter ser man sedan en lång [[Orminge|bouldervägg]]. Fortsätt gå stigen ned mot vattnet och följ stranden till höger. Musväggen är väggen närmast stranden.
+
+<div style="clear:right;"></div>
+
+==Leder==
+===Röda väggen===
+Väggen längst till höger nära gångvägen
+
+{{led|namn=Pissmyran|grad=6c|fa=[[Johan Luhr, Thomas Eriksson (utsteget)]]|typ=sport|text=}}
+
+{{led|namn=Frisk fläkt|grad=7a|fa=[[Johan Luhr]]|typ=sport|text=}}
+
+{{led|namn=Depå|grad=7a|fa=[[Johan Luhr]]|typ=sport|text=}}
+
+{{led|namn=Myggan|grad=6b+|fa=[[Johan Luhr]]|typ=sport|text=Leden har tillfälligt avvecklats pga lösa block}}
+
+{{led|namn=Blockleden|grad=6b+|fa=[[Johan Luhr]]|typ=sport|text=Leden har avvecklats tillsvidare pga lösa block}}
+
+{{led|namn=Myrstackarn|grad=6c+|fa=[[Thomas Eriksson]]|typ=sport|text=Klippans mest uppenbara och kanske finaste linje. Leden har gemensamt insteg med Blockleden, följer den vänsterlutande spricklinjen, och har gemensamt utsteg med Pissmyran.}}
+
+{{led|namn=Baren|grad=6c|fa=[[Johan Luhr]]|typ=sport|text=}}
+
+{{led|namn=På sniskan|grad=6b|fa=[[Johan Luhr]]|typ=sport|text=}}
+
+{{led|namn=Hustomten|grad=5b|fa=[[Per Willén]]|typ=sport|text=Välbultad och med ankare.}}
+
+===Musväggen vänster ===
+[[Bild:talludden_musvaggen.gif]]
+
+{{led|nr=1|namn=Räven|grad=7c|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Crimpig. Går längre än bilden visar upp på svaplattan ovanför.}}
+{{led|nr=2|namn=Tuvan|grad=7c+|fa=[[Johan Luhr]]|typ=sport|betyg=1|text=Slopers}}
+{{led|nr=3|namn=Stå på|grad=7c+|fa=[[Johan Luhr]], PL|typ=sport|text=Boulderkrux rakt upp sedan samma utsteg som Tuvan. Variant vänster in i räven 8a}}
+{{led|nr=4|namn=Ketchup|grad=7c|fa=[[Johan Luhr]]|typ=sport|text=På areten}}
+{{led|nr=4b|namn=Senap|grad=7c|fa=[[Johan Luhr]]|typ=sport|text=Gemensamt insteg med Ketchup och gemensamt utsteg med Tuvan?}}
+{{led|nr=5|namn=Blindträff|grad=6c+|fa=[[Johan Luhr]], PL|typ=sport|text=Ett move}}
+{{led|nr=6|namn=Keno|grad=6a|fa=[[Johan Luhr]], PL|typ=sport|text=}}
+
+===Musväggen höger===
+Liten vägg 100m h om Musväggen med korta bultade leder.
+{{led|nr=1|namn=?|grad=6b|fa=[[Reino Liimatainen]]|typ=sport|text=}}
+{{led|nr=|namn=Reinos led|grad=6b+|fa=[[Johan Luhr]]|typ=sport|text=}}
+{{led|nr=|namn=Ingen lätt match|grad=7c+|fa=[[Johan Luhr]]|typ=sport|text=Ett limmat grepp har lossnat varför kruxet blivit klart hårdare.}}
+{{led|nr=|namn=Mustasch|grad=8a+|fa=[[Johan Luhr]]|typ=sport|text=Kort och hård}}
+{{led|nr=|namn=Knäskålen|grad=7b|fa=[[Reino Liimatainen]]|typ=sport|text=}}
+{{led|nr=|namn=?|grad=6b+|fa=[[Reino Liimatainen]]|typ=sport|text=}}
+
+===Sjöväggen===
+{{led|namn=Soldiedret|grad=6a+|fa=[[Johan Luhr]]|typ=sport|text=}}
+{{led|namn=Fegisvarianten|grad=5c|fa=[[Johan Luhr]]|typ=sport|text=}}
+{{led|nr=|namn=Hit men längre|grad=8a|fa=[[Johan Luhr]]|text=Vänstra insteget på Freeze}}
+{{led|nr=|namn=Help|grad=8a+|fa=[[Johan Luhr]]|text=Det 15 år gamla projektet till vänster om freeze.}}
+{{led|namn=Freeze|grad=7c+|fa=[[Johan Luhr]]|typ=sport|betyg=2|text=}}
+
+[[Kategori:Sport]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar skrivarformatering ]]

@@ -1,0 +1,107 @@
+[[Kategori:Saknar allmän info]]
+=Vägbeskrivning=
+Från Umeå JVSTN. Kör E12 mot Vännäs/Lycksele. Efter ca 12 km kommer det en Konsumbutik på vänster sida (Brännland). Passera butiken och sväng höger vid nästa avfart mot Tavelsjö/Kassjö. Följ vägen över järnvägsövergången och ytterligare 3,8 km. Vid en svag vänsterkurva efter en lång raksträcka syns en liten skogsväg till höger. Följ skogsvägen 700 m, håll höger hela tiden. Framme vid ett litet sandtag är det bara att parkera bilen. Följ traktorspåren i bortre änden av sandtaget rakt in i skogen, sedan något vänster efter väl markerad stig över öppen terräng.
+
+=Sektorer=
+==Thaitaket==
+En fin överhängande bouldervägg med högkvalitativa problem. Ligger till HÖGER om centrumstenarna när man kommer från bilen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=20|namn=Syddes farväl|grad=6C|typ=Travers H->V|fa=Sydde + Ökligan|landning=3|betyg=1|fadatum=2005-05-22|sopad=Sydde + Ökligan|variant=ja|text=Traversera hela machoväggen. Starta runt hörnet på höger sida och avsluta med mantling längst till vänster. Pumpande värre.}}
+{{problem|nr=20|namn=Fleshlight|grad=6B+|typ=Överhäng,Aréte,Jug|fa=damp & +@+|landning=2|betyg=1|fadatum=2005-10-16|sopad=damp & +@+|startgrepp=ja|text=Startar under taket längst till höger i thai taket. Känns givet när man sätter sig ner, notera dock att det är startgrepp, men man måste inte starta sittande på röven. Sedan rakt upp och ut över taket/arêtet.}}
+{{problem|nr=21|namn=Jan Organ goes to Finland|grad=4B|typ=Överhäng,Jug|fa=+@+ & damp|landning=2|betyg=1|fadatum=2005-10-16|sopad=+@+ & damp|sittstart=ja|text=Fin warm-up men tyvärr vart den nästan för lätt.}}
+| width="250px" |
+{{problem|nr=22|namn=Pump Station|grad=6A|typ=Överhäng,Jug,Spricka|fa=Hagge & +@+|landning=4|betyg=2|sopad=Hagge & +@+|sittstart=ja|text=Startar i låg jug och följer sen den givna ramplinjen upp och ut. Mycket trevligt problem.}}
+{{problem|nr=23|namn=Pleasure Palace|grad=7B|typ=Överhäng,Reach|fa=Damp & Urbanovich|betyg=2|fadatum=2005-10-16|sopad=Damp & Urbanovich|sittstart=ja|text=Startar sittande i givna gogrepp åsså rätt upp bara. Brant, hård & fin klättring på goa grepp.}}
+{{problem|nr=24|namn=Nice with Ice|grad=6A+|typ=Överhäng,Reach,Jug|fa=Lussetti och nån fler pöjk|landning=3|betyg=1|fadatum=2005-10-16|sopad=Lussetti och nån fler pöjk|sittstart=ja|text=Avslutas mer vänster än höger.}}
+| width="250px" |
+{{problem|nr=25|namn=?|grad=6A|typ=Krimp,Överhäng,Jug|fa=Ökligan|landning=2|fadatum=2005-11-11|sopad=Ökligan|sittstart=ja|text=Största kruxet är att inte pendla in i väggen till vänster. Ganska fint annars.}}
+{{problem|nr=26|namn=Puff the Magic Dragon|grad=6A|typ=Krimp,Pinch,Aréte|fa=Pär Lindholm|landning=3|betyg=1|fadatum=2005-10-11|sopad=Pär Lindholm|sittstart=ja|text=30 meter till vänster om Thaiväggen. Sittstarta och klättra sedan aréten mot toppen.}}
+|}
+==Centrumstenarna==
+Stenarna i mitten av området. 
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Politiskt Korrekt|grad=6A+|typ=Krimp,Reach,Spricka|fa=Den Obarmhärtige Ökligan|landning=3|betyg=2|fadatum=2005-05-19|sopad=Den Obarmhärtige Ökligan|text=Går mitt på det mäktiga "afrika facet" på centrum blocken. Överklockrent problem - klättra upp. Men ramla inte från matlingen.}}
+{{problem|nr=2|namn=Den Sågtandade Trollstaven|grad=6A|typ=Krimp,Aréte|fa=Ökligan|landning=2|betyg=3|sopad=Ökligan|text=}}
+{{problem|nr=2|namn=Den Sågtandade Trollstaven|grad=6C+|typ=Dyno,Aréte|fa=Den Obarmhärtige Ökligan|landning=3|fadatum=2005-10-16|sopad=Den Obarmhärtige Ökligan|variant=ja|text=Dyna direkt till toppen.}}
+{{problem|nr=3|namn=?|grad=6A|typ=Krimp|fa=Ökligan|landning=3|betyg=1|sopad=Ökligan|text=Lite arga krimpers på vägen.}}
+{{problem|nr=4|namn=Ms Jenna Haze|grad=6B|typ=Krimp,Överhäng,Heel hook|fa=Den Obarhärtige Ökligan|landning=2|betyg=3|fadatum=2005-10-15|sopad=Den Obarhärtige Ökligan|sittstart=ja|text=Givet superproblem på  den lilla överhängande "kortsidan" av ena centrumblocket, Starta sittande, slappas sedan hit & dit men avslutas rakt upp.}}
+{{problem|nr=5|namn=Linus|grad=6B+|typ=Krimp,Arete ,Heel hook|fa=Anders Engberg|landning=2|betyg=1|fadatum=2009-09-27|sopad=Den Obarhärtige Ökligan|sittstart=ja|text=Sittstart längst till höger, följ areten, gemensam avslutning med Ms Jenna Haze.}}
+| width="250px" |
+{{problem|nr=6|namn=Bouncing Booty|grad=7A|typ=Krimp,Överhäng,Heel hook|fa=Den Obarmhärtige Ökligan|landning=2|fadatum=2005-05-01|sopad=Den Obarmhärtige Ökligan|sittstart=ja|startgrepp=ja|text=Startar under taket på baksidan av centrumblocken i givet undercling. Ojämn men ändå som lite småkul. Väldigt ofarlig.}}
+{{problem|nr=6 Variant|namn=Bouncing Booty Right|grad=7B+|typ=Krimp,Överhäng,|fa=Linus|landning=2|fadatum=2011-04-30|sopad=Den Obarmhärtige Ökligan och Linus|sittstart=ja|startgrepp=ja|text=Startar under taket på baksidan av centrumblocken i givet undercling som orginalet. Går sedan rakt åt höger. Toppa ur utan att använda aretén till vänster.}}
+{{problem|nr=7|namn=Skogskrokig ss|grad=6C+|typ=Krimp,Reach|fa=Den Obarmhärtige Ökligan|landning=2|fadatum=2005-05-19|sopad=Den Obarmhärtige Ökligan|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Starta sittade i sned list och ta dig upp utan arêtet.}}
+{{problem|nr=7|namn=Skogskrokig|grad=5B|typ=Aréte|landning=2|betyg=1|text=10 meter till vänster om "Enjoy the silence". Klättra aréten, fötterna på väggen.}}
+{{problem|nr=8|namn=?|grad=6A+|typ=Krimp,Layback|fa=Ökligan|landning=4|sopad=Ökligan|sittstart=ja|text=Konstig sittstart blir väggproblem.}}
+| width="250px" |
+{{problem|nr=10|namn=Enjoy the silence|grad=7C|typ=Krimp,Överhäng|fa=Urban & Ökligan|landning=4|betyg=3|fadatum=2005-10-04|sopad=Urban & Ökligan|startgrepp=ja|text=Feta taket på "baksidan" av Centrumstenarna. Startar långt ner i 2 givna lister. En jävulsk sten flyttades för att ge plats för detta magnifika problem. Blod, svett & mörkerjobb resluterade i Umeås första 7C. En lägre start är möjlig, men hård.}}
+{{problem|nr=11|namn=Camel Toe|grad=6B|typ=|fa=Ökligan|landning=3|sopad=Ökligan|text=Går på en egen "vägg" (block egentligen) inne i hörnet "hitom" centrumstenarna. Problemet längst till vänster på denna "vägg". Given straight up som kräver lite fotprecition.}}
+|}
+
+==Dödssynderna==
+Där Noshörningsbouldern och Dödssynderna-stenen ligger.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=45|namn=Neverland|grad=5B|typ=Krimp|fa=urban|landning=4|fadatum=2005-10-13|sopad=urban|sittstart=ja|text=ligger på vänster sida om nosen på den noshörnings liknande stenen ca 25 m snett upp åt höger från dödssynderna. givet startgrepp}}
+{{problem|nr=46|namn=Ragnarrök|grad=6C+|typ=Krimp,Överhäng,Aréte|fa=urban|landning=3|betyg=3|fadatum=2005-10-13|sopad=urban|startgrepp=ja|text=häng in i startgreppen precis under hakan på den noshörningsliknande stenen ca 25 snett upp åt vä. från dödssynderna och gå sen rakt upp över nosen}}
+{{problem|nr=47|namn=Pointsjakt|grad=4B|typ=Krimp,Slopers|fa=urban och sofie|landning=3|betyg=1|fadatum=2005-10-13|sopad=urban och sofie|text=lilla väggen ca 20 meter ovanför dödsyndstenen, ståstart på vänstra delen av väggen och rakt upp}}
+{{problem|nr=48|namn=Tip top|grad=4B|typ=Krimp,Slopers,Jug|fa=sofie björkman|landning=3|betyg=1|fadatum=2005-10-13|sopad=sofie björkman|text=väggen 20 meter ovanför dödssynderna stenen, ståstart på den högra delen av väggen och rakt upp}}
+{{problem|nr=49|namn=Vällust|grad=4A|typ=Krimp,Slab|fa=urban|landning=3|fadatum=2005-10-13|sopad=urban|text=starta stående en meter till höger om lättja taket}}
+| width="250px" |
+{{problem|nr=50|namn=Lättja|grad=6B|typ=Slopers,Jug,Heel hook|fa=urban|landning=4|betyg=2|fadatum=2005-10-13|sopad=urban|sittstart=ja|text=Starta sittande under taket och ta dig sedan upp åt höger över spetsen på taket.}}
+{{problem|nr=51|namn=Avund|grad=6B|typ=Krimp|fa=urban|landning=3|fadatum=2005-10-13|sopad=urban|sittstart=ja|startgrepp=ja|text=sittstart runt hörnet till vänster om lättjataket i krimpers och gå sedan lite höger och sen upp, inte så fin}}
+{{problem|nr=52|namn=Vrede|grad=6A+|typ=Krimp,Dyno|fa=urban|landning=2|fadatum=2005-10-13|sopad=urban|startgrepp=ja|text=halv meter till vänster om avund, sug startkrimprarna och skicka upp åt vänster mot en liten topp}}
+{{problem|nr=53|namn=Girighet|grad=5B|typ=Överhäng,Aréte|fa=urban|landning=3|betyg=2|fadatum=2005-10-13|sopad=urban|text=tjusigt arete längst ner på stenen till vä. omvrede dynot. ståstart rakt upp}}
+{{problem|nr=53|namn=Girighet SS|grad=6B|typ=Aréte,Heel hook|fa=Ökligan|landning=2|betyg=2|fadatum=2005-11-11|sopad=Ökligan|sittstart=ja|variant=ja|text=Vänster hand på liten krimp vid siffran, höger hand på stort grepp som kan vara svårt att nå till.}}
+| width="250px" |
+{{problem|nr=54|namn=Högmod|grad=5C|typ=Slopers,Överhäng,Jug|fa=urban|landning=3|betyg=2|fadatum=2005-10-13|sopad=urban|sittstart=ja|text=sittstart på andra sidan taket mitt på facet, rakt upp via juggar och sloop topp}}
+{{problem|nr=55|namn=Frosseri|grad=7A+|typ=Slopers,Överhäng,Aréte|fa=urban|landning=3|betyg=2|fadatum=2005-10-13|sopad=urban|sittstart=ja|startgrepp=ja|text=det vänstra aretet på andra sidan stenen från taket, startgrepp och upp via känsliga, hårda flytt, fin}}
+{{problem|nr=56|namn=Nyfrälst|grad=6A|typ=Pinch,Jug,Toe hook|fa=Pär Lindholm|landning=2|betyg=2|fadatum=2005-05-21|sopad=Pär Lindholm|sittstart=ja|text=Sittstart nere i den lilla grottan bakom Dödssynderna-stenen. Roliga grepp och annorlunda moves.}}
+{{problem|nr=57|namn=Singelmingel|grad=6A|typ=Krimp,Dyno|fa=urban|landning=4|fadatum=2005-10-13|sopad=urban|text=liten vägg typ 5 meter nedanför dödssynd stenen, sug det som erbjuds och ladda mot toppen}}
+|}
+==Mellanväggen==
+Till VÄNSTER om Centrumstenarna när man kommer från bilen. Mellan Centrumstenarna och Dödssynderna-stenen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Gay är trad|grad=5A|typ=Aréte|fa=Pär Lindholm|landning=5|fadatum=2005-11-11|sopad=Pär Lindholm|text=Givet problem längst in i hörnet 3 meter till vänster om nr 38. Ha två spotters, en på hyllan till höger och en som står bakom träden och ser till att du inte flyger in i dom.}}
+{{problem|nr=31|namn=Fula gubben|grad=6B|typ=Slopers,Överhäng,Heel hook|fa=PG|landning=3|betyg=1|fadatum=2005-11-11|sopad=PG|uteslutningar=ja|text=Rakt upp via stora greppet mitt på. Helt annan lösning krävs förmodligen för personer under 180 cm. Stenen till vänster och vänstra aréten är uteslutna.}}
+| width="250px" |
+{{problem|nr=32|namn=Tantsnusk|grad=4C|typ=Aréte|fa=Per G + Pär L|landning=4|fadatum=2005-11-18|sopad=Per G + Pär L|text=Följer vänstra aréten.}}
+{{problem|nr=33|namn=Softporn|grad=7A|typ=Krimp,Slopers|fa=Ökligan|landning=2|sopad=Ökligan|text=}}
+{{problem|nr=34|namn=(Sprickan)|grad=5A|typ=Spricka|fa=Ökligan|landning=2|sopad=Ökligan|sittstart=ja|text=Starta sittande längst ner, når du inte får det väl bli hängande start. Följ sprickan upp.}}
+{{problem|nr=36|namn=Urbinator|grad=7A|typ=Krimp,Reach|fa=Shiba & Urbinatorn + landnings crew|landning=4|fadatum=2005-10-16|sopad=Shiba & Urbinatorn + landnings crew|startgrepp=ja|text=Starta i tillsynes alldeles för tunga undercling, kliv på och sen rakt upp. Ligger ganska mitt på den stora "mellanväggen". Ser givet ut men känns mest bara omöjligt ;-)}}
+| width="250px" |
+{{problem|nr=38|namn=Dubbelt upp|grad=5C|typ=Dyno|fa=Pär Lindholm|landning=2|betyg=1|fadatum=2005-05-21|sopad=Pär Lindholm|sittstart=ja|text=Starta sittande och gör sen två dynamiska moves för att nå toppen. Går till höger på storväggen.}}
+|}
+==Lyckostenarna==
+Två stenar. En ligger intill stigen på väg till Thaitaket, den andra ca 20 meter ovanför. För närvarande 7 borstade problem i de lite lägre graderna. Klicka på lednamnen för bild.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Glädjeskutt|grad=5B|typ=Jugg,Krimp,Balans|fa=Peter Hultgren|landning=1|fadatum=2012-06-04|sopad=Peter Hultren & Petra Johansson |sittstart=ja|text=Starta sittande i den stora juggen på motsatt sida av stenen från "Lyckorus" sett. Mantling som kräver ett litet skutt.}}
+{{problem|namn=Lyckan är gjord|grad=4B|typ=Jugg,Krimp|fa=Peter Hultgren|landning=1|fadatum=2012-06-09|sopad=Peter Hultren & Petra Johansson|text=Rakt upp ca 1½ meter till vänster om "Glädjeskutt". }}
+| width="250px" |
+{{problem|namn=Stenkul|grad=4A|typ=Sloper,Reach|fa=Petra Johansson|landning=1|fadatum=2012-06-04|sopad=Petra Johansson & Peter Hultgren|sittstart=ja|text=Mitt på den svaiga långsidan av stenen.Starta sittande, sedan rakt upp.}}
+{{problem|namn=Lyckorus|grad=4B|typ=Aréte|fa=Peter Hultgren|landning=2|fadatum=2012-06-04|sopad=Peter Hultgren & Petra Johansson|uteslutningar=ja|text=Rakt upp via det vassa arétet till vänster om "Stenkul". Hyllan till vänster är utesluten.}}
+| width="250px" |
+{{problem|namn=Enöga|grad=3A|typ=Aréte|fa=Peter Hultgren|landning=2|fadatum=2012-06-09|sopad=Peter Hultren & Petra Johansson |text=Upp via det vänstra arétet på den vertikala sidan av stenen ca 20 meter bakom Stenkul.}}
+{{problem|namn=En dum en|grad=4B|typ=Krimp|fa=Petra Johansson|landning=1|fadatum=2012-06-09|sopad=Peter Hultren & Petra Johansson |sittstart=ja|text=Starta sittande med båda händerna på det givna greppet till höger om "Enöga" sedan rakt upp.}}
+{{problem|namn=Dunderklumpen|grad=5A|typ=Krimp|fa=Peter Hultgren|landning=1|fadatum=2012-06-09|sopad=Peter Hultren & Petra Johansson |uteslutningar=ja|sittstart=ja|text=Starta sittande med båda händerna i den låga sprickan på till höger om "En dum en". Arétet till höger uteslutet.}}
+|}
+
+=Problem=
+{{problem|namn=Osedligt umgänge|grad=6B+|typ=Krimp|fa=Sydde + ökligan|landning=3|sopad=Sydde + ökligan|text=Till höger om Sprickan på mellanområdet.}}
+{{problem|nr=9|namn=Profesia|grad=7A|typ=Slopers,Överhäng,Aréte|fa=Ökenligan feat. Linus|landning=3|betyg=3|fadatum=2007-06-07|sopad=Ökenligan feat. Linus|sittstart=ja|text=Sittstart mitt på arétet NEDANFÖR stubben.}}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

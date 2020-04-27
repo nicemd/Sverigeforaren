@@ -1,0 +1,27 @@
+{{info klippa
+  |lat=65.273425
+  |long=16.758363888888887
+}}
+
+{{stub}}
+==Allmänt==
+En mycket imponerande klippa nära Storuman. 60-70 meter hög och kraftigt överhängande. Tyvärr ganska lös.
+
+Förstabestigningen av huvudpartiet gjordes av Krister Jonsson och Lars Söder.
+
+Svea skog tillåter inte bultning eller rensning på detta berg.
+
+==Vägbeskrivning==
+<googlemap lat="65.273425" lon="16.758363888888887" zoom="9" type="map">
+65.273425,16.758363888888887,Kyrkberget
+</googlemap>
+
+=Access=
+[[Bild:Access.jpg]] Det finns ännu inget tillstånd för klättring/bultning på Kyrkberget. 
+
+Läs mer på
+* [http://web.8a.nu/(nkiwdmnsy0vwm255stijzl45)/forum/ViewForumThread.aspx?ObjectId=6326&ObjectClass=CLS_UserNewsComment&CountryCode=SWE 8a.nu].
+* [http://www.borrbult.nu/forum/topic.asp?TOPIC_ID=357 Borrbult.nu]
+
+[[Kategori:Lappland]] [[Kategori:Access]] [[Kategori:Överhäng]] [[Kategori:Multipitch]]
+[[Kategori:Lappland]]

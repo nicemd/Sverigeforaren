@@ -1,0 +1,61 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+En tämligen stor övergiven klippa med flera inbjudande sprickor. Möjligheter att sätta upp topprep är försvårade då det är jobbigt att gå runt. 
+==Vägbeskrivning==
+Kör Björlandavägen ifrån stan mot Björlanda, precis innan en futuristisk kyrka (Toleredskyrkan) sväng höger, hitta en betalparkering. Gå in i skogen bakom kyrkan och följ bred promenadstig. Om du går rätt hittar du klippan efter 400 meter.
+==Kollektivtrafik==
+Ta buss till hållplats "Toleredsgatan". Gå förbi kyrkan, Toleredsskolan och ett dagis och ett par lägenhetshus. Gå in vänster bakom lägenhetshusen och följ ett "elljusspår-stig" (utan ljus) cirka 400 meter. Promenaden tar max fem minuter om du går rätt. 
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[bild:slattadamm_storavaggen.jpg|600px]]
+
+
+
+{{led|namn=Hill walking|grad=5|typ=trad|längd=20|fa=|text=Transportsträcka till toppen, något mossig}}
+
+{{led|namn=Vänsterback|grad=6-|fa=Kristian Thisted 1992|text=Ihållande och välsäkrad sprickklättring|betyg=4|längd=20}}
+
+{{led|namn=Fyran|fa=|grad=5|typ=trad|längd=8}}
+
+{{led|namn=Professorn|grad=5|typ=trad|längd=60|fa=}}
+
+{{led|namn=Apelsin|grad=5|typ=trad|text=Första replängd som Professorn, sedan annorlunda|fa=|betyg=1}}
+{{led|namn=Hörnet|grad=5|typ=trad|text=Möjligen bökigare än den ser ut|fa=|längd=10}}
+
+{{led|namn=Fina sprickan|grad=5|betyg=5|fa=|text=Vänsterlutande handjamspricka. Fin.|typ=trad|längd=10}}
+{{led|namn=Lätta leden|grad=4+|text=Lätt till brant till sva. |typ=trad|fa=}}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+(Klippan är mycket vagt beskrivning i Klättring i Göteborg med omnejd)
+[[kategori:Saknar skiss]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Göteborg]]
+
+====Access====
+Det ligger en fornborg ovanför klippan...

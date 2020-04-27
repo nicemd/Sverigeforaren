@@ -1,0 +1,12 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Rocco Siffredi|grad=6C|typ=Travers V->H|fa=Henrik Johansson|landning=5|betyg=1|sopad=Johan Olsson, Fredrik Lindgren mfl|text=Fet travers. Starta på "Lennart Svan" längst till V och trav. sen H förbi alla leder, avlsuta m att klättra upp i ett dieder, nästan uppe vid fikaplatsen. Ej tillåtet att vila allför länge på Dumbo, kroppen ska va i rörelse =). Lång, hård och pumpande...}}
+{{problem|namn=Säwén|grad=6C+|typ=Dyno,Jug|fa=Johannes Nilsson|betyg=3|sopad=JN, DK|startgrepp=ja|uteslutningar=ja|text=Starta i utmärkt jug och dyna hela vägen till toppen. Klockrent och överskönt dyno som bara måste upplevas. Kanske 7A.}}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

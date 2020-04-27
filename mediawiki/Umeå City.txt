@@ -1,0 +1,27 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Sektorer=
+==IKSU-stenen==
+
+==Brofästet==
+
+{{problem|namn=Fikusexhibitionism|grad=5C|typ=Krimp,Aréte|fa=Tatt & Damp|landning=4|betyg=1|fadatum=2004-04-26|sopad=Gatukontoret|text=Går på gångbron över älven mellan teg och stan. Brofästet på stadssidan, och på detta den sida som vätter mot stan. Bara att klättra rakt upp till hyllan och mantla. Småkänslig.}}
+{{problem|namn=Idiothopp|grad=7A|typ=Dyno|fa=Damp & Tatt|landning=4|betyg=1|fadatum=2004-04-26|sopad=Gatukontoret|startgrepp=ja|uteslutningar=ja|text=Går på samma ställe som Fikusexhibitionism. Dyna direkt till hyllan från den givna startlisten. Ganska långt och det blir bökigare i och med små/dåliga steg.}}
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Tattarhaket|grad=6B|typ=Slopers,Reach|fa=DK & PL|landning=3|fadatum=2004-04-16|sopad=Gatukontoret|startgrepp=ja|uteslutningar=ja|text=Ligger på muren på Hovrättsgatan, väst på stan. Innan sista korsningen längst ner mot älven. I stort sett helt värdelöst problem. Starta hängande i den undre fastgjutna stenen och dra till den övre sen upp. Man får ej gå direkt upp.}}
+{{problem|namn=Artifiziellecke|grad=5C|typ=Highball,Aréte,Jug|fa=Jimmy-Bob, Tatt, Damp|landning=4|fadatum=2004-04-26|sopad=Gatukontoret|text=Ligger vid tunneln under E4 på teg. Det givna höga arêtet. Bara att suga i och åla sig upp. Går troligtvis lika lätt med klätterskor som utan. Padda är nog grymt skönt om man mot förmodan faller.}}
+| width="250px" |
+{{problem|namn=Berlinbarn|grad=6A|typ=Pinch,Reach|fa=Jimmy-Bob, Damp, Tatt|landning=3|fadatum=2004-04-26|sopad=Gatukontoret|text=Går mitt på väggen till vänster om Artifiziellecke. Starta mitt för stolpen och rakt upp, inte för att det spelar så stor roll, likadana grepp flera meter åt varje håll. Lite vass men ok.}}
+| width="250px" |
+{{problem|namn=Mickel Räv|grad=5A|typ=Krimp|fa=Anders Lidman|landning=2|fadatum=2004-04-28|sopad=A.L, Jörgen Johansson|text=Ligger nere vid gångvägen från Carlshem till Strömpilen. Den s.k MAXI-klippanStarta i slope för högerhanden och crimp för vänster. Klättra rakt upp}}
+|}
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

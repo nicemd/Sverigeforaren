@@ -1,0 +1,262 @@
+{{komplett}}
+==Allmänt==
+Eskön ligger 2,5 mil norr om Gävle.
+
+==Kommunikationer==
+
+Med bil från Gävle kör man 15 km norrut på Trödjevägen (gamla E4:an) och svänger höger vid en skylt "ESKÖN 7". Efter 7 km svänger man höger vid en lanthandel och fortsätter nu på en grusväg ca 3 km, då man ser centralklippan från vägen.
+
+Väldigt, väldigt ungefärliga GPS-koordinater: Lat: N 60º 47' 34.45" Long: E 17º 20' 29.39"
+
+==Historik==
+{{hälsingeföraren}}
+
+==Klippan==
+[[Bild:eskon.jpg]]
+
+Centralklippan är som högst 10 meter med brant och fin spricklättring. Mindre väggar och boulders finns det gott om runt centralklippan. Väldigt få turer har gjorts.
+
+{{led|nr=1|namn=Seven Up|grad=6|betyg=**|typ=trad|fa=Lars Eriksson m topprep 1984|text=Fritt: Lars Eriksson}}
+
+{{led|nr=2|namn=Direkttissiman|grad=4|typ=trad|fa=Lars Eriksson, Per Wahlqvist och Åke Wall 1984|text= Kan varieras med två olika utsteg}}
+
+{{led|nr=3|namn=Spindeltaket|grad=5+|typ=trad|fa=Lars Eriksson m Topprep 1984|text= Fritt: Kent Andersson och Lars Eriksson}}
+
+{{led|nr=4|namn=På Gränsen|grad=6+|betyg=1|typ=trad|fa=Claes Renström m topprep 1986|text=}}
+
+== Boulderproblem ==
+
+Dessa sektorer med boulderproblem kommer från föraren Bimbo.
+
+===A===
+[http://www.bouldersinc.se/Bilder/A.jpg]
+Sektor A är området längst till vänster sett från parkeringen. Gå över fältet för att nå sektorn. Sektor A innefattar Taggtrådsblocket, Hårdareblocket samt Foo Fightersblocket. Även väggarna mellan de olika blocken hör till Sektorn.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Taggtråden|grad=5B|typ=Jug|fa=Stefan Hedin|landning=3|betyg=1|fadatum=2004-03-15|sopad=Stefan Hedin & Ronny Andersson|text=Passa taggtråden på marken som gett problemet dess namn. Ligger längst till vänster på Taggtrådsblocket. I sektor A.}}
+{{problem|nr=2|namn=Taggtråden sittstart|grad=5C|typ=Jug|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2004-04-01|sopad=Ronny Andersson & Stefan Hedin & Daniel Hultgren|sittstart=ja|variant=ja|text=Sittstart till Taggtråden, höjer graden nått steg.}}
+{{problem|nr=3|namn=Dog Fight|grad=6A|typ=Krimp,Reach|fa=Johan Andersson|landning=2|betyg=1|fadatum=2004-03-14|sopad=Johan Andersson & Ronny Andersson|text=Går på aréten till höger om taggtråden på "Taggtrådsblocket". I sektor A}}
+{{problem|nr=4|namn=Goa crimpar|grad=6A|typ=Krimp|fa=Johan Andersson|landning=3|betyg=2|fadatum=2004-03-14|sopad=Johan Andersson & Ronny Andersson|sittstart=ja|startgrepp=ja|text=Börjar nere till vänster på taggtrådsblocket precis bredvid Dog Fight. Starta på de två tydliga greppen. Gå sedan rakt upp över kanten.}}
+{{problem|nr=5|namn=Passa Pinchen|grad=5C|typ=Krimp,Mantling|fa=Johan Andersson|landning=2|betyg=1|fadatum=2004-03-21|sopad=Johan Andersson & Ronny Andersson|sittstart=ja|text=Går mitt på taggtrådsväggen. Blocket längst till vänster vid kalhygget. I sektor A.}}
+{{problem|nr=6|namn=Smutsiga tassar|grad=5A|typ=Krimp,Mantling|fa=Ronny Andersson|landning=3|fadatum=2004-03-18|sopad=Ronny Andersson & Johan Andersson|sittstart=ja|text=Går till höger om "Passa Pinchen" på Taggtrådsblocket i sektor A.}}
+{{problem|nr=7|namn=Mc Stefan & Co.|grad=5C|typ=Krimp,Reach|fa=Ronny Andersson|landning=3|fadatum=2004-05-10|sopad=Ronny Andersson|sittstart=ja|uteslutningar=ja|text=Ligger till vänster om "Till vänster om stölden" ut mot kalhygget. Delen till vänster om sprickan på blocket är inte med.}}
+| width="250px" |
+{{problem|nr=8|namn=Den till vänster om stölden|grad=-|typ=Jug,Spricka|fa=Thomas Hultman|landning=3|fadatum=2004-05-01|sopad=Thomas Hultman|sittstart=ja|text=Går rakt upp i sprickan till vänster om "Stölden". Ligger på sidan ut mot kalhygget mellan "Taggtrådsväggen" och "Hårdareväggen"}}
+{{problem|nr=9|namn=Stölden|grad=5C|typ=Krimp,Reach|fa=Thomas Hultman|landning=3|betyg=1|fadatum=2004-05-01|sopad=Ronny Andersson & Thomas Hultman|sittstart=ja|uteslutningar=ja|text=Sprickan till vänster är inte med}}
+{{problem|nr=10|namn=Skarpingen|grad=5A|typ=Reach,Jug|fa=Stefan Hedin|landning=1|betyg=1|fadatum=2004-04-09|sopad=Stefan Hedin|sittstart=ja|text=Går till vänster om U.C.S på hårdare blocket ut mot kalhygget.}}
+{{problem|nr=11|namn=U.C.S|grad=6C|typ=Krimp,Mantling|fa=Stefan Hedin|landning=1|betyg=1|fadatum=2004-04-29|sopad=Stefan Hedin|startgrepp=ja|uteslutningar=ja|text=Ligger till vänster på "hårdareblocket" ut mot kalhygget. Startar etablerat på två undercling mitt på väggen. Stora stenen till vänster är inte med (den spruckna delen som lossnat). Gå rakt upp utan att använda högra "aréten".}}
+{{problem|nr=12|namn=Softisch|grad=-|typ=Spricka|fa=Stefan Hedin|landning=2|fadatum=2004-04-09|sopad=Stefan Hedin|sittstart=ja|text=Går i den tydliga sprickan på hårdareblocket. Sittstart följer sprickan rakt upp.}}
+{{problem|nr=13|namn=Halvhård|grad=6B|typ=Slopers,Mantling|fa=Stefan Hedin|landning=2|betyg=2|fadatum=2004-04-11|sopad=Stefan Hedin|sittstart=ja|uteslutningar=ja|text=Går lite till vänster om mitten på hårdare blocket. Sittstart på tvåfingers för höger och sprickan för vänster, gå upp och matcha i sprickan sedan rakt upp utan att gå mot aréten.}}
+| width="250px" |
+{{problem|nr=14|namn=Enklast|grad=7A|typ=Krimp,Mantling,Slab|fa=Stefan Hedin|landning=2|betyg=2|fadatum=2004-04-09|sopad=Stefan Hedin|sittstart=ja|text=Starta i samma spricka som halvhård på hårdareblocket gå upp åt höger via litet sidepull/pinch och sen upp över kanten.}}
+{{problem|nr=15|namn=Hårdare|grad=6B+|typ=Krimp,Slopers|fa=Stefan Hedin|landning=2|betyg=2|fadatum=2004-04-09|sopad=Ronny Andersson, Stefan hedin|sittstart=ja|text=Går till höger på hårdare blocket. Startar på två crimpar, vidare till undercling och upp över kanten.}}
+{{problem|nr=16|namn=Hårdast|grad=6B|typ=Krimp,Slab,Reach|fa=Stefan Hedin|landning=3|betyg=1|fadatum=2004-04-09|sopad=Stefan Hedin|sittstart=ja|text=Samma start som hårdare, går sedan ut till höger och upp längs aréten.}}
+{{problem|nr=17|namn=Everlong|grad=6A+|typ=Överhäng,Aréte|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2004-04-27|sopad=Daniel Hultgren|sittstart=ja|text=Ligger på "Foo Fighters blocket" 10 meter in i skogen från "Hårdare väggen". Går på den tydliga överhängande aréten.}}
+{{problem|nr=18|namn=Incubus|grad=6B|typ=Krimp|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2004-04-27|sopad=Daniel Hultgren och Alexander Stöpfgeshoff|sittstart=ja|text=Ligger på "Foo Fighters blocket", 10 meter in i skogen från "Hårdare väggen". Går precis till höger om "Everlong"}}
+{{problem|nr=19|namn=Hård|grad=6A|typ=Krimp,Slopers|fa=Ronny A|landning=3|betyg=1|fadatum=2008-02-16|sopad=Ronny A|text=Går mellan hårdare och hårdast på Hårdareblocket. Gå rakt upp mellan de två problem mot den stora hyllan uppe på "bullen".}}
+|}
+===B===
+[http://www.bouldersinc.se/Bilder/B.jpg]
+Sektor B är området runt skogsklippan och innefattar Påskväggen, Lösablocket samt några mindre block i anslutning till dessa.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Johans aréte|grad=4C|typ=Aréte|fa=Johan Andersson|landning=3|fadatum=2004-03-17|sopad=Johan Andersson & Ronny Andersson|sittstart=ja|text=När ni går förbi skogsklippan mot passa pungen och baksidan av skogsklippan går ni förbi de två små aréterna den första är Ronnys aréte den andra Johans aréte.}}
+{{problem|nr=2|namn=Ronnys aréte|grad=4C|typ=Aréte|fa=Ronny Andersson|landning=3|fadatum=2004-03-17|sopad=Ronny Andersson & Johan Andersson|sittstart=ja|text=När ni går förbi skogsklippan mot passa pungen och baksidan av skogsklippan går ni förbi de två små aréterna den första är Ronnys aréte den andra Johans aréte.}}
+{{problem|nr=3|namn=Oförsäkrad|grad=4C|typ=Aréte|fa=Stefan Hedin|landning=3|fadatum=2004-04-09|sopad=Stefan Hedin|text=Följer aréten på fina grepp till toppen. Går längst till vänster på lösablocket.}}
+{{problem|nr=4|namn=Egenförsäkrad|grad=5A|typ=Överhäng|fa=Stefan Hedin|landning=3|fadatum=2004-04-09|sopad=Stefan Hedin|text=Går till vänster på lösa blocket, precis till höger om Oförsäkrad. Svagt överhängande på stora grepp.}}
+{{problem|nr=5|namn=Junior och de gamla grenarna|grad=5C|typ=Mantling|fa=Johan Andersson|landning=3|fadatum=2004-03-19|sopad=Johan Andersson & Ronny Andersson|text=Lite lös i klippan, sätt inte höger fot för långt ut vid utsteget. Kan vara löst där.}}
+{{problem|nr=6|namn=Vårkänsla|grad=4C|typ=Aréte|fa=Anita Magnusson|landning=3|fadatum=2004-04-09|sopad=Anita Magnusson|text=Går på högra aréten på Lösablocket.}}
+{{problem|nr=7|namn=Nicko var är strumpan|grad=5B|typ=Krimp,Mantling|fa=Ronny Andersson|landning=3|fadatum=2004-03-10|sopad=Ronny Andersson & Johan Andersson|uteslutningar=ja|text=Väggen ligger runt hörnet där Höjdskräck går på påskväggen.Klippdelen till höger om sprickan är inte med}}
+| width="250px" |
+{{problem|nr=8|namn=Den vilda jakten på Juniors strumpa|grad=5C|typ=Krimp,Mantling,Reach|fa=Johan Andersson|landning=3|betyg=1|fadatum=2004-03-10|sopad=Johan Andersson och Ronny Andersson|sittstart=ja|text=Går till vänster om Nicko var är strumpan. Väggen ligger runt hörnet där Höjdskräck går på påskväggen.}}
+{{problem|nr=9|namn=Höjdskräck|grad=5B|typ=Aréte|fa=Anita Magnusson|landning=2|fadatum=2004-04-09|sopad=Ronny Andersson, Stefan Hedin|text=Går på aréten längst till vänster på Påskväggen. Följer aréten upp.}}
+{{problem|nr=10|namn=Ronnys travers|grad=5C|typ=Travers V->H,Spricka|fa=Ronny Andersson|landning=2|fadatum=2004-04-09|sopad=Ronny Andersson|text=Startar i sprickan längst till vänster vid aréten på påskväggen. Följer sedan sprickan till höger och upp.}}
+{{problem|nr=11|namn=Not so easy|grad=6A|typ=Slab,Highball|fa=Stefan Hedin|landning=2|fadatum=2004-04-09|sopad=Stefan Hedin|text=Går till vänster om den stora vertikala sprickan på påskväggen (sprickan Ronnys travers går upp i). Kruxet är på slutet}}
+{{problem|nr=12|namn=2 f***ing easy|grad=5B|typ=Dyno,Highball|fa=Ronny Andersson|landning=2|fadatum=2004-04-09|sopad=Ronny Andersson, Stefan Hedin|text=Går längst till höger på den höga delen av Påskväggen. Dyno från de stora listerna till listen 1 dm under toppen eller gå via side pull till höger till samma list.}}
+{{problem|nr=13|namn=Påskafton|grad=5A|typ=Slab|fa=Anita Magnusson|landning=3|fadatum=2004-04-09|sopad=Anita Magnusson|text=Går till vänster om Långfredag på påskväggen.}}
+{{problem|nr=14|namn=Långfredag|grad=5A|typ=Slab|fa=Anita Magnusson|landning=3|fadatum=2004-04-09|sopad=Anita Magnusson|text=Går till vänster om Skärtorsdag på Påskväggen.}}
+| width="250px" |
+{{problem|nr=15|namn=Skärtorsdag|grad=5A|typ=Slab|fa=Anita Magnusson|landning=3|fadatum=2004-04-09|sopad=Anita Magnusson|text=Går längst till höger på Påskväggen}}
+{{problem|nr=16|namn=Carolas Travers|grad=5B|typ=Krimp,Travers V->H|fa=Carola Bergström|landning=1|betyg=1|fadatum=2005-04-25|sopad=Carola Bergström, Ronny Andersson|uteslutningar=ja|text=Starta längst till vänster på Påskväggen, samma start som Ronnys travers, traversera hela väggen till höger och toppa ut så långt till höger det går utan att använda aréten.}}
+{{problem|nr=17|namn=Rakt upp|grad=5C|typ=Krimp|fa=Ronny Andersson|landning=2|betyg=1|fadatum=2005-04-25|sopad=Ronny Andersson|uteslutningar=ja|text=Går till höger om sprickan som avslutar Ronnys travers. Sprickan till vänster är utesluten.}}
+{{problem|nr=18|namn=Loose rock|grad=6B|typ=Krimp|fa=Dan V|landning=4|betyg=2|fadatum=2005-05-16|sopad=Dan V|variant=ja|startgrepp=ja|text=Variant på "Först fanns det grepp sen kom Dan".Går strax till höger om "Junior och de gamla grenarna" mitt på lösare blocket. Start med en undercling och crimp skicka till toppen.}}
+{{problem|nr=19|namn=Först fanns det grepp sen kom Dan|grad=6A|typ=Krimp|fa=Ronny Andersson, Dan V|landning=3|betyg=1|fadatum=2005-05-15|sopad=Ronny A, Dan V, Mattias L|startgrepp=ja|text=Går strax till höger om "Junior och de gamla grenarna" på lösare blocket.}}
+|}
+===C===
+[http://www.bouldersinc.se/Bilder/C.jpg]
+Sektor C ligger upp till höger sett från parkeringen. Gå mot "ängen" följ kraftledningen åt höger så kommer ni till blocken. Sektorn innefattar kraftledningsblocken, speleologiblocket samt snusblocken
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Svanka|grad=6B|typ=Slopers,Travers H->V,Heel hook|fa=Stefan Hedin|landning=3|betyg=1|fadatum=2004-04-08|sopad=Stefan Hedin, Anita Magnusson|sittstart=ja|text=Samma start som vattenskräck men går längs stenen åt vänster förbi aréten och upp efter denna.}}
+{{problem|nr=2|namn=Vattenskräck|grad=-|typ=Slopers,Mantling|fa=Stefan Hedin|landning=3|fadatum=2004-04-08|sopad=Stefan Hedin, Anita Magnusson|sittstart=ja|text=Går på det första stora blocket i samlingen av kraftledningsblocken. Samma start som Svanka men mantla sedan rakt upp via bollen.}}
+{{problem|nr=3|namn=Ronnys kana|grad=5C|typ=Slopers,Mantling,Heel hook|fa=Ronny Andersson|landning=4|fadatum=2004-04-09|sopad=Ronny Andersson & Stefan Hedin|sittstart=ja|text=Går på baksidan av stenen där svankit går}}
+{{problem|nr=4|namn=Tjocksälen|grad=6A|typ=Mantling|fa=Stefan Hedin & Ronny Andersson|landning=1|fadatum=2004-04-28|sopad=Stefan Hedin & Ronny Andersson|sittstart=ja|text=Går vid kraftledningsblocken. Om du står framför Ronnys kana så går problemet på aréten på stenen till vänster. Lågt problem som startar sittande.}}
+{{problem|nr=5|namn=Klackarna i taket|grad=6A+|typ=Mantling,Slab,Travers V->H|fa=Ronny Andersson & Stefan Hedin|landning=1|fadatum=2004-04-28|sopad=Ronny Andersson & Stefan Hedin|sittstart=ja|text=Går på samma block som Tjocksälen. Starta på baksidan sett från Tjocksälen. Foten på den stora utbuktningen, traversera sedan åt höger runt blocket och avsluta med att göra Tjocksälen.}}
+{{problem|nr=6|namn=Våga vägra sittstart|grad=6A|typ=Krimp,Slopers,Överhäng|fa=Ronny Andersson|landning=3|betyg=1|fadatum=2004-04-08|sopad=Ronny Andersson|text=Går på samma sida som Lägre än låg vid kraftledningsblocken på blocket längst till vänster. Höger hand på slope/sidepull och vänster på Underkling/sidepull (låg). Vänstra stenen ej med.}}
+{{problem|nr=7|namn=Borde ha sittstart|grad=6C|typ=Krimp,Mantling|fa=Stefan Hedin|landning=3|fadatum=2004-04-09|sopad=Stefan Hedin|uteslutningar=ja|text=Går på samma sida som Lägre än låg vid kraftledningsblocken på blocket längst till vänster. Som Våga vägra sittstart men utan aréten. Etablera starten på crimp/sidepull under överhänget.}}
+{{problem|nr=8|namn=Lägre än låg|grad=5B|typ=Slopers,Mantling,Jug|fa=Stefan Hedin|landning=2|fadatum=2004-04-08|sopad=Anita Magnusson|sittstart=ja|text=Går vid kraftledningsblocken på andra sidan kraftledningen sett från Slippery when wet, till höger om "sittstarts" problemen. Starta lågt på juggen. Följ sprickan upp över kanten. Mantlingskrux.}}
+{{problem|nr=9|namn=Knubbsälen|grad=6A+|typ=Mantling,Jug|fa=Stefan Hedin|landning=4|fadatum=2004-04-08|sopad=Ronny Andersson|sittstart=ja|uteslutningar=ja|text=Ligger vid Kraftledningsblocken. Gå förbi Våga vägra sittstart mot Speleologiblocken så är den precis innan blocket tar slut. Starta på jugen, mantla sedan över kanten. Stora klippdelen till höger är ej med för foten.}}
+| width="250px" |
+{{problem|nr=10|namn=Järnkorset|grad=6B+|typ=Slab,Travers V->H,Jug|fa=Stefan Hedin & Ronny Andersson|landning=3|betyg=2|fadatum=2004-05-31|sopad=Stefan Hedin & Ronny Andersson|sittstart=ja|startgrepp=ja|text=Går till vänster om knubbsälen vid kraftledningsblocken. Starta ute till vänster på juggarna, traversera längs taket ut till knubbsälen och avsluta genom att göra knubbsälen.}}
+{{problem|nr=11|namn=Trust your feet|grad=5C|typ=Krimp,Slopers|fa=Stefan Hedin|landning=2|fadatum=2004-04-08|sopad=Stefan Hedin & Ronny Andersson|text=Går på det största av kraftledningsblocken, på sidan ut mot kraftledningen. Start på två crimpers och stora steget. Går sedan aningen åt höger över kanten.}}
+{{problem|nr=12|namn=Slippery when wet|grad=5C|typ=Krimp,Slopers,Jug|fa=Stefan Hedin|landning=3|fadatum=2004-04-08|sopad=Stefan Hedin|sittstart=ja|text=Går på det störstablocket av kraftledningsblocken på aréten ut mot kraftledningen. Sittstart på stora jugen.}}
+{{problem|nr=13|namn=Left hand crimp|grad=6C+|typ=Krimp,Reach|fa=Stefan Hedin|landning=3|fadatum=2004-04-08|sopad=Ronny Andersson & Stefan Hedin|uteslutningar=ja|text=Går på det största blocket av kraftledningsblocken till höger om Slippery when wet. Start på vassa crimpen sedan rakt upp till vänster. Gå ej höger över mossan in på Nybörjaren.}}
+{{problem|nr=14|namn=Nybörjaren|grad=5A|typ=Krimp,Slopers|fa=Stefan Hedin|landning=3|fadatum=2004-04-08|sopad=Stefan Hedin|text=Går på det största blocket av kraftledningsblocken till höger om Left hand crimp. Går rakt upp till höger om mossan.}}
+{{problem|nr=15|namn=Tjej pisk (Pilla mig på pungen)|grad=6A+|typ=Krimp,Jug|fa=Ronny Andersson|landning=5|betyg=2|fadatum=2004-05-31|sopad=Ronny Andersson|sittstart=ja|startgrepp=ja|text=Gå förbi kraftledningsblocken ned mot vägen, ligger till vänster innan vägen. Startar nere i grottan med händerna på den tydliga listen. Det framborstade fotsteget på stenen till vänster är med vid starten.}}
+{{problem|nr=16|namn=Hårdrock|grad=6B+|typ=Slopers,Överhäng,Slab|fa=Stefan Hedin|landning=2|betyg=2|fadatum=2004-04-08|sopad=Ronny Andersson|sittstart=ja|uteslutningar=ja|text=Startar på stora sidepullet under stenen. Går sedan ut på list och aréte och rakt upp. Endast undersidan av högra stenen är med.Ligger längst till höger på speleologiblocket}}
+{{problem|nr=17|namn=Speleologi for beginners|grad=6B+|typ=Krimp,Överhäng,Slab|fa=Stefan Hedin|landning=2|fadatum=2004-04-08|sopad=Ronny Andersson, Stefan Hedin|sittstart=ja|text=Startar liggande in under klippan med händerna i de tydliga hålen i sprickan. Kruxet är att ta sig ut och upp utan att ta i backen. Går till vänster om Hårdrock på speleologiblocket.}}
+| width="250px" |
+{{problem|nr=18|namn=Highball for beginners|grad=6A|typ=Krimp,Slab|fa=Ronny Andersson & Stefan Hedin|landning=3|betyg=1|fadatum=2004-05-29|sopad=Ronny Andersson & Stefan Hedin|text=Går till vänster om speleologi for beginners på speleologiblocket.}}
+{{problem|nr=19|namn=Fin skit|grad=5B|typ=Jug|fa=Ronny Andersson|landning=4|fadatum=2004-05-29|sopad=Ronny Andersson|sittstart=ja|uteslutningar=ja|text=Går runt speleologiblocket till vänster, startar på den tydliga listen. Vänstra blocket är ej med för fötterna.}}
+{{problem|nr=20|namn=En dosa snus|grad=6B|typ=Krimp,Reach|fa=David Hallman|landning=2|betyg=1|fadatum=2004-04-13|sopad=Daniel Hultgren & David Hallman|sittstart=ja|text=}}
+{{problem|nr=21|namn=Ragnar|grad=6A+|typ=Krimp,Slopers|fa=David Hallman|landning=4|betyg=3|fadatum=2004-04-13|sopad=Daniel Hultgren & David Hallman|text=Grym linje, lättare än den ser ut...}}
+{{problem|nr=22|namn=Tre Ankare|grad=6A+|typ=Krimp,Överhäng|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2004-04-24|sopad=Daniel Hultgren|sittstart=ja|text=Det borstade fotsteget på stenen till vänster ingår.}}
+{{problem|nr=23|namn=Vargtass|grad=6B+|typ=Mantling|fa=David Hallman|landning=1|betyg=1|fadatum=2004-05-27|sopad=David Hallman|sittstart=ja|text=Samma sten som ragnar. starta under taket.}}
+{{problem|nr=24|namn=Den är inte lång men sned!|grad=5C|typ=Krimp,Jug|fa=Daniel Hultgren|landning=3|fadatum=2004-04-24|sopad=Ronny Andersson & Daniel Hultgren|sittstart=ja|text=Går på baksidan av det stora blocket innan centralklippan på en liten aréte}}
+{{problem|nr=25|namn=Katla|grad=7C|typ=Överhäng|fa=David Hallman|landning=3|fadatum=2006-08-04|sopad=David Hallman|sittstart=ja|variant=ja|text=Förlängning på syster dyster (syster dyster är samma problem som "Tjejpisk" fast utan fot på stenen bredvid). Ligger vid kraftledningsblocken. starta i grottan på listerna tillhöger. akta stenen.}}
+{{problem|nr=26|namn=Puttes travers|grad=7A|typ=Mantling,Travers H->V|fa=Patrick Olander|landning=3|betyg=2|fadatum=2006-08-04|sopad=Patrick Olander|sittstart=ja|text=Går till höger om Katla på läppen, starta till höger på den låga kanten på överhänget. Traversera längs kanten och mantla upp.}}
+|}
+===D===
+[http://www.bouldersinc.se/Bilder/D.jpg]
+Sektor D är området bakom skogsklippan, innefattar även vattenblocken.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=D.U.C.K.H.A|grad=4C|typ=Slab|fa=Måns Lööf|landning=5|fadatum=2004-04-27|sopad=Måns Lööf|text=Ligger vid skogsklippan.}}
+{{problem|nr=2|namn=Gävle grodan|grad=5B|typ=Aréte,Jug|fa=Stefan Hedin|landning=2|fadatum=2004-04-01|sopad=Ronny Andersson & Stefan Hedin|text=Ligger vid skogsklippan}}
+{{problem|nr=3|namn=Dubbeldyno^2|grad=4C|typ=Dyno,Jug|fa=Ronny Andersson|landning=2|betyg=1|fadatum=2004-04-25|sopad=Ronny Andersson|text=Ligger vid skogsklippan, dubbeldyno mellan sprickorna och sen dubbeldyno till toppen.}}
+{{problem|nr=4|namn=Passa pungen|grad=5A|typ=Aréte|fa=Ronny Andersson|landning=3|fadatum=2004-04-25|sopad=Ronny Andersson|text=Ligger vid skogsklippan.}}
+{{problem|nr=5|namn=På tok för blöt|grad=5A|typ=Slab|fa=Ronny Andersson|landning=3|fadatum=2004-04-25|sopad=Ronny Andersson|text=Ligger vid skogsklippan.}}
+{{problem|nr=6|namn=Tokfin|grad=5C|typ=Krimp,Aréte,Jug|fa=Ronny Andersson|landning=3|betyg=3|fadatum=2004-04-25|sopad=Ronny Andersson|text=Ligger vid skogsklippan. Följer den högra aréten.}}
+{{problem|nr=7|namn=Vill du få pisk med björken?|grad=6B+|typ=Krimp,Highball,Aréte|fa=Daniel Hultgren|landning=2|betyg=3|fadatum=2004-04-27|sopad=Ronny Andersson & Daniel Hultgren|text=Ligger vid skogsklippan. Följer den vänstra aréten och toppar ut på samma ställe som "Tokfin"}}
+{{problem|nr=8|namn=Dinosaurie fot|grad=5C|typ=Dyno|fa=Ronny Andersson|landning=3|betyg=1|fadatum=2004-04-27|sopad=Ronny Andersson|startgrepp=ja|text=Ligger vid skogsklippan. Startar på två krimpar mitt på väggen.}}
+{{problem|nr=9|namn=Reinkarnation|grad=5A|typ=|fa=Måns Lööf|landning=3|betyg=1|fadatum=2004-04-27|sopad=Måns Lööf|text=Ligger vid skogsklippan. Börjar inne i en grotta. Du toppar ut genom ett hål!}}
+{{problem|nr=10|namn=?|grad=6A|typ=Överhäng|fa=Stefan Hedin|landning=3|betyg=1|fadatum=2004-04-01|sopad=Daniel Hultgren & Stefan Hedin|sittstart=ja|text=Ligger vid skogsklippan, startar under ett litet överhäng. I princip samma problem som dreamcatcher. Men det är valfria händer och fötter i starten.}}
+| width="250px" |
+{{problem|nr=11|namn=Spruta mig full|grad=7A|typ=|fa=Mattias Flodin|landning=2|betyg=1|fadatum=2004-07-18|sopad=Mattias Flodin|sittstart=ja|text=Samma sittstart som "Vill du bli piska med björken deluxe", traversera sedan åt höger och gör "tokfin" som avslutning.}}
+{{problem|nr=12|namn=Gammelgäddan|grad=5C|typ=Krimp,Slab,Jug|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2004-04-25|sopad=Daniel Hultgren|text=Ligger vid vattenstenarna.}}
+{{problem|nr=12|namn=Grävlings traversen|grad=7A|typ=Krimp,Mantling,Travers H->V|fa=Mattias Flodin|landning=2|fadatum=2004-07-18|sopad=Mattias Flodin|sittstart=ja|uteslutningar=ja|text=Starta längst in i grottan där reinkarnation går, traversera ut mot utgången och gör reinkarnation rakt upp, väggen bakom ryggen är inte med.}}
+{{problem|nr=13|namn=Krakow|grad=5C|typ=Slopers,Aréte,Jug|fa=Alexander Stöpfgeshoff|landning=3|betyg=2|fadatum=2004-04-25|sopad=Alexander Stöpfgeshoff|sittstart=ja|text=Ligger vid vattenstenarna som finns ca 50 meter nordväst om Centralklippan.}}
+{{problem|nr=14|namn=Grävlings jakt|grad=5C|typ=Slopers,Jug|fa=Ronny Andersson|landning=3|betyg=1|fadatum=2004-04-24|sopad=Ronny Andersson|sittstart=ja|text=Ligger vid skogsklippan, man får hoppa ner i ett hål för att komma till insteget.}}
+{{problem|nr=15|namn=Min högra häl|grad=6B+|typ=Krimp|fa=David hallman|landning=1|betyg=1|fadatum=2004-05-13|sopad=Ronny Andersson & David Hallman|sittstart=ja|startgrepp=ja|text=Starta med vänster hand på en bra crimp ovanför kant}}
+{{problem|nr=16|namn=Dream Catcher|grad=7B|typ=Krimp,Dyno|fa=Mattias Flodin|landning=2|betyg=1|fadatum=2004-07-18|sopad=Mattias Flodin|sittstart=ja|text=Går baksida skogsklippan}}
+| width="250px" |
+{{problem|nr=17|namn=Vill du få pisk med björken deluxe|grad=6C+|typ=Krimp,Mantling,Highball|fa=Mattias Flodin|landning=2|betyg=1|fadatum=2004-07-18|sopad=Mattias Flodin|sittstart=ja|text=Samma som Vill du få pisk med björken fast med sittstart.}}
+{{problem|nr=18|namn=mer sticky än fontan|grad=6C+|typ=Krimp,Highball,Reach|fa=patrick olander|landning=3|betyg=2|fadatum=2006-07-31|sopad=patrick olander|text=Går på vattenblocken. Start precis till vänster om den högra areten därefter snett uppåt till vänster och den juggiga rampen. området ligger uppe på kullen ovanför dreamcatcher, stå med ryggen mot dreamcatcher och går rakt upp.}}
+{{problem|nr=19|namn=spirited away|grad=7A+|typ=Krimp,Highball|fa=David Hallman|landning=2|betyg=3|fadatum=2006-08-19|sopad=David Hallman|startgrepp=ja|text=Ståstart, går på vertikala höga väggen vid vattenblocken, på vänstra sidan.osäkergrad den kan vara lättare}}
+{{problem|nr=20|namn=Drömfursten|grad=7C+|typ=Överhäng|fa=Mattias Flodin|landning=3|betyg=2|fadatum=2006-09-08|sopad=Mattias Flodin|sittstart=ja|text=Till höger om dreamcatcher, samma sten}}
+{{problem|nr=21|namn=Splash|grad=7B|typ=Överhäng|fa=David Hallman|landning=4|betyg=1|fadatum=2006-10-19|sopad=David Hallman|startgrepp=ja|text=Taket bredvid vattenblocket (spirited away). låg sittstart på stockarna i vattnet. starta med vänster hand  i sprickan längst ner.}}
+{{problem|nr=22|namn=Lill fot|grad=5A|typ=Krimp|fa=Martin Ahl|landning=3|fadatum=2008-06-06|sopad=Martin Ahl|text=Ståstart till vänster om Dinosaurie fot}}
+|}
+===E===
+Sektor E är Centralklippan och området runt den.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Stalingrad|grad=5C|typ=Krimp,Slopers|fa=Alexander Stöpfgeshoff|landning=3|betyg=1|fadatum=2004-05-16|sopad=Alexander Stöpfgeshoff|text=Ligger vid Centralklippan}}
+{{problem|nr=2|namn=Leningrad|grad=5B|typ=Slopers|fa=Alexander Stöpfgeshoff|landning=3|betyg=1|fadatum=2004-05-16|sopad=Alexander Stöpfgeshoff|text=Ligger vid Centralklippan}}
+{{problem|nr=3|namn=Trippin´|grad=4A|typ=|fa=Daniel Hultgren|landning=2|sopad=Daniel Hultgren|text=Går på en "pelare" till vänster om leden "Escape".}}
+{{problem|nr=4|namn=Godsmack|grad=6A|typ=Krimp,Layback|fa=Daniel Hultgren|landning=2|betyg=2|sopad=Daniel Hultgren|sittstart=ja|text=Går vid centralklippan.}}
+| width="250px" |
+{{problem|nr=5|namn=Greed|grad=6B|typ=Krimp,Aréte|fa=Daniel Hultgren|landning=3|betyg=2|sopad=Daniel Hultgren|text=Ligger vid Centralklippan}}
+{{problem|nr=6|namn=Bad Magick|grad=5C|typ=Highball|fa=Daniel Hultgren|landning=3|betyg=2|sopad=Daniel Hultgren|text=Ligger vid Centralklippan}}
+{{problem|nr=7|namn=Time Bomb|grad=4B|typ=Jug|fa=Daniel Hultgren|landning=2|betyg=1|sopad=Daniel Hultgren|text=Ligger vid Centralklippan}}
+{{problem|nr=8|namn=Keep Away|grad=6A|typ=Highball|fa=Daniel Hultgren|landning=3|betyg=2|sopad=Daniel Hultgren|text=Ligger vid Centralklippan}}
+| width="250px" |
+{{problem|nr=9|namn=Shyssta juggar!|grad=4B|typ=Jug,Spricka|fa=?|landning=2|betyg=2|sopad=Daniel Hultgren|text=Ligger vid Centralklippan}}
+{{problem|nr=10|namn=Serenity|grad=6C|typ=Slopers,Mantling,Reach|fa=Peter Carlsson|landning=2|betyg=2|sopad=Daniel Hultgren & Peter Carlsson|sittstart=ja|text=}}
+{{problem|nr=11|namn=la dolce vita|grad=6B+|typ=Slopers,Aréte|fa=david hallman|landning=3|betyg=2|fadatum=2004-07-24|sopad=david hallman|sittstart=ja|text=ligger runt hörnet efter 7up mm. starta på crimpar, sedan slopig aréte och mantling.}}
+|}
+===F===
+[http://www.bouldersinc.se/Bilder/Sektor%20F.jpg]
+Sektor F nås enklast om man kör vägen så långt det går och parkerar på vändplanen. Sektorn innefattar Stjärnväggen och Dynoväggen.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Cassiopeia|grad=6A+|typ=Slab|fa=Daniel Hultgren|landning=2|betyg=3|fadatum=2004-04-13|sopad=Daniel Hultgren|text=Ligger på Stjärnväggen som finns ca 150 meter snett uppåt höger från Centralklippan.}}
+{{problem|nr=2|namn=Aquila|grad=5C|typ=Slab,Spricka|fa=Daniel Hultgren|landning=4|fadatum=2004-04-16|sopad=Daniel Hultgren|text=Ligger på Stjärnväggen, stora sprickan till höger är ej med.}}
+{{problem|nr=3|namn=Andromeda|grad=7A|typ=Krimp,Slopers,Slab|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2004-04-24|sopad=Daniel Hultgren|text=Ligger på Stjärnväggen.}}
+| width="250px" |
+{{problem|nr=4|namn=Lyra|grad=5A|typ=Slopers|fa=Daniel Hultgren|landning=2|fadatum=2004-04-16|sopad=Daniel Hultgren|text=Ligger på Stjärnväggen.}}
+{{problem|nr=5|namn=Ursa Minor|grad=4A|typ=Slopers,Aréte|fa=Daniel Hultgren|landning=2|fadatum=2004-04-16|sopad=Daniel Hultgren|text=Ligger på Stjärnväggen.}}
+{{problem|nr=6|namn=Pegasus|grad=6A|typ=Slopers,Mantling,Reach|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2004-04-16|sopad=Daniel Hultgren|startgrepp=ja|text=Ligger på Stjärnväggen. Etablerad start med händerna i de bägge sprickorna, stora fotsteget nere till vänster är inte med.}}
+| width="250px" |
+{{problem|nr=7|namn=Plush|grad=6C|typ=Krimp,Slopers,Jug|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2004-05-18|sopad=Daniel Hultgren|sittstart=ja|text=Problemet går längst till vänster på "Dyno väggen".}}
+{{problem|nr=8|namn=Hämden|grad=5B|typ=Krimp,Mantling|fa=Ronny Andersson|landning=5|fadatum=2004-05-16|sopad=Daniel Hultgren & Ronny Andersson|uteslutningar=ja|text=Aréten till höger är inte med. Problemet går längst ut till höger på "Dynoväggen". Koordinaterna är inte för problemet utan för väggen.}}
+|}
+===G===
+Sektor G är hela området ner mot vattnet, innefattar Militärklippan, Båtblocket, Excersisblocket samt kanalblocket
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Tak så mycket|grad=6B+|typ=Krimp,Slopers,Överhäng|fa=Daniel Hultgren|landning=3|betyg=2|fadatum=2004-04-18|sopad=Ronny Andersson & Daniel Hultgren|sittstart=ja|startgrepp=ja|text=Ligger vid militärklippan, startar längst ner under överhänget med högerhand på undercling och vänsterhand på ett bra grepp i huvudhöjd.}}
+{{problem|nr=2|namn=Alcazar|grad=5C|typ=Slopers,Reach|fa=Alexander Stöpfgeshoff|landning=3|betyg=2|fadatum=2004-04-18|sopad=Alexander Stöpfgeshoff|startgrepp=ja|text=Ligger vid militärklippan, startar på två grepp mitt på väggen, lång sträckning till en slop.}}
+{{problem|nr=3|namn=Repmånad|grad=6A|typ=Krimp,Slopers|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2004-04-28|sopad=Daniel Hultgren|text=Ligger vid Militärklippan.}}
+{{problem|nr=4|namn=Oj vilken stor radar!|grad=5B|typ=Krimp,Reach,Jug|fa=Daniel Hultgren|landning=1|betyg=1|fadatum=2004-05-03|sopad=Daniel Hultgren|sittstart=ja|text=Ligger i en skreva på toppen av Militärklippan, startar precis till höger om en liten björk.}}
+{{problem|nr=5|namn=Corona Extra|grad=5C|typ=Highball,Aréte,Jug|fa=Daniel Hultgren|landning=4|betyg=1|fadatum=2004-05-16|sopad=Daniel Hultgren|text=Ligger vid Militärklippan på blocket till höger om leden "Shoop", går på vänstra aréten.}}
+{{problem|nr=6|namn=Jubileums leden|grad=6A+|typ=Krimp|fa=Daniel Hultgren|landning=3|betyg=2|fadatum=2004-05-16|sopad=Daniel Hultgren|text=Ligger vid Militärklippan, på ett block precis till höger om leden "Shoop",stående start i sprickan mella blocken.}}
+{{problem|nr=7|namn=Argsint|grad=6C+|typ=Krimp|fa=David Hallman|landning=2|betyg=1|fadatum=2004-05-20|sopad=David Hallman|text=Ligger vid Militärklippan, samma block som "Corona Extra" på motsatt sida. Startar på aréten avslutar uppåt höger.}}
+{{problem|nr=8|namn=Mr sharp|grad=6C|typ=Krimp|fa=David Hallman|landning=2|betyg=1|fadatum=2004-05-27|sopad=David Hallman|sittstart=ja|text=Ligger till vänster om Tak så mycket vid militärklippan}}
+{{problem|nr=9|namn=87:an|grad=5B|typ=Slopers,Jug|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2004-04-18|sopad=Daniel Hultgren och Alexander Stöpfgeshoff|startgrepp=ja|text=Ligger på "Båtblocket" vid militärklippan, startar på en stor sloper gå sedan rakt upp och mantla, gå inte ut åt vänster.}}
+| width="250px" |
+{{problem|nr=10|namn=91:an|grad=6A|typ=Jug|fa=Daniel Hultgren|landning=4|betyg=2|fadatum=2004-04-18|sopad=Daniel Hultgren|text=Ligger på "Båtblocket" vid militärklippan, startar stående vid fören på "båten", stå på marken dvs ej på stenen till vänster.}}
+{{problem|nr=11|namn=Furir Revär|grad=6A|typ=Slopers,Mantling|fa=Daniel Hultgren|landning=2|betyg=2|fadatum=2004-04-28|sopad=Daniel Hultgren|text=Ligger på "Båtblocket" vid militärklippan, till höger om 91:an. Startar längst till höger på den stora "bullen".}}
+{{problem|nr=12|namn=Junk food rules|grad=7A+|typ=Krimp|fa=Stefan Hedin|landning=4|fadatum=2004-04-17|sopad=Stefan Hedin|sittstart=ja|text=Går vid militärklippan på Båtblocket.}}
+{{problem|nr=13|namn=Ilsken|grad=7A|typ=Slopers,Mantling|fa=David Hallman|landning=1|betyg=2|fadatum=2004-05-20|sopad=David Hallman|sittstart=ja|text=Ligger på båtblocket.Starta med vänster hand på crimp,höger på slope. Traversera åt vänster, avsluta med ett mantlingsproblem.}}
+{{problem|nr=14|namn=Givakt!|grad=6B+|typ=Krimp,Överhäng|fa=Daniel Hultgren|landning=4|betyg=2|fadatum=2004-04-17|sopad=Daniel Hultgren|text=Går på Exercisblocket}}
+{{problem|nr=15|namn=Givakt! sittstart|grad=7A|typ=Krimp,Överhäng,Jug|fa=David Hallman|landning=3|betyg=2|fadatum=2004-05-05|sopad=Daniel Hultgren & David Hallman|sittstart=ja|variant=ja|text=Ligger vid Militärklippan, sittstart till Givakt!}}
+{{problem|nr=16|namn=Vänster om!|grad=6A|typ=Krimp,Jug|fa=Daniel Hultgren|landning=5|betyg=1|fadatum=2004-05-16|sopad=Daniel Hultgren|sittstart=ja|text=Går längst ut till vänster på Exercisblocket på sidan där Givakt går.}}
+{{problem|nr=17|namn=Höger om!|grad=6A+|typ=Krimp,Slopers|fa=Daniel Hultgren|landning=4|betyg=2|fadatum=2004-05-16|sopad=Daniel Hultgren|uteslutningar=ja|text=Går på baksidan av Exercisblocket. Stå på marken och inte på den stora stenen till höger i starten.}}
+{{problem|nr=18|namn=Ann Ahl(s) boulder|grad=6A|typ=Krimp,Mantling,Reach|fa=Ronny Andersson|landning=1|betyg=1|fadatum=2004-07-20|sopad=Ronny Andersson|sittstart=ja|text=Går på ett block precis vid "kanalen" mellan Eskön och klubben. Gå mot militärklippan längs vägen, när ni kommer till vattnet ta höger. Problemet är längst til vänster på sidan av blocket mot vägen. Starta vid pilen.}}
+| width="250px" |
+{{problem|nr=19|namn=I maskopi med en sursloper, Gävle edition.|grad=6B|typ=Slopers,Mantling,Reach|fa=Ronny Andersson|landning=3|betyg=2|fadatum=2004-07-20|sopad=Ronny Andersson|sittstart=ja|text=Går på ett block precis vid "kanalen" mellan Eskön och klubben. Går höger om Ann Ahls(s)...Starta vi pilen lite till höger om mitten på sidan mot vägen och gå rakt upp.}}
+{{problem|nr=20|namn=Layback & en häl|grad=6A|typ=Layback,Mantling,Heel hook|fa=Ronny Andersson|landning=3|betyg=2|fadatum=2004-07-20|sopad=Ronny Andersson|sittstart=ja|text=Går på samma block som "I maskopi med en sursloper..." Problemet är runt hörnet till höger sett från vägen. Starta sittande vid pilen gå upp längs aréten, in höger via den stora hyllan och rakt upp från den.}}
+{{problem|nr=21|namn=Animalistic|grad=7A|typ=Krimp|fa=Stefan Hedin|landning=3|betyg=2|fadatum=2005-06-20|sopad=Stefan Hedin|text=Går vid militärklippan. Starta på vertikalaväggen till vänster om Fullständigt obehaglig.}}
+{{problem|nr=22|namn=Fullständigt Obehaglig|grad=6B|typ=Aréte|fa=Stefan Hedin, Ronny Andersson|landning=3|betyg=2|fadatum=2005-06-20|sopad=Stefan Hedin|text=Går vid militärklippan,på högra aréten.}}
+{{problem|nr=23|namn=Supermeal|grad=7C+|typ=Krimp|fa=Mattias Flodin|landning=4|betyg=2|fadatum=2005-09-16|sopad=Mattias Flodin|sittstart=ja|text=Går på "Båtblocket", startar till höger om "Junk food rules" går rakt upp.}}
+{{problem|nr=24|namn=Funkfood|grad=7C|typ=Krimp|fa=Teemu Mietinen|landning=4|betyg=2|fadatum=2005-09-16|sopad=Teemu Mietinen|sittstart=ja|text=Går på "Båtblocket", startar som "Supermeal" gå sedan vänster in i "Junk food".}}
+{{problem|nr=25|namn=Kanal slabben|grad=5B|typ=Slab|fa=Ronny A|landning=3|fadatum=2007-08-24|sopad=Ronny A|text=Går på kanalblocket, startar på svaet höger om aréten där I maskopi med en sursloper... går, kliv upp på hyllan å gå sedan rakt upp. Undvik att gå uppåt höger på hyllan.}}
+{{problem|nr=26|namn=Classico|grad=7B|typ=Dyno|fa=David|landning=3|betyg=2|fadatum=2008-02-28|sopad=David|sittstart=ja|text=Problemet ligger på baksidan av stenen med Givakt på, gammalt projekt med dyno/skick krux.}}
+|}
+===H===
+Sektor H är än så länge bara mantlingsblocken, ligger längst ifrån Parkeringen bortanför militärklippan.
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Omantlad|grad=5B|typ=Slab,Jug|fa=Ronny Andersson|landning=1|fadatum=2004-05-16|sopad=Ronny Andersson|sittstart=ja|text=Ligger vid "Mantlings väggarna". Följ sprickan upp till vänster.}}
+{{problem|nr=2|namn=Junior mantling|grad=5B|typ=Mantling,Slab|fa=Ronny Andersson|landning=2|fadatum=2004-05-16|sopad=Ronny Andersson|text=Ligger vid "Mantlingsväggarna", koordinaterna är för väggen och inte för problemet enskilt.}}
+| width="250px" |
+{{problem|nr=3|namn=Señor Mantle|grad=6A|typ=Slopers,Mantling|fa=Daniel Hultgren|landning=2|betyg=1|fadatum=2004-05-16|sopad=Daniel Hultgren|text=Går på andra sidan väggen sett från junior mantling. Koord. för väggen.}}
+{{problem|nr=4|namn=Annorlunda|grad=4C|typ=Mantling|fa=Ronny Andersson|landning=1|betyg=3|fadatum=2004-05-16|sopad=Ronny Andersson|uteslutningar=ja|text=Starta liggande under blocket. Fötterna på undersidan och inte runt kanten. Mantla sen runt och upp. Kanske inte det hårdaste problemet, men bland de roligaste!!}}
+| width="250px" |
+|}
+===Drakberget===
+För att komma till Drakberget kör ni ut på Eskön. Istället för att svänga höger vid skylten "Här slutar allmän väg" så svänger ni vänster. Sväng höger efter "lanthandeln" och följ vägen ca 1km så kommer klippan på höger sida.
+{{problem|namn=Bad shape|grad=7B+|typ=Överhäng|fa=Mattias Flodin|landning=3|betyg=3|fadatum=2006-05-02|sopad=Mattias Flodin|sittstart=ja|text=Problemet ligger på nya stället mellan eskön och eskörönningen. innan blocken går en grusväg mot vattnet. Gå ned, sedan höger. En fin överhängsvägg efter ca 100m.}}
+===Klubben===
+
+{{problem|namn=svaha|grad=6A|typ=|fa=David Hallman|landning=2|betyg=1|fadatum=2004-08-01|sopad=David Hallman|sittstart=ja|text=Ligger ute på ön (klubben). Vada till andra sidan, gå rakt längs stranden 300m.}}
+{{problem|namn=Snön ligger vit|grad=6A|typ=Slopers|fa=Daniel Hultgren|landning=3|betyg=1|fadatum=2005-03-06|sopad=Daniel Hultgren|sittstart=ja|text=Ligger ute på klubben. Bör göras på våren när isen ligger annars blir landningen usel! :)}}
+
+===Svartmarsberget===
+
+{{problem|namn=Liniment|grad=5C|typ=Mantling|fa=David Hallman|landning=2|betyg=1|fadatum=2004-05-12|sopad=David hallman|startgrepp=ja|text=Etablerad start med högerhand på sidotaget.}}
+{{problem|nr=13|namn=Myyyysig|grad=6A|typ=|fa=Mårten Karlsson|landning=3|fadatum=2004-07-18|sopad=Mårten Karlsson & Ronny Andersson|text=Går in i klippan i området baksida skogsklippan, kaminklättring när den är som finast.}}
+{{problem|nr=15|namn=Hej Monika|grad=6C|typ=Krimp,Mantling,Slab|fa=Mattias Flodin|landning=3|fadatum=2004-07-18|sopad=Mattias Flodin & Alexander Stöpfgeshoff|sittstart=ja|uteslutningar=ja|text=Går i "grottan" lite nedanför ingånegn till Reinkarnation. Högra blocket är ej med.}}
+
+[[Kategori:Trad]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]
+
+[[Kategori:Hälsingland]]
+[[Kategori:Gästrikland]]
+[[Kategori:Gävle]]

@@ -1,0 +1,50 @@
+{{isutkast}}
+
+== '''Allmänt''' ==
+Två st. isfall som vätter mot sydväst. Marodören ligger mycket nära en villa. 
+
+
+== Leder ==
+{{led|nr=1|namn=Marodören|grad=WI4 - WI5 + M?|betyg=3|längd=30|fa=[[Stefan Weddmark 20110223]]|bultar=|typ=is|text=}}
+
+[[Bild:Marodören.JPG]]
+
+Övre delen av fallet syns inte på bilden är blandat klippa och is. Isfallet är cirka 12-15m brant is WI4-5 (riktigt fin) sedan följt av 12-15 m mix (inte lika fin). 
+
+60 metersrep räcker precis ner vid firning från en liten ek.
+
+
+{{led|nr=2|namn=Flanören|grad=WI5 - WI6 + M?|betyg=2|längd=15|fa=[[Stefan Weddmark 20110223]]|bultar=|typ=is|text=}}
+
+
+[[Bild:Flanören.JPG]]
+
+Fallet är cirka 15 meter (WI5 -WI6) och pelaren går att säkra bakom på klippan med friends eller kil. En rejäl enbuske finns att fira från på toppen. Rolig och varierad klätring.
+
+Det ser ut som att det kan finnas möjlighet att klättra upp till vänster om fallet för att sätta topprep.
+
+
+
+
+
+
+
+[[Kategori:Is]]
+
+==Vägbeskrivning==
+Ta E20 österut mot Lerum. Sväng av mot Jonsered och Kåhög och isen finns på berget ovanför Nedre Östangårdsvägen. (andra gatan till höger efter järnvägen)
+<googlemap version="0.9" lat="57.75010" lon="12.15640" zoom="16">57.75010, 12.15640, Marodören och Flanören</googlemap>
+
+
+[[Kategori:Trad]]
+
+==Access==
+Parkera med förstånd. Håll en låg profil då hus ligger mycket nära. Kommunicera med Walki-talki, telefon eller repkommando för att inte störa.
+
+[[Kategori:Is]]
+
+
+--[[Användare:Bultfeber|Bultfeber]] 25 februari 2011 kl. 08.34 (CET)
+
+[[Kategori:Västergötland]]
+[[Kategori:Göteborg]]

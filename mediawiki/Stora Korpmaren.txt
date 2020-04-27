@@ -1,0 +1,28 @@
+{{komplett}}
+{{info klippa|lat=59.220934|long=18.424158}}
+
+==Allmänt==
+En liten kuperad ö norr om Härsö. Innanför ett stort, spetsigt block som sticker upp ur vattnet på västra sidan finns en kort men fin dieder. På väggen th finns en häftig spricka. (Tips: Under blocket finns en grotta inredd med golv, bord och stolar.)
+
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap version="0.9" lat="59.227258" lon="18.374634" type="map" zoom="11" width="250" height="150">
+59.220934, 18.424158
+Stora Korpmaren
+</googlemap>
+</div>
+Egen båt.
+
+{{clear}}
+==Leder==
+{{led|nr=1|namn=Skörbjugg|grad=5+|längd=15}}
+{{led|nr=2|namn=Surfin’ safari|grad=7-|längd=15|fa=[[Gary]]& [[Thomas Hansson]] [[-86]]}}
+{{litentext|text=Dessa turer ligger på en liten vägg högst upp på ön.}}
+{{led|nr=3|namn=Bacon|grad=5|längd=8|fa=[[Gary]]& [[Thomas Hansson]] [[-86]]}}
+{{led|nr=4|namn=Ägg|grad=6-|längd=8|fa=[[Gary]]& [[Thomas Hansson]] [[-86]]}}
+{{led|nr=5|namn=Tex Mex|grad=6+|längd=8|fa=[[Gary]]& [[Thomas Hansson]] [[-86]]}}
+{{led|nr=6|namn=Cornflake|grad=6|längd=10|fa=[[Gary]]& [[Thomas Hansson]] [[-86]]}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Tyresö]]
+[[Kategori:Stockholms Skärgård]]

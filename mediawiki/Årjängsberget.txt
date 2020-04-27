@@ -1,0 +1,303 @@
+{{info klippa
+  |lat=59.350083336664305
+  |long=12.14813232421875
+}}
+
+{{komplett}}
+[[Bild:oversikt.gif]]
+[[Kategori:Mix]]
+[[Kategori:Trad]]
+[[Kategori:Sport]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]
+
+==Allmänt==
+Kanske Värmlands finaste klippa med utsökta spricklinjer, mixad väggklättring och lite sport.
+
+== Beskrivning ==
+
+Årjängsberget, även känt som Järnberget, ligger föga överraskande utanför Årjäng i Värmland. Lederna är mellan 15 till 25 meter långa och ligger i gradintervallen 3 till 9-/9. Klippan består av vattenslipad bohusgranit och bjuder på ihållande sprickor i de lägre graderna, väggklättring i mellanregistet och några hårda sportturer. Trots att klippan är förhållandevis liten (endast ett 40-tal leder) finns överraskande många leder av mycket hög kvalitet. Stockholmsklättrare på väg mot södra Norge passerar praktiskt taget klippan och ett stopp är definitivt att rekommendera.
+
+
+Utskriftsvänlig variant i A4: [[Media:arjangsforaren_A4_20060903.pdf]]
+
+Utskriftsvänlig och behändig variant i A5: [[Media:arjangsforaren_A5_20060903.pdf]] 
+
+(Skriv ut första två sidorna, vänd pappren och skriv ut resterande 2 på baksidorna)
+
+
+----------------------------------------
+
+'''OBSERVERA'''
+att de utskriftsvänliga pdf-filerna ovan '''INTE''' innehåller samtliga leder som finns nedtecknade längre ner på denna sida. De skiljer sig också i beskrivningar och övrig uppdaterad information. 
+
+När denna text tas bort är pdf-filerna ovan uppdaterade med samtliga leder.  
+----------------------------------------
+
+
+'''Pågående graddiskussion'''
+
+Flera leder har graderats upp och ner åtskilliga gånger sen de gjordes. Speciellt graderna för de hårdare ledera i föraren är baserade på ett fåtal klättrares uppfattning, varför all feedback är välkommen.
+
+
+{{ledlänk|namn=High wire}} anses av många hålla 7+/8-, itsället för 8- som angivet i föraren
+
+{{ledlänk|namn=Jam session}} anges ofta som 7 istället för 7+
+
+Flera av lederna i femmaregistret på Stora väggen kan vara föremål för uppgradering
+
+{{ledlänk|namn=Laybacksprickan}} var tidigare 6-, inte 6
+
+{{ledlänk|namn=Sensorn}} anges i flera förare som 7- vilket är väl barskt. 7 föreslås här.
+
+{{ledlänk|namn=Poppoppitopp}} kan göras på olika sätt, att traversera vänster påverkar graden åt det enklare hållet
+
+
+
+=== Vänsterpartiet ===
+
+Vattenslipat parti längst till vänster på klippan. Börjar i ett lite skuggigt skogsparti till vänster. Längre till höger mer exponerad klättring och mer och mer vattenslipad granit. Finare leder, men också högre svårighetsgrad. 
+
+Under uppstigningen till vänster skymtar en svaklippa med en framträdande spricka. Detta är en 4+ med namnet Lasses led (Trixig svaklättring med bra men ibland luriga säkringar). 
+
+Rekommenderade leder utläses från stjärnmarkeringarna. I tillägg brukar vänsterkantens {{ledlänk|namn=Pers drömmar}} och {{ledlänk|namn=lars visioner}} klättras tillräckligt regelbundet för att inte gro igen (trots sitt mörkare och skuggigare läge). 
+
+Vid avfirning över lederna 10-14, se upp för stenras då ni drar ner repet!
+
+[[Bild:vanster1_skiss.gif]]
+
+
+{{led|nr=1|namn=Lars visioner | grad=4+ | typ=trad|fa=Per Fernqvist -94(?)|text=Sprickan längst till vänster. Upp mot och förbi den lilla björken, som passeras på höger sida och vidare mot rönnen. Utsteg åt höger via hyllan med tallen eller via en svårare variant rakt upp i sprickan mot den lilla granen. Utstegsvarianten = 5+}} 
+
+{{led|nr=2|namn=Pers drömmar | grad=5- |typ=trad|fa=Lars Gerdeström -94(?)|text=Insteg i diedret tre meter till höger om lars visioner. Klättra rakt upp över bullen och sedan vidare mot tallen. Samma utsteg som Lars visioner}} 
+
+{{led|nr=3|namn=Bautasprickan | grad=4+ | typ=trad|fa=Henrik Hjert|text=Det tydliga diedret som går åt vänster. Skum stämklättring som är svårare än det ser ut (därav upp till grad 5 i andra förare). Stora säkringar.}} 
+
+{{led|nr=4|namn=Roadkill | grad=6- | fa=Mattias Hedberg -01 | typ=trad | text = Startar alldeles bredvid Bautasprickan och följer svat upp åt höger förbi takformationen upp på en hylla och vidare upp i ett skarpt dieder. Förläng säkringarna i slutet av svat. 5:a led med 6- krux}} 
+
+{{led|nr=5a|namn=Mysterious walk | grad=6 | fa=Anders Karlsson | typ=trad | text=Den tydliga och breda sprickan till höger om Bautasprickan. Mycket fin och varierad klättring som säkras med kilar och friends.}}
+
+{{led|nr=5b|namn=Instegsvariant till 5a | grad=6+ |typ=trad |text=Variantinsteg med mantling upp på den lilla hyllan en meter till höger om det vanliga insteget}}
+
+{{led|nr=6|namn=Highwire | grad=7+ | typ=trad | betyg=3 | fa=Fredrik Rundkvist -94|text=Tunn spricka säkrad med små vajerkilar. Känsligt insteg och ett mycket halt krux. Makalöst fin men polerad klättring.}} 
+
+{{led|nr=7|namn=Jamsession | grad=7 | typ=trad | betyg=2 | fa=Fredrik Rundkvist -94| text=Rundbullig spricka med boulderaktigt krux där leden viker till vänster. Utsteg i lutande sprickan på slutväggen. Kilar och friends}}
+
+{{led|nr=8|namn=Pipeline | grad=6 | typ=mix | betyg=2|fa=Fredrik Rundkvist -94|text=Börja i sprickan med björken och klättra upp till en kul, rund utstegskamin. Kilsäkrad, 1 pitong (fall inte i den i onödan) och den som står på den är feg!}} 
+
+{{led|nr=9|namn=Singoalla | grad=6 | typ=trad | betyg=2|fa=Lars Gedeström -94|text=Samma insteg som Pipeline. Klättra förbi björken, traversera 1 meter åt höger och klättra sedan upp i diedret. Följ sprickan till toppen}}
+
+{{led|nr=10|namn=Slacker | grad=7- (6+ för långa) | typ=trad | betyg=2 | fa=Fredrik Rundkvist -94 | text=Festligt osäkrat insteg i grooven på areten, sedan lättare och bättre säkringsmöjligheter. Samma utsteg som Singoalla.}} 
+
+{{led|nr=11|namn=Projekt | grad=~9 | typ=trad|text=Seriös. Följ den tunna sprickan till toppen.}} 
+
+{{led|nr=12|namn=Superfly | grad=8+ | typ=mix | betyg=3 | bultar=2 | fa=Fredrik Rundkvist -00 | text=Fingrig klättring via obefintliga grepp på den rundande aréten. Start som Slacker, sedan ut på aréten, upp till den fenomenala slutsprickan. Ihållande och fin. 1pitong, 2 bb, kilar i slutet.}} 
+
+{{led|nr=13|namn=Show me heaven | grad=9-/9 (8a+) | typ=sport | betyg=3|bultar=5|fa=Peter Erhard -07|text=5bb och ankare. Fingrig, dynamisk och tung.}} 
+
+{{led|nr=14|namn=Always on my mind | grad=8/8+ (7c) | typ=sport | betyg=3 | bultar=4 | fa=Peter Erhard & Tomas Johansson -08 | text=4bb och ankare. Hoppstart från stenen(Statisk beta funkar också men inte lika spexigt). Dynamisk, teknisk och crimpig. Gemensamt utsteg med {{ledlänk|namn=Show me heaven}}.}} 
+
+{{led|nr=15|namn=Okänd | grad=3+ | typ=trad | text=Lätt gammal led inne i diedret som skiljer vänsterpartiet från Stora väggen. Leden är inte välrensad men däremot brant, välsäkrad och ganska trevlig. Lite alpin skulle man kunna säga.}}
+
+=== Stora väggen ===
+
+Den stora och höga väggen mitt på klippan. Utmärkande är flera tydliga sprickor som löper längs med väggen och dessa utgör också de finaste lederna. Generellt välsäkrade, ihållande och därför tuffa för sin grad. {{ledlänk|namn=Vänstersprickan}}, {{ledlänk|namn=Högersprickan}}, {{ledlänk|namn=22an}} och {{ledlänk|namn=laybacken}} är alla tydliga sprickor som klättras regelbundet. På senare tid har olika mixade turer skapats mellan de tydliga sprickorna. Eliminationsvarning på tätheten, men ändock fina leder som rekommenderas. Exempel {{ledlänk|namn=tre trillande jäntor}}, {{ledlänk|namn=Ge f-an i höger- och vänstersprickan}}. Väggen är belyst från 12-13 tiden och har sol till sen kväll. Torkar därför relativt snabbt. Betygen är höftade långt bak ur minnet, alla som gjort lederna är välkomna att korrigera!
+
+[[Bild:stora1_skiss.gif]]
+
+{{led|nr=|namn=En lätt liten sak | grad=7-? (6b+/6c)?  | fa=Martin Jurander -10 | typ=sport | betyg= | bultar=3 | text=Areten till vänster om "en tung liten sak" , trevlig klättring . 3 bultar plus toppankare.}} 
+
+{{led|nr=14|namn=En tung liten sak | grad=7-/7 (6c/6c+) | fa=Urban Hörnström, Stefan Appel -94 | typ=sport | betyg=2 | bultar=2 | text=Leden går på den branta lilla sidoväggen nedanför stora väggen, nedanför rampen. Delikat men kraftfullt. Leden är som det låter en tung liten sak och två borrbultar tar dig till utesteget där kruxet tidigare var att mantla sig upp till en tall och dess intilliggande myrstack. Tallen har vält och myrorna flyttat. Numera ankare under kanten.}} 
+
+{{led|namn=T-röd|grad=7+ | typ=mix | betyg=1 | bultar=4 | fa=Martin Norlander, Markus Wennerstrand -08 | text=Leta dig upp på hyllan till vänster om Årjängsmaffians led. Leden går på övre facet. Egna säkringar i början, 4bb och ankare i toppen. Fin och balanslurig. En ny klassiker!}}
+
+{{led|namn=Årjängsmaffians Led | grad=6/6+ | typ=trad |betyg=2| text=Börjar från hyllan på rampen till vänster om gräsiga sprickan. Följ det branta diedret. Bra säkrad med små friends , kalasfin tur , rekomenderas.}}
+
+{{led|nr=15|namn=Gräsiga sprickan | grad=5 | typ=trad | betyg=2 | fa=Jörgen Johansson | text=Den första markanta sprickan på stora väggen som börjar en bit upp på rampen någon meter till höger om diedret. Fin när den är rensad, men tyvärr växer den igen ganska fort. Behöver en omgång för att nå forna storhetsdagar (uppgifter från 2009)}}
+
+{{led|nr=16|namn=Vänstersprickan | grad=5 | typ=trad| betyg=2|fa=Henrik Hjert|text=Den andra markanta sprickan från vänster på stora väggen. Trevlig, välsäkrad klättring och för graden ihållande. En av stora väggens mest populära leder.}}
+
+{{led|nr=--|namn=Ge f-n i höger- och vänstersprickan | grad=7- | typ=trad | betyg=1 | fa=Martin Norlander -08 | text=Följ sprickan som går diagonalt mellan höger- och vänstersprickan. Lämna sprickan och dra dig snett upp till vänster mot tvärsprickan via ett väggkrux som sätter ledens grad; annars klättring i sexaregistret. Efter att ha säkrat i tvärsprickan får du en fin avslutning. Bra säkrad men lite runoutig ! Som namnet antyder måste du vara disciplinerad för att inte ta i sprickorna. }}
+ 
+{{led|nr=17a|namn=Högersprickan | grad=5+ | typ=trad| betyg=1 | fa=Morgan Grandlund | text=Tung start, sedan lättare. Börjar 3 meter till höger om lika tydliga vänstersprickan}}
+
+{{led|nr=17b|namn=Wandering spirit | grad=5  | typ=trad| betyg=1}}
+
+{{led|nr=-- | namn=Cramo Go | grad=7-  | typ=mix | bultar=6 | fa=Martin Norlander -07 | text= Följer Spolakrökens början tills spickan viker av till höger. (ev En friend i ledens början och en i slutet i karaktäristisk årjängsspricka;) däremellan borrbult med krimp.Går fint att leda bara på bultarna. Fin.}}
+
+{{led|nr=18|namn=Spola kröken | grad=6- | typ=trad | betyg=1 | fa=Henrik Hjert | text=Ledan börjar just där rampen startar. Trevlig, men kanske något skitig i början. Traversen kan göras både högt och lågt}}
+
+{{led|nr=19|namn=Kroken | grad=5- | typ=trad | betyg=2 | fa=Henrik Hjert | text=Startar där rampen börjar och följer den bågformade sprickan. Samma utsteg som Spola kröken, välsäkrad och bitvis ihållande.}}
+
+{{led|nr=20a | namn=22an | grad=5+ | typ=mix | betyg=3 | bultar=4 | text=Tydlig spricka rätt upp på stora väggen som slutar vid stora tallen. De 4 bultarna ditsatta av annan än förstabestigaren. Status på dessa okända. Ytrost finnes (2009). Glöm därför inte egna säkringar. | fa=Anders Nilsson}} 
+
+{{led|nr=20b | namn=Urbans led | grad=6 | typ=trad | text=Tidigare topprepsled som därefter klättrats i god stil - inklämd mellan sprickorna. Väggvariant till höger av 22:an | fa=Martin Norlander -04}}
+
+{{led|nr=20c | namn=Takvarianten | grad=6- | typ=trad | text=Tredje varianten på 22:an. Upp till taket, kilar och friends | fa=Fredrik Rundkvist, John Robertson -93}}
+
+{{led|nr=-- | namn=Arvikasyndikatet | grad=6+ | typ=trad | betyg=1 | text=En naturlig och seriös direttissima som börjar i självständig spricka till höger om 22:an. När sprickan drar åt höger  fortsätt rakt upp mot lilla diedret genom lilla taket förbi lilla tallen.  Spikrak linje. Ok säkrad | fa=Martin Norlander - 04}} 
+
+{{led|nr=21 | namn=Moment 22 | grad=5 | typ=trad | text=kruxbetonad spricka som är lite lös i slutet|fa=Fredrik Johansson}}
+
+{{led|nr=-- | namn=Tre trillande jäntor | grad=7- | betyg= | typ=mix | bultar=3 | text= Mixad tur inklämd mellan Moment 22 och Piss off. Fotbetonat krux efter tredje bulten. Leden går ihop med Piss off mot slutet. | fa= Marcus Wennerstrand / Martin Norlander / Filip Arvidsson - 08}}
+
+{{led|nr=22 | namn=Piss Off | grad=6+/7- | typ=trad | bultar= | text=Nu är bultarna choppade och leden har gått från mixled till en tradionellt säkrad och testpiece för den aspirerande 7- klättraren. Ta med små friends och kilar. Ledens avslutning leder rakt upp genom taket. Ledens namn inser du först efter ha klättrat den.| fa= Martin Norlander / Joakim Johansson -98, Naturligt -12 M.Norlander}}
+
+{{led|nr=23 | namn=Laybacken | grad=6-/6 | typ=trad | betyg=3 | text=Välsäkrad och markant spricka till höger på stora väggen som är ganska tung och ihållande. En utmaning för den aspirerande sexaklättraren. En verklig klassiker och en av bergets finaste leder. | fa=Henrik Hjert}}
+
+{{led|nr=24 | namn=General brutal | grad=6+ | text=Tunn spricka 2m till höger om laybacken, bakom en liten björk. Ganska tuff, säkras med kilar och friends, bra med mikrokilar för att säkra cruxet.Fin. }}
+
+{{led|nr=24b | namn=Äldre och visare| grad=5+ | text=Spricka 4m till höger om laybacken. Klurigt säkrad i början sedan bättre placeringar. Gå ut vänster och avsluta i diedret efter sprickan.}}
+
+=== Centerpartiet ===
+
+Trevlig vägg med flera leder i det lättare registret. Många brukar börja säsongen på lätta, välsäkrade och för sin grad fina {{ledlänk|namn=Trocadero}}. Även {{ledlänk|namn=Highway to heaven}} får många bestigningar. Väggen ligger dessvärre precis intill vägen. Visa största hänsyn till trafikanterna. Ha inga saker på vägen, säkra inte från vägen och håll dig med god marginal undan när trafikanter försöker komma förbi.  
+
+[[Bild:center_skiss.gif]]
+
+{{led|namn=Första gången | grad=4 | typ=trad | text=led som börjar någon meter till vänster om E.P. Följ sprickan upp till stora hyllan och fortsätt sedan upp i sprickan som börjar något till vänster och slutar med ett stort träd}}
+
+{{led|nr=25|namn=E.P | grad=3+ | typ=trad | fa=Anders Karlsson| text=Följ diedret till trädet och fortsätt rakt upp till tallen. 1bb på utsteget som borde knackas bort.}}
+
+{{led|nr=26|namn=Gubbleden | grad=3+ |typ=trad|text=Samma insteg som E.P. Sedan den högra sprickan efter trädet|fa=Anders Karlsson}}
+
+{{led|nr=27a|namn=Frågetecknet | grad=5- |typ=trad | fa=Anders Karlsson| betyg=1|text=Lätt och trevlig klättring. Kan vara svårt att få till bra säkringar. Gå snett upp höger till jordiga hyllan sedan rakt upp mot utstegsbulten som kanske borde knackas bort.}}
+
+{{led|nr=27b|namn=Variantinsteg | grad=5+ |typ=trad | betyg=1|text=Trevlig väggklättringsinsteg till Frågetecknet. Samma väg från hyllan. Det finns tillfredställande säkringar, men de kan vara luriga att få till|fa=Anders Karlsson}}
+
+{{led|nr=28|namn=Champagnebrus | grad=5- |typ=trad | text=Led till vänster om Trocadero och gemensamt utsteg med denna.}}
+
+{{led|nr=29|namn=Trocadero  | grad=4 |typ=trad | betyg=2|text=Den tydligt framrensade sprickan till höger om Frågetecknet. Trevlig och mycket välsäkrad klättring på bra grepp och steg. En superb led för den aspirerande kilentusiasten. Överraskande fin för sin grad.|fa=Mattias Hedberg -98}} 
+
+{{led|nr=30|namn=Hells' ditch | grad=4 |typ=trad | text=Drag lärdom av namnet.|fa=Fredrik Johansson}}
+
+{{led|nr=31|namn=Highway to heaven | grad=5- | typ=trad | betyg=2 | text=Trevlig sak till vänster om taket. Leden är inte klockrent säkrad i början, så missa in de tillfällen till säkring som ges. Ledan startar precis vid vägen alldeles till vänster om det markanta diedret. Finare än den ser ut men se upp för lösa stenar.|fa=Fredrik Johansson}}
+
+=== Högerpartiet ===
+Sektionen börjar med en vinkel och dieder följt av flera vertikala väggar av toppkvalité. Diedret klättras oftast med variantutsteg a och b som bjuder på likvärdigt motstånd och estetik. När du värmt upp i diedret kan du ge dig i kast med engagerande och trixiga {{ledlänk|namn=Sensor}} och sedan se hur högt du kommer på {{ledlänk|namn=Way of Mr Grace}}
+
+[[Bild:hoger1_skiss.gif]]
+
+{{led|nr=32a|namn=Taket | grad=5+ |typ=trad|text=Följ diederformationen upp mot taket och leta dig ut på väggen till vänster för variant1}}
+
+{{led|nr=32b|namn=Blodiga utsteget | grad=5+ |typ=trad | betyg=1|text=variant2. Gå högersprickan (växer lite grönt i den?) upp över/genom taket|fa=Jörgen Johansson}}
+
+{{led|nr=32c|namn=Johanssons utsteg | grad=6- |typ=trad| text=variant3. Följ taket runt på höger sida|fa=Jörgen Johansson}}
+
+{{led|nr=33|namn=Sensor | grad=7 |typ=mix| betyg=2|bultar=3|text=Ihållande sprick och väggklättring till höger om taket. Bultarna ditsatta av andra än förstabestigaren. Engagerande och teknisk. Leden sträcker sig rakt upp över/efter stora tvärsprickan till ett tunt parti som tillika är ledens krux. |fa=Anders Borg/Tväråna -93}}
+
+{{led|nr=34|namn=Smörebrö | grad=7-/7 |typ=trad | betyg=2|bultar=3|text=Mix, 3bb (eller var det 2?) Bultraden till höger om Sensor. Det lär vara aktuellt att ta med sig någon friend. Fin men något skitigt utsteg i sprickan till höger om Sensor.|fa=Anders Borg/Tväråna -99}}
+
+{{led|nr=35|namn=Namnlös | grad=5/5+ |typ=mix | betyg=1|text=Följ den breda sprickan snett åt höger. Välsäkrad och fin upp till utstegskaminen som drar ned helhetsintrycket. Ringbulten har hållit för fall, men vem vet. Backa upp!}}
+
+{{led|nr=|namn=Hellre naiv än ett svin | grad=6+ |typ=trad | bultar=| betyg=|text=Sprick och väggklättring till vänster om the way of mr grace, (kanske ledd förut? Nu rensad igen i så fall), lite lös ganska fin .| fa= Jurander/Jansson -11.}}
+
+{{led|nr=36|namn=Way of Mr Grace | grad=8 |typ=mix | bultar=2| betyg=3|text=Mix, 2bb. Tunn sprick och väggklättring på den högra delen av högerpartiet. Krux vid andra borrbulten. Svår led som blir svårare ju högre man kommer|fa=Fredrik Rundkvist.}}
+
+{{led|nr=37|namn=Ändstation mandomsprovet | grad=6+ |typ=mix |bultar=2|text=Ihållande sprick- och väggklättring. Gemensamt insteg med Way of Mr Grace. Vissa skulle nog dela ut tre stjärnor.|fa=Morgan granlund}}
+
+=== Vinkeln===
+Börjar med en sällan klättrad plattvägg mot vägen, en arete tar dig in på själva "vinkeln" där {{ledlänk|namn=Vägga}} är mest klättrad. Diedret bjuder på fin hörn/stämklättring, men den efterföljande plattväggen är den stora behållningen. {{ledlänk|namn=Excalibur}} är en välklättrad klassiker och orkar/vågar du ge dig på {{ledlänk|namn=poppoppitopp}}? 
+
+[[Bild:vinkeln_skiss.gif]]
+
+{{led|nr=38a|namn=Variantutsteg till Årjängstrollet| grad=5?|typ=trad}}
+
+{{led|nr=38b|namn=Årjängstrollet | grad=6+ |typ=trad| text=Leden börjar i sprickan två meter till vänster om kanten på högerpartiet. krux efter sista tvärsprickan.}}
+
+{{led|nr=|namn=Arvika-leden (Snygglo direkt direkt) | grad=8- |typ=trad| text=Direktutsteget till Snygglo direkt. För att undvika markfall från sista movet rekomenderas starkt att lägga en sidosäkring i Årjängstrollet.|fa=M Jurander -13}}
+
+{{led|namn=Snygglo direkt | grad=6 |typ=trad|text=Går på facet mellan Årjängstrollet och profil. Viker in i profil efter andra tvärsprickan. Förstabestigningen gjordes med förhängda säkringar. |fa=Mikael Söderström, Björn Eriksen -04}}
+
+{{led|nr=39|namn=Profil | grad=5 |typ=trad|text=Före detta topprepsled som följer aréten. Numera friklättrad. Ganska seriös med potential för långa fall.}}
+
+{{led|nr=40|namn=Vägga | grad=6- (6a) |typ=sport | betyg=1|bultar=4|text=Inte allt för svår väggklättring, med markant krux på mitten. Leden ser svårare ut nedifrån (greppbefriad) än vad den egentligen är. Tidigare dödspotential vid andra klippet, men långväga gäst kompletterade med ytterligare en bult okt 2010 (tack!)|fa=Urban Hörnström, Stefan Appel -94}}
+
+{{led|nr=41|namn=Vinkeln | grad=5 |typ=trad |text=Ganska ansträngande och avig, men trevlig klättring i det blinda hörnet. Får man för sig att leda denna led rekommenderas att man klipper i borrbultarna på Excalibur. Säkrades enligt legenden med copperheads som bankades in med firningsåtta.}}
+
+{{led|nr=42|namn=Excalibur | grad=7- | typ=mix | betyg=3 | bultar=3 | text=Enligt många bergets finaste för sin grad. Tunn väggklättring med 3 borrbult och en friend i stora tvärsprickan. Godis för den nypstarke och krux i slutet. | fa=Urban Hörnström, Stefan Appel -94}}
+
+{{led|nr=43a|namn=Variantutsteg till Popoppitopp | grad=7 | typ=mix | betyg=1 | text=2bb och en friend}}
+
+{{led|nr=43b|namn=Poppoppitopp | grad=8 | typ=mix | betyg=2 | bultar=2 | text=
+Vansinnig led som inte kan beskrivas rättvist. Mycket tunn väggklättring. 2bb och en friend i tvärsprickan. Långt till första säkring/bult efter kompromiss mellan förstabestigaren och hans engelsk-etiska vän som ville att den skulle göras naturligt. Kan vara en god idé att förlänga från första bulten för att undvika jobbigt markfall. Teknisk på ok krimpar .  Går rakt upp hela vägen men för den orkeslösa finns en 6c variant till vänster . | fa=Fredrik Rundkvist}}
+
+{{led|namn=De-e-so-lett | grad=6 | text=topprepsled på suspekt klippa. Upp till hyllan och vidare upp på aréten.}}
+
+{{led|namn=Ernst luftled | grad=4 | text=Lös och uppbruten spricka längst till höger. Definitivt ingen höjdare}}
+
+===Den där borta===
+
+Detta bergsparti hittar du om du fortsätter bort längs vägen, innan uppförsbacken speja åt vänster och du ser troligtvis den mindre klippväggen 30 meter in. Ett fåtal linjer finns, led 1 och 2 gjorda på topprep. Klippan är uppskattningsvis mellan 8-12 meter hög beroende på vilken del. Fler leder kan med största sannolikhet göras till vänster om led 1 - ta med stålborste! Solen belyser väggen en dryg timme innan övriga Årjängsberget.
+
+{{led|nr=1|namn=Smaka på moder natur| grad=5 | typ=topprep | betyg= | bultar= | text=Leden går i en spricka som syns tydligt mellan lederna "Björkmästaren" och "Så går vi runt i en enbärsbuske". Cirka 8-9 meter högt. Ser svårsäkrat ut...| fa=David Fryxelius, Linnea Broström och Jennifer Halling Climb-in 2010}}
+
+{{led|nr=2|namn=Så går vi runt i en enbärsbuske | grad=4 | typ=topprep | betyg= | bultar= | text=startar ett par meter till vänster om "Smaka på moder natur". Ser nästan ut som en grov trappa. Man hamnar mot slutet av leden i ett enbäsbuskage där kruxet är att ta sig förbi buskaget utan att använda sig av det. Cirka 12 meter högt.| fa=David Fryxelius, Linnea Broström och Jennifer Halling Climb-in 2010}}
+
+{{led|nr=3|namn=Björkmästaren | grad=5 | typ=trad | betyg= | bultar= | text=Bred, tydlig spricka löjligt nära en björk. Några meter upp stöter du på ett stort block på en hylla. Passera denna på vänster sida, så får du ett delikat layback-move innan du är uppe. Kruxet är att inte dabba sig mot björken. Den långväga förstabestigarens enda kommentar "instant classic". Den ironiska publiken nickade instämmande. Cirka 8-9 meter högt.| fa=Petter Åsander Climb-in 2010}}
+
+===Den dunkla skogsklippan===
+
+Detta parti ligger in i skogen till vänster om huvudklippan.
+Ett par leder etablerade, men det finns potential för fler om man inte är rädd för att jobba lite med stålborsten.
+
+{{led|nr=1|namn=Fancy Pancy| grad=5- | typ=trad | betyg= | bultar= | text=Leden går i den stora tydliga sprickan till vänster i det tydliga taket. lite annorlunda led som bl.a. bjuder på lite kaminklättring. Väldigt välsäkrad. Rekommenderas för tradnybörjaren att lära sig lägga kil på.| fa=Christine Liegnell}}
+
+{{led|nr=2|namn=Folkölsfrukost| grad=6 | typ=trad | betyg= | bultar= | text=Leden går i den högra sprickan i det tydliga taket. Börja på överhänget och håll dig till höger utan att fuska dig ut på rampen till vänster. Kliv upp på platån och följ därefter sprickan genom taket.| Crimp blandat med en aning jam. | fa=Martin Ström Götenstedt}}
+
+
+=== Vägbeskrivning ===
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+[[Bild:karta_skiss.gif|400px]]
+
+<googlemap lat="59.350083336664305" lon="12.14813232421875" zoom="12" type="map">
+59.350083336664305,12.14813232421875,Årjängsberget</googlemap>
+</div>
+
+Årjäng ligger i Värmland längst E18. Utöver klättringen är staden mest känd för sin travbana, raggare, ett väldigt stort troll och nån slags årlig marknad.
+
+'''Från E18 söder:'''
+
+Håll ögonen öppna då ni passerat Sandaholm (ett fik vid en sjö beläget i ett vattentorn på vänster sida) och spana efter skylt mot Sillegårdsed. Följ denna tills en skylt mot Kanotcenter dyker upp, och följ även denna. Efter ungefär en kilometer passerar man berget på vänster sida.
+
+'''Från Årjäng:'''
+
+Kör genom centrum söderut (följ skyltar mot Bengtsfors, väg 172). Just då centrum verkar upphöra, sväng vänster mot Sommarvik eller Sillegårdsed. Följ denna tills du passerar campingen på höger sida. I anslutning till ett rostigt vägräcke ska du svänga höger (mot Kanotcenter/badplats?). När du ser vattnet (0,5km?) är du framme. Klippan ligger intill vägen på vänster sida.
+
+'''Parkering:'''
+
+Årjängs kommun ombesörjer en fin badplats intill klippan med tillhörande parkeringsplats. Här är lämpligt att parkera. Har du en fin bil kan det dock vara värt att köra förbi klippan och parkera efter den. De lokala raggarna roar sig nämligen ibland med att köra fort fort runt i cirklar på den grusade parkeringen vilket kan vara förödande för din lack.
+
+=== Om klättringen ===
+
+Årjängsberget består av vattenslipad bohusgranit, vissa partier mer slipade än andra. Främst bjuds det på superb sprickklättring i graderna 5- till 6 samt balansartad väggklättring på lister i graderna 7- till 8+. Ett fåtal rena sportturer återfinns även. Vid ett besök finns ett antal leder som inte får missas, såsom Laybacksprickan, Vänster- och Högersprickan, 22an, Sensorn, High Wire, Way of Mr Grace, Superfly och Show me Heaven. Även Excalibur, Poppoppitopp, Jamsession, Gräsiga Sprickan (kanske efter tvätt), Highway to Heaven och Trocadero håller hög klass.
+
+Lederna är i allmänhet bultade efter 80-tals bohuspolicy vilket innebär sparsam påverkan på klippan för att uttrycka det positivt. I de flesta fall innebär det ingen fara då killägena ofta är solida, med undantag för leden Vägga. I denna förare anges vilka leder som bör betraktas som seriösa, klippan är i övrigt mycket solid och många leder lämpar sig ypperligt för övning i kilplacering.
+
+'''Access'''
+
+Parkera, bulta och ticka med förnuft. En prekär konflikt med en turismidkare i området blossar upp då och då, men han har  inte större rätt till berget än nån annan. De som äger marken bor i närheten och har sett på klättringen (och även bultning) som något positivt. Visa tacksamhet för detta, så kanske det kan fortgå. Visa hänsyn till trafiken på vägen, situationen är känslig då de som kör här i allra högsta grad är lokalbefolkning. Lägg aldrig saker på vägen, stå inte på vägen, säkra inte från vägen, visa största tänkbara hänsyn till trafikanterna och var framförallt trevlig mot allt och alla.
+
+'''Säkerhet'''
+
+På toppen av stora väggen sitter ett antal stadiga ringbultar placerade. Jag vet inte var de kommer från eller hur de sitter. Topprepsklättring i dem rekommenderas  inte, men om du nödvändigtvis ska fira av från dem, var försiktig med drag uppåt.
+
+'''Camping'''
+
+Om inte särskilt tillstånd sökts av Årjängs Kommun så gäller campingförbud på den intilliggande badplatsen. Skyltar upplyser om detta och du bör följa dessa bestämmelser så vi slipper accessproblem.  
+Några hundra meter förbi klippan finns en trivsam udde som lämpar sig som campingplats för mindre sällskap. Det är dock mindre passande att slå upp ett helt gäng tält här, så större sällskap gör bäst i att bege sig till campingplatsen som ligger någon kilometer på vägen mot Årjäng. 
+
+'''Bad mm'''
+
+En kommunal badplats med brygga, omklädningsrum, soptunna och sandstrand ligger intill klippan. Badplatsen hyser numera också ett utedass. Räkna dock med att behöva ta med eget papper. Ett annat alternativ är annars klipporna som ligger ett hundratal meter förbi berget på höger sida.  
+
+'''Övrigt'''
+
+[http://www.josseklatter.net Jösse Klättersällskap] och [http://www.karlstadklatterklubb.se Karlstad Klätterklubb] har som tradition att anordna gemensam Climb-In vid Järnberget varje år. Första eller andra helgen i maj är datumet du bör spika. Besök respektive klubbs hemsida för mer information. Alla är varmt välkomna. 
+
+'''Om föraren'''
+
+Föraren är sammanställd i Augusti 2006 av Peter Erhard och innehåller med största sannolikhet en del felaktigheter. Rapportera ändringar, gradförslag, nyturer och liknande till peter.erhard@gmail.com eller ändra direkt här på sverigeföraren.
+[[Kategori:Värmland]]

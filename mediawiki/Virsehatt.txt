@@ -1,0 +1,70 @@
+{{info klippa
+  |lat=56.798141
+  |long=13.020367
+}}
+
+
+ {{komplett}} 
+
+==Allmänt==
+Virsehatt är ett naturreservat öster om Halmstad med lite klippor runt en markant höjd i terrängen. Lederna är lättillgängliga och ligger i en mycket fin naturmark. Det finns idag ca 15 trad leder och inget är bultat.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="56.798141" lon="13.020367" zoom="14">56.798141, 13.020367, Virsehatt</googlemap>
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Virsehatt ligger mellan Simlångsdalen och Oskarström utanför Halmstad. Från parkeringen går man genom grindarna så att man har höjden på höger hand. Följ stigen tills klipporna börjar dyka upp på höger hand. Sväng höger på den lilla stigen och klippan syns nu tydligt på höger sida.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Virsehatt.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Hata plast|grad=5+|typ=trad|betyg=1|bultar=|längd=10|fa=[[Michael Gullvert]] -08|text=Lättklättring upp till mitten sedan välsäkrat crux, lite lös i toppen annars fast.}}
+
+{{led|nr=2|namn=Dopet|grad=5-|typ=trad|betyg=1|bultar=|längd=10|fa=[[Michael Gullvert]] -08|text=Cruxet i början, björken i slutet är en trevlig viloplats, lite lös i toppen går att säkra.}}
+
+{{led|nr=3|namn=Mössan|grad=5-|typ=trad|betyg=1|bultar=|längd=10|fa=[[Michael Gullvert]] -08|text=Teknisk klättring i början sedan olika varianter till toppen går att säkra.}}
+
+{{led|nr=4|namn=Lillen|grad=3|typ=trad|betyg=1|bultar=|längd=10|fa=[[Michael Gullvert Niklas Sigfeldt]] -08|text=Jämn och lite grön klättring
+
+}}
+
+==Kontakt==
+För mer info och bilder kolla [http://www.eskapader.se Eskapader]
+| width="350px" |
+
+
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+ [[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+ [[Kategori:vertikalt]] 
+<!-- [[Kategori:överhäng]] -->
+
+
+
+[[Category:Halland]]

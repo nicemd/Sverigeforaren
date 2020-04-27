@@ -1,0 +1,31 @@
+{{utkast}}
+
+==Allmänt==
+Västvänd klippa (kvällssol) ca 60m lång och 15m hög. Den går rakt ner i Bergshamraviken, det finns som tur är en smal landremsa som gör att det går att gå under klippan. Klippan är slät och vattenslipad men med några tydliga sprickor.
+
+==Vägbeskrivning==
+Klippan ligger i Bergshamraviken.
+Från Stockholm : väg 276 genom Åkersberga mot Norrtälje. 
+30 km från Åkerberga, 2 km efter Vettershaga bro, tag vänster vid vägskylt "Bergshamra Varv"  
+forsätt grusväg ner till badplats. Kör vidare ca 400m till delvis uppväxt kalhygge på höger sida strax efter en korsning. Parkera under en stor gran och tag stigen genom hygget ner till en brygga. Klippan ligger vid vattnet ca 100m åt vänster.
+
+==Leder==
+
+{{led|nr=1|namn=Svanen|grad=6+|längd=10|fa=[[Christer Åstrand]][[2001|-01]]|text=Första sprickan till vänster om du står under klippan }}
+
+{{led|nr=2|namn=Projekt|grad=7|längd=10|fa=[[Klas Jelinek]][[2001|-01]]|text= Startar med en tunn spricka och sedan upp till hylla med ett litet träd (toppad)}}
+
+{{led|nr=3|namn=Vännernas Väg|grad=5+|längd=15|fa=[[Staffan Ericsson]], [[Christer Åstrand]][[2007|-07]]|text=Tydlig spricka fin och välsäkrad med massor kilar (10st)}}
+
+{{led|nr=4|namn=Projekt|grad=?|längd=15|fa=[[Christer Åstrand]][[2007|-07]]|text= Knepigt insteg, följ rampliknande spricka åt vänster}}
+
+{{led|nr=5|namn=Underbar men kort|grad=5+|längd=5|fa=[[Christer Åstrand]], [[Staffan Ericsson]][[2007|-07]]|text= Vackert hörn bra säkrat med kilar}}
+
+{{led|nr=6|namn=Kvällssol|grad=4+|längd=12|fa=[[Christer Åstrand]], [[Staffan Ericsson]][[2007|-07]]|text= Tydlig spricka igenom den svarta hällen upp till 2 små tallar}}
+
+[[Kategori:Trad]]
+[[Kategori:Stockholm]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar kolumner]]
+[[Kategori:Norra Stockholm]]

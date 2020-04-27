@@ -1,0 +1,61 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Havoc|grad=6C+|typ=Krimp,Överhäng|fa=Stefan E|landning=3|betyg=2|fadatum=2006-07-21|sopad=Stefan E|text=Vid valvet. Start höger på givna grepp, sedan upp åt vänster, avsluta på juggen eller toppa ur upp i brötet om du vill.}}
+{{problem|namn=Total Havoc Sans|grad=7B|typ=Överhäng|fa=Stefan E|landning=4|betyg=2|fadatum=2006-07-21|sopad=Stefan E|sittstart=ja|variant=ja|text=Sittstart till Havoc, utan att använda arêten (inkl heelhook).}}
+{{problem|namn=Vault Assault standup|grad=6B|typ=Pinch,Dyno|fa=Stefan och Nisse|landning=4|betyg=1|fadatum=2006-07-21|sopad=Stefan och Nisse|uteslutningar=ja|text=Vid valvet. Start vänster vid stora greppen, catcha upp till kanten utan vänstra arêten.}}
+{{problem|namn=Vault Assault|grad=7A|typ=Krimp,Pinch,Överhäng,Dyno|fa=Stefan och Nisse|landning=4|betyg=2|fadatum=2006-07-21|sopad=Stefan och Nisse|sittstart=ja|uteslutningar=ja|text=Sittstart med små krimpar, klättra upp och gör dynon utan vänsterkanten/arêten.}}
+{{problem|namn=Limbo|grad=6C|typ=Överhäng,Aréte|fa=Nisse och Stefan E|landning=4|betyg=1|fadatum=2006-08-01|sopad=Nisse och Stefan E|sittstart=ja|text=Vid valvet. Sittstarta och klättra den vänstra arêten.}}
+{{problem|namn=Before the Flood|grad=6C|typ=Överhäng|fa=Stefan E|landning=5|fadatum=2006-07-21|sopad=Stefan E|sittstart=ja|text=På höga väggen runt hörnet från valvet. Sittstart mitt i överhänget och klättra rakt upp. Avsluta på juggen efter ca 4m. Resten borde kanske bultas.}}
+{{problem|namn=Gods of the old World|grad=7A+|typ=Överhäng,Highball,Aréte|fa=Stefan E|landning=3|betyg=2|fadatum=2006-07-21|sopad=Stefan E|sittstart=ja|text=På höga väggen. Sittstarta och klättra den långa överhängande arêten. Avslutningen ej rensad, sluta på jug i sprickan tills vidare.}}
+{{problem|namn=Bleau Vibrations|grad=7A|typ=Slopers,Pinch,Överhäng,Aréte|fa=Stefan E|landning=4|betyg=3|fadatum=2006-07-21|sopad=Stefan E|sittstart=ja|text=Uppe på platån. Sittstart till den överhängande arêten.}}
+{{problem|namn=Bleau Vibrations Gauche|grad=7A|typ=Pinch,Överhäng,Aréte|fa=Stefan E|landning=3|betyg=1|fadatum=2006-08-10|sopad=Stefan E|sittstart=ja|text=Sittstart som Bleau Vibrations, klättra halvvägs uppför arêten och vik sedan ut långt vänster till stor hylla.}}
+{{problem|namn=Crazy Friday|grad=7A|typ=Överhäng,Dyno|fa=Nisse och Stefan|landning=4|betyg=1|fadatum=2006-07-21|sopad=Nisse och Stefan|startgrepp=ja|uteslutningar=ja|text=Uppe på platån. Start höger med sidtag i sprickan och vänster hand på hyfsad krimp. Slap upp på rampen och sedan catch upp i klykan. Undvik jättegreppen till höger i sprickan.}}
+{{problem|namn=Punch Out|grad=6B+|typ=Dyno|fa=Stefan och Nisse|landning=4|betyg=1|fadatum=2006-07-21|sopad=Stefan och Nisse|text=Går på platån. Starta med slopers på rampen (hoppa om du inte når), sedan dyno till kanten. Se till att inte flyga av när du får pendel, då kan det bli en ordentlig lufttur nerför höjden...}}
+{{problem|namn=Beach Boyz|grad=6C|typ=Krimp,Överhäng,Aréte|fa=Stefan och Nisse|landning=3|fadatum=2006-07-21|sopad=Stefan och Nisse|sittstart=ja|text=Går på första överhängsväggen. Sittstart vid arêten, utsteg höger.}}
+{{problem|namn=Take me to the water|grad=6B+|typ=Krimp,Mantling,Överhäng|fa=Stefan och Nisse|landning=3|fadatum=2006-07-21|sopad=Stefan och Nisse|sittstart=ja|text=Går på första överhängsblocket. Sittstart mitt på, rakt upp.}}
+{{problem|namn=Tune in|grad=6B|typ=Överhäng|fa=Stefan och Nisse|landning=4|fadatum=2006-07-21|sopad=Stefan och Nisse|sittstart=ja|text=Går på första överhängsblocket. Sittstart till höger mot diedret, klättra rakt upp med två kanter. Stå inte på stenen till höger.}}
+{{problem|namn=Talus|grad=4A|typ=Mantling|fa=Stefan och Nisse|landning=5|fadatum=2006-08-01|sopad=Stefan och Nisse|startgrepp=ja|text=Uppe i klyftan. Start med händerna i tvärsprickan, sedan upp höger.}}
+| width="250px" |
+{{problem|namn=Ur askan|grad=5A|typ=Reach|fa=Stefan och Nisse|landning=3|fadatum=2006-08-01|sopad=Stefan och Nisse|sittstart=ja|text=Sittstart vänster om Bleau Vibrations uppe vid platån.}}
+{{problem|namn=Trollsländan|grad=7A|typ=Slopers,Överhäng|fa=Nisse|landning=3|betyg=2|fadatum=2006-08-25|sopad=Nisse|startgrepp=ja|text=På vänstra delen, nästan längst till vänster. Startar med HH på undercut, VH på stor sloper.}}
+{{problem|namn=Pocketparty|grad=5B|typ=Jug|fa=Nisse|landning=3|fadatum=2006-08-26|sopad=Nisse|text=Vägg ca 200 m från Trollsländan i riktning mot Åkers. Problemet går strax vä om aréten.}}
+{{problem|namn=The wild one|grad=6B|typ=Aréte|fa=Nisse|landning=3|betyg=1|fadatum=2006-08-26|sopad=Nisse|sittstart=ja|text=Aréten höger om Pocketparty. Stora rampen i starten ingår ej.}}
+{{problem|namn=Soft vibrations|grad=7A+|typ=Aréte|fa=Nisse|landning=3|betyg=2|fadatum=2006-09-16|sopad=Nisse|sittstart=ja|text=Som Bleau Vibrations, men avsluta med Punch    out.}}
+{{problem|namn=Total Hammock|grad=7A|typ=Överhäng|fa=-|landning=3|betyg=1|sopad=-|sittstart=ja|text=Sittstarten under Havoc. Allt är tillåtet; heelhook, grepp på arêten, you name it.}}
+{{problem|namn=Födelsedagskalas|grad=7A|typ=Krimp,Överhäng|fa=Sydde|landning=4|betyg=2|fadatum=2006-10-14|sopad=Sydde|sittstart=ja|text=Överhängade väggen längst vänster på stora väggen. Direktlinje via 3 horisontella sprickor.}}
+{{problem|namn=Blod o tårar|grad=6C+|typ=Överhäng,Aréte|fa=Nisse|landning=4|betyg=2|fadatum=2006-10-06|sopad=Nisse|sittstart=ja|startgrepp=ja|text=Väggen vid krypin-grottan. Högra aréten. Startar med hh i sprickan, vh valfritt.}}
+{{problem|namn=Return of the caveman|grad=7A|typ=Överhäng,Aréte|fa=Nisse|landning=4|betyg=2|fadatum=2006-10-06|sopad=Nisse|sittstart=ja|startgrepp=ja|text=Väggen vid krypin-grottan. Högra aréten. Startar vid boxen i två undercling. Catcha med vh upp på boxen, följ sedan aréten uppåt.}}
+{{problem|namn=Jordfräs|grad=5C|typ=Överhäng|fa=Nisse och Tobbe|landning=5|fadatum=2006-10-29|sopad=Nisse och Tobbe|sittstart=ja|text=Höger om entrén till muren. Start strax höger om vä-aréten, följ stora sidgrepp upp, avsluta åt vänster (escape)}}
+{{problem|namn=Brand new demons|grad=6A+|typ=Jam,Highball,Spricka|fa=Nisse och Tobbe|landning=3|betyg=2|fadatum=2006-10-29|sopad=Nisse och Tobbe|sittstart=ja|text=Sprickan ca 2 m vänster om Gods of the old world (stå-start 6a).}}
+{{problem|namn=Wild Thing|grad=7C|typ=Överhäng,Dyno|fa=Stefan Eklund|landning=3|betyg=3|fadatum=2007-04-08|sopad=Stefan Eklund|sittstart=ja|text=Havocväggen. Sittstart mitt på, gå upp till två snedställda grepp och gör en monkeyslap upp till rampen i slutet av Havoc. Den bästa och mest direkta linjen uppför väggen! Det är möjligt att man kan klättra in i Havoc men det lär snarare bli hårdare.}}
+{{problem|namn=Sabretooth|grad=7B|typ=Överhäng,Aréte|fa=Stefan Eklund|landning=5|betyg=2|fadatum=2007-04-08|sopad=Stefan Eklund|text=Den perfekta överhängade arêten samma vägg som Return of the caveman. Start från botten, krama arêten via två sidtag och forcera sedan upp åt höger.}}
+{{problem|namn=Return of the Caveman assis|grad=7A+|typ=Överhäng,Aréte,Heel hook|fa=Stefan Eklund|landning=4|betyg=2|fadatum=2007-04-08|sopad=Stefan Eklund|sittstart=ja|text=Sittstart till Return of the caveman. Staretar från en bra sloper med vänster och en incutkrimp i en spricka.}}
+{{problem|namn=Vault Assault au naturell|grad=6C|typ=Krimp,Överhäng|fa=Fredrik o Jenny|landning=3|betyg=1|fadatum=2007-04-10|sopad=Fredrik o Jenny|sittstart=ja|text=Start som Vault assault assis, men utan uteslutning av stora greppen på areten efter första moven. Naturligaste linjen från den sittstarten.}}
+| width="250px" |
+{{problem|namn=Wild Thing standup|grad=7A+|typ=Överhäng,Dyno|fa=Stefan E|betyg=2|fadatum=2007-04-08|sopad=Stefan E|text=Stand-up varianten till Wild Thing, start vanster om Havoc, skicka langt upp hoger till det stora greppet med hoger hand.}}
+{{problem|namn=Fredriks bildningsluckor|grad=6B+|typ=|fa=Fredrik Andersson|landning=3|fadatum=2007-04-17|sopad=Fredrik Andersson|text=Start i sprickan till höger om Födelsedagskalas. Sittstart till denna är gjord av J. Smedsaas 7a?}}
+{{problem|namn=Neanderthal|grad=6A+|typ=Mantling,Highball|fa=magnus C|landning=4|fadatum=2007-04-29|sopad=magnus C|text=Vägg hö om Caveman. Start på jugge nära granen. Går svagt till vä.}}
+{{problem|namn=Camouflage|grad=7A|typ=Krimp,Highball,Reach|fa=Magnus C|landning=3|betyg=1|fadatum=2007-04-29|sopad=Magnus C|uteslutningar=ja|text=Precis hö om Brand new demons(som är eliminerad). Studs till jugg med hö h, vä h upp till sidocrimp. Långt sträck åt hö o toppa ur.}}
+{{problem|namn=Belle de jour|grad=6A+|typ=|fa=Magnus C|landning=4|fadatum=2007-04-28|sopad=Magnus C|startgrepp=ja|uteslutningar=ja|text=Vägg hö om vault. 2 m till hö om sprickan (eliminerad). Start match vä h sidotag, hö h list, gå rakt upp via slopande list t vä.}}
+{{problem|namn=Vinglig|grad=6B+|typ=Krimp|fa=Magnus C|landning=5|fadatum=2007-05-12|sopad=Magnus C|startgrepp=ja|text=Vägg till hö om vault. Innanför träd. Starta brett med vä h sidotag hö h sidotag. Klättra rakt upp.}}
+{{problem|namn=Kunglig|grad=6C|typ=Krimp|fa=Magnus C|landning=3|betyg=1|fadatum=2007-04-28|sopad=Magnus C|startgrepp=ja|text=Vägg hö om vault. Hö om träd. Start vä h sidotag studsa till list med hö h.}}
+{{problem|namn=Köttjuven|grad=7B|typ=Krimp|fa=Matte Nyberg|landning=3|betyg=1|fadatum=2007-07-20|sopad=Matte Nyberg|sittstart=ja|text=Blocket till vänster innan Gods... Sittstart på vänstra delen och klättra rakt upp över svaskölden. Arêten är off om den nu ens går att använda.}}
+{{problem|namn=Real assis|grad=7A|typ=Överhäng,Reach|fa=Matte N och Stefan|landning=4|betyg=1|fadatum=2007-07-20|sopad=Matte N och Stefan|sittstart=ja|text=Längst till vänster på samma vägg som Gods... Sittstarta, dra upp till juggarna och vidare till ett bra grepp på läppen.}}
+{{problem|namn=She's a fox|grad=6C+|typ=Överhäng|fa=Stefan och Matte N|landning=5|betyg=1|fadatum=2007-07-20|sopad=Stefan och Matte N|sittstart=ja|text=Det lutande blocket vid return of the caveman. Sittstart från botten. Antagligen morpho.}}
+{{problem|namn=Facelift|grad=7B|typ=Krimp,Slopers,Överhäng|fa=Stefan|landning=6|betyg=3|fadatum=2007-08-14|sopad=Stefan|sittstart=ja|text=Sittstart i överhänget höger om Gods... Klättra upp höger på de slopiga hyllorna runt arêten. Ca 20 moves och ett mentalt crux ovanför en jobbig landing.}}
+{{problem|namn=ÅKERS FÖRARE|grad=-|typ=|fadatum=2008-02-16|text=}}
+{{problem|namn=Borderline assis|grad=7C+|typ=|fa=Sydde|landning=3|betyg=2|fadatum=2008-03-15|sopad=Sydde|sittstart=ja|uteslutningar=ja|text=Sittstart som Bleau vibrations, sträck höger till krimpar och klättra rakt upp utan att använda arêten.}}
+{{problem|namn=The Turd|grad=6C+|typ=|fa=Sydde (och Jon)|landning=3|fadatum=2008-03-29|sopad=Sydde (och Jon)|sittstart=ja|text=Runt hörnet till höger om Havoc. Start i stora sidtaget (höger hand åtminstone). snett vänster sen rakt upp via stora grepp i sprickan.}}
+{{problem|namn=Weissmüller|grad=7A|typ=|fa=Stefan|landning=3|betyg=1|fadatum=2008-04-06|sopad=Stefan|text=Hoppstart ca 1m höger om trollsländan, sedan campus upp åt vänster (eller använd fötterna om du vill). Slutar typ som trollsländan.}}
+|}
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

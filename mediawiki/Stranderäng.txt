@@ -1,0 +1,29 @@
+{{stub}}[[Kategori:trad]]
+[[Kategori:Bohuslän]]
+
+== Introduktion ==
+Imponerande klippa vid botten Åbyfjorden tyvärr med få linjer. 
+
+An imposing cliff at the end of Åbyfjorden. Unfortunately the cliff holds few lines
+
+== Karaktär ==
+Klassisk sprick- och face-klättring.
+
+Classic crack- and faceclimbing
+
+
+<googlemap version="0.9" lat="58.459431" lon="11.468718" zoom="14">
+58.388603, 11.387887
+Åbyfjorden, Sverige
+58.458398, 11.468782, Stranderäng
+</googlemap>
+
+== Vägbeskrivning ==
+Sväng mot Kungshamn/Smögen från väg 162. Efter ca. 4 kilometer vid änden av Åbyfjorden ser man klippan upp på höger sida. Ett stort dieder med en björk markerar andra replängden på leden "Örnen". Parkera på busshållplatsen utan att stå i vägen för bussen.
+
+Turn towards Kungshamn/Smögen off of route 162. After approx. 4 km. at bottom of the Åbyfjorden fjord the cliff is visible on the right hand side of the road. A huge dihedral with a birch tree in it marks the second pitch of the route "Örnen - the eagle". Park at the bus stop and pay attention not to block the stop for the bus.
+
+
+== Access ==
+
+{{AccessDB|klippa=stranderang}}

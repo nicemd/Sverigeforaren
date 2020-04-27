@@ -1,0 +1,24 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+{{info boulderområde
+|lat=59.338749
+|long=17.911663
+}}
+=Vägbeskrivning=
+<googlemap version="0.9" lat="59.33969" lon="17.910333" zoom="15">
+59.338749, 17.911663
+Norra Ängby, Stockholm, Sverige</googlemap>
+
+Se även:[http://www.bloxc.com/forum/viewtopic.php?t=1346 Bloxc]
+
+=Problem=
+{{problem|namn=Vulgar display of power|grad=7C|typ=Överhäng|fa=Matte Nyberg|landning=3|betyg=2|sopad=Matte Nyberg|sittstart=ja|text=Sittstart mitt på den branta väggen, dra upp till sidtag och vidare vä mot arêten och avsluta uppför denna.}}
+{{problem|namn=Big L|grad=7A+|typ=Dyno|fa=?|landning=4|sopad=?|sittstart=ja|text=Runt vä från VDP, från jug upp höger (dyno).}}
+{{problem|namn=Bastard|grad=7C+|typ=Krimp,Överhäng|fa=Jon Smedsaas|landning=5|betyg=1|fadatum=2008-03-20|sopad=Jon Smedsaas|text=Ståstart på Vulgarväggen. Rakt upp utan areten. Lite läskigt på slutet.}}
+[[Kategori:Stockholm]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

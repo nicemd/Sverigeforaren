@@ -1,0 +1,295 @@
+{{info klippa
+  |lat=58.645332
+  |long=16.910362
+}}
+
+{{utkast}}
+[[Bild:SimonsbergetVy.jpg|frame|Simonsberget. Foto: [[user:niclas|Niclas Emdelius]]]]
+ 
+==Allmänt==
+Klassiskt tradberg som bjuder på mycket bra kilklättring men även lite bultat. Vill man klättra flera replängder går det också.
+
+==Beskrivning==
+'''Simonsberget''', även kallat ''Tunaberg'', beläget en bit utanför Nyköping, mot kusten. 
+
+Simonsberget består av sprickrik granit och har både sva och lodrätt klättring. Berget är ca 50 m högt med en och annan hylla. Berget har en fin tradition och till och med en egen klubb. Bergets mirakulösa sprickor är kända för att sluka dina kilar till perfekta placeringar. Berget har många hyllor, detta medför att de flesta lederna är ganska korta men de går att sammanbinda till flera korta replängder.
+
+==Uppröjning 2008-2009==
+
+Under 2008-2009 genomfördes ett stort uppröjningsarbete vid Simonsberget. Sörmlandsledens förening lagade eldstaden, och ved samt yxa ska finnas på plats. Torbjörn Ohlén har satt upp en informationstavla för klättrare vid grillplatsen. Den gamla toaletten finns inte längre, ny fin toalett är byggd. På tältplatsen har det röjts.
+
+Längst hela (klätterbara delen av) berget har det röjts skog och sly så numera nås man både av sol och luft även om man klättrar i klippans nedre regioner. 
+
+Detta har skett i enlighet med Länsstyrelsens skötselplan.
+
+På berget har flera träd tagits ned och firningsankare satts upp för att ersätta gamla döda träd och skona de som finns kvar. Se föraren och bultlogg nedan för var dessa ankare sitter.
+
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap lat="58.645332" width="400" height="300" lon="16.910362" zoom="13" type="map">
+58.645332,16.910362,Simonsberget
+</googlemap>
+</div>De flesta kör E4 till Nyköping och kör sedan vidare mot Oxelösund. Tag höger mot Nävekvarn, sedan vänster mot Buskhyttan. Kör igenom samhället och ytterligare ett antal kilometer tills du är i Koppartorp (Tunaberg).
+Ny parkering finns längs huvudvägen på en liten trekantig åker. Använd denna! - Parkera inte längs vägen som går in till klippan eller vid kyrkans parkeringsplats. Nya Prästgårdsägaren ogillar att klättrare passerar, så använd endast den nya parkeringen.
+
+Det är '''INTE''' ok att köra fram till klippan!
+
+<div style="clear:right;"></div>
+
+==Access {{access}}==
+
+Berget har begränsad access (naturreservat) och det råder anmälningsplikt för kurser.
+
+Tältplatsen ligger utanför reservatet. Tältning inom reservatet är bara tillåtet mellan grillplatsen och platsen för "gamla" (rivna) dasset. På den platsen finns numera bara en rishög kvar. Tälta inte på den, den finns där av en mycket god anledning. I slutet av april kunde man se ett 20-tal huggormar nedanför klippan.
+
+Det är '''INTE''' ok att köra fram till klippan!
+
+'''OBS''' 
+
+Det är '''förbjudet''' att bulta nya turer! Gamla bultar får bytas.
+Reservatsbestämmelserna tillåter vidare endast klättring och underhåll på befintliga leder; nytursförbud alltså!
+
+Det är också förbjudet att elda på annan plats än grillplatsen nedanför berget. Det är alltså '''inte''' tillåtet att elda uppe på berget.
+Det är inte tillåtet att fira av ifrån ett träd, då detta sliter på de träden som finns kvar. Använd firningsankare istället. 
+{{clear}}
+
+{{AccessDB|klippa=simonsberget-tunaberg}}
+
+==Leder==
+===Graviditetsområdet===
+{|
+| valign="top" |
+| width="250px" |
+{{led|namn=Graviditetsleden|grad=4+|typ=trad|text=Oftast klättras bara delen från hyllan. Den börjar med ett lätt sva, går över i diederklättring och avslutas med en tydlig spricka.|fa=}}
+{{led|namn=Antikonception|grad=6-|typ=trad|fa=Per Normark och Per Calleberg, 1986|text=Väggklättring till vänster om Ricks utsteg. Något tunt säkrad.}}
+{{led|namn=Ricks utsteg|grad=6|typ=trad|fa=Rick McGregor och Eric Grund 1979|text=Fin ihållande sprickklättring.}}
+| width="250px" |
+{{led|namn=Flink och flärdig|grad=7+|typ=trad|fa=Eva Selin och Anders Lundahl, ca 1989|text=Fin klättring på arêten till höger om Graviditetsleden. Säkras med tre borrbultar och lite eget. Bultarna bytta 2012.}}
+| width="250px" |
+{{led|namn=Holländskt porslin|grad=9|typ=trad|fa=Per Calleberg 1985, fritt Erik Massih 2012, |text=De tunna sprickorna på den vackra väggen till höger om Graviditetsleden. Säkras med fyra borrbultar (bytta 2012) och lite eget.}}
+|}
+
+===Himlasängsområdet===
+Firningsankare finns ovanför Himlastegen, på Direttissimans första stand och dess topp.
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Himlastegen|grad=8-|typ=trad|fa=Hans Christian Doseth|text=En fin fingerspricka klyver den blanka vägen. Sagolik!}}
+{{led|namn=Katedralen|grad=8+|typ=sport|fa=FA=?|text=Dieder med avslutande taktravers. Har nya bultar 2008.}}
+{{led|namn=Aeroflot|grad=8|typ=sport|fa=Rikard Hedman/Johan Luhr|text= Starta från hyllan i "Katedraldiedret" och traversera höger för att nå arêten. Följ arêten genom fantastiska positioner och teknisk klättring. Ihållande och fin klättring säkrad med borrbult.}}
+{{led|namn=Aspleden|grad=8-/8|typ=trad|fa=Eva Selin/Anders Lundahl|text= Brant inledning genom något suspekt klippa. Var lite försiktig med vad du lägger för säkring samt vart du lägger den. Följ sprickan upp till bågformationen på mitten, lägg i 5:ans växel och pressa dig igenom kluriga och engagerande sekvenser. Brant och ihållande klättring med bra kilar och friends. Backa upp eller strunta i pitongerna.}}
+{{led|namn=Direttissiman|grad=5+|typ=trad|text=Två replängder, men många nöjer sig med den första. Ta med minst en stor friend.}}
+{{led|namn=Himlasängen|grad=5+|typ=trad|text=Travers.}}
+| width="250px" |
+{{led|namn=Himlataket|grad=7|typ=trad|fa=Hans Christian Doseth|text=Någon pitong.}}
+{{led|namn=Himlahörnet|grad=7+|typ=trad|fa=Hans Christian Doseth}}
+{{led|namn=Dolphin Free Tuna|grad=8-/8|typ=trad|fa=Ali Kraufvelin|text=Start vid högra pelaren, uppför slabben mot vänster, för att sedan avsluta med ett magkittlande bouldermove över taket.}}
+{{led|namn=Anders förfall|grad=6-|typ=trad|text=Festlig lång traversled som har ett intensivt krux i början. Vidare klättring i 5-registret. Mynnar ut i Direttisimans övre delar. Man kan vika av upp till Trapps insteg via en kort fingerspricka.}}
+{{led|namn=Tripp|grad=6-|typ=trad|fa=Anders Lundahl|text=Tungt laybackhörn leder upp till insteget på Trapp.}}
+| width="250px" |
+{{led|namn=Trapp|grad=6+|typ=trad|fa=Birger Hedlund|text=Fantastiskt fin och varierad klättring på få metrar.}}
+{{led|namn=Trull|grad=3|typ=trad|text=Den litterära fortsättningen på Trapp. Svahörn som drar upp åt vänster.}}
+{{led|namn=Ett anständigt kliv|grad=6+|bultar=2|fa=Rikard Hedman|text=Den logiska fortsättningen på Trapp. Rakt upp och sedan åt höger.}}
+{{led|namn=Borta på vinden|grad=6+|bultar=4|typ=sport|fa=Rikard Hedman|text=Startar några meter till höger om Trapp.}}
+|}
+
+===Pelarområdet===
+Finrningsankare finns några meter in och till höger om Pelarens utsteg.
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Yogapasset|grad=6+|längd=30|fa=[[Buster Delin]], [[Kent Andersson]][[2008|-08]]|bultar=7|typ=mix|text=Starta som Pelaren, men vik av ut åt vänster till det tydliga diedret till vänster om Tromboner i vildmarken. Teknisk stämklättring upp i diedern (krux). Ovanför diedern fortsätter leden upp för ett sva och därefter vidare över två väggpartier upp till toppen. Välsäkrad med sju fasta säkringar och några mellanstora kamkilar och kilar. Leden kan med fördel göras som en svettig 45 m replängd från insteget till toppen.}}
+
+{{led|namn=Tromboner i vildmarken|grad=6|typ=trad|fa=Rikard Hedman}}
+{{led|namn=Pelaren|grad=5|längd=35|typ=trad|text=Tre replängder. Sista replängden startar på Pelarustegshyllan.}}
+| width="250px" |
+{{led|namn=Graces's hörn|grad=5+|längd=10?|typ=trad|text=Ett fint alternativ till Pelarens andra replängd. Följ diedern från standplatshyllan istället för att hasa upp på själva pelaren.}}
+| width="250px" |
+{{led|namn=Stesolid|grad=6+|typ=trad|fa=Rikard Hedman/ Birger Hedman|text=Dubbelrep rekommenderas. Fall inte ned på de spetsiga blocken nedanför.}}
+|}
+
+===Pelarutstegshyllan===
+Firningsankare finns på toppen av Stålfinger.
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Ickevåldskongressen för de sexuellt behövande|grad=8/8+|typ=trad|fa=Martin Jacobsson, 2009|text=Den fria versionen av Stöttepelaren (A2), (FA Per Calleberg 1997). Den knivstunna sprickan ett par meter t h om Pelarens utstegsspricka.}}
+| width="250px" |
+{{led|namn=Doseths pelarutsteg|grad=7+/8-|typ=trad|fa=Hans Christian Doseth, 1981}}
+| width="250px" |
+{{led|namn=Luftfinger|grad=8-|typ=sport|fa=Johan Luhr|text=Numera (maj 2008) sju glada limbultar.}}
+| width="250px" |
+{{led|namn=Stålfinger|grad=7-|typ=trad|fa=Rick McGregor/Eric Grund, sept. 1979}}
+|}
+
+===Mamman och Horan-området===
+Firningsankare finns ovanför Mamman och horans utsteg, på första stand på Sörmlandsleden, och Hugos insteg/Sörmlandsledens utsteg.
+
+'''VARNING!'''<br>
+Stora block har fallit från topphyllan i slutet på "Mamman och horan" och "Sutenören". Det mesta har nu blivit nedtaget men där blocken en gång låg finns öppna jordlager som kommer erodera och risken finns att det stora döda trädet faller ner. Försök att välta trädet har gjorts men misslyckats. Finns även risk att flera andra block bredvid trädet också faller ner inom snar framtid. '''STÖRSTA FÖRSIKTIGHET KRÄVS! SÄKRA ABSOLUT INTE FRÅN TRÄDET!''' ''/Robin Dahlberg 08-04-27''
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{led|namn=Mamman och horan|grad=6-|typ=trad|text=Dieder som leder upp till Pelarutstegshyllan.}}
+{{led|namn=Sutenören|grad=7-|typ=trad|fa=Niklas Bjornerstedt/Lars Widell|text=Har en bult, retrobultad 2006.}}
+| width="250px" |
+{{led|namn=Horungen|grad=5|typ=trad|text=Startar som Sutenören men drar vidare åt höger för att mynna ut i Sörmlandsleden. Fortsätter man Sörmlandsleden finns passage av grad 5+ högre upp.}}
+| width="250px" |
+{{led|namn=Sörmlandsleden|grad=6|typ=trad|text=Startar vid en orange pil. Går hela vägen från botten av klippan till toppen.}}
+|}
+
+===Restaurangkvarteren===
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Kamarina|grad=5+|typ=trad|fa=Justus Stern|text=Namn efter en grekisk krog på Södermalm i Stockholm.}}
+| width="250px" |
+{{led|namn=Fritt kaffe|grad=4+|typ=trad|text=Ett möjligt utsteg till Kamarina. Bredspårig spricka.}}
+| width="250px" |
+{{led|namn=Notan|grad=5|typ=trad|text=Ett andra möjligt utsteg till Kamarina.}}
+|}
+
+===Längs Tunabergstraversen===
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Ceiling|grad=5?|typ=trad|fa=Bertil Dahlin|text=Svaspricka som sneddar upp ifrån vänster till kruxet på Yosemitetaket. Igengrodd i maj 2008.}}
+| width="250px" |
+{{led|namn=Yosemitetaket|grad=7-|typ=mix|fa=Rick McGregor, 25 september 1982|text=En expanderbult på insteget och en limbult i taket sedan maj 2008. Gammal pitong kvar ovanför taket.}}
+| width="250px" |
+{{led|namn=Riksgränsen|grad=7-|typ=trad|fa=Rick McGregor, Ursila Hufva, 25 september 1982|text=En tunn spricka klyver den blanka svaplattan. Intensiv!}}
+| width="250px" |
+{{led|namn=Lunchförstöraren|grad=6|typ=trad|text=Startar i en dubbelspricka några meter till höger om Riksgränsen. Kan vara elak mot fingrarna.}}
+| width="250px" |
+{{led|namn=Mark V|grad=5+|typ=trad|text=Den tydliga taksprickan. Startar i svahörnet för att sedan traversera vänster under taket. Dubbelrep rekommenderas.}}
+|}
+
+===Toppen===
+Lederna upp till krönet av Simonsberget är populära. Inte minst för att de torkar snabbt.
+Det går bra att sätta topprep, men det är långt till träden så ta med något tiotal meter statiskt rep och åtminstone för Toppsprickan några kilar.
+
+Firningsankare finns ovanför Hugo och Josefin, vid insteget på Hugo och vid insteget till Evas spricka.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Kommunismens förfall|grad=6|typ=trad|fa=Peter Brolin/Per Calleberg, 1986|text=Kort spricka längst till vänster.}}
+{{led|namn=Till vänster om toppsprickan|grad=6+|typ=trad|text=Fingerspricka med hård vertikal start. Snällare lutning efter kruxet.}}
+{{led|namn=Toppsprickan|grad=6-|typ=trad|text=Finger- och handspricka i ett dieder.}}
+{{led|namn=Blyga läppar|grad=5|typ=trad|fa=Lars Widell, 1982|text=Rakt upp och sedan travers åt höger. Varierad. Korsar Vad pojkar vill ha.}}
+| width="250px" |
+{{led|namn=Vad pojkar vill ha|grad=6+|bultar=3|typ=sport|fa=Peter Brolin/Per Calleberg, 1987|text=Något för svafantasterna.}}
+{{led|namn=Evas spricka är vad pojkar vill ha|grad=5|typ=trad|fa=Hilding Gnöters, Nov 2010|text=Kombo. Börja i "Vad pojkar..." och avsluta i "Evas spricka"}}
+{{led|namn=Evas spricka|grad=5|typ=trad|text=Härlig välsäkrad handjamsspricka som är ett måste vid Tunabergsbesök.}}
+{{led|namn=Fräcka händer|grad=4|längd=12|typ=trad}}
+{{led|namn=Tramsiga tår|grad=5-|typ=trad|text=Startar som Fräcka händer men drar åt höger.}}
+| width="250px" |
+{{litentext|text=Hugo och Josefin leder båda upp till hyllan under Toppsprickan. På väggen ovanför hyllan finns ett bastant firningsankare för nedfirning till instegen. Med lite förlängningsslingor kan ankaret också användas för att toppa i.}}
+{{led|namn=Hugo|grad=5-|längd=11|typ=trad|text=En ganska bökig historia.}}
+{{led|namn=Josefin|grad=5-|längd=10|typ=trad|text=Enda felet med denna led är att den tar slut för fort...}}
+|}
+
+===Under Toppen===
+Firningsankare finns på Kirsti Himmelsfärds första stand.
+
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Barres de Tunaberg|grad=6|typ=trad|fa=Lars Grankvist}}
+{{led|namn=Zig|grad=6-|typ=trad|text=Brant hörn ovanför Barres de Tunaberg. Fortsätter vidare uppåt till Toppsprickan.}}
+| width="250px" |
+{{led|namn=Kirsti himmelsfärd|grad=6-|typ=trad|fa=Kirsti Norhaug}}
+| width="250px" |
+{{led|namn=Zack|grad=5|typ=trad|text=Svårgraderad start direkt efter Kirsti himmelsfärd. Fortsätter vidare uppåt till Evas spricka.}}
+|}
+
+===Fissurplattan===
+{{led|namn=Fissuren|grad=3-|typ=trad|längd=9}}
+{{led|namn=Lottas spricka|grad=5-|typ=trad|längd=9}}
+
+===Dimhyllan===
+{{led|namn=Dimmornas bro|grad=5|typ=trad|}}
+{{led|namn=Tjänsteconcorden|grad=?|typ=trad}}
+
+===Änglamarken===
+===Klinkers kamin och Svärfarsområdet===
+Firningsankare finns ovanför Crack/Krisches hörn och vid Gorillans utsteg (ca 7m till vänster om svärfar). Ett 60m rep räcker hela vägen ner från Gorillan till insteget på Krisches hörn.
+{|
+|- valign="top"
+| width="250px" |
+{{led|namn=Klinkers Kamin|grad=4+|typ=trad|text=Startar långt till vänster på den gräsbevuxna långa och rymliga hylla som löper från Klinkers Kamin till Svärfar ungefär. Insteget ligger som sagt till längst till vänster, t v om den mer uppenbara Bertils Layback. Den består av lite sprickor och mantlingar och leder upp till det flacka sva som utgör stand innan den andra och brantare replängden. Andra replängden går i den mycket tydliga kaminen, och är svårare än första repan, men inte mer än graden. Kaminen är rymlig och kräver kaminklättring endast om det står högt på önskelistan. Båda replängderna är tämligen välsäkrade. Första replängden kanske något oborstad, då den oftast ersätts av Bertils Layback. |fa=Olle Klinker}}
+{{led|namn=Bertils Layback|grad=4+|typ=trad|text=Startar t h om Klinkers Kamin, t v om "Den gamla Ringbulten". Uppenbar laybackspricka, som övergår i grövre spricksystem med lite etappvis klättring. Välsäkrad och finare insteg till Klinkers Kamin.|fa=Bertil Holmqvist}}
+
+{{led|namn=Perfidia|grad=6+|typ=trad|text=Startar mellan Stenknäcken och Krisches hörn och leder via svan och säkringsvänliga tvärsprickor upp till en spricka där det går att säkra. Lite krystad men ändå inte samt något sparsamt säkrad.|fa=Erik Massih, Martin Jakobsson}}
+{{led|namn=Krisches hörn|grad=5+|typ=trad|text=Startar till vänster om Crack och leder upp till hyllan ovanför.}}
+{{led|namn=Crack|grad=7+|typ=trad|text=En mycket sned och svår fingerspricka klyver en i övrigt blank vägg.}}
+| width="250px" |
+{{led|namn=Röda halvmånen|grad=4+|typ=trad|text=En fin fingerspricka till höger runt hörnet på Crack.}}
+{{led|namn=Gorillan|grad=4|typ=trad|text=Spricka i den tydliga vänstra diedern ovanför Krisches hörn. Ganska skitig (-09)}}
+{{led|namn=Sprickan|grad=4|typ=trad|text=Hyfsad jamspricka. Något skitig (-09) och en hel del löst.}}
+| width="250px" |
+{{led|namn=Svärfar|grad=3+|typ=trad|betyg=3|fa=Bertil Holmqvist}}
+|}
+
+===Justus filurer===
+===Ovanför Justus filurer===
+
+==Bultlogg==
+===2012===
+* {{ledlänk|namn=Holländskt porslin}} har fått de gamla (borttagna och igenspacklade) borrbultarna utbytta mot nya expanderbultar, i samband med fribestigningen. Turen säkras nu med fyra bb och lite eget.
+*{{ledlänk|namn=Flink och flärdig}} har fått sina tre bultar utbytta. Man måste fortfarande lägga lite eget på turen.
+
+===2008===
+Bultade ankare bestående av dubbla Petzl limbultar, där varje bult har två stora Maillon länkar (utom #9 som har 1st mindre Maillon). Ankarna sitter där därför att det på dessa platser finns (i vissa fall fanns) träd som hade tydliga slitspår från nerdragna firningsrep. Det är inte tillåtet att fira av från träd längre om man tänker dra ner repet efter sig. Några träd är också borta. Lista på dessa följer. Ankare:
+
+# Ovanför "Himlastegen". Några meter till höger om det gamla döda trädet som alla brukade fira ifrån (finns ej mer). 60m rep räcker dubbelt ner.
+# Första stand på "Dirretissiman", bakom trädet.
+# Toppen av "Dirretissiman", ovanför en gammal krokig tall, på väggen.
+# Toppen av "Pelaren" (några meter in och någon meter till höger om utsteget). Några meter till höger om enen som brukar användas som stand.
+# Toppen av "Stålfinger", någon meter till vänster, på plata klipphällen. För stand rakt ovanför insteget fungerar stand i trädet bättre.
+# Till höger om insteget på "Stålfinger". (på slabben ca 10m höger om insteget - dvs ovanför leden "Mamman och horan"
+# Ovanför "Hugo" och "Josefin" (på väggen ovanför utstegen)
+# Insteget på "Hugo" (på väggen till vänster om insteget)
+# Första stand på "Sörmlandsleden" - dvs rakt under ankaret vid "Hugo"
+# Nedanför "Evas spricka" (på stora stenen vid tallen)
+# Första stand på "Kirsti flygare" (dvs rakt nedanför ankaret vid "Evas spricka"
+# Utsteget på "Gorillan"- dvs ca 7m vänster om utsteget på "Svärfar" (på bullen)
+# Hyllan nedanför "Gorillan" - dvs ovanför "Krisches hörn" och "Crack"
+# Zack
+
+Träd som inte finns längre:
+* Stora döda tallen ovanför Himlastegen.
+* Lilla döda tallen strax bredvid ovan nämnda tall.
+* Lilla högra tallen ovanför Josefin
+* Tallen vid första stand på Kirsti Himmelfärd (sitter ankare på väggen där). Togs bort för att den barrar.
+* Lilla tallen vid första stand på Barres de Tunaberg (finns en liten Ek kvar där att göra stand i om man vill. Tallen togs bort för att den barrar.
+
+Nya bultar:
+* {{ledlänk|namn=Katedralen}}.
+* {{ledlänk|namn=Luftfinger}} Limbultar.
+* {{ledlänk|namn=Yosemitetaket}} Expanderbult + limbult.
+
+OBS! Det finns fortfarande några mindre träd och sly som skall bort från hyllor. Länsstyrelsen har gett Torbjörn Ohlén tillstånd att göra ovanstående åtgärder på berget. Det är INTE tillåtet att bulta eller såga ner träd utan tillstånd.
+
+===2006===
+* {{ledlänk|namn=Ett anständigt kliv}} Expanderbultar.
+* {{ledlänk|namn=Borta på vinden}} Expanderbultar.
+* {{ledlänk|namn=Sutenören}} Limbult.
+* {{ledlänk|namn=Aeroflott}} Limbultar.
+
+===2003===
+{{ledlänk|namn=Vad pojkar vill ha}} Limbultar.
+
+{{tryckt förare|klättring i södermanland (2006)=ja}}
+
+==Externa länkar==
+Förare tillhandahållen av [http://www.linkopingsklatterklubb.se/tl_files/forare/simonsberget-v0.6.0-2010-06-16.pdf Linköpings klätterklubb].
+
+[[Kategori:Trad]][[Kategori:Vertikalt]][[Kategori:Sva]]
+[[Kategori:Södermanland]]
+
+==Annons för torp vid Tunaberg==
+Ett litet torp nära Simonsberget hyres ut 
+[[Användare:Kjell/Annons|torpet]]

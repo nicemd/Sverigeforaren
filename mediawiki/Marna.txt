@@ -1,0 +1,21 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Insulinrusch|grad=6A+|typ=Krimp,Överhäng,Aréte|fa=Jon Kågström|landning=2|betyg=1|fadatum=2004-05-24|sopad=Jon Kågström|sittstart=ja|text=Sittstart under areten, rakt upp.}}
+{{problem|namn=Granityoga|grad=6B+|typ=Krimp,Överhäng,Aréte|fa=Jon Kågström|landning=2|betyg=2|fadatum=2004-05-24|sopad=Jon Kågström|sittstart=ja|uteslutningar=ja|text=Sittstart till vänster om areten, rakt upp. Areten och allt till vänster är med.}}
+| width="250px" |
+{{problem|namn=Yerba Mate|grad=6A|typ=Slab|fa=Johan Andersson|landning=4|fadatum=2004-05-24|sopad=Johan Andersson|text=slabben på stora blocket}}
+{{problem|namn=Vidgade vyer|grad=6A+|typ=Krimp,Slopers|fa=Christofer Björklund|landning=2|betyg=2|fadatum=2004-05-05|sopad=Christofer Björklund|text=Startar th om trädet som växer mot stenen, svingstart med vänster hand på jug. Går sedan rakt upp!}}
+| width="250px" |
+{{problem|namn=Kraftlös|grad=6A|typ=Krimp|fa=Christofer Björklund & Jon Kågström|landning=2|fadatum=2006-09-23|sopad=Christofer Björklund & Jon Kågström|uteslutningar=ja|text=Startar ca:2 meter tv om areten, gå sedan rakt upp utan att använda areten.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

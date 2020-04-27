@@ -1,0 +1,20 @@
+{{stub}}
+
+==Allmänt==
+Sprängvägg vid trafikplats Vida Vättern (trafikplats nr 105 vid E4:an nära Gränna), på östra sidan om E4:an. Korsas av en tydlig spricka, klippans enda led.
+
+==Leder==
+
+{{led|nr=1|namn=Polkagrisen|grad=4+|typ=trad|bultar=|längd=8|fa=[[Per Calleberg]] -87|text=Den tydliga sprickan mitt på väggen. Syns väl från E4:an}}
+
+[[Bild:Polkagrisen.jpg|thumb|300px|right|Per Calleberg gör förstabestigningen av Polkagrisen. Foto: Per Callebergs arkiv]]
+
+[[Kategori:trad]]
+
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

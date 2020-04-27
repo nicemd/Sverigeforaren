@@ -1,0 +1,45 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+ {{utkast}} 
+<!-- {{komplett}} -->
+
+==Allmänt==
+Det finns för tillfället tre stycken lätta bultade leder, 7-12 meter i graderna 4b, 4c och 5a på denna klippa. 
+==Vägbeskrivning==
+
+Klippan ligger vid Stora Högaskolan i Stora Höga, strax norr om Göteborg. Sök på Eniro för vägbeskrivning. Synlig ifrån vägen.
+
+==Leder==
+{{led|namn=?|grad=4b|fa=Jens Larssen (2009)}}
+{{led|namn=?|grad=4c|fa=Jens Larssen (2009)}}
+{{led|namn=?|grad=5a|fa=Jens Larssen (2009)}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+==Länk==
+http://www.8a.nu/forum/ViewForumThread.aspx?ObjectId=5745&ObjectClass=CLS_UserBlogComment&CountryCode=CZE 
+
+[[Kategori:sport]] 
+[[Kategori:sva]]
+
+==Bilder==
+[[bild:stora_hoga_bild1.jpg|300px|thumb|right|Topprepsklättring på Stora höga]]
+
+[[bild:stora_hoga_bild2.jpg|300px|thumb||left|Berget måste klättras också]]
+
+[[bild:stora_hoga_bild3.jpg|300px|thumb|right|En rolig eftermiddag. ]]
+
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Bohuslän]]
+[[Kategori:Göteborg]]

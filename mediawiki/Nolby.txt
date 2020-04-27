@@ -1,0 +1,57 @@
+{{utkast}}
+==Allmänt==
+Liten sportklippa vid Nolbybacken. Lederna här är ganska korta men håller ändå ganska hög klass.
+
+==Vägbeskrivning==
+<googlemap version="0.9" lat="62.304565" lon="17.374706" type="map">62.30277, 17.367496</googlemap>
+Från Sundsvall:
+Följ E4:an söderut till Kvissleby. Sväng av åt höger, skyltat ''Nolbykullen''. Ta sedan direkt vänster, dvs '''ej''' mot Nolbybacken.
+Ta sedan höger på ''Nyavägen''. Sväng sedan höger igen på ''Trastvägen''. Parkera på grusvägen 50m innan bommen.
+
+Promenera vidare längs vägen. 20 meter efter en blå container så finns en stig som går upp åt höger. Följ den 50m så är ni vid klippan.
+
+==Miljö==
+Huvudsaklingen nordvänd kompakt klippa. Skogen är ganska gles vid klippan, så den torkar ganska snabbt.
+
+==Leder==
+[[Bild:nolby.jpg|frame|1.Projekt A  2.Hårdrocksväggen  3.Övreväggen, högra  4.Övreväggen, vänstra  5.Baksidan]]
+
+===Projekt A-väggen===
+[[Bild:Texaschainsaw.jpg|frame|Elin klättrar Texas chainsaw massacre, 5a. Foto: Fredrik Nyberg.]]
+Den första väggen som man kommer upp till från stigen.
+{{led|namn=Creation of the imagination|grad=7c|betyg=0|längd=8|fa=[[??]] [[2003|-03]]|bultar=3|typ=sport|text=Överhangande klättring med mycket undercling och sidepull.}}
+{{led|namn=Projekt A|grad=6c+|betyg=1|längd=10|fa=[[??]] [[2001|-01]]|bultar=4|typ=sport|text=Följer borrbultslinjen snett upp åt höger. Amerikaankare.}}
+{{led|namn=Torsk i tallen|grad=6c|betyg=1|längd=12|fa=[[??]] [[2001|-01]]|bultar=5|typ=sport|text=Gemensamt ankare med '''Bängel'''.}}
+{{led|namn=Bängel|grad=7a|betyg=1|längd=12|fa=[[??]] [[2001|-01]]|bultar=5|typ=sport|text=Gemensamt ankare med '''Torsk i tallen'''.}}
+{{led|namn=Senslessness|grad=7c|betyg=2|längd=18|fa=[[??]] [[2002|-02]]|bultar=7|typ=sport|text=Går till toppen. Delikat och varierande klättring.}}
+{{led|namn=Crazy frog|grad=6a|betyg=0|längd=7|fa=[[??]] [[2005|-05]]|bultar=3|typ=sport|text=Startkrux. Ankare.}}
+{{led|namn=Painkiller|grad=7c|betyg=1|längd=7|fa=[[??]] [[2002|-02]]|bultar=3|typ=sport|text=Kruxklättring längs arete'.}}
+
+===Hårdrocksväggen===
+Nästa vägg till höger om ''Projekt A-väggen''.
+{{led|namn=Slaugterhouse|grad=6b|betyg=1|längd=10|fa=[[??]] [[2002|-02]]|bultar=5|typ=sport|text=Samma insteg som '''Fear of the dark'''. Efter 2 BB traverserar man vänster. Ankare.}}
+{{led|namn=Fear of the dark|grad=7a|betyg=1|längd=10|fa=[[??]] [[2001|-01]]|bultar=5|typ=sport|text=Rakt upp. Ankare.}}
+{{led|namn=Night comes down|grad=6a+|betyg=2|längd=10|fa=[[??]] [[2001|-01]]|bultar=5|typ=sport|text=Stora grepp och brant för graden. Ankare.}}
+{{led|namn=Speak to me|grad=5c|betyg=0|längd=10|fa=[[??]] [[2002|-02]]|bultar=5|typ=sport|text=Andra halvan går genom ett dieder. Gemensamt ankare med '''Night comes down'''.}}
+{{led|namn=Paranoid|grad=6c|betyg=2|längd=10|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Brant på stora grepp. Ankare.}}
+{{led|namn=I was made for loving you|grad=6c|betyg=1|längd=10|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Ankare.}}
+
+===Övreväggen, högra===
+Ligger ovanför ''Projekt A-väggen''. ''Senslessness'' kommer upp i klippans vänsterkant.
+{{led|namn=Hjärtats fröjd|grad=5c|betyg=1|längd=10|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Första två bultarna gemensama med '''Way of the samurai'''. Viker sedan av åt höger längs en spricka.}}
+{{led|namn=Way of the samurai|grad=7a|betyg=1|längd=10|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Rakt upp. Ankare. Det finns en statisk variant ut till höger efter sista bulten - '''Ninja trick, 6b'''.}}
+{{led|namn=Texas chainsaw massacre|grad=5a|betyg=1|längd=8|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Spricklinje.}}
+
+===Övreväggen, vänstra===
+[[Bild:Musliexpressen.jpg|frame|Elin tar i på Musliexpressen, 6a. Foto: Fredrik Nyberg]]
+Ligger övanför ''Projekt A-väggen''. Lättaste sättet att ta sig upp hit är med ett fast rep till vänster om ''Projekt A-väggen''.
+{{led|namn=What do you want from me|grad=6a|betyg=0|längd=8|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Ankare finns långt uppe på toppen.}}
+{{led|namn=TNT|grad=6c+|betyg=0|längd=8|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Ankare finns långt uppe på toppen.}}
+{{led|namn=For those about to rock|grad=6b|betyg=0|längd=10|fa=[[??]] [[2002|-02]]|bultar=4|typ=sport|text=Leden startar i skrevan. Ankare finns långt uppe på toppen.}}
+
+===Baksidan===
+Ligger till vänster om ''Övreväggen, vänstra''.
+{{led|namn=Müsliexpressen|grad=6a|betyg=0|längd=6|fa=[[??]] [[2002|-02]]|bultar=3|typ=sport}}
+
+[[Kategori:Sport]]
+[[Kategori:Medelpad]]

@@ -1,0 +1,109 @@
+{{info klippa
+  |lat=57.90224
+  |long=16.40421
+}}
+
+{{komplett}}
+
+==Allmänt==
+Garpedansberget bjuder på mycket fin lodrät och överhängande klättring och är som högst 17 m högt. Det är klättring på mycket fast röd granit. Det finns flera leder med mycket hög kvalitet och som kräver god teknik och problemlösningsförmåga. Ett av Sveriges bästa berg i den typ av klättring som finns. En utmaning som absolut är värd att besöka om du klättrar i de övre svårighetsgraderna. Du har också en underbar utsikt över Gamlebyviken.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.90224" lon="16.40421" type="map" zoom="13">
+57.90224, 16.40421
+Dynestad
+</googlemap>
+</div>
+
+Klippan ligger ca 25 km norr om Västervik. Kör av E22 den nordliga avfarten mot Gamleby och sedan ca 1 km förbi färgfabriken på vänster sida tills du kommer till en nedlagd bensinstation på höger sida. Parkera här och fortsätt att gå upp till vänster bland husen 300 m till berget som är väl synligt från vägen. Klippan är lättillgänglig och barnvänlig.
+
+
+<div style="clear:both"></div>
+
+==Övrigt==
+I början av 90-talet klättrade Jim Wasmuth leden “Pieta” som först graderades till 7c. Den har kontinuerligt uppgraderats. Nu är den 8a+. Det var med all sannolikhet sveriges svåraste led då. Under 20 år efter förstabestigningen har den endast fått två repetitioner. Många duktiga klättrare har försökt. Väggen är vänd mot syd och får sol på sommaren efter ca kl.10.00. Den torkar relativt snabbt efter regn. Klippan har 11 leder som särskilt rekommenderas.
+
+===Övernattning===
+Camping finns på KustCamp vid Hammarsbadet lsom ligger 2 km sydost om Gamleby centrum tel 0493-10221
+www.campa.se, Överums vandrarhem tel 0493-30302 www.overum.nu, stugor och camping har Risebo fritid,
+tel 0493-33046, www.risebofritid.se, camping och stugor finns på Lysingsbadet i Västervik tel 0490-258000
+www.lysingsbadet.se, stugor har Tofvehults café och konferens tel 0490-26351 www.tofvehult.se och på Live in
+Nature på Kallersnäs gård tel 0768-513090 www.liveinnature.se
+
+===Affärer===
+Närmaste livsmedelsaffär ICA finns i Gamleby centrum 1 km från klippan. Närmaste bensinstation Bilia och Preem finns i Gamleby.
+
+===Klättercenter===
+Mötesplatsen för klättrare är på centret i Västervik, Repslagargatan 5, vid gamla vattentornet. Där kan man koppla upp sig gratis på trådlöst internet, eller låna en dator. En plats att mötas på, utbyta erfarenheter, läsa klättertidningar, se klätterfilmer och även få aktuell information om klättringen och andra aktiviteter i kommunen. En plats där man kan klättra inomhus och lära känna andra klättrare. Ring 0490-37466 för mer information.
+
+{{sidbrytning}}
+==Förare==
+
+[[Bild:Garpedans1.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1|namn=Dans dela garpe|grad=6b|fa=Johan Strömstad -89|längd=10|bultar=|typ=sport|text=kil led, 150 m till vänster}}
+{{led|nr=2|namn=Poga din ponkare|grad=7b|fa=Patrik Andersson -89|längd=12|bultar=|typ=sport|text=mixad led, till vänster}}
+{{led|nr=3|namn=Feta läppar|grad=6c+|fa=Patrik andersson -89|längd=10|bultar=4|typ=sport|text=}}
+{{led|nr=4|namn=Flickan med kalejdoskopet|grad=6b|fa=Johan Hedkvist -89|längd=14|bultar=5|typ=sport|text=}}
+{{led|nr=5|namn=Bolero|grad=6c|fa=Jim Wasmuth -89|längd=14|bultar=5|typ=sport|text=}}
+{{led|nr=6|namn=Hammarhjärta|grad=6c|fa=Johan Hedkvist -89|längd=14|bultar=|typ=sport|text=kil led, orensad}}
+
+| width="300px" |
+
+{{led|nr=7|namn=Bultat hjärta|grad=6c|fa=Jim Wasmuth -89|längd=14|bultar=5|typ=sport|text=}}
+{{led|nr=8|namn=Sup dig snygg|grad=7a|fa=Patrik Andersson -90|längd=15|bultar=7|typ=sport|text=}}
+{{led|nr=9|namn=Burton|grad=7b|fa=Jim Wasmuth -90|längd=14|bultar=5|typ=sport|text=}}
+{{led|nr=10|namn=Blå grodorna|grad=7c|fa=Johan Luhr -02|längd=14|bultar=5|typ=sport|text=}}
+{{led|nr=11|namn=Pieta|grad=8a+|fa=Jim Wasmuth -90|längd=15|bultar=7|typ=sport|text=}}
+{{led|nr=12|namn=Rosa på bal|grad=7b+|fa=Patrik Andersson -90|längd=15|bultar=7|typ=sport|text=}}
+{{led|nr=13|namn=Megadans|grad=7 b|fa=Patrik Andersson -90|längd=15|bultar=7|typ=sport|text=}}
+|}
+
+{{sidbrytning}}
+[[bild:Garpedans2.png]]
+
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=14|namn=Jolly|grad=6b|fa=Johan Luhr -01|längd=8|bultar=5|typ=sport|text=}}
+{{led|nr=15|namn=Tejp|grad=6c|fa=Johan Luhr -01|längd=8|bultar=5|typ=sport|text=}}
+{{led|nr=16|namn=Ge mig en grogg|grad=7b+|fa=Johan Luhr -03|längd=8|bultar=|typ=sport|text=}}
+{{led|nr=17|namn=Boys don´t cry|grad=7c|fa=Johan Luhr -00|längd=8|bultar=5|typ=sport|text=}}
+{{led|nr=18|namn=Äventyrsklättraren|grad=6c|fa=Jim Wasmuth -89|längd=16|bultar=|typ=sport|text=kil led, orensad}}
+{{led|nr=19|namn=Mango tango|grad=7b|fa=Jim Wasmuth -89|längd=12|bultar=6|typ=sport|text=}}
+{{led|nr=20|namn=Garpedansen|grad=6c|fa=Jim Wasmuth -89|längd=14|bultar=7|typ=sport|text=ut till höger på hyllan}}
+
+| width="300px" |
+
+{{led|nr=21|namn=Stone cold|grad=8a|fa=Johan Luhr -92|längd=10|bultar=5|typ=sport|text=}}
+{{led|nr=22|namn=Flickorna i Småland|grad=7b|fa=Jim Wasmuth -89|längd=17|bultar=8|typ=sport|text=en spännande pärla}}
+{{led|nr=23|namn=E66|grad=6c+|fa=Jim Wasmuth -89|längd=12|bultar=6|typ=sport|text=}}
+{{led|nr=24|namn=Garpe diem|grad=7c|fa=Nicklas Enlund -07|längd=8|bultar=4|typ=sport|text=}}
+{{led|nr=25|namn=Spin|grad=7a+|fa=Johan Luhr -03|längd=8|bultar=4|typ=sport|text=ligger ca 250 m till höger}}
+{{led|nr=26|namn=Supra|grad=7b|fa=Johan Luhr -03|längd=6|bultar=3|typ=sport|text=ligger ca 250 m till höger}}
+|}
+
+Förare gjord av Västervik Climbing kan hittas på [http://www.vastervikclimbing.se/klattercentret/pdfer/ www.vastervikclimbing.se].
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

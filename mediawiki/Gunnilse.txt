@@ -1,0 +1,52 @@
+{{info klippa
+  |lat=57.79273
+  |long=12.07582
+}}
+
+{{stub}}
+<googlemap lat="57.79273" lon="12.07582" zoom="9" type="map">
+57.79273,12.07582,Gunnilse
+</googlemap>
+ [[Kategori:överhäng]]
+[[Kategori:sport]]
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+==Allmänt==
+Trevligt ställe. Finfin approach, mjuk och fin klippa med stora grepp. 
+==Leder==
+[[bild:gunnilse_oversikt.jpg]] 
+{{led|namn=Gröna Lund|grad=5a}}
+
+{{led|fa=|namn=Rampen|grad=4+ r/x|typ=trad|fa=|text=Rampen längst till vänster, därefter diedret. Sista säkringen är i början av diedret. }}
+{{led|namn=Junibacken|grad=5a+|typ=sport}}
+{{led|namn=Liseberg|grad=6c|typ=topprep|text=Använd Junibackens topprepsankare|fa=}}
+{{led|fa=|namn=Biceps Femoris|grad=6c|typ=}}
+{{led|fa=|namn=Elefantöra|grad=6c|typ=sport|fa=Henrik Sennelöv och Lars Ingemansson|text=Det finns numera bult så det går att säkert klättra ifrån Elefantöra till Biceps femoris, 7b|betyg=1}}
+{{led|fa=|namn=Triceps|grad=7a|typ=|betyg=4}}
+{{led|fa=Henrik Sennelöv & Lars Ingemansson|namn=90 000|grad=7|typ=mix}}
+{{led|fa=|namn=Giraffhals|grad=6+|typ=mix}}
+{{led|namn=Deltoideus|fa=Olof Hedberg|grad=6+|typ=trad|ny=1}}
+{{led|namn=Girafföra|grad=6+|fa=Olof Hedberg|ny=1|typ=trad}}
+{{led|fa=|namn=Mea Culpa|grad=6c+|typ=}}
+{{led|fa=|namn=Latissimus|grad=6c|typ=sport|betyg=5|text=Långa drag över stora grepp. }}
+{{led|fa=|namn=Skällande hundar|grad=6c+|typ=|betyg=2}}
+{{led|fa=|namn=Lagom är bäst|grad=7|typ=}}
+{{led|fa=|namn=Betjänten|grad=7b+|typ=}}
+{{led|fa=|namn=Greven 8a+|grad=8a+|typ=sport}}
+{{led|fa=|namn=Skål|grad=6c|typ=sport|betyg=2}}
+{{led|namn=och grattis|grad=6a+|typ=sport|text=Utstegsvariant på Skål|fa=Jens Larssen}}
+{{led|fa=|namn=Nionde månaden|grad=6-|typ=trad|text=|betyg=2}}
+{{led|fa=|namn=Nada|grad=6-|typ=trad}}
+{{led|namn=Letterbox|grad=5b/6-|fa=Charles French and Anette Kinde|fadatum=2007|ny=1|typ=sport|bultar=4|text=Bultad av Joakim Andersson 2013. Från ankaret kan Nada och Petitess topprepas.}}
+{{led|fa=|namn=Petitess utan finess|grad=6-|typ=trad}}
+{{led|fa=|namn=Telefonstolpen|grad=6a+|typ=sport|betyg=3|text=Bakom telefonstolpen. }}
+{{led|fa=|namn=Bagatell|grad=6+|typ=}}
+{{led|fa=|namn=Evas led|grad=4+|typ=trad}}
+{{led|fa=|namn=Glader|grad=6a+|typ=|betyg=2}}
+{{led|fa=Jonas Emanuelsson|namn=Arboristerna|grad=6b|typ=sport|ny=1|text=By Jonas Emanuelsson / Jens Larssen August 2013, 6b eller 6a+}}
+{{led|fa=|namn=Knytes Aréte|grad=4-|typ=|betyg=4}}
+
+==Enigma==
+En klippa en bit bort.
+{{led|namn=Enigma|grad=7b|fa=Lars Ingemansson|typ=sport}}
+
+[[Kategori:Göteborg]]

@@ -1,0 +1,50 @@
+{{info klippa
+  |lat=57.83821
+  |long=11.73966
+}}
+[[Kategori:3 stjärnor]]
+{{stub|extern=ja}}
+<googlemap lat="57.83821" lon="11.73966" zoom="9" type="map">
+57.83821,11.73966,Hållsunga
+</googlemap>
+
+==Allmänt==
+Området har 28 leder från 5c till 8b. Det mesta runt 6c.  Klippan är vass men håller god kvalité.
+
+==Access==
+Visa hänsyn till Kungälvs trevligaste markägare.
+
+{{AccessDB|hallsunga}}
+
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+'''Extern förare:''' http://www.gbg-guiden.info/site/archives/karna_v16.pdf
+
+==Leder==
+{{led|namn=Funky town|grad=7a|längd=10|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=|text=}}
+{{led|namn=Birka|grad=7a|längd=10|typ=sport|fa=[[Johan Luhr]] [[2002]]|betyg=|text=}}
+{{led|namn=Myran|grad=5c|längd=10|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=|text=}}
+{{led|namn=Gates|grad=7b|längd=10|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=1|text=}}
+{{led|namn=Gates power|grad=7c+|längd=15|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]], FFA [[Jens Larsen]] 2003|betyg=|text=}}
+{{led|namn=Will power|grad=8a+|längd=15|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]], FFA [[Magnus Högström]] 2004|betyg=|text=}}
+{{led|namn=Fankydelic|grad=6c+|längd=12|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=3|text=Onsightvänlig. Ett fågelbo precis under ankaret (juni -12), oklart om det är bebott. Det går bra att använda föregående leds ankare dock blir det svårare (om än helt görbart) att rensa.}}
+{{led|namn=No thinking|grad=7b|längd=10|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=1|text=}}
+{{led|namn=Till tops beste far|grad=6b+|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|typ=sport|betyg=3|text=}}
+{{led|namn=Modesty Blaise |grad=6a|typ=sport |fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]| betyg=3 | text= Fin Varierad klättring.}}
+{{led|namn=Bill|grad=6a|typ=sport |fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]| text= en kort men fin led. }}
+{{led|namn=Bull|grad=6b|typ=sport | fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|text= en kort fin led. Känns egentligen som en boulder.}}
+{{led|namn=Ball|grad=6b+|längd=20|typ=sport|fa=[[Jens Larsen]] [[2006]]|betyg=|text=Fortsättningen på Bull.}}
+{{led|namn=Funky business|grad=7b+|längd=15|typ=sport|fa=[[Johan Luhr]] [[2002]]|betyg=3|text=}}
+{{led|namn=Back to business|grad=8b|längd=15|typ=sport|fa=[[Jens Larsen]] [[2005]], FFA [[Magnus Högström]] 2005|betyg=|text=Direktstarten till Monkey business.}}
+{{led|namn=Monkey business|grad=7c+|längd=15|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=2|text=Startar i hörnet, men går snart ut mitt på den branta väggen.}}
+{{led|namn=Dracula|grad=6c+|längd=15|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=|text=Dieder.}}
+{{led|namn=Hulken|grad=7a+|längd=15|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=|text=}}
+{{led|namn=Frankenstein|grad=6c+|längd=15|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2002]]|betyg=2|text=Crimpig väggklättring.}}
+{{led|namn=Hannibal|grad=6c|längd=15|typ=sport|fa=[[Jens Larsen]] [[2004]]|betyg=|text=Arete.}}
+Nästa tre leder har samma insteg
+{{led|namn=Till Ulrica |fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2003]]| grad=5c|text=Dieder.}}
+{{led|namn=Old kids on the block|grad=6c|längd=15|typ=sport|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2003]]|betyg=|text=Takpassage.}}
+{{led|namn=Big Brother | grad=6a+|fa=[[Ludwig Hansson]], [[Jens Larsen]] [[2003]]}}
+
+
+[[Kategori:Göteborg]]

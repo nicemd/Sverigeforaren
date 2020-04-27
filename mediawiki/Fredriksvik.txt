@@ -1,0 +1,68 @@
+{{info klippa
+  |lat=59.32450
+  |long=18.19870
+}}
+
+{{utkast}}
+
+==Allmänt==
+Bred och hög klippa på Nacka. Halvöppet läge. Tyvärr är klippan ganska rutten. Ser ändå ut att finnas potential för fler leder. Ligger i närheten av [[Nyckelviksberget]].
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.32450" lon="18.19870" zoom="14" type="map" controls="small">
+59.32450,18.19870,[[Fredriksvik]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Fredriksvik
+lat=18198700
+long=59324500
+</slresa>
+</div> 
+
+Kör Värmdöleden 222 mot Nacka. Sväng av precis före skurubron och kör Skurusundsvägen under motorvägen. Sväng vänster in på Kristiniedalsvägen som sedan blir Utskogsvägen. Parkera vid Sten Stures Väg. 
+
+Gå tillbaka till ängen innan Sten Stures Väg och följ stigen som sneddar över ängen. Vid skogsbrynet håll höger och följ stig skyltad Fredriksvik. Klippan dyker upp på höger sida efter ca 300m.
+
+På ängens vänstra sida finns en överhängande boulderklippa med kritrester. 
+<div style="clear:right;"></div>
+==Leder==
+Dessa två okända leder går nästan nere vid huset.
+
+{{led|namn=Okänd 1|grad=?|betyg=|längd=|fa=|bultar=|typ=sport|text=Saknar hängare}}
+
+{{led|namn=Okänd 2|grad=?|betyg=|längd=|fa=|bultar=|typ=sport|text=Saknar hängare}}
+
+Sedan kommer dessa två efter det stora hörnet?
+
+{{led|namn=Altari|grad=5|betyg=|längd=|fa=[[Maria Johansson]], [[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport}}
+
+{{led|namn=Vega|grad=7+|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport}}
+
+Och lite närmare skogen går troligtvis dessa leder. Tyvärr är det svårt att veta vilken som är vilken.
+
+{{led|namn=Bellatrix|grad=6-|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport}}
+
+{{led|namn=Capella|grad=6+|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport}}
+
+{{led|namn=Projekt1|grad=?|betyg=|längd=|fa=|bultar=|typ=projekt}}
+
+{{led|namn=Castor|grad=7a|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport|text=Härliga flytt genom kruxet! Förväxlad med Pollux i tryckta Stockholmsföraren.}}
+
+{{led|namn=Pollux|grad=6b+|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport|text=Trevligare än den ser ut. Förväxlad med Castor i tryckta Stockholmsföraren.}}
+
+Efter uppstigningsrännan går dessa tre:
+
+{{led|namn=Rigel|grad=6-|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport|text=Saknar hängare}}
+
+{{led|namn=Mira|grad=6-|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sport|text=Saknar hängare}}
+
+{{led|namn=Deneb|grad=6|betyg=|längd=|fa=[[Johan Luhr]] [[1998|-98]]|bultar=|typ=sporttext|text=Saknar hängare}}
+
+[[Kategori:Sport]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Stockholm]]
+[[Kategori:Saknar skiss]]

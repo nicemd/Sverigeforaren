@@ -1,0 +1,61 @@
+{{info klippa
+  |lat=62.303020
+  |long=17.303700
+}}
+
+{{utkast}}
+==Allmänt==
+En klippa som erbjuder både sport, mix och trad. Lederna är mellan 10-20m och potential finns för riktigt hårda leder då klippan är extremt överhängande och gör rätt för sitt smeknamn "lilla Frankenjura".
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="62.310529" lon="17.216692" zoom="11" type="map">
+62.310529,17.216692,Tunomsberget
+</googlemap>
+</div>
+Sväng av E4:an mot Matfors/Nolby. Kommer du söderifrån är detta strax innan Kvissleby. Åk genom samhället (Nolby), och fortsätt 8km. Ni passerar en grusväg till höger med skyltning mot Alsta och efter ca 200m kommer en grusparkering på vänster sida. Ni följer sedan vägen ni kom på till fots ytterligare ca 200m och ni ser klippan tydligt på höger sida. Precis innan vägen svänger till höger går det in en liten igenväxt väg och där följer ni stigen rakt upp mot klippan.
+
+==Camping==
+Mer info pågång.
+
+==Access {{access}} ==
+
+Var uppmärksam på häckande fåglar etc för att säkerställa accessen till berget. All avverkning av stora eller små träd, samt sly förbjuden utan att man först kontaktar styrelsen i [http://www.sundsvallsklatterklubb.se Sundsvalls Klätterklubb]. För mer info angående access och bultningspolicy se vår [http://www.sundsvallsklatterklubb.se/page.php?page=klubbinfo&subpage=access hemsida om hur man går tillväga och vad som gäller].
+
+{{AccessDB|klippa=tunomsberget}}
+
+==Leder==
+Det finns för närvarande 16 leder/projekt av varierande karaktär.
+
+===Tintinväggen===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Rastapopoulos|grad=5c|betyg=1|längd=15|fa=[[Jonas Bäckström]] [[2010]]|bultar=6|typ=sport|text=Den första leden från vänster på Tintinväggen. Följer sprickan till ankaret vid kanten}}
+{{led|namn=Näktergalen från Milano |grad=6a+|betyg=1|längd=15|fa=[[Johan Hedman]] [[2012]]|bultar=?|typ=sport|text=väggklättring på lister. Samma ankare som Rastapopoulos}}
+{{led|namn=Rackham den Röde|grad=6a|betyg=2|längd=22|fa=[[Pär Åslund]] [[2010]]|bultar=10|typ=sport|text=Följ den tydliga sprickan/flaket}}
+{{led|namn=Sötvattenpirater|grad=6b|betyg=1|längd=12|fa=[[Johan Hedman]] [[2012]]|bultar=?|typ=sport|text=sprickan rakt upp, bultat ankare}}
+{{led|namn=Anfäkta och anamma|grad=6c|betyg=2|längd=18|fa=[[David Andreasson/Johan Hedman]] [[2011]]|bultar=?|typ=sport|text=Väggklättring}}
+{{led|namn=Kalkyls etiska dilemma|grad=6b|betyg=2|längd=20|fa=[[Anders Lidström/Johan Hedman]]  [[2011]]|bultar=?|typ=sport|text=Väggklättring upp till sprickan som tar en vidare upp till ankaret.}}
+{{led|namn=Herge aretet|grad=6a|betyg=1|längd=18|fa=[[Johan Hedman]] [[2010]]|bultar=7|typ=sport|text=Aretet rakt upp, bultat ankare}}
+{{led|namn=Blå lotus|grad=5+|betyg=1|längd=20|fa=[[Johan Hedman]] [[2010]]|typ=trad|text=Leden ligger runt hörnet längst ut på tintin-väggen och följer den stora sprickan. Lite off width känsla. }}
+|}
+
+===Retroväggen===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Rehab för kapten Haddock|grad=6|betyg=1|längd=15|fa=[[Anders Lidström]] [[2010]]|bultar=2|typ=mix|text=Följer spricklinjen och avslutar med två bultar & sedan mantla upp, bultat ankare någon meter upp på hyllan}}
+{{led|namn=Bit ihop Milou|grad=6b+|betyg=2|längd=15|fa=[[Johan Hedman/Peter Ålander]] [[2010]]|bultar=7|typ=sport|text=Bultat ankare }}
+{{led|namn=Killen i småbyxorna|grad=6-|betyg=3|längd=15|fa=[[Peter Ålander]] [[2010]]|bultar=0|typ=trad|text=Följer överhängande spricklinjen, bultat ankare}}
+{{led|namn=Bohuslänsk skitnödig|grad=7|betyg=2|längd=15|fa=[[Johan Hedman]] [[2013]]|bultar=0|typ=trad|text=Följer överhängande spricklinjen, bultat ankare}}
+{{led|namn=Tintin hos Gerillan|grad=7a+|betyg=2|längd=12|fa=[[Peter Schybbie]] [[2012]]|bultar=5|typ=sport|text=Start vid spricka, rakt upp bultat ankare.}}
+{{led|namn=Frankenstein|grad=7a|betyg=2|längd=12|fa=[[Ola Lindström]] [[1995]]|bultar=4|typ=sport|text=Start vid blocket, rakt upp bultat ankare. Retrosopad 2010}}
+{{led|namn=Frankie goes to Hollywood|grad=6c|betyg=1|längd=12|fa=[[Ola Lindström]] [[1995]]|bultar=4|typ=sport|text=Retrosopad 2010. Lättare om man är lång.}}
+{{led|namn=?|grad=?|betyg=1|längd=12|fa=[[?]] [[?]]|bultar=?|typ=sport|text=Projekt}}
+{{led|namn=Frankenjura|grad=?|betyg=1|längd=10|fa=[[Daniel Nordström]] [[1995]]|bultar=4|typ=sport|text=Rakt upp, bultat ankare. Retrosopad 2010}}
+|}
+
+[[Kategori:sport]] [[Kategori:trad]] [[Kategori:vertikalt]] [[Kategori:överhäng]]
+[[Kategori:Saknar skiss]]
+[[Kategori:Medelpad]]

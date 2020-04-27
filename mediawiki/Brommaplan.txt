@@ -1,0 +1,58 @@
+{{info klippa
+  |lat=59.3335834217362
+  |long=17.935781478881836
+}}
+
+{{utkast}}
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.33312376029063" lon="17.934494018554688" zoom="15" type="map">
+59.3335834217362,17.935781478881836,Brommaplansobelisken
+59.33237953333614,17.933120727539062,Brommaplanskomposten
+</googlemap>
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Brommaplansobelisken
+lat= 17935781
+long=59333583
+</slresa>
+</div> 
+<div style="clear:right;"></div>
+
+==Leder==
+[[Bild:brommaplan.jpg]]
+
+{{led|nr=1|namn=?|grad=7b|betyg=|längd=|fa=[[?]]|bultar=|typ=sport|text=}}
+
+{{led|nr=2|namn=?|grad=?|betyg=|längd=|fa=[[?]]|bultar=|typ=sport|text=saknar hängare}}
+
+{{led|nr=3|namn=?|grad=?|betyg=|längd=|fa=[[?]]|bultar=|typ=sport|text=saknar hängare}}
+
+{{led|nr=4|namn=?|grad=7c|betyg=|längd=|fa=[[?]]|bultar=|typ=sport}}
+
+{{led|nr=5|namn=?|grad=7a|betyg=|längd=|fa=[[?]]|bultar=|typ=sport}}
+
+{{led|nr=6|namn=?|grad=6b|betyg=|längd=|fa=[[?]]|bultar=|typ=sport}}
+
+
+Någon som kan hjälpa?
+Någon som vet om dom ens är gjorda?
+
+Ryktet säger att Luhr satt upp dom, nån som kan bekräfta?
+
+Från vänster till höger på bilden så är nu 1-4-5-6 Utrustade med hängare hela vägen, jag har även hängt upp snabblänkar på alla(21/10 07).
+
+Ett block som ligger tvärs över gatan klättras nog bäst med padda eller tradrack...
+
+[[Bild:komposten.jpg]]
+
+[[Kategori:Klippa]]
+[[Kategori:Bouldering]]
+[[Kategori:Sport]]
+[[Kategori:Vertikalt]]
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

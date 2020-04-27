@@ -1,0 +1,70 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=6399064
+  |long=1399528
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Om Klippan==
+Ca 70 meter bred och mellan 10-20 meter hög. Klippan kan bidra med klättring i blandade svårighetsgrader, överhäng finns. Uppskattad svårighetsgrad mellan 3-6. 
+
+Det går även utmärkt att klättra med topprep, utmed kanterna växer det starka tallar och upp på klippan kan man ta sig genom att gå runt och upp vid sidorna. Det är en hel del sly på platsen som med markägarens tillstånd skulle kunna tas ner och bli en riktigt trevlig klippa med eftermiddags/kvällssol. Det krävs en del borstande för att få till bra leder.
+
+Varsågoda att utforska. 
+
+[[Bild:AndyCIMG0500.JPG‎]]
+[[Bild:AndyCIMG0491.JPG‎]]
+[[Bild:AndyCIMG0486.JPG‎]]
+[[Bild:AndyCIMG0484.JPG‎]]
+[[Bild:AndyCIMG0482.JPG‎]]
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=6399064
+    long=1399528
+</slresa>-->
+</div>
+
+Ligger i Norrahammar Centrum. Bakom Konsum i östlig riktning. Ovanför Flahultsvägen. På höger sida (söder) bakom Konsum finns en brant stig uppåt mot Flahult. En bit upp ligger klippans fot. Följ sedan klippan åt vänster (norr) för att hitta lämpligt plats att klättra på.
+
+Om ni fortsätter stigen uppåt 20-30 meter hittar ni några boulderklippor på höger sida. Uppskattningsvis grad 4. Fina sprickor att jobba med teknikträning i.
+
+[http://kartor.eniro.se/m/p5rJI Flahultsklippan]
+[http://kartor.eniro.se/m/p5rY9 Karta]
+
+{|
+|- valign="top"
+| width="350px" |
+| width="350px" |
+
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

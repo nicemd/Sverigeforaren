@@ -1,0 +1,42 @@
+{{utkast}}
+
+{{info klippa
+  |lat=59.141644
+  |long=17.736397
+}}
+
+<googlemap version="0.9" lat="59.141644" lon="17.736397" type="map" zoom="13">
+59.141644, 17.736397, Bondberga
+</googlemap>
+
+==Allmänt==
+Ny klippa någon km från Gullhamra, klippan är ca 20m bred och är av bra kvallite. Klippan är syd vänd och har skuggande träd.
+
+==Vägbeskrivning==
+Från Tumba kör väg 226 mot Vårsta. Kör genom Vårsta och ta vänster in på väg 225 mot Nynäshamn. Efter 1,8km sväng höger mot Skanssundet och Grödinge k:a. Efter 2,5km passeras kykan och [[Gullhamra|Gullhamra berg]]. Kör 2,5km till och sväng höger in på grusväg vid busshållplats Bergavägen, kör ca 1km sväng höger och följ vägen ca 500m och parkera vid ficka som finns vid åkern. Gå längds åkern ca 500m (du har klippan på höger sida) sväng inte upp till den första klippan du ser utan lederna ligger lite längre bort.
+
+==Kommunikation==
+Buss 727 från Tumba station mot Skanssundet kliv av vid busshållplats Bergavägen. Restid ca 20min. Gå Bergavägen (grusväg) ca 1km sväng höger vid första avfart.
+
+==Leder==
+
+[[Bild:Bondberga Leder.png]]
+
+{{led|namn=Tinget|nr=1|grad=6c|betyg=|längd=8|fa=[[Jan Emdebrant]] [[2010|-10]]|bultar=3|typ=sport|text=Inga fötter på vänster väggen.}}
+{{led|namn=Fri som Fågeln|nr=2|grad=7b+|betyg=|längd=10|fa=[[Jan Emdebrant]] [[2010|-10]]|bultar=4|typ=sport}}
+{{led|namn=Svartlösa|nr=3|grad=7a|betyg=|längd=9|fa=[[Jan Emdebrant]] [[2009|-09]]|bultar=4|typ=sport|text=Gå rakt upp vid sista bulten, sväng inte vänster in på hyllan.}}
+{{led|namn=Tumba Tarzan|nr=4|grad=7b+|betyg=|längd=9|fa=[[Johan Luhr]][[2011|-11]]|bultar=3|typ=sport}}
+{{led|namn=Vargatid|nr=5|grad=7a+|betyg=|längd=10|fa=[[Jan Emdebrant]] [[2009|-09]]|bultar=4|typ=sport}}
+{{led|namn=Fjärsman|nr=6|grad=6c|betyg=|längd=9|fa=[[Jan Emdebrant]] [[2009|-09]]|bultar=3|typ=sport}}
+{{led|namn=Entorparn|nr=7|grad=6c+|betyg=|längd=9|fa=[[Jan Emdebrant]] [[2009|-09]]|bultar=3|typ=sport}}
+{{led|namn=På Frifot|nr=8|grad=6a+|betyg=|längd=9|fa=[[Jan Emdebrant]] [[2010|-10]]|bultar=4|typ=sport}}
+{{led|namn=Blodsband|nr=9|grad=?|betyg=|längd=|fa=[[Stängt Projekt]]|bultar=|typ=sport|text=Stängt Projekt JE, Travers hela klippan från högerkant (höger om På Frifot) till vänsterkant med avslut vid Tinget.}}
+
+
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]
+[[Kategori:Saknar skiss]]
+
+[[Kategori:sport]]
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]]

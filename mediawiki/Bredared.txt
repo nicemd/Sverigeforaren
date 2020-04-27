@@ -1,0 +1,23 @@
+{{stub}}
+==Allmänt==
+Klippa i Borås. 
+
+==Vägbeskrivning==
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+ [[Kategori:sport]] 
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Västergötland]]

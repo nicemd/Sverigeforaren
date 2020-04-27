@@ -1,0 +1,34 @@
+{{boulderstub}}
+
+==Allmänt==
+
+Highballklätttring på seriös nivå.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+</div>
+
+Med bil: Ta av E18 vid Kungsängen ta vänster över motorvägen, fortsätt nedför backen till T-korsning. Ta vänster på gamla Enköpingsvägen ca 500m. Parkera på grusplanen i kurvan. Gå sedan längs grusvägen som går under motorvägen och följ denna till en förfallen stuga som syns på höger sida (kan vara svår att se) Ta höger här på en liten väg. Efter 200 m ta in höger och du kommer ut på ett hygge efter ett tag där stenen ligger.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+<googlemap version="0.9" lat="59.481315" lon="17.776909" zoom="13">
+59.485593, 17.778241, Stäketblocket
+</googlemap>
+
+==Boulderproblem==
+{|
+|- valign="top"
+| width="300px" |
+
+{{problem|namn=Peta in ett finger i sprickan|grad=7a||betyg=3|fa=[[Mikael Söderström]]|text=Riktigt fin sprickklättring med en nervös landning. Highball.}}
+
+| width="300px" |
+
+
+|}
+
+[[Kategori:Stockholm]]
+[[Kategori:Norra Stockholm]]

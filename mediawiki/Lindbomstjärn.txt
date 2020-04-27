@@ -1,0 +1,27 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Dr. Climbingstone, I presume?|grad=6A+|typ=Slopers,Layback|fa=Jon Kågström|landning=3|betyg=2|fadatum=2004-06-30|sopad=Jon Kågström|sittstart=ja|text=Sittstart under areten, rakt upp.}}
+{{problem|namn=10 goto 10|grad=6A|typ=Krimp|fa=Jon Kågström|landning=3|betyg=1|fadatum=2004-06-30|sopad=Jon Kågström|text=Rakt upp.}}
+{{problem|namn=Inspiron|grad=6A+|typ=Krimp|fa=Jon Kågström & Olle Morén|landning=3|betyg=1|fadatum=2004-06-30|sopad=Jon Kågström & Olle Morén|text=Rakt upp.}}
+{{problem|namn=Feel the bit|grad=6B+|typ=Krimp,Jug|fa=Jörgen Åsberg|landning=3|betyg=3|fadatum=2004-06-29|sopad=Jörgen Åsberg|sittstart=ja|text=Sittstart under det lilla taket till vänster på höga sidan av stenen. Gå rakt upp och håll till vänster om sprickan.}}
+{{problem|namn=Ner kommer man alltid|grad=6B+|typ=Krimp,Slopers|fa=Jörgen Åsberg|landning=1|betyg=1|fadatum=2004-06-30|sopad=Jörgen Åsberg|sittstart=ja|text=Sittstart på hörnet där man kan gå ner från stenen. Rakt upp.}}
+| width="250px" |
+{{problem|namn=Fett med bett|grad=6C|typ=Krimp,Slopers|fa=Jörgen Åsberg|landning=5|betyg=2|fadatum=2004-07-01|sopad=Jörgen Åsberg|text=Startar strax till vänster om spetsen upptill på stenen. Gå rakt upp till höger om sprickan.}}
+{{problem|namn=Pussa Alfons|grad=5C|typ=Krimp|fa=Ulf Moberg|landning=1|betyg=2|fadatum=2004-06-27|sopad=Ulf Moberg|text=Vänster om areten, rakt upp.}}
+{{problem|namn=Strulfot|grad=6A+|typ=Krimp,Slopers|fa=Ulf Moberg|landning=4|betyg=2|fadatum=2004-06-30|sopad=Ulf Moberg|sittstart=ja|text=Sittstart vänster om granen på liten sten intill blocket. Gå snett upp v till hyllan och rakt upp.}}
+{{problem|namn=Lucky luke|grad=6B+|typ=Travers H->V|fa=Per Wermelin|landning=3|betyg=1|fadatum=2004-06-30|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Sittstart vid NKOTB. Traversera åt vänster och avsluta rakt upp vid hörnet.}}
+| width="250px" |
+{{problem|namn=New Kid on the Block|grad=6C+|typ=Krimp|fa=Fredrik Bodin & Olle Morén|landning=3|betyg=2|fadatum=2004-07-01|sopad=Fredrik Bodin & Olle Morén|sittstart=ja|text=Sittstart vid listerna, går rakt upp.}}
+{{problem|namn=Meet Niklas Black|grad=7A|typ=Krimp|fa=Christofer Björklund & Jörgen Åsberg|landning=5|fadatum=2004-07-07|sopad=Christofer Björklund & Jörgen Åsberg|text=Går längst till höger innan areten på den höga delen av blocket.}}
+|}
+[[Kategori:Sundsvall]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,46 @@
+{{info klippa
+  |lat=58.460935
+  |long=11.691599
+}}
+
+{{utkast}}
+
+
+
+==Allmänt==
+Populärt och bra område med ca 4 fina isar. Området är relativt issäkert och det växer ofta till is varje år. Isfallen är mellan 15-40m långa och är i graderna mellan WI 3-5. De flesta lederna går att topprepsklättra då det går en stig så att man kan komma upp på berget.  
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="58.463247" lon="11.691985" zoom="15">58.460935, 11.691599, Isklättring MunkedalMunkedal, Sverige</googlemap>
+</div>
+Söderifrån, tag av motorvägen vid avfart 98 Ed, Saltklällan, Munkedal. Tag höger i första rondellen. Kör rakt fram i andra rondellen in på Uddevallavägen (gamla E6:an, kör ca 900m och sväng sedan in vänster in på kviströmvägen. Här ligger en gamal mack och det är här du parkerar. Isfallen ligger sedan på motsatta sidan av vägen från ån (Örekilsälven) sett, dvs i Kviströms naturreservat. Gå rakt över Uddevallavägen (gamla E6:an) och in på en liten väg, forsätt ca 100 m över en liten bäck, vik här av in till vänster på knappt märkbar stig. Efter ca 150 m kommer du fram till det första isfallet.
+
+<div style="clear:right;"></div>
+
+==Isfallen==
+Det finns ca fyra st isfall i området som kan variera i svårigetsgrad berodende på istillväxt. Oftast finns det 2 isar som är 45 meter höga (de första man kommer till). Vänster är en 5:a och höger en 4:a. Det finns 3:a klättring längre in dalen som är jättefina 25-30 mmeter höga. Ännu längre in finns en pelare på 12-15 meter som är  are 5-6:a i svårighetsgrad. Det är relativt lätt att sätta topprep på alla isfallen, då det går en stig som man kan gå runt berget. 
+
+==Access==
+OBS Kviström är ett naturreservat dvs extra varsamhet när ni vistas i området!!!
+
+
+Isfallen ligger med ett par hundra meter mellan varandra utefter stigen
+
+[[Bild:Munkedal_isfall_1.JPG]]
+Första isfallet, grad 3-5
+
+[[Bild:Munkedal_isfall_2.jpg]]
+Andra isfallet efter stigen, grad 3-5
+
+[[Bild:Munkedal_isfall_3.jpg]]
+Tredje isfallet, grad 3
+
+[[Bild:Munkedal_isfall_4.jpg]]
+Fjärde isfallet, grad 5
+
+
+[[Kategori:Bohuslän]]
+[[Kategori:Stub]]
+[[Kategori:Is]]

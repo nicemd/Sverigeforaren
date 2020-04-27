@@ -1,0 +1,46 @@
+{{stub}}
+== Access {{access}}==
+
+{{AccessDB|klippa=kvark}}
+
+
+[[Kategori:sport]]
+
+== Leder ==
+
+Följande leder har klättrats då det tidigare var tillåtet.
+'''Det är alltså inte tillåtet att klättra dessa.'''
+Från vänster till höger.
+
+{{led|nr=1|namn=Dieder svider|grad=6b|betyg=|längd=10|fa=Ronny Ek|bultar=5|typ=sport|text= Diedern längst till vänster. Teknisk. Ankare}}
+
+{{led|nr=2|namn=Tura|grad=5c|betyg=2|längd=10|fa=Ola Knutsson|bultar=5|typ=sport|text= Fantastiskt kul på goda grepp. Ankare}}
+
+{{led|nr=3|namn=Scanline|grad=6a|betyg=2|längd=10|fa=Ola Knutsson|bultar=5|typ=sport|text=Enligt vissa ännu roligare på ännu bättre grepp. Ankare}}
+
+{{led|nr=4|namn=Ryggkliaren|grad=6c|betyg=|längd=10|fa=Ola Knutsson|bultar=5|typ=sport|text=  Kanten/areten som avslutar den vänstra väggen åt höger. Ankare}}
+
+{{led|nr=5|namn=Jassosopass|grad=8a|betyg=1|längd=10|fa=Harald Bohlin|bultar=6|typ=sport|text=Den överhängande areten. Ankare}}
+
+{{led|nr=6|namn=Nils Holgersson|grad=7b|betyg=2|längd=12|fa=Fredrik Rapp|bultar=5|typ=sport|text= Krimpig väggklättring på vinkelväggen. En variant som går ut åt vänster efter fjärde bulten finns. Ungefär samma grad. Ankare}}
+
+{{led|nr=7|namn=Pilevallen|grad=7a|betyg=1|längd=12|fa=Harald Bohlin|bultar=6|typ=sport|text= Linjen som går tätt bakom trädet. Teknisk. Ankare}}
+
+{{led|nr=8|namn=Rullebören|grad=6a+|betyg=|längd=10|fa=Ola Knutsson|bultar=5|typ=sport|text= Lite flackare linje på den lilla plattan. Teknisk. Ankare}}
+
+{{led|nr=9|namn=Spittekakan|grad=6b|betyg=1|längd=10|fa=Ola Knutsson|bultar=5|typ=sport|text= Teknisk klättring upp längs areteformationen. Kul avslutning på slopekanten Ankare}}
+
+{{led|nr=10|namn=Gåsapågen|grad=8a+|betyg=2|längd=10|fa=Karl-Ola Boström|bultar=5|typ=sport|text=Brant lutande diederformation. Bra med små fingrar.Ankare}}
+
+{{led|nr=11|namn=Killar kan|grad=6c|betyg=1|längd=8|fa=Mattias Skafar|bultar=4|typ=sport|text= Startar i den tydliga sprickan mitt på väggen men viker sen något vänster. Ankare}}
+
+{{led|nr=12|namn=Tösabiten|grad=7c|betyg=1|längd=10|fa=Gustav Kamf|bultar=5|typ=sport|text= Den kraftigt övehängande röda plattan. Krimpig. Ankare}}
+
+{{led|nr=13|namn=Tingvalla|grad=6c|betyg=2|längd=10|fa=Fredrik Rapp|bultar=5|typ=sport|text=  Den högra av de överhängande linjerna. Jugfest hela vägen. Ankare}}
+
+{{led|nr=14|namn=Bonnaläppen|grad=7a|betyg=|längd=10|fa=Gustav Kamf|bultar=5|typ=sport|text=Går ut i vänsterkant av det tydliga taket. Ankare}}
+
+{{led|nr=15|namn=Bonnalurken|grad=6b+|betyg=|längd=10|fa=Gustav Kamf|bultar=5|typ=sport|text=Går höger om det tydliga taket. Ankare samma som ovan}}
+
+{{led|nr=16|namn=Raps|grad=6b+|betyg=|längd=8|fa=Fredrik Rapp|bultar=4|typ=sport|text=Brokig linje längst till höger uppe i backen. Ankare}}
+[[Kategori:Skåne]]

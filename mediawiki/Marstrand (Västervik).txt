@@ -1,0 +1,27 @@
+{{info klippa
+  |lat=57.903333
+  |long=16.44361}}
+
+{{boulderstub|extern=ja}}
+
+==Allmänt==
+Marstrands bouldern består av ett flertal överhängande väggar och grottor. Det mesta är nordvänt vilket ger bra 
+temperaturer även varma sommardagar. 
+
+==Vägbeskrivning==
+Området delas in i två sektorer “Roots” och “Grottan”. “Roots” ligger ett 
+par hundra meter vänster om stigen som går norr ut från info-tavlan på parkeringen. För “Grottan” följer man stigen 
+från info-skylten ca 100 meter och viker av höger längs en mindre stig. Följ denna i 50 meter till “Grottan”.
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.903333" lon="16.44361" type="map" zoom="13" controls="small">
+57.903333, 16.44361, Marstrand (parkering)
+</googlemap>
+</div>
+<div style="clear:both"></div>
+
+== Extern förare ==
+http://www.vastervikclimbing.se/klattercentret/pdfer/
+
+[[Kategori:Småland]]
+[[Kategori:Västervik]]

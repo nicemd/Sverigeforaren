@@ -1,0 +1,389 @@
+{{info klippa
+  |lat=59.24664074974653
+  |long=18.54912757873535}}
+
+{{boulderkomplett}}
+
+==Allmänt==
+Området är beläget på Ingarö ett par mil öster om Stockholm. Tro för den skull inte att det handlar om bouldering på en sandstrand med havet i fonden. Det hade säkert stämt in om du hade åkt hit lite tidigare...för ett par tusen år sedan eller så.
+
+Istället ligger området mitt inne i skogen. Det blir trots detta inte särskilt mörkt och skuggigt eftersom träden växer ganska glest framför klippartierna.
+
+Området började utvecklas sommaren 1997 och då framförallt av [[DD]], [[Stefan Pettersson]], [[Michael Meyer]] och [[Tomas Gustavsson]]. Det är inte på något sätt färdigutvecklat.
+
+Området domineras av en relativt låg klippvägg, en gammal förkastningsbrant. Boulderproblemen finns dels på denna brant, i flera etage, dels på ett antal klippblock. Bergarten är granit. Klippan är till stora delar is- och vattenslipad, vilket ger den dess speciella karaktär. Landningarna är oftast utmärkta, även om exempel på det motsatta finns. Ta gärna med dig en stålborste eftersom vissa problem har en tendens att mossa till sig extremt snabbt.
+
+En sak att tänka på är att många av problemen ligger i skuggan i skogen och det är ofta blött.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="59.24626769152615" lon="18.55565071105957" zoom="13" type="karta">
+59.24664074974653,18.54912757873535,Brudberget parkering
+</googlemap>
+</div>
+
+Tag väg 222 mot Gustavsberg. Efter ca 20km (från Slussen) sväng av mot Ingarö. Följ Ingarövägen genom Brunn. Ca 4 km efter Brunn tag vänster mot Eknäs. Ytterligare 4km senare, tag vänster mot Östernäs vid hållplats Skälsmara. Därefter tag höger in på Brudbergsvägen och åk den till den tar slut, när du ser vändplanen är du framme.
+
+'''OBS!''' Parkera inte på vändplanen! Fortsätt ytterligare 20m in i skogen och parkera till vänster. Ej heller på skogsvägen till höger.
+
+Gå stora stigen till vänster längst med den röda sommarstugan. Följ kraftledningarna ett par hundra meter och blocken dyker upp på vänster sida.
+
+Buss: Tag buss 430 från Slussen till Skälsmara (50-55 min). Gå ca 1,3 km (ca 30 min till sektor 1).
+<div style="clear:right;"></div>
+
+
+Gamla [[:Kategori:Stockholmsföraren (1996)|Stockholmsföraren]] nämner två rep-leder:
+
+{{led|namn=Letters from Peking|grad=7-/7|längd=8|fa=[[Erik Lundström]], [[Björn Pohl]] -95}}
+
+{{led|namn=Assassinated beauty|grad=7+/8-|längd=6|fa=[[Björn Pohl]], [[Erik Lundström]] -94|text=En bult}}
+
+==Access {{access}}==
+Saxat från [http://www.bloxc.com/forum/viewtopic.php?t=1086 bloxc]:
+ 
+<blockquote>
+Skrivet: Lör Aug 05, 2006 21:44 <br>
+<br>
+Hallå alla klättrarsystrar och bröder. 
+
+Var på brudberget idag (trots värmen? som John sa när jag sprang in i honom senare . men jag var ju i skuggan) 
+Hursomhelst så var det så att nästa person som joinade vår session berättade att han blivit utskälld av "mannen i röda stugan" som ligger precis vid vändplanen. Anledningen till utskällningen var i alla fall att han parkerat (liksom jag) i vändplanen (som är otroligt lik en parkeringsplats) precis som jag alltid gjort i alla år. <br>
+Gubben i röda stugan vill i alla fall att vi fortsätter att köra in på skogsvägen och parkerar precis efter vändplanen. När han fått säga det blev han jättesnäll, tydligen. <br>
+<br>
+Jaha, det här kanske är gamla nyheter för alla utom mig, men jag tänkte i alla fall ta och dela med mig av min uppenbarelse. <br>
+Problemet med att parka på skogsterrängen är att alla bilar måste anstränga sig lite för att få plats med 3 max 4 bilar. Så kör in ordentligt och se till att folk kan komma in/ut. <br>
+<br>
+Nu är accessgärningen för dagen utförd tycker jag. <br>
+<br>
+Gott stick! <br>
+Jenny<br>
+</blockquote>
+
+{{AccessDB|klippa=brudberget}}
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Förare==
+===Översikt===
+[[Bild:brudberget-översikt.jpg]]
+
+{{sidbrytning}}
+===Sektor 1===
+[[Bild:brudberget-sektor1.jpg]]
+{{led|nr=Röd|namn=Batman|grad=3|text=}}
+{{led|nr=Blå|namn=Robin|grad=3|text=}}
+{{led|namn=Princesa de mierda|grad=4-|fa=[[Pamela Fuentes]], [[Selso Berntsson]], 1999|betyg=2|längd=ca 3,5|text=Kort travers som dock är intressant i början. Startar en liten bit till vänster om Batman i den lilla sprickan. Traversera bort till den låga hyllan. Fötterna är kruxet i mitten. }}
+{{led|namn=Tulu|grad=3|text=}}
+
+{{sidbrytning}}
+===Sektor 2===
+[[Bild:brudberget-sektor2-1.jpg|300px]]
+{{led|namn=Tamilska tigrarna|grad=6b+|längd=7|fa=[[Stefan Pettersson]], 2000|text=Den höga areten längs till vänster på sektorn. till toppen.}}
+
+{{led|nr=Gul|namn=Diss'n that|grad=3|längd=7|betyg=1|fa=[[Stefan Pettersson]], 1997|text=Stora grepp och steg, nära besläktat med fjällvandring. Ta de stora greppen, stå på de stora stegen och följ sprickan till toppen.}}
+
+{{led|nr=Röd|namn=V2 Horror|grad=4-}}
+
+[[Bild:brudberget-sektor2-2.jpg|300px]]
+
+{{led|nr=Gul|namn=V2 crack|grad=4+|fa=[[DD]] 1997|betyg=2|text=Ett sprickproblem, inte hårt, möjligen lite tekniskt. Starta med båda händerna i nischens nederkant. Tag med h. hand i spricka. Se till att du får handen på en liten list inne sprickan. Jamma eller laybacka upp.}}
+
+{{led|nr=Röd|namn=Facelift|grad=4+|fa=[[DD]], [[Stefan Pettersson]], 1997|betyg=3|text=Väggklättring på listerna, lättare än det ser ut. Sprickan får INTE användas. }}
+
+===Sektor 2a===
+{{led|namn=Inälvan|grad=4|längd=2|fa=[[Peter Bosma]], 1999|betyg=1|text=Mantlingsproblem. Kör inte med bar överkropp... Den lilla stenen vid trädet. Startar längst inne med en sträckning upp till den raka toppen. Gå ut till hörnet och häv dig upp och mantla upp på toppen.}}
+
+===Sektor 2b===
+(Blocken mellan sektor 2a och sektor 9) 
+{{led|namn=Buffalo Springfield|grad=3|fa=[[Måns Berg]], 1999|text=Hangeltravers över tre block från V till H och mantling upp på sista blocket. }}
+
+{{sidbrytning}}
+===Sektor 3===
+[[Bild:brudberget-sektor3.jpg]]
+
+{{led|nr=Gul|namn=Boulder für alle|grad=3|fa=[[DD]], 1997|längd=4|betyg=2|text=Sköna grepp, funkar som uppvärmning. Starta längst t.v på blocket och traversera tills du nått bortre hörnet (runt första hörnet alltså). Behöver du mer beta än så kan du åka hem nu...}}
+
+{{led|nr=Röd|namn=Sötnos|grad=6b|fa=[[Michael Meyer]], 1997|längd=2|text=Sittstart uppför kanten/areten till höger.}}
+
+{{led|nr=Grön|namn=Bagghawaghita|grad=7a|fa=[[Peter Bosma]], [[Jakob]], 1999|betyg=3|längd=4|text=Tunnt för fötterna i början, intressant startposition. Startar där "Boulder für alle" slutar. HH på jugge på kanten (kan använda tummen), VH på "toppiga" listen. Hokka med v.fot runt det bortre hörnet och få på så sätt en horisontell startposition. Hoppa upp med h.fot på det lilla fotsteget nedanför händerna. Skicka upp till den bra sidgreppssprickan upp till vänster. Gå runt kanten till starten på "Boulder für alle" utan att använda toppen. }}
+
+{{led|namn=Brown fat cheese machine|grad=6c/6c+|fa=[[DD]], [[Tomas Gustavsson]], 1999|längd=5|betyg=3|text=Balansigt och känsligt. Inte direkt någon powerboulder. Går på baksidan av blocket. Starta med VH runt kanten (där "Boulder für alle" slutar) och HH upp i slopigt undercling. Kliv upp och traversera ända till juggen längst bort på blocket. Kanten på toppen får naturligtvis ej användas. Finns några sidlister att använda på mitten, några slopers i början... }}
+
+{{led|namn=Fat brown cheese machine|grad=6b+|fa=[[Tomas Gustavsson]], [[DD]], 1999|längd=5|betyg=3|text=Balansigt och känsligt. Inte direkt någon powerboulder. Reversvarianten av "Brown fat...". Startar i slutjuggen i densamma borta vi svakanten på blocket. Slutar med handen runt kanten där "Borwn fat..." startar. Kanten på toppen får naturligtvis ej användas. }}
+
+{{sidbrytning}}
+===Sektor 4===
+[[Bild:Brudberget-sektor4.jpg|300px]]
+
+{{led|namn=Paranoia|grad=?|fa=|betyg=|längd=|text=}}
+{{led|namn=Tutsi Warrior|grad=7a+|fa=[[DD]], 1997|betyg=4|längd=5|text=Något för basketspelare? Fixera de två crimplisterna drygt 3 meter upp. Hoppa upp och plocka dem. Dra dig upp och placera höger fot på en mikrolist. Dyna/sträck dig till juggen snett upp till höger. Ta tag i kanten och mantla över. OBS! Om du startar stående istället för "flygande" är det "Tromb" du gör.}}
+
+{{led|namn=Tromb|grad=7b|fa=[[Michael Meyer]], 1998|betyg=4|längd=5|text=Fint problem med bra landning. Startar med bägge händerna på den bra listen mitt på väggen. Sätt upp h.fot på det tydliga steget precis under kanten, v.fot på smear/knopp till vänster under kanten. Fronta upp till nästa stora list med HH (alt. gå via den lilla listen med VH). Vidare upp som Tutsi warrior. }}
+
+{{led|namn=Code red|grad=7c+/8a|fa=[[Klem Loskot]], 1999|betyg=4|längd=5|text=Rent och vackert problem med bra landning. Starta med VH i gastongrepp under kanten, HH i sidepull/undercling under kanten till höger (baken måste inte vara i backen). Sätt upp h.fot på tydligt steg precis under kanten till höger, v.fot på smear steg rakt ner. Tweaka med höger ben, lås in på VH och sträck HH upp till listen där Tromb börjar. Matcha och fortsätt upp som Tromb. }}
+
+{{led|namn=Core|grad=7b|fa=[[Stefan Pettersson]], 1999|betyg=5|längd=1,5|text=Hård catch från sittande start. Längst till höger på "Tutsiväggen". VH i platt undercling längst nere, HH på pinchgreppet på arreten. Lätta och catcha upp med VH till det bra greppet rakt upp...långt upp. }}
+
+{{led|namn=Highscore|grad=6c+|fa=[[Stefan Pettersson]], 1999|betyg=4|längd=1,5|text=Ett par hårda move. Samma startgrepp som "Core", men istället för att skicka direkt upp till slutgreppet med HH flyttar du istället VH till sidepullisten och skickar därefter till slutjuggen med HH. Det handlar alltså om en ickeelimineringsvariant av "Core", eller om det är "Core" som är en elimineringsvariant av "Highscore"... Vem bryr sig? }}
+
+{{sidbrytning}}
+===Sektor4a===
+{{led|namn=Ze balance|grad=6a|fa=[[Peter Bosma]], 1999|betyg=4|längd=6|text=Rolig travers på sköna grepp. Svårare än det ser ut. Startar med bägge händerna i hörnet, en hand på var sida, och traverserar det långa svaeet. Slutar på det bra greppet en bit upp längst bort på väggen. Första moven är en catch till det bra sidgreppet inne på svaväggen. Två krux, först att komma till det bra greppet ovanpå sloperlimpan sedan att matcha i det bra sidgreppet innan man tar slutgreppet på kanten.}}
+
+{{led|namn=Ecnalab ez|grad=6a|fa=[[Tomas Gustavsson]], 1999|betyg=4|längd=6|text=Rolig travers på sköna grepp. Svårare än det ser ut. Reverserar "Ze balance". Startar i slutjuggen högt upp på kanten och slutar med bägge händerna i startgreppen på "Ze balance". }}
+
+{{led|namn=Lederhosen light|grad=6a|fa=[[DD]], [[Tomas Gustavsson]], 1999|betyg=2|längd=1,5|text=Kul men kort catch. Sittstart till Ze balance. Starta med VH på böjd list inne på "tutsi" väggen, HH på arreten i lite slopigt grepp där du kan pinsha med tummen. H.fot på tydligt steg rakt ner under kanten, catcha upp till startgreppet i "Ze balance" med HH. Koppla ihop "Lederhosen" med "Ze balance" och du får kanske en Fb6b... }}
+
+{{sidbrytning}}
+===Sektor 5===
+[[Bild:BB-01.jpg]]
+
+
+{{led|nr=Röd|namn=Slap that fat bitch|grad=7c+|fa=[[Stefan Pettersson]], 2000|betyg=|längd=6|text=Följ sprickan ända nerifrån hela vägen till kanten längst uppe.}}
+
+{{led|nr=Gul|namn=The Queen Mother|grad=8b|fa=[[Stefan Pettersson]] -08|betyg=|text=}}
+
+{{led|nr=|namn=Mother Superior|grad=8b|fa=[[Peter Bosma]] -08|betyg=|text=Direktlinje av The Queen Mother}}
+
+{{led|nr=Lila|namn=Freak gasoline accident |grad=8a|fa=|betyg=|text=}}
+
+{{led|nr=Blå|namn=Slap story|grad=?|fa=|betyg=|text=}}
+
+{{led|nr=|namn=Street fame|grad=8a|fa=[[Chris Ellis]], 2002|betyg=|längd=2|text=Sittstart mitt emot starten på Slap...}}
+
+{{sidbrytning}}
+
+===Sektor 6===
+[[Bild:Brudberget-sektor6.jpg|500px]]
+
+{{led|nr=Gul|namn=Recreation for the masses|grad=6b|fa=[[DD]], 1997|betyg=4|längd=6|text=Travers med perfekt landning. Start längst till v. med händerna på greppen ovanpå den lilla "triangeln". H. fot på smear v. fot i luften som balans. Skicka högeranden långt bort till h. och nedåt till den positiva fickan. Matcha och ta enfingerhålet strax ovanför till h. med höger hand. Korsa bort till hyllan/slopern och matcha igen. Sträck dig bort och tag greppet i slutet av tvärsprickan.}}
+
+{{led|namn=Recreation for the middleclass|grad=6b|fa=[[Ole]], [[DD]], 1999|betyg=4|längd=5|text=Travers med perfekt landning. Sittstart (samma som "Sittstart Almost..."). Starta under kanten, VH i undercling inne på väggen, HH i undercling under kanten. Res dig upp (ganska tungt) och sträck upp HH till det bra greppet rakt upp. Reversera sedan "Recreaton for the masses" och avsluta med bägge händerna i dess startposition.}}
+
+{{led|namn=Recreation for the upperclass|grad=6b|fa=[[Peter Bosma]], [[Ole]], 1999|betyg=4|längd=5|text=Travers med perfekt landning. Startar hängande i jammet i sprickan till höger. Campusmove in till greppen till vänster, sedan reversering av "Recreation for the masses" ända till startgreppen.}}
+
+{{led|nr=Röd|namn=Almost nearly there|grad=5+|fa=?, 1997|betyg=3|längd=6|text=Högt, läskigt och tunnt för fötterna. Klättra upp längs sprickan ända till toppen. Krux i slutet... Tillåtet att använda trädet för att rädda sig och komma ner. Kan även göras med sittstart (samma som "Recreation for the middleclass"), då Fb6b}}
+
+{{led|namn=Aussieboys|grad=6c+|fa=[[Trevor Cooper-Williams]], [[Chris Ellis]], 1999|betyg=4|längd=6|text=Snygg arete. Kräver bra spot. Sträck dig upp till grepp på areten, klättra upp till toppen. }}
+
+{{led|namn=Super cool|grad=7c/c+|fa=[[Klem Loskot]], 1999|betyg=5|längd=8|text=Super coolt problem på hyffsade grepp. Ta med många krashpads. Börjar längst in där taket börjar (samma sittstart som "Recreation for the middleclass"). Skicka ut HH till jammet i sprickan till höger, Matcha med VH och flytta ned HH till det slopiga greppet där sprickan slutar (slutgreppet på "Recreation for the masses"). Placera fötterna (toehooka) och skicka ut HH runt areten. Avsluta med att klättra upp areten (Aussie boys). "You can't find a problem better than this one in Fontainbleau"}}
+
+{{sidbrytning}}
+
+===Sektor 7===
+[[Bild:Brudberget-sektor7.jpg|300px]]
+
+{{led|nr=Gul|namn=Juggernaut|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Grön|namn=Elevate me later|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Blå|namn=She's a bitch|grad=7a|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Röd|namn=En riktig man|grad=7a|fa=|betyg=|längd=|text=}}
+
+===Sektor 8===
+{{led|namn=Smurf|grad=6a|fa=[[Michael Meyer]], 1997|betyg=1|längd=0,5|text=Extremt lågt problem, Konstigt. (otroligt mycket svårare om man är lång)}}
+
+{{sidbrytning}}
+===Sektor 9a===
+[[Bild:Brudberget-sektor9a.jpg|300px]]
+
+{{led|nr=Gul|namn=Mana|grad=6b|fa=|betyg=|längd=|text=}}
+
+{{led|namn=Projekt9a-1|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|namn=Projekt9a-2|grad=?|fa=|betyg=|längd=|text=}}
+
+===Sektor 9b===
+
+{{led|namn=Opium|grad=6b+|fa=[[Chris Ellis]], 2000|betyg=|längd=3|text=Sittstart med händerna i den lilla nischen. Ta grepp runt kanten på areten, kliv upp och catcha till hornet på kanten. }}
+
+{{led|namn=Macho man|grad=7c+|fa=[[Stefan Wulf]], 2000|betyg=|längd=3|text=Lång catch med ruskig landning. Kan endast göras med topprep som livförsäkring.}}
+
+{{sidbrytning}}
+===Sektor 10===
+[[Bild:Brudberget.sektor10.jpg|500px]]
+
+{{led|namn=Assassinated beauty|grad=6c+|fa=|betyg=|längd=|text=}}
+
+{{led|namn=Sittstart Assassinated... vänstra sprickan|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|namn=Sittstart Assassinated... högra sprickan|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|namn=Sandman|grad=7b|fa=[[Stefan Kolmodin]]|text=Start bakom trädet, lätt trv. till höger sedan up...topout..lite läskig}}
+
+{{led|namn=Opium top out|grad=6c|fa=[[Stefan Kolmodin]]|text=Precis vad namnet säger, avigt utsteg - ta det försiktigt}}
+
+===Sektor 11===
+[[Bild:Brudberget-sektor11.jpg|500px]]
+
+{{led|nr=Vit|namn=Mother Future|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Röd|namn=Cry in vain for mercy|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Grön|namn=Okänd11-1|grad=3|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Turkos|namn=Slimline|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Gul|namn=Inflamed feelings|grad=7b|fa=|betyg=|längd=|text=}}
+
+{{sidbrytning}}
+===Sektor 12===
+[[Bild:Brudberget-sektor12.jpg|300px]]
+
+{{led|nr=Blå|namn=Sovande vatten|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Röd|namn=En sur gubbe|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|namn=En ond pojke|grad=?|fa=|betyg=|längd=|text=}}
+
+{{sidbrytning}}
+===Sektor 13===
+[[Bild:Brudberget-sektor13.jpg|300px]]
+
+{{led|nr=Röd|namn=And God pulled the trigger|grad=6c+|fa=[[DD]], 1997|betyg=4|längd=3|text=Teknisk, tung och mycket fin. Starta sittande på marken. H. hand på incutlist v. hand i layback runt den kanten. Vrid in h.ben under dig och skicka lång upp i den vertikala sprickan till ett grepp du kan ta i omvänd sidepull (gastonliknande) med h.hand. Res dig upp på h.fot och tag greppet längre upp i samma spricka med v. hand, även detta i omvänd sidepull. Glöm inte att använda tummen. Kliv upp snett till höger med h. fot, tryck till med v. fot och skicka upp h. hand till bra grepp ganska långt upp till h. Ta tvärsprickan - hemma. Problemet kan lösas på flera olika sätt beroende på längd.}}
+
+{{led|namn=Arg ung man|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|namn=Rehabhypnol|grad=?|fa=|betyg=3|längd=3,5|text=Teknisk och mycket tung. Startar med bägge händerna på den lilla hyllan till höger om "And god...". Skicka upp VH till sprickan på "And god..." och avsluta med densamma.}}
+
+{{led|namn=Zehnsucht|grad=?|fa=|betyg=|längd=3,5|text=Rent och hårt problem över den blanka väggen till höger om "And god...". Viktigt med kroppspositionerna. Ståstart, i två sidogrepp, ett till vänster och ett till höger. Arbeta dig upp till en liten krimper upp till höger. Skicka slutligen upp till och avsluta på kanten. }}
+
+{{led|namn=Indigo traversen|grad=4+|fa=[[Jakob]], [[Peter Bosma]], 1999|betyg=3|längd=4|text=Känsligt för fötterna. Traverserar den stora sprickan högt uppe mellan "Rastafari" och "When god pulled the trigger". Använd spot då det är en bit upp. Gå upp "Rastafari" och traversera bort till greppen ovanför "When god pulled the trigger". }}
+
+{{led|namn=Rastafari|grad=3|fa=[[Jakob]], [[DD]], 1999|betyg=4|längd=3|text=Lätt men kul! Tydlig stor spricka vid granen ca 3-4 meter till höger om "When god pulled the trigger". Sittstart.}}
+
+{{sidbrytning}}
+===Sektor 14===
+[[Bild:Brudberget-sektor14.jpg|300px]]
+
+{{led|nr=Blå|namn=Flygande svensken|grad=4-|fa=[[Michael Meyer]], 1997|betyg=4|längd=3,5|text=Roligt problem med bra landning. Båda händerna i övre tvärsprickan, fötterna i nedre. Se efter vart du ska och hoppa. Dubbeldyno! Sätt inte högerhanden för långt till höger där greppet är något sämre.}}
+
+{{led|nr=Blå|namn=Flygande dansken|grad=5+|fa=|betyg=|längd=|text=Variant - Greppa med bara h. hand}}
+
+{{led|nr=Blå|namn=Flygande norrmannen|grad=5+|fa=|betyg=|längd=|text=Variant - Greppa med bara v. hand}}
+
+{{led|nr=Röd|namn=Iää Shub Niggurath|grad=4-|fa=[[Pamela Fuentes]], [[Tomas Gustavsson]], 1999|betyg=2|längd=3,5|text=Relativt balansigt sprickjam. Startar i de bra greppen till höger om flygande nere i sprickan och går sedan upp i den tunna sprickan. Slutar med bägge händerna högst upp på den slopiga kanten. Endast väggen får användas, ej den utstickande delen till höger. Det är lättast att gå upp med vänster hand först till jammet. }}
+
+{{sidbrytning}}
+===Sektor 15===
+[[Bild:Brudberget-sektor15.jpg|300px]]
+
+{{led|namn=Scumwanker|grad=5+|fa=[[DD]], 1999|betyg=4|längd=3|text=Relativt hård sittstart, därefter lättare. Uppför väggen mitt på, slutar i skålen på toppen. HF på liten list, VF på smear. Dra dig upp med HH på det runda greppet på kanten (tungt) och skicka VH till bra (?) greppet i sprickan. Därefter blir det lätt. }}
+
+{{led|namn=Tabac|grad=4|fa= [[DD]], [[Tomas Gustavsson]], 1999|betyg=4|längd=3|text=Ovanligt kul för att vara V0. Inte helt självklar... Uppför väggen precis bredvid den slopiga kanten till höger, slutar i skålen på toppen. Tricket är att mantla för att få upp högerfoten, sedan är det lätt. }}
+
+{{sidbrytning}}
+===Sektor 16===
+[[Bild:Brudberget-sektor16.jpg|300px]]
+
+{{led|nr=Gul|namn=Train in vain|grad=6a|fa=[[DD]], 1997|betyg=2|längd=2,5|text=Kort men relativt intressant problem. Bra landning. H. och V. hand på varsin crimper på ömse sidor om nischen. V.fot en bit bort t.v. H.ben under dig. Stå på h.fotens yttersida. Dra dig upp (ganska hårt) och slappa upp till den slopiga horizontalsprickan rakt upp med h.hand. Matcha, kliv upp och mantla över.}}
+
+
+Dessa tre problem börjar med HH i sidgrepp i listen i sprickan 1.5m till höger om "Train in vain:
+{{led|nr=Röd|namn=Skalman|grad=6b|fa=[[Tomas Gustavsson]] 1999|betyg=3|längd=2,5|text=Börjar med VH på den bra listen som används för HH på "Train in vain". Sittstart, gå upp med VH till sockerbitsgrepp rakt upp, följ sedan med HH till list på kanten rakt upp. Avsluta med juggen på kanten till vänster. För att göra första moven, sätt v.fot på sned list längst ned till höger, h.fot på slopig platta rakt ovanför till höger, deadpointa till sockerbiten.}}
+
+{{led|nr=Röd|namn=Bamse|grad=6c|fa=[[Peter Bosma]] 1999|betyg=3|längd=2,5|text=Går som Skalman, men börjar med VH på mikrolisten under den bra listen på Skalman. Listen på Skalman får förståss ej användas. Även här sittstart.}}
+
+{{led|nr=Röd|namn=Dunderhonung|grad=6c+|fa=[[DD]] 1999|betyg=3|längd=2,5|text=startar med samma grepp som Skalman. Korsa sedan med HH till sockerbiten rakt upp, dra sedan direkt till juggen uppe på kanten. Korta personer kan här fronta med v.fot ute till vänster medan långa personer har fötterna till höger och låser in med axeln på VH. Sittstart ej nödvändigt, dock möjligt. }}
+
+[[Bild:Brudberget-sektor16-2.jpg|300px]]
+
+Två mycket korta problem, egentligen bara ett move. Mycket luftfuktighetsberoende (speciellt Mössa):
+{{led|nr=Blå|namn=Hatt|grad=6a|fa=[[Michael Meyer]], 1997
+|betyg=2|längd=2|text=Startas med händerna på de två sloparna. Ett tips är att pincha så mycket som möjligt med vänster tumme. Hur du skall placera fötterna beror mycket på hur lång du är. Jag placerar fötterna långt bort till h. medan jag tror att Micke frontar. För att göra "Hatt", gå upp med v. hand.}}
+
+{{led|nr=Blå|namn=Mössa|grad=4|fa=[[Michael Meyer]], 1997
+|betyg=2|längd=2|text=Startas med händerna på de två sloparna. Ett tips är att pincha så mycket som möjligt med vänster tumme. Hur du skall placera fötterna beror mycket på hur lång du är. Jag placerar fötterna långt bort till h. medan jag tror att Micke frontar. För att göra göra "Mössa" gå upp med h.hand.}}
+
+{{led|namn=Ghosttrain|grad=6b|fa=[[DD]], 1998|betyg=3|längd=5-6|text=Travers som börjar strax till vänster om Train in vain och slutar strax till höger om Hatt & Mössa. Följ sprickan, inga elimineringar. }}
+
+{{sidbrytning}}
+===Sektor 16a===
+{{led|namn=One for the masses|grad=3|fa=?, 1999|betyg=1|längd=3-4|text=Travers på blocket inne i skogen. Lätt för händerna på kanten, värre för fötterna. }}
+
+===Sektor 17===
+
+{{led|namn=Flee|grad=4|fa=[[DD]], 1998|betyg=3|längd=3,5|text=Tydlig linje som följer en "undercling"-spricka åt höger.}}
+
+{{led|namn=Undercling thing|grad=3|fa=[[DD]], Animal, 1999|betyg=2|längd=3,5|text=Uppför arreten till vänster om "Undercling thing". Start med VH i undercling och HH på pinch, OK steg. HH bort th till bra undercling, VH till liten sidepull på arêten. Kliv upp med HF och skicka upp HH till jug rakt upp. Mantla över. }}
+
+{{led|namn=Titteli-kvack|grad=3|fa=[[Tomas Gustavsson]], 1999|betyg=3|längd=3,5|text=Tydlig linje som följer en stor spricka rakt upp till höger om "Undercling thing". Använd sprickan....}}
+
+{{sidbrytning}}
+===Sektor 18===
+[[Bild:Brudberget-sektor18.jpg|500px]]
+
+{{led|nr=Rosa|namn=Aussiegirls|grad=6c|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Gul|namn=The chosen one|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Grön|namn=Dharma|grad=6c|fa=[[DD]], [[Michael Meyer]], [[Stefan Pettersson]], 1997|betyg=5|längd=4|text=En närmast perfekt boulder med perfekt landning! Start med båda händerna nere i tvärsprickan. Tveaka med höger ben och skicka upp till slopig crimper med höger hand. Placera om fötterna och gå vidare med h. hand till bättre crimper. Matcha och gå vidare med valfri hand till slopig jug. Steppa upp med fötterna och spring/hoppa upp för svaet. }}
+
+{{led|nr=Blå|namn=Gautama|grad=6c|fa=[[DD]], 1997|betyg=4|längd=4|text=Ännu en kanonboulder med kanonlandning! Starta med båda händerna i tvärsprickan någon meter t.h. om "Dharma". Korsa upp med h. hand till juggen och dra igenom så att du når en slopig crimplist långt bort t.v. Ryck vidare till bättre list och matcha där. Slutet gemensamt med "Dharma".}}
+
+{{led|nr=Röd|namn=Mantra|grad=7b+|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Gul|namn=The Prophet|grad=6a|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Turkos|namn=Mantra Slider|grad=6c|fa=|betyg=|längd=|text=}}
+
+{{sidbrytning}}
+===Sektor 19===
+[[Bild:Brudberget-sektor19.jpg|300px]]
+
+{{led|namn=Okänd19-1|grad=?|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Röd|namn=Nirvana|grad=4|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Blå|namn=Helvetets 9:e krets|grad=7a+|fa=|betyg=|längd=|text=}}
+
+{{sidbrytning}}
+===Sektor 20===
+[[Bild:Brudberget-sektor20.jpg|300px]]
+
+{{led|nr=Röd|namn=Moxica|grad=6b|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Blå|namn=Piña|grad=4+|fa=|betyg=|längd=|text=}}
+
+{{sidbrytning}}
+===Sektor 21===
+[[Bild:Brudberget-sektor21.jpg|500px]]
+
+{{led|nr=Röd|namn=Rätt slätt|grad=6a|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Gul|namn=Crimpface|grad=6b|fa=[[Michael Meyer]] - 1997|betyg=3|längd=3|text=Mycket distinkt problem. Fin, fast klippa och bra landning. Båda händerna i tvärsprickan. V.f. på vass knopp/alt. list ute till vänster, h.f. på smear. Lås in på h.h. samtidigt som du lägger så mycket vikt som möjligt på v.f.. Sträck dig upp och plocka mikrolisten i övre tvärsprickan. Placera nu h.f. på incutlisten t.h. Deadpointa upp till V-formad slopig crimplist t.h. och ovanför v.h.. Kliv upp med valfri fot i tvärsprickan, ta topslopern och mantla över kanten.}}
+
+{{led|nr=Svart|namn=Ballistic brother|grad=7c|fa=[[Stefan Pettersson]], [[DD]], 2000|betyg=5|längd=3|text=Klockren lång dyno på sköna grepp. Start med båda händerna på de stora platta greppen i tvärsprickan.VF mot den vertikal kanten, HF på det bra steget uppe till höger. OK all set. Nu är det bara att skicka på till kanten...}}
+
+{{led|nr=Blå|namn=Disco Duck|grad=4|fa=[[DD]], 1997|betyg=2|längd=3|text=Ganska teknisk, inte särskilt hård. Båda händerna i tvärsprickan. Fötterna på de båda vertikala "listerna". Dropknee/tveak med h.ben för att få tryck. Lås in på v.hand och gå upp till den markanta listen. Matcha på denna, kliv upp i tvärsprickan och mantla över kanten.}}
+
+{{led|nr=Grön|namn=Supertramp|grad=6a|fa=|betyg=|längd=|text=}}
+
+{{sidbrytning}}
+===Sektor 22===
+[[Bild:Brudberget-sektor22.jpg|500px]]
+
+{{led|nr=Röd|namn=Airbag|grad=4|fa=|betyg=4|längd=2,5|text=Fint, psykiskt problem. Känns svårare än det är! Starta med händerna i sprickan och gå rakt upp. Mantlingen äver kanten är den känsliga biten. }}
+
+{{led|nr=Gul|namn=Hairbag|grad=3|fa=|betyg=|längd=|text=}}
+
+{{led|nr=Blå|namn=Sandbag|grad=3|fa=|betyg=|längd=|text=}}
+
+{{led|namn=Janus|grad=5c|fa=[[Patric Westerlund]], -02|betyg=|längd=3|text=Areten/väggen direkt t.v om sprickan Sandbag. Start antingen vh på liten incut och hh på aretekanten fötterna frontar, eller hh på incuten och vh på slopig kulle tv och ovanför incuten med fötterna i tweak hhöft mot väggen. Oavsett start ska man till stora vänstersluttande hyllan en bit upp. Matcha, jobba upp fötter och hitta grepp för vh och hh på slopiga toppkanten. Kliv upp. Variant 1 för de korta, variant 2 för de längre? }}
+
+===Sektor 23===
+{{led|namn=Axel Franco|grad=5-|fa=[[Fredrik Malmros]], [[Johan Boman]], [[Jonas Lind]], 1999|betyg=5|längd=3-4|text=Vägg med halvdynamisk avslutning. Väggen till vänster om sprickan ovanför Airbag. }}
+
+{{led|namn=Okänd23-1|grad=?|fa=|betyg=|längd=|text=}}
+
+===Sektor 24===
+{{led|namn=Crossroads|grad=7b|fa=[[Michael Meyer]], 2000|betyg=5|längd=4|text=Kanonproblem med crimpers och dyno. Sit down start in the obvious large hold in the crack nearest the ground. A long stretch leads to a crimper. A crossover follows. Keep working to the left and then dyno for a two-finger hold. Now it's just the mantle… }}
+
+{{led|namn=Crack monster|grad=6c|fa=[[Peter Bosma]], 2000|betyg=|längd=4|text=Tydlig spricka. Sittstart i samma grepp som Crossroads. Rakt uppför sprickan, ut till juggen till vänster på slutet (samma som Crossroads). Fortsätt över kanten. }}
+
+[[Kategori:Bouldering]]
+[[Kategori:Stockholm]]
+[[Kategori:Nacka-Värmdö]]

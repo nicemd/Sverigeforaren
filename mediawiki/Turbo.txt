@@ -1,0 +1,47 @@
+{{Stub}}
+== Allmänt ==
+
+Ett större område än Vikmanshyttan, kan säkerligen komma att rymma minst ett 20-tal problem tids nog. Än sålänge är bara en bråkdel utvecklat men mer är på G. Bla en supernajs och luftig Arete.
+Soon to come 
+/c
+
+== Vägbeskrivning ==
+<googlemap version="0.9" lat="60.279324" lon="15.860138" type="map" zoom="11">60.242879, 15.834732, TurboTurbo, Sverige</googlemap>
+
+== Områden == 
+
+
+=== Frontal ===
+<BR>[[Bild:PICT0055.jpg]]<BR>
+{{problem|namn=Blessing It|grad=6A+|betyg=0|text=Grön linje, SS, Kort cruxig tur på areten till vänster på väggen/blocket.}}
+{{problem|namn=Modal Soul|grad=6B+|betyg=0|text=Röd linje, SS, Kort lite sträckig tur mitt på väggen. Börjar nere till höger på dubbellister och drar sedan upp åt vänster via sidolist. Areterna elim för händerna.}}
+{{problem|namn=Treår|grad=5C|betyg=0|text=Blå linje, SS, Den högra areten helt enkelt.}}
+<BR>[[Bild:Mr Hyde.jpg]]<BR>
+{{problem|namn=Mr Hydes escape|grad=6A|betyg=1|text=Blå linje, Startas lättast på två crimpar vardera sida om areten, drar sedan efter catch ut åt höger}}
+{{problem|namn=Mr Hyde|grad=6B|betyg=3|text=Röd linje, Startas lättast på två crimpar vardera sida om areten, följ areten åt vänster på slopers och toppa ut via skönt 'homesafe' kristallgrepp}}
+{{problem|namn=Mr Hydes assis|grad=7 någonting, PROJEKT|text=Gul linje, gå från hh pinch och vh crimp och slappa areten därifrån vidare upp i Mr Hyde förslagsvis}}
+<BR>[[Bild:Dr Jekyll.jpg]]<BR>
+{{problem|namn=Dr Jekyll|grad=Gissningsvis 7A, PROJEKT|text=Röd linje, Startar brett och slappas via areten upp med spricka som stöd, skralt med fotsteg för högern.}}
+
+=== Skogen ===
+<BR>[[Bild:Linus direkt.jpg]]<BR>
+{{problem|namn=Odöpt |grad=5|text=Gul linje, sittstart med crimpers, upp via knopp och rakt upp för slabbig urtoppning}}
+{{problem|namn=Odöpt |grad=5|text=Grön linje, sittstart med crimpers, upp via knopp och fortsätt rampen ut till topps.}}
+{{problem|namn=Projekt |grad=?|text=Lila linje, sittstart med arete och crimper, cruxet är starten, betydligt lättare därefter}}
+
+<BR>[[Bild:IMG 6204.jpg]]<BR>
+{{problem|namn= Winter Lane |grad=6A+|betyg=1|text=Gul linje, Start med dubbel sidepull/undercling. Fint överhängande, upp via vä kant.}}
+{{problem|namn= Highs 2 Lows  |grad=6A|betyg=2|text=Grön linje, Start med dubbel sidepull/undercling. Fint överhängande, upp via höger kant}}
+{{problem|namn=Strive |grad=6A+-6B |betyg=3|text=Röd linje, Fint överhängande, starta i dubbla sidepulls/underclings, dyno från stora grepp till tops utan sidokanterna.}}
+
+=== Myren ===
+<BR>[[Bild:IMG 6201.JPG]]<BR>
+{{problem|namn= With Rainy Eyes |grad=6A+|text=Röd linje, Start på minipinch hh och sidepull vä. Upp via hö.}}
+{{problem|namn= Flowers |grad=6A|betyg=1|text=Blå linje,  Start med höger i crimppocket, vä på sidepull/undercling.}}
+{{problem|namn= Projekt |grad=? |text=Röd+Lila linje, Start som WRE men istället för att dra höger och upp gå in vä och upp i slopig skål}}
+<BR>[[Bild:IMG 6200.JPG]]<BR>
+{{problem|namn= Think Different |grad=6A|text=Blå linje, SS, upp via sloperhyllan och sedan med dragning åt vänster.}}
+{{problem|namn= Projekt |grad=?|text=Grön linje, SS, men från sloperhyllan dyno rakt upp.}}
+
+== Projekt ==
+Alla är öppna, klättra för njutningen inte äran. Om ni klättrar något nytt, snälla fota och för in här så att vi kan hålla koll på vad som är ogjort.

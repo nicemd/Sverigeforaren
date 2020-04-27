@@ -1,0 +1,54 @@
+{{info klippa
+  |lat=59.351893
+  |long=17.915847}}
+
+{{boulderkomplett}}
+
+[[Bild:PW_p%C3%A5_Snillen.JPG|thumb|right|300px|Per Willén på Snillen Spekulerar (6a+), Kyrksjön, Bromma. Foto: Per Calleberg]]
+Liten bouldervägg upp till 5 m höjd i skogen norr om Kyrksjön i Bromma. Drygt ett dussin relativt lätta problem (4-6a). Klippan ligger rätt väl dold i skogen, vilket säkert bidragit till att den först nyligen upptäckts. Men detta betyder också: glöm inte myggmedel.
+
+
+
+
+== Vägbeskrivning ==
+
+<googlemap width=350 height=300 lat="59.352293" lon="17.920847" zoom="15" type="map" controls="small">
+59.351893,17.915847,[[Kyrksjön]]
+</googlemap>
+
+Från Brommaplan: kör Spångavägen cirka 2 km till rondellen där Spångavägen möter Gliavägen och Vultejusvägen. Sväng vänster in på Vultejusvägen och fortsätt cirka 100 m. Där villorna slutar och skogen tar vid går det in en gång- och cykelstig till vänster. Det går att parkera 50 m längre fram t h vid Ängby IP. Följ gång- och cykelstigen tills den grenar sig som ett Y. Följ den vänstra grenen ytterligare cirka 50 m. Där stigen kröker åt höger finns en parkbänk nedanför en bergknalle. Följ bergsbranten åt vänster (norrut) så hittar du klippan 30-40 meter in i skogen.
+
+'''Kommunalt:'''
+T-bana till Brommaplan. Buss 117 mot Spånga station, avstigning vid hållplats Vultejusvägen. Följ sedan Vultejusvägen enl. vägbeskrivningen ovan.
+
+{{sidbrytning}}
+==Skiss==
+[[Bild:kyrksjon_ny.gif]]
+
+==Problem==
+[[Bild:PW_p%C3%A5_Dirty_Deeds_2.JPG|thumb|300px|right|Per Willén på Dirty Deeds Done Dirt Cheap (6a), Kyrksjön, Bromma.
+Foto: Per Calleberg]]
+{|
+|- valign="top" |
+| width=250px |
+{{led|nr=1|namn=Blåsningen|grad=5|text=Start med båda händerna på ett bra grepp och klättra areten. Sittstart.}}
+{{led|nr=2|namn=Borstakongen|grad=4|text=Använd startgreppet på Blåsningen för vh och ett sidotag för hh och klättra snett upp tv. Sittstart}}
+{{led|nr=3|namn=Korven|grad=4|text=Starta lågt i grepp på bullen och klättra rakt upp.}}
+{{led|nr=4|namn=I promise not to come in your mouth|grad=5|text=Starta med bra grepp precis th om areten och klättra v in i diedret och upp.}}
+
+{{led|nr=5|namn=Volvo flygmotor|grad=5+|text=Starta på samma grepp som (nr 4) men klättra upp åt h.}}
+{{led|nr=6|namn=Hovpredikanten|grad=5-|text=Upp längs väggen.}}
+{{led|nr=7|namn=Dissociativ amnesi|grad=5-|text=Diedret.}}
+| width=250px |
+{{led|nr=8|namn=Electrolux|grad=5+|text=Kylskåpsklättring. Hh på areten och vh på kanten i diedret.}}
+{{led|nr=9|namn=Snillen spekulerar|grad=6a+|text=Klättra upp på areten. Jugarna th och diedret tv ingår inte.}}
+{{led|nr=10|namn=Andreas odöpta|grad=5|text=Diedret.}}
+{{led|nr=11|namn=Diretissiman|grad=4|text=Börja lågt i bra grepp under tak, gå snett uppåt vänster längs rampen, sedan uppför facet på bra men aningen lösa grepp.}}
+{{led|nr=12|namn=Bergsguidesakrobatik|grad=5|text=Klättra genom taket i högerkanten.}}
+{{led|nr=13|namn=I nionde månaden|grad=6a|text=Starta mitt på svaet och upp genom taket.}}
+{{led|nr=14|namn=Dirty deeds done dirt cheap|grad=6a|text=Klättra upp i högerkant av svaet utan att använda kanten th.}}
+{{led|nr=15|namn=Florins namnlösa|grad=5|text=Upp längs kanten och kliv ut på hyllan th.}}
+|}
+
+[[kategori:Bouldering]]
+[[kategori:Stockholm]]

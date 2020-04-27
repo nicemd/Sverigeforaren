@@ -1,0 +1,37 @@
+{{info klippa
+  |lat=57.90934
+  |long=11.76552
+}}
+
+{{stub}}
+<googlemap lat="57.90934" lon="11.76552" zoom="9" type="map">
+57.90934,11.76552,Edens Lustgård
+</googlemap>
+
+==Allmänt==
+Typisk Göteborsk vinterklippa. Sportklättring i mellanregistret (6c-8a typ) 
+==Video==
+<youtube>v=XVaIfCqCUf8</youtube>
+{{tryckt förare|klättring i göteborg med omnejd (2012)=ja}}
+
+[[Category:Video]]
+[[Kategori:Göteborg]]
+
+
+==Leder==
+
+{{led|namn=Sol|grad=5c}}
+{{led|namn=Is|grad=5|typ=trad}}
+{{led|namn=Noaktion|grad=7c+}}
+{{led|namn=Sjunde dagen|grad=7b}}
+{{led|namn=Adam|grad=7a}}
+{{led|namn=Eva|grad=7a+}}
+{{led|namn=Guds vrede|grad=8a+}}
+{{led|namn=Äpplet|grad=8b+}}
+{{led|namn=Pater Noster|grad=8a}}
+{{led|namn=Genesis|grad=7b+}}
+{{led|namn=Vid havet vill jag bo|grad=7c}}
+{{led|namn=Lustgården|grad=6c}}
+{{led|namn=Festivus|grad=6c+}}
+{{led|namn=Nöten|grad=7c}}
+{{led|namn=Lille Putt|grad=6c}}

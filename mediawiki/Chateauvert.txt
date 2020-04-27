@@ -1,0 +1,22 @@
+{{stub}}
+
+{{info klippa
+  |lat=43.493779
+  |long=6.045914 
+}}
+
+<googlemap version="0.9" lat="43.488798" lon="5.72937" type="map" zoom="8">
+43.493779, 6.045914, Chateauvert
+</googlemap>
+
+Massor av sportklättring utan anmarsch
+
+http://www.klaan.nu/chateauvert.html
+
+[[Bild:chateauvert.jpg]]
+
+[[Kategori:Sport]]
+[[Kategori:Frankrike]]
+[[Kategori:Utomlands]]
+[[Kategori:Överhäng]]
+[[Kategori:Vertikalt]]

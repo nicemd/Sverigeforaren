@@ -1,0 +1,22 @@
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+
+{{boulderstub|extern=ja}}
+
+[[Kategori: Uppsala]]
+
+Det första område som utvecklades i Uppsala. Mest låga block och stenen är vass. Finns några problem som är värda besväret att ta sig hit dock. Nåsten Enköpingsvägen är definitivt värt ett besök.
+
+=Vägbeskrivning=
+
+Lättast att ta cykeln hit. Följ den gamla järnvägsvallen österut från Flogsta, passera skogspartiet efter Håga by.När du kommer ut på åkern följ ridstigen längs skogskanten på vänster sida till en vändplan - Nåsten ligger utspritt längs med vägen. 
+Nåsten Enköpingsvägen nås om man fortsätter längs banvallen genom nästa skogsparti förbi ett hus på höger sida. Blocken ligger sedan invid banvallen på vänster sida. De Kan lätt ses från banvallen.
+
+<googlemap version="0.9" lat="59.839295" lon="17.543621" type="map" zoom="13" width="500" height="300">
+59.833387, 17.521219, Nåsten-Enköpingsvägen
+59.831532, 17.541561, Nåsten
+</googlemap>
+
+=Förare=
+
+[http://www.bergsklattring.nu/ubgV1_1.pdf Förare]

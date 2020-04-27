@@ -1,0 +1,76 @@
+{{info klippa
+  |lat=59.19671
+  |long=17.83998
+}}
+
+{{komplett}}
+==Allmänt==
+En liten vägg med något, för stockholmstrakten, så ovanligt som lätta bultade turer.
+
+==Karaktär==
+Väggen är 8-10m hög och alla leder är borrbultade och försedda med ankare. Miljön är lite speciell då klippan ligger precis vid en vältrafikerad gångväg. En del kommentarer från överförfriskade, förbipasserande herrar ingår i paketet. De flesta ankare är lätta att komma åt uppifrån för att sätta topprep i.
+
+Klippan är nordöst-vänd men torkar ganska långsamt efter regn. Även marken nedanför klippan är oftast blöt. Klippan är upplyst på kvällarna!
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.19671" lon="17.83998" zoom="14" type="map" controls="small">
+59.19671,17.83998,[[Storvretsbacken]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Storvretsbacken
+lat=17839980
+long=59196710
+</slresa>
+</div> 
+
+
+'''Bil:''' Från Tumba centrum, ta Huddingevägen mot Huddinge. Sväng h efter köpcentret. Sväng h in på Bryggarvägen och fortsätt förbi McDonalds och brädgården till parkeringen.
+
+'''Kommunalt:''' Åk pendeltåget till Tumba och gå ut vid västra utgången (framåt i färdriktningen om man kommer från Stockholm) och gå ner till bussterminalen. Gå förbi busshållplatserna och ett stort cykelställ och in på en gångväg skyltad Storvreten
+
+<div style="clear:right"></div>
+
+==Leder==
+[[Bild:storvretsbacken_skiss.gif]]<br>
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|nr=1|namn=Blixten Suddigum|grad=6a|betyg=0|längd=8|fa=[[Per Willén]] [[2003|-03]]|bultar=3|typ=sport|text=Går upp längs ”hyllorna” i klippans vänsterkant. En av dem är ganska intressant att mantla upp på.}}
+
+{{led|nr=2|namn=Smultron-Agnes|grad=6b|betyg=0|längd=8|fa=[[Lars Svensson]] [[2003|-03]]|bultar=3|typ=sport|text=Går upp till samma ankare som {{ledlänk|namn=Blixten Suddigum}} men på ett något mer ansträngande sätt.}}
+
+{{led|nr=3|namn=Fredriks favorit|grad=6a|betyg=1|längd=8|fa=[[Per Willén|PW]] [[2000|-00]]|bultar=3|typ=sport|text=Graden gäller insteg rakt upp. Man kan göra leden lättare genom att börja med rampen (5b).}}
+
+{{led|nr=4|namn=Samnerud - pionjären|grad=4c|betyg=0|längd=10|fa=[[Andreas Bengtsson]] [[2000|-00]]|bultar=4|typ=sport|text=}}
+
+{{led|nr=5|namn=Oceanen|grad=4c|betyg=0|längd=10|fa=[[Magnus Linderholm]] [[2000|-00]]|bultar=4|typ=sport|text=}}
+
+| width="300px" |
+
+{{led|nr=6|namn=Kronan|grad=4c|betyg=0|längd=10|fa=[[Thomas Eriksson]] [[2003|-03]]|bultar=4|typ=sport|text=}}
+
+{{led|nr=7|namn=Knipsaren|grad=5a|betyg=0|längd=10|fa=[[Per Willén|PW]] [[2003|-03]]|bultar=4|typ=sport|text=}}
+
+{{led|nr=8|namn=The Prince of Darkness|grad=6b+|betyg=1|längd=10|fa=[[Thomas Eriksson|TE]] [[2003|-03]]|bultar=4|typ=sport|text=Fin klättring som tyvärr ofta är blöt i nedre delen.}}
+
+{{led|nr=9|namn=Topprepsleden|grad=?|betyg=0|längd=10|typ=Topprep}}
+
+{{led|nr=10|namn=Skurgumman|grad=6a|betyg=1|längd=10|fa=[[Petra Carlénarsson]] [[2003|-03]]|bultar=4|typ=sport|text=Klippans svaled. Graderingen gäller om man gör en liten kringgående manöver åt vänster på mitten, annars blir leden betydligt svårare.}}
+|}
+
+==Observera!==
+Klippan ligger på kommunal parkmark. Botkyrka kommun har gett tillstånd att utveckla klippan och tillåter klättring så länge det sköts på ett snyggt sätt och att alla är medvetna om att klättringen sker på egen risk. Om du vill göra en nytur, vilket det finns utrymme för, så skall den vara ordentligt bultad och försedd med rejält ankare, allt i rostfritt, annars kommer turen att avvecklas.
+<br>
+==Panorama==
+<br>
+[[Bild:Pano_DSC08039.jpg|740px]]
+
+
+[[Kategori:Sport]] [[Kategori:Sva]] [[Kategori:Vertikalt]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]

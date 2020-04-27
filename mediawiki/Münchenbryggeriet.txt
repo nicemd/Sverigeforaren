@@ -1,0 +1,142 @@
+{{info klippa
+  |lat=59.32081
+  |long=18.05053
+}}
+
+{{utkast}}
+[[Kategori:sport]]
+[[Kategori:Stockholm]]
+[[Kategori:Stockholm City]]
+
+==Allmänt==
+Lite sprängklippa och lite naturlig klippa. 
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.32081" lon="18.05053" zoom="14" type="map" controls="small">
+59.32081,18.05053,[[Münchenbryggeriet]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Munchenbryggeriet
+lat=18050530
+long=59320810
+</slresa>
+</div> 
+
+Nedre delen är sprängklippa av inte så hög kvalitet, dock förvånansvärt fin klättring på övre halvan som är naturlig klippa. Största fördelen är nog ändå att det går fort att ta sig dit en kväll efter jobbet.
+
+Skiss finns på [http://www.plonk.se/oldsite/munchen2.html Plonk]
+
+De sex-sju leder som under 2007 bestulits på hängare/ankare har nu återfått forna tiders glans och är åter klätterbara. Läs mer på [http://www.utsidan.se/forum/showthread.php?t=43532 Utsidan]
+
+Meja Madeleine har nu fått tillbaka hängare på sitt ankare av Bultkommittén 12/7 08
+
+<div style="clear:right;"></div>
+
+==Leder==
+'''Vänstra delen'''
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Impromania|grad=6a+|fa=JL}}
+
+{{led|namn=Mater nexus|grad=6a|fa=JL}}
+
+{{led|namn=Slime|grad=6b}}
+
+{{led|namn=Nytursmonstret|grad=6a|fa=MO, CT}}
+
+{{led|namn=Dumma leden|grad=5c}}
+
+{{led|namn=Babba bitch|grad=6c|text=5c till hylla}}
+
+{{led|namn=Längsta leden|grad=6b}}
+
+{{led|namn=Längsta leden direkt|grad=6b|fa=PW|text=Direktinsteg till ''Längsta leden''. Efter hyllan kan man också välja slutet på ''Utan remmar''.}}
+
+{{led|namn=Utan remmar|grad=6b|fa=MO, CT}}
+
+{{led|namn=Meja Madeleine|grad=6a|fa=MO, CT}}
+
+{{led|namn=Konstiga turen|grad=6a}}
+
+{{led|namn=750 år|grad=7a+|fa=[[Johan Luhr]]}}
+
+{{led|namn=Mors dag|grad=7c|fa=[[Johan Luhr]]|text=Variant höger in i Batman 7b+}}
+
+| width="300px" |
+
+{{led|namn=Batman|grad=8a+|fa=[[Johan Luhr]]}}
+
+{{led|namn=Flyt|grad=7c+|fa=[[Johan Luhr]]|text=Alt insteg till Mors dag (7c+, hela) eller Batman (7c, hela)}}
+
+{{led|namn=Dick for a day|grad=7a|fa=CT|text=Endel hävdar att stången ingår, andra inte. Förstabestigaren Claes Thornberg hävdar med bestämdhet att stången EJ ska användas, den kommer sågas bort!}}
+
+{{led|namn=När börjar festen?|grad=7c|fa=[[Johan Luhr]]}}
+
+{{led|namn=Ligg lågt|grad=7a+|fa=[[Johan Luhr]]}}
+
+{{led|namn=Bubbel|grad=6b|fa=[[Johan Luhr]]}}
+
+{{led|namn=Borgila|grad=5c|fa=[[Johan Luhr]]}}
+
+{{led|namn=Viking|grad=5c|fa=[[Johan Luhr]]}}
+
+{{led|namn=Lävik|grad=6a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Topaz|grad=6a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Fanny|grad=6a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Topaz|grad=6a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Argus|grad=6a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Havsfrun|grad=5c|fa=[[Johan Luhr]]}}
+
+{{led|namn=Thor|grad=6a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Linnea|grad=6a+|fa=[[Johan Luhr]]}}
+|}
+
+'''Högra delen'''
+{|
+|- valign="top"
+| width="300px" |
+
+{{led|namn=Salta katten|grad=6a+|fa=[[Johan Luhr]]}}
+
+{{led|namn=Tutti frutti|grad=6b|fa=[[Johan Luhr]]}}
+
+{{led|namn=Kalle Anka|grad=6a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Frukto|grad=5c|fa=[[Johan Luhr]]}}
+
+{{led|namn=Glattis|grad=6b+|fa=[[Johan Luhr]]}}
+
+{{led|namn=Trappan direkt|grad=6b|fa=[[Johan Luhr]]}}
+
+{{led|namn=Trappan|grad=6a+|fa=[[Johan Luhr]]}}
+
+{{led|namn=Koll på stången|grad=6c|fa=[[Johan Luhr]]}}
+
+{{led|namn=PK|grad=6c|fa=[[Johan Luhr]]}}
+
+| width="300px" |
+
+{{led|namn=Diedro|grad=6b|fa=[[Johan Luhr]]}}
+
+{{led|namn=Titanic|grad=7b|fa=[[Johan Luhr]]}}
+
+{{led|namn=Hål i skrovet|grad=8a|fa=[[Johan Luhr]]}}
+
+{{led|namn=Hej och hå krimpa på|grad=7c+|fa=[[Johan Luhr]]}}
+
+{{led|namn=Stöt|grad=8a|fa=[[Johan Luhr]]|text=Har förlorat ett fotsteg. Kan vara svårare nu.}}
+
+{{led|namn=Ångbåtsblues|grad=7b+|fa=[[Johan Luhr]]|text=Insteg bakom träd och snedda längst kant}}
+|}

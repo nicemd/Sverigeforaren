@@ -1,0 +1,38 @@
+{{info klippa
+  |lat=59.432514
+  |long=17.983965
+}}
+{{boulderkomplett}}
+
+== Allmänt ==
+Litet block med ett fint överhäng. Möjlig men svår travers finns, och ett par tre problem med lite olika insteg.
+
+Har fått höra att det finns två stycken äldre förare till detta lilla block och samtliga problem som beskrivs här har gjorts redan tidigt 90-tal av Hasse Häggquist, vet tyvärr inte vad han kallade problemen. Tänkte att föraren kan ligga kvar ändå som ett komplement! Värt ett besök om ni är i krokarna...
+
+== Vägbeskrivning ==
+Sollentuna, Edsviken. Stenen ligger i princip mitt emot infarten till Bergendahls Kursgård, väl synlig från vägen. Kör danderydsvägen (262) och sväng in på Landsnoravägen, skyltat Bergendahl, håll höger i T-korset. Fortsätt 30 meter förbi infarten till kursgården så ser man blocket på höger sida.
+
+<googlemap version="0.9" lat="59.433729" lon="17.986422" zoom="14">
+59.432514, 17.983965
+</googlemap>
+
+== Problem ==
+Tre problem testade. Finns möjligen en svår travers.
+
+[[Bild:Edsviken01.jpg||thumb|300px|left|Kristoffer satsar alltid på högern]]
+[[Bild:Edsviken02.jpg|thumb|300px|right|]]
+
+{{led|nr=1|namn=Straight up|grad=5-|text=}}
+
+{{led|nr=2a|namn=Fröken höger|grad=6b|text=Sittstart. VH-slab, HH-crimp/sidepull. Vidare i Satsa på Högern. Runt 6b skulle jag tro.}}
+
+{{led|nr=2b|namn=Satsa på högern|grad=6a|text=Stående insteg. Start i crimpers, satsa på högerhanden, toppa ur.}}
+
+{{led|nr=3a|namn=Valrossen|grad=6c|text=Sittstart sen vidare i 3b. Svår sittstart, 6c är nog en rimlig grad.}}
+
+{{led|nr=3b|namn=Magsår|grad=6a|text=Stående insteg. Börja mitt över areten, fortsätt upp höger under taket, toppa ur.}}
+
+
+Föraren skapad av: Jim Eriksson
+
+[[Kategori:Norra Stockholm]]

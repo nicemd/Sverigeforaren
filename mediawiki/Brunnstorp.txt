@@ -1,0 +1,63 @@
+{{info klippa
+  |lat=57.82346
+  |long=14.273107
+}}
+
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Berget ligger i Huskvarnabergens naturreservat, vilket utgör en del av riksintresseområdet Östra Vätterstranden. Det upptar en 3,5 kilometer lång sträcka av förkastningsbranten mot Vättern och höjdplatån österut, där de högsta delarna ligger över 300 meter över havet.
+Klippan består av kalkrika grönstenar (diorit och gabbro), som är lättvittrad.	Det har därigenom uppstått många fina sprickor. Berget är däremot ganska slätt på sina ställen, vilket innebär låg friktion.
+
+==Vägbeskrivning==
+<googlemap version="0.9" lat="57.825514" lon="14.27536" zoom="15">
+57.82346, 14.273107
+</googlemap>
+
+==Access==
+Allemansrätten gäller inte fullt ut i Huskvarnabergens naturreservatet, därmed får man bl. a. inte:
+tälta plocka blåsippa, gulsippa, liljekonvalj, smörboll och gullviva
+gräva upp buskar, örter eller ormbunkar eller ta bort mossor, lavar eller trädlevande svampar.
+Medföra okopplad hund eller annat lösgående husdjur Göra upp eld annat än på särskild anvisad plats
+Stadigvarande anbringa tavla, skylt, inskrift, orienteringskontroll, affisch eller därmed jämförlig anordning
+Ingen bultning är tillåten.
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+
+[[Bild:Brunnstorp.jpg]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+| width="350px" |
+
+==Övrigt==
+Brunnstoprs kafé kan vara en bra star eller avslut på ett besök. Öppet till kl 23 de flesta dagar under juni-aug. Under maj & september är det öppet under helger med fint väder
+
+|}
+
+
+
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+
+
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Småland]]

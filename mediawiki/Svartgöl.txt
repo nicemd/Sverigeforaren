@@ -1,0 +1,21 @@
+{{info klippa
+  |lat=58.09414
+  |long=15.62580
+}}
+
+==Allmänt==
+Östergötlands aidparadis.
+
+==Karta==
+{{stub|extern=ja}}
+<googlemap lat="58.09414" lon="15.62580" zoom="9" type="map">
+58.09414,15.62580,[[Svartgöl]]
+</googlemap>
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Aid]]
+[[Kategori:Östergötland]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

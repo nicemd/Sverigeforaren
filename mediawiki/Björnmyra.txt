@@ -1,0 +1,40 @@
+{{info klippa
+  |lat=59.62922752395399
+  |long=12.623634338378906
+}}
+
+{{komplett}}
+
+[[Kategori:topprep]] 
+
+==Allmänt==
+Lågt brett berg med ett par roliga leder och stora bouldermöjligheter. Fast och kompakt berg med frisk, ganska sträv, lite eldig karaktär med en aning kärvt inslag. 
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap 
+lat="59.62922752395399" lon="12.623634338378906" zoom="12" type="map" width="350" height="225">
+59.62922752395399,12.623634338378906,Björnmyra-berget
+</googlemap>
+</div>
+Kör från Arvika längs väg 175 mot Klässbol/Säffle. Vid södra ingestrandsinfarten går man sedan upp mot Björnmyra. Skyltat från vägen? Berget ligger på andra sidan det hygge man passerar på vänster hand innan man går över bäcken. 
+På det här berget har det dock inte varit någon värre trafik under de senaste åren så berget är i stort behov av att rensas både framför(rejält snårigt) och på lederna!
+
+==Leder==
+
+[[Bild:björnmyra.jpg|500px]]
+
+{{led|namn=Vänsterfusk|nr=1|grad=5+|fa=[[Anders Borg/Tväråna]]|bultar=|typ=topprep|text=Runda det stora taket till vänster. En trevlig led för den som saknar inspiration för det stora taket.}}
+
+{{led|namn=Brutala original|nr=2|grad=7-|betyg=0|fa=[[Anders Borg/Tväråna]]|bultar=|typ=topprep|text=Rakt över det stora taket. Undercling på en minimal list leder till postlådan över läppen.}}
+
+{{led|namn=Jacobs Creek|nr=3|grad=5+|betyg=0|fa=[[Martin Norlander]]|bultar=|typ=topprep|text=På aréten till vänster}}
+
+{{led|namn=El Capitain|nr=4|grad=5|betyg=0|fa=[[Joakim Johansson]]|bultar=|typ=topprep|text=Mitt på väggen. Små lister, ganska jobbig.}}
+
+{{led|namn=Stå på dig, annars gör staten det|nr=5|grad=5-|betyg=0|fa=[[Joakim Johansson]]|bultar=|typ=topprep|text=Uppför den högra aréten. Lätt, trevlig klättring.}}
+
+{{led|namn=Strövarleden|nr=6|grad=5-|betyg=0|fa=[[Joakim Johansson]]|bultar=|typ=trad|text=Lätt början, stora grepp. Kruxet är utsteget där man genom en liten högertravers rundar det lilla taket. Goda naturliga säkringar}}
+
+
+[[Kategori:Värmland]]

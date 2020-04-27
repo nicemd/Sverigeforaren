@@ -1,0 +1,39 @@
+{{boulderkomplett}}
+
+==Allmänt==
+Stenen ligger mycket fint längs stigen på väg till [[Runsa]] repklättring. Bra stenkvalitet, mycket bra landningar och trevlig höjd. En fin kväll kan med fördel bestå av att köra lederna på Runsastenen, sen möjligtvis lite traversering på väggen som ligger ca 150m längre fram längs stigen på höger sida.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.56914" lon="17.82467" zoom="14" type="map" controls="small">
+59.56914,17.82467,[[Runsa]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Runsa
+lat=17824670
+long=59569140
+</slresa>
+</div> 
+Kör skyltade vägen mot Runsa, ca 6km. Parkera vid parkeringen efter allén. Följ grusvägen ca 400m till skylt Runsaborg vänster. Följ stigen. Efter ca 200 m ligger stenen mycket synligt på höger sida. 
+<div style="clear:right;"></div>
+
+==Leder==
+
+[[Bild:Runsastenen bild.jpg]]
+
+{{problem|nr=1|namn=Inte nudda trädet!!|grad=5C|text=Rakt upp. (S.Clancy 2011)}}
+
+{{problem|nr=2|namn=Rymdraketen|grad=6C *|text=Starta brett med sidotag. Rakt upp.  (S.Clancy 2011)}}
+
+{{problem|nr=P|namn=Projekt|grad=x|text=För den starke kanske det går att ta sig upp på det blanka överhänget}}
+
+{{problem|nr=3a|namn=Jump in to space|grad=6b+ *|text=Startar som Take off men klättras upp längs aretén till stenens topp. (S.Clancy, 2011)}}
+
+{{problem|nr=3b|namn=Take off|grad=6a+ *|text=Start med höger hand i tydligt sprickhål, vänster på liten vårta. Rakt upp. (T.Rönnbäck, 2011)}}
+
+{{problem|nr=4|namn=Fuglesang|grad=5C |text=5c. Mellan led 3 och 5. Starta med höger hand på liten list, klättra över den lilla bullen. (T.Rönnbäck, 2011)}}
+
+{{problem|nr=5|namn=Sputnik|grad=5a *|text= Sva just hitom trädet, rakt upp. (T.Rönnbäck, 2011)}}

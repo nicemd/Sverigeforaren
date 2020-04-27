@@ -1,0 +1,17 @@
+{{info klippa
+  |lat=59.065095467638315
+  |long=17.58190155029297}}
+
+{{boulderstub}}
+Består av två, tre block varav ett syns ifrån E4'an(målat som ett hus).
+
+<googlemap lat="59.065095467638315" lon="17.58190155029297" zoom="14" type="karta">
+59.065095467638315,17.58190155029297, Saltå kvarn
+</googlemap>
+
+Video på Freedom 7b+
+
+<youtube> v=aIYV5ygxh0k</youtube>
+
+[[Category:Video]]
+[[Kategori:Stockholm]]

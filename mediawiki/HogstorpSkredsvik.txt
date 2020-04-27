@@ -1,0 +1,18 @@
+{{utkast}}
+
+<googlemap version="0.9" lat="58.388397" lon="11.746488" zoom="15">58.38599, 11.745629, IsfallSkredsvik, Sverige</googlemap>
+
+==Allmänt==
+
+Två isfall inne i skogen, Grad WI 4 om man väljer det branta insteget och WI3 om man väljer det lättare till höger. Ca 30 högt.
+==Bild==
+
+[[Fil:20130223_173854.jpg]]
+
+==Vägbeskrivning==
+Kör av E6 vid avtagsvägen Hogstorp, Skredsvik. Kör mot Skredsvik i ca 800m. Fallet ligger på söder sida av vägen på andra sidan en åker (kan ibland ses från vägen bakom stora granar). Parkera på traktorvägen ner mot åkern under kraftledningen. Gå sedan söder ut över åkern, över ån och genom granskogen. Ca 300 m att går.
+
+==Access==
+Inga accessproblem kända
+
+[[Kategori:Is]]

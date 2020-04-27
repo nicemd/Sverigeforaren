@@ -1,0 +1,18 @@
+{{info klippa
+  |lat=59.622630766591
+  |long=17.092151641845703
+}}
+
+{{stub}}
+==Allmänt==
+Lättillgänglig uppvärmning i graderna 4-6. 
+
+==Vägbeskrivning==
+<googlemap version="0.9" lat="59.623592" lon="17.093892" zoom="13">59.623549, 17.093672</googlemap>
+
+Ta Boglösavägen ut från Enköping. C:a 500m från Bredsandsavfarten svänger man in till Gånstagården.
+Parkera och följ löpspåren till lekplatsen och på andra sidan lekplatsen är klippan.
+
+Längre bort på klippan finns ett par till leder.
+
+[[Kategori:Uppland]]

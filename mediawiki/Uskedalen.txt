@@ -1,0 +1,14 @@
+{{utkast}}
+==Allmänt==
+
+Uskedalen är en ganska outforskad dal på Norska västlandet som bjuder på länga svaturer längs sprickor. Många av väggarna är mellan 400 och 500 meter höga och imponerar i majestätiska omgivningar. Toposarna är tänkta att vara ett komplement till den något utdaterade topo som ligger på Bergenklubbens hemsida - routfindingen är nämligen något knepig.
+
+==økertindväggen==
+
+{{led|nr=1|namn=En Midsommarnattsdröm|grad=6+|betyg=3|längd=10 rpl 400|f|bultar=1|typ=|text=En fantastisk resa som är helt i klass med Vestpillaren på Lofoten och Spionfuhrer i Nissedal! Leden karakteriseras av många långa splittersprickor som knyts ihop av blanka väggpassager. Lite "gå på" krävs på sina ställen och några run outs finns. Retur sker genom firning längs leden på bra bultankare. Annmarch = 1h. Dessutom måste ett annmarchsva på två replängder passeras innan starten av leden nås.}}
+
+[[Bild:Midsommarnatt.jpg|thumb|400px|left| John Nordfjäll på det bästa Uskedalen har att erbjuda; femte repan på "En midsommarnattsdröm"(6+), Ökertindsveggen. Foto: Fredrik Rapp]]
+[[Bild:Midsommarnattsdrom TOPO.jpg|thumb|600px|left|En midsommarnattsdröm, økertindsveggen, Uskedalen. Foto: Fredrik Rapp]]
+[[Bild:Midsommarnattsdrom TOPO 2.jpg|thumb|600px|left|En midsommarnattsdröm, økertindsveggen, Uskedalen. Foto: Fredrik Rapp]]
+
+[[Kategori:Norge]]

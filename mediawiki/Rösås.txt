@@ -1,0 +1,46 @@
+{{info klippa
+  |lat=63.3925981229732
+  |long=18.4136009216308
+}}
+
+{{stub|extern=ja}}
+[[Bild:rosas_storavaggen.jpg|frame|center|Stora väggen på Rösås. Två klättrare syns på Fantomen-hyllan och ytterligare två på Golgata.<BR> Foto: [[Användare:Utomjording|Pär Lindholm]] ]]
+<div style="clear: both"> </div>
+==Allmänt==
+Rösås är en mäktig klippa på 120m som har en stark trad-karaktär.
+
+==Vägbeskrivning==
+<div style="float: right">
+<googlemap lat="63.3925981229732" lon="18.4136009216308" zoom="9" type="map" width="300" height="200">
+63.3925981229732,18.4136009216308,Rösås
+</googlemap>
+</div>
+Från Örnsköldsvik så åker man söderut längs E4an ca 3km kilometer. Sväng av E4an åt höger, skyltat 348 mot Åsele.
+Efter 14 km svänger man höger in på Molidenvägen. Då man kommer in i byn är det skyltat mot Rösåsberget. Passera en fotbollsplan och en gammal järnvägsstaion. Parkera på vändplatsen under berget.
+
+==Idag rekommenderade leder==
+Rösås mossar igen. Endast ett fåtal leder är i klätterbar form. Dessa leder går idag bra att klättra:
+
+{{led|namn=Djungelvrål|grad=7|typ=sport|fa=[[Lars Lundquist]] [[1996]] |längd=16|betyg=3|text= Ny sportled i ravinen. Brant på goda grepp. Till vänster om klassikern Sprickan.}}
+
+{{led|namn=Sista skriket|grad=7a+|typ=sport|betyg=1|längd=27|ny=ja|fa=[[Fredrik Nyberg]] [[2010]]|text=Sportled på höger sida av ravinväggen.}}
+
+{{led|namn=Svarta leden|grad=4-|typ=trad|fa=[[Edgar Lundmark]], [[Erland Sandqvist]] [[1968]]|längd=110|betyg=2|text=Rösåsklassikern!}}
+
+{{led|namn=Korpleden|grad=4|typ=trad|fa=[[L-G Johansson]], [[Jörgen Kragh]] [[1973]]|längd=100|betyg=0|text=Klassisk travers halvvägs upp.}}
+
+{{led|namn=Stenbiten|grad=6-|typ=mix|fa=[[Tommy Nilsson]], [[Lena Carleborg]] [[1982]]|längd=100|betyg=0}}
+
+{{led|namn=Golgata|grad=6-|typ=mix|fa=[[Tommy Nilsson]], [[Hans Lindberg]] [[1981]]|längd=100|betyg=0}}
+
+{{led|namn=Perestrojka|grad=7-|betyg=2|typ=mix|fa=[[Per Öhman]], [[Jan Wermelin]] [[?]]|längd=110|betyg=0}}
+
+{{led|namn=Heta Linjen|grad=5|typ=mix|betyg=3|fa=[[Tommy Nilsson]], [[Chris Craggs]] [[1978]]|längd=110|betyg=3}}
+
+Vilka fler? Någon som vet?
+
+[[Kategori:trad]] [[Kategori:vertikalt]] [[Kategori:sva]]
+
+==Förare==
+PDF-förare kan laddas ner på [http://klatterklubben.wordpress.com/forare/ UKHK.se]
+[[Kategori:Ångermanland]]

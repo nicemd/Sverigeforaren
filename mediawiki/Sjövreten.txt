@@ -1,0 +1,26 @@
+{{utkast}}
+
+==Allmänt==
+Liten, tämligen lös klippa längs vägen mot Fituna, ca 2 km efter Vårsta, Dessa leder är de först rapporterade men spår syntes efter tidigare aktiviteter. Kommer aldrig att bli ett nytt Häggsta!
+
+==Vägbeskrivning:==
+Klippan ligger på vänster sida av väg 225, körriktning Fituna, alldeles innan avtagsvägen mot Grödinge kyrka och Skanssundet. Väggen sticker upp bakom träden på andra sidan en potatisåker.
+
+Gamla koordinater: '''10 I SV 615150'''
+
+==Kommunikationer:==
+Buss 783 stannar vid vägen mot Skanssundet.
+
+==Leder==
+{{led|nr=1|namn=Magnum Bonum|grad=5+|längd=15|fa=[[Jan Liliemark]], [[Niklas Björnerstedt]] [[-87]]}}
+{{led|nr=2|namn=Inget för en femmaklättrare|grad=5-|längd=15|fa=[[Niklas Björnerstedt]], [[Jan Liliemark]] [[-87]]}}
+{{led|nr=3|namn=X = X|grad=5/5+|längd=15|fa=[[Harald Brandt]], [[Björn Alber]] [[-87]]}}
+{{led|nr=4|namn=Lång tid, inget hav|grad=5/5+|längd=15|fa=[[Harald Brandt]], [[Björn Alber]] [[-87]]}}
+{{led|nr=5|namn=Lång tid, inget finger|grad=5+|längd=15|fa=[[Björn Alber]], [[Harald Brandt]] [[-87]]}}
+
+[[Kategori:Stockholm]]
+[[Kategori:Fituna]]
+[[Kategori:Sva]]
+[[Kategori:Vertikalt]]
+[[Kategori:Saknar karta]]
+[[Kategori:Gamla koordinater]]

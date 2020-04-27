@@ -1,0 +1,286 @@
+{{info klippa
+  |lat=58.49791
+  |long=11.366558
+}}
+
+{{utkast}}
+== Introduktion ==
+  
+== Karaktär ==  
+
+== Vägbeskrivning ==
+<googlemap version="0.9" lat="58.486875" lon="11.442947" type="map" zoom="11" height="300" controls="small">
+58.49791, 11.366558
+Vetteberget
+</googlemap>
+
+== Access ==
+
+==Leder==
+=== Stora Väggen ===
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Gamkanten|grad=6+|betyg=|längd=25|fa=[[Ann-Sofie Andersson -99]]
+ |typ=trad|text=Arete längst till vänster på berget.}}
+
+{{led|namn=Enebacken|grad=5-|betyg=|längd=8|fa=[[Simon Thyr -99]]
+ |typ=trad|text=Startar över förra leden.}}
+
+{{led|namn=Fingrarna I Syltburken|grad=8|betyg=2|längd=20|fa=[[Johan Svensson -06]]
+ |typ=trad|text=Tunn men tydlig linje upp till Gamhyllan, ca 20meter till vänster om ''Konstnären''. Snygg linje på rödaktig granit som går genom ett vattenslipat överhäng. Lätt upp till och tungt genom överhänget. Sprickan bjuder vidare på delikat och tekniskt desperat klättring. Välsäkrad.}}
+
+{{led|namn=Vad Pojkar Vill Ha|grad=7|betyg=2|längd=30|fa=[[Magnus Strömhäll -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Konstnären|grad=7+|betyg=2|längd=30|fa=[[Johan Svensson -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Ta Mig Härifrån|grad=7-|betyg=|längd=45|fa=[[Magnus Strömhäll -97]]
+ |typ=trad|text=En STOR led med varierande kvalitet, men aldrig tråkig och absolut interessant hela vägen. Ser bedrägligt lätt ut i starten. Vad du tycker om den här leden säger mycket om vilket virke du är gjord av.}}
+
+| width=300px|
+
+{{led|namn=Stupröret|grad=6-|betyg=|längd=20|fa=[[Anders Spång -97]]
+ |typ=trad|text=Börjar på en hylla.}}
+
+{{led|namn=En Annan Mans Boja|grad=6|betyg=|längd=15|fa=[[Anders Spång -99]]
+ |typ=trad|text=Börjar på en hylla.}}
+
+{{led|namn=1000 kg Tvätt|grad=6|betyg=|längd=17|fa=[[Michael Stribhadung, Lena Wegrelius -86]]
+ |typ=trad|text=}}
+
+{{led|namn=Lilla Haren|grad=7+|betyg=|längd=17|fa=[[Magnus Strömhäll, Patrik Jacobsson -03]]
+ |typ=trad|text=Den tydliga bågen/sprickan till höger om ''1000 kg tvätt''.}}
+
+{{led|namn=Min innersta hemlighet|grad=6+?|betyg=|längd=17|fa=[[Per Larsson, Erik Gustafsson -10]]
+ |typ=trad|text=Den vänsterlutande rännan till vänster om ''Blood on the tracks''.}}
+
+{{led|namn=Blood On The Tracks|grad=6-|betyg=|längd=15|fa=[[Michael Stribhadung, Lena Wegrelius -86]]
+ |typ=trad|text=}}
+
+|}
+
+==== Gamhyllan ====
+Gå på en ramp som leder snett upp åt höger för att komma upp till Gamhyllan. Rampen hittar du långt till vänster på berget mellan lederna ''Gamkanten'' och ''Fingrarna i Syltburken''.
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Sprattelgubben|grad=8-|betyg=2|längd=20|fa=[[Johan Svensson -00]]
+ |typ=trad|text=}}
+
+{{led|namn=Sprättbågen|grad=8-|betyg=2|längd=20|fa=[[Johan Svensson -00]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Gamen|grad=7-|betyg=2|längd=20|fa=[[Johan Svensson -97]]
+ |typ=trad|text=}}
+
+|}
+
+====  Toppväggen ====
+10-15 meter hög vägg som ligger på toppen av ''Stora Väggen''.
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Litet Hörn|grad=5|betyg=|längd=13|fa=[[Ann-Sofie Andersson -99]]
+ |typ=trad|text=}}
+
+{{led|namn=Holken|grad=6+|betyg=|längd=10|fa=[[Johan Svensson -00]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Big Jimma|grad=6|betyg=|längd=10|fa=[[Jimmy Pettersson -00]]
+ |typ=trad|text=}}
+
+{{led|namn=Iliopsoas|grad=6+|betyg=|längd=13|fa=[[Markus Sandersnäs -00]]
+ |typ=trad|text=}}
+
+|}
+
+===  Zoo-Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Manvargen|grad=8-|betyg=2|längd=17|fa=[[Johan Svensson -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Zoo|grad=7|betyg=1|längd=15|fa=[[Simon Thyr -97]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Komiform|grad=6|betyg=|längd=15|fa=[[Joakim Fransson -97]]
+ |typ=trad|text=}}
+
+|}
+
+===  Vänsternäve-Väggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Längst Till Vänster|grad=7-|betyg=|längd=17|fa=[[Anders Spång -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Lättare Sagt Än Gjort|grad=8-|betyg=17|längd=|fa=[[Marcus Sandernäs -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Fladdermusen|grad=8|betyg=3|längd=15|fa=[[Fredrik Persson -99]]
+ |typ=trad|text=}}
+
+{{led|namn=Camino De Los Pistoleros|grad=8-|betyg=2|längd=15|fa=[[Mattias Hallsten -99]]
+ |typ=trad|text=}}
+
+{{led|namn=Klassresan|grad=8+|betyg=2|längd=15|fa=[[Magnus Strömhäll -05]]
+ |typ=trad|text=På vänsterväggen mellan El camino... och En knuten vänsternäve. Laybacks och fotjam. Ganska brant.}}
+
+{{led|namn=En Knuten Vänsternäve|grad=8-|betyg=3|längd=15|fa=[[Johan Svensson -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Astroturf|grad=7-|betyg=1|längd=25|fa=[[Joakim Olofsson -00]]
+ |typ=trad|text=Lättare (6) med insteg som nästa led.}}
+
+{{led|namn=Kung Tung|grad=7-|betyg=|längd=25|fa=[[Joakim Olofsson -00]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Urban Turban|grad=7-|betyg=|längd=25|fa=[[Joakim Olofsson -00]]
+ |typ=trad|text=}}
+
+{{led|namn=Fallbilan|grad=7|betyg=2|längd=20|fa=[[Magnus Strömhäll -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Vänsterblocket|grad=7|betyg=1|längd=20|fa=[[Mattias Hallsten -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Karl-Petter Gellerstam|grad=5+|betyg=1|längd=5+|fa=[[Maja Gellerstam -97]]
+ |typ=trad|text=}}
+
+{{led|namn=Tobias Nilsson|grad=6-|betyg=|längd=17|fa=[[Jonas Nilsson]]
+ |typ=trad|text=}}
+
+{{led|namn=Tjockkvist Tittar På|grad=5+|betyg=|längd=10|fa=[[Anders Spång -03]]
+ |typ=trad|text=Till vänster om Råger mår leder en rampformation upp mot vänster tillett utsteg över en kort vägg. Underliga ljud från greppen, men hyggliga säkringar på mitten}}
+
+{{led|namn=Råger Mår|grad=6-|betyg=|längd=8|fa=[[Mattias Hallsten -97]]
+ |typ=trad|text=}}
+
+|}
+
+====  Sumpväggen ====
+Tio meter hög vägg som ligger bakom och ovanför ''Vänsternäve-Väggen''.
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Ulfs Svaled|grad=5+|betyg=|längd=10|fa=[[Ulf Johansson -99]]
+ |typ=trad|text=}}
+
+{{led|namn=Singelklubben|grad=5+|betyg=|längd=13|fa=[[Rikard Larsson -99]]
+ |typ=trad|text=}}
+
+{{led|namn=OOPS!|grad=6|betyg=|längd=13|fa=[[Rikard Larsson -99]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Watertrap|grad=5+|betyg=|längd=10|fa=[[Rikard Larsson -99]]
+ |typ=trad|text=}}
+
+{{led|namn=Smörgåsen|grad=7-|betyg=|längd=10|fa=[[Marcus Sandersnäs -98]]
+ |typ=trad|text=}}
+
+{{led|namn=Gurkburken|grad=5+|betyg=|längd=10|fa=[[Jonas Hellstrand -99]]
+ |typ=trad|text=}}
+
+|}
+
+===  Pinnackelväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Pedalskav|grad=5+|betyg=|längd=7|fa=[[Ulrik Carlsson -99]]
+ |typ=trad|text=}}
+
+{{led|namn=Stå Kvar|grad=6-|betyg=|längd=10|fa=[[Johan Svensson -99]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Stå Still|grad=6-|betyg=|längd=10|fa=[[Johan Svensson -99]]
+ |typ=trad|text=}}
+
+{{led|namn=Ligg Still|grad=5+|betyg=|längd=10|fa=[[Ann-Sofie Andersson -99]]
+ |typ=trad|text=}}
+
+|}
+
+===  Husvagnsväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Upp Till Kamp|grad=7-|betyg=|längd=20|fa=[[Marcus Sandersnäs -07]]
+ |typ=trad|text=När man går på grusvägen från caféet så ligger denna vägg på höger sida, ca10 meter från vägen. Nedre delan av väggen har tre vattenslipade halvrör. Denna led följer den vänstra formationen, som startar med en tydlig sprickai en gryta. Följ spricksystemen till tops!}}
+
+| width=300px|
+
+{{led|namn=Sunday Morning Shoot Out|grad=7+|betyg=|längd=20|fa=[[Henrik Sjöqvist -07]]
+ |typ=trad|text=Leden börjar i det mittre halvröret och vidare i hörnet rakt upp till toppen. Fin välsäkrad klättring.}}
+
+|}
+
+===  Traktorväggen ===
+
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=Lärare på Sommaren, Björn på Vintern|grad=6+|betyg=|längd=20|fa=[[Jonas Nilsson -99]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=Kilsäkra Hela Bohuslän Girls|grad=6+|betyg=|längd=20|fa=[[Marcus Sandersnäs -98]]
+ |typ=trad|text=}}
+
+|}
+
+===  Klyftan ===
+Flera leder klättrade av Henrik Sjöqvist och Andreas Holm.
+{|
+|- valign="top"
+| width=300px|
+
+{{led|namn=|grad=|betyg=|längd=|fa=[[]]
+ |typ=trad|text=}}
+
+| width=300px|
+
+{{led|namn=|grad=|betyg=|längd=|fa=[[]]
+ |typ=trad|text=}}
+
+|}
+
+[[Kategori:Bohuslän]]
+[[Kategori:trad]]
+[[Kategori:sva]]
+[[Kategori:vertikalt]]
+[[Kategori:access]]
+
+Vettebergs klova
+Klättrad av Jan & Björn Holmgren omkr.1983
+Normalvägen. Svårighet ca 4+ (men ganska läskig)

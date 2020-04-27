@@ -1,0 +1,87 @@
+=Allmänt=
+Basen för Norrtälje Klätterförenings boulder aktiviteter. Stor och kompakt blockformation med varierad och fin klättring i alla svårighetsgrader på samlad yta.  
+=Vägbeskrivning=
+5 km nordost om Rimbo, väg 280, hållplats Nydal (buss 639). Följ vägen som är skyltad Jägarhyddan. Gå till vänster och snedda över gräsplan med längdhoppsgrop.
+
+Jägarhyddan finns numera också på 27crags http://27crags.com/crags/jagarhyddan-rimbo
+
+=Sektorer=
+==Huvudblocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Finsprickan|grad=4B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Markant sprickbildning upp}}
+{{problem|nr=2|namn=Klaras travers|grad=4C|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|sittstart=ja|text=Sittstart 2m v om Diskussprickan, traversera v>h}}
+{{problem|nr=3|namn=Diskussprickan|grad=4A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Stenens sida mot diskusringen. Tydlig spricka upp. Lite svårare med sittstart.}}
+{{problem|nr=4|namn=Högervridning|grad=5B|typ=|fa=Stefan Sjöberg|landning=4|sopad=Stefan Sjöberg|text=Start i Diskussprickan, följ linjen snett uppåt höger}}
+{{problem|nr=5|namn=Harkrankstraversen|grad=5C|typ=Travers V->H,Spricka|fa=Klara Emmerfors|landning=3|betyg=1|sopad=Klara Emmerfors|sittstart=ja|text=Traversera spricka v>h}}
+| width="250px" |
+{{problem|nr=6|namn=Harkrankstraversen|grad=6A|typ=|fa=Klara Emmerfors|landning=3|betyg=1|sopad=Klara Emmerfors|sittstart=ja|variant=ja|text=Traversera spricka v>h, avsluta etablerat vid Granitlinjens spricka}}
+{{problem|nr=7|namn=Granitlinjen|grad=5C|typ=|fa=Stefan Sjöberg|landning=2|betyg=1|sopad=Stefan Sjöberg|text=Kompakt sprickbildning rakt tupp}}
+{{problem|nr=7a|namn=Granitvinkeln|grad=6A+|typ=|fa=Robban, 2008|landning=2|betyg=1|sopad=Robban|text=Gå Harkrankstraversen och bind ihop med Granitlinjen}}{{problem|nr=8|namn=Hallinskide|grad=7A|typ=Pinch,Layback,Överhäng|fa=Stefan Sjöberg, 2005|betyg=3|sopad=Stefan Sjöberg|text=Den lutande pelaren mot norr}}
+{{problem|nr=8a|namn=Unknown Pleasures|grad=7B|typ=Crimp,Slope,Överhäng|fa=Stefan Sjöberg, 2009|betyg=3|sopad=Stefan Sjöberg|text=Start tydliga crimps, match slope, upp}}
+{{problem|nr=|namn=Unknown Pleasures right|grad=7B|typ=Crimp,Slope,Överhäng|fa=Fredrik Sydstrand, 2010|betyg=3|sopad=Fredrik Sydstrand|text=Start som Unknown Pleasures, gå sedan upp åt höger efter slopen}}{{problem|nr=8b|namn=Transmission|grad=7B|typ=(Openhand)crimp,layback|fa=Kristian Forsman/Stefan Sjöberg, 2010|betyg=3|sopad=Stefan Sjöberg|text=Start undersidan Bananen, följ spricklinjen, avslut som Hallinskide/Unknown Pleasures}}
+{{problem|nr=9|namn=Pl 400|grad=6A+|typ=|fa=Stefan Sjöberg|landning=2|betyg=1|sopad=Stefan Sjöberg|text=Start Hallinskide, traversera h, slut som Fågelsång}}
+{{problem|nr=10|namn=Bananen|grad=6A|typ=|fa=Klara Emmerfors|landning=2|sopad=Klara Emmerfors|text=Gå på banandieder, avslut händer överst}}
+| width="250px" |
+{{problem|nr=11|namn=Rosa bandet|grad=6B+|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|variant=ja|text=Endast rosafärgade delar på banandiedern}}
+{{problem|nr=12|namn=Fågelsång|grad=5C|typ=|fa=Ulf Palm|landning=2|sopad=Ulf Palm|variant=ja|text=Överkanten av andra diedern upp}}
+{{problem|nr=13|namn=Myggtraversen|grad=4C|typ=|fa=Stefan Sjöberg|landning=2|betyg=2|sopad=Stefan Sjöberg|text=Starta vid diedern, följ spricklinjen åt höger}}
+{{problem|nr=13a|namn=Myggtraversen, SS|grad=6A|typ=|fa=Ronny Andersson, 2008|sopad=Ronny Andersson|sittstart=ja|text=Myggtraversen med sittstart}}
+{{problem|nr=14|namn=Mannen utan minne|grad=5C|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Kompakta väggen rätt upp}}
+{{problem|nr=|namn=Pink Roots|grad=7B|typ=|fa=Fredrik Sydstrand|landning=2|sopad=Fredrik Sydstrand,2010|text=Start crimps, h hand på rosa crimp, catch rakt upp}}
+{{problem|nr=15|namn=Snesitta|grad=4B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Start uppe på Norra blocket, händer i hålen upp}}
+|}
+
+==Norra blocket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=16|namn=Vänsterkanten|grad=4C|typ=|fa=Stefan Sjöberg|landning=4|sopad=Stefan Sjöberg|text=Västra delen, start vänsterkanten, upp}}
+{{problem|nr=17|namn=Lillegran|grad=4A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Hyllor och hål rakt upp}}
+{{problem|nr=18|namn=Davids hopp|grad=6A|typ=|fa=David Pontinen|landning=3|betyg=1|sopad=David Pontinen|text=Hoppstart till kanten, mantla}}
+| width="250px" |
+{{problem|nr=19|namn=Blixt|grad=5A|typ=|fa=Ulf Palm|landning=3|sopad=Ulf Palm|text=Östra blockdelen. Vänstra delen av svasidan upp}}
+{{problem|nr=20|namn=Gordon|grad=5C|typ=|fa=Ulf Palm|landning=3|sopad=Ulf Palm|text=Mitten av svasidan upp}}
+{{problem|nr=21|namn=Gransus|grad=4A|typ=|fa=Jenny Smedmark|landning=3|sopad=Jenny Smedmark|text=Högra delen svat upp}}
+{{problem|nr=22|namn=Paddan|grad=3C|typ=|landning=3|text=Kanten längst åt höger, rakt upp}}
+| width="250px" |
+{{problem|nr=23|namn=Ingen padda|grad=4C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Start h sidan, gå kanten vänsterut, upp}}
+{{problem|nr=24|namn=Gräshoppan|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Sittstart kanten, dra till liten hylla och upp}}
+|}
+==Uppvärmningsblocket==
+
+{{problem|nr=25|namn=Grodan|grad=4A|typ=|fa=Åsa Backlund|landning=2|sopad=Åsa Backlund|text=Traversera kanten v>h. Bra att börja värma på}}
+{{problem|nr=26|namn=MII|grad=6A+|typ=|fa=Stefan Sjöberg|landning=2|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Start h kant, traversera v, upp över kant}}
+==Banvallsblocket==
+
+{{problem|nr=27|namn=Betablock|grad=6B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Start v kant, vandra v>h till h kant och upp}}
+==Block 5==
+
+{{problem|nr=28|namn=Numero uno|grad=4A|typ=|fa=Andreas Jansson|landning=3|sopad=Andreas Jansson|text=Traversera flackt block v>h upp}}
+==Block 6==
+
+{{problem|nr=29|namn=Losec|grad=5B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Börja v kant, upp}}
+{{problem|nr=30|namn=Magkatharsis|grad=5A|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|sittstart=ja|text=Starta markanta grepp upp}}
+==Block 7==
+
+{{problem|nr=31|namn=Jag lovers|grad=6A+|typ=|fa=Stefan Sjöberg|landning=4|betyg=1|sopad=Stefan Sjöberg|text=Traversera kanten v>h, upp}}
+{{problem|nr=32|namn=Flugviskaren|grad=5B|typ=|fa=Gustav Nilsson, 2008|sopad=Gustav Nilsson|text=Start händer i pockets, dra till kanten}}
+{{problem|nr=33|namn=Mad rock in the rain|grad=6B|typ=|fa=Stefan Sjöberg|landning=5|betyg=3|sopad=Stefan Sjöberg|sittstart=ja|text=Start v kant, gå upp överhänget}}
+{{problem|nr=34|namn=Solväggen|grad=4A|typ=|fa=Karl Karlström|landning=3|sopad=Karl Karlström|text=Traversera svat v>h och upp}}
+
+==Block 8==
+
+{{problem|nr=35|namn=New suede shoes|grad=6A|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|sittstart=ja|text=Hangla kant v>h, upp runt h kant}}
+=Problem=
+{{problem|nr=32|namn=Novemberskymning|grad=6C|typ=Krimp,Dyno|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Start små lister, dra upp, avslut som Jag lovers}}
+[[Kategori:Roslagen]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,24 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Omvägen|grad=6C+|typ=Krimp,Överhäng,Travers H->V|fa=Per Wermelin|landning=4|betyg=3|sopad=Per Wermelin|sittstart=ja|uteslutningar=ja|text=Problemet startar med sittstart till höger. Följ kanten åt vänster och avsluta längst till vänster med att gå rakt upp. Använd bara grepp som finns under kanten.}}
+{{problem|namn=Bara biceps|grad=7A|typ=Krimp,Överhäng,Dyno|fa=Per Wermelin|landning=4|betyg=2|sopad=Per Wermelin|sittstart=ja|startgrepp=ja|text=Börja med vänster hand i sprickan och höger på ett crimp. Går rakt upp förbi den horisontella och lodräta sprickan.}}
+| width="250px" |
+{{problem|namn=Snabb klipp|grad=6B|typ=Krimp,Slopers|fa=Per Wermelin|landning=2|betyg=1|fadatum=2004-05-10|sopad=Per Wermelin|sittstart=ja|text=Startar på en liten list för händerna, klättra sen rakt upp.}}
+{{problem|namn=Mystravers|grad=6A|typ=Slopers,Travers V->H|fa=Per Wermelin|landning=3|betyg=1|sopad=Per Wermelin|sittstart=ja|text=Starta längst ner till vänster. Följ kanten åt höger och avsluta längst upp.}}
+{{problem|namn=Mysdirekt|grad=6A|typ=Krimp|fa=Per Wermelin|landning=3|sopad=Per Wermelin|sittstart=ja|text=Starta under utsteget på Mystravers. Klättra rakt upp och avsluta med samma utsteg som Mystravers.}}
+| width="250px" |
+{{problem|namn=Tjohoo|grad=5A|typ=Travers V->H|fa=Per Wermelin|landning=2|betyg=1|sopad=Per Wermelin|sittstart=ja|text=Startar till vänster. Följ kanten upp åt höger och avsluta längst upp.}}
+{{problem|namn=Presspress|grad=6B|typ=Krimp,Dyno|fa=Per Wermelin|landning=3|betyg=1|sopad=Per Wermelin|sittstart=ja|text=Starta under det lilla taket, avslutas rakt upp.}}
+{{problem|namn=Dynamit|grad=6C|typ=Krimp,Dyno|fa=Per Wermelin|landning=3|betyg=1|sopad=Per Wermelin|sittstart=ja|text=Starta under taket och dyna upp till kanten.}}
+|}
+[[Kategori:Ö-vik]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

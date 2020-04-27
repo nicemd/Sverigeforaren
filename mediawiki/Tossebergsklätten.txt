@@ -1,0 +1,71 @@
+<!-- Detta gör det möjligt att markera klippan på kartor -->
+{{info klippa
+  |lat=59.983333
+  |long=13.103406
+}}
+
+{{Access}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+En liten klippa alldeles intill Fryken i närheten av Tossebergsklätten. Haft klätterbesök, men i övrigt ganska okänd. Observera accessreglerna. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="60.001733" lon="13.20282" type="map" zoom="9">
+59.983333, 13.083333, Tossebergsklätten
+Tossebergsklätten, Sunne, Sverige
+59.984219, 13.103406, Tossebergsklätten2
+</googlemap>
+</div>
+
+På E45 mellan Sunne och Torsby i höjd med Tossebergsklätten finns en rastplats med utsikt över övre Fryken. Stanna här och gå ner mot Fryken. Här hittar du klätterklippan. Detta är alltså inte på själva Tossebergsklätten utan på andra sidan E45 ner mot sjön. 
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+Uppskattningsvis 10-15 meter hög. Utmärkande spricklinjer. Mer information kommer längre fram. 
+Osäkert om några linjer gjorts och i vilken utsträckning. 
+
+<!--
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Namn på led|grad=9c+|typ=trad|betyg=3|bultar=|längd=30|fa=[[namn på fa]] -08|text=ledbeskrivning}}
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+-->
+
+==Access==
+
+OBS! Klippan har klätterförbud mellan 1/3 och 1/7 OBS!
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]] 
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+[[Category:Värmland]]

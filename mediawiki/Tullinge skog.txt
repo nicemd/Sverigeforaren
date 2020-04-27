@@ -1,0 +1,32 @@
+{{info klippa
+  |lat=59.1210
+  |long=17.5458
+}}
+
+{{utkast}}
+
+==Allmänt==
+
+==Vägbeskrivning==
+<div style="float:right">
+<googlemap version="0.9" lat="59.205602" lon="17.902565" zoom="14">
+59.201954, 17.909088
+Tullinge, Botkyrka, Sverige
+</googlemap>
+</div>
+Vägbeskrivning här
+
+<div style="clear:both"></div>
+
+{{sidbrytning}}
+
+==Leder==
+[[Bild:Tullingeskog.png|700px]]
+
+{{led|nr=1|namn=Pockettoppen|grad=6|betyg=2|längd=7|fa=JL -11
+ |typ=trad|text=Vid cykelvägen. Bra klippa.}}
+
+[[Kategori:trad]]
+[[Kategori:vertikalt]]
+[[Category:Stockholm]]
+[[Kategori:Västra Södertörn]]

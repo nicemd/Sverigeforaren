@@ -1,0 +1,50 @@
+=Allmänt=
+Litet område på cykelavstånd från stadskärnan. Klättring sker framför allt på det stora blocket alldeles intill löpspåret i nordvästa Pettersberg. Blocket bjuder på flera fina svaproblem samt några hårda överhängande linjer. Överlag bra landningar. Med cykel tar du dig på några minuter vidare till blocken vid Syrisk-Ortodoxa kyrkan i [[Vallby]]. 
+
+=Vägbeskrivning=
+<div style="width: 240; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;"><googlemap version="0.9" lat="59.616261" lon="16.512934" type="terrain" zoom="13" width="240" height ="300">
+59.615775, 16.512762, Pettersberg Boulder
+59.617318, 16.5131, Parkering vid Jakobsgatans slut
+</googlemap>
+</div>
+Vid Vallbymotet, kör mot Pettersberg. Strax innan ICA-butiken tar du höger in på Jakobsgatan och följer den till sitt slut vid vändplatsen. Parkera här. Blocken ligger nedanför parkeringen i skogspartiet på andra sidan cykelvägen och löpspåret.
+
+=Skiss=
+
+
+[[Bild:Pettersberg.png|thumb|430px|center]]
+
+=Problem=
+
+{|
+|- valign="top"
+| width="250px" |
+
+{{problem|nr=A1|grad=?|namn=Projekt|betyg=1|typ=Överhäng|fa=|landning=|sopad=|text=Etablerad start med hh lågt i spricka och vh på sidtag, klättra höger och toppa ut via slabben.}}
+{{problem|nr=A2|grad=?|namn=Projekt|typ=Överhäng|fa=|landning=|sopad=|text=Sittstart mitt i överhänget och vidare rakt upp mot stenens högsta punkt.}}
+{{problem|nr=A3|grad=?|namn=Projekt|betyg=1|typ=Överhäng|fa=|landning=|sopad=|text=Sittstart vid högra areten, klättra med dragning vänster och toppa ut via slabben.}}
+{{problem|nr=A4|betyg=1|namn=Märlan|grad=6A+|typ=Sva|fa=T.Torsne|landning=|sopad=|text=Sittstart vid högra areten, klättra höger ut på svaväggen och vidare rakt upp.}}
+
+| width="250px" |
+
+{{problem|nr=A5|namn=Pettersbergs finest|betyg=2|grad=L|typ=Sva|fa=J.Ernlund|landning=|sopad=|text=}}
+{{problem|nr=A6|grad=6B|namn=Puh!|typ=Sva|fa=T.Torsne|landning=|sopad=|text=Svagatan t.h. om trädet, vänster om svaareten}}
+{{problem|nr=A7|namn=Pärlan|grad=6A|betyg=1|typ=Sva|fa=T.Torsne,J.Ernlund|landning=|sopad=|text=Följ den svepande formationen till toppen}}
+{{problem|nr=A8|namn=Särlan|grad=5|typ=Vägg|fa=T.Torsne,J.Ernlund|landning=|sopad=|text=}}
+
+| width="250px" |
+
+{{problem|nr=A9|namn=Högra areten|grad=L|typ=Arete|fa=T.Torsne,J.Ernlund|landning=|sopad=|text=}}
+{{problem|nr=A10|grad=?|namn=Projekt|typ=Travers|fa=|landning=|sopad=|text=Slopertravers v>h}}
+{{problem|nr=B1|betyg=1|namn=Kylskåpet|grad=6A|typ=Arete|fa=J.Ernlund|landning=|sopad=|text=Sittstart under areten.}}
+
+Följande problem går på den lilla stenen ungefär 50 m söder om stora blocket.
+
+{{problem|nr=C1|betyg=1|namn=Lockmyggan|grad=5B|typ=Slopers, Mantling|fa=M.Berglind Kostelac|landning=|sopad=|text=Mantling på blockets sydsida}}
+{{problem|nr=C2|betyg=1|namn=Namnlös|grad=6A|typ=Krimp, Catch|fa=J.Ernlund|landning=|sopad=|text=Sittstart med hh på lågt sidotag och vh på gastonkrimp}}
+
+
+|}
+
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]

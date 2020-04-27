@@ -1,0 +1,347 @@
+{{info klippa
+  |lat=61.670979451447785
+  |long=16.214447021484375
+}}
+
+{{komplett}}
+
+==Access {{access}}==
+Det finns häckande fåglar på Mörkberget vilket innebär klätterförbud från 1 april till 31 juli.
+
+==Allmänt==
+Mörkberget ligger ca 1 mil söder om Järvsö på östra sidan av Ljusnan och har ett 70-tal leder, huvudsakligen i 5:a- och 6:a-registren. Mest tradklättring eller mixade säkringar, men även enstaka sportturer. Leder av 10-55 m längd. Berget har de senaste åren fått rykte om sig att vara helt igenmossat, vilket kanske inte var helt osannt. Detta har det blivit ändring på tack vare Michael Ärfstöm och Emil Persson m.fl. som sopat fram det mesta av vildmarksväggen och stora väggen.
+Uppdatering: Viltmarksväggen blev borstad igen Sept. 2010. 
+
+==Kommunikationer==
+<div style="float:right; width:405px; margin: 5px">
+<googlemap lat="61.707126157839035" lon="16.1773681640625" zoom="11" width="400" height="250" type="map">
+61.670979451447785,16.214447021484375,Mörkberget
+</googlemap>
+</div>
+Med bil: I Järvsö, sväng höger (om du kommer söderifrån) eller vänster
+(om du kommer norrifrån) mot Delsbo, förbi Järvsö kyrka och över
+Ljusnan. Direkt efter bron, tag höger mot Nor. Efter en lååång
+raksträcka och en S-kurva, tag höger mot Änga och Torön. Åk på denna
+grusväg i ca 5 km och håll sedan utkik efter Hästhagsvägen. Parkering är ett problem då det inte är tillåtet att parkera längs med Hästhagsvägen. Enligt en
+överenskommelse Hälsinge Klätterklubb hade (klubben las ner 2001) fick
+man parkera på gårdsplanen vid gården mitt emot Hästhagsvägen. Detta gäller dock inte längre då de boende i gården inte vill ha bilar stående där. Parkera istället längs vägen men blockera eller stör absolut inte sommarstugegästerna! Promenera sedan tillbaka till Hästhagsvägen som följs uppåt till den slutar mellan ett rött hus på höger sida och en liten lada eller liknande på vänster sida. Strax innan dessa går en stig in till höger (har suttit en skylt här tidigare, 2009-07-04 låg den omkullvält en bit in på stigen) som följs tills man korsar den bredare stigen som nämns i "Väg till lägerplats" nedan. Följ de blåa markeringarna på träden, längre fram närmare klippan är stigen markerad med blåa och blåröda snitslar.
+
+GPS-koordinater för Mörkbergets topp: Lat: N 61º 40' 8.77" Long: E 16º 12' 48.99"
+Ungefärliga GPS-koordinater för klippan: Lat: N 61º 39' 58.7" Long: E 16º 13' 5.82"
+
+== Väg till lägerplats ==
+På vänster sida i slutet av Hästhagsvägen finns en stig som börjar vid en skylt märkt med "Mörkberget". Följ denna rakt in cirka 10-20 meter till den korsar en bred, upptrampad stig, märkt med blå färg på träden. Sväng vänster in på denna stig och gå cirka 500 meter och sväng av, åt vänster på en mycket mindre stig som är märkt med skylten "Tältplats", 10-20 meter innan stigen korsas av en bredare skogsväg (eller följ de blåa markeringarna vidare på den stora stigen för att komma till berget).
+
+==Bekvämligheter==
+Dass, medtag eget papper. Eldstad. Allt vatten måste medtagas, enligt markägarens vilja.
+
+==Historik==
+{{hälsingeföraren}}
+
+{{sidbrytning}}
+==Väggar==
+
+Över hela sydsidan av berget finns ett komplext, utspritt system av
+gnejsväggar. Längst till höger finns Planetväggen, en brant vägg med
+tunna sprickor. Längre till vänster ligger Stora väggen, en ca 45 m
+hög, 70 graders vägg med fin sprick- och väggklättring. I vinkel mot
+Stora väggen ligger Zig-zag väggen, med ett fåtal turer. Längre till
+vänster finns flera väggar av 10-30 m höjd. Här finns några av bergets
+finaste leder på väggpartier som Cirkusväggen, Vildmarksväggen och
+Stålväggen.
+
+[[Bild:morkberget.jpg]]
+
+{{sidbrytning}}
+===Planetväggen===
+[[Bild:MB_planet.jpg]]
+
+[[Bild:Jupiter.jpg|thumb|200px|right|Kent Andersson på Jupiter (6+/7-), Mörkberget, 1986.
+Foto: Per Calleberg]]
+Firningsstationer finns mellan utstegen på Pluto och Neptunus och
+mellan utstegen på Saturnus och Uranus.
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=1a|namn=Planets pilot|längd=15|grad=6-|gruv=a|betyg=1|typ=trad|fa=Gustav Schaffter och Peter Brolin 1987|text=Ligger till höger om själva planetväggen. En kort vägg följt av litet scrambling leder upp till det tydliga taket som elegant passeras på bredaste stället.}}
+
+{{led|nr=1|namn=Yttre rymden|längd=8|grad=6-|gruv=c|typ=trad|fa=Buster Delin och Torbjörn Nilsson 1986|text=Sparsamt säkrad väggklättring i högerkanten av väggen}}
+
+{{led|nr=2|namn=Pluto|längd=8|grad=5|gruv=b|typ=trad|fa=Torbjörn Nilsson m topprep 1983|text=Fritt: Torbjörn Nilsson och Buster Delin 1983. Tunn, fin klättring. Inte alltför välsäkrad}}
+
+{{led|nr=3|namn=Neptunus|längd=8|grad=5+/6-|gruv=b|betyg=2|typ=trad|fa=Torbjörn Nilsson m topprep 1983|text=Fritt: Birger Hedlund och Kent Andersson, 1984 Fin handjamspricka. Utsteget är kruxet.}}
+
+{{led|nr=4|namn=Uranus|längd=8|grad=5+/6-|gruv=b|betyg=2|typ=trad|fa=Torbjörn Nilsson m topprep 1983|text=Fritt: Buster Delin och Per Calleberg, 1984 Ihållande väggklättring.}}
+
+| width=300 |
+
+{{led|nr=5|namn=Saturnus|längd=8|grad=5-|gruv=a|typ=trad|fa=Torbjörn Nilsson m topprep 1983|text=Fritt: Per Calleberg och Buster Delin, 1984 Spricklinje till vänster om "Uranus". Gemensamt utsteg med "Uranus".}}
+
+{{led|nr=6|namn=Solstrålen|längd=25|grad=5-|gruv=c|typ=trad|fa=Peter Brolin 1986|text=Klättra väggen mellan "Solnedgången" och "Saturnus" upp till en hylla. Fortsätt sedan snett upp t h över ett sva. }}
+
+{{led|nr=7|namn=Solnedgången|längd=8|grad=3-|gruv=a|typ=trad|fa=Buster Delin 1986|text=Rännan tv om "Saturnus".}}
+
+{{led|nr=8|namn=Jupiter|längd=8|grad=6+7-|gruv=b|betyg=2|typ=trad|fa=Per Calleberg och Peter Brolin 1986|text=Rakt igenom det tydliga taket i vänsterkanten av Planetväggen. 1 bult. Små friends rekommenderas i horisontalsprickan under taket. }}
+|}
+
+{{sidbrytning}}
+
+===Lägerväggen===
+[[Bild:MB_lager.jpg]]
+
+Firningsstation finns ovanför utsteget på Ghostbuster. Används även
+för April april.
+
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=9b|namn=Schritt tempo|längd=15|grad=6+|gruv=b|betyg=1|bultar=2|typ=mix|fa=Buster Delin 1989|text=Startar vid Eggens insteg och och går diagonalt upp åt höger, längs en osannolik linje, för den lätt överhängande väggen ovanför. Runda kanten och sedan följer lättare klättring upp till en hylla med träd och standplats.}}
+
+{{led|nr=9a|namn=Legionären|längd=10|grad=7|gruv=a|betyg=1|typ=trad|fa=Lars Grankvist 1989|text=Den överhängande handjamsprickan några meter till vänster om Schritt tempo. Tung och pumpande.}}
+
+{{led|nr=9|namn=Eggen|grad=3+|gruv=a|typ=trad|fa=Torbjörn Nilsson, Åke Englund och Gunnar Larsson 1981|text=Tydlig diederlinje mindre än 50 m till höger om Stora väggen. Leder upp till en stor sten med eggvass kant. Utsteget består av att följa eggen rakt upp.}}
+| width=300 |
+
+{{led|nr=10|namn=Ghostbuster|längd=30|grad=5+|gruv=b|betyg=1|typ=trad|fa=Per Calleberg, Buster Delin och Åke Englund 1985|text=Ligger rakt ovanför lägerplatsen. Följer två korta diedrar upp till en stor tall och standplats. Sedan svaklättring till toppen.}}
+
+{{led|nr=11|namn=Lurad|längd=20|grad=5|gruv=b|typ=trad|fa=Peter Brolin och Per Calleberg 1986|text=Klättra en brant vägg ovanför lägerplatsen (1 bult). Sedan layback i hörnet ovanför. Går ihop med "November" strax under standplatstallen.}}
+|}
+{{sidbrytning}}
+
+===Stora Väggen===
+[[Bild:MB_stora.jpg]]
+
+[[Bild:November.jpg|thumb|200px|right|Torbjörn Nilsson under förstabestigningen av November, november 1982. Foto: Per Calleberg]]
+[[Bild:Megatrend.jpg|thumb|200px|right|Kent Andersson på sista replängden på Megatrend (5+), Mörkberget, 1984. Foto: Per Calleberg]]
+Firningsstation finns ovanför utstegen på November/Combat.
+{|
+|- valign="top"
+| width=250 |
+
+{{led|nr=12|namn=November|längd=50|grad=4-|gruv=b|betyg=2|typ=trad|fa=Torbjörn Nilsson och Per Calleberg 1982|text=Startar bakom högra hörnet på stora väggen. Traversera vänster längs en tydlig hylla ca tre meter upp, runt hörnet in på stora väggen. Man kommer då upp till ett par stora flak, dessa klättras upp till en liten hylla. Här kommer man upp till standplatstallen på "Potent ultra macho". Strax ovanför den tallen gör man en travers höger och kommer in på en ramp som klättras diagonalt upp åt vänster tills man befinner sig under en större tall. Där klättrar man rakt upp till tallen och gör standplats. Andra replängden traverserar antingen rakt vänster från tallen längs en tydlig hylla in till spricksystemet eller följer en diagonal ramp upp till det samma. Man följer sedan den grova sprickan till toppen. }}
+
+{{led|nr=13|namn=April April|längd=40|grad=6-|gruv=b|betyg=1|bultar=3|typ=mix|fa=Buster Delin och Peter Brolin 1984|text=Start i sprickor t h om "Potent ultra macho", vidare upp över en rödaktig vägg och upp till standplatstallen på November. Sedan rakt upp över väggen med tre borrbultar som inte sitter så tätt.}}
+
+{{led|nr=14|namn=Potent Ultra Macho|längd=45|grad=5+|gruv=b|betyg=2|typ=trad|fa=Torbjörn Nilsson och Buster Delin 1983|text=Nära väggens högerkant mitt för en stor tall, finns en tydlig spricka som ca 10 m upp grenar sig i ett "Y". Man följer den vänstra sprickan upp till en ramp som sedan klättras ned ett par meter till en liten tall, där man kan göra standplats. Andra replängden följer rampen tills man kommer upp i nischen vid "Lilla menasse". Här traverserar man vänster några meter och klättrar den tydliga sprickan rakt upp tills man kommer in på "November" några meter under toppen.}}
+
+| width=250 |
+
+{{led|nr=15|namn=Lilla Menasse|längd=15|grad=6-|gruv=c|betyg=1|typ=trad|fa=Torbjörn Nilsson, Buster Delin och Per Calleberg 1983|text=Starta som för "Megatrend", men klättra diagonalt upp åt höger mot en liten nisch. Klättra sedan sprickan ovanför den tills man kommer in på "November", som sedan kan följas till toppen.}}
+
+{{led|nr=16|namn=Megatrend|längd=55|grad=6-|gruv=c|betyg=3|bultar=1|typ=mix|fa=Per Calleberg med topprep 1983|text=Fritt: (nedre) Born Braaten och Bent Soinung, 1984. (övre) Kent Andersson och Birger Hedlund, 1984 Fem meter nedanför "Combat". Starta i en kort spricka diagonalt upp åt höger. Efter några meter kliver man vänster över i en spricka som leder upp till den krokiga tallen. Standplats vid blocket på hyllan. Följ den sick-sakande flakformationen diagonalt upp åt vänster tills den blir vågrätt. Klättra här rakt upp över en knoppig vägg tills ett par sprickor nås. Traversera längs dessa vänster tre meter och fortsätt sedan rakt upp över en slät vägg, till en standplatshylla med en tall och en björk på. Totalt 4-5 bultar och en borrbult.}}
+
+{{led|nr=17|namn=Combat|längd=40|grad=5|gruv=b|betyg=1|bultar=1|typ=trad|fa=Torbjörn Nilsson, Per Calleberg och Buster Delin 1982|text=Övre delen: Torbjörn Nilsson och Per Calleberg, 1982 I sin helhet: Torbjörn Nilsson och Buster Delin, 1983 Starta där rännan i väggens vänsterkant börjar. Följ den tydliga grova sprickan tills den upphör. Kort travers höger till en borrbult och sedan upp till den krokiga tallen. Standplats vid det stora blocket på hyllan. Fortsätt sprickan ovanför till toppen. En borrbult. Variant: Gå rakt upp t v om borrbulten [6-] }}
+
+{{led|nr=18|namn=Lugna Gatan|längd=35|grad=5+|gruv=b|betyg=2|typ=trad|fa=Torbjörn Nilsson och Åke Englund 1983|text=Insteget börjar i rännan ovanför "Combat", följer sedan hörnet mellan stora väggen och zig-zag väggen raktupp till toppen. Fin, tunn klättring. Välsäkrad med små kilar.}}
+|}
+
+{{sidbrytning}}
+
+===Zig-Zag Väggen===
+[[Bild:MB_zigzag.jpg]]
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=18a|namn=Panorama|längd=30|grad=5|gruv=b|betyg=1|bultar=2|typ=mix|fa=Buster Delin och Niklas Björnerstedt 1987|text=Svaklättring nedanför Zig-zag och till vänster om Lugna gatan. Efter det branta kruxet lättar klättringen succesivt av. Utsteg åt vänster under toppen eller gemensamt med Lugna gatan. 2 borrbultar och en fast bult.}}
+
+{{led|nr=19|namn=Zig Zag|längd=17|grad=6|gruv=b|betyg=2|betyg=2|typ=trad|fa=Torbjörn Nilsson och Gunnar Larsson 1983|text=Starta som för "Ornitologleden", men efter första korta diedret kliver man höger över ett sva. Svaet klättras tills man befinner sig rakt under den tydliga zig-zag sprickan. Klättra det korta hörnet upp till sprickan och följ den till toppen. Kan vara att ha dubbelt av camalot#3 eller motsvarande. }}
+| width=300 |
+
+{{led|nr=20|namn=Ornitologleden|längd=25|grad=3|gruv=a|typ=trad|fa=Åke Englund och Gunnar Larsson 1982|text=Går uppför väggpartiet till vänster om stora väggen. Klättra rännan i stora väggens vänsterkant upp till en hylla med en tall. Klättra två korta diedrar och traversera vänster runt ett block, till en hylla med en tall. Lätt klättring till toppen. }}
+|}
+{{sidbrytning}}
+
+===Buskväggen===
+[[Bild:MB_busk.jpg]]
+
+Ligger mellan Zig-zagväggen och cirkusväggen. Hade 1987 inga kända leder, men det kanske har ändrat sig under de senaste 20 åren.
+
+{{sidbrytning}}
+===Cirkus Väggen===
+[[Bild:MB_cirkus.jpg]]
+[[Bild:Daladans.jpg|thumb|225px|right|Johan Luhr gör förstabestigningen av Daladansen (8-), Mörkberget, 1987. Foto: Per Calleberg]]
+{|
+|- valign="top"
+| width=250 |
+{{led|nr=21|namn=Mörkrett|längd=50|grad=4-|gruv=b|typ=trad|fa=Torbjörn Nilsson och Åke Englund 1982|text=I första inskärningen, dryga 50 m till vänster om stora väggen och till vänster om Buskväggen finns flera leder. Till höger om ett stort tydligt dieder med ett fastkilat block i, finns ett dött träd. Bakom det går "Mörkrett", längs en trappstegsformation åt höger. Avslutas med ett svasteg.}}
+
+{{led|nr=22|namn=Ekot|längd=20|grad=4+|gruv=b|typ=trad|fa=Åke Englund och Gunnar Larsson 1986|text=Tydlig spricklinje runt hörnet t h om "Åkes led". Det kan vara bökigt att ta sig upp till insteget, men sedan fin klättring.}}
+
+{{led|nr=23|namn=Åkes led (Mörk-två)|längd=20|grad=5-|gruv=b|typ=trad|fa=Torbjörn Nilsson och Åke Englund 1982|text=På en hylla ca tio meter nedanför det tydliga diedret med det fastkilade blocket växer ett antal tallar. Om man följer hyllan åt vänster runt ett hörn, kommer man till "Åkes led". Man kan tydligt se leden tack vare att den är så ren. Leden följer en grov sick-sackande spricka som toppas av ett överhäng. Man följer sprickan under detta ut åt vänster och upp. }}
+
+{{led|nr=23a|namn=Största möjliga tystnad|längd=13|grad=6+|gruv=b|betyg=1|typ=trad|fa=Buster Delin 1990|text=Ligger längst t h på den egentliga Circusväggen, runt hörnet t v om Åkes led. En bred spricka leder upp till ett tunnt högervänt dieder. Avslutas med en kort hangel på goda grepp åt höger. Samma standplats som för Åkes led. 4 bultar. }}
+
+| width=250 |
+
+{{led|nr=24|namn=Gästspel|längd=15|grad=5+|gruv=b|typ=trad|fa=Buster Delin 1984|text=Fritt: Lars Grankvist och Åke Danielsson, 1986 Sprick- och kamintur i högra delen av Circusväggen.}}
+
+{{led|nr=24a|namn=Daladansen|längd=15|grad=8-|gruv=b|betyg=2|bultar=3|typ=mix|fa=Johan Luhr 1987|text=Den tydliga (?) linjen till vänster om Gästspel. Väggklättring för upp till tvillingsprickorna som börjar på halva vägghöjden. Sedan följs dessa upp. 3 borrbultar.}}
+
+{{led|nr=24b|namn=Scnabelkäse|längd=15|grad=7-|gruv=b|betyg=1|bultar=1|typ=mix|fa=Buster Delin, Per Calleberg och Kent Andersson 1991|text=Går till vänster om Daladansen och har i stort sett samma insteg som denna. Går rakt upp längs en tunn spricka och avslutas med en mycket tunn travers åt vänster. Gemensamt utsteg med Circus maximus. 2 bultar och 1 borrbult.}}
+
+{{led|nr=25|namn=Circus Maximus|längd=20|grad=5+|gruv=b|typ=trad|fa=Buster Delin, Peter Brolin och Åke Englund 1984|text=C-formad spricka i väggens vänstra del}}
+
+{{led|nr=26|namn=Luftakrobatik|längd=7|grad=6-|gruv=c|typ=trad|fa=Buster Delin m topprep 1984|text=Fritt: Buster Delin och Björn Isacsson, 1991 Vänstra utsteget på "Circus Maximus".}}
+|}
+
+{{sidbrytning}}
+
+===Vildmarksväggen===
+[[Bild:MB_vildmark.jpg]]
+
+[[Bild:Ungkarlsliv.jpg|thumb|200px|right|Per Calleberg under förstabestigningen av Ungkarlsliv 1987. Foto: Eva Pettersson/Per Callebergs arkiv.]]
+Firningsstationer finns ovanför utstegen på Sällsamma
+besynnerligheter, Familjefadern och Falköga/Scener ur ett äktenskap.
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=27|namn=Mitt liv som hund|längd=15|grad=6-|gruv=c|typ=trad|fa=Buster Delin 1986|text=Dieder längst upp i högerkanten av "Vildmarken". Säkras med småkilar.}}
+
+{{led|nr=27a|namn=Sladdbarnet|längd=17|grad=7-|gruv=c|bultar=1|typ=trad|fa=Buster Delin och Anna Billman 1990|text=En brant sekvens leder upp till plattan och areten t h om Safari. Säkras med småkilar och 1 borrbult.}}
+
+{{led|nr=27b|namn=Safari|längd=25|grad=6|gruv=b|betyg=1|typ=trad|fa=Niklas Björnerstedt och Buster Delin 1987|text=Följer den tydliga spricklinjen till höger om Sällsamma besynnerligheter. Utsteg via en kort dieder från hyllan strax under toppkanten. Två fasta bultar.}}
+
+{{led|nr=28|namn=Sällsamma Besynnerligheter|längd=20|grad=5+|gruv=b|betyg=2|bultar=2|typ=mix|fa=Buster Delin m topprep 1986|text=Fritt: Buster Delin, Per Calleberg och Peter Brolin, 1987 Startar i det lilla diedret som toppas av ett tak. Runda taket till höger. Leden slingrar sig sedan, via ett flak, i stort sett rakt upp över väggen till ett utsteg som är gemensamt med Gökboet. 2 borrbultar och 2 fasta bultar.}}
+
+{{led|nr=29|namn=Gökboet|längd=25|grad=6+|gruv=b|bultar=1|typ=trad|fa=Buster Delin 1986|text=Väggklättring förbi en borrbult (krux) leder upp till en liten hylla. Följ sedan det bågformiga diedret ovanför tills det är möjligt att gå rakt upp.}}
+
+{{led|nr=30|namn=Mården|längd=22|grad=5+/6-|gruv=c|betyg=2|typ=trad|fa=Åke Danielsson och Lars Grankvist 1986|text=Följ sprickan t v om "Gökboet" och sedan snett uppåt vänster över väggen. Delvis litet pillriga säkringar. Nyborstad Sept. 2010}}
+
+| width=300 |
+
+{{led|nr=30a|namn=Familjefadern|längd=22|grad=6-|gruv=b|betyg=2|bultar=4|typ=sport|fa=Per Calleberg och Peter Brolin 1988|text=Elegant väggklättring mitt emellan Falköga och Mården. Börjar med lätt, men osäkrad, transportklättring, upp till en hylla. Här blir väggen slätare och det är bara att följa linjen med borrbultar. Efter sista borrbulten går man rakt upp till en firningsstation. 4 borrbultar. Nyborstad Sept. 2010}}
+
+{{led|nr=30b|namn=Falköga|längd=22|grad=6+|gruv=c|betyg=1|bultar=2|typ=mix|fa=Kent Andersson och Per Calleberg 1987|text=Spikrak linje till höger om Scener ur ett äktenskap. Lättare, men osäkrad klättring leder upp till den släta slutväggen. Leden slutar vid en firningspunkt med två borrbultar och kedja. 2 borrbultar.}}
+
+{{led|nr=30c|namn=Scener ur ett Äktenskap|längd=25|grad=6+|gruv=b|betyg=1|bultar=3|typ=mix|fa=Buster Delin, Kent Andersson och Per Calleberg 1987|text=Väggklättring till höger om Ungkarlsliv leder upp till en spricklös dieder, som toppas av ett överhäng. Efter detta leder en kort travers åt höger till en firningspunkt med kedja ovanför Falköga. 3 borrbultar }}
+
+{{led|nr=31|namn=Ungkarlsliv|längd=30|grad=6-|gruv=b|betyg=3|bultar=4|typ=mix|fa=Per Calleberg m topprep 1986|text=Fritt: Per Calleberg och Kent Andersson, 1987 Vacker och luftig klättring längs den tydliga areten. 4 borrbultar.Nyborstad Sept. 2010}}
+
+{{led|nr=32|namn=Monty Pythons dansande tänder|längd=30|grad=6|gruv=b|betyg=2|typ=trad|fa=Harald Brandt topprep 1986|text=Fritt: Harald Brandt och Per Calleberg, 1987 Följer den eleganta fingersprickan på väggen till höger om Vän nr 4 saknas. Markant krux under den tydliga tvärsprickan. Tyvärr finns vissa möjligheter att "fuska" genom att kliva ut på steg på areten.}}
+|}
+
+{{led|nr=30d|namn=Vilddjuret|längd=25|grad=7+|gruv=b|betyg=1|typ=mix|fa=Rickard Slettmyr någon gång under perioden 1996-98|text= Går långt till vänster på vildmarksväggen (till vänster om "Scener ur ett äktenskap"). Borde finnas ett par bultar. (Rapporterad av Robert Kreft på Sundsvalls Klätterklubbs hemsidas diskussionsforum).}}
+
+{{led|nr=30e|namn=Håkan Wankes led|längd=25|grad=6/6+|gruv=b|betyg=1|typ=mix|fa=Håkan Wanke någon gång under perioden 1996-98|text= Bredvid "Familjefadern". (Oklart om den går t.h. eller t.v. om "Familjefadern", men det torde framgå av bultar (?)). (Rapporterad av Robert Kreft på Sundsvalls Klätterklubbs hemsidas diskussionsforum). Sannolikt t.h. om "Familjefadern", 3 borrbult, Nyborstad Sept. 2010}}
+{{sidbrytning}}
+
+===Bra Väggen===
+[[Bild:MB_bra.jpg]]
+
+[[Bild:Attack.jpg|thumb|250px|right|Buster Delin leder Alltid Attack (6+) på Mörkberget 1989.
+Foto: Per Calleberg]]
+Firningsstation finns ovanför Alltid attack.
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=33|namn=Vän nr 4 saknas|längd=25|grad=5-|gruv=a|betyg=1|typ=trad|fa=Buster Delin och Kent Andersson 1986|text=Tydligt diedersystem som består av tre korta diedrar med hyllor mellan. Vacker layback i utstegsdiedret. Variant: Undvik utstegsdiedret genom att klättra den orensade sprickan på väggen t h.}}
+
+{{led|nr=33b|namn=Strutsen|längd=20|grad=4-|gruv=a|typ=trad|fa=Per Calleberg och Eva Pettersson 1987|text=Följer spricklinjen mellan Bra för däj och Vän nr 4 saknas upp till hyllan under det stora taket. En kort travers vänster leder till standplatstallen på Bra för däj.}}
+
+{{led|nr=33a|namn=Strutsen Direkt|längd=5|grad=5|gruv=b|typ=trad|fa=Per Calleberg 1987|text=Direktinsteg över plattan rakt under sprickan på Strutsen. Numera tämligen igengrodd.}}
+
+{{led|nr=34|namn=Bra för däj|längd=25|grad=4-|gruv=a|typ=trad|fa=Peter Brolin och Per Calleberg 1986|text=Insteg vid en stor stenskiva 10 m t v om "Vän nr 4 saknas". Brant klättring på goda grepp leder upp till en stor tall.  standplats. Flera varianter upp finns.}}
+
+| width=300 |
+
+{{led|nr=34a|namn=Alltid Attack|längd=25|grad=6+|gruv=b|betyg=2|bultar=4|typ=mix|fa=Tony Holmberg och Per Calleberg 1988|text=En osannolik linje genom taket längst inne i håligheten till höger om Bra tag, och ett par meter till höger om Första hjälpen. Gorillaklättring genom taket leder upp till en hylla där man kan samla kraft inför väggen ovanför. Denna klättras längs en tunn spricka upp till en ny viloposition under utstegsväggen, som sedan forceras i vänsterkanten. 4 borrbultar }}
+
+{{led|nr=34b|namn=Första Hjälpen|längd=20|grad=7+|gruv=b|typ=trad|fa=Peter Brolin och Per Calleberg 1987|text=Fritt: Mathias Flodin, 1989 Tidigare en artificiell tur genom det välvda lilla taköverhänget några meter till höger om Bra tag. Numera svår och rätt tung friklättring med tunna fingerjam och små grepp. Fira ner från en lämplig tall ovanför.}}
+
+{{led|nr=34c|namn=Frenilt Arbete|längd=12|grad=5-|gruv=b|bultar=1|typ=mix|fa=Johan Wallin och Nicolas Gafgo 1988|text=Startar i tunna sprickor ett par meter till höger om Bra tag och går upp till ett triangelformat tak, som passeras på bredaste stället. En borrbult på läppen av taket.}}
+
+{{led|nr=35|namn=Bra tag|längd=6|grad=5|gruv=a|typ=trad|fa=Per Calleberg och Tony Holmberg 1986|text=Takproblem på goda grepp i vänsterkanten av en tydlig urgröpning i berget.}}
+|}
+
+{{sidbrytning}}
+
+===Orörda Väggen===
+[[Bild:MB_ororda.jpg]]
+
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=35a|namn=EBB, en bra bult|längd=6|grad=6-|gruv=d|typ=trad|fa=Tony Holmberg och Buster Delin 1987|text=Följer areten strax till vänster om Bra tag. Sluttande grepp om steg. Känsligt utsteg. En fast bult i tvärsprickan mitt på. Har inte många repetitioner.}}
+| width=300 |
+
+{{led|nr=35b|namn=Stensötan|längd=8|grad=5+|gruv=b|typ=trad|fa=Per Calleberg och Kent Andersson 1988|text=Ovanför och till v om Bra tag ligger en tydlig arete. På väggen till v går denna handjamspricka. Avslutas med fingerjam (krux).}}
+|}
+
+{{led|nr=35c|namn=Enduro|längd=8|grad=7|gruv=b|typ=mix|fa=Rickard Slettmyr någon gång under perioden 1996-98|text=Arête som startar en bit upp på en vägg något till vänster om "Alltid attack" (antagligen arêten t.h. om "Stensötan"). Några bultar. (Rapporterad av Robert Kreft på Sundsvalls Klätterklubbs hemsidas diskussionsforum).}}
+
+{{sidbrytning}}
+
+===Stålväggen===
+[[Bild:MB_stalvaggen.jpg]]
+
+[[Bild:St%C3%A5%C3%A5lf%C3%A5gel.jpg|thumb|250px|right|Per Calleberg på Ståålfågel (7-), Mörkberget, 1990. Foto: Peter Brolin]]
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=36|namn=Orgier i Adrenalin|längd=15|grad=6+|gruv=c|betyg=3|typ=trad|fa=Per Normark, Kent Andersson mfl 1986|text=Tung vägg- och spricktur snett nedanför och t h om "Ståålfågel". Mycket fin och ihållande klättring.}}
+
+{{led|nr=37|namn=Niklas Kamin|längd=8|grad=4|gruv=a|typ=trad|fa=Niklas Björnerstedt 1985|text=Grov spricka mellan "Ståålfågel" och "Orgier i adrenalin".}}
+
+| width=300 |
+
+{{led|nr=38|namn=Ståålfågel|längd=25|grad=6+/7-|gruv=b|betyg=3|bultar=3|typ=mix|fa=Per Calleberg och Per Normark 1986|text=Klättra väggen med 3 borrbultar upp till det tydliga taket. Jamspricka genom och ovanför taket. Friends !}}
+
+{{led|nr=39|namn=Mormors|längd=25|grad=4+/5-|gruv=b|betyg=2|typ=trad|fa=Buster Delin och Niklas Björnerstedt 1985|text=Tydlig dieder t h om "Ståålfågel". Välsäkrad.}}
+|}
+
+{{sidbrytning}}
+
+===Moderna Väggen===
+[[Bild:MB_modern.jpg|500px]]
+{|
+|- valign="top"
+| width=300 |
+
+{{led|nr=40a|namn=Pep Talk|längd=15|grad=5|gruv=c|betyg=1|typ=trad|fa=Per Calleberg och Peter Brolin 1988|text=Vägg- och sprickklättring längs spricklinjen i högerkanten av Moderna väggen. Jämn och ihållande klättring. Något svårsäkrat högst upp.}}
+
+{{led|nr=40|namn=Modern Standard|längd=10|grad=7-|gruv=d|typ=trad|fa=Lars Grankvist 1986|text=Rakt upp längs grunda sprickor mitt på väggen. En bult i början.}}
+
+| width=300 |
+{{led|nr=40b|namn=Elda med Pengar|längd=15|grad=5-|gruv=b|typ=trad|fa=Bertil Dahlin 1993|text=Stora kaminen mellan Modern standard och Nisse Gandhi}}
+
+{{led|nr=41|namn=Nisse Gandhi|längd=15|grad=6-|gruv=b|typ=trad|fa=Peter Brolin, Torbjörn Nilsson och Tony Holmberg 1986|text=Spricktur i vänsterkanten på väggen.}}
+|}
+
+===Gestur===
+
+Ligger ovanför Stålväggen.
+{|
+|- valign="top"
+| width=300 |
+
+{{led|nr=42|namn=Kristallen den fina|längd=8|grad=6|gruv=b|typ=trad|fa=Peter Brolin 1987|text=Tunn väggklättring till vänster om Gestur. En borrbult vid utsteget.}}
+
+{{led|nr=43|namn=Gestur|längd=8|grad=5+|gruv=c|betyg=2|bultar=1|typ=trad|fa=Peter Brolin 1986|text=Väggklättring från hyllan innanför utsteget på "Ståålfågel". 1 borrbult med en märklig, hemmagjord hängare.}}
+
+| width=300 |
+
+{{led|nr=44|namn=Tungur Knivur|längd=9|grad=5+|gruv=b|betyg=2|bultar=2|typ=mix|fa=Buster Delin, Per Calleberg och Peter Brolin 1987|text=Delikat småstegs- och svaklättring längs svaryggen alldeles till höger om Gestur. 2 borrbultar.}}
+
+{{led|nr=45|namn=Geysir|längd=7|grad=5+|gruv=c|typ=trad|fa=Buster Delin 1987|text=Följer den diagonala spricklinjen snett uppåt vänster till utsteget, som är gemensamt med Tungur knivurs.}}
+|}
+
+===Korpväggen===
+
+Ligger ovanför Bra väggen.
+
+{|
+|- valign="top"
+| width=300 |
+{{led|nr=46|namn=Heklefjell|längd=5|grad=4+|gruv=a|typ=trad|fa=Buster Delin och Tony Holmberg 1987|text=Finger- och handspricka belägen mitt emellan Gesturväggen och Korpen flyger, ovanför Bra för däjs utsteg.}}
+
+| width=300 |
+
+{{led|nr=47|namn=Korpen Flyger|längd=6|grad=5|gruv=b|betyg=1|typ=trad|fa=Peter Brolin och Buster Delin 1986|text=Kort spricktur på en mindre vägg ovanför "Mården".}}
+|}
+
+[[Category:Sva]]
+[[Category:Vertikalt]]
+[[Category:Trad]]
+[[Category:Mix]]
+[[Kategori:Hälsingland]]
+[[Kategori:Hälsingland]]

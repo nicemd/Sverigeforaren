@@ -1,0 +1,95 @@
+{{info klippa
+  |lat=59.201677
+  |long=17.860427
+}}
+
+{{utkast}}
+
+==Allmänt==
+Tumba - delaval (house of pain)
+
+== Vägbeskrivning ==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.201677" lon="17.860427" zoom="14" type="map" controls="small">
+59.201677,17.860427,[[TumbaDeLaval]]
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=TumbaDeLaval
+lat=17860427
+long=59201677
+</slresa>
+</div> 
+
+
+<div style="clear:right;"></div>
+== Leder ==
+
+=== Kastrullocket ===
+[[Bild:kastrullocket2.png]]
+{{led|nr=1|namn=kokpunkt|grad=6c+|bultar=2|move=10|fa=Larry Valkama 20100829|typ=sport|text=}}
+{{led|nr=2|namn=korvsoppa|grad=7a+|bultar=3|move=15|fa=Larry Valkama 20100814|typ=sport|text=}}
+{{led|nr=3|namn=vidbränt|grad=6c|bultar=3|move=12|fa=Reino Liimatainen 20100829|typ=sport|text=}}
+{{led|nr=4|namn=sönderkokt|grad=6c+|bultar=3|move=12|fa=Reino Liimatainen 20100829|typ=sport|text=}}
+
+=== Huvudväggen ===
+
+(OBS fel kan mycket väl finnas)
+
+Från vänster till höger:
+
+{{led|nr=1|namn=Myran|grad=6b|bultar=3|betyg=0|typ=sport|längd=5|fa=Reino/Larry Liimatainen 20070822|text=Längst till vänster.Börjar med en boulder på plattan.}}
+
+{{led|nr=2|namn=Tumbaligan|grad=7a|bultar=3|betyg=1|typ=sport|längd=5|fa=Reino/Larry Liimatainen 20070819|text= VARNING: lös i början}}
+
+{{led|nr=3|namn=okänd1|grad=7b?|bultar=2|move=4|typ=sport|text=}}
+
+{{led|nr=4|namn=okänd2|grad=7b?|bultar=4|typ=sport|text=Går i dieder-sprickan. Lång, har en skruvkarbin på toppen.}}
+
+{{led|nr=5|namn=Jag kan också vara stark|grad=7b/7c+?|bultar=3|typ=sport|text=Börjar vid hornet, går rakt upp.}}
+
+{{led|nr=6|namn=Vilken vacker dag|grad=8a|bultar=3|typ=sport|text=Leden går rakt upp. Två-tre mycket hårda move i starten, sedan 6c.}}
+
+{{led|nr=7|namn=Ravi-1|grad=8a|bultar=4|typ=sport|text=Rakt upp, sedan till höger. Samma utsteg som "Vilken vacker dag"}}
+
+{{led|nr=8|namn=Ravi-2|grad=8a+|typ=sport|text=Börjar som Ravi-1. Går till höger ihop med "Vilken jävla dag"}}
+
+{{led|nr=9|namn=Ge dig iväg?|grad=7c+?|bultar=3|typ=sport|text=Hoppstart, sedan snett till vänster, samma utsteg som "Vilken vacker dag"}}
+
+{{led|nr=10|namn=Vilken jävla dag|grad=8a|bultar=4|typ=sport|text=Har en hoppstart. Går rakt upp.}}
+
+{{led|nr=11|namn=Speed-2|grad=8a+|bultar=6|bultar=6|typ=sport|text=Börjar till höger, går snett ihop till "Vilken jävla dag". Rakt upp.}}
+
+{{led|nr=12|namn=Speed-1|grad=8a|bultar=6|typ=sport|text=Börjar till höger, går snett ihop till "Vilken jävla dag". Fortsätter att snedda till vänster och går ut på "Ravi-1".}}
+
+{{led|nr=13|namn=projekt1|grad=?|text=Projekt som går till vänster om "Smärta"}}
+
+{{led|nr=14|namn=Smärta|grad=8a|bultar=3|betyg=1|typ=sport|text=Börjar med ett sidotag på överhänget, resning upp på hyllan.}}
+
+{{led|nr=15|namn=Kråkan?|grad=6c|bultar=4|typ=sport|text=Svatur, som möter en när man kommer till klippan. Ca 4 bultar.}}
+
+=== Rasbranten ===
+{{led|namn=Vårstorm|grad=7a+|fa=[[Larry Valkama]] [[2009]]|typ=sport}}
+{{led|namn=?|grad=5c|fa=[[Reino Liimatainen]] [[2009]]|typ=sport}}
+
+=== Hawaiiväggen ===
+7-8 meter hög vägg 200m syd om huvudväggen.
+
+[[Bild:hawaii.png]]
+
+{{led|nr=-1|namn=Maui|grad=6b+|fa=[[Reino Liimatainen 20100828]]|typ=sport|text=2bb+ankare}}
+{{led|nr=0|namn=Aloha|grad=7a|fa=[[Larry Valkama 20100724]]|typ=sport|text=2bb+ankare, grep ovanför ankare avslutar leden}}
+{{led|nr=S|namn=Waikiki|grad=6c|fa=[[Mikael Söderström(solo) 2008]]|typ=toprep}}
+{{led|nr=1|namn=Blue Hawaii|grad=7a+|fa=[[Larry Valkama 20100722]]|typ=sport|text=3bb+ankare, slutjuggen sitter förbi ankaret}}
+{{led|nr=2|namn=Kolik|grad=7a+|typ=sport|fa=[[Mikael Söderström (solo) 2008]]|text=3bb}}
+{{led|nr=3|namn=Hawaii|grad=7b|typ=sport|fa=[[Mikael Söderström (solo) 2008]]|text=3bb+ankare(slutar förbi ankaret)}}
+{{led|nr=X|namn=projekt|grad=7c-8a|typ=projekt|text=vart?}}
+
+{{led|nr=4|namn=projekt|grad=?|fa=[[x x 20101231]]|typ=sport|text=3bb+ankare}}
+{{led|nr=5|namn=Honolulu|grad=6b|fa=[[Reino Liimatainen 20100828]]|typ=sport|text=3bb+ankare}}
+
+[[kategori:sport]]
+[[Kategori:Stockholm]]
+[[Kategori:Västra Södertörn]]

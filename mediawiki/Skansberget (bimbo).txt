@@ -1,0 +1,13 @@
+[[Kategori:Saknar allmän info]][[Kategori:Saknar vägbeskrivning]]
+=Problem=
+{{problem|namn=Shout it out loud|grad=7C|typ=|fa=stefan|landning=5|betyg=2|fadatum=2008-05-18|sopad=stefan|sittstart=ja|text=Sittstart på det lilla utskutande blockhornet. Lockgrad.}}
+{{problem|namn=Blanka|grad=7B|typ=|fa=Stefan|landning=5|betyg=1|fadatum=2008-05-19|sopad=Stefan|text=Den vänstra arêten på samma block som Shout it out loud. Ståstart från botten. Sitt möjlig för den hugade men blockeras tills vidare av ett dött träd.}}
+{{problem|namn=Hobgoblin|grad=7C|typ=|fa=Stefan|landning=1|betyg=1|fadatum=2008-05-19|sopad=Stefan|text=Ståstarten till ze project. Lång catch från usla grepp till en slopig kant. Svårgraderad men genuint hård.}}
+[[Kategori:Uppsala]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

@@ -1,0 +1,34 @@
+{{Komplett}}
+
+
+[[Bild:Smk.gif|400 px|thumb|Petter Restorp gör första bestigningen av {{ledlänk|namn=Slagsmålsklubben}}<BR>Foto: Niklas Andersson]]
+
+
+
+
+== Allmänt ==
+Amaliagrottan är en stor blockgrotta i de småländska skogarna omgiven av många myter och sagor, men för oss klättrare bleknar givetvis allt det när man får se den mäktiga sprickan som klyver det 10 meter långa taket ovanför grottan.
+Sprickan har varit känd bland lokala klättrare sedan 90-talet, men det dröjde till 2011 innan linjen föll, efter ett par hektiska veckor med många besök från olika klättrare.
+
+
+
+== Access ==
+Markägaren är positivt inställd till klättring, men p.g.a kulturminnet så har statens instanser inte riktigt sagt sitt än. Därför är det extremt viktigt att vi sköter oss i grottan.
+'''Sätt inte upp några nya turer, det som finns att göra runtikring kommer inte upp i närheten av Slagsmålsklubbens kvalitet. Kör inte Rally! och håll det städat och snyggt i grottan, Inga tickmärken och inget skräp!
+'''
+== Övernattning ==
+Det finns ett vindskydd vid parkeringen, om du använder det så håll låg profil.
+
+== Hitta hit ==
+Från Eksjöhållet: Tag väg 40 österut mot Vimmerby, Västervik. Fortsätt mot dessa genom Mariannelund.<br>
+Strax efter avfarten mot Pelarne och Bullerbyn mitt i nerförsbacken tag vänster mot Djurstorp (10,5 km efter järnvägsövergången i Mariannelund). <br>
+Följ vägen förbi en del fina block över en liten å och tag vänster strax efter ån. Håll låg profil när ni kör genom gården (Björnebro) om jag inte missminner mig är det skyltat med fiske och är en orangemarkerad vandringsled. <br>
+Fortsätt mot Försjön. Efter knappt 2 kilometer dyker försjön upp med parkering och utedass på höger sida och vindskydd och eldstad på vänster. <br>
+Parkera där och följ stigen längs med sjöns sydöstra (vänstra) sida till ni når Amaliagrottan (skyltat från parkeringen).
+
+== Grottan ==
+
+{{led|nr=1|namn=Slagsmålsklubben|grad=8|betyg=3|längd=15|fa=Petter Restorp sep 2011|bultar=0|typ=trad|text=Den uppenbara sprickan som klyver taket i minst 10 meter. Uthållighet och stora knytnävar lär hjälpa.}}
+
+[[Kategori:Småland]]
+[[Kategori:Överhäng]]

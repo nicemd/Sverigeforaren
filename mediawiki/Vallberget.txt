@@ -1,0 +1,43 @@
+{{info klippa
+  |lat=63.9959125627964
+  |long=20.0265312194824
+}}
+
+{{stub}}
+
+==Allmänt==
+
+Lite skräpig klippa som torkar snabbt om våren. Klippan ligger i en 
+gryta som gör att det bildas ett mikroklimat, där det blir mycket varmt och ofta 
+vindstilla. Solen ligger på från morgonen och fram till 16:00. Klippan erbjuder ett 
+stort antal topprepsleder, och några bultade turer, samt några som är möjliga att 
+göra på kil.
+
+==Vägbeskrivning==
+<googlemap lat="63.9959125627964" lon="20.0265312194824" zoom="9" type="map">
+63.9959125627964,20.0265312194824,Vallberget
+</googlemap>
+
+==Uppdateringar==
+{{access}} Ny väg upp till Vallberget! Det är numera förbjudet att gå via det gula huset. Läs mer här: [http://www.ukhk.se/nyaforumet/topic.asp?TOPIC_ID=222 UKHKs forum]
+
+==Östra väggen==
+Väggen mot sjön, nedanför fikaplatsen på toppen. Väggen nås lättast genom att fira ner från fikaplatsen, alternativt genom scrambling nedifrån. Man kan även nå väggen genom klättring på huvudväggens fortsättning nedåt, nedanför/till höger om Linkan Special. Östra väggen bjuder på lätt tradklättring och har god möjlighet för nyturer.
+
+''Det har klättrats på denna vägg under 70- och 80-talet men vad vi har kunnat hitta så finns inga ledbeskrivningar kvar.''
+
+[[Bild:radius_ulna.jpg]]
+
+{{led|namn=Radius|grad=4-|gruv=a|fa=Oskar Hedin, 2012|typ=trad|längd=7|text=En av två korta lättsäkrade sprickor. Bra för nybörjare på trad.}}
+{{led|namn=Ulna|grad=4|gruv=a|fa=Johan Blixt Dackhammar, 2012|typ=trad|längd=7|text=Den andra sprickan, krux på mitten - lättare för de längre. Lättsäkrad och bra nybörjarled.}}
+{{led|namn=Skit samma|grad=3-|gruv=a|fa=Christoffer Vikström, 2012|typ=trad|längd=7|text=Skreva precis under fikaplatsen. Mycket lätt och skitig led.}}
+{{led|namn=Märgspik|grad=4+|gruv=a|fa=Oskar Hedin, 2012|typ=trad|längd=12|betyg=1|text=Längst till höger på plattån, vid den höga tallen. Off width-spricka upp till flakig arête. Rolig klättring.}}
+
+
+
+
+{{tryckt_förare|umeåföraren (2005)=ja}}
+
+[[Kategori:Västerbotten]]
+
+[[Kategori:sport]] [[Kategori:vertikalt]]

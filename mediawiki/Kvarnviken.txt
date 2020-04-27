@@ -1,0 +1,47 @@
+{{info klippa
+  |lat=59.343278640111315
+  |long=17.872331142425537
+}}
+
+{{komplett}}
+==Allmänt==
+Nygammal klippa i de klätterfattiga västra delarna av Stockholm. Klippan är sydvästvänd med skön utsikt över Mälaren vilket gör det till en trevlig kvällsklippa. Ledregistret är som en påse gott-och-blandat med något för alla. Graderna går från 4 till 7 och för den som inte tycker det räcker så finns det några ultratunna linjer som kan bli ännu svårare. Kilsäkrade leder samsas med borrbultade och ett par boulderproblem runtomkring finns att utforska för den som vill. Flera av de naturligt säkrade lederna har med all sannolikhet klättrats tidigare.
+
+Ovanför till höger om klippan finns ytterligare en liten vägg med några artificiella leder för den hugade att återupptäcka. En fast kil sitter bland annat kvar. För enkelhetens skull anges alla leder med fransk gradering. Viss nyturspotential finns i det svårare registret.
+
+==Vägbeskrivning==
+<div style="width: 365; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=400 height=200 controls="small" lat="59.343278640111315" lon="17.872331142425537" zoom="11" type="karta">
+59.343278640111315,17.872331142425537,label goes here
+</googlemap>
+</div>
+
+Kör Bergslagsvägen västerut mot Hässelby. Sväng av mot Blackeberg i rondellen. Sväng första höger in på Grimstagatan. Ta sedan första vänster in på Kanaans väg. Fortsätt längs denna i 1 km till den gamla vattenkvarnen som dyker upp på vänster sida. Lämpligt ställe att parkera bilen på. Promenera förbi båthamnen söderut längs med vattnet. Fortsätt längs promenadspåret i ca 200 meter tills ett gallerstaket dyker upp till vänster om stigen. Enklast är nu att följa detta på vänstra sidan för att komma fram till klippan.
+
+==Leder==
+
+[[Bild:Kvarnviken.jpg]] 
+
+{{led|namn=Ants Crack|nr=1|grad=6a|betyg=|längd=7|fa=[[Christer Stenmark]], [[Jonas Cederling]] [[2001|-01]]|bultar=|typ=trad|text=Känslig linje på svaväggen runt hörnet till vänster. Friends och kilar säkrar leden, dessvärre precis där man vill ha fingrarna. Trädet ovanför är bra topprepsfäste och firningsstation.}}
+
+{{led|namn=Go get gri-gri|nr=2|grad=6c+|betyg=|längd=9|fa=[[Peter Siljerud]] [[2007|-07]]|bultar=3|typ=sport|text=Följer areten i klippans vänsterkant. Insteg till vänster om hörnet. 3 bb och trädet som ankare.}}
+
+{{led|namn=Halvmelur|nr=3|grad=6b|betyg=1|längd=10|fa=[[Christer Stenmark]], [[Jonas Cederling]] [[2001|-01]]|bultar=|typ=trad|text=Sprickdiedern som är klippans finaste linje. Omväxlande klättring. Säkras uteslutande med kilar och friends.}}
+
+{{led|namn=Korsfest|nr=4|grad=6c+|betyg=|längd=10|fa=[[Thomas Eriksson]] [[2007|-07]]|bultar=3|typ=sport|text=Startar vid flaksprickan som leder uppåt vänster. Via sidogreppet tar man sig återigen tillbaks högeråt för att avsluta rakt upp via försvagningen i taket. 3 bb och ankare ovanför (ankaret kan backas upp med träd). }}
+
+{{led|namn=Rust never sleeps|nr=5|grad=4|betyg=|längd=10|fa=[[Peter Siljerud]] [[2007|-07]]|bultar=|typ=trad|text=Den vänstra sprickan vid dubbeldiedret i klippans mittersta del. En rostig bult vittnar om tidigare aktiviteter här. Går att säkra naturligt.}}
+
+{{led|namn=Två fingrar i Zeus|nr=6|grad=7b|betyg=|längd=8|fa=[[Per Willén]] [[2007|-07]]|bultar=2|typ=sport|text=Boulderaktig led som går upp längs den rödaktiga areten. Det ihåliga röda flaket får nog belastas med omtanke.}}
+
+{{led|namn=Blue Powder|nr=6.5|grad=A3|betyg=|längd=10|fa=[[Christer Stenmark]] [[2003|-03]]|bultar=|typ=aid|text=Går upp mellan led 6 och 7 på den svagt överhängande väggen, säkras med Copperheads, microkilar, birdbeaks samt skyhook.).}}
+
+{{led|namn=Beam me up|nr=7|grad=5b|betyg=|längd=8|fa=[[Peter Siljerud]], [[Thomas Eriksson]] [[2007|-07]]|bultar=3|typ=sport|text=Startar i hörnet längst till höger och går upp längs svaet. Greppen i rännan kan vara lösa och kan undvikas. 3 bb och ankare (ankaret kan backas upp med träd).}}
+
+
+[[Kategori : Stockholm]]
+[[Kategori : Trad]]
+[[Kategori : Sport]]
+[[Kategori : Vertikalt]]
+[[Kategori : Sva]]
+[[Kategori:Norra Stockholm]]

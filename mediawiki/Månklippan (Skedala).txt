@@ -1,0 +1,71 @@
+{{info klippa
+  |lat=56.702586
+  |long=13.007426
+}}
+
+{{komplett}}
+
+==Allmänt==
+Klippan är östvänd och har 10 leder klippan får inte mycket sol men torkar bra efter regn. Klippan är mellan 5-10m. En del av lederna är svåra att toppa ur på
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="56.702586" lon="13.007426" zoom="14">56.702586, 13.007426, Virsehatt</googlemap>
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+
+Från Solväggen är det inte svårt att hitta, stå med Solväggen i ryggen och gå ca 200m rakt fram genom granskogen tills du når en ravin. Gå ned i ravinen och här ifrån ser du väggen på din högra sida.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Bild:månklippan.jpg]]
+[[Bild:månklippan2.jpg]]
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Abies|grad=3-|typ=trad|betyg=1|bultar=|längd=6|fa=[[M Gullvert]] -02|text=Trevlig och välsäkrad klättring men kort.}}
+
+{{led|nr=2|namn=Picea|grad=3|typ=trad|betyg=1|bultar=|längd=6|fa=[[M Gullvert]] -02|text=Starta i det lilla taket, sedan rakt upp.}}
+
+{{led|nr=3|namn=Pinus|grad=3+|typ=trad|betyg=1|bultar=|längd=7|fa=[[M Gullvert]] -02|text=Lite svår att toppa ur annars fin led.}}
+
+{{led|nr=4|namn=Nana|grad=3-|typ=trad|betyg=1|bultar=|längd=7|fa=[[M Gullvert]] -02|text=Har man inget bättre för såg så varför inte. }}
+
+{{led|nr=5|namn=Carpinus|grad=6|typ=trad|betyg=2|bultar=|längd=10|fa=[[M Gullvert]] -02|text=Börja traverserna vid överhänget och följ sprickbildningen hela vägen till höger. }}
+
+{{led|nr=6|namn=Buxus|grad=6|typ=trad|betyg=2|bultar=|längd=9|fa=[[M Gullvert]] -02|text=Upp i den lilla diederen sedan utsteg till vänster vid den markerade listen sedan rakt upp, ej välsäkrad. }}
+
+{{led|nr=7|namn=Taxus|grad=6|typ=trad|betyg=2|bultar=|längd=9|fa=[[M Gullvert]] -02|text=Samma insteg som Buxus sedan rakt upp, dåligt med säkrings möjligheter och svår att toppa ut. }}
+
+{{led|nr=8|namn=Giganteus|grad=7|typ=trad|betyg=2|bultar=|längd=10|fa=[[M Gullvert]] -02|text=En riktigt utmanade spricklinje, välsäkrad. }}
+
+{{led|nr=9|namn=Sorbus|grad=6-|typ=trad|betyg=2|bultar=|längd=10|fa=[[M Gullvert]] -02|text=Fin linje med crux på Mitten och i toppen}}
+
+{{led|nr=10|namn=Crategus|grad=6-|typ=trad|betyg=2|bultar=|längd=10|fa=[[M Gullvert]] -02|text=För dom som gillar kraftiga streckar men lite marig att toppa ur }}
+
+|}
+
+==Kontakt==
+För mer info och bilder kolla [http://www.eskapader.se Eskapader]
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]] 
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]] 
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Halland]]

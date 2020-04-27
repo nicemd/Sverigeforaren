@@ -1,0 +1,115 @@
+{{info klippa
+  |lat=59.605677
+  |long=16.46533
+}}
+
+=Allmänt=
+Hälleborg är ett av de senaste tillskotten till Västerås. Parkera bilen vid Rörverksgatan och leta upp blocken i skogen intill. Området är indelat i tre sektorer: höjden, träsket och skogen.
+
+=Vägbeskrivning=
+
+<div style="width: 350; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.605677" lon="16.46533" type="map" zoom="13" width="350" height="350">59.605352, 16.465373, Hälleborg parkering</googlemap>
+</div>
+
+''(markeringen på kartan visar parkeringen, blocken ligger i skogen)''
+
+Från Oslo på E18, sväng av vid Bäckbymotet och åk sedan på Bäckbyvägen, parallellt med E18, tillbaka västerut. Sväng vänster in på Spikverksgatan och vänster igen in på Rörverksgatan. Parkera vid villaparkeringarna och leta upp stenarna som finns i skogen ovanför parkeringen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=Beskrivning=
+
+Hälleborg är ett av de senaste tillskotten till Västerås. Här finns flera enkla såväl som 
+svårare problem. Parkera bilen vid Rörverksgatan, den 2:a parkeringen, och leta upp blocken i skogen intill. De är till viss del utspridda i denna skog. Området är indelat i tre sektorer: höjden, träsket och skogen. 
+Några favoritproblem är King of Sparta 6b, Eragorn 6c, Aratron 6b, Hoppet i Hälleborg 6c+ och Kapten Nemo 6a.
+
+=Sektorer=
+==Höjden==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=Sparta Warrior|grad=6B+|typ=Överhäng|fa=Stefan Persson|landning=3|betyg=3|sopad=Stefan Persson|sittstart=ja|text=Den stora stenen uppe på höjden, stenen med ett inbjudande överhäng. Problemet längs till vänster på stora överhänget. Sittstart på areten. Stenens baksida ingår ej vid mantlingen.}}
+{{problem|nr=1|namn=Achilles|grad=7B|typ=Krimp,Mantling,Reach|fa=Tommy Torsne|landning=4|betyg=3|fadatum=2008-02-17|sopad=Tommy Torsne|sittstart=ja|variant=ja|text=Startar som Sparta Warrior sedan höger via krimp och mantling rakt upp.}}
+{{problem|nr=2|namn=King of Sparta|grad=6B+|typ=Reach|fa=Richard Richardsen|landning=2|betyg=1|sopad=Richard Richardsen|sittstart=ja|text=Sittstart till höger om stora överhänget. Start på slope och ramp långt drag snett upp höger till crimp.}}
+{{problem|nr=3|namn=Queen of Sparta|grad=5C|typ=|fa=Richard Richardsen|landning=2|fadatum=2007-05-29|sopad=Richard Richardsen|sittstart=ja|text=Sittstart till höger om King of Sparta. Dra till stor jug.}}
+{{problem|nr=4|namn=Cobra Kai|grad=6A+|typ=|fa=Stefan Persson|landning=3|betyg=1|sopad=Stefan Persson|sittstart=ja|text=Kid karate, den låga stenen till vänster om Spartablocket. Start på hylla gå höger på bra grepp mantla upp. Akta huvudet!}}
+{{problem|nr=5|namn=Mr miyagi|grad=5A|typ=|fa=Stefan Persson|landning=4|sopad=Stefan Persson|sittstart=ja|text=På Kid karate blocket till vänster runt hörnet om Cobra Kai. Sittstart på pockets sedan rakt upp.}}
+{{problem|nr=6|namn=Herkules traverse|grad=6A|typ=|fa=Richard Richardsen|landning=4|sopad=Richard Richardsen|text=Blocket 50 m söder om Sparta blocket, ner mot cykelbanan, vid enarna. Starta till vänster hängade, traversera sedan runt blocket för att avsluta med mantling vid tydligt grepp.}}
+| width="250px" |
+{{problem|nr=7|namn=Superman|grad=6B+|typ=|fa=Stefan Persson|landning=3|betyg=1|fadatum=2007-05-29|sopad=Stefan Persson|uteslutningar=ja|text=Blocket rakt ovanför bortre bilparkeringen. Bakom granen! 50 m sydväst om Hercules traversen. Hängande start, campus drag och vidare på lister för händerna.}}
+{{problem|nr=7|namn=Superman, assis|grad=6C|typ=Krimp,Överhäng,Reach|fa=Tommy Torsne|landning=3|fadatum=2007-05-30|sopad=Tommy Torsne|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart till Superman. Etablera på stenarna under taket, vidare på krimp eller pinch in i Superman.}}
+{{problem|nr=8|namn=Björntjänst|grad=6C|typ=|fa=Stefan Persson|landning=5|betyg=1|sopad=Stefan Persson|startgrepp=ja|text=Grizzlyblocket 10 m söder om Supermanblocket, mot parkeringen. Starta hängande, i bred kram, under blocket på det mittersta greppet.}}
+{{problem|nr=16|namn=Aspamig|grad=3C|typ=|fa=Tommy T, Patrik H|landning=4|fadatum=2007-05-30|sopad=Tommy T, Patrik H|text=Supermanstenen. Till höger om aspen, på stenens östra gavel. Sittstarten lockar...}}
+{{problem|nr=16|namn=Aspamig, assis|grad=6B|typ=Slopers,Jug|fa=Robert Kostelac|landning=2|betyg=1|fadatum=2007-06-01|sopad=Robert Kostelac|sittstart=ja|startgrepp=ja|text=Supermanstenen. Till höger om aspen, på stenens östra gavel. Sittstart med båda händerna på det stora greppet och sedan rakt upp. Möjlig start ännu lägre ner på lilla stenen?}}
+| width="250px" |
+{{problem|nr=17|namn=Prästkragen|grad=5A|typ=Mantling,Jug|fa=Maria Hjort|landning=3|sopad=Maria Hjort|sittstart=ja|text=Spartablocket. Sittande start till höger om Queen of Sparta.}}
+{{problem|nr=18|namn=Vårtgården|grad=6A|typ=Slopers|fa=Malin Berglind|landning=2|fadatum=2007-05-01|sopad=Malin Berglind|sittstart=ja|text=Spartablocket, startar med sittstart strax till höger om Prästkragen. Klättra sprickan upp till vänster.}}
+{{problem|nr=21|namn=Fossmos fruar|grad=6B+|typ=Krimp,Pinch,Mantling|fa=Tommy Torsne|landning=2|fadatum=2007-06-25|sopad=Tommy Torsne|sittstart=ja|text=Spartablocket, på stenens södra sida, i det korta branta taket. Etablera i takets vänstra del, på pinch och krimp, sedan rakt upp via tydligt grepp på kanten.}}
+{{problem|nr=29|namn=Bonsai|grad=4C|typ=Mantling|fa=Okänd|landning=3|sopad=Okänd|text=Mantling, svårt att nå till stargreppen för de kortväxta. Starta mellan Cobra Kai och Mr Miyagi.}}
+{{problem|nr=29|namn=Bonsai, assis|grad=7A+|typ=Mantling,Reach|fa=Persson, Torsne|landning=3|fadatum=2008-02-13|sopad=Persson, Torsne|sittstart=ja|variant=ja|uteslutningar=ja|text=Start med vänster hand på litet sidtag och höger i ett tunt undercling. Drag rakt upp utan att använda areten eller juggarna på Cobra Kai.}}
+|}
+==Träsket==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=9|namn=Slopigt!|grad=6A+|typ=Slopers|fa=Richard Richardsen|landning=3|fadatum=2007-05-29|sopad=Richard Richardsen|startgrepp=ja|uteslutningar=ja|text=Stora blocket vid träsket. På kortsidan. Ståstart med händerna på slopehyllan vidare rakt upp. Övre diedret ingår ej.}}
+{{problem|nr=9|namn=Slopigt!, assis|grad=6B+|typ=Krimp,Slopers|fa=Tommy Torsne|landning=3|betyg=2|fadatum=2008-06-15|sopad=Tommy Torsne|sittstart=ja|variant=ja|startgrepp=ja|uteslutningar=ja|text=Sittstart till Slopigt! Höger hand på tydlig hylla och vänster på krimp. Klättra upp till slopern och sedan rakt upp utan den tydliga "diedern" till vänster eller areten till höger.}}
+{{problem|nr=10|namn=Ettan|grad=6A+|typ=Aréte|landning=3|betyg=2|sittstart=ja|text=Sittstart till höger om Slopigt, vid "hörnet"}}
+{{problem|nr=11|namn=Eragon|grad=6C|typ=Slopers|fa=Richard Richardsen|landning=2|betyg=3|sopad=Richard Richardsen|sittstart=ja|text=Mitt på träskblocket. Start under överhänget. Upp på hyllan traversera sedan åt vänster följ därefter sprickan mot toppen!}}
+| width="250px" |
+{{problem|nr=11|namn=Eragon, direkt|grad=6C+|typ=Slopers|fa=Tommy Torsne|landning=3|betyg=2|fadatum=2007-06-27|sopad=Tommy Torsne|sittstart=ja|variant=ja|uteslutningar=ja|text=Starta som Eragon. Först upp till stora hyllan sedan ett långt drag snett upp åt vänster till en liten slopehylla. Därefter sprickan och vidare rakt upp.}}
+{{problem|nr=12|namn=Aratron|grad=6B|typ=|fa=Stefan Persson|landning=2|betyg=1|sopad=Stefan Persson|sittstart=ja|text=Samma start som Eragon, traversera sedan åt höger, avsluta sedan i samma spricka som Eragon mot toppen.}}
+{{problem|nr=14|namn=Hoppet i Hälleborg|grad=6C+|typ=Krimp,Dyno|fa=Tommy Torsne|landning=3|betyg=1|sopad=Tommy Torsne|sittstart=ja|text=Träsket, vid den lilla stenen. Sittstart vid gaveln som vätter mot träsket. Rakt upp via krimp och dyna utan aréterna.}}
+{{problem|nr=15|namn=Kapten Nemo|grad=6A|typ=Pinch|fa=Robert Kostelac|landning=3|betyg=1|sopad=Robert Kostelac|sittstart=ja|startgrepp=ja|text=Träsket, vid den lilla stenen. Sittstart vid gaveln som vätter mot träsket (ca 1m till höger om Hoppet i Hälleborg). Starta på crimpar och upp via höger pinch.}}
+| width="250px" |
+{{problem|nr=20|namn=Kanelgiffeln|grad=5B|typ=Slopers|fa=Robert Kostelac|landning=2|fadatum=2007-05-01|sopad=Robert Kostelac|sittstart=ja|text=Träsket, vid den lilla stenen. Startar till vänster om trädet (ingår ej) på sidan som vätter bort från träsket. En tydlig bulle markerar startgreppet.}}
+{{problem|nr=25|namn=Tomtar i träsket|grad=6C|typ=Slopers,Travers H->V|fa=Robert Kostelac|landning=2|betyg=2|fadatum=2007-07-17|sopad=Robert Kostelac|sittstart=ja|text=Träskblocket. Starta på den tydliga sluttande hyllan till höger. Traversera vänster på slopiga grepp och avsluta i Aratron. Intressant boulder.}}
+{{problem|nr=26|namn=Gaveln|grad=5C|typ=Heel hook|fa=Richard Richardsen|landning=4|betyg=1|fadatum=2007-07-17|sopad=Richard Richardsen|sittstart=ja|startgrepp=ja|text=Gavelnblocket. 10m söder om träskblocket ligger gaveln 5C. Start med båda händerna på det stora greppet.}}
+|}
+==Skogen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=13|namn=Bullen|grad=5C|typ=Mantling|fa=Stefan Persson|landning=3|sopad=Stefan Persson|text=Ståstart. Mantla sedan upp.}}
+{{problem|nr=19|namn=Dyna Moskva|grad=6B|typ=Dyno|fa=Richard Richardsen|landning=3|betyg=1|fadatum=2007-06-16|sopad=Richard Richardsen|sittstart=ja|startgrepp=ja|uteslutningar=ja|text=Sydväst om träskblocket ligger 2 block sida vid sida. Ett av dessa är Moskva blocket. Sittstart på väl definerad crimplist, dra sedan mot toppen, mantla upp. Den lilla crimpen mitt på ingår ej.}}
+{{problem|nr=22|namn=Kristallbågen|grad=6A+|typ=Travers H->V,Heel hook|fa=Tommy T, Robert K, & Patrik H|landning=3|betyg=2|fadatum=2007-06-25|sopad=Tommy T, Robert K, & Patrik H|sittstart=ja|text=Låg bullig sten ca 25 m söder om Bullenproblemet. Etablera vid stenens låga högra del och sedan hangelklättring till vänster. Mantla upp där stenen är som högst.}}
+| width="250px" |
+{{problem|nr=23|namn=Kristallbången|grad=5B|typ=Slopers,Mantling,Travers V->H|fa=Robert Kostelac|landning=2|fadatum=2007-07-09|sopad=Robert Kostelac|sittstart=ja|text=Kristallbågenblocket. Sittstart till vänster, traversera åt höger och toppa ur där stenen är som högst.}}
+{{problem|nr=24|namn=Smack My Bitch Up|grad=6B+|typ=Pinch|fa=Patrik Hagman|landning=3|betyg=1|fadatum=2007-06-25|sopad=Patrik Hagman|sittstart=ja|startgrepp=ja|text=Stenen mellan Kristallbågen och Träskblocken. Areten höger om Bullenmantlingen. Sittstart vid den tydliga areten på krimplister.}}
+{{problem|nr=27|namn=Slope orgie|grad=6B|typ=Slopers,Travers H->V|fa=Stefan Persson|landning=3|betyg=1|fadatum=2007-07-23|sopad=Stefan Persson|sittstart=ja|text=På döskalleblocket bakom kristallblocket. Sittstart på slopers gå vidare vänster på slopers och upp.}}
+| width="250px" |
+{{problem|nr=28|namn=Pumpa och stöt|grad=6B|typ=Slopers|fa=Stefan Persson|landning=3|betyg=1|fadatum=2007-07-23|sopad=Stefan Persson|sittstart=ja|startgrepp=ja|text=På döskalleblocket. Sittstart med höger hand på slope och vänster runt kanten.}}
+{{problem|nr=30|namn=Dödskallemofvet|grad=7A|typ=Slopers|fa=Robert Kostelac|landning=2|betyg=1|fadatum=2008-03-16|sopad=Robert Kostelac|text=På döskalleblocket till vänster om Pumpa och stöt. Ståstart med vänster hand på undercling och höger på slope. Rakt upp på slopers.}}
+|}
+[[Kategori:Västerås]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

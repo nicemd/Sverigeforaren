@@ -1,0 +1,32 @@
+[[Kategori:Saknar allmän info]]
+=Vägbeskrivning=
+Bakom masten finns ett liten »bullig« vägg.
+<googlemap version="0.9" lat="63.66882" lon="20.144758" type="map" zoom="12">
+63.66882,20.144758, Norrmjöle
+</googlemap>
+
+=Problem=
+Från vänster till höger:
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Android|grad=6C|typ=Vertikalt|landning=2|betyg=3|text=Till vänster om Ericsson och helt skild från denna.  Mellan två tunna sprickor.  Sitt/hukstart möjlig (grad 7B/7C kanske)}}
+{{problem|namn=Ericsson|grad=5C|typ=Jam,Spricka|fa=Per Gunnarsson|landning=2|betyg=2|fadatum=2005-10-01|sopad=Per Gunnarsson|text=Sprickan mitt genom överhänget. Sittstart möjlig men förmodligen komplicerad eller smärtsam eller båda.}}
+| width="250px" |
+{{problem|namn=Mobilt arbete|grad=7A+|typ=Aréte|landning=2|betyg=3|text=Hukstart under skeppet, se [http://www.facebook.com/photo.php?v=431634573537232 film]. 6B+ från stå}}
+{{problem|namn=Bredband|grad=6A|typ=Spricka, Sittstart|landning=2|betyg=1|text=Sittstart till sprickan direkt till höger om stennäsan}}
+{{problem|namn=Nokia|grad=5B|typ=Layback,Spricka|fa=Per Gunnarsson|landning=2|betyg=1|fadatum=2005-10-01|sopad=Per Gunnarsson|sittstart=ja|startgrepp=ja|text=Sprickan längst till höger på tak-väggen. Starta sittande under taket med båda händerna under taket.}}
+| width="250px" |
+{{problem|namn=Hook|grad=3B|typ=Aréte|fa=Pär Lindholm|landning=4|fadatum=2005-10-01|sopad=Pär Lindholm|text=Lilla väggen runt hörnet till höger om överhänget.}}
+{{problem|namn=Drive|grad=5B|typ=Mantling|fa=Pär Lindholm|landning=3|betyg=1|fadatum=2005-10-16|sopad=Pär Lindholm|text=Lilla väggen runt hörnet till höger om överhänget. Rakt upp mitt i. Mantlingen gör graden, ta dig dit hur du vill.}}
+{{problem|namn=Slice|grad=5B|typ=Slopers|fa=Pär Lindholm|landning=3|betyg=1|fadatum=2005-10-16|sopad=Pär Lindholm|startgrepp=ja|text=Lilla väggen runt hörnet till höger om överhänget. Klättra högra rampen. Starta med båda händerna längst ner efter rampen.}}
+|}
+
+[[Kategori:Umeå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

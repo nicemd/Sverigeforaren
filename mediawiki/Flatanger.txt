@@ -1,0 +1,120 @@
+{{utkast}}
+
+==Allmänt==
+Utanför Flatanger finns en STOR gneissgrotta. Leder finns både i och utanför grottan. Åk hit om du tycker att Hell är för lätt!
+
+== Övrigt ==
+
+Leder i grottan, som kallas Helleren, finns på [http://www.headwall.com/headwall/explorer.jsp?cgy=CRAG&cid=374&skn=classic Headwall] och [http://www.steepstone.com/topo/cragDet.asp?Crag_id=15 Steepstone].
+
+<googlemap version="0.9" lat="64.496973" lon="10.840373" type="map" zoom="5">
+64.48984, 10.816813, Flatanger
+</googlemap><br>
+<googlemap version="0.9" lat="64.492095" lon="10.824194" type="terrain" zoom="14">
+64.490173, 10.818529, Hanshelleren
+64.489248, 10.816555, Flygelet
+64.488176, 10.82222, Bouldrefeltet
+64.487659, 10.819645, Oppvarmningsveggen
+64.497158, 10.827971, Dalen, nedre del
+64.496197, 10.839128, Dalen, övre del
+64.486993, 10.827713, Valkeveggen
+</googlemap>
+[[Bild:IMG_0845.jpg|Hanshallaren. Foto: [[Användare:zigge67|Jan Lundström]]]]
+
+[[Bild:IMG_0889.jpg|Bouldering i grottan. Foto: [[Användare:zigge67|Jan Lundström]]]]
+
+==Leder==
+
+===Hanshelleren===
+Den stora grottan och väggen till vänster om den. Cirka 100 m hög vägg som hänger över 4-40m.
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Trang Födsel|nr=1|grad=6-|betyg=3|längd=90|fa=[[Vegard Fluge Samuelsen]], [[Övind Amundsgård]] [[1996|-96]]|bultar=|typ=trad|text=Spricka/dieder. Startar i vänstra diedret och går sen in i huvuddiedret.}}
+{{led|namn=Tusen Tak|nr=2|grad=6+|betyg=2|längd=90|fa=[[Thomas Vekve]], [[Erik Alde]] [[1996|-96]]|bultar=|typ=trad|text=Gemensam start med '''Trang födsel'''. Viker av mot höger mitt på första replängden.}}
+{{led|namn=Tungt möblement|nr=3|grad=7a+|betyg=3|längd=20|fa=[[Eivind W Nagell]] [[2000|-00]]|bultar=|typ=sport|text=Till vänster om det stora taket.}}
+{{led|namn=???|nr=|grad=?|längd=|fa=|bultar=|typ=sport|text=Ny led till höger om Tungt möblement?}}
+{{led|namn=(Öppet projekt)|nr=4|grad=?|betyg=|längd=30|fa=|bultar=|typ=trad|text=Spricka genom tak.}}
+{{led|namn=Kneopatra|nr=5|grad=7c|betyg=2|längd=20|fa=[[Thomas Vekve]] [[1999|-99]]|bultar=|typ=sport|text=Slutar vid ankaret mitt i '''Bondeanger'''.}}
+{{led|namn=Bondeanger|nr=6|grad=7c|betyg=2|längd=30|fa=[[Thomas Vekve]] [[1999|-99]]|bultar=|typ=sport|text=Gemensam start med '''Kykkeli'''. Traverserar vänster till ankaret på '''Kneopatra''' och fortsätt rakt uppåt till nästa ankare.}}
+{{led|namn=Kykkeli|nr=7|grad=7b|betyg=2|längd=20|fa=[[Pål Benum Reiten]], [[Thomas Vekve]] [[1996|-96]]|bultar=|typ=sport|text=Tydlig spricka som slutar just under ett tak.}}
+{{led|namn=Kykkelikokos|nr=8|grad=7b+|betyg=2|längd=30|fa=[[Pål Benum Reiten]], [[Thomas Vekve]] [[1996|-96]]|bultar=|typ=sport|text=Förlängning av '''Kykkeli'''.}}
+{{led|namn=Påltergeist|nr=9|grad=7c+|betyg=2|längd=30|fa=[[Pål Benum Reiten]] [[1997|-97]]|bultar=|typ=sport}}
+{{led|namn=Påletikk|nr=10|grad=7b|betyg=2|längd=25|fa=[[Pål Benum Reiten]] [[1997|-97]]|bultar=|typ=trad|text=Tydlig spricka och dieder.}}
+| width=300px|
+{{led|namn=Eventyrblanding|nr=11|grad=8a|betyg=3|längd=25|fa=[[Thomas Vekve]] [[2001|-01]]|bultar=|typ=sport}}
+{{led|namn=Nagells Drömmedieder|nr=12|grad=8a+|betyg=3|längd=25|fa=[[Erik Massih]] [[2006]]|bultar=|typ=sport}}
+{{led|namn=Massih Attack|nr=13|grad=8b|betyg=3|längd=25|fa=[[Erik Massih]] [[2006]]|bultar=|typ=sport}}
+{{led|namn=Hovdegjengen|nr=14|grad=6c+|betyg=2|längd=12|fa=[[Oscar H Berntsen]] [[2001|-01]]|bultar=|typ=sport|text=Upp till första ankaret.}}
+{{led|namn=Berntsenbanden|nr=15|grad=7c|betyg=2|längd=25|fa=[[Oscar H Berntsen]] [[2003|-03]]|bultar=|typ=sport|text=Förlängning av '''Hoevdegjengen'''.}}
+{{led|namn=Waliserne kommer|nr=16|grad=7b|betyg=2|längd=15|fa=[[Pål Benum Reiten]] [[1999|-99]]|bultar=|typ=sport|text=Brant diederformation.}}
+{{led|namn=Andre höyre|nr=17|grad=7c|betyg=2|längd=15|fa=[[Thomas Vekve]], [[Gisle Andersen]] [[2000|-00]]|bultar=|typ=sport}}
+{{led|namn=(Projekt)|nr=18|grad=?|betyg=|längd=|fa=|bultar=|typ=sport|text=Hårt, brant och långt!}}
+{{led|namn=Kakestykket|nr=19|grad=7a|betyg=1|längd=15|fa=[[Pål Benum Reiten]] [[1995|-95]]|bultar=|typ=trad|text=Traverserar ut åt höger och delar ankare med '''Flaggermusmannen'''.}}
+{{led|namn=Flaggermusmannen|nr=20|grad=8a|betyg=2|längd=10|fa=[[Pål Benum Reiten]] [[1996|-96]]|bultar=|typ=sport|text=Stick-clip första bulten och dra dig upp till den. Leden startar från första bult.}}
+|}<br>
+
+===Dalen, Nedre delen===
+Ganska långsträckt väggparti. Långa sträckor är ganska linjelösa.
+
+===Dalen, Midtre del===
+Ta gärna med lite större säkringar. Flera av lederna är ganska grova sprickor
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Gruvarbeid i höyden|grad=4|betyg=2|längd=50|fa=[[Erik Alde]], [[Magnhild S Hatlöy]] [[1996|-96]]|bultar=|typ=trad|text=Kamin}}
+{{led|namn=Kabelmannen|grad=7-|betyg=3|längd=50|fa=[[Pål Benum Reiten]], [[Erik Alde]] [[1996|-96]]|bultar=|typ=trad|text=Tydlig spricka.}}
+{{led|namn=Slalom|grad=7-|betyg=3|längd=50|fa=[[Pål Benum Reiten]], [[Thomas Vekve]] [[1996|-96]]|bultar=|typ=trad|text=Zick-zack längs arete'.}}
+{{led|namn=Storfjellsbowling|grad=6+|betyg=2|längd=50|fa=[[Erik Alde]] [[1996|-96]]|bultar=|typ=trad|text=Dieder i början.}}
+{{led|namn=Scrotum explorer|grad=4-|betyg=1|längd=50|fa=[[Erik Alde]] [[1996|-96]]|bultar=|typ=trad|text=Diederformationer.}}
+| width=300px|
+{{led|namn=Lykkens sönn|grad=7|betyg=3|längd=50|fa=[[Thomas Vekve]], [[Pål Benum Reiten]] [[1997|-97]]|bultar=|typ=trad|text=Dieder till tak. Passera taket.}}
+{{led|namn=Slagvolum|grad=7-|betyg=2|längd=50|fa=[[Pål Benum Reiten]] [[1997|-97]]|bultar=|typ=trad|text=Tydlig spricka som brantar på mot slutet.}}
+{{led|namn=Placebo|grad=?|betyg=?|längd=50|fa=[[?]] [[?|-?]]|bultar=|typ=trad|text=Tydlig spricka.}}
+{{led|namn=Hypnose|grad=6-|betyg=1|längd=50|fa=[[Anders Kringstad]] [[1997|-97]]|bultar=|typ=trad|text=Tydlig spricka. Flack start.}}
+|}<br>
+
+===Dalen, Övre del===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Detektor|grad=5+|betyg=1|längd=|fa=[[Lars Andun Nornes]], [[Thomas Vekve]] [[1997|-97]]|bultar=|typ=tradFALSKT}}
+{{led|namn=Bunnlös uro|grad=7+|betyg=1|längd=|fa=[[Thomas Vekve]], [[Pål Benum Reiten]] [[1997|-97]]|bultar=|typ=trad|text=Brant väggklättring och spricka.}}
+{{led|namn=Stemmeskiftet|grad=7|betyg=2|längd=|fa=[[Thomas Vekve]], [[Lars Andun Nornes]] [[1999|-99]]|bultar=|typ=trad|text=Brant diederformation förbi två tak.}}
+{{led|namn=Kåt ugle|grad=5|betyg=2|längd=|fa=[[Vegard Fluge Samuelsen]], [[Öyvind Amundsgård]] [[1997|-97]]|bultar=|typ=trad|text=Brant spricka och sedan en lätt dieder.}}
+{{led|namn=Kam du så kan jeg|grad=5|betyg=1|längd=|fa=[[Vegard Fluge Samuelsen]], [[Öyvind Amundsgård]] [[1997|-97]]|bultar=|typ=trad|text=Spricka.}}
+{{led|namn=Snoken|grad=7|betyg=1|längd=|fa=[[Thomas Vekve]], [[Pål Benum Reiten]] [[1997|-97]]|bultar=|typ=trad|text=Vänster sida av '''Brattsvaet'''.}}
+{{led|namn=Näringsvett|grad=7-|betyg=1|längd=|fa=[[Eivind W Nagell]], [[Anders Kringstad]] [[2000|-00]]|bultar=|typ=trad|text=Höger sida av '''Brattsvaet'''.}}
+{{led|namn=Knottåt|grad=8-|betyg=2|längd=|fa=[[Pål Benum Reiten]], [[E. Sönstebö]] [[1997|-97]]|bultar=|typ=trad|text=Gemensam start med '''Frivillig tvang''' och '''Gresk krydder'''. Viker av åt vänster.}}
+| width=300px|
+{{led|namn=Frivillig tvang|grad=7+|betyg=2|längd=|fa=[[Pål Benum Reiten]], [[Thomas Vekve]] [[1997|-97]]|bultar=|typ=trad|text=Går rakt upp.}}
+{{led|namn=Gresk krydder|grad=5|betyg=2|längd=|fa=[[Vegard Fluge Samuelsen]], [[Öyvind Amundsgård]] [[1997|-97]]|bultar=|typ=trad|text=Dieder. Sva i starten.}}
+{{led|namn=Strekkoden|grad=6+|betyg=2|längd=|fa=[[Thomas Vekve]], [[Pål Benum Reiten]] [[1996|-96]]|bultar=|typ=trad|text=Gemensam start och slut med '''Genistreken'''.}}
+{{led|namn=Genistreken|grad=7-|betyg=2|längd=|fa=[[Pål Benum Reiten]], [[Thomas Vekve]] [[1996|-96]]|bultar=|typ=trad|text=Gemensam start och slut med '''Strekkoden'''.}}
+{{led|namn=Superleder|grad=5|betyg=2|längd=|fa=[[Vegard Fluge Samuelsen]], [[Öyvind Amundsgård]] [[1997|-97]]|bultar=|typ=trad|text=Dieder.}}
+{{led|namn=Knyttneven|grad=7-|betyg=1|längd=|fa=[[Pål Benum Reiten]], [[Thomas Vekve]] [[1996|-96]]|bultar=|typ=trad}}
+{{led|namn=Kul rundt kanten|grad=5|betyg=1|längd=|fa=[[Thomas Vekve]], [[Pål Benum Reiten]] [[1996|-96]]|bultar=|typ=trad}}
+|}<br>
+===Oppvarmningsveggen===
+Ofta seriösa och svåra starter på lederna.
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Organiske forbindelser|grad=7-|betyg=1|längd=|fa=[[Thomas Vekve]], [[Ragnhild Svinsås]] [[1999|-99]]|bultar=|typ=trad|text=Spricka}}
+{{led|namn=Kollisjonsteori|grad=7|betyg=1|längd=|fa=[[Pål Benum Reiten]] [[1998|-98]]|bultar=|typ=trad|text=Spricka}}
+{{led|namn=Frie radikaler|grad=7-|betyg=2|längd=|fa=[[Thomas Vekve]], [[Kari Torgersen]] [[1998|-98]]|bultar=|typ=trad|text=Spricka}}
+{{led|namn=Bunnfall|grad=6-|betyg=1|längd=|fa=[[Thomas Vekve]], [[Kari Torgersen]] [[1998|-98]]|bultar=|typ=trad|text=Spricka. Svårsäkrad mot slutet.}}
+| width=300px|
+{{led|namn=Brownske bevegelser|grad=6-|betyg=1|längd=|fa=[[Anders Kringstad]], [[Eivind W Nagell]] [[1999|-99]]|bultar=|typ=trad}}
+{{led|namn=Det kritiske punkt|grad=6-|betyg=1|längd=|fa=[[Anders Kringstad]], [[Eivind W Nagell]] [[1999|-99]]|bultar=|typ=trad|text=Mossig spricka.}}
+{{led|namn=Likevekt|grad=6b|betyg=2|längd=|fa=[[Thomas Vekve]] [[2000|-00]]|bultar=|typ=sport}}
+{{led|namn=Amatören|grad=6b+|betyg=1|längd=|fa=[[Thomas Vekve]] [[2000|-00]]|bultar=|typ=sport}}
+|}<br>
+
+
+[[Kategori:Sport]]
+[[Kategori:Trad]]
+[[Kategori:Vertikalt]]
+[[Kategori:Överhäng]]
+[[Kategori:Norge]]
+[[Kategori:Utomlands]]

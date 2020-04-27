@@ -1,0 +1,18 @@
+{{stub}}
+== Allmänt ==
+Området består av ett nedlagt stenbrott. Klippan är solvänd och lämpar sig för klättring från tidigt på våren till sen höst. Väggarna är ca 10-15m höga och består till stor del av "bruten" men fast klippa. Allt är bultat med några få undantag bestående av topprepsleder.
+
+== Access ==
+Inga problem
+== Hitta hit ==
+Åk till Grötvik. Fortsätt förbi småbåtshamnen och caféet så dyker brottet upp på höger sida efter några hundra meter. Det finns ett antal bultade leder sedan tidigare på vänster sida, från havet sett. De nya lederna finns på väggen rakt fram.
+
+== Klippor ==
+=== Originalväggen ===
+[[Bild:Solsting.jpg|150 px|thumb|Solsting, 6a+]]
+[[Bild:Bitter End.jpg|150 px|thumb|Bitter End, 7a+]]
+
+{{led|nr=1|namn=Solsting|grad=6a+|längd=10|fa=A. Andersson, M Skafar - 07|typ=bult|text=Leden följer den tydliga vänsterlutande kanten, den har ett tydligt crux och bjuder på skön klättring, 3 bult+ankare}}
+
+{{led|nr=2|namn=Bitter End|grad=7a+|längd=15|fa=M.Skafar, A. Andersson - 07|typ=bult|text=Leden börjar rakt under den tydliga layback kanten, den passerar "hyllan" på mitten och följer sedan den naturliga vägen till ankaret. Varierande och rolig klättring hela vägen. 5 bult+ankare}}
+[[Kategori:Halland]]

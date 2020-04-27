@@ -1,0 +1,23 @@
+{{info klippa
+  |lat=59.210435
+  |long=18.064013}}
+
+{{boulderstub|extern=ja}}
+Blockklättring i närheten av Farsta. Klicka på markeringarna på kartan för att komma direkt till sektorns beskrivning på bloxc. Om nån vet var resten av sektorerna är, klicka på Redigera och kartsymbolen längst ut till höger i knappraden... Sen är det bara att klicka på kartan och flytta runt markörerna tills man är nöjd, och copy-pasteja googlemap-koden över den gamla på sidan.
+
+<center>
+<googlemap version="0.9" lat="59.217157" lon="18.082466" zoom="14" width="500" height="600">
+59.210435, 18.064013, Ko-blocket
+Stort block mitt bland kossorna. Eller koskiten iallafall. Sektor [http://www.bloxc.com/index.php?p=sector&a=2&c=b5 B5] på bloxc.
+</googlemap>
+</center>
+
+==Områden==
+;[http://www.bloxc.com/index.php?p=sector&a=2&c=b5 B5, "Ko-blocket"]: Stort block mitt ute på en "äng". Om du inte samtidigt vill leka kovältning finns ingen större anledning att knata hit om du inte klättrar 6C och uppåt.
+En bra bit att gå från närmsta parkering
+annars ett sjysst block du kan inte missa det!
+
+==Bloxc==
+[http://www.bloxc.com/index.php?p=frontarea&a=2 Mer om Ågesta, översikter och problemdatabas på bloxc]
+
+[[Kategori:Stockholm]]

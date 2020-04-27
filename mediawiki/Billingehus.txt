@@ -1,0 +1,99 @@
+{{info klippa
+  |lat= 
+  |long=
+}}
+{{stub|extern=ja}}
+
+==Allmänt==
+Billingehus ligger direkt ovanför Skövde - där Billingens Klätterklubb finns
+
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+karta här
+</div>
+Följ backen upp till parkeringen utanför Billingenbadet.
+
+==Access {{access}}==
+
+{{AccessDB|klippa=billingehus}}
+
+
+=='''Gamla liften'''==  
+Gamla liften är den del av berget som ligger utanför naturreservatet - söderut från strupen - och omnämns i föraren. Den börjar vid slalombacken och sträcker sig norr ut  bort mot strupen. En hel del leder är gjorda och det finns möjlighet att göra många fler.
+
+Lättaste vägarna dit är antingen nedifrån - då parkerar man på slalombackens parkering och går sedan upp under den lilla liften.Sedan går man in i skogen där "Snowparken" börjar och fortsätter rakt upp mot klippan
+
+Uppifrån så parkerar man vid bandybanan. Sedan går man bakom hotellet och ner mellan slalombacken och kapellet. Var noga med att inte gå framför kapellets panoramafönster!! 
+
+Två stödrep är uppsatta för upp/nedstigning - de lokaliseras lättast nedifrån. Ett finns mellan led nr.5 och 9 och ett mellan led 35 och 41
+
+Första delen börjar direkt i anslutning till slalombacken
+[[Bild:Slalomväggen.jpg|700px]]
+{{led|nr=|namn=X|grad=3-|fa=Upp/nedstigning|}}
+{{led|nr=1|namn=Skrotum Pungularis|grad=6-|typ=sport|fa= Jonas Gustafsson/Geir Eriksen 2013| text= Välsäkrad led som bjuder på fina balansmoves och tunga crimpar. För en lättare variant kan den mossiga pelaren till vänster användas som fotstöd.  |}}
+{{led|nr=2|namn=Paraply|grad=4+|typ=trad|fa=Johan Einevik 2010|}}
+{{led|nr=3|namn=Pistvakt|grad=5+|typ=trad|fa=Geir Eriksen 2010| text= God jamteknik gör det hela lättare |}}
+{{led|nr=4|namn=Spider Pig|grad=6-|typ=mix|fa= Jonas Gustavsson 2010| text= En borrbult i starten, luftigt i slutet gör det lite lagom spännande |}}
+{{led|nr=5|namn=Dalskidan|grad=5|typ=trad|fa= Geir Eriksen 2010| text= Följ sprickan, därefter över taket |}}
+
+
+
+Cirka 50m längre bort - strax söder om kapellet - finner du en klippa med följande leder:
+
+[[Bild:kapell.jpg|700px]]
+
+Bilden är tagen från två håll då det var svårt att få en bild rakt framifrån 
+
+{{led|nr=6|namn=Dopfunten| grad=6+ | typ=trad | fa=Johan Einevik(topprep) Jan Leyon, Erik Valis 2013 | text= Bra säkringar. Bultat ankare}}
+{{led|nr=7|namn=Kapellet| grad=6- | typ=mix | fa= Geir Eriksen, Johan Einevik | text= En borrbult i början ,bultat ankare }}
+{{led|nr=8|namn=O,Store Gud| grad=7 | typ=trad | fa=Jan Leyon, Linus Malmberg 2012 | text= Succesivt svårare med krux på slutet. Bra säkringar. Bultat ankare |}}
+{{led|nr=9|namn=Den smala vägen| grad=5+ | typ=topprep | fa=Geir Eriksen |}}
+{{led|nr=10|namn=Himlaporten| grad=5 | typ=trad | fa=Geir Eriksen | text= Välsäkrad . Bultat ankare }}
+
+
+
+Rakt under och norr om kapellet finns två klippor, med 10  leder , Visa hänsyn när det är aktivitet i kapellet .
+Nr. 31- 35 på den södra och nr. 41 - 53 på den norra
+
+[[Bild:31 Vänster under kappel.jpg]]
+{{led|nr=31|namn=Guds liljekonvaljer| grad=5+ | typ=sport | fa=Geir Eriksen, Jonas Gustavsson 2013  |}}
+{{led|nr=32|namn=Den blomster tid nu kommer| grad=5 | typ=trad | fa=Jan Leyon, Geir Eriksen 2013  |}}
+{{led|nr=33|namn=I denna ljuva sommartid| grad=5- | typ=trad | fa=Geir Eriksen, Jan Leyon 2013  |}}
+
+
+[[Bild:linus2.jpg]]
+
+{{led|nr=35|namn=Var hälsad sköna morgonstund| grad=5+ | typ=trad | fa=Jan Leyon, Linus Malmberg 2013 | text= Bultat ankare på framsidan av klippan}}
+
+
+
+[[Bild:7höger under kappel41.jpg]]
+
+{{led|nr=41|namn=Granstubben| grad=5 | typ=trad | fa=Geir Eriksen, Jan Leyon 2013  |}}
+{{led|nr=42|namn=Jordhyllan| grad=6- | typ=sport | fa=Geir Eriksen, Marcus Forsell 2013 | text= bult 3 och 4 gemensam för båda lederna}}
+{{led|nr=43|namn=Krattan| grad=6- | typ=sport | fa=Geir Eriksen, Marcus Forsell 2013  |}}
+
+
+[[Bild:kappellängstillhögerändring .jpg]]
+{{led|nr=51|namn=Härlig är jorden| grad=3+ | typ=trad | fa=Jan Leyon, Geir Eriksen 2013 |}}
+{{led|nr=52|namn=Sommaren med Sankta Elin| grad=4+ | typ=trad | fa=Erik Valis, Jan Leyon  2013 |}}
+{{led|nr=53|namn=Tryggare kan ingen vara| grad=5- | typ=trad | fa=Jan Leyon, Geir Eriksen  2013 |}}
+
+==Extern förare==
+[http://www4.idrottonline.se/ImageVaultFiles/id_245724/cf_72266/forareversion1.pdf Förare hos Billingens Klatterklubb]
+
+[[Kategori:Västergötland]]
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]

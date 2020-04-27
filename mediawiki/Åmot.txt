@@ -1,0 +1,43 @@
+<!-- Detta gör det möjligt att markera klippan på kartor -->
+{{info klippa
+  |lat=59.710279
+  |long=12.883101
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{boulderutkast}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+I dagsläget ett block kallat superägget. Vid mangskog ett par mil utanför Arvika mot Karlstad. Inte långt från Gylterud som också markeras i kartan. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.696163" lon="12.789459" type="map" zoom="10">
+59.704218, 12.853918, Gylterud
+59.710279, 12.883101, Åmot
+</googlemap>
+
+</div>
+
+Se karta för vägbeskrivning.
+
+<div style="clear:right;"></div>
+
+==Arvika Boulderförare== 
+
+Detta ställe återfinns på Arvika Boulderförare som är skapad hos www.27crags.com. Se följande länk för bilder och övrig beskrivning om stället... [http://27crags.com/crags/amot http://27crags.com/crags/amot]
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:bouldering]]
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Värmland]]

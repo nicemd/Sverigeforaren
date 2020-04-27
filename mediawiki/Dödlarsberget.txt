@@ -1,0 +1,109 @@
+{{info klippa
+  |lat=65.789052
+  |long=20.685368
+}}
+
+{{utkast}}
+
+==Allmänt==
+Hit åker man huvudsakligen för de lätta tradlederna. Klippans sammansättning gör att sprickorna har en lite annorlunda form och detta gör att lederna kan vara lite knepiga att säkra. Detta gäller fråmst de lite svårare lederna.
+
+Det finns en östvägg och en sydvägg. Det är på sydväggen som klättringen sker. Totalt ca 100 leder.
+
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="65.732884" lon="21.412354" type="map" zoom="8" width="375" height="250" scale="yes" controls="small">65.789052, 20.685368, Dödlarsberget
+</googlemap>
+</div>
+OBS ny parking! Berget ligger i byn Riddarhällan, mellan Älvsbyn och Vidsel. Om du kommer från Älvsbyn, så passera byn Riddarhällan och sväng in andra avtagsvägen åt höger och sväng sedan direkt till vänster vid T-korsningen. (Sväng inte in på den gamla parkeringen) Efter c:a 500 meter kommer du fram till en tre-korsning. Ta till höger och följ vägen tills du kommer fram till en Y-korsing. Håll höger och kör c:a 400 meter fram till en liten sandgrop. Parkera här. Gå rakt söderut, uppför över hygget och sikta på trädkanten. Rödvita snitslar märker vägen från parkeringen upp till vindskyddet på toppen av klippan. Med tiden kommer det att förhoppningsvis bli en stig här.
+
+==Camping==
+Vindskydd finns på toppen av berget och det är även möjligt att tälta där. Tyvärr finns ingen möjlighet att hämta vatten, så det får man bära upp.
+
+<div style="clear:both"></div>
+==Översikt och leder==
+För närvarande bara ett urval av de finaste lederna på klippan. Lägg till flera. En komplett förare finns att ladda ner som PDF på http://www.oulunkiipeilyseura.fi/kiipeilypaikat/doda/index.php
+
+Om man följer stigen som leder till klippan så kommer du att hamna vid fikahyllan.
+
+<center><br>'''Sydväggen på Död-Larsberget'''<br>[[Bild:dödlars.jpg]]<br> 
+1. ''Vänsterdelen''  2. ''Svaplattan''  3. ''Vita leden'' <br>
+4. ''Under fikahyllan''  5. ''Fikaplattan''</center><br>
+
+===Fikaplattan===
+Det första väggpartiet man kommer till när man följer stigen från parkeringen. Huvudsakligen bultad klättring på detta väggparti och troligtvis de mest klättrade lederna på klippan. <br>
+(Från höger till vänster.)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Seppuku|grad=7b+|typ=sport|längd=11|fa=[[Anders Björken]] [[1994]]|text=Bultad överhängande arete'.|betyg=}} 
+{{led|namn=Ironside|grad=6a|typ=sport|längd=11|fa=[[Rickard Strand]], [[Roland Strömgren]] [[1985]]|text=Väggklättring.|betyg=}} 
+{{led|namn=90-grader|grad=5c|typ=sport|längd=11|fa=[[Rickard Strand]] [[1979]]|text=Väggklättring över ett litet tak.|betyg=1}} 
+{{led|namn=A-Side|grad=4b|typ=sport|längd=13|fa=[[Rolf Romer]] [[1985]]|text=Vindlande väggklättring.|betyg=1}} 
+| width=300px|
+{{led|namn=Fikaplattan|grad=5-|typ=Trad|längd=13|fa=[[?]] [[1980-talet?]]|text=Väggklättring upp till svaplattan. Där följs en spricka till toppen. Bultad stand.|betyg=}}
+{{led|namn=Röde orm|grad=5b|typ=sport|längd=13|fa=[[Gunnar Hägglund]], [[L-G Johansson]] [[1982]]|text=Svaklätting.|betyg=1}}
+{{led|namn=Strandpromenaden|grad=3+|typ=trad|längd=11|fa=[[Rickard Strand]], [[Tommy Nilsson]], [[Gunnar Hägglund]] [[1975]]|text=Brant start, sedan lättare. Startar vid en bultad stand.|betyg=}}
+|}<br>
+
+===Under fikahyllan===
+Detta väggpariti är kompakt och fast och innerhåller några klassiska leder. <br>
+(Från höger till vänster.)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Petitatess|grad=6b|typ=sport|längd=20|fa=[[Kari Nikkumaa]] [[1990]]|text=Flack väggklättring.|betyg=2}} 
+{{led|namn=Pimpinella|grad=5c|typ=sport|längd=20|fa=[[Anders Björken]] [[1992]]|text=Arete.|betyg=2}} 
+| width=300px|
+{{led|namn=Tallkotten|grad=5+|typ=mix|längd=20|fa=[[Rickard Strand]], [[Lo Fischer]] [[1988]]|text=Dieder och tak. En bult.|betyg=}} 
+{{led|namn=Trollstigen|grad=4|typ=trad|längd=20|fa=|text=Dieder.|betyg=}}
+|}<br>
+
+===Vita Leden===
+Vita leden och dess varianter är nog klippans mest klassiska leder. Vita leden genom dödlarshålet är ett måste på ditt första möte med klippan! Till vänster om vita leden finns ett uppbrutet parti med några leder som inte håller lika hög klass. Speciellt en led som heter Errlof ska vara lös och allmänt jävlig. <br>
+(Från höger till vänster.)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Skorpionen|grad=6+|typ=trad|längd=50|fa=[[Per Lundin]] [[1993]]|text=|betyg=}}
+{{led|namn=Kosmiska leden|grad=5|typ=mix|längd=50|fa=[[Hans Lindberg]], [[Gunnar Hägglund]] [[1978]]|text=|betyg=}}
+{{led|namn=Riddaren|grad=4-|typ=mix|längd=50|fa=[[Rickard Strand]], [[Gunnar Hägglund]] [[1977]]|text=Vänsterlutande dieder upp till en hylla. Stand. Klättra sedan med dragning mot vänster alternativt avsluta med Jungfruns balkong.|betyg=1}}
+{{led|namn=Jungfruns balkong|grad=4-|typ=trad|längd=10|fa=[[Hans Lindberg]] [[?]]|text=Fin och luftig utstegsvariant till Riddaren.|betyg=}} 
+| width=300px|
+{{led|namn=Vita Leden Orginal|grad=4|typ=Trad|längd=40|fa=[[Rickard Strand]], [[Tommy Nilsson]], [[Gunnar Hägglund]] [[1975]]|text=Först följs en tydlig spricka upp till en hylla. Gör stand. Klättra sedan snett upp åt höger.|betyg=}} 
+{{led|namn=Vita Leden Direkt|grad=6-|typ=mix|längd=40|fa=[[Rickard Strand]], [[Tommy Nilsson]] [[1975]]|text=Rakt upp där vita leden svänger vänster.|betyg=1}} 
+{{led|namn=Vita Leden genom dödlarshålet|grad=4-|typ=trad|längd=40|fa=[[Rickard Strand]], [[Tommy Nilsson]] [[1976]]|text= Följ Vita leden-sprickan och sväng sedan vänster in under ett tak. Klättra in i grottan och gör stand. Andra replängden går ut genom grottan på andra sidan och upp på väggen.|betyg=3}}
+|}<br>
+
+===Svaplattan===
+En 55m hög och väldig kompakt svaplatta. Detta väggparti är väldigt fast och kompakt. Bergets finaste leder finns här. <br>
+(Leder från vänster till höger.)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Malin kom hem|grad=6b+|typ=sport|längd=20|fa=[[Kasper Kotake]], [[Stefan Nilsson]] [[1993]]|text=Startar från hyllan mitt på svaplattans högra sida.|betyg=1}} 
+{{led|namn=Djävulens trottoar|grad=5|typ=mix|längd=55|fa=[[Rickard Strand]], [[Tommy Nilsson]]  [[1977]]|text=Startar mitt på svaplattan. Stand på hyllan på höger sida. Följ sedan sprickan till toppen.|betyg=2}}
+{{led|namn=Himlastegen|grad=6+|typ=mix|längd=55|fa=[[Hans Lindberg]], [[Rickard Strand]] [[1980]]|text=Klättra rakt upp där Djävulens trottoar traverserar åt höger. Pitonger och borrbultar på den övre halvan.|betyg=3}} 
+{{led|namn=Sista färden|grad=8-|typ=mix|längd=55|fa=[[Kari Nikkumaa]] [[1989]]|text=Tunn spricka till vänster om Himlastegen.|betyg=}}
+| width=300px|
+{{led|namn=Stenansiktet Jr.|grad=4|typ=trad|längd=50|fa=[[Rickard Strand]], [[Gunnar Hägglund]] [[1976]]|text=Startar på höger sida av pelaren. Följ diedret till pelarens topp och gör stand där. Andra replängden går till vänster in i ett dieder. Ganska rolig om någon rensade bort all mossa.|betyg=}}
+{{led|namn=Stenansiktet Sr.|grad=5-|typ=mix|längd=50|fa=[[Tommy Nilsson]], [[Gunnar Hägglund]] [[1976]]|text=Startar på vänster sida av pelaren. Följ diedret till pelarens topp och gör stand där. Andra replängden går till höger in i ett dieder. Korsar Stenansiktet Jr.|betyg=|bultar=1}}
+{{led|namn=The Nose|grad=6|typ=mix|längd=30|fa=[[Magnus Johansson]], [[Jan Fredriksson]] [[1995]]|text=Startar som Stenansiktet Sr. för att sedan vika ut på pelaren. Slutar vid Stenansktets stand.|betyg=}}
+|}<br>
+
+===Vänsterdelen===
+Längst till vänster på sydväggen. Från stenansiktetpelaren till det stora diedret som skiljer syd och ostväggen. <br>
+(Leder från vänster till höger)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Döende svanen|grad=7|typ=trad|längd=50|fa=[[Kari Nikkumaa]] [[1989]]|text=Spricka till vänster om Stenansiktet Sr.:s insteg.|betyg=}} 
+{{led|namn=Sympotatis|grad=7-|typ=mix|längd=25|fa=[[Kari Nikkumaa]] [[1989]]|text=|betyg=}}
+| width=300px| 
+{{led|namn=Peter pan|grad=6|typ=trad|längd=25|fa=[[Hans Lindberg]], [[Rickard Strand]] [[1981]]|text=Startar där Sympotatis slutar.|betyg=3}} 
+{{led|namn=Sagoinversen|grad=5|typ=trad|längd=55|fa=[[Hans Lindberg]], [[Rickard Strand]] [[1980]]|text=Det stora diedret som skiljer östväggen och sydväggen. Ser mossigt ut.|betyg=}}
+|}<br>
+
+[[Kategori:Norrbotten]]
+[[Kategori:trad]] [[Kategori:vertikalt]] [[Kategori:sva]]

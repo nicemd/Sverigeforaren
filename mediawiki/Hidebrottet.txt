@@ -1,0 +1,98 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->Vertikalt, [[Bild:vertikalt.gif|Vertikal klättring]];
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{utkast}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Gammalt kalkbrott på norra Gotland med ca 8m hög vägg. Klippan är lös på sina ställen, så använd hjälm och se till att hålla repet bort från väggen. Tag gärna med rensningsutrustning för att ta bort lös sten och lösa flak.
+Eventuell möjlighet för framtida bultning dock väldigt lättåtkomligt att sätta topprep. Hela klippan ligger i en amfiteaterliknande sydvänd gryta vilket gör klättring möjlig året runt.
+
+Kombinera gärna denna vägg med ett besök på andra sidan viken (Hidevikens Boulder).
+
+==Vägbeskrivning==
+Några km norr om Slite, höger mot Hellvi, efter ca 6 km höger mot Hide. kör förbi campingen. Efter ca 500 meter så syns väggen på vänster sida
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+</div>
+
+==Boende==
+Campingen ligger ca 500 meter från brottet. Om denna är stängd finns fina campingmöjligheter rakt söder om Hidebrottet, nere vid vattnet (allemansrätten gäller).
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+[[Fil:hide.jpeg|thumb|720px|]]
+
+Alla leder går mellan de vertikala borrhålen som går längs väggen och är graderade utan användning av dessa, om inte annat står beskrivet. Alla FA är med topprep...
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Längtan|grad=6a|längd=8|fa=[[Gustaf Leijonhufvud]] -12|text=Sämre klippa}}
+{{led|nr=2|namn=?|grad=-|längd=8|fa=[[Carl Quick]] -12|text=}}
+{{led|nr=3|namn=Rik på råg|grad=5|längd=8|fa=[[Gustaf Leijonhufvud]] -12|text=}}
+{{led|nr=4|namn=Run Hide|grad=6a|längd=8|fa=[[Per Bäckström]] -12|text=Lite större formationer att greppa. Lita inte på den lösa stenen längst upp.}}
+{{led|nr=5|namn=Njuta|grad=6c|längd=8|fa=[[Gustaf Leijonhufvud]] -12|text=}}
+{{led|nr=6|namn=God i kvadrat|grad=6a|längd=8|fa=[[Gustaf Leijonhufvud]] -12|text=Lite roligare}}
+{{led|nr=7|namn=Må gott!|grad=6a|längd=8|fa=[[Gustaf Leijonhufvud]] -12|text=}}
+{{led|nr=8|namn=Må bättre!|grad=6a|längd=8|fa=[[Gustaf Leijonhufvud]] -12|text=}}
+{{led|nr=9|namn=|grad=-|längd=8|fa=[[Carl Quick]] -12|text=Lite roligare}}
+{{led|nr=10|namn=Leva|grad=6a-|längd=8|fa=[[Gustaf Leijonhufvud]] -12|text=}}
+{{led|nr=11|namn=Talus|grad=6c|längd=8|fa=[[Kinna Nilsson]] -12|text=}}
+{{led|nr=12|namn=Projekt|grad=6c?|längd=8|fa=[[]] -|text=}}
+{{led|nr=13|namn=Elvis nackspärr|grad=6c|längd=8|fa=[[Anders Gustavsson]] -12|text=}}
+{{led|nr=14|namn=Astragalus|grad=6a|längd=8|fa=[[Anders Gustavsson]] -12 |text=}}
+{{led|nr=15|namn=Hide n Seek|grad=5c|längd=8|fa=[[Alexander Sjöstrand]] -12 |text=Lite lättare klättring på små fina grepp.}}
+{{led|nr=16|namn=Nine inch nails|grad=6b|längd=8|fa=[[Alexander Sjöstrand]] -12 |text=}}
+{{led|nr=17|namn=Tryckpress|grad=6b|längd=8|fa=[[Linnea Lövgren]] -12 |text=}}
+{{led|nr=18|namn=Födelsedagsfest|grad=6a+|längd=8|fa=[[Linnea Lövgren]] -12 |text=}}
+{{led|nr=19|namn=Pipa och cykel|grad=6b|längd=8|fa=[[Alexander Sjöstrand]] -12 |text=}}
+{{led|nr=20|namn=Stensättning|grad=6b|längd=8|fa=[[Linnea Lövgren]] -12 |text=}}
+{{led|nr=21|namn=??|grad=6b|längd=8|fa=[[Morgan Sjöström]] -12 |text=}}
+{{led|nr=22|namn=??|grad=6a|längd=8|fa=[[Morgan Sjöström]] -12 |text=}}
+
+
+| width="350px" |
+
+[[Fil:13-16.jpg|thumb|350px|]]
+Närbild Elvis nackspärr 6c, Astragalus 6a, Hide n Seek 5c och Nine inch nails 6b
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Gotland]]

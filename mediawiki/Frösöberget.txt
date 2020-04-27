@@ -1,0 +1,428 @@
+{{info klippa
+  |lat=63.192184
+  |long=14.607267
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{komplett}}
+
+
+==Allmänt==
+Frösöberget ligger bara ett stenkast från Östersund centrum. Med ett par hundra leder är det här träningsklippan för Östersundare.
+
+Länk till förare finns på [http://www.ostersundskk.se/klattring/forare.htm Östersunds KK]
+
+Alternativ länk till föraren finns [https://storage.bahnhof.net/Shares/Home.aspx?ShareID=4fc03705-6251-4798-8888-f5357c43eab8 här]
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="63.188909" lon="14.621086" type="map" zoom="13" width="300" height="350" selector="no" controls="small">
+63.185447, 14.606066, Rigor Mortis
+63.192184, 14.607267, Stora Klippan
+63.195125, 14.605551, Bergrummet/Stormväggen
+63.180336, 14.602633, Äventyrsväggen
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+===Rigor Mortis===
+Från Östersund. Kör över Frösöbron. Sväng vänster i T-korsningen. Passera Konsum på höger sida och sväng höger direkt efter. Forsätt Trädgårdsvägen hela vägen upp till toppen. Vid 5-vägskorsningen tar du Alpvägen, uppåt höger. Efter ett tag ser du klippan.
+===Stora klippan===
+Kör över Frösöbron. Sväng höger i T-korsningen in på Bergsgatan. Fortsätt den tills bostadshusen tar slut (ca en km). När du ser företaget "Attacus" på vänster sida parkerar du vid vägen på högersida.
+===Bergrummet/Stormväggen===
+Se stora klippan, men fortsätt förbi Attacus några hundra meter.
+===Äventyrsväggen===
+Se "Rigor Mortis", men vid 5-vägskorsningen tar du Vintervägen, uppåt vänster. Parkera nedanför slalombackens café. Gå snett uppåt vänster in i skogen. Gå igenom äventyrsbanan och förbi teaterscenen. Följ stigen upp så ser du klippan.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Väggar & leder==
+==Rigor Mortis==
+===Vänstra sidan===
+[[Bild:Froson_thumb_400_Rigor_mortis_1.gif|right|]]
+{{led|nr=1|namn=Torra tider|grad=7-|typ=sport|betyg=1|bultar=?|längd=10|fa=[[G.Söderin, H.Thordarsson]] -90|text=Längst upp i slänten. Överhängande på stora grepp.}}
+{{led|nr=2|namn=Tyngre tider|grad=6+|typ=sport|betyg=1|bultar=?|längd=10|fa=[[G.Söderin, H.Thordarsson]] -90|text=Överhängande på stora grepp. Gör en liten travers t.h i mitten av leden.}}
+{{led|nr=3|namn=Varma vinklar |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=14|fa=[[G.Söderin, L.Wahlström ]] -91|text=}}
+{{led|nr=4|namn=Tiramiso |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin, K. Nikumaa ]] -|text=}}
+{{led|nr=5|namn=Ät gröt |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=12|fa=[[G.Söderin, L.Wahlström ]] -91|text=}}
+{{led|nr=5b |namn=Bosse ön stock |grad=8|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=|text=Travers åt vänster till Varma vinklar }}
+{{led|nr=6|namn=Mera mat |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=12|fa=[[G.Söderin ]] -91|text=Går upp i ett hörn som inte syns på bild. Lite osäkrad. }}
+{{led|nr=7|namn=Dagens rätt |grad=6|gruv=|typ=sport|betyg=|bultar=?|längd=12|fa=[[G.Söderin ]] -91|text=Börjar med ett kraftigt överhäng. }}
+{{led|nr=8|namn=Randiga russin |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=35|fa=[[G.Söderin ]] -91|text=Sitter en skylt vid klippan.(maj -04) }}
+{{led|nr=8.1|namn=Lärken drillar |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin ]] -91|text=}}
+{{led|nr=9|namn=Birdie |grad=7|gruv=|typ=sport|betyg=|bultar=|längd=25|fa=[[L.Wahlström, G. Söderin ]] -|text=}}
+{{led|nr=10|namn=Anna Roxia|grad=6-|typ=sport|betyg=1|bultar=?|längd=18|fa=[[M.Ellingsson]]| text=Börja t.v om betonkuren. Fortsätt upp förbi ankaret t.v och gör avslutningen på Lärken drillar för fin klättring på stora grepp, grad 6+. En lätt passage högt upp har långt mellan bultarna.}}
+{{led|nr=10b|namn=Bulle-Mia|grad=7-|typ=sport|betyg=|bultar=?|längd=25|fa=[[M.Ellingsson]]|text=En fin fortsättning på Anna Roxia med ett markant punktkrux.}}
+{{led|nr=11|namn=Lösa lager |grad=6-|gruv=|typ=trad|betyg=|bultar=|längd=40|fa=[[G.Söderin ]] -79|text=Börja på taket. Kilsäkrad i sprickan, upp till toppen. }}
+{{led|nr=11b|namn=Sill i dill |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin ]] -91|text=Upp till ankaret. }}
+{{led|nr=11c|namn=Skýr |grad=6-|gruv=|typ=sport|betyg=|bultar=|längd=20|fa=[[A-T. Arnasso ]] -91|text=Upp till ankaret på led 12 (Fina fisken)}}
+{{sidbrytning}}
+
+===Mitten===
+[[Bild:Froson_thumb_400_Rigor_mortis_2.gif|right]]
+Led 17-24 ombultad/kompletteringsbultad 2012
+{{led|nr=12|namn=Fina fisken|grad=7-|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin. L.Wahlström]] -91|text=Börja t.h om betongkuren, drar lite t.v i början upp till en tunn vägg och ett trekantigt tak. Fira från ankare på hyllan eller fortsätt till ankaret på Brüderlein.}}
+{{led|nr=13|namn=Svedh|grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin, A-T. Arnasson]] -91|text=Den vänstra av dom. Samma ankare som Fina fisken}}
+{{led|nr=13b|namn=Brüderlein|grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, Ö.Söderin]] -90|text=Den högra av alternativen. Går till hyllan ovanför Fina fisken, avslutas med ett brant överhäng. Första hälften är lös}}
+{{led|nr=14|namn=Fläskkorv |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[K.Nikumaa ]] -91|text=}}
+{{led|nr=15|namn=Raindogs |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[L.Wahlström ]] -91|text=}}
+{{led|nr=15b|namn=Hot dogs |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=7|fa=[[G.Söderin ]] -91|text=}}
+{{led|nr=-|namn=Ny led, namn?|grad=7?|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[]] -|text=}}
+{{led|nr=16|namn=Rainbird |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin, L. Wahlström ]] -91|text=}}
+{{led|nr=-|namn=Ny led, namn?|grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[]] -|text=Svårt att klippa första bult, en del gör detta med en fuskpinne. }}
+{{led|nr=17|namn=Atlas Copco |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin ]] -91|text=}}
+{{led|nr=18|namn=Milda meloner |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin, A-T. Arnasson, L. Wahlström ]] -91|text=Den vänstra av dem. }}
+{{led|nr=18b|namn=Pytt i panna |grad=8-|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin ]] -91|text=Det högra alternativet. }}
+{{led|nr=19|namn=Ovalätt|grad=6|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin, M. Ellingsson]] -91|text=Börja på betongplattan, vid en kort spricka.}}
+{{led|nr=20|namn=Fars dag|grad=6+|typ=sport|betyg=2|bultar=?|längd=20|fa=[[(-89 G.Söderin, H. Thordarsson]] -89|text=Samma start som Ovalätt.}}
+{{led|nr=21|namn=Nanna |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin, H. Thordarsson ]] -91|text=Samma start som Ovalätt. }}
+{{led|nr=22|namn=Nån annan |grad=?|gruv=|typ=sport|betyg=|bultar=?|längd=?|fa=[[G.Söderin, H. Thordarsson ]] -91|text=Samma start som Ovalätt. }}
+{{led|nr=23|namn=Direkta Rigor mortis|grad=6|typ=trad|betyg=1|bultar=|längd=30|fa=[[G.Söderin, M.Sundberg]] -79|text=Den markanta sprickan ovanför betongplattan. Fira från ankare ovan kanten.}}
+{{led|nr=24|namn=Kalla kårar|grad=7-|typ=sport|betyg=1|bultar=?|längd=30|fa=[[G.Söderin]] -90|text=Första leden t.h om den markanta sprickan.}}
+{{sidbrytning}}
+
+===Högra sidan===
+[[Bild:Froson_thumb_400_Rigor_mortis_3.gif|right]]
+Samtliga leder inom sektorn ombultades/kompletteringbultades 2012
+{{led|nr=25|namn=Härliga tider|grad=7-|typ=sport|betyg=1|bultar=15|längd=30|fa=[[G.Söderin, H. Thordarsson]] -90|text=två leder t.h om den markanta sprickan}}
+
+{{led|nr=26|namn=Ärliga tider|grad=6|typ=sport|betyg=1|bultar=15|längd=30|fa=[[G.Söderin]] -90|text=}}
+{{led|nr=27|namn=Rigor Mortis |grad=5|gruv=|typ=trad|betyg=|bultar=|längd=40|fa=[[F. Götzmann, K. Westman ]] -77|text=}}
+{{led|nr=27b|namn=Klockan klämtar/Tid för Telia |grad=?|gruv=|typ=sport|betyg=|bultar=|längd=?|fa=[[G.Söderin ]] -12?|text=Går i det tydliga hörnet}}
+{{led|nr=28|namn=Tunga tider |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H. Thordarsson ]] -90|text=}}
+{{led|nr=29|namn=Tuffa tak |grad=8-|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H. Thordarsson ]] -90|text=}}
+{{led|nr=29b|namn=Böjda bananer|grad=7-|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H. Thordarsson, A-T. Arnasson]] -90|text=Går t.h om det markanta taket.}}
+
+{{led|nr=29c|namn=Alt Böjda bananer |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H. Thordarsson, A-T. Arnasson ]] -90|text=}}
+{{led|nr=31|namn=Pallade päron |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H. Thordarsson ]] -90|text=}}
+{{led|nr=32|namn=Pallade päron |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H. Thordarsson ]] -90|text=}}
+{{led|nr=33|namn=Vandamaål |grad=6|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H. Thordarsson, A-T. Arnasson ]] -90|text=}}
+{{led|nr=34|namn=Entrepris |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin ]] -91|text=}}	
+{{led|nr=35|namn=T-wall|grad=7|typ=sport|betyg=1|bultar=?|längd=20|fa=[[G.Söderin]] -90|text=Att koppla en skruvkarbin i första bulten kan vara bra.}}
+{{led|nr=36|namn=Kalla Kakor|grad=6|gruv=|typ=?|betyg=|bultar=?|längd=?|fa=[[?]] -?|text=}}
+{{led|nr=37|namn=Härliga hyllor |grad=5|gruv=|typ=sport|betyg=|bultar=?|längd=30|fa=[[G.Söderin ]] -83|text=}}
+{{led|nr=38a|namn=Mustiga mackor |grad=4+|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin ]] -83|text=}}
+{{led|nr=38b|namn=Lata limpor |grad=6|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin ]] -91|text=}}
+{{led|nr=39|namn=Hårt bröd |grad=6-|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin ]] -90|text=}}
+{{led|nr=40|namn=Mandelkubb |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=30|fa=[[G.Söderin, K. Nikumaa ]] -91|text=}}
+{{sidbrytning}}
+
+==Stora klippan==
+===Piasavaväggen===
+[[Bild:Froson_Piasava_700p.gif|top]]
+<br>
+Led nr två till nio går under en lång takformation.
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=3|namn=Sunda simpor |grad=6-|gruv=|typ=sport|betyg=|bultar=14|längd=20|fa=[[G.Söderin ]] -?|text=FF}}
+{{led|nr=3b|namn=Alt t Sunda simpor |grad=6+|gruv=|typ=sport|betyg=|bultar=7|längd=20|fa=[[G.Söderin ]] -?|text=}}
+{{led|nr=4|namn=Rymdgrisen |grad=6-|gruv=|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, K.Westman ]] -?|text=Följer den tydliga sprickan.}}
+{{led|nr=5|namn=Kabanoss|grad=6|typ=sport|betyg=2|bultar=10|längd=22|fa=[[M.Ellingsson]] -96|text=}}
+{{led|nr=6|namn=Tåren trillar|grad=7|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin, Ö.Söderin, M.Ellingsson]] -96|text=Frän takpassage! Tidigare en aid-led.}}
+{{led|nr=7|namn=Barmen bänds|grad=6+|typ=sport|betyg=1|bultar=?|längd=17|fa=[[G.Söderin]]|text=Lurig.}}
+{{led|nr=8|namn=Knorren knakar |grad=5|gruv=|typ=sport|betyg=|bultar=5|längd=13|fa=[[G.Söderin ]] -96|text=Lätt att hamna ute i mossan till höger. Försök håll dig på banan! }}
+{{led|nr=9|namn=Lortgrisen |grad=5|gruv=|typ=trad|betyg=|bultar=|längd=40|fa=[[G.Söderin, K.Westman ]] -?|text=Kommentar överflödig, du hör på namnet. }}
+{{led|nr=10|namn=Nöff|grad=6-|typ=sport|betyg=|bultar=7|längd=20|fa=[[M.Ellingsson]]|-04|text=Börjar t.h om taken och fortsätter längs en arete.}}
+12. Projekt (-04)
+{{led|nr=13|namn=Bedrup |grad=5+|gruv=|typ=sport|betyg=|bultar=8|längd=20|fa=[[F.Olofsson ]] -04|text=Känslig i överhägnet. Blir lättare om man går på sidan om bb. }}
+{{led|nr=14|namn=Midgårds överhäng|grad=5+|typ=sport|bultar=7|längd=20|fa=[[Användare:freolo|Fredrik Olofsson]] -04|text=Alternativ till Jungfruns andra replängd}}
+{{led|nr=15|namn=Jungfrun|grad=4+|typ=sport|betyg=3|bultar=14|längd=45|fa=[[Användare:freolo|Fredrik Olofsson]] -04|text=Två replängder enbart på bultar.}}
+{{led|nr=16|namn=Tintin|grad=5+|typ=sport|bultar=8|längd=25|fa=[[Användare:freolo|Fredrik Olofsson]] -04|text=Börja på Jungfrun och klättra in på denna.}}
+{{led|nr=17|namn=Bullens pilsnerkorv|grad=5+|typ=sport|bultar=7|längd=25|fa=[[Användare:freolo|Fredrik Olofsson]] -04|text=Börja på Jungfrun och klättra in på denna.}}
+{{led|nr=18|namn=Piasava-Petter|grad=7-|typ=sport|bultar=6|längd=25|fa=J.Oskarsson, M.Ellingsson|-97|text=Går några meter t.v om taket.}}
+
+| width="350px" |
+{{led|nr=19|namn=Piasava-Peter |grad=7-|gruv=|typ=trad|betyg=|bultar=|längd=40|fa=[[G.Söderin, H.Thorardsson ]] -84|text=Lurig spricka. Små säkringar. }}
+{{led|nr=20|namn=Metropolis|grad=6+|typ=sport|betyg=1|bultar=?|längd=22|fa=M.Ellingsson|-97|text=Börjar under ett tak för att sedan kliva ut vänster om detta.}}
+{{led|nr=21|namn=Nikita|grad=7-|typ=sport|betyg=|bultar=?|längd=22|fa=M.Ellingsson, K.Nikumaa|-96|text=Samma start som Metropolis.}}
+{{led|nr=22|namn=?|grad=6-|typ=mix|betyg=1|bultar=?|längd=22|fa=Massimo Del Din|-04|text=Startar något t.h om taket och sneddar över Nikita och slutar på Metropolis ankare. Man kan sätta en kamkil när man passerar sprickan (0,75 Camalot).}}
+
+23.
+(-04 )
+
+24.
+(-04 )
+
+{{led|nr=25|namn=En pizza i Prag|grad=5|typ=sport|betyg=|bultar=4|längd=10|fa=G.Söderin|-04|text=}}
+{{led|nr=26|namn=Kallefallet |grad=5-|gruv=|typ=trad|betyg=|bultar=|längd=50|fa=[[C.Wiström, L.Bergström, G.Söderin ]] -77|text=Mer info på sidan "Långa kilturer" }}
+{{led|nr=28|namn=Kalle kalas |grad=7-|gruv=|typ=sport|betyg=|bultar=|längd=10|fa=[[G.Söderin, K.Nikumaa ]] -95|text=Nytt ankare 2012, börja med "Långa leden"}}
+{{led|nr=29|namn=Långa leden |grad=5+|gruv=|typ=sport|betyg=|bultar=3|längd=10|fa=[[G.Söderin, K.Nikumaa ]] -95|text=Nytt ankare,ombultad 2012, börja med led 25}}
+{{led|nr=30|namn=Simma lugnt |grad=5+|gruv=|typ=sport|betyg=|bultar=3|längd=10|fa=[[G.Söderin, K.Nikumaa ]] -95|text=Nytt ankare,ombultad 2012, börja med led 25}}
+{{led|nr=31|namn=Lama lemen |grad=6|gruv=|typ=sport|betyg=|bultar=5|längd=17|fa=[[G.Söderin, G.Söderin ]] -02|text=}}
+{{led|nr=32|namn=Gutta på tur|grad=4|typ=sport|betyg=|bultar=7|längd=18|fa=[[M.Ellingsson]]|-02|text=Bra för nybörjarklättring.}}
+{{led|nr=33|namn=Balla byst|grad=4-|typ=sport|betyg=|bultar=6|längd=15|fa=[[G Södering]]|-02|text=Bra för nybörjarklättring.}}
+{{led|nr=34|namn=Runda rumpor|grad=4-|typ=sport|betyg=|bultar=5|längd=15|fa=[[G Söderin]]|-02|text=Bra för nybörjarklättring.}}
+{{led|nr=35|namn=Rykande rattar|grad=4-|typ=sport|betyg=|bultar=5|längd=15|fa=[[G Söderin]]|-02|text=Bra för nybörjarklättring. Har en liten grafitti i starten.}}
+{{led|nr=36|namn=Små röda troll|grad=4-|typ=sport|betyg=|bultar=?|längd=15|fa=[[N Nathen]]|-08|text=Första leden man kommer till på den här sektorn. Höger om led 35.}}
+|}
+{{sidbrytning}}
+
+===Morsans område===
+[[Bild:Froson_Morsans_omrade_700p.gif|top]]
+''Lederna 2 till 10 börjar uppe på den stora hyllan. Följ det fasta repet till vänster.''
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Falkleden|grad=3+|gruv=b|betyg=0|längd=80|text=Börjar i diedret vid Morsans muskler. 2 replängder.|fa=[[F.Fisher, F.Götzmann]],  [[1973|-73]]|bultar=|typ=trad}}
+{{led|namn=Korpleden|nr=2|grad=7|betyg=0|längd=8|fa=[[G.Söderin, K.Nikumaa]],  [[-95]]|bultar=?|typ=sport}}
+{{led|namn=Osanningen|nr=3|grad=5+|betyg=0|längd=10|fa=[[G.Söderin, M.Ellingsson]],  [[-95]]|bultar=?|typ=sport}}
+{{led|namn=Sanningen|nr=4|grad=6-|betyg=0|längd=45|fa=[[F.Götzmann]],  [[-76]]|bultar=|typ=trad}}
+{{led|nr=5|namn=Sanningshalten |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin, M.Ellingsson ]] -95|text=}}
+{{led|nr=6|namn=Elda med höns |grad=7a|gruv=|typ=sport|betyg=|bultar=4|längd=7|fa=[[G.Söderin ]] -?|text=}}
+{{led|nr=7|namn=11:e timmen |grad=9-|gruv=|typ=sport|betyg=|bultar=3|längd=7|fa=[[G.Söderin ]] -95|text=}}
+{{led|namn=Himlakul|nr=8|grad=8+|betyg=2|längd=12|fa=[[G.Söderin]],  [[-94]]|bultar=5|typ=sport}}
+{{led|namn=Var glad|nr=9|grad=7-|betyg=2|längd=10|text=Rolig klättring. Samma start som Himlakul. Går över det lilla taket.|fa=[[G.Söderin]],  |bultar=6|typ=sport}}
+{{led|nr=10|namn=Goda grannar |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin ]] -94|text=Går till samma ankare som ”Var glad”. Ankare bytt om bultkompletterad 2012 }}
+{{led|nr=10b|namn=Höstdepression |grad=7+|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[K.Nikumaa ]] -94|text=Utstegsvar. till ”Goda grannar” som fortsätter in i ”Våren värmer”. }}
+{{led|nr=11|namn=Våren värmer |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=?|fa=[[G.Söderin ]] -?|text=}}
+{{led|nr=12|namn=Morsans muskler del 2 |grad=6+|gruv=|typ=mix|betyg=|bultar=?|längd=25|fa=[[G.Söderin, H.Thorardsson ]] -83|text=}}
+{{led|nr=13|namn=Femton fiskar |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=18|fa=[[G.Söderin, M.Larsson ]] -94|text=}}
+{{led|nr=14|namn=Korpen flyger |grad=8+|gruv=|typ=sport|betyg=|bultar=8|längd=18|fa=[[K.Nikumaa ]] -94|text=Börja med att klättra led 23 (Östpelaren) och fortsätt sedan in på denna led. }}
+{{led|nr=15|namn=Borsta med vinden |grad=5|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin ]] -94|text=Ofta väldigt mossig }}
+
+| width="350px" |
+
+{{led|nr=16|namn=Triller Pillaren |grad=5|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin, M.Olofsson ]] -94|text=}}
+{{led|nr=17|namn=Soparmannen |grad=5|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin, M.Olofsson ]] -94|text=}}
+{{led|nr=18|namn=Salladsväggen |grad=5|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin, M.Olofsson ]] -94|text=}}
+{{led|nr=20|namn=Morsans muskler 1:a repl|grad=7-|betyg=1|längd=18|text=Börjar i diedret. Ta sedan ett kliv ut t.h och följ bultarna.|fa=[[G.Söderin]],  |bultar=4|typ=mix}}
+{{led|nr=21|namn=Hästen hoppar |grad=7+|gruv=|typ=sport|betyg=|bultar=5|längd=20|fa=[[G.Söderin ]] -?|text=FF}}
+{{led|nr=22|namn=Pinkande ponny |grad=6+|gruv=|typ=sport|betyg=|bultar=4|längd=20|fa=[[G.Söderin ]] -?|text=}}
+{{led|nr=23|namn=Östpelaren |grad=6|gruv=|typ=sport|betyg=|bultar=2|längd=6|fa=[[M.Ellingsson ]] -?|text=}}
+{{led|nr=24|namn=Hexprocessen|grad=5+|gruv=c|betyg=0|längd=60|text=Du hittar den som led nr 24 på "Morsans område". Denna led följer ”minsta motståndets väg” genom den branta väggen till vänster om Stora Diedret.|fa=[[F.Götzmann, K.Westman]],  [[1977|-77]]|bultar=|typ=trad}}
+{{led|nr=25|namn=Pullis |grad=5|gruv=|typ=sport|betyg=|bultar=7|längd=12|fa=[[G.Söderin, J.Oskarsson ]] -94|text=Ny dragning och nytt ankare 2012}}
+{{led|nr=26|namn=Pillis |grad=6-|gruv=|typ=sport|betyg=|bultar=6|längd=18|fa=[[G.Söderin, K.Nikumaa ]] -94|text=Nytt ankare 2012}}
+{{led|nr=27|namn=Leifs led |grad=7+|gruv=|typ=sport|betyg=|bultar=10|längd=25|fa=[[G.Söderin ]] -94|text=Nytt ankare och kompletteringsbultad 2012}}
+{{led|nr=28|namn=Rappa på |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, M.Ellingsson ]] -94|text=Nytt ankare och ombultad 2012}}
+{{led|nr=28b|namn=alt t "Rappa på" |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G.Söderin, M.Ellingsson ]] -94|text=I slutet på leden går du direkt över överhänget. }}
+{{led|nr=29|namn=Snabba ryck |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=18|fa=[[G.Söderin, M.Larsson ]] -94|text=Nytt ankare och ombultad 2012}}
+{{led|nr=30|namn=Stora diedret|grad=5-|gruv=b|betyg=2|längd=55|text=Mer info på sidan "Långa kilturer".|fa=[[F.Fischer, K.Westman]],  [[-75]]|bultar=|typ=trad}}
+|}
+{{sidbrytning}}
+
+===Degagementväggen===
+[[Bild:Froson_Degagementvaggen_700p.gif|top]]
+<br>
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Centralpelaren |grad=5-|gruv=|typ=trad|betyg=|bultar=|längd=20|fa=[[G.Söderin, N.Bylund ]] -80|text=}}
+{{led|nr=2|namn=Hela hörn |grad=6-|gruv=|typ=sport|betyg=|bultar=7?|längd=20|fa=[[G.Söderin, M.Ellingsson ]] -95|text=Nytt ankare, ombultad 2012}}
+{{led|nr=3|namn=Glada gossar |grad=6|gruv=|typ=sport|betyg=|bultar=7|längd=20|fa=[[G.Söderin, K.Nikumaa ]] -94|text=Nytt ankare samt bultad 2012}}
+{{led|nr=4|namn=Direkta Lilldjäveln |grad=5+|gruv=|typ=trad|betyg=|bultar=|längd=75|fa=[[G.Söderin, K.Westman, F.Götzmann ]] -?|text=Mer info på sidan "Långa kilturer". }}
+{{led|nr=5|namn=Kul |grad=7|gruv=|typ=sport|betyg=|bultar=7|längd=12|fa=[[G.Söderin, J.Oskarsson ]] -95|text=Startar på hylla till höger om "Glada gossar"}}
+{{led|nr=6|namn=Ture e väl de |grad=5+|gruv=|typ=sport|betyg=|bultar=7|längd=12|fa=[[G.Söderin, Geir Söderin ]] -95|text=Startar på hylla till höger om "Glada gossar"}}
+{{led|nr=7|namn=Flera fötter |grad=7|gruv=|typ=sport|betyg=|bultar=4|längd=10|fa=[[G.Söderin ]] -95|text=}}
+{{led|nr=8|namn=The Nose |grad=5+|gruv=|typ=sport|betyg=|bultar=3|längd=10|fa=[[G.Söderin, M.Ellingsson ]] -94|text=Nytt ankare, ombultad 2012}}
+{{led|nr=9|namn=Trollväggen |grad=6c+|gruv=|typ=sport|betyg=|bultar=3|längd=10|fa=[[G.Söderin, M.Ellingsson ]] -94|text=Nytt ankare, ombultad 2012}}
+{{led|nr=10|namn=Kantarello |grad=7a+|gruv=|typ=sport|betyg=|bultar=4|längd=10|fa=[[G.Söderin, M.Ellingsson ]] -94|text=}}
+{{led|nr=11|namn=Lilldjäveln |grad=5|gruv=|typ=trad|betyg=|bultar=|längd=55|fa=[[F.Götzmann ]] -76|text=Mer info på sidan "Långa kilturer". }}
+
+''Led 12 till 18 går från en hylla. Följ hyllsystemet t.h om centralpelaren till du hittar ett fast rep''
+{{led|nr=12|namn=Två fingrar|grad=8+|typ=sport|betyg=|bultar=10|längd=20|fa=[[K.Nikumaa]] -94|text=Börja från stubben och ta leden längs t.v. Betydligt lättare om man använder hörnet.}}
+{{led|nr=13|namn=Tack för att du kom hem|grad=7+/8-|typ=sport|betyg=1|bultar=7|längd=20|fa=[[K.Nikumaa]] -94|text=}}
+{{led|nr=14|namn=Älg-svälj|grad=7|typ=sport|betyg=2|bultar=7|längd=20|fa=[[D.Lindberg]]|text=Följer det lilla hörnet genom överhänget}}
+
+''Led 12 till 14 börjar från stubben med repet och upp t.v.''
+{{led|nr=15|namn=Gubbsjukan |grad=7-|gruv=|typ=trad|betyg=|bultar=|längd=10|fa=[[G.Söderin, F.Götzmann ]] -95|text=}}
+{{led|nr=16|namn=Yalla yalla |grad=6|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin ]] -?|text=}}
+{{led|nr=16b|namn=Valla valla |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin ]] -?|text=På mitten av Yalla yalla går denna led till vänster på ett slätare parti. Två bultar, sedan tillbaka till ovan nämnda led. }}
+| width="350px" |
+{{led|nr=18|namn=Tjyven |grad=6+|gruv=|typ=trad|betyg=|bultar=|längd=15|fa=[[M.Ellingsson? ]] -?|text=}}
+{{led|nr=20|namn=Oskar (Verinen umpisuolet(Blodiga blindtarmar)) |grad=6|gruv=|typ=sport|betyg=|bultar=9|längd=20|fa=[[J. Oskarsson & M. Hellberg ]] -?|text=FF.  Rolig att gå över bullen på mitten. }}
+{{led|nr=21|namn=Degament total|grad=6-|typ=trad|betyg=1|bultar=|längd=25|fa=[[G.Söderin, M.Sundberg]]|-77|text=Börja nere vid de två stubbarna o gå uppåt med en dragning åt vänster. Fira från ankaret på Miloue. Bra säkrat, om man hittar placeringarna. Camalot 3 är bra i krux.}}
+{{led|nr=22|namn=Miloue|grad=6+|typ=sport|betyg=2|bultar=?|längd=28|fa=[[M.Ellingsson, G.Söderin]] -94|text=Hitta två stubbar på en hylla, leden är den första bultade leden t.v om dessa. Nytt ankare 2012}}
+{{led|nr=22b|namn=Skalla alla |grad=7|gruv=|typ=sport|betyg=|bultar=4|längd=15|fa=[[M.Ellingsson, G.Söderin]] -|text=}}
+{{led|nr=23|namn=Ropen skalla |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin, M.Ellingsson, M.Hellberg ]] -96|text=}}
+{{led|nr=24|namn=Träden falla |grad=6c+|gruv=|typ=sport|betyg=|bultar=7|längd=15|fa=[[G.Söderin, M.Ellingsson, M.Hellberg ]] -96|text=Ombultad samt nytt ankare 2012. Starta med "Bara barr"}}
+{{led|nr=25|namn=Börja tralla |grad=6-|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin, M.Ellingsson, M.Hellberg ]] -96|text=Ombultad 2012, starta med "Bara barr"}}
+{{led|nr=26|namn=Ät en fralla |grad=6+|gruv=|typ=sport|betyg=|bultar=8|längd=15|fa=[[G.Söderin, M.Ellingsson, M.Hellberg ]] -96|text=Ombultad 2012}}
+{{led|nr=27|namn=Bara barr|grad=5+|typ=sport|betyg=|bultar=7|längd=15|fa=[[G.Söderin, M.Ellingsson]] -01|text=Nytt ankare och ombultad 2012}}
+{{led|nr=27b|namn=Kalla kottar |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin ]] -01|text=FF. Samma som ovan men man går vänster på slutet direkt över överhänget.}}
+{{led|nr=28|namn=Liggande löv|grad=6+|typ=sport|betyg=|bultar=5|längd=15|fa=[[G.Söderin, M.Ellingsson]] -01|text=T.h om Bara barr.}}
+{{led|nr=28b|namn=Krokiga grenen|grad=6-|typ=sport|betyg=|bultar=5|längd=15|fa=[[G.Söderin]] -12|text=Starta med "Liggande löv och gå över i "Brokiga blad".}}
+{{led|nr=29|namn=Brokiga blad |grad=5|gruv=|typ=sport|betyg=|bultar=5|längd=15|fa=[[G.Söderin ]] -01|text=}}
+{{led|nr=30|namn=Mårten-pillaren |grad=6-|gruv=|typ=mix|betyg=|bultar=?|längd=50|fa=[[M. Ellingsson, G.Söderin, K.Nikumaa ]] -01|text=Dåligt säkrat insteg, annars skulle den vara en FF. Bultat ankare. }}
+{{led|nr=?|namn=Retardo|grad=5+|gruv=|typ=sport|betyg=|bultar=15?|längd=55|fa=[[M.Bergstedt, Vatos Locos ]] -11|text=Helbultad i två replängder 5, 5+, 60 m rep krävs för avfirning, insteg längst till höger på denna sektor.}}
+|}
+{{sidbrytning}}
+
+===Gummans vägg===
+[[Bild:Froson_Gummans_vagg_700p.gif|top]]
+<br>
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Raka roder|grad=4+|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin ]] -01|text=}}
+{{led|nr=2|namn=Kila kölen |grad=6-|gruv=|typ=trad|betyg=|bultar=|längd=10|fa=[[G.Söderin, P.Dahl ]] -01|text=}}
+{{led|nr=3|namn=Flocken fladdrar |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[G.Söderin, K.Nikumaa ]] -01|text=}}
+{{led|nr=4|namn=Gummans gräns del 1 |grad=5|gruv=|typ=trad|betyg=|bultar=|längd=30|fa=[[G.Söderin, N.B ]] -?|text=Första replängden. Leden drar lite vänster förbi en gran i starten. Andra replängden: a,b,c eller d}}
+{{led|nr=4a|namn=Gummans gräns del 2a|grad=6-|gruv=|typ=mix|betyg=|bultar=?|längd=20|fa=[[G.Söderin, N.B ]] -?|text=Travers till hörnet. }}
+{{led|nr=4b|namn=Gummans gräns del 2b|grad=6|gruv=|typ=mix|betyg=|bultar=?|längd=20|fa=[[G.Söderin, N.B ]] -?|text=Lite känslig rakt på }}
+{{led|nr=4c|namn=Gummans gräns del 2c|grad=6|gruv=|typ=mix|betyg=|bultar=?|längd=20|fa=[[G.Söderin, N.B ]] -?|text=Rakt upp från ankaret }}
+{{led|nr=4d|namn=Gummans gräns del 2d|grad=5-|gruv=|typ=trad|betyg=|bultar=|längd=25|fa=[[G.Söderin, N.B ]] -?|text=Följ sprickan lite åt höger. }}
+{{led|nr=5|namn=Tjolihojsan|grad=7+|typ=sport|betyg=3|bultar=?|längd=18|fa=[[K.Nikumaa]] -97|text=Samma start som Hålögd. Gå till vänster efter tredje bulten.}}
+{{led|nr=5b|namn=Tjillevippen|grad=6+|typ=sport|betyg=3|bultar=?|längd=18|fa=[[G.Söderin]] -11|text=Samma start som Hålögd/Tjolihojsan. Utsteg åt vänster till eget ankare.}}
+| width="350px" |
+{{led|nr=6|namn=Hålögd|grad=8-|typ=sport|betyg=2|bultar=8|längd=18|fa=[[K.Nikumaa]] -95|text=Samma start som Tjolihojsan.}}
+{{led|nr=7|namn=Liten röd |grad=6-?|gruv=|typ=trad|betyg=|bultar=|längd=15|fa=[[K.Nikumaa, M.Ellingsson ]] -95|text=}}
+{{led|nr=7b|namn=Ett år |grad=7+|gruv=|typ=mix|betyg=|bultar=1|längd=15|fa=[[G.Söderin, M.Ellingsson ]] -95|text=Kilar till överhänget. Gå sedan över till led nr 8(Kasta loss).}}
+{{led|nr=8|namn=Kasta loss |grad=6|gruv=|typ=sport|betyg=|bultar=5|längd=15|fa=[[G.Söderin, M.Ellingsson ]] -95|text=}}
+{{led|nr=9|namn=Solen strålar |grad=7+|gruv=|typ=sport|betyg=|bultar=5|längd=15|fa=[[G.Söderin, M.Ellingsson ]] -95?|text=Alt insteg till Avd "Kasta loss". }}
+{{led|nr=10|namn=Hörnet hänger |grad=6+|gruv=|typ=sport|betyg=|bultar=5|längd=15|fa=[[G.Söderin, M.Ellingsson ]] -96|text=Alt insteg till Avd "Kasta loss". }}
+{{led|nr=11|namn=Avd. 213 |grad=7|gruv=|typ=sport|betyg=|bultar=5|längd=15|fa=[[G.Söderin, M.Ellingsson ]] -95|text=}}
+{{led|nr=12|namn=Benet böjs |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin, M.Ellingsson ]] -96|text=}}
+{{led|nr=13|namn=Doctor Drüels |grad=6-|gruv=|typ=trad|betyg=|bultar=|längd=60|fa=[[C.Wiström, G.Söderin ]] -77?|text=}}
+|}
+{{sidbrytning}}
+
+===Frösötaket===
+[[Bild:Froson_Frosotaket_700p.gif|top]]
+<br>
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=14|namn=Stenbiten |grad=6-|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[G.Söderin, M.Ellingsson ]] -96|text=Något lös bitvis. }}
+{{led|nr=1|namn=Enzo|grad=6+|typ=sport|betyg=2|bultar=9|längd=30|fa=[[M.Hellberg, M.Ellingsson]] -96|text=T.v om det stora taket. Efter några meter stöter man på ett punktkrux, en kort travers åt vänster ut på den branta väggen fixar detta.}}
+{{led|nr=2|namn=Dimman lättar |grad=8|gruv=|typ=sport|betyg=|bultar=?|längd=25|fa=[[G. Söderin, K. Nikuma ]] -?|text=Exponerad travers. Slutar vid ”Listig”. }}
+{{led|nr=3|namn=Jaques Mayol |grad=7-|gruv=|typ=mix|betyg=|bultar=?|längd=?|fa=[[Hellberg]] -?|text=Bultar upp till taket, sen små kilar. }}
+{{led|nr=4|namn=Gräset gror|grad=7-|typ=sport|betyg=1|bultar=7|längd=17|fa=[[G.Söderin, M.Ellingsson]]|text=Följer flak/sprick formationen genom taket. Löst och dammigt under taket.}}
+{{led|nr=5|namn=Livet leker |grad=7+|gruv=|typ=sport|betyg=|bultar=?|längd=?|fa=[[G.Söderin, K.Nikumaa ]] -?|text=}}
+{{led|nr=6|namn=Listig |grad=7+|gruv=|typ=sport|betyg=|bultar=?|längd=?|fa=[[G. Söderin]] -?|text=Följer den tydliga sprickan genom taket. Följer sedan samma som led nr 2 (Dimman lättar). }}
+{{led|nr=7|namn=Skojar'u |grad=7|gruv=|typ=sport|betyg=|bultar=?|längd=?|fa=[[K. Nikuma ]] -?|text=}}
+{{led|nr=8|namn=Lagom löslig |grad=6-|gruv=|typ=sport|betyg=|bultar=?|längd=?|fa=[[G. Söderin]] -?|text=Den här är lös på sina ställen, därav namnet... }}
+{{led|nr=9|namn=Likblek |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[K.Nikuma, G.Söderin ]] -?|text=Klipp första bulten när du står på hyllan. Gå vidare på vänster sida om nästa bult. Vidare vänster till ankare. }}
+{{led|nr=10|namn=Platta plättar |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G. Söderin]] -?|text=Samma start som 9 (Likblek). Klättra till höger om andra bulten. Vidare höger till ankare. }}
+| width="350px" |
+{{led|nr=11|namn=Varma våfflor |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=20|fa=[[G.Söderin, K.Nikuma]] -95|text=Lite löst från början. Sedan rakt upp till ankare. }}
+{{led|nr=12|namn=Anonyma alpinister |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=12|fa=[[M. Ellingsson, G.Söderin, J.Oskarsson ]] -?|text=}}
+
+''De tre följande lederna går ovanför ett stort block på marken''
+{{led|nr=?|namn=Superanonymt stickspår|grad=7+|typ=sport|betyg=2|bultar=5|längd=12|fa=[[D Jacobs]]|text=Delar första bult med Pulla på, går sedan vänster. Fira från anonyma alpinister.
+}}
+{{led|nr=13|namn=Pulla på|grad=8-|typ=sport|betyg=2|bultar=5|längd=14|fa=[[K.Nikuma, G.Söderin]]|text=Första bulten sitter i ett litet dieder. Ankaret sitter ovanför kanten.}}
+{{led|nr=14|namn=Brännmärkt|grad=7-|typ=sport|betyg=2|bultar=5|längd=12|fa=[[J Wermelin, P Wermelin]]|text=Tre täta bultar som drar lite åt vänster i starten.}}
+{{led|nr=15|namn=Likgiltigheten |grad=5+|gruv=|typ=trad|betyg=|bultar=|längd=25|fa=[[M.Larsson, T.Nilsson, S-E.Brevik ]] -83|text=}}
+{{led|nr=16|namn=Pudel-Julia|grad=7+|gruv=|typ=sport|betyg=|bultar=?|längd=?|fa=[[P.Dahl ]] -?|text=}}
+{{led|nr=17|namn=Hängläpp |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=12|fa=[[J. Wermelin, P.Wermelin ]] -?|text=}}
+{{led|nr=18|namn=Hinken hävs |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=10|fa=[[-97 G.Söderin, M.Ellingsson ]] -97|text=("Därför"?) }}
+{{led|nr=19|namn=Varför? |grad=?|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G.Söderin ]] -?|text=}}
+{{led|nr=20|namn=Ingen botten |grad=6-|gruv=|typ=sport|betyg=|bultar=?|längd=8|fa=[[G. Söderin, Massimo ]] -01|text=}}
+{{led|nr=21|namn=Rimmad ruta |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=9|fa=[[M.Ellingsson ]] -01|text=}}
+{{led|nr=22|namn=Mera mjölk |grad=6|gruv=|typ=sport|betyg=|bultar=?|längd=7|fa=[[G. Söderin, Massimo ]] -01|text=}}
+|}
+{{sidbrytning}}
+
+===Kilturer===
+[[Bild:Froson_Langa_kilturer_sodra_700p.gif|top]]
+<br>
+{{led|nr=|namn=SNICKARLEDEN |grad=3+|gruv=b|typ=trad|betyg=|bultar=|längd=60|fa=[[F.Fischer, F.Götzmann ]] -73|text=Lämplig nybörjarled med jämn och fin klättring första replängden. Välsäkrad och relativt lätt kan den dock ändå vålla den övermodige en och annan förtretlighet.<br>'''1''' III+ 40 m Insteget är i ett markant 5 meter högt dieder. Startar 10 meter till vänter om Sunda Simpor (Piasavaväggen). Standplats vid stora stubben. <br>'''2''' II-III 20 m Upp till en stor hylla åt höger. Fortsätt några meter åt höger på denna hylla. Sedan över trappstegshyllor åt vänster och så rakt upp till krönet. }}
+{{led|nr=|namn=KALLEFALLET |grad=5-|gruv=c|typ=trad|betyg=|bultar=|längd=50|fa=[[C.Wiström, L.Bergström, G.Söderin ]] -77|text=Namnet återspeglar, som alla förstår, förstebestiga-rens förehavanden. Du hittar insteget som led nr 26 på "Piasavaväggen". <br>'''1''' V- 30 m Ta standplats under taket på den stora hyllan. <br>'''2a''' II 20 m (originalutsteget) Rakt upp genom den stora rännan i hyllans vänstra kant. Lite löst och skitigt. }}
+{{led|namn=Falkleden|nr=|grad=3+|gruv=b|betyg=|längd=80|fa=[[F.Fisher, F.Götzmann]],  [[1973|-73]]|bultar=|typ=trad|text=Detta är den första, av oss kända, leden som klättrats på Frösöberget. Du hittar den som led nr 1 på "Morsans område". Börjar i diedret vid Morsans muskler. 2 replängder.}}
+{{led|namn=Hexprocessen(långa kilturer)|nr=|grad=5+|gruv=c|betyg=0|längd=60|fa=[[F.Götzmann, K.Westman]],  [[1977|-77]]|bultar=|typ=trad|text=Du hittar den som led nr 24 på "Morsans område". Denna led följer ”minsta motståndets väg” genom den branta väggen till vänster om Stora Diedret.Namnet har den efter den våldförda ”hexa” som sitter i en spricka 20 m längre upp.(Tyvärr har någon snott hexan!)<br>'''1''' V+ 50 m Gå upp på terrassen några meter till vänster om Stora Diedret. Därefter snett upp åt vänster, över stora block, fram till en tydlig vinkel. Rakt upp i vinkeln till hylla. Sedan vidare på små hyllor åt höger och försiktigt runt ett stort block och så upp på ytterli-gare en hylla. Här sitter ”hexan” väl inbankad i sin spricka. Trä en ny slinga runt kilen. Fortsätt sedan upp ur vinkeln åt vänster ut på en platta och rakt upp under överhäng. OBS! Stora lösa block till vänster. Vidare ut till höger under överhänget. Därefter snett upp åt höger till kort vinkel och så rakt upp till standplats. <br>'''2''' II-III 10 m Rakt upp till krönet. <br>'''3''' III+ 30 m Uppför kort brant vägg med dragning åt vänster. Vidare till höger uppför en blockuppstapling. Sedan rakt upp över väggen till ett stort block med markant horisontalspricka. Till vänster över detta block och vidare snett upp åt vänster till svagt utbildad vinkel. Uppför vinkeln till standplats.}}
+{{led|namn=Stora diedret(långa kilturer)|nr=|grad=5-|gruv=b|betyg=2|längd=55|fa=[[F.Fischer, K.Westman]],  [[-75]]|bultar=|typ=trad|text=Du hittar den som led nr 30 på "Morsans område".Frösöbergets verkliga klassiker och fortfarande en av de flottaste linjerna på berget. Fördel med stora kilar.<br>'''1''' V- 45 m (från terrassen ca 40 m) Starta på marken rakt nedanför det markanta hörnet. Klättra den första korta väggen upp till terrassen. Fortsätt sedan uppför det ca 15 m höga hörnet och så vidare via en kort, något överhängande spricka till ett ankare. Standplats. <br>'''2''' V- 15 m 1977, F.Götzmann Kliv upp på en sluttande hylla omedelbart till höger om tallen. Bult bakom löst flak. Fortsätt sedan (lite känsligt) 7-8 m uppåt med dragning åt höger till nästa bult. Sedan rakt upp till standplats. Svårsäkrat, om man inte bestämt sig för att lita på första bulten...
+}}
+{{led|nr=|namn=JUNGEL JIM |grad=5+|gruv=|typ=trad|betyg=|bultar=|längd=60|fa=[[?]] -?|text='''1.''' V+ ?m Stora kilar. Samma start som Mårten Pillaren. På stora hyllan där denna går vänster så fortsätter man rakt upp i ratigt dieder (Krux, lortigt). Stand på någon av hyllorna efter diedret. ÖPPET PROJEKT På den stora hyllan bakom den döda granen finns en fin spricka som leder upp mot första stand. Den sprickan skulle göra hela leden mycket intressantare. <br>'''2.''' IV? ?m Följer en fin lång grov spricka/dieder till toppen. }}
+{{sidbrytning}}
+
+==Bergrummet==
+[[Bild:Froson_Bergrummet_700p.gif|top]]
+<br>
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Balla bananer |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G.Söderin ]] -00|text=}}
+{{led|nr=2|namn=Salta mandlar |grad=6-|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G.Söderin ]] -00|text=}}
+{{led|nr=3|namn=Ann Annas |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G.Söderin ]] -00|text=}}
+{{led|nr=4|namn=Malliga mandlar |grad=5+|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G.Söderin ]] -00|text=}}
+{{led|nr=5|namn=Femton Fikon|grad=7+|typ=sport|betyg=1|bultar=?|längd=15|fa=[[G Söderin]] -00|text=T.v om det stora taket, upp på hyllan och fortsätt till ankaret längst t.v.}}
+{{led|nr=6|namn=Frutta Fresca|grad=8/8+|typ=sport|betyg=2|bultar=4|längd=10|fa=[[G Söderin]] -00|text=Starta t.v om det stora taket. Klipp två första bultarna från hyllorna, kliv sedan ut på väggen...om du kan.}}
+{{led|nr=7|namn=Solen skiner|grad=6|typ=sport|betyg=|bultar=5|längd=10|fa=[[G Söderin]] -00|text=Starta längst in under taket och traversera detta till ankaret längst t.h. Grafitti höjer den urbana känslan.}}
+| width="350px" |
+{{led|nr=?|namn=Pruttgäddan|grad=9|typ=sport|betyg=|bultar=?|längd=15|fa=[[Geir S]] -08|text=Går innifrån hörnet och tar längsta vägen genom taket till ankaret på Frutta Fresca.}}
+{{led|nr=?|namn=Final fantasy|grad=9/9+|typ=sport|betyg=|bultar=?|längd=15|fa=[[Geir S]] -11|text=Start i Pruttgäddan sen går den via Battery in i Frutta-fresca. När man gjort cruxmovet på Frutta-fresca gör man en pillig match och traverserar ut till torkad frukt och traversen är cruxet.}}
+{{led|nr=8|namn=Energy|grad=8+|typ=sport|betyg=|bultar=?|längd=13|fa=[[G.Söderin]] -00|text=}}
+{{led|nr=9|namn=Energy|grad=8|typ=sport|betyg=|bultar=?|längd=13|fa=[[G.Söderin]] -00|text=}}
+{{led|nr=10|namn=Äppel |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G.Söderin ]] -00|text=}}
+{{led|nr=11|namn=Sverigekartan|grad=6-|typ=sport|betyg=|bultar=3|längd=8|fa=[[G.Söderin]] -00|text=Följ Areten på högersidan av taket. Gå ut t.h på slutet. Långt mellan bultarna nära marken, fall inte medan du klipper.}}
+{{led|nr=12|namn=Pirum |grad=6|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[G.Söderin ]] -00|text=}}
+{{led|nr=13|namn=Parum |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=|fa=[[?]] -?|text=}}
+|}
+{{sidbrytning}}
+
+==Stormväggen==
+[[Bild:Froson_Stormvaggen.gif|750Widthpx]]
+{|- valign="top"
+| width="700px" valign="top"|
+
+''Följande tre leder ligger på en egen vägg som man når genom en otydlig stig ovanifrån eller underifrån genom att passera boulderklumpen på vänstersida.''
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Öppet projekt|grad=5+?|typ=sport|betyg=|bultar=?|längd=8|fa=[[?]] 20??|text=Rensad men ej bultat. Följer flak och sprickor i vänstra delen av väggen.}}
+{{led|nr=?|namn=Bulta skiten|grad=6|typ=sport|betyg=1|bultar=4|längd=8|fa=[[M Bergstedt]] -08|text=Går på mitten av väggen.}}
+{{led|nr=2|namn=Kalla fötter|grad=6-|typ=sport|betyg=1|bultar=3|längd=8|fa=[[G Söderin]] -96|text=T.h på väggen. Svårare om man är kort.}}
+{{led|nr=3|namn=Boulderklump|grad=.|text=Bouldering. Hitta på lite egna problem. Fin att toppa ut! }}
+
+{{led|nr=4|namn=M.A.D 6 |grad=6|gruv=|typ=sport|betyg=|bultar=?|längd=7|fa=[[M.Ellingsson, M.Hellberg ]] -96|text=}}
+{{led|nr=5|namn=En paj i ugnen |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=7|fa=[[M.Ellingsson, M.Hellberg ]] -96|text=}}
+{{led|nr=6|namn=Fina leden |grad=6-|gruv=|typ=sport|betyg=|bultar=2|längd=7|fa=[[G.Söderin ]] -02|text=}}
+{{led|nr=7|namn=Kola krattor |grad=5+|gruv=|typ=sport|betyg=|bultar=2|längd=7|fa=[[G.Söderin ]] -02|text=}}
+{{led|nr=8|namn=Supersprickan på ön|grad=5|typ=trad|betyg=|bultar=|längd=10|fa=[[M Ellingsson]] |text=Markant spricka ovanför stigen. Fira från träd.}}
+{{led|nr=9|namn=Varma vantar|grad=5-|typ=sport|betyg=|bultar=4|längd=10|fa=[[G Söderin]] -96|text=Börja till vänster och korsa sedan led 10 och gå vidare på den vertikala delen. Ankare.}}
+| width="350px" |
+{{led|nr=10|namn=Salta sillar |grad=6+|gruv=|typ=sport|betyg=|bultar=?|längd=12|fa=[[?]] -96|text=Börja i det något lösa överhänget }}
+{{led|nr=11|namn=Solen strålar |grad=7-|gruv=|typ=sport|betyg=|bultar=?|längd=12|fa=[[G.Söderin, M.Ellingsson ]] -96|text=Utstegsvariant åt vänster. }}
+{{led|nr=12|namn=Stormen ryker|grad=5|typ=mix|betyg=|bultar=1|längd=10|fa=[[G.Söderin]] -96|text=Finns ankare, två bultar+kedja under granen i slutet av leden, ser lite muggigt ut. (juli 2011) Går enkelt att gå till samma avslut som led 13.}}
+{{led|nr=13|namn=Vinden vänder|grad=5|typ=sport|betyg=|bultar=4|längd=10|fa=[[G.Söderin]] -96|text=Ankare.}}
+{{led|nr=14|namn=Brokeback mountain|grad=5+|typ=sport|betyg=1|bultar=7|längd=12|fa=[[?,P.Dahl]] |text=t.v om Rioja och Latino där stigen går in i skogen. Kort vertikal passage i början. Rolig klättring.}}
+{{led|nr=15|namn=Latino |grad=5|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[M.Ellingsson ]] -96|text=Saknar ankare! }}
+{{led|nr=16|namn=Rioja |grad=6-|gruv=|typ=sport|betyg=|bultar=?|längd=15|fa=[[M.Ellingsson ]] -96|text=Ankare satt -11}}
+{{led|nr=17|namn=Idioten|grad=6-|typ=sport|betyg=1|bultar=?|längd=15|fa=[[M.Degermark,?]]|text=}}
+|}
+{{sidbrytning}}
+
+==Äventyrsväggen==
+[[Bild:Froson_Aventyrsvaggen_700p.gif|top]]
+<br>
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:mix]]
+[[Kategori:Jämtland]]
+
+Väldigt igenmossad 2009-08
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=1|namn=Rena rampen |grad=5|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=2|namn=Fallande furan |grad=6-|gruv=|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=3|namn=Granna granen|grad=4|gruv=a |betyg= |längd=|fa=|bultar=?|typ=sport|text=Borstad 2010-06}}
+{{led|nr=4|namn=Kalla kossan |grad=6-|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=5|namn=Variga vargen|grad=5+|gruv= |betyg= |längd=|fa=|bultar=2|typ=sport|text=Finputsad 2010-06}}
+{{led|nr=6|namn=Stora sprickan |grad=4|gruv=|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=7|namn=Malliga mården |grad=5|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+| width="350px" |
+{{led|nr=8|namn=Halta höken |grad=5|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=9|namn=Farliga falken |grad=6-|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=10|namn=Jamande jorten |grad=3|gruv=|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=11|namn=Roliga renen |grad=5|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=12|namn=Viga viden |grad=5+|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=13|namn=Böjda bågen |grad=5|gruv=|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=14|namn=Fjädrande foten |grad=7|gruv=|typ=trad|betyg=|bultar=|längd=|fa=|text=}}
+{{led|nr=15|namn=Snabba pilen |grad=7|gruv=|typ=sport|betyg=|bultar=|längd=|fa=|text=}}
+|}

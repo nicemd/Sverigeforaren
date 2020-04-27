@@ -1,0 +1,67 @@
+=Allmänt=
+Varierad klippklättring 3-7 meter högt, mycket i lätta registret. En lång förkastning samt block.
+=Vägbeskrivning=
+2 km sydost om Jägarhyddan. Från Rimbo väg 280 till skylt Södertjära mot höger. Åk vägen drygt 1 km, passera tvär högerkurva med lada på höger sida, parkera på höger sida uppe i backen. Gå sedan lite längre i vägens vänstersväng upp på krönet. Rakt fram ser man då Spetsblocket. Följ traktorvägen in i skogen tills den delar sig vid ett fint svampformat block (med hårda projekt). Följ stigen som går åt höger. Ca 100 m innan ett hus viker en mindre stig av åt vänster. Följ den tills den långa förkastningsklippan tonar upp sig. Från parkeringen ca 10 minuters fin promenad.
+=Sektorer=
+==Vänsterflygeln==
+Sektor av förkastningen längst till vänster
+{{problem|nr=5|namn=Salta bönor och lite Gillian|grad=5B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Följ kanten upp v>h}}
+{{problem|nr=6|namn=Pellefanten|grad=6A+|typ=|fa=Stefan Sjöberg|landning=5|betyg=1|sopad=Stefan Sjöberg|text=Överhängsbullen rakt upp}}
+{{problem|nr=a6|namn=Lizas drag|grad=5B|typ=|fa=Kristian Forsman, 2009|sopad=Stefan Sjöberg|text=Mittendelen av lilla väggen}}
+{{problem|nr=6b|namn=Dupuytrens kontraktur|grad=6A|typ=|fa=Ulf Palm, 2009|sopad=Stefan Sjöberg|text=Högerdelen av lilla väggen}}
+
+==Spetsblocket==
+
+{{problem|nr=1|namn=Gammelgubben|grad=4C|typ=|fa=Ulf Palm|landning=2|betyg=1|sopad=Ulf Palm|text=Flaket upp över kant}}
+{{problem|nr=2|namn=Lucy Jordan|grad=5B|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Start händer markant list, upp h flaksidan}}
+{{problem|nr=3|namn=40 taggaren|grad=5C|typ=|fa=Stefan Sjöberg|landning=2|sopad=Stefan Sjöberg|text=Traversera blockkanten, upp flak}}
+==Huvudsektionen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=7|namn=Passover|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|text=Dynamisk catch vid granen till v}}
+{{problem|nr=8|namn=8|grad=5B|typ=|fa=Stefan Sjöberg|landning=5|sopad=Stefan Sjöberg|text=Kanten snett uppåt höger, v om lilla trädet. Rakt framför stigen}}
+{{problem|nr=9|namn=9|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|betyg=2|sopad=Stefan Sjöberg|text=Start upponedvända V:t. Upp till lista rakt ovan, sedan snett upp ti kant och upp}}
+{{problem|nr=10|namn=10|grad=5B|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|text=Händer på markanta vinkeln, långt move upp t kant och över}}
+| width="250px" |
+{{problem|nr=11|namn=11|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|text=Upp på hyllor strax till v om stora trädet, upp på klippan}}
+{{problem|nr=12|namn=12|grad=5B|typ=|fa=Ulf Palm|landning=3|sopad=Ulf Palm|text=Mellan trädet och pelaren}}
+{{problem|nr=13|namn=13|grad=5B|typ=|fa=Ulf Palm|landning=3|betyg=1|sopad=Ulf Palm|text=Pelaren rakt upp}}
+{{problem|nr=14|namn=I remember nothing|grad=6A|typ=|fa=Stefan Sjöberg|landning=3|betyg=2|sopad=Stefan Sjöberg|text=Klassisk dieder, rakt upp}}
+| width="250px" |
+{{problem|nr=16|namn=Fredag 13e|grad=6A|typ=|fa=Stefan Sjöberg|landning=5|betyg=1|sopad=Stefan Sjöberg|uteslutningar=ja|text=Upp höga partiet, stå ej på hyllan t vänster}}
+{{problem|nr=17|namn=Drakrygg|grad=4C|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|text=Traversera flakstenen v>h}}
+|}
+
+==Mittflygeln==
+
+{{problem|nr=18|namn=18|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Megaundercling upp}}
+{{problem|nr=19|namn=19|grad=4C|typ=|fa=Torsten Eriksson|landning=3|sopad=Torsten Eriksson|text=Vänsterundercling}}
+{{problem|nr=20|namn=20|grad=5A|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Överhängshyllan, v kant upp}}
+==Högerflygeln==
+
+{{problem|nr=21|namn=21|grad=5B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|sittstart=ja|text=Rund catch upp}}
+{{problem|nr=22|namn=Diagonalen|grad=5C|typ=|fa=Ulf Palm|landning=3|betyg=1|sopad=Ulf Palm|text=Diagonalen}}
+{{problem|nr=23|namn=23|grad=5B|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Markant v-grepp, fina fötter}}
+==Platån, lilla blocket==
+
+{{problem|nr=24|namn=Dolly Parton|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|text=Start v hörn, upp åt h}}
+{{problem|nr=25|namn=X2000|grad=6A|typ=|fa=Stefan Sjöberg|landning=3|betyg=1|sopad=Stefan Sjöberg|sittstart=ja|text=Start catch, travers v>h, sluta ovan}}
+{{problem|nr=26|namn=Svängdörren|grad=5B|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|text=Händer i sprickan, v rakt upp}}
+==Platån, stora blocket==
+
+{{problem|nr=27|namn=Brandkatten|grad=5A|typ=|fa=Klara Emmerfors|landning=3|sopad=Klara Emmerfors|sittstart=ja|text=Lilla stenen längre in}}
+{{problem|nr=28|namn=Hammaröleden|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Fint parti travers h>v}}
+{{problem|nr=29|namn=Oktoberregn|grad=5C|typ=|fa=Stefan Sjöberg|landning=3|sopad=Stefan Sjöberg|text=Traversera v>h}}
+=Problem=
+{{problem|nr=4|namn=Stöttestenen|grad=7A|typ=Krimp,Layback,Travers V->H|fa=Stefan Sjöberg, 2005|betyg=3|sopad=Stefan Sjöberg|sittstart=ja|text=Följ spricklinjen v, slut lilla stenen båda händer}}
+{{problem|nr=15|namn=Walked in line|grad=6C|typ=Travers V->H,Reach|fa=Stefan Sjöberg|landning=5|betyg=2|sopad=Stefan Sjöberg|text=Långa traversen v>h t jug}}
+[[Kategori:Roslagen]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

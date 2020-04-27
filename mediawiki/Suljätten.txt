@@ -1,0 +1,75 @@
+<!-- Detta gör det möjligt att markera klippan på kartor
+{{info klippa
+  |lat=59.00000
+  |long=18.00000
+}}
+-->
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+
+
+==Allmänt==
+Detta mycket speciella fjäll ligger vid Kallsjön. Det ser ut som en liggande jättes näsa. Väggen, som är överhängande, vetter mot syd. Nedre delen av väggen är mycket lös och den övre fastare, därav överhänget. Två försök har gjorts. Ett slutade med att förste mannen blev hängande i en arm sedan det mesta under honom hade rasat undan.
+
+2009-10(?) Klättrade Krister Jonsson,Denny Calvo med flera den första leden till tops på den vänstra delen av väggen. Leden följer ett diedersystem följt av en travers till en tydlig utstegsränna. Ca 2 replängder. D+ sattes graden som.
+
+Toppen ger trots sin ringa höjd (845 m) en ovanligt imponerande utsikt över Kallsjön mot Skäckerfjällen.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+Karta här. Tryck på kartknappen ovan.
+
+<googlemap version="0.9" lat="63.588019" lon="13.157115" zoom="15">
+63.586893, 13.1566
+Suljätten
+</googlemap>
+
+
+<googlemap version="0.9" lat="63.589241" lon="13.156815" zoom="15">
+63.586893, 13.1566
+Suljätten
+</googlemap>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Skriv vägbeskrivning här.
+
+Följ E 14 till Järpen, Tag till höger mot Kall. Fortsätt förbi Kall till Övre Konäs. Där en kraftledning går över vägen börjar en skogsbilväg. Följ den till en vägbom och fortsätt sedan på en stig som är markerad på fjällkartan.
+
+==Leder==
+[[Bild:Skiss.gif]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Namn på led|grad=9c+|typ=trad|betyg=3|bultar=|längd=30|fa=[[namn på fa]] -08|text=ledbeskrivning}}
+
+| width="350px" |
+
+Höger kolumn
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+
+<!-- [[Kategori:trad]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar leder]]
+[[kategori:Saknar koordinater]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Jämtland]]

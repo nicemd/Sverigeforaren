@@ -1,0 +1,61 @@
+[[Kategori:Saknar allmän info]]
+=Vägbeskrivning=
+Sektorn Gravhögen ligger en bit innan Sangis. Från Luleå: Passera Kalix. Ca 1 mil efter Kalix kommer en avfartsväg höger mot båtskärsnäs. Passera denna. Ca 800 m efter denna korsning ta vänster in på en liten grusväg (gravhög står det på en vit skylt). Följ denna väg 1,5 km till parkeringsplats. Framme. Blocket ligger uppe till vänster
+Sektorn elljusspåret ligger strax innan Sangis by 2 mil norr om Kalix. Blocken ligger på ett område som avgränsas av byn, väg 398, E4an och elljuspåret. För parkering, sväng av från E4an på väg 398. Följ denna ca 1 km tills ett kalhygge med elljuspår uppenbarar sig på högersidan. Parkera på lämplig traktorväg.
+
+=Sektorer=
+
+==Elljusspåret==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Moder Jord|grad=6B|typ=Krimp,Slopers,Aréte|landning=3|betyg=3|fadatum=2007-05-07|text=Klättra rakt upp mot pocket, via arétet och ut. Medtag flera paddor, darrigt krux i slutet. Högt och fint.}}
+{{problem|namn=Ziggy Stardust|grad=7B|typ=Krimp,Reach,Heel hook|landning=3|betyg=3|fadatum=2007-05-20|text=Ståstart med händerna på var sin sida om kylskåpet. Hälkroka och slappa dig upp mot juggen.}}
+{{problem|namn=Under Pressure|grad=6A|typ=Pinch,Slab,Aréte|landning=5|betyg=1|fadatum=2007-05-20|text=Klättra vänstra sidan om aretét.}}
+{{problem|namn=Afrique|grad=5B|typ=Slopers,Slab,Aréte|landning=3|betyg=1|fadatum=2007-05-20|text=Rolig klättring på dubbelareté.}}
+{{problem|namn=Purple Rain|grad=6A+|typ=Mantling,Överhäng,Jug|landning=3|fadatum=2007-05-20|text=Ståstart, rakt upp över det lilla taket.}}
+| width="250px" |
+{{problem|namn=Be Strong|grad=4B|typ=Mantling,Aréte|landning=3|fadatum=2007-05-20|sittstart=ja|text=Sangis första sittstart på ett litet block.}}
+{{problem|namn=Life on Mars|grad=7A+|typ=Krimp,Reach|landning=3|betyg=1|fadatum=2007-05-21|text=Rakt upp via små, små krimpers.}}
+{{problem|namn=Space Oddity|grad=4C|typ=Krimp,Mantling,Jug|landning=2|fadatum=2007-05-21|text=}}
+{{problem|namn=Yellow Submarine|grad=5B|typ=|landning=2|fadatum=2007-05-21|text=Rakt upp i diedret.}}
+{{problem|namn=Stinkfist|grad=7A+|typ=Krimp,Slopers,Överhäng|landning=4|fadatum=2007-05-23|sittstart=ja|text=Sittstart på stenen. Ett hårt move till läppen.}}
+{{problem|namn=Solid as a rock|grad=6C|typ=Slopers,Mantling|landning=4|fadatum=2007-05-23|startgrepp=ja|uteslutningar=ja|text=Hängstart på slopern. Stora sprickan till höger utesluten.}}
+| width="250px" |
+{{problem|namn=Slash|grad=5C|typ=Jam,Layback,Spricka|fadatum=2007-05-23|text=Sprickan rakt upp.}}
+{{problem|namn=Black Dog|grad=5C|typ=Krimp,Slopers|landning=4|fadatum=2007-05-23|text=Rakt upp vid siffran.}}
+{{problem|namn=Planeten Jorden|grad=7B|typ=Krimp,Slab|landning=3|betyg=2|fadatum=2007-05-24|text=Problemet ligger 100 m bakom Obelixen uppe på höjden. Starta i bra grepp för att sedan toppa ut rakt upp på små krimpers.}}
+{{problem|nr=1|namn=Abyssinians|grad=6B+|typ=Krimp,Slopers|landning=3|fadatum=2007-05-07|text=Hoppstart till den tydliga listen mitt på väggen. Därifrån, upp och ut via slopers.}}
+{{problem|nr=2|namn=Undertow|grad=7B|typ=Slopers,Aréte,Heel hook|landning=3|betyg=2|fadatum=2007-05-07|text=}}
+|}
+
+==Gravhögen==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=No Retreat No Surrender|grad=6C|typ=Överhäng,Aréte|landning=3|betyg=3|fadatum=2007-05-07|text=Ett riktigt brant superproblem på 7 m. Utmantling sker med hjälp av ett fast rep på toppen. Ta med sele, rep och grigri för nedfirning.}}
+{{problem|nr=2|namn=Texas-Rune|grad=6C|typ=Krimp,Reach,Heel hook|landning=3|betyg=2|fadatum=2007-05-20|text=Ståstart på stenen. Avslutas på den stora hyllan rakt upp}}
+{{problem|nr=3|namn=Rue Barbare|grad=6A+|typ=Spricka|landning=4|betyg=1|fadatum=2007-05-20|text=Överhängande handspricka 7m.}}
+{{problem|nr=4|namn=High Times|grad=7A|typ=Krimp,överhäng|landning=3|betyg=3|fadatum=2007-05-20|text=Brant klättring på krimpers och juggar.Lite läskig urtoppning. Ej sprickan. 7m}}
+{{problem|nr=5|namn=High Times direkt|grad=7A+|typ=Krimp,Överhäng,HeelHook|landning=3|betyg=3|fadatum=2007-05-20|text=Startar två meter till höger om High Times. Klätttrar in i denna efter ca 4 meter.}}
+| width="250px" |
+{{problem|nr=6|namn=Black Eagle|grad=7A+|typ=Mantling,Slopers|landning=2|fadatum=2007-05-20| text=Lite lägre problem med ett riktigt konstigt flytt.}}
+{{problem|nr=7|namn=Derailed|grad=5A|typ=Krimp,Reach|landning=3|fadatum=2007-05-21|text=Rakt upp vid siffran.}}
+{{problem|nr=8|namn=The Quest|grad=5B|typ=Krimp|landning=3|fadatum=2007-05-23|sittstart=ja|text=Sittstart på stenen vid siffran}}
+{{problem|nr=9|namn=Hard Target|grad=5C|typ=Krimp, Reach|landning=3|fadatum=2007-05-23|text=Rakt upp vid siffran.}}
+| width="250px" |
+{{problem|nr=10|namn=Double Impact|grad=7A|typ=Slopers,HeelHook|fadatum=2007-05-23|text=Hoppstart vid siffran.}}
+{{problem|nr=11|namn=Bloodsport|grad=6C|typ=Krimp,Slopers, Överhäng|landning=3|fadatum=2007-05-23|text=Starta med vh i sidotag och hh på bra krimp. Rakt upp. Sittstart finns men ogjord}}
+{{problem|nr=12|namn=Humle|grad=5B|typ=Överhäng|landning=3|fadatum=2007-05-24|sittstart=ja|text=Sittstart vid siffran.}}
+{{problem|nr=13|namn=Dumle|grad=5A|typ=överhäng|landning=3|fadatum=2007-05-07|sittstart=ja|text=Sittstart vid siffran.}}
+|}
+[[Kategori:Luleå]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

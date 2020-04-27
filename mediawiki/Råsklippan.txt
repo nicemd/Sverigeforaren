@@ -1,0 +1,135 @@
+{{info klippa
+  |lat=57.98358
+  |long=16.31499
+}}
+
+
+{{komplett}}
+
+==Allmänt==
+En mycket fin sportklätterklippa med högklassiga leder för alla klättrare. Framförallt en utmaning för de som 
+klättrar i de övre graderna. Berget består av fast rödaktig granit. Klättringen är allround av typen lodrätt, sva, 
+överhängande och som högst 20 m. Klippan har tyvärr ännu inte upptäckts av sportklättrare men den kommer att få sin renässans. Sly och flera träd är borta och sol, ljus och luft kan nå fram till berget. Mellanväggen 
+har åter öppnats med flera leder i det lättare registret. Ingmar Pettersons överhängade vägg  som tidigare kallades boulderväggen är nyekiperad och rensad. Döpt efter Ingmar som gjorde mycket för att utveckla klättringen  
+i Västervik. Klätterleden “Dansa med myggor” som har graden 7a har blivit västerviksklättrarnas riktmärke då det 
+gäller gradering. All gradering i de övre graderna utgår från den. Jim Wasmuth gjorde den första on-sight bestigningen samma år som den sattes upp. 
+Klätterpionjären Johan Luhr satte tidigt upp de första 8a lederna vilket höjde standarden bland hemmaklättrarna. 
+Klippan har sydvästläge med sol efter kl.11.00 på sommaren. Klippan har 11 leder som särskilt rekommenderas
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="57.98358" lon="16.31499" type="map" zoom="13">
+57.98358, 16.31499
+Råsklippan
+</googlemap>
+</div>
+
+Klippan ligger ca 44 km nordväst om Västervik. Från Västervik kör E22 mot Gamleby och sedan mot Överum. 
+Passera kyrkogården innan Överum,som ligger på vänster hand. Sväng in till vänster på första asfalterade väg 
+och kör uppför backen till krönet där du svänger vänster och direkt höger nerför backen och du har idrottshallen 
+på vänster sida. Parkera på grusplanen till vänster innan gräsplanen. Följ elljuspåret nerför 300 m och du kommer 
+till branta väggen. Klippan ligger ca 70 km från Linköping. Tag väg 35 och åk förbi Åtvidaberg. I Överum svänger 
+du höger efter kiosken du har på vänster sida. Kör uppför backen. Se ovanstående.
+Det finns också tågförbindelse till Överum från Linköping och Västervik. Det är gångavstånd (900 m) från tågstationen till klippan. Se ovanstående.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+====Branta väggen====
+[[Bild:råsklippan1.png]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+
+{{led|nr=1|namn=Ostkusten pärla|grad=7a+|fa=Stefan Rasmussen -92|längd=20|bultar=8|typ=sport|text=hårt utsteg}}
+{{led|nr=2|namn=Tjustkruxet|grad=6c|fa=Jim Wasmuth -92|längd=15|bultar=5|typ=sport|text=}}
+{{led|nr=3|namn=Stefans arete|grad=7a|fa=Stefan Rasmussen -92|längd=18|bultar=8|typ=sport|text=}}
+{{led|nr=4|namn=Pk:s vals|grad=6b+|fa=Stefan Rasmussen -92|längd=16|bultar=6bb|typ=sport|text=}}
+{{led|nr=5|namn=Dansa med myggor|grad=7a|fa=Fredrik Östin -92|längd=15|bultar=6|typ=sport|text=myggstift rekommenderas på sommaren}}
+{{led|nr=a|namn=Variant|grad=7a|fa=Stefan Rasmussen -93|längd=|bultar=|typ=sport|text=vänster om led 5}}
+{{led|nr=b|namn=Variant|grad=7a|fa=Stefan Rasmussen -93|längd=|bultar=|typ=sport|text=travers till Parador}}
+{{led|nr=6|namn=Parador direkt|grad=7b|fa=Johan Luhr -92|längd=16|bultar=8|typ=sport|text=}}
+
+| width="350px" |
+
+{{led|nr=7|namn=Parador|grad=7c+|fa=Stefan Rasmussen -92|längd=16|bultar=8|typ=sport|text=}}
+{{led|nr=8|namn=Evigt ung|grad=8a+|fa=Johan Luhr -93|längd=16|bultar=7|typ=sport|text=}}
+{{led|nr=9|namn=Full fräs|grad=8a|fa=Johan Luhr -93|längd=16|bultar=7|typ=sport|text=}}
+{{led|nr=10|namn=Den hänsynslöse|grad=8a|fa=Johan Luhr -93|längd=12|bultar=7|typ=sport|text=}}
+{{led|nr=11|namn=Livet är en fest|grad=7b|fa=Jim Wasmuth -92|längd=12|bultar=6|typ=sport|text=}}
+{{led|nr=12|namn=Tills döden skiljer oss åt|grad=8a+|fa=Johan Luhr-93|längd=12|bultar=5|typ=sport|text=}}
+{{led|nr=13|namn=Kingfish|grad=8a|fa=Patrik Andersson -92|längd=10|bultar=5bb|typ=sport|text=}}
+{{led|nr=14|namn=Änglagård|grad=7b|fa=Johan Luhr -92|längd=9|bultar=5|typ=sport|text=}}
+{{led|nr=15|namn=Sista dansen|grad=7b|fa=Johan Luhr -92|längd=9|bultar=5|typ=sport|text=}}
+
+
+|}
+
+{{sidbrytning}}
+
+====Mellanväggen====
+[[bild:råsklippan2.png]]
+
+En nyöppnad vägg med lättare trevliga svaleder i fin miljö. Lederna kommer att bultas upp.
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=16|namn=Desperata pelaren|grad=6c|fa=Jacob Sjöstrand -83|längd=8|bultar=|typ=sport|text=}}
+{{led|nr=17|namn=Bråttom|grad=5b|fa=Per Normark -83|längd=15|bultar=|typ=sport|text=}}
+{{led|nr=18|namn=Dolda kameran|grad=4a|fa=Gustaf S. -83|längd=15|bultar=|typ=sport|text=}}
+{{led|nr=a|namn=Instegsvariant|grad=5a|fa=Gustaf S. -83|längd=8m|bultar=|typ=sport|text=}}
+{{led|nr=b|namn=Instegsvariant|grad=5b|fa=Per Normark -83|längd=8m|bultar=|typ=sport|text=}}
+{{led|nr=19|namn=Jacobs förfall|grad=4a|fa=Per Normark -83|längd=15|bultar=|typ=sport|text=}}
+
+| width="350px" |
+
+{{led|nr=20|namn=ILC|grad=5c|fa=Jacob Sjöstrand -83|längd=15|bultar=|typ=sport|text=}}
+{{led|nr=21|namn=Med kallt blod|grad=6a|fa=Jacob Sjöstrand -83|längd=15|bultar=|typ=sport|text=}}
+{{led|nr=22|namn=Leva låta dö|grad=6c|fa=Jacob Sjöstrand -83|längd=15|bultar=|typ=sport|text=}}
+{{led|nr=23|namn=Falsk illusion|grad=5 b|fa=Jacob Sjöstrand -83|längd=15|bultar=|typ=sport|text=}}
+{{led|nr=24|namn=Eldorado rocks|grad=4c|fa=Per Normark -83|längd=20|bultar=|typ=sport|text=}}
+{{led|nr=25|namn=Clogging|grad=6b|fa=Pål Normark -83|längd=20|bultar=|typ=sport|text=}}
+|}
+
+{{sidbrytning}}
+====Ingmars vägg====
+
+[[bild:råsklippan3.png]]
+
+En överhängande vägg som har flera fina leder. Potential finns för att göra nyturer.
+Klippan är så gott som alltid torr även efter regn. På höger sida finns det flera boulderleder.
+{|
+|- valign="top"
+| width="350px" |
+{{led|nr=26|namn=Projekt|grad=6a?|typ=sport|betyg=|bultar=|längd=8|fa=|text=}}
+
+{{led|nr=27|namn=Oldman river|grad=6c+|typ=sport|betyg=|bultar=4|längd=9|fa=[[Ingmar Pettersson]] -95|text=}}
+
+{{led|nr=28|namn=Projekt, Red delicios ?|grad=7a+?|typ=sport|betyg=|bultar=5|längd=9|fa=|text=lossnat ett grepp}}
+
+| width="350px" |
+
+{{led|nr=29|namn=Gas i magen|grad=6b+|typ=sport|betyg=|bultar=4|längd=9|fa=[[Ingmar Pettersson]] -94|text=}}
+
+{{led|nr=30|namn=Smålensk dynamit|grad=6c+|typ=sport|betyg=|bultar=4|längd=9|fa=[[Pär Fluor]] -95|text=}}
+
+{{led|nr=31|namn=Projekt, Granny Smith?|grad=7a+?|typ=sport|betyg=|bultar=4|längd=8|fa=|text=}}
+
+|}
+
+==Förare==
+Förare gjord av Västervik Climbing kan hittas på [http://www.vastervikclimbing.se/klattercentret/pdfer/ www.vastervikclimbing.se].
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+<!-- [[Kategori:trad]] -->
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[Category:Småland]]

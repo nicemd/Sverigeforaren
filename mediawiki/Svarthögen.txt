@@ -1,0 +1,560 @@
+{{boulderstub|extern=ja}}
+
+
+
+
+
+
+=Allmänt=
+Svarthögen är det i särklass största boulderområdet i Jämtland.
+
+=Vägbeskrivning=
+<googlemap width=500 height=300 lat="63.23177195312256" lon="14.94140625" zoom="10" type="karta">
+63.25213682443433,15.218725204467773
+63.240816191682924,15.209541320800781,Udden
+63.22233819351947,15.251426696777344,"Climb-in-stenarna"
+</googlemap>
+
+Det är något närmare till områdena "climb-in-stenarna" och till "Udden" eftersom dom ligger på södra sidan Indalsälven. Annars måste man åka till Näverededammen för att ta sig till det största av områdena.
+
+Från Östersund, kör 3 mil mot Stugun. Efter byn "Lillsjöhögen" sväng vänster mot Näverede. Kör asfaltvägen 5 km. När du ser skylten "Midskog 1" peka åt vänster. Sväng höger! Kör 3,5 km och du ska svänga vänster ("Nyby 19") till Näverede kraftverk. Kör över och på andra sidan, sväng vänster. Kör grusvägen (5,5km) tills du kommer till kraftverket i Midskog. När du har passerat det kraftverket, kör ca 100m. Den tydliga stenen på höger sida är sten A7 på område A Climbin-stenarna. Parkering gör du på någon av mötesplatserna längs vägen.
+Tänk bara på att SCAs timmerbilar ska kunna ta sig fram!
+Lycka till!
+
+=Extern förare=
+[http://www.ostersundskk.se/svarthogen Svarthögen]
+
+=Sektorer=
+==A. Climb-in stenarna==
+[http://www.ostersundskk.se/svarthogen/a_climbinstenarna/a_climbinstenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-07-27|sopad=Team Svarthögen|text=Hörnet}}
+{{problem|nr=2|namn=2|grad=-|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-07-27|sopad=Team Svarthögen|text=Ej hörnet}}
+{{problem|nr=3|namn=A1|grad=7A|typ=Heel hook|fa=Team Svarthögen|landning=3|betyg=2|fadatum=2005-07-27|sopad=Team Svarthögen|sittstart=ja|startgrepp=ja|text=v.h i horisontell spricka, h.h i diagonal spricka...naturlig väg upp!}}
+{{problem|nr=4|namn=A1|grad=6A+|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-07-25|sopad=Team Svarthögen|sittstart=ja|text=goa grepp upp till "kanten", sedan lite känslig avslutning.}}
+{{problem|nr=5|namn=5|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=6|namn=6|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=7|namn=A1|grad=7A|typ=Slopers,Överhäng,Dyno|fa=Team Svarthögen|landning=3|betyg=2|fadatum=2005-07-27|sopad=Team Svarthögen|sittstart=ja|startgrepp=ja|text=v.h på kanten, h.h på den låga listen..dyno och dyno!}}
+{{problem|nr=8|namn=8|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=9|namn=9|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=10|namn=10|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=11|namn=11|grad=-|typ=|fa=Team Svarthögen|landning=6|fadatum=2005-07-27|sopad=Team Svarthögen|text=Över högsta punkten}}
+{{problem|nr=12|namn=12|grad=-|typ=|fa=Team Svarthögen|landning=6|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=14|namn=14|grad=-|typ=|fa=Team Svarthögen|landning=6|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=20|namn=20|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=21|namn=21|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=22|namn=22|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=23|namn=23|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=24|namn=24|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=25|namn=25|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=26|namn=26|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=27|namn=27|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+| width="250px" |
+{{problem|nr=28|namn=28|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=29|namn=29|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=30|namn=30|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=31|namn=31|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=32|namn=32|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=33|namn=33|grad=7B|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=34|namn=34|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=35|namn=35|grad=5C|typ=Layback,Mantling,Överhäng|fa=Gudmund Söderin|landning=4|fadatum=2005-07-25|sopad=Gudmund Söderin|sittstart=ja|text=fina grepp. starta på laybacks. vidare till undercling och krimp, lätt mantlings avslut.}}
+{{problem|nr=40|namn=40|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=41|namn=41|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=42|namn=42|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=43|namn=43|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=44|namn=44|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=45|namn=45|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=46|namn=46|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=50|namn=50|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=51|namn=51|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=52|namn=52|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=53|namn=53|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=54|namn=54|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=55|namn=55|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=56|namn=56|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=57|namn=57|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+| width="250px" |
+{{problem|nr=58|namn=58|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=60|namn=60|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=61|namn=61|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=62|namn=62|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=63|namn=63|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=64|namn=64|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=65|namn=65|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=66|namn=66|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=67|namn=Klyktattar´n|grad=7B|typ=Slopers,Mantling,Dyno|fa=Kari Nikumaa|landning=3|betyg=2|fadatum=2007-09-10|sopad=Kari Nikumaa|sittstart=ja|startgrepp=ja|text=h.h på den sluttande bågen, v.h i under"cling"..dyno och mantling!}}
+{{problem|nr=71|namn=71|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=72|namn=72|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=73|namn=73|grad=-|typ=|fadatum=2005-07-27|text=}}
+{{problem|nr=74|namn=74|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=75|namn=75|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=76|namn=76|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=77|namn=77|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=78|namn=78|grad=4C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-07-27|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=79|namn=79|grad=3B|typ=|fa=Alex Nikumaa|landning=4|fadatum=2005-07-27|sopad=Alex Nikumaa|sittstart=ja|text=}}
+{{problem|nr=80|namn=80|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=81|namn=81|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=82|namn=82|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=83|namn=83|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+|}
+==B. Påskstenarna==
+[http://www.ostersundskk.se/svarthogen/b_paskstenarna/b_paskstenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=7A|typ=|fa=Team Svarthögen|landning=5|fadatum=2005-06-27|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=2|namn=B2|grad=6B|typ=|fa=FA|landning=5|fadatum=2005-06-27|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=3|namn=3|grad=3C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-27|sopad=Team Svarthögen|text=Även nedstigning från stenen. (!)}}
+{{problem|nr=4|namn=4|grad=4B|typ=|fa=FA|landning=3|fadatum=2005-06-27|sopad=Team Svarthögen|text=Prova även som "no hands"!}}
+{{problem|nr=5|namn=5|grad=4B|typ=|fa=B. Påskstenarna|landning=3|fadatum=2005-06-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=6|namn=6|grad=4C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=Prova även som "no hands"}}
+{{problem|nr=7|namn=7|grad=5B|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=8|namn=8|grad=6B|typ=|fa=Team Svarthögen|landning=5|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=9|namn=9|grad=6B|typ=|fa=Team Svarthögen|landning=5|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=10|namn=10|grad=6C|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=11|namn=11|grad=6A|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=12|namn=12|grad=5C|typ=|fa=Svarthögen|landning=4|fadatum=2005-06-28|sopad=Svarthögen|sittstart=ja|text=Ev nedstigning från stenen (!)5A som ståstart}}
+{{problem|nr=14|namn=14|grad=5C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=Press-start!}}
+{{problem|nr=15|namn=15|grad=6B|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=Håll vänster längs spricklinjen.}}
+{{problem|nr=16|namn=B16|grad=6A|typ=|fa=Team Svarthögen|landning=5|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=17|namn=17|grad=4C|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=18|namn=18|grad=4B|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=20|namn=20|grad=4C|typ=Slab|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=21|namn=B21|grad=5C|typ=Slab|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=22|namn=22|grad=6A|typ=|fa=Team Svarthögen|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=23|namn=23|grad=6B|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=24|namn=24|grad=6B|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=25|namn=25|grad=-|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=26|namn=26|grad=5C|typ=Mantling,Reach|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=30|namn=30|grad=-|typ=Mantling,Travers H->V|fa=Svarthögen|landning=5|fadatum=2005-06-29|sopad=Svarthögen|sittstart=ja|text=Travers in i nr 32, sedan mantla över kanten.}}
+{{problem|nr=31|namn=31|grad=-|typ=|fa=Team Svarthögen|landning=5|fadatum=2005-06-29|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=32|namn=32|grad=6C|typ=Mantling,Överhäng|fa=Svarthögen|landning=5|fadatum=2005-06-29|sopad=Svarthögen|sittstart=ja|text=}}
+{{problem|nr=33|namn=33|grad=5C|typ=Överhäng,Jug|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=34|namn=34|grad=5C|typ=Överhäng|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=35|namn=Inkomnia|grad=4C|typ=Slab|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=36|namn=36|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-06-29|sopad=Team Svarthögen|text=}}
+{{problem|nr=37|namn=37|grad=-|typ=|fa=Team Svarthögen|landning=7|fadatum=2005-06-29|sopad=Team Svarthögen|text=Ej in i 36}}
+{{problem|nr=38|namn=38|grad=3B|typ=|fa=Team Svarthögen|landning=6|fadatum=2005-06-29|sopad=Team Svarthögen|text=Börjar uppe på stora stenen.}}
+{{problem|nr=39|namn=39|grad=5C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=40|namn=40|grad=-|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-29|sopad=Team Svarthögen|sittstart=ja|text=Liggstart!!}}
+{{problem|nr=41|namn=41|grad=-|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-29|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=49|namn=Hörntand|grad=4A|typ=Mantling,Reach|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=50|namn=B50|grad=5C|typ=Krimp,Jug|fa=Team Svarthögen|landning=5|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=51|namn=51|grad=5C|typ=Mantling,Jug|fa=Team Svarthögen|landning=5|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=52|namn=52|grad=-|typ=|fa=Team Svarthögen|landning=5|fadatum=2005-06-29|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=53|namn=53|grad=6B|typ=|fa=Svarthögen|landning=4|fadatum=2005-06-29|sopad=Svarthögen|sittstart=ja|text=}}
+{{problem|nr=54|namn=54|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-06-29|sopad=Team Svarthögen|sittstart=ja|text=}}
+| width="250px" |
+{{problem|nr=55|namn=55|grad=-|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-06-29|sopad=Team Svarthögen|text=}}
+{{problem|nr=56|namn=B56|grad=6B|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=57|namn=57|grad=-|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-29|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=61|namn=Plattfisken|grad=5B|typ=Slab|fa=Fredrik Olofsson|fadatum=2007-09-26|sopad=Fredrik Olofsson|text=Mitt på den platta väggen.}}
+{{problem|nr=62|namn=B62|grad=5A|typ=Slab|fa=Fredrik Olofsson|fadatum=2007-09-26|sopad=Fredrik Olofsson|text=}}
+{{problem|nr=63|namn=B63|grad=5C|typ=Mantling,Överhäng|fa=Fredrik Olofsson|fadatum=2007-09-26|sopad=Fredrik Olofsson|sittstart=ja|text=Kort, men kan ställa till det i mantlingen över kanten.}}
+{{problem|nr=70|namn=Injektion|grad=5A|typ=Krimp|fa=Fredrik Olofsson|landning=3|fadatum=2005-06-27|sopad=Fredrik Olofsson|sittstart=ja|startgrepp=ja|text=}}
+{{problem|nr=71|namn=71|grad=3C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-27|sopad=Team Svarthögen|text=Träna på att "gå över kant".}}
+{{problem|nr=72|namn=Slit den med hälsan|grad=3C|typ=Mantling|fa=Team Svarthögen|landning=3|fadatum=2005-06-27|sopad=Team Svarthögen|text=Enkel, träna på att gå över kanten.}}
+{{problem|nr=73|namn=Hjorten|grad=4C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-27|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=74|namn=Stående britsen|grad=4C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=75|namn=Kölapp|grad=5A|typ=|fa=B. Påskstenarna|landning=3|fadatum=2005-06-27|sopad=Fredrik Olofsson|text=}}
+{{problem|nr=76|namn=Kåre|grad=5A|typ=|fa=Fredrik Olofsson|landning=3|fadatum=2005-06-28|sopad=Fredrik Olofsson|sittstart=ja|text=}}
+{{problem|nr=77|namn=I.F|grad=4A|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=78|namn=78|grad=3C|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-06-28|sopad=Team Svarthögen|sittstart=ja|text=}}
+{{problem|nr=79|namn=79|grad=3C|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-06-28|sopad=Team Svarthögen|text=}}
+{{problem|nr=80|namn=Hatthyllan|grad=5B|typ=|fa=Fredrik Olofsson|landning=4|fadatum=2005-06-27|sopad=Fredrik Olofsson|sittstart=ja|text=}}
+{{problem|nr=81|namn=Kulverten|grad=4A|typ=Jug|fa=Team Svarthögen|landning=4|fadatum=2005-06-30|sopad=Team Svarthögen|text=}}
+{{problem|nr=100|namn=Trigonometri|grad=6A|typ=|fa=Team Svarthögen|fadatum=2007-09-26|sopad=Team Svarthögen|text=Går till höger om nr 1. Följ kanten upp.}}
+|}
+==C. Gatstenarna==
+[http://www.ostersundskk.se/svarthogen/c_gatstenarna/c_gatstenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=2|namn=2|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=4|namn=4|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+| width="250px" |
+{{problem|nr=5|namn=5|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=6|namn=6|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=7|namn=7|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=8|namn=8|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+| width="250px" |
+{{problem|nr=20|namn=20|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+{{problem|nr=21|namn=21|grad=-|typ=|fa=Team Svarthögen|fadatum=2005-07-27|sopad=Team Svarthögen|text=}}
+|}
+==F. Sockerbiten==
+[http://www.ostersundskk.se/svarthogen/f_sockerbiten/f_sockerbiten.png]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=Travers V->H|fadatum=2007-09-13|text=Här börjar två traverser. Ena avslutas i nr 2 och den andra avslutas i nr 4.}}
+{{problem|nr=2|namn=2|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=4|namn=4|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=5|namn=5|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=6|namn=6|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=7|namn=7|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=8|namn=8|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=9|namn=9|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=10|namn=10|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=11|namn=11|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=12|namn=12|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=13|namn=13|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=14|namn=14|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=16|namn=16|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=18|namn=18|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=19|namn=19|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=20|namn=20|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=21|namn=21|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=22|namn=22|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=25|namn=25|grad=-|typ=|fadatum=2007-09-13|text=No hands!}}
+{{problem|nr=26|namn=26|grad=-|typ=|fadatum=2007-09-13|text=No hands!}}
+{{problem|nr=31|namn=31|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=32|namn=32|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=33|namn=33|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=34|namn=34|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=36|namn=36|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=37|namn=37|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=38|namn=38|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=40|namn=40|grad=-|typ=|fadatum=2007-09-13|text=}}
+|}
+==H. Ugly you==
+[http://www.ostersundskk.se/svarthogen/h_uglyyou/h.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fa=Svarthögen|landning=3|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=2|namn=2|grad=-|typ=|fa=Team Svarthögen|landning=4|fadatum=2005-10-20|sopad=Team Svarthögen|text=}}
+{{problem|nr=2|namn=2|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=4|namn=Tre Amigos|grad=6A+|typ=Krimp,Aréte,Heel hook|fa=Svarthögen|landning=4|betyg=2|fadatum=2005-10-20|sopad=Svarthögen|sittstart=ja|startgrepp=ja|text=h.h hand på kanten bakom kanten, v.h på krimp. rakt upp}}
+{{problem|nr=5|namn=5|grad=-|typ=|fa=Svarthögen|landning=3|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=6|namn=Brännhet|grad=5B|typ=|fa=Svarthögen|landning=3|betyg=1|fadatum=2005-10-20|sopad=Svarthögen|text=rakt upp och in i diedret.}}
+{{problem|nr=7|namn=Låvedörren|grad=5C|typ=Aréte|fa=Svarthögen|landning=3|betyg=1|fadatum=2005-10-20|sopad=Svarthögen|text=Höger sida av areten.}}
+| width="250px" |
+{{problem|nr=7|namn=7|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=8|namn=8|grad=-|typ=|fa=Svarthögen|landning=3|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=9|namn=9|grad=-|typ=|fa=Svarthögen|landning=3|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=10|namn=10|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=12|namn=12|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=13|namn=13|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=14|namn=14|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=20|namn=Rubus arcticus|grad=7A+|typ=Krimp,Slopers,Heel hook|fa=Svarthögen|landning=3|betyg=2|fadatum=2005-10-20|sopad=Svarthögen|sittstart=ja|startgrepp=ja|text=h.h på areten, v.h på liten, liten krimp.}}
+| width="250px" |
+{{problem|nr=21|namn=21|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=22|namn=22|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=23|namn=23|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=24|namn=24|grad=6B|typ=|fa=Svarthögen|landning=3|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=25|namn=25|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=26|namn=26|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=27|namn=27|grad=-|typ=Travers V->H|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=28|namn=28|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=29|namn=29|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+|}
+==J. Köttis==
+[http://ostersundskk.se/svarthogen/j_kottis/kottis.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=2|namn=2|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=4|namn=4|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=5|namn=5|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=9|namn=9|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=16|namn=16|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=17|namn=17|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=18|namn=18|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=19|namn=19|grad=-|typ=|fadatum=2007-09-13|text=}}
+|}
+==i. Hörnet==
+[http://ostersundskk.se/svarthogen/i_hornet/hornet.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=10|namn=10|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=11|namn=11|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=12|namn=12|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=13|namn=13|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=14|namn=14|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=16|namn=16|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=25|namn=25|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=30|namn=30|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=32|namn=32|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=34|namn=34|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=35|namn=35|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+|}
+==K. Yosemite==
+[http://ostersundskk.se/svarthogen/k_yosemite/yosemite.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=2|namn=2|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=4|namn=4|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=5|namn=5|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=10|namn=10|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=13|namn=13|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=14|namn=14|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=16|namn=16|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=21|namn=The Egg|grad=6C+|typ=Krimp,Slopers,Heel hook|fa=??|landning=2|betyg=2|fadatum=2007-09-08|sopad=??|sittstart=ja|startgrepp=ja|text=Naturlig väg upp!}}
+{{problem|nr=22|namn=22|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=25|namn=25|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=26|namn=26|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=27|namn=Fear no Darkness|grad=7A+|typ=Krimp,Slopers|fa=Mikael|landning=4|betyg=2|fadatum=2007-08-31|sopad=Mikael|sittstart=ja|startgrepp=ja|text=starta på listerna lågt nede, vidare rakt upp med gragning mot höger..mer än en spottare är trevligt!}}
+| width="250px" |
+{{problem|nr=31|namn=31|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=32|namn=32|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=33|namn=33|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=36|namn=36|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=41|namn=41|grad=-|typ=|fadatum=2007-09-13|text=}}
+|}
+==O. Lägerstenarna==
+[http://ostersundskk.se/svarthogen/o_lagerstenarna/lagerstenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Short & Sweet|grad=4C|typ=|fa=??|landning=2|fadatum=2007-09-13|sopad=??|sittstart=ja|startgrepp=ja|text=Problemet ligger mitt emot The Corner. Starta på två små lister, tre tydliga move.}}
+{{problem|nr=1|namn=Regndansen|grad=7B|typ=Krimp|fa=Mattias Flodin|landning=3|betyg=2|fadatum=2006-10-15|sopad=Mattias Flodin|sittstart=ja|text=LägerblocketSittstart under taket, uppåt med dragning åt vänster. Avslutades hängande i toppjuggen. när all blöt lera kommer bort, kan problemet avslutas med en mantling upp på hyllan.}}
+{{problem|nr=2|namn=2|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=5|namn=5|grad=7A|typ=Krimp,Mantling,Dyno|fa=??|landning=5|betyg=1|fadatum=2007-09-10|sopad=??|startgrepp=ja|text=start på två krimp lister, dyno till kanten och upp.}}
+{{problem|nr=6|namn=6|grad=-|typ=|fadatum=2007-09-13|startgrepp=ja|text=Rakt upp.}}
+{{problem|nr=7|namn=7|grad=-|typ=Travers H->V|fadatum=2007-09-13|text=Travers åt höger runt hörnet. Slutar till höger om nummer 8.}}
+{{problem|nr=8|namn=8|grad=6B+|typ=Krimp,Överhäng|fa=??|landning=3|betyg=1|fadatum=2007-09-10|sopad=??|sittstart=ja|startgrepp=ja|text=På självaste lägerblocket..gula startprickar}}
+| width="250px" |
+{{problem|nr=10|namn=10|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=11|namn=11|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=12|namn=12|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=Travers V->H|fadatum=2007-09-13|startgrepp=ja|uteslutningar=ja|text=Travers som går åt vänster runt hörnet.}}
+{{problem|nr=20|namn=Barr i näven|grad=4C|typ=Slab|fa=??|landning=5|betyg=1|fadatum=2007-09-13|sopad=??|text=Följ pilen}}
+{{problem|nr=21|namn=Slabben|grad=5B|typ=Slab|fa=??|landning=4|betyg=1|fadatum=2007-09-13|sopad=??|text=Följ pilen}}
+{{problem|nr=22|namn=Pinne i brasan|grad=5A|typ=Slab|fa=??|landning=4|betyg=2|fadatum=2007-09-13|sopad=??|uteslutningar=ja|text=Följ pilen rakt upp. Röda linjer för uteslutningarna}}
+{{problem|nr=23|namn=23|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=24|namn=24|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=25|namn=Hooked for ever!|grad=6A|typ=Överhäng,Heel hook|fa=??|landning=3|betyg=2|fadatum=2007-09-13|sopad=??|sittstart=ja|startgrepp=ja|text=Följ pilen}}
+| width="250px" |
+{{problem|nr=31|namn=31|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=35|namn=35|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=40|namn=40|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=42|namn=42|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=43|namn=43|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=44|namn=Pianot|grad=7B|typ=Travers H->V|fa=K. Nikumaa|landning=4|betyg=2|fadatum=2007-09-10|sopad=K. Nikumaa|startgrepp=ja|text=Lång hangeltravers}}
+{{problem|nr=47|namn=Index ++|grad=6C+|typ=Krimp,Reach,Heel hook|fa=??|landning=3|betyg=2|fadatum=2007-09-10|sopad=??|sittstart=ja|text=Följ den tydliga kanten mot höger..sträck/dyno ut till areten och rakt upp!}}
+{{problem|nr=51|namn=51|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=52|namn=The Corner|grad=6C+|typ=Slopers,Mantling,Dyno|fa=??|landning=3|betyg=2|fadatum=2007-09-10|sopad=??|sittstart=ja|startgrepp=ja|text=starta sittande eller på huk om man inte når startgreppen. Dyna och mantla}}
+|}
+==P. Mellanstenarna==
+[http://ostersundskk.se/svarthogen/p_mellanstenarna/mellanstenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=4|namn=4|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=5|namn=5|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=10|namn=10|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=11|namn=11|grad=-|typ=|fadatum=2007-09-13|text=}}
+|}
+==R. Norgestenarna==
+[http://ostersundskk.se/svarthogen/r_norgestenarna/norgestenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=5|namn=5|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=6|namn=6|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=7|namn=7|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=8|namn=8|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=16|namn=16|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=18|namn=18|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=20|namn=20|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=21|namn=21|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=22|namn=22|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=25|namn=25|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=26|namn=26|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=30|namn=30|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=31|namn=31|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=32|namn=32|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=33|namn=33|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=35|namn=35|grad=-|typ=|fadatum=2007-09-13|text=}}
+|}
+==Q. Kuben==
+[http://ostersundskk.se/svarthogen/Kuben/kuben.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=2|namn=2|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=4|namn=4|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=5|namn=5|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=6|namn=6|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=7|namn=7|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=8|namn=8|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=9|namn=9|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=10|namn=10|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=11|namn=11|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=12|namn=12|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=13|namn=13|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=14|namn=14|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=16|namn=16|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=17|namn=17|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=18|namn=18|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=19|namn=19|grad=-|typ=|fadatum=2007-09-13|text=}}
+|}
+==N. Hyggesstenarna==
+[http://ostersundskk.se/svarthogen/n_hyggesstenarna/hyggesstenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=2|namn=2|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=3|namn=3|grad=5C|typ=Jug|fa=antiprestationsgänget|landning=2|betyg=1|fadatum=2006-06-26|sopad=antiprestationsgänget|startgrepp=ja|text=märkta startgrepp. upp till gaston sedan goa grepp vid urtoppning. höger om areten på den ensamma hyggesstenen innan lägerstenarna.}}
+{{problem|nr=4|namn=4|grad=6A+|typ=Layback,Dyno|fa=?|landning=4|fadatum=2006-06-26|sopad=?|text=vänsterom areten, skick från layback till god sloper. finns statisk trix variant om man är lång(lättare?). sittstarten 6b.}}
+| width="250px" |
+{{problem|nr=10|namn=10|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=11|namn=11|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=15|namn=15|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=16|namn=16|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=17|namn=17|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=19|namn=19|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=21|namn=21|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=22|namn=22|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=23|namn=23|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=24|namn=24|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=25|namn=25|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=26|namn=26|grad=-|typ=|fadatum=2007-09-13|text=}}
+{{problem|nr=27|namn=Räddaren i nöden|grad=6A|typ=Krimp,Dyno|fa=??|landning=5|betyg=2|fadatum=2007-09-14|sopad=??|sittstart=ja|startgrepp=ja|text=}}
+|}
+==G. Matterhorn==
+[http://www.ostersundskk.se/svarthogen/g_matterhorn/g_matterhorn.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=3|namn=3|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=4|namn=4|grad=4B|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=5|namn=5|grad=4B|typ=Highball|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=6|namn=6|grad=4C|typ=|fa=Svarthögen|betyg=1|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+| width="250px" |
+{{problem|nr=7|namn=Thursday problem|grad=6B+|typ=Mantling,Aréte,Heel hook|fa=??|landning=3|betyg=2|fadatum=2007-09-21|sopad=??|sittstart=ja|startgrepp=ja|text=v.h på det stora hornet, h.h på diagonal list. skicka ut mot höger till areten och vidare upp..sittstartsvariant på nr.8}}
+{{problem|nr=8|namn=Do it right|grad=6A|typ=Pinch,Mantling,Aréte|fa=Svarthögen|landning=3|betyg=1|fadatum=2005-10-20|sopad=Svarthögen|startgrepp=ja|text=h.h på areten, v.h på slapp pinch. rakt upp!}}
+| width="250px" |
+{{problem|nr=9|namn=9|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+{{problem|nr=10|namn=I skuggan av Matterhorn|grad=5A|typ=|fa=Svarthögen|landning=4|fadatum=2005-10-20|sopad=Svarthögen|sittstart=ja|text=}}
+{{problem|nr=11|namn=11|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-20|sopad=Svarthögen|text=}}
+|}
+==D. Pingst-stenarna==
+[http://www.ostersundskk.se/svarthogen/d_Pingst/pingststenarna.jpg]
+De röda trianglarna är kameravinklar på bilder som du hittar här: http://www.ostersundskk.se/svarthogen/
+{|
+|- valign="top"
+| width="250px" |
+{{problem|nr=1|namn=1|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-25|sopad=Svarthögen|text=}}
+{{problem|nr=3|namn=3|grad=6A|typ=|fa=F.Olofsson|landning=3|fadatum=2005-10-25|sopad=F.Olofsson|text=}}
+{{problem|nr=4|namn=4|grad=5B|typ=|fa=F.Olofsson|landning=3|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=}}
+{{problem|nr=7|namn=7|grad=5C|typ=Mantling|fa=F.Olofsson|landning=3|fadatum=2005-10-25|sopad=F.Olofsson|text=}}
+{{problem|nr=10|namn=10|grad=5C|typ=|fa=F.Olofsson|landning=4|betyg=2|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=}}
+{{problem|nr=11|namn=11|grad=5A|typ=Mantling,Travers H->V|fa=F.Olofsson|landning=5|betyg=2|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=Starta på samma startgrepp som nr 10 och kliv över kanten på nummer 12.}}
+{{problem|nr=12|namn=12|grad=5A|typ=|fa=F.Olofsson|landning=5|betyg=1|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=}}
+{{problem|nr=13|namn=13|grad=4A|typ=|fa=Svarthögen|landning=5|fadatum=2005-10-25|sopad=Svarthögen|sittstart=ja|text=Används ofta som nedstigning till nr 10-12.}}
+{{problem|nr=14|namn=14|grad=-|typ=Aréte|fa=F.Olofsson|fadatum=2005-10-25|sopad=F.Olofsson|text=}}
+{{problem|nr=17|namn=17|grad=-|typ=|fadatum=2007-09-13|text=}}
+| width="250px" |
+{{problem|nr=20|namn=Bagglund|grad=6A|typ=Krimp,Mantling|fa=F.Olofsson|landning=3|betyg=3|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=}}
+{{problem|nr=21|namn=Ischias|grad=6B|typ=|fa=F.Olofsson|landning=3|betyg=3|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=}}
+{{problem|nr=22|namn=Blöt september|grad=6A|typ=Krimp,Mantling|fa=F.Olofsson|landning=3|betyg=3|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=}}
+{{problem|nr=30|namn=30|grad=5B|typ=Överhäng|fa=A.Nilsson|landning=4|betyg=2|fadatum=2005-10-25|sopad=A.Nilsson|sittstart=ja|text=Samma startgrepp som 31. Gå snett åt höger.}}
+{{problem|nr=31|namn=31|grad=5C|typ=Krimp,Mantling|fa=F.Olofsson|landning=3|betyg=2|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=Samma startgrepp som 30. Gå rakt upp/lite vänster.}}
+{{problem|nr=32|namn=32|grad=5C|typ=|fa=F.Olofsson|landning=3|fadatum=2005-10-25|sopad=F.Olofsson|text=Ståstart för dom som når första greppet. Annars är den riktigt hård!}}
+{{problem|nr=33|namn=33|grad=-|typ=Krimp|fa=Projekt|landning=3|fadatum=2005-10-25|sopad=Projekt|sittstart=ja|text=Öppet projekt. Ej kanten.}}
+{{problem|nr=34|namn=34|grad=4C|typ=|fa=A.Nilsson|fadatum=2005-10-25|sopad=A.Nilsson|text=Kanten. Går att få en något hårdare (krystad) sittstart (ca 6A).}}
+| width="250px" |
+{{problem|nr=35|namn=35|grad=4C|typ=Slab|fa=F.Olofsson|landning=4|fadatum=2005-10-25|sopad=F.Olofsson|text=Kanten ingår.}}
+{{problem|nr=36|namn=36|grad=-|typ=|fa=F.Olofsson|landning=4|fadatum=2005-10-25|sopad=F.Olofsson|text=}}
+{{problem|nr=40|namn=40|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-25|sopad=Svarthögen|text=}}
+{{problem|nr=41|namn=41|grad=5A|typ=|fa=F.Olofsson|landning=3|betyg=2|fadatum=2005-10-25|sopad=F.Olofsson|sittstart=ja|text=Följ hörnet upp.}}
+{{problem|nr=42|namn=42|grad=5A|typ=|fa=F.Olofsson|landning=4|fadatum=2005-10-25|sopad=F.Olofsson|text=}}
+{{problem|nr=50|namn=50|grad=6A|typ=|fa=Svarthögen|landning=3|betyg=3|fadatum=2005-10-25|sopad=Svarthögen|text=}}
+{{problem|nr=51|namn=51|grad=6A|typ=|fa=Svarthögen|landning=3|betyg=3|fadatum=2005-10-25|sopad=Svarthögen|text=}}
+{{problem|nr=52|namn=52|grad=6A|typ=|fa=Svarthögen|landning=3|betyg=3|fadatum=2005-10-25|sopad=Svarthögen|text=Följ kanten upp.}}
+{{problem|nr=53|namn=53|grad=-|typ=|fa=Svarthögen|fadatum=2005-10-25|sopad=Svarthögen|text=}}
+|}
+==U. udden==
+
+{|
+|- valign="top"
+| width="250px" |
+{{problem|namn=Slim Line(nästan)|grad=7A|typ=Krimp,Dyno,Spricka|fa=Johan E & Mikael A|landning=3|betyg=3|fadatum=2007-05-25|sopad=Johan E & Mikael A|sittstart=ja|startgrepp=ja|text=Startar på listen under överhänget i sprickan, snett upp mot vänster och sedan höger och upp mot juggen till tops. Dubbelmatta är tillåten om man inte når startgreppen}}
+{{problem|namn=Job|grad=7C|typ=Krimp,Slopers,Dyno|fa=Mikael Andersson|landning=2|betyg=3|sopad=Mikael Andersson|sittstart=ja|startgrepp=ja|text=Starta på krimp listen med v hand och h hand på underhandsgrepp. dyna ut mot höger arete, sedan rakt upp.}}
+{{problem|namn=Stiff upper lip|grad=7B|typ=Slopers,Dyno,Travers V->H,Heel hook|fa=Mikael|landning=2|betyg=2|fadatum=2007-08-20|sopad=Mikael|sittstart=ja|startgrepp=ja|text=Startar i vänster hörn på Job stenen. Travers i den slappa kanten till högsta punkt och upp. Fin!}}
+{{problem|namn=Urda(ss)|grad=7B+|typ=Krimp,Slopers,Pinch,Reach,Heel hook|fa=Mikael Andersson|landning=3|betyg=2|fadatum=2007-06-30|sopad=Mikael Andersson|sittstart=ja|startgrepp=ja|text=Starta med händerna på hyllan, följ rakaste linjen upp. Udden, hygget.}}
+{{problem|namn=Emmanuel´s Kant|grad=7A+|typ=Krimp,Slopers,Dyno,Highball,Aréte|fa=Mikael Andersson|landning=3|betyg=3|fadatum=2007-06-30|sopad=Mikael Andersson|text=Follow the obvious line! Vackert}}
+| width="250px" |
+{{problem|namn=Urda|grad=7B|typ=Krimp,Slopers,Pinch,Highball,Heel hook|fa=Mikael Andersson|betyg=2|fadatum=2007-06-30|sopad=Mikael Andersson|startgrepp=ja|text=Starta på gaston(H) och pinch(V) och den rakaste linjen upp!}}
+{{problem|namn=Arbetarpojken|grad=7A+|typ=Krimp,Dyno|fa=Johan Edman|landning=3|betyg=2|fadatum=2007-09-19|sopad=Johan Edman|sittstart=ja|startgrepp=ja|text=starta på hornet, rakt upp vidare!}}
+{{problem|namn=Grottbjörnen|grad=7A+|typ=Krimp,Travers V->H,Heel hook|fa=Johan Edman|landning=4|fadatum=2007-09-19|sopad=Johan Edman|sittstart=ja|startgrepp=ja|text=startar på andra sidan stenen om Emmanuel´s Kant. Start under stenen, trav mot öger och upp areten.}}
+{{problem|namn=?|grad=6B|typ=Krimp,Mantling|fa=??|landning=3|betyg=2|fadatum=2007-09-19|sopad=??|sittstart=ja|startgrepp=ja|text=Klättra till vänster om hörnet!}}
+{{problem|namn=??|grad=5C|typ=|fa=??|landning=3|fadatum=2007-09-19|sopad=??|sittstart=ja|startgrepp=ja|text=Hörnet}}
+{{problem|namn=Soft läpp|grad=5C|typ=Travers V->H|fa=Fredrik Westberg|landning=4|betyg=2|fadatum=2007-09-28|sopad=Fredrik Westberg|sittstart=ja|text=I vänster hörn av Jobstenen, följ kanten mot vänster. Svårare (och lite läskigare) att följa kanten hela vägen till topps.}}
+{{problem|namn=Rut|grad=6A|typ=|fa=Fredrik Westberg|landning=4|betyg=1|fadatum=2007-09-28|sopad=Fredrik Westberg|text=Den lätt överhängande väggen till vänster om Soft... Start på tunn list, sikta på kanten och kör.}}
+| width="250px" |
+{{problem|namn=Ester|grad=5C|typ=|fa=Fredrik Westberg|landning=3|betyg=1|fadatum=2007-09-28|sopad=Fredrik Westberg|sittstart=ja|text=Areten till vänster om Rut, uppåt.}}
+{{problem|namn=Obadja|grad=6C|typ=|fa=Fredrik Westberg|landning=3|betyg=2|fadatum=2007-09-28|sopad=Fredrik Westberg|sittstart=ja|text=Till vänster om Ester. Låg start med undercling för höger hand (eller vänster minns inte riktigt), trevligt avslut på slabbiga grepp.}}
+{{problem|namn=Frostnupen|grad=5C|typ=|fa=Fredrik Westberg|landning=3|betyg=2|fadatum=2007-09-28|sopad=Fredrik Westberg|sittstart=ja|text=Längst till höger på blocket bakom den största stenen vid vattnet. Följ den uppenbara och finfina linjen till topps.}}
+{{problem|namn=Theos|grad=6A|typ=|fa=Fredrik Westberg|landning=5|betyg=1|fadatum=2007-09-28|sopad=Fredrik Westberg|text=Till vänster om Frostnupen.}}
+{{problem|namn=Noralinns|grad=7A|typ=|fa=fredrik westberg|landning=5|betyg=3|fadatum=2007-09-28|sopad=fredrik westberg|sittstart=ja|text=Vänster om Theos. Fin listklättring på svagt överhängande vägg, rekommenderas.}}
+|}
+=Problem=
+{{problem|nr=1|namn=1|grad=-|typ=|fa=Team Svarthögen|landning=3|fadatum=2005-10-20|sopad=Team Svarthögen|text=}}
+
+[[Kategori:Östersund]]
+[[Kategori:Bouldering]]
+[[Kategori:Bimbo]]
+[[Kategori:Behöver kvalitetssäkras]]
+[[Kategori:Saknar karta]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar skrivarformattering]]
+[[Kategori:Saknar skiss]]

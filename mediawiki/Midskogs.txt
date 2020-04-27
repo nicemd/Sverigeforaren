@@ -1,0 +1,212 @@
+{{info klippa
+  |lat=62.303020
+  |long=17.303700
+}}
+
+{{utkast}}
+==Allmänt==
+En klippa som erbjuder lite av varje, sport, mix, trad, långt kort, sva, överhäng, lätt och svårt. Ett perfekt ställe för ett gäng med lite olika preferenser.
+
+==Vägbeskrivning==
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap lat="62.303020" lon="17.303700" zoom="11" type="map">
+62.303020,17.303700,Midskogs
+</googlemap>
+</div>
+Sväng av E4:an mot Matfors/Nolby. Kommer du söderifrån är detta strax innan Kvissleby. Åk genom samhället (Nolby), och fortsätt 4km. När klippan syns på höger sida av vägen fortsätter du 150m till en parkeringsficka på vänster sida. Gå tillbaks en bit längst vägen så går en stig in till Stora Väggen. Ingen anmarch att tala om.
+
+==Camping==
+Tidigare fanns det ett vindskydd ovanför '''Lägerväggen''', men det brann ner hösten 2007. Det går fortfarande bra att tälta där. Tyvärr finns ingen tillgång till vatten, men eftersom klippan ligger så nära vägen så är det definitivt inget problem att bära upp vatten från bilen.
+
+==Access {{access}} ==
+Under december 2007 slöt Skogsvårdsstyrelsen och fastighetsägarna av Midskogsberget ett naturvårdsavtal. Var uppmärksam på häckande fåglar etc för att säkerställa accessen till berget. All avverkning av stora eller små träd, samt sly förbjuden utan att man först kontaktar styrelsen i [http://www.sundsvallsklatterklubb.se Sundsvalls Klätterklubb]. Läs mer på klubbens [http://www.sundsvallsklatterklubb.se/forum/viewtopic.php?f=2&t=108 forum om hur man går tillväga och vad som gäller].
+
+==Bouldering==
+Det finns en del bouldering vid midskogsklippan. Alla problem finns inlagda på [http://www.sverigeforaren.se/index.php/Kategori:Bimbo BIMBO]. De flesta boulderproblemen ligger på block nedanför Stora väggen.
+
+'''2008-02-25 fanns det''' <br>
+*'''Totalt''' 64 problem <br>
+*'''Upp till 5C''' 20 problem <br>
+*'''6A till 6C+''' 33 problem <br>
+*'''7A till 7C+''' 11 problem <br>
+
+==Leder==
+'''2011-05-12 fanns det''' <br>
+*'''Totalt''' 86 leder <br>
+*'''Upp till 5c''' 23 leder <br>
+*'''6a till 6c+''' 38 leder <br>
+*'''7a till 7c+''' 21 leder <br>
+*'''8a till 8c+''' 4 leder <br>
+
+===1. Pelarväggen===
+[[Bild:midskogs.png|frame|<center>1.Pelarväggen 2.Övre väggen 3.Svaväggen <br>4.Primusväggen 5.Stora väggen 6. Lägerväggen 7. Solväggen</center>]]
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Jitterbugg|nr=|grad=7-|betyg=1|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=2|typ=mix}}
+{{led|namn=Houdini|grad=5|betyg=0|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=|typ=trad|text=Stor spricka.}}
+{{led|namn=(Namnlös spricka)|grad=5|betyg=0|längd=|fa=[[?]] [[?|-?]]|bultar=|typ=trad|text=Gemensamt andra halva med Belzeebub.}}
+{{led|namn=Belzeebub|grad=5+|betyg=0|längd=|fa=[[Patriq Backlund]] [[1993|-93]]|bultar=2|typ=mix}}
+{{led|namn=Nerurotisk odysse'|grad=6+|betyg=0|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=|typ=trad|text=Följ blocket något till vänster. Lös.}}
+| width=300px|
+{{led|namn=Bancho|grad=6+|betyg=1|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=|typ=trad|text=Spricka genom ett tak.}}
+{{led|namn=Bancho direkt|grad=6|betyg=0|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=|typ=trad|text=Alternativt utsteg till Bancho.}}
+{{led|namn=Typhonen|grad=6+/7-|betyg=1|längd=|fa=[[Ove Dalsegg]] [[1989|-89]]|bultar=2|typ=mix|text=Svårsäkrad efter andra BB.}}
+{{led|namn=II|grad=5|betyg=0|längd=|fa= [[?|-?]]|bultar=|typ=trad|text=Svårsäkrad.}}
+|}
+
+===Spetsbergen===
+{{led|namn=Utsikten |grad=5+|betyg=0|längd=|fa= [[1993|-93]]|bultar=|typ=trad|text=Följ sprickan upp. Vik till vänster innan du når hyllan. Följ sprickan till toppen.}}
+
+===2. Övre väggen===
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Nollsjuingen|grad=5|betyg=0|längd=|fa=[[Christian Söderberg]] [[1989|-89]]|bultar=|typ=trad|text=Avslutas på trädhyllan.}}
+{{led|namn=Nollåttingen|grad=4+|betyg=0|längd=|fa=[[?]] [[?|-?]]|bultar=|typ=trad|text=Gemensamt utsteg med Frågetecknet och utropstecknet.}}
+| width=300px|
+{{led|namn=Frågetecknet|grad=5-|betyg=0|längd=|fa=[[Thomas Edström]] [[1989|-89]]|bultar=|typ=trad|text=Gemensamt utsteg med Nollåttingen och Utropstecknet.}}
+{{led|namn=Utropstecknet|grad=5-|betyg=0|längd=|fa=[[Kenth Bergqvist]] [[1991|-91]]|bultar=|typ=trad|text=Gemensamt utsteg med Nollåttingen och Frågetecknet.}}
+|}
+
+===3. Svaväggen===
+Väldigt fint sva för nybörjaren. Lederna är relativt långa, tätbultade och snällt graderade.<br>(Från vänster till höger)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Na palm|grad=4|typ=sport|längd=17|betyg=1|bult=7|fa=|text=Ankare}}
+{{led|namn=Jinx palm|grad=3+|typ=sport|längd=17|betyg=1|bult=7|fa=|text=Ankare}}
+{{led|namn=Fut palm|grad=4+|typ=sport|längd=20|betyg=1|bult=10|fa=|text=Ankare}}
+| width=300px|
+{{led|namn=Sexstuga i Sörmjöle|grad=4+|typ=sport|längd=20|betyg=1|bult=11|fa=|text=Ankare}}
+{{led|namn=Valfläsk|grad=5-|typ=sport|längd=20|betyg=1|bult=9|fa=|text=Ankare}}
+|}
+[[Kategori:Lämplig för nybörjare]]
+
+===4. Primusväggen===
+Låg vägg med några bultade microleder.
+[[Bild:Primusvaggen .png]]
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Leprachaun|grad=6b+|betyg=1|längd=7|fa=[[Jocke Svedberg]], [[Ola Lindström]] [[1993|-93]]|bultar=2|typ=Sport|text=Ligger 10m t v om primusväggen.}}
+{{led|namn=Phenomena|grad=7a|betyg=0|längd=7|fa=[[Dag Knutsson]] [[2005]]|bultar=3|typ=sport}}
+{{led|namn=Stresspress|grad=7b+|betyg=0|längd=7|fa=[[Per Wermelin]] [[2008|-08]]|bultar=2|typ=sport}}
+{{led|namn=Frizzle and fry|grad=7b|betyg=1|längd=7|fa=[[Daniel Nordström]] [[1993|-93]]|bultar=2|typ=mix}}
+| width=300px|
+{{led|namn=Harold on the rocks|grad=7b|betyg=1|längd=7|fa=[[Daniel Nordström]] [[1993|-93]]|bultar=3|typ=sport}}
+{{led|namn=Harold direkt|grad=7b+|betyg=1|längd=7|fa=[[?]] [[?|-?]]|bultar=3|typ=sport}}
+{{led|namn=Porksoda|grad=6c+|betyg=0|längd=7|fa=[[Daniel Nordström]] [[1993|-93]]|bultar=2|typ=sport}}
+{{led|namn=Timglaset|grad=6+|betyg=0|längd=7|fa=[[Jocke Svedberg]] [[1993|-93]]|bultar=1|typ=sport|text=Ligger 10m t h om primusväggen}}
+|}
+
+===5. Stora väggen===
+(Från vänster till höger.)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Cubicle|grad=7a+|betyg=0|längd=6|fa=[[Peter Nilsson & Dag K]], [[2007]]|bultar=3|typ=sport}}
+{{led|namn=Rubricon|grad=7b+|betyg=0|längd=|fa=[[Dag Knutsson]], [[2007]]|bultar=?|typ=sport}}
+{{led|namn=Berguven|grad=5|typ=trad|längd=40|betyg=0|bultar=0|fa=[[Kenth Bergqvist]], [[1993]]|text=}}
+{{led|namn=Ångest i januari|grad=6-|typ=trad|längd=|betyg=0|bultar=0|fa=[[Ove Dalsegg]], [[1989]]|text=}}
+{{led|namn=Hall of fame|grad=7b|typ=sport|längd=20|betyg=0|bultar=9|fa=[[Fredrik Bodin]], [[2003]]|text=Americaankare}}
+{{led|namn=No FX|grad=6c|typ=sport|längd=20|betyg=3|bultar=7|fa=[[Daniel Nordström]], [[1993]]|text=Ankare}}
+{{led|namn=Jack the ripper|grad=8-/8|typ=mix|längd=|betyg=0|bultar=0|fa=[[Per Wermelin]], [[2002]]|text=Ankare}}
+{{led|namn=20 flakmeter|grad=6b+/6b|betyg=1|längd=|fa=[[Johan Hedman]], [[2012]]|bultar=8|typ=sport}}
+{{led|namn=Semtex|grad=6a|typ=|längd=27|betyg=3|bultar=12|fa=[[Mattias Andersson]], [[1992]]|text=ankare, funkar också att tradda, framsopad igen 2012}}
+{{led|namn=Fulingen|grad=6c+|typ=sport|längd=19|betyg=2|bultar=7|fa=[[Fredrik Bodin]], [[2002]]|text=Ankare.}}
+{{led|namn=Surdansken|grad=6a|typ=sport|längd=19|betyg=2|bultar=8|fa=[[Mattias Andersson]], [[1992]]|text=Ankare.Hård för graden.}}
+{{led|namn=Kingsize|grad=6b+|typ=sport|längd=26|betyg=3|bultar=12|fa=[[Peter Nilsson]],  [[2007]]|text=Varierad och mycket fin väggklättring, nästan extremt välbultad. Bult 12 en bastant kembult om man inte vill göra de avslutande, något enklare (men lika fina) metrarna upp till ankaret/firningsstationen.}}
+{{led|namn=Omelett|grad=6a+/b|typ=sport|längd=20|betyg=2|bultar=8|fa=[[Johan Hedman]],  [[2013]]|text=Ankare}}
+{{led|namn=Det sorglösa syndikatet|grad=7b+|typ=sport|längd=20|betyg=|bultar=|fa=[[Dag Knutsson]], [[2007]]|text=Ankare.}}
+{{led|namn=För fet (för ett fuck)|grad=5+|typ=trad|längd=|betyg=0|bultar=0|fa=[[Ove Dalsegg]], [[1990]]|text=Seriös}}
+{{led|namn=Rosvå|grad=7c|typ=sport|längd=22|betyg=0|bultar=7|fa=[[Kari N]], [[2002]]|text=Ankare.}}
+{{led|namn=Pultti|grad=7b+|typ=sport|längd=22|betyg=2|bultar=8|fa=[[Fredrik Bodin]], [[2003]]|text=Americaankare.}}
+{{led|namn=Silence sucks|grad=7a|typ=sport|längd=22|betyg=2|bultar= ca 8*2|fa=[[Daniel Nordström]], [[?]]|text=Ankare. Retrobultad. Klipp bara de nya bultarna för bästa upplevelsen.}}
+{{led|namn=Double Trouble|grad=8a|typ=sport|längd=25|betyg=2|bultar=0|fa=[[Mikael Andersson]], [[2011]]|text=Leden börjar till vänster om Milestone och korsar därefter Silence Sucks och avslutas därefter i Rosvå.}}
+| width=300px|
+{{led|namn=Milestone|grad=8a|typ=sport|längd=25|betyg=2|bultar=9|fa=[[Fredrik Bodin]], [[2002]]|text=Gemensamt ankare med Elvis.}}
+{{led|namn=2 miles 2 graceland|grad=8a+|typ=sport|längd=25|betyg=|bultar=|fa=[[Urban Dufva, Bultad av Fredrik Bodin samt Bröderna Knutsson]], [[2008?]]|text=Startar som Milestone och går över till Graceland.}}
+{{led|namn=Elvis|grad=7c+|typ=sport|längd=25|betyg=2|bultar=0|fa=[[KN]], [[?]]|text=Gemensamt ankare med Milstone.}}
+{{led|namn=Lill-Elvis|grad=7b|typ=sport|längd=15|betyg=2|bultar=6|fa=[[KN]], [[?]]|text=Slutar vid det första ankaret på Elvis}}
+{{led|namn=Graceland|grad=8a|typ=sport|längd=25|betyg=3|bultar=ca 12|fa=[[Dag Knutsson]], [[2007]]|text=Gemensam start med Lill-Elvis men fortsätter rakt upp från ankaret.}}
+{{led|namn=Primus|grad=6c+|typ=sport|längd=8|betyg=0|bultar=4|fa=[[DN]], [[1993]]|text=Ankare}}
+{{led|namn=Tommy the Cat|grad=6b+|typ=sport|längd=12?|betyg=2|bultar=?|fa=[[?]], [[?]]|text=Startar på den stora hyllan ovanför Primus ankare. Ankare}}
+{{led|namn=Missing link|grad=7b+|typ=sport|längd=20?|betyg=0|bultar=?|fa=[[Fredrik Bodin]], [[?]]|text=Förlängning av Primus som avslutar i Tommy the Cat. Ankare}}
+{{led|namn=Mer olja än mellanöstern|grad=6c|typ=sport|längd=8|betyg=0|bultar=5|fa=[[?]], [[2007]]|text=Ankare.}}
+{{led|namn=Superchoss|grad=6a|typ=sport|längd=8|betyg=0|bultar=5|fa=[[Peter Nilsson]], [[2007]]|text=Ankare}}
+{{led|namn=Supercat|grad=7b|typ=sport|längd=20?|betyg=0|bultar=?|fa=[[Per Wermelin/Johan Hedman]], [[2011]]|text=Linkup som startar i Superchoss och slutar i Tommy the Cat. Ankare}}
+{{led|namn=Milky way|grad=6b|typ=sport|längd=18|betyg=2|bultar=10|fa=[[Olof Bjerke, bultad av Olof och Johan Hedman]], [[2009]]|text=Ankare}}
+{{led|namn=Surjämten|grad=5a|typ=sport|längd=18|betyg=2|bultar=10|fa=[[ ]], [[Retrosopad 2011]]|text=Ankare , gemensammma 2 första bultar med milky way}}
+{{led|namn=Baragon|grad=6a|typ=sport|längd=25|betyg=2|bultar=12|fa=[[Anders Lidström]], [[2011]]|text=Ankare, en liten travers vänster efter tredje bult}}
+{{led|namn=Baragon direkt|grad=6b|typ=sport|längd=25|betyg=2|bultar=11|fa=[[Anders Lidström]], [[2011]]|text=Ankare, går rakt upp}}
+{{led|namn=Manu forever|grad=6a|typ=sport|längd=25|betyg=2|bultar=10-11|fa=[[Johan Hedman]], [[2009]]|text= }}
+{{led|namn=Klättersekten|grad=6c|typ=sport|längd=15|betyg=|bultar=8|fa=[[Johan Hedman]], [[2011]]|text=Ankare}}
+{{led|namn=Master Mo|grad=4|betyg=2|längd=15|fa=[[Johan Hedman]] [[2011|2011]]|bultar=9|typ=sport|text=Går uppe i ravinen, mitt emot Hellbent.}}
+|}
+
+[[Bild:Stora vaggen midskogs1.jpg|735px]]
+
+===6. Lägerväggen===
+Den uppbrutna väggen som ligger närmast vägen. <br>
+[[Bild:DSC 0028 as Smart Object-1.jpg|200 px|thumb|Andre Lilja klättrar Topgun på topprep.<br />Foto: Olof Bjerke]]
+(Från vänster till höger)
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Samhain|grad=6b+|typ=sport|längd=10|betyg=0|bult=4|fa=[[Daniel Nordström]][[1990]]|text=}}
+{{led|namn=Punchklubben|grad=7b+|betyg=|längd=8|fa=[[Fredrik Bodin]] [[2007|-07]]|bultar=|typ=sport|text=Går på mitten av väggen till vänster om Rasputin. Tunn & tung.}}
+{{led|namn=Rasputin|grad=7+|typ=trad|längd=10|betyg=0|bult=0|fa=[[Ove Dalsegg]][[1990]]|text=}}
+{{led|namn=Blixtgordon|grad=6b|typ=sport|längd=14|betyg=0|bult=0|fa=[[Per Wermelin]][[2002]]|text=Ankare.}}
+{{led|namn=Svarta Sara|grad=6-|typ=trad|längd=6|betyg=0|bult=0|fa=[[OL]][[1993]]|text=}}
+{{led|namn=Vedspisen|grad=5a|typ=sport|längd=20|betyg=1|bult=0|fa=[[SvH]][[1993]]|text=Retrobultad 2008 och nu en bra och lätt sporttur.}}
+{{led|namn=Järnkaminen|grad=7|typ=Mix|längd=20|betyg=0|bult=1|fa=[[PN]][[2002]]|text=}}
+{{led|namn=Bultextra|grad=4|typ=sport|längd=20|betyg=0|bult=6|fa=[[Per Wermelin]][[2002]]|text=Ankare.}}
+{{led|namn=Martini|grad=6-|typ=trad|längd=22|betyg=0|bult=0|fa=[[MK]][[1990]]|text=}}
+{{led|namn=Mjöd|grad=6-|typ=trad|längd=|betyg=0|bult=0|fa=[[MK]][[1990]]|text=}}
+{{led|namn=Bits inte|grad=7a|typ=sport|längd=17|betyg=0|bult=7|fa=[[Fredrik Bodin]][[2002]]|text=Ojämn led som ändå är ganska kul. Areteklättring. Ankare.}}
+{{led|namn=Bits|grad=6|typ=mix|längd=|betyg=0|bult=2|fa=[[DN]][[1993]]|text=}}
+| width=300px|
+{{led|namn=SWABLR|grad=5c|typ=sport|längd=|betyg=1|bult=0|fa=[[PB]],[[UN]] [[1990]]|text=}}
+{{led|namn=Kylan värmer bäst|grad=6a|typ=sport|längd=|betyg=2|bult=0|fa=[[Daniel Nordström]] [[1990]]|text=}}
+{{led|namn=De' vete faan|grad=6c|typ=sport|längd=|betyg=0|bult=3|fa=[[Daniel Nordström]] [[1993]]|text=}}
+{{led|namn=Det var på tiden|grad=6b|typ=sport|längd=|betyg=0|bult=2|fa=[[LN]] [[1993]]|text=}}
+{{led|namn=Hockeystress|grad=6b|typ=sport|längd=|betyg=1|bult=5|fa=[[Per Wermelin]] [[2003]]|text=}}
+{{led|namn=Top Gun|grad=5a|typ=sport|längd=14|betyg=1|bult=5|fa=[[Per Wermelin]] [[2002]]|text=Avslutas i det lilla diedret. Ankare.}}
+{{led|namn=Mission impossible|grad=7-|typ=mix|längd=14|betyg=0|bult=3|fa=[[SvH]] [[1993]]|text=}}
+{{led|namn=Bara bult|grad=5b|typ=sport|längd=8|betyg=0|bult=5|fa=[[Fredrik Bodin]] [[2002]]|text=Följer bultlinjen utan att använda sprickan till höger.}}
+{{led|namn=Oj|grad=4|typ=sport|längd=8|betyg=0|bult=4|fa=[[Per Wermelin]] [[2002]]|text=}}
+|}
+
+===7. Solväggen===
+Ett nyutvecklat klipparti som ligger till höger om stora väggen.<br>
+[[Bild:Gömda topo.jpg|735px]]<br>
+{|
+|- valign="top"
+| width=300px|
+{{led|namn=Hellbent|nr=1|grad=7a|betyg=|längd=7|fa=[[Peter Nilsson]] [[2007|-07]]|bultar=|typ=sport|text=Går uppe i ravinen.}}
+{{led|namn=Vårsnö|nr=1|grad=6c|betyg=1|längd=8|fa=[[Johan Hedman]] [[2012|-12]]|bultar=|typ=sport|text=Startar i gropen mellan hellbent & jan glimmer, upp från sandstensgrepp genom taket upp igenom diedret.}}
+
+{{led|namn=Jan Glimmer|nr=2|grad=6b+|betyg=2|längd=10|fa=[[Peter Nilsson]] [[2007|-07]]|bultar=|typ=sport|text=Följer väggens vänstra arréte. ''Jan Glimmer'' som är den lättare av 2 leder viker ut på vänstersidan av arréten efter 4;e bulten medans den hårdare ''Krystal Steal'' går på stora väggen som vätter mot vägen.}}
+{{led|namn=Krystal Steal|nr=3|grad=7b|betyg=|längd=10|fa=[[Peter Nilsson]] [[2007|-07]]|bultar=|typ=sport|text=Följer väggens vänstra arréte. Går på stora väggen som vätter mot vägen. Tunn & trixig.}}
+{{led|namn=Skuggspel|grad=7b+|betyg=|längd=10|fa=[[Mikael Andersson]] [[2011|-11]], sopad av [[Fredrik Bodin]] bultad av [[Peter Nilsson]] |text=Tunn väggklättring.}}
+{{led|namn=Nightpusher|nr=|grad=6b+|betyg=1|längd=10|fa=[[Johan Hedman]] [[2009|-09]]|bultar=|typ=sport|text=Startar i hörnet mellan Krystal steal och Monomania.}}
+{{led|namn=Monomania|nr=4|grad=7a+|betyg=|längd=8|fa=[[Dag Knutsson]] [[2007|-07]]|bultar=|typ=sport|text=Går på aréten som är på mitten av väggen. Kan upplevas obehaglig men är välsäkrad.}}
+{{led|namn=Back on track|nr=5|grad=7a+|betyg=1|längd=8|fa=[[Fredrik Bodin]] [[2007|-07]]|bultar=|typ=sport|text=Startar i en tydlig spricka några meter till höger om arêtet.}}
+| width=300px|
+{{led|namn=Born this way|nr=|grad=6c|betyg=0|längd=8|fa=[[Per Wermelin]] [[2011]]|bultar=?|typ=sport|text=Startar till höger om Back om track.}}
+{{led|namn=Fuckin' Nattarbete|nr=|grad=6a|betyg=|längd=12|fa=[[Jonas Bäckström]] [[2009|-09]]|bultar=|typ=sport|text=Startar till höger om Back on track.}}
+{{led|namn=Stäm upp|nr=|grad=6a+|betyg=1|längd=12|fa=[[Johan Hedman]] [[2010|2010]]|bultar=|typ=sport|text=Startar i diedret till höger om Nattarbete.}}
+{{led|namn=Hatchi Batchi|grad=7a|betyg=1|längd=17|fa=[[Johan Hedman]] [[2010|2010]]|bultar=|typ=sport|text=Leden till höger om "Stäm upp" Går på aréten upp till samma ankare som Stäm upp.}}
+{{led|namn=Frostbiten|grad=6b|betyg=1|längd=17|fa=[[Johan Hedman]] [[2011|2011]]|bultar=|typ=sport|text=Leden till höger om hatchibatchi aretet}}
+{{led|namn=Pocket Rocket|grad=6a|betyg=1|längd=|fa=[[?]][[2011|2011]]|bultar=3|typ=sport|text=Leden till höger om Frostbiten. Pocketklättring, som sedan leder till aretklättring.}}
+
+[[Category:Medelpad]]
+
+
+
+
+
+
+[[Kategori:sport]] [[Kategori:trad]] [[Kategori:sva]] [[Kategori:vertikalt]] [[Kategori:överhäng]]
+[[Kategori:Medelpad]]

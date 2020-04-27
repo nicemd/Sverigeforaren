@@ -1,0 +1,31 @@
+{{utkast}}
+==Allmänt==
+Klippformationer på det vidsträckta bergsmassivet söder om Torsberget. Här finns två branta väggar som ligger i vinkel mot varandra. Ett par fina leder, varav en är en liten pärla! 
+Närheten till Grönbrinksberget gör klippan väl värd ett besök. Några lättare turer finns kvar att göra.
+
+==Miljö==
+Skuggigt sydläge. Ingenting för en fuktig dag.
+
+==Vägbeskrivning:==
+Som för Torsberget men fortsätt vägen fram ytterligare ca 500 m till en liten äng på vänster sida. Gå över ängen, klippan ligger inne i skogen vid ängens bortre ände.
+
+Gamla koordinater: '''9 I NV 496144'''
+
+==Leder==
+===Sydväggen===
+I väggens vänstra del finns en bred spricka, ännu så länge oklättrad!
+
+{{led|nr=1|namn=En obetydlig story|grad=5+|längd=12|fa=[[Lars Svadängs]], [[Claes Jelinek]], [[Jerker Fredholm]] [[-84]]}}
+{{litentext|text= Den diagonala sprickan klättrades -95 av Mikael Erikssson och Börje Svedman, grad 4+.}}
+{{led|nr=2|namn=För mycket för en man|grad=6-|längd=16|fa=[[Lars Svadängs]], [[Niklas Björnerstedt]], [[Björn Alber]] [[-89]]}}
+{{led|nr=3|namn=Den breda vägen|grad=3|längd=|fa=[[Börje Svedman]], [[Annika Ekwall Svedman]] [[-95]]}}
+{{led|nr=4|namn=Käring, 41|grad=6|längd=16|fa=[[Jeremy Sheehan]], [[Claes Jelinek]], [[Ingemar Gustafsson]] [[-87]]}}
+{{led|nr=5|namn=Lidandets varaktiga lätthet|grad=6|längd=16|fa=[[Niklas Björnerstedt]], [[Lars Svadängs]], [[Björn Alber]] [[-89]]}}
+
+=== Västväggen===
+Detta väggparti avslutas åt h med en tydlig arête.
+{{led|nr=6|namn=Det är serverat|grad=6-|längd=18|fa=[[Björn Alber]], [[Lars Svadängs]], [[Niklas Björnerstedt]] [[-89]]}}
+{{led|nr=7|namn=Aldrig mer|grad=6-|längd=18|fa=[[Björn Alber]], [[Jeremy Sheehan]], [[Lars Svadängs]] [[-87]]}}
+{{led|nr=8|namn=Slinka, 30|grad=5+|längd=18|fa=[[Jeremy Sheehan]], [[Björn Alber]], [[Lars Svadängs]] [[-87]]}}
+
+[[Kategori:Stockholm]] [[Kategori:Fituna]] [[Kategori:Oklättrat]] [[Kategori:Trad]] [[Kategori:Saknar karta]] [[Kategori:Gamla koordinater]]

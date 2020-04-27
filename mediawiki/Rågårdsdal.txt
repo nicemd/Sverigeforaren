@@ -1,0 +1,56 @@
+{{utkast}}
+{{info klippa
+  |lat=58.3983
+  |long=11.4133
+}}
+
+== Allmänt ==
+En av de få lite lättare klipporna i Bohuslän, som tillsammans med [[Brappersberget]] och [[Nordens ark]] utgör en perfekt ingång till de Bohuslänska sprickorna för den nyexaminerade klättraren. En och annan möjlighet till fina jam.
+
+Besökaren rekommenderas en promenad ner till [[Ulorna]] för ett dopp och för att njuta av den vackra miljön.
+
+== Karaktär ==
+Flack, kompakt klippa med ett flertal spricksystem rakt upp. Mycket lättillgänglig från grusvägen som också utgör anmarch till det mer spektakulära [[Ulorna]]. Generellt sett välsäkrat. Höjden ligger runt 17 meter. Solen ligger på mot berget på eftermiddagen, men säkringsmannen står skuggad av träd.
+
+== Vägbeskrivning ==
+<googlemap lat="58.3983" lon="11.4133" zoom="11" type="karta">
+58.3983,11.4133,Rågårdsdal
+
+</googlemap>
+
+Parkera i fickan strax innan hamnen, inte vid klippan!
+{{tryckt förare|klätterguide bohuslän (2002)=ja}}
+
+
+Upp och nedstigning till fots gör man bäst till vänster om Pigger.
+ 
+{{led|namn=Pigger|grad=4|betyg=|längd=12
+ |typ=trad|text=Diedret i klippans vänsterkant.}}
+
+{{led|namn=Toker och Trötter|grad=4+|betyg=|längd=14
+ |typ=trad|text=Bakom en björk, ca 10 m höger om föregående led.|fa=}}
+
+{{led|namn=Toker och Glader|grad=4+|betyg=|längd=19
+ |typ=trad|text=}}
+
+{{led|namn=Trötter vaknar till|grad=5+|betyg=|längd=17
+ |typ=trad|text=}}
+
+{{led|namn=Drömmar om snövit|grad=4|betyg=1|längd=17
+ |typ=trad|text=}}
+
+{{led|namn=Snövits förbannelse|grad=6-|betyg=2|längd=17|typ=trad|text=Börjar 1 meter till vänster om Drömmar om snövit, en mantling upp på goda grepp, fortsätt i fingersprickan rakt upp till ett catch på slopers och en mantling upp på dessa.Rakt upp i handsprickan(sprick system) till toppen. |fa=FB Kent Nielsen 110605}}
+
+{{led|namn=Till de utpsykade cragråttorna|grad=5-|betyg=|längd=17
+ |typ=trad|text=}}
+
+==Access {{access}}==
+* Tänk på ljudnivån med hänsyn till närboende.
+* Parkera bara vid hamnen, och kör absolut inte in till klippan på grusvägen.
+
+[[category:Topprep]]
+[[category:trad]]
+[[category:saknar_skiss]]
+[[Kategori:Bohuslän]]
+[[Kategori:Barnvänligt]]
+[[Kategori:Sva]]

@@ -1,0 +1,23 @@
+{{info klippa
+  |lat=58.3565
+  |long=15.735
+}}
+
+{{stub|extern=ja}}
+
+==Allmänt==
+Linköpings närmaste klippa.
+
+==Karta==
+[[Bild:Slattefors.jpg|thumb|300px|right|Per Calleberg gör förstabestigningen av Vi måste skjuta oss ut... (6+), Slattefors 1986. Foto: Per Callebergs arkiv.]]
+
+<googlemap lat="58.3565" lon="15.735" zoom="9" type="map" width="300" height="200">
+58.3565,15.735,Slattefors (Linköping)
+</googlemap>
+
+==Länkar==
+Förare tillhandahållen av [http://linkopingsklatterklubb.se/index.php/forare.html Linköpings klätterklubb].
+
+[[Kategori:Östergötland]][[Kategori:vertikalt]][[Kategori:sva]][[Kategori:Sport]][[Kategori:Trad]]
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}

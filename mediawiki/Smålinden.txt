@@ -1,0 +1,18 @@
+{{stub}}
+==Allmänt==
+En hel del nya borrbultade leder finns på Smålinden
+
+==Leder==
+{{led|namn=La Tigress|grad=6a+|typ=sport|gruv=|längd=|ny=|text=|fa=[[??]] [[??]]}}
+{{led|namn=Den sista sommaren|grad=6b|typ=sport|gruv=|längd=|ny=|text=|fa=[[??]] [[??]]}}
+{{led|namn=Sparkcykeltjuven|grad=7b+|typ=sport|gruv=|längd=|ny=|text=|fa=[[??]] [[??]]}}
+{{led|namn=|grad=projekt|typ=sport|gruv=|längd=|ny=|text=8b?|fa=[[??]] [[??]]}}
+{{led|namn=Xango|grad=8b|typ=sport|gruv=|längd=|ny=|text=|fa=[[??]] [[??]]}}
+{{led|namn=La Cumparcita|grad=8a|typ=sport|gruv=|längd=|ny=|text=|fa=[[??]] [[??]]}}
+{{led|namn=Otacksam bultstrid|grad=7a+|typ=sport|gruv=|längd=|ny=|text=|fa=[[??]] [[??]]}}
+{{led|namn=Jösse halling breakers|grad=7b}}
+{{led|namn=Moms Moms|grad=7|typ=mix}}
+{{led|namn=Moms sportvariant|grad=7a}}
+{{led|namn=Traverse|grad=3}}
+[[Kategori:Bohuslän]]
+{{tryckt förare|klätterguide bohuslän (2002)=ja|klättring i göteborg med omnejd (2012)=ja}}

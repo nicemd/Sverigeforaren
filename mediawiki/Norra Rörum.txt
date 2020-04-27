@@ -1,0 +1,160 @@
+{{info klippa
+  |lat=56.02544230429888
+  |long=13.500051498413086
+}}
+
+{{Komplett}}
+
+<div style="float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width="350" height="350" lat="56.02544230429888" lon="13.500051498413086" zoom="9" type="map" controls="small">
+56.02544230429888,13.500051498413086,Norra rörum
+</googlemap>
+</div>
+
+[[Bild:Nrorum.jpg|350 px|thumb|Nick Baker, [[Klarälven]] 5- (vägg 3 i Norra Rörum)<BR>Foto: [[Användare:Petter Åsander|Petter Åsander]]]]
+
+== Allmänt ==
+Norra Rörum är en mindre klippa i mitten av Skåne, en mil norr om Höör.
+Klättringen är uppdelad på två väggpartier med lite olika karaktär. Den östra väggen är brant och ca 8 meter hög, här klättrar man i sprickor och på vägg med gott om små grepp och lister.
+Sydväggen är mer polerad och lutar svagt inåt, här bjuds på några riktigt fina balansleder.
+Mestadels är det tradklättring som gäller här, men ett antal bultar finns att klippa.
+Toppankare byggs oftast enkelt med hjälp av träd om man har långa slingor eller statiskt rep.
+Anmarschen är lätt och tillgängligheten väl framme vid klippan är bästa tänkbara.
+Klippan ligger i skugga i princip hela dagen.
+
+== Hitta hit ==
+
+'''Från Höör''' kör man norrut på väg 23 mot Sösdala/Hässleholm. Ca 5 km efter Höör tar man av till vänster mot Norra Rörum. Väl inne i Norra Rörum viker man av åt höger mitt inne i byn (vid lanthandeln). Passera kyrkan och fortsätt ut ur byn, vägen går här mellan två stora åkrar. Precis när åkrarna tar slut och skogen börjar (bostadshus på höger sida) går det en liten grusväg in till vänster. Parkera i början på denna (visa hänsyn när du parkerar). Gå in på grusvägen västerut till fots ca 50 meter, där finns på vänster sida en stege över stängslet. Klättra över stegen och gå rakt över ängen tills du kommer upp på en grusväg på andra sidan (den syns redan innan du gått över ängen). Följ denna grusväg till höger ungefär 200m (du passerar en stor grop på vänster sida) tills vägen stöter på en annan nord-syd-gående grusväg. Ta vänster och följ sedan vägen tills du är framme vid klippan och vägens vändplats.
+
+[[Bild:nrorumoversikt20130715.gif]]
+
+== Väggöversikt ==
+[[Bild:nrorum_oversikt.png]]
+
+* 1-3 Södra väggen
+* 4-5 Östra väggen
+* 6-8 Boulder
+
+== Södra väggen ==
+
+===Vägg 1===
+
+[[Bild:nrorum_vagg1.png]]
+
+{{led|nr=1|namn=Ledbesvär|grad=7-|betyg=0|längd=8
+ |fa=Anders "Killing" Meyer 96|bultar=|typ=trad|text=Lätt upp till de två parallella skålarna. Svårsäkrat krux. Utsteg till vänster om grenen. Risk för fall i hylla!}}
+
+{{led|nr=2|namn=Smulan|grad=5|betyg=0|längd=8
+ |fa=Torbjörn Friberg 96|bultar=|typ=trad|text=}}
+
+{{led|nr=3|namn=Kejsarens baksmälla|grad=3|betyg=0|längd=8
+ |fa=Bernt Wagner|bultar=|typ=trad|text=Lätt led på den inte direkt jätteimponerande kanten.}}
+
+===Vägg 2===
+
+I princip alla leder till höger om "Botten upp" är mer eller mindre igenmossade och blockeras av ett stort träd som drar till sig mossa, fukt, löv och annat elände.
+
+[[Bild:nrorum_vagg2.png]]
+
+[[Bild:nrorum_foto_vagg2.jpg|200 px|thumb|Foto av vägg 2, ganska igenvuxen just vid fototillfället]]
+
+{{led|nr=1|namn=Return of the man|grad=6|betyg=1|längd=12
+ |fa=Torbjörna Friberg|bultar=2|typ=mix|text=Insteg på hyllan, vik sedan av åt höger in till den lilla diedern.}}
+
+{{led|nr=2|namn=Drottningens framfall|grad=4-|betyg=0|längd=
+ |fa=Martin Weberg 06|bultar=|typ=trad|text=Start i småsprickor, följ sedan uppbruten klippa rakt upp. Utsteget i sprickan till vänster är kruxet. Osäker gradering.}}
+
+{{led|nr=3|namn=Direktinsteget|grad=7-|betyg=0|längd=14
+ |fa=Claes Cramer|bultar=2|typ=mix|text=Instegsvariant till "Myrslok".}}
+
+{{led|nr=4|namn=Myrslok|grad=6-|betyg=2|längd=14
+ |fa=Benjamin Ehman|bultar=3|typ=sport|text=Gå rakt upp till första bulten. Efter första bb. gå lite snett vänster och sen rakt upp. En av de trevligare lederna i Norra Rörum. Firningsankare.}}
+
+{{led|nr=5|namn=Pissmyrornas hämnd|grad=7-|betyg=2|längd=14
+ |fa=Daniel Ehman|bultar=4|typ=sport|text=Samma insteg som "Myrslok", men där "Myrslok" viker av lite åt vänster fortsätter denna rakt upp och snart kommer ett svakrux. Ganska desperat krux. Firningsankare.}}
+
+{{led|nr=6|namn=Botten upp|grad=5|betyg=|längd=12
+ |fa=Bernt Wagner|bultar=|typ=trad|text=Följ den markanta sprickan hela vägen. Berget är poröst och kan gå sönder om man faller på kilar. svårsäkrad.}}
+
+{{led|nr=7|namn=Mosquito wins|grad=6+|betyg=1|längd=12
+ |fa=Mats Larsson|bultar=1|typ=trad|text=Lätt i början. Lurig och svår att on-sighta!}}
+
+{{led|nr=8|namn=Fribergs & Larssons led|grad=6-|betyg=1|längd=12
+ |fa=Torbjörn Friberg|bultar=2|typ=mix|text=Rolig led mitt på väggen. Bultarna ska kompletteras med kil.}}
+
+{{led|nr=9|namn=Screaming Orgasm|grad=5+|betyg=|längd=12
+ |fa=Bernt Wagner|bultar=|typ=|text=Vägg- och sprickklättring. Sparsamt säkrad i början, men bättre mot slutet.}}
+
+{{led|nr=10|namn=Sumpråtta|grad=6-|betyg=|längd=10
+ |fa=Bernt Wagner|bultar=|typ=trad|text=Krux i starten, säkras med kilar.}}
+
+{{led|nr=11|namn=Skalman|grad=5-|betyg=|längd=8
+ |fa=Benjamin Ehman|bultar=|typ=|text=Går utmed högra hörnet av väggen, sparsamt säkrad.}}
+
+===Vägg 3===
+
+[[Bild:nrorum_vagg3.png]]
+
+{{led|nr=1|namn=Klarälven|grad=5-|betyg=|längd=8
+ |fa=Petter Åsander 06|bultar=|typ=trad|text=Följer först "Baksprickan" upp halvvägs ungefär, sedan viker man av åt vänster förbi ett fint layback. Välsäkrad med kilar och friends. Osäker gradering.}}
+
+{{led|nr=2|namn=Baksprickan|grad=4-|betyg=|längd=8
+ |fa=?|bultar=|typ=trad|text=Följer högra sprickan rakt upp. Välsäkrad med kilar och friends.}}
+
+{{led|nr=3|namn=En myra och en etta|grad=6-|betyg=|längd=8
+ |fa=Claes Cramer|bultar=|typ=trad|text=Klättring upp i en tunn spricka ute på den lilla pelaren. (Osäkert exakt var leden går)}}
+
+== Östra väggen ==
+
+===Vägg 4===
+
+[[Bild:nrorum_vagg4.png]]
+
+{{led|nr=1|namn=Nere för vadsomhelst|grad=4|betyg=|längd=
+ |fa=Petter Åsander 06|bultar=|typ=trad|text=En tydlig lite sick-sackande spricka. Osäker gradering.}}
+
+===Vägg 5===
+
+[[Bild:nrorum_vagg5.png]]
+
+[[Bild:nrorum_foto_vagg5a.jpg|200 px|thumb|Vänstra delen av vägg 5]] [[Bild:nrorum_foto_vagg5b.jpg|200 px|thumb|Högra delen av vägg 5]]
+{{led|nr=1|namn=Börnis bravader|grad=7|betyg=|längd=7
+ |fa=Bernt Wagner 91|bultar=1|typ=sport|text=Väggklättring mitt på vänstra väggen. Säkras med en borrbult.}}
+
+{{led|nr=2|namn=Hot shot|grad=8-|betyg=|längd=7
+ |fa=Bernt Wagner 92|bultar=2|typ=sport|text=Tuff led till höger om "Börnis bravader". Sliter hårt på fingrarna och säkras med två borrbultar.}}Det finns ett direktinsteg som projekt och då håller man sig bara inne på vertikalväggen, alltså inte stora laybacksprickan längst till höger. Grad minst 7b+(8).
+
+{{led|nr=3|namn=Långa bollar på Bengt|grad=7-|betyg=|längd=8
+ |fa=Patrik Lind 92|bultar=1|typ=sport|text=Tung väggklätting med krux på insteget, andra krux vid borrbulten som är enda säkringen.}}
+
+{{led|nr=4|namn=Gröngöling|grad=6-|betyg=|längd=8
+ |fa=Bernt Wagner 91|bultar=0|typ=trad|text=Följer sprickan rakt upp till flaket som viker av åt vänster. Sparsamt säkrad.}}
+
+{{led|nr=5|namn=Raka rör|grad=6|betyg=2|längd=8
+ |fa=Daniel Ehman 91|bultar=0|typ=trad|text=Följer sprickan åt höger. Krux vid utsteget.}}
+
+{{led|nr=6|namn=Bamsefar|grad=6|betyg=|längd=8
+ |fa=Benjamin Ehman 92|bultar=0|typ=trad|text=Rakt upp för väggens högra del. Samma utsteg som "Raka rör", som också är kruxet.}}
+
+{{led|nr=7|namn=Traversen|grad=?|betyg=|längd=
+ |fa=Daniel Ehman, Benjamin Ehman & P Lind 91|bultar=0|typ=trad|text=}}
+
+== Boulderväggarna ==
+
+[[Bild:nrorum_boulders.png]]
+
+{{led|nr=1|namn=Namnlös|grad=?|betyg=|längd=
+ |fa=|bultar=0|typ=|text=Rakt uppför klippan, till höger om det lilla hörnet.}}
+
+{{led|nr=2|namn=Namnlös|grad=?|betyg=|längd=
+ |fa=|bultar=0|typ=|text=Startar någon meter från hörnet, tuff catch innan toppen.}}
+
+{{led|nr=3|namn=Namnlös|grad=?|betyg=|längd=
+ |fa=|bultar=0|typ=|text=Travers på klippans nedre del.}}
+
+{{led|nr=4|namn=Travers pervers|grad=?|betyg=|längd=
+ |fa=|bultar=0|typ=|text=Tung travers fram och tillbaka strax ovanför marken. Lätt överhängande.}}
+
+{{led|nr=5|namn=Namnlös|grad=?|betyg=|längd=
+ |fa=|bultar=0|typ=|text=Rakt uppför det rena partiet till höger på klippan.}}
+[[Kategori:Skåne]]

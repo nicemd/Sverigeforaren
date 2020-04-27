@@ -1,0 +1,245 @@
+{{info klippa
+  |lat=59.333548
+  |long=18.224269}}
+
+{{boulderkomplett}}
+
+==Allmänt==
+Överhängande bouldering. Ligger nära [[Talludden]] sportklätterklippa.
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap version="0.9" lat="59.323426" lon="18.221083" type="map" zoom="13" controls="small">
+59.333548, 18.224269, Ormingebouldern
+</googlemap>
+
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<slresa>
+titel=Ormingebouldern
+lat=18224269 
+long=59333548
+</slresa>
+</div> 
+
+'''Överhängande Väggen med bil'''
+
+Kör Värmdöleden (222) och sväng av via Skuru (direkt efter Skurubron). Sväng till vänster och kör under Motorvägen. Du ser Björknäs C. Sväng höger och sedan första vänster mot Talludden (på Talluddsvägen). Kör rakt fram en stund sedan Höger (Helmdalsvägen), Vänster (Friggvägen), höger (Emblavägen). Nära slutet av Emblavägen finns det en vänd/parkerings plats. Parkera bilen där och följ sedan Mariedalsvägen ner. Först ser man "Parkeringsväggen" och några meter senare delar av "Överhängande Väggen" på högra sidan.
+
+'''Överhängande Väggen med buss'''
+
+Antingen tar man buss till Björknäs C från Slussen (ca 15 min och det finns massor med bussar att välja på) eller så tar man 413 till Talludden.
+
+Gå samma väg som bilvägen. Från Björknäs C tar det ca 20 min att gå (2 km) och åker man 413 tar det ca 10 min från bussen.
+
+'''Warm Up Väggen med bil'''
+
+Kör Värmdöleden (222) och sväng av mot Orminge. Kör vidare mot Orminge Center.
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+'''Följande väggar finns i området'''
+
+[[Bild:orminge_karta.gif]]
+
+# Överhängande Väggen (1a. Parkeringsväggen)
+# Traverse Väggen
+# Spineless Väggen
+# Warm up Väggen
+
+Obs: Inte alla väggar är med än!
+
+{{sidbrytning}}
+
+==Boulderproblem==
+
+===Överhängande Väggen===
+Fina väggar som är delvis rätt överhängande med fina problem.
+
+====Vänstra delen====
+
+[[Bild:orminge_phatcat.jpg]]
+
+{{led|nr=1, röd| namn=White Trash| grad=7b sd| betyg=| längd=| fa=Fredrik Andersson| bultar=| typ=| text=}} 
+
+{{led|nr=2, grön| namn=Fag Burn| grad=7b etablerad sd| betyg=| längd=| fa=Misse| bultar=| typ=| text=Starta med en hand i sprickan och andra på grepp. Utsteg via Phat cat [[http://bloxc.com/forum/viewtopic.php?t=1967 beta]]}} 
+
+{{led|nr=3, lila| namn=Online| grad=7c+ sd| betyg=| längd=| fa=Stefan Pettersson| bultar=| typ=| text=Samma start som Phat cat trv. till vänster mot White Trash och avslutar med den utan att använda hyllan under Phat Cat, Fag Burn och White Trash avslutar med White Trash. }} 
+
+{{led|nr=3a| namn=Outbush Gangstaz| grad=8a sd| betyg=| längd=| fa=Stefan Pettersson| bultar=| typ=| text=Samma start som Phat cat trv. till vänster mot White Trash och avslutar med den utan att använda alla stora juggar som tillhör Phat Cat och Fag Burn och hyllorna under!}} 
+
+{{led|nr=4, blå| namn=Phat cat| grad=6b sd| betyg=| längd=| fa=Misse| bultar=| typ=| text=Rakt upp. Start med vänstra hand i undercling och vänstra på ett ”crimp”grepp. (Om man är liten tar gärna dubbla paddor) }}  
+
+{{led|nr=5, gul| namn=Vänsterpack| grad=6a sd| betyg=| längd=| fa=Misse| bultar=| typ=| text=Start till höger på bra grepp, trv. till vänster sedan (akta Er för alla lösa flak!) och avslutar med Phat Cat. }} 
+
+{{sidbrytning}}
+
+====Mellandelen (vänstra)====
+
+[[Bild:orminge_surfred1.jpg]]
+
+{{led|nr=1, gul| namn=Hugo| grad=7a+? sd. trv.| betyg=| längd=| fa=Niklas Adler| bultar=| typ=| text=Höger hand på sidogreppet och vänstra på sidan av ”flaket”. Rakt upp sedan till höger mot juggen..Hugo trv. vidare till juggen mitt på ”Sur Fredde” (innan cruxet also). Fortsätter på bild [[Orminge#Mellandelen_.28h.C3.B6gra.29|nedan]].}} 
+
+{{led|nr=2, blå| namn=Sur Fredde extention| grad=7c+ sd| betyg=| längd=| fa=Stefan Pettersson| bultar=| typ=| text=Starta precis bakom trädet trv. i Sur Fredde. Fortsätter på bild [[Orminge#Mellandelen_.28h.C3.B6gra.29|nedan]].}} 
+
+{{led|nr=3, röd| namn=Televinken| grad=6c+ sd| betyg=| längd=| fa=Stefan Kolmodin| bultar=| typ=| text=Samma som 1. men man går ut till vänster och upp på bra grepp. Slutet vid växtet.}} 
+
+{{led|nr=4, grön| namn=Freddes Highball| grad=7a+?| betyg=| längd=| fa=Fredrik Andersson| bultar=| typ=| text=Upp till juggen sedan rakt upp…antligen hela vägen upp eller till bra grepp ¾ vägen upp (om man inte vågar göra hela....) akta Er för trädet!}} 
+
+{{led|nr=5, ljusblå| namn=Svarte Riddaren| grad=? sd| betyg=| längd=| fa=Niklas Adler| bultar=| typ=| text=Hela vägen upp, UPPS! Farligt landning!!}}
+
+{{sidbrytning}}
+
+====Mellandelen (högra)====
+
+[[Bild:orminge_surfred2.jpg]]
+
+{{led|nr=1, grön| namn=Sur Fredde| grad=7b+ ståstart| betyg=| längd=| fa=Stefan Pettersson| bultar=| typ=| text=}} 
+
+{{led|nr=3, rosa| namn=Stefans ?| grad=7a sd| betyg=| längd=| fa=Stefan Pettersson| bultar=| typ=| text=Gå via en liten list man matchar på. Slutar på samma grepp som Sur Fredde}} 
+
+{{led|nr=5 ljusgrön| namn=Lullaby| grad=6a+ sd| betyg=| längd=| fa=| bultar=| typ=| text=Sittstart som Stefan P’s odöpta men följ den hala rampen snett uppåt höger sedan, avslut med match på rampens topp. Varning för Läskig landning!!}} 
+
+[[Orminge/Sur_Fredde_extention|Sur Fredde extension (2)]] & [[Orminge/Hugo|Hugo (4)]] finns beskrivna [[Orminge#Mellandelen_.28v.C3.A4nstra.29|ovan]]
+
+Finns numera en trv. som börjar med sittstart upp vid areten i slutet av Hugo, trv. Hugo höger-vänster och avslutar med Televinken. fa=Daniel J.L. Namn:? Grad:?
+
+{{sidbrytning}}
+
+====Högra delen====
+
+[[Bild:orminge_overhangande1.jpg]]
+
+{{led|nr=1, röd| namn=Infected Technology| grad=6c sd| betyg=| längd=| fa=Misse| bultar=| typ=| text=Start i sprickan, rakt upp sedan långt move till höger}} 
+
+{{led|nr=2, grön| namn=Skinny Puppy| grad=7a+ sd| betyg=| längd=| fa=Misse| bultar=| typ=| text=Starta på Sidogrepp sedan trv. till vänster och avslutar med ”I.T.”}} 
+
+{{led|nr=3, blå| namn=Studs| grad=7b sd| betyg=| längd=| fa=Björn Pohl| bultar=| typ=| text=Samma start som ”Skinny Puppy” och catch rakt upp. Avslutar på ”I.T” juggen.}} 
+
+{{led|nr=4, gul| namn=Wong-Sai| grad=7b+ sd| betyg=| längd=| fa=Chris Ellis| bultar=| typ=| text=Samma start igen, trv. till höger och upp. Se bilden nedan för slutet. }} 
+
+{{led|nr=?, ?| namn=?| grad=6c/7a ståstart| betyg=| längd=| fa=Stefan Pettersson| bultar=| typ=| text=Till höger om "Wong Sai" finns det ett Problem till. }} 
+
+
+[[Bild:orminge_wongsai.jpg]]
+
+
+{{sidbrytning}}
+
+===Parkeringväggen===
+Väggen är vid den lilla vändplan till vänster av Mariedalsvägen.
+
+====Vänstra Delen====
+
+[[Bild:orminge_pleft.jpg]]
+
+1. "Slipps", 6b sd.; Stefan Kolmodin; Sittstarta med händerna på tydliga bra grepp, catcha stor sloper, matcha denna och skicka vidare till pinch, följ sedan kanten upp till samma slut som Allroad. Den mossiga blockiga delen till höger ingår ej.
+
+2. "Allroad", 7a+ sd.; Stefan Kolmodin; Sittstarta med händerna på ”bra” pinchlist, via en mängd små grepp till tydligt slut på bra jug snett uppåt höger.
+
+?. "Trollmor", 6c+; Niklas Adler; Travers from vänster till höger, med start inne i "grotta" (kan vara blött), ett par tunga flytt snätt upp höger, fortsätt förbi branta parti (ryggen nära marken), och avsluta med tunna litor på seperat vägg th. (Går ng på denna vägg men vet inte riktig vart än)
+
+{{sidbrytning}}
+
+====Mellandelen====
+
+[[Bild:orminge_pmiddle.jpg]]
+
+1. "Black Flag", 6b+ sd.; Stefan Kolmodin; Sittstarta under tydligt svart arete, skicka till jugar ovanpå denna, upp med fötterna och catcha kanten rakt upp, sedan lätt vidare till samma slutjug som Fluga.
+
+2. "Butthole Surfer", 6b sd.; Stefan Kolmodin; Sittstart 2m till höger om Black Flag, följ rampen snett uppåt vänster till samma slutjug som -Fluga och Black Flag.
+
+3. "Ballabonk", 7a sd.; Stefan Kolmodin; Starta som Butthole Surfer men klättra rakt upp via bra sideclings, sträck ut till undercling till höger jobba upp fötterna och skicka till gastonkloss, matcha denna och skicka vidare till superjug. Hög, lite läskig landning.
+
+4. "Fluga", 6b+ sd.; Stefan Kolmodin; Sittstarta under den bulliga areten, via tydliga gastons till mikrolist, smek över kroppen åt höger och avsluta på tydlig jug snett uppåt höger.
+
+{{sidbrytning}}
+
+====Högra delen====
+
+[[Bild:orminge_pright_2.jpg]]
+
+1. "Trevor´s odöpta", 6c sd.; Trevor Cooper-Williams; Sittstarta med händerna i taket (2 tydliga Grepp), skicka till slopig grepp, via små listhål och avsluta på kanten.
+
+2. "Shrek", 5b sd.; Misse; Sittstarta med händerna på tydlig juglist, rakt upp via bra gastons till slutjug.
+
+2a. "Shrek Air",6b sd.; Misse; Som Shrek men catcha direkt från startgrepp till slutjug.
+
+3. "Misse’s odöpta", 6c sd.; Misse; Sittstarta under rödaktig kant/arete med händerna på små sideclings, skicka till liten gaston sedan vidare till bra grepp.
+
+4. "Censor", 6b sd.; Fröberg; På det lilla fristående blocket, knöla in dig under taket, starta med höger hand i sprickan och vänster hand på slopig hylla. Etablera, skicka upp till kant och mantla.
+
+5. "Valbiff", 6b sd.; Westerlund; På det lilla fristående blocket, sittstarta areten och toppa ut rakt upp.
+
+{{sidbrytning}}
+
+===Traverse Vägg===
+Liten vägg som kanske har lite problem över att göra.
+
+[[Bild:orminge_traverse.jpg]]
+
+1.”Brian´s Spricka”, ? Sd.??; Brian;
+
+2.”Så jävla kåt på Ricky Lake”,7a(+) ståstart; Jakob Andrén; Följe pile upp
+
+3.”Mondo Generator”,6c ståstart; Misse; Starta på juggen och trv. till juggen.
+
+{{sidbrytning}}
+
+===Spineless Väggen===
+Kan vara lite svår hittat. Crimpig!
+
+====Vänstra delen====
+
+[[Bild:orminge_spineless1.jpg]]
+
+1. ”Lost possibilities of youth”,6a ståstart; Misse; Inne i grooven, går lite till vänster i slutet
+
+2. ”??”,4 ståstart ; Misse; sikta mot 2 stora hål.
+
+{{sidbrytning}}
+
+====Högra delen====
+
+[[Bild:orminge_spineless.jpg]]
+
+1. ”Den onda fågeln”,6a+ ; Linda Johansson; ståstart 
+
+2. ”Den onda fågeln”,6c+ sd. ; Misse;
+
+3. ”Spineless”,7b+ ståstart; Linda Johansson; Markerad med pil, lite till höger
+
+4. ”LustMord”,7a+ ståstart ; Misse; Markerad med pil, lite åt höger
+
+{{sidbrytning}}
+
+===Warm up Väggen===
+En liten vägg som har ett fåtal lättare problem som man kan göra olika varianter av.
+
+====Vänstra delen====
+
+[[Bild:orminge_warmup.jpg]]
+
+1.”Nakka´s most Wanted”,5 sd.; Misse; Rakt upp
+
+2. “Orminge Stajlii”,6a sd. ; Misse; Starta med Crimperna sedan rakt upp
+
+{{sidbrytning}}
+
+====Högra delen====
+
+[[Bild:orminge_warmup1.jpg]]
+
+1. ”Boo Gangsta”, 5 sd. ;Misse; Börja på juggen sedan upp till vänster.
+
+2. ”John´s Problem", 5 sd.; Misse; Börja i tvärsprickan och rakt upp.
+
+{{sidbrytning}}
+
+[[Kategori:Överhäng]]
+[[Kategori:Stockholm]]
+[[Kategori:Nacka-Värmdö]]
+[[Kategori:Saknar ledmall]]

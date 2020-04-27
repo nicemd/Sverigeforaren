@@ -1,0 +1,66 @@
+
+{{info klippa
+  |lat=58.22694
+  |long=15.71222
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{stub}}
+<!-- {{utkast}} -->
+<!-- {{komplett}} -->
+
+==Allmänt==
+Off-width-klippa
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="58.22694" lon="15.71222" zoom="15">
+58.22683, 15.71252, Parkeringen
+58.22694, 15.71222, Klippan
+</googlemap>
+</div>
+
+<div style="float: right; margin-left: 10px;">
+<!--<slresa>
+    titel=Exempel
+    lat=18000000
+    long=59000000
+</slresa>-->
+</div>
+
+Skriv vägbeskrivning här.
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+==Leder==
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Fettot från Rimforsa|grad=6+|typ=trad|betyg=2|bultar=|längd=7|fa=[[F. Wichman]], [[E. Grunnesjö]] -08|text=Offwidth t.h.}}
+{{led|nr=2|namn=Best of Bestorp|grad=8-|typ=trad|betyg=3|bultar=|längd=8|fa=[[P. Restorp]] -08|text=Offwidth t.v.}}
+
+| width="350px" |
+
+<!--Höger kolumn-->
+
+|}
+
+{{tryckt förare|klättring i östergötland (2011)=ja}}
+<!-- Lägg till eller ta bort passande kategorier -->
+
+<!-- [[Kategori:sport]] -->
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+<!-- [[Kategori:vertikalt]] -->
+<!-- [[Kategori:överhäng]] -->
+
+[[kategori:Saknar skiss]]
+[[kategori:Saknar vägbeskrivning]]
+[[kategori:Saknar skrivarformatering]]
+
+[[Category:Östergötland]]

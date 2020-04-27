@@ -1,0 +1,81 @@
+<!-- Detta gör det möjligt att markera klippan på kartor -->
+{{info klippa
+  |lat=59.741001
+  |long=12.655993
+}}
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+<!-- {{stub}} -->
+{{komplett}} 
+
+==Allmänt==
+Liten klippa som tyvärr inte får så många besök. Ligger inte fullt en mil norr om Arvika. 15 meter hög, strax under vertikal och består av grepprik men kompakt granit. De många greppen är oftast tämligen små vilket förklarar ledernas svårighet. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-right: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=350 height=300 lat="59.71041528963109" lon="12.621402740478516" zoom="10" type="map" controls="small">
+59.741001,12.655993,[[Öjerudsklippan]]
+</googlemap>
+</div>
+
+Från Arvika... Kör ur Arvika vid gaterondellen (shell select och mc donalds) mot Karlstad på väg 61. Till vänster skymtar en ful ljusstake som Jösse Klättersällskap försökt förbättra vid ett misslyckat tillfälle. Var observant för när som helst ska du svänga vänster mot Gunnarskog. Fortsätt denna väg förbi flygplatsen och sjön Racken. Efter sjön kommer en lång raksträcka. Om den är kvar hittar du Öjeruds snickeriverkstad på vänster sida. Håll utkik mot skogen till höger för kanske kan man skymta klippan mellan träden. Parkera bilen vid ett el-skåp som står på höger sida, vid vägen några hundra meter efter snickeriet. Fortsätt rakt fram på grusvägen mot bostadshusen. Vid första huset i svängen följ den traktorstig som går upp i skogen. Visa total hänsyn till boende och var så osynlig och tyst som det går. Traktorstigen når en glänta. Fortsätt här rakt upp i skogen och du bör hitta klippan. 
+
+<div style="clear:right;"></div>
+
+{{sidbrytning}}
+
+==Beskrivning/Övrigt==
+
+Berget upptäcktes 1995 av Karl Nyberg och Johan Pütz, vilka också rensade de första lederna. Under sommaren 1996 såg berget en utökad aktivitet. Det rensades och fler nya leder gjordes. Kontakter med markägaren öppnade vägen för att bulta flera av de kompakta lederna. Då klippan är ganska liten återstår nu bara ett mindre antal möjliga linjer. Berget har varit sparsamt klättrat sedan etablerandet på 90-talet. Dock hoppas [http://www.josseklatter.net Jösse Klättersällskap] som varit mest (enda?) aktiva vid klippan att skapandet av denna online-förare samt ev etablering av nytur/er under 2008-2009 ska ändra på detta. 
+
+Öjerud går också under följande två namn. Øjerud samt Kallkällsberget. 
+
+
+==Leder==
+
+[[Bild:ojerud.jpg|thumb|700px|center|Dåligt inscannat exemplar, men orkar inte rätta till. Klicka för större bild.Numrerar lederna från vänster till höger ]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=0|namn=Långa rännan|grad=4|typ=trad|betyg=0|bultar=|längd=|fa=[[Karl Nyberg]], [[Johan Pütz]]|text=}}
+
+{{led|nr=1|namn=Damokles|grad=6+|typ=mix|betyg=0|bultar=2|längd=|fa=[[Anders Borg/Tväråna]]|text=Rensad av Johan Pütz och Axel Heyman. Damok'les, Hovman hos Kung Dionysios av Syrakusa (omkring 400 f.kr). Prisade sin herres lycka men fick av denna en lektion om dess obeständighet. Inbjöds slå sig ned i stor ståt vid ett festligt bord, men över honom hängdes i ett tagelstrå ett skarpslipat svärd. Härav uttrycket Damok'les svärd = Liknelse om överhängande fara. Namnet på leden syftar på det "Damokles svärd" som står lutat mot utstegstallen.}}
+
+{{led|nr=2|namn=Barnängen|grad=6+|typ=sport|betyg=0|bultar=4|längd=|fa=[[Anders Borg/Tväråna]]|text=Rensad av Karl Nyberg. Om man inte gör mantlingen innan ankaret kopplas, kan det diskuteras om inte lite Barnängens barnpuder skulle behövas av vederbörande klättrare. toppankare}}
+
+{{led|nr=3|namn=Lichenofil fältbiolog|grad=7-|typ=sport|betyg=0|bultar=4|längd=|fa=[[Anders Borg/Tväråna]]|text=Man behöver väl inte rensa mellan greppen? Lavar har också rätt att uppnå självförverkligande och skall inte behöva stå till sidan för självcentrerade klättrare. Leden har senare blivit "retrorensad" och erbjuder inte längre den intensiva naturupplevelse man en gång kunde få med lav i ögonen, lav på greppen, lav i halsen, lav överallt. delar toppankare med barnängen}}
+
+{{led | nr=4| namn=Los Cotos | grad=7- | typ=sport| betyg=0 | bultar=4 | längd= | fa=Martin Jurander Anders Borg/Tväråna | text=Konstig klättring upp till en rolig mantlingshylla. Därifrån vidare över ett roligt svaparti. Gemensamt ankare med "döp den till not"}}
+
+{{led | nr=5 | namn=Döp den till not | grad=7-| typ=sport | betyg=0 | bultar=5 | längd= 15| fa= Martin jurander| text=En fin led med teknisk klättring , tre meter till höger om Los cotos, stay cool}}
+
+| width="350px" |
+
+{{led | nr=6 | namn=Totte klättrar | grad=6 | typ=trad | betyg=0 | bultar= | längd= | fa=Anders Borg/Tväråna, Jonas Wallmander | text=Snart kommer den nya Totteboken som skall se till att nästa generations klättrare kommer igång tidigt. Leden ger en fin försmak av expanderande flak.}}
+
+{{led | nr=7 | namn=Fata Morgrana | grad=6+ | typ=trad | betyg=0 | bultar= | längd= | fa=Annika Bergquist | text=Stöt hårt förbi det korta men hårda och nervösa kruxet för att sedan få i bättre säkringar. Lättare klättring följer förbi gran - öh nej, tallen och leder till intressanta grepp i utsteget.}}
+
+{{led | nr=8| namn=Karls led | grad=5 | typ=trad | betyg=0 | bultar= | längd= | fa=Anders Borg/Tväråna, Karl Nyberg | text=En trevlig, lätt led med resonabla säkringar. -Du är i Sverige nu din jävla amerikan. Här godtas ingen svengelska. -Ja, ja. Allt är där nu i alla fall, så det är bara gå för det.}}
+
+{{led | nr=9 | namn=Karl-Martins led | grad=6 | typ=trad | betyg=0 | bultar= | längd= | fa=Martin Jurander | text=Luriga kilplaceringar. Rensad av Karl Nyberg. Lite laybackkaraktär, säkrad med små kamkilar i den utåtvidgande sprickan.}}
+
+
+{{led |nr =10 | namn = projekt | grad = 9- ? | typ=sport | bultar=4 | text = tre meter till höger om "karl-martins led" , lite beta är att det inte finns några grepp ! }}
+
+|}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:sport]]
+[[Kategori:trad]]
+[[Kategori:mix]]
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+<!-- [[Kategori:överhäng]] -->
+
+
+[[Category:Värmland]]

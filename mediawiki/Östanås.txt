@@ -1,0 +1,141 @@
+<!-- Detta gör det möjligt att markera klippan på kartor -->
+{{info klippa
+  |lat=59.819356
+  |long=13.227185
+}}
+
+
+<!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
+{{boulderutkast}}
+{{utkast}} 
+<!-- {{komplett}} -->
+
+==Allmänt==
+Ett "nyupptäckt" ställe som hyser visst boulderpotential och möjlighet till 15-20 trad och sportlinjer. 
+Nedanför klippan finns ett antal stenblock som bjuder på blandad problemkompott. Några linjer av riktigt hög kvalitet. 
+
+==Vägbeskrivning==
+
+<div style="width: 355; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+
+<googlemap version="0.9" lat="59.737022" lon="13.249512" type="map" zoom="8">
+59.819356, 13.227185, Östanås trad & boulder
+</googlemap>
+
+</div>
+
+Från Karlstad: 
+
+Kör norrut längst rv61 mot Arvika. Sväng av mot Kil efter 2 mil. Fortsätt genom kils första rondell och kör under viadukten. Fortsätt någon kilometer och sväng höger mot Östra Ämtervik och Hannäs industriområde. I svängen bör du kunna se Kils st kyrka några hundra meter fram. Fortsätt förbi kyrkan och kör bron över norsälven. Fortsätt 1.5 mil tills du passerar över den röda Nilsbybron. Sväng vänster mot Ämtervik i T-korsningen. Fortsätt denna i dryga 2 mil då du ska vara observant på en brun "turist-skylt" mot Mårbacka som pekar åt höger. Sväng höger och kör en lång raksträcka på 2km innan sväng vänster mot Mårbacka. Efter någon kilometer kan du se Selma Lagerlöfs Mårbacka på vänster sida. Fortsätt rakt fram i några kilometer till. Var uppmärksam på en skylt där det står Östanås. I höjd med denna ska du svänga av höger på en grusväg. några hundra meter längre fram på grusvägen ser du ett vitt tegelhus och högre upp i backen på höger sida ett rött hus. Parkera på mötesplatsen innan det vita tegelhuset. 
+
+Gå förbi det vita huset ut mot åkrarna till höger om det. Passera under inga omständigheter rakt över åkerslapparna om ej nyskördat. Gå längs dikeskanten och skogskanten tills du når kalhygget ett par åkerlappar bort. Markägaren har planterat ädelskog på kalhygget, så håll dig i kanten fast ditt sikte är inställt på blocken längre fram. Klippväggen hittas på andra sidan blocken bakom ett fåtal väl skylande träd. 
+
+Isklättringen återfinns ännu längre till vänster om du står framför klippan och tittar på den. Var uppmärksam på lösa stenar när du passerar det stora stenröset. 
+
+Från Sunne: 
+Från E45, kör genom samhället via storgatan. Väl genom, följ skyltarna mot Mårbacka och var uppmärksam på skylten Östanås. Se parkeringsanvisning ovan.
+
+
+<div style="clear:right;"></div>
+{{sidbrytning}}
+
+==Leder==
+
+Endast ett fåtal linjer gjorda, potential finns till 15+ individuella linjer på 8-20+ meters höjd. Skiftande kvalitet men några linjer ser ut att försvara en etablering. Vid första anblick ser endast ett fåtal ut att vara välsäkrade tradlinjer. Övrigt behöver kompletteras med borrbult. 
+Ok från markägare att utveckla stället, men skogsstyrelsen har kategoriserat stället som en nyckelbiotop. Kontakt bör tas med myndigheten för att utreda omfattningen av skyddet. 
+http://www.skogsstyrelsen.se/Skogens-parlor/Nyckelbiotop/?ObjektId=110371091
+
+mer information kommer. 
+
+Ett par tradturer har gjorts i avvaktan på ovan kontakt.
+
+
+[[Fil:ostanas-renskav.jpg|thumb|480px|]]
+
+Den streckade linjen är tänkt projekt där du går ut på läppen av ett överhäng. Luftigt för att vara Värmland. Osäkrad runout eller kompletterande borrbult är frågan.
+Bilden visar inte starten på de beskrivna lederna. Starten är några meter ner. 
+Bilden gör inte heller taket någon rättvisa. Detta är inte allt för många grader över horisonten, men det kommer inte alls fram på bilden. 
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=1|namn=Renskav|grad=6-|typ=trad|betyg=1|bultar=|längd=15|fa=Martin Ström Götenstedt (Sören Danielsson) 120530|text=Estetisk linje som följer en tydlig och välsäkrad spricklinje i en C-båge upp längs ett sva och ut genom ett tak. Placerat ungefär mitt på klippsektionen 30 meter snett upp till vänster i terrängen från tydliga boulderblocken vid kalhygget. Starten är lös, uppbruten och inget vidare. Blir riktigt fin när det blir vertikalt för att verkligen blomma ut i taket där man också hittar kruxet. Utsteg vid enen. Svårgraderad, men taket upplevdes som såpass tungt att det förtjänar graden. Stabil onsight av viking från norr, vissa frustningar och nysningar till trots.}}
+
+| width="350px" |
+
+{{led|nr=2|namn=Renskav med gräddstuvade kantareller och lite enbärsgelé|grad=6-|typ=trad|betyg=2|bultar=|längd=15|fa=Sören Danielsson (Martin Ström Götenstedt) 120530|text=Ett direktinsteg till ovan led som gör den betydligt mer estetisk. Med denna variant börjar den fina klättringen vid start och är att föredra framför föregående led som startar 3-4 meter till höger. En tydlig och välsäkrad spricka leder dig rätt. Marginellt mer ihållande, men påverkar inte graden. Pga sidoförflyttningen (speciellt i taket) bör du vara uppmärksam på repdrag och pendel vid fall. Otränad ynglig från Fryksdalen knep FA med minimala marginaler. Hur kan så lite arm, innehålla så mycket pump?}}
+
+|}
+
+
+[[Fil:Ostanas3.jpg|thumb|480px]]
+
+{|
+|- valign="top"
+| width="350px" |
+
+{{led|nr=3|namn=??|grad=låga 5?|typ=|betyg=|bultar=|längd=8-10|fa=|text=Lederna börjar 10 meter till höger om lättidentifierade "Renskav". Denna led endast gjord på topprep. Går över vertikala partiet som nedifrån påminner om en tvättbräda med sina många smågrepp/steg. Olika variantinsteg och utsteg finns.}}
+
+| width="350px" |
+
+{{led|nr=4|namn=Knack, knack, vem där? En jugg!|grad=5-|typ=trad|betyg=|bultar=|längd=8-10|fa=Sören Danielsson 120602|text=Börja på stora hyllorna och dra dig sedan snett upp åt höger. Leden går på HÖGER sida om areten en bit upp. Namnet på leden skvallrar om fina grepp. Utspridda, men bra säkringar som börjar först ett par meter upp. Var uppmärksam på mossa och lösa stenar vid utsteget.}}
+
+|}
+
+==Bouldering==
+Än så länge endast ett fåtal problem gjorda. Finns block och väggar till betydligt mer även om antalet block inte är så stort. 
+
+<!-- Använd denna som problem-mall vid skapande av nya problem. Byt ut texten
+
+{{problem | nr=XXX | namn=problemets namn | betyg=3 | grad=7b+ | typ=crimp, överhäng | fa=Gunde Svan | landning=3 | fadatum=090810 | sittstart=ja | sopad=Göran Persson 090802 | text= Start på sidogrepp och undercling. Skicka sedan till kanten, etablera dig och gå sedan ut åt höger med hjälp av känsliga fotsteg. Gjordes första gången i strumplästen av barbar från storstan. orepeterad sedan förstabestigning. }}
+
+-->
+
+===Stora stygga taket===
+[[Bild:Ostanas2.jpg|200px|thumb]]
+
+{{problem | nr=0 | namn=projekt | betyg= | grad=5-6? | typ=vertikalt | fa= | landning= | fadatum= | sittstart= | sopad=120530 | text= Till vänster om "ta i och gå förbi" finns en vertikal vägg. projektet går upp längst till vänster på denna vägg. crimpigt på ok lister upp till finfin kant. Först till kvarn}}
+
+
+{{problem | nr=1 | namn=Ta i och gå förbi | betyg= | grad=5c? | typ=tak, mantling | fa=Sören Danielsson | landning=4 | fadatum=100605 | sittstart= | sopad= | text= Ruggigt brant 5c längst till vänster i stora stygga taket. Start i fina sprickan på nedre blocket längst in under taket. Fötter endast tillåtna på detta block och ej på de lösa stenarna runtomkring. Skicka till superbästa kanten via en pinch i taket. Mantla upp. klicka på namnet för beta i form av video}}
+
+{{problem | nr=2 | namn=projekt | betyg= | grad=7-8? | typ=tak | fa= | landning= | fadatum= | sittstart= | sopad= | text= Går det att göra? Överhänget är nästan 90grader tak och de få greppen stjälper nästan mer än det hjälper.}}
+
+{{problem | nr=3 | namn=projekt | betyg= | grad=7-isch? | typ=tak, arete, crimp | fa= | landning= | fadatum= | sittstart= | sopad= | text= Småputsat projekt som istället för mitt under taket går på kanten till höger. Ser tungt ut och mr/mrs maximum-crimp-and-ultimate-body-tension-of-beyond får något att bita i. }}
+
+
+
+===Joker-blocket===
+
+Uppkallat efter första problemet som skapades på det. Håller lite enklare problem som fungerar utmärkt som uppvärmning. Räknas upp från vänster till höger. Blocket ligger direkt till vänster om lättidentifierade kalhyggeareten
+
+{{problem | nr=1 | namn=projekt | betyg= | grad=? | typ= | fa= | landning=3 | fadatum= | sittstart= | sopad= | text= Enklare problem kan putsas fram till vänster på blocket.}}
+
+{{problem | nr=2 | namn=Joker | betyg=1 | grad=4-5 | typ=vertikalt, arete | fa=Jonas Wallmander | landning=3 | fadatum=100604 | sittstart= | sopad=Jonas och Sören 100604 | text= Dra dig upp till höger på blocket och följ areten. Förvånansvärt fin för sin grad och bra landning.}}
+
+{{problem | nr=3 | namn=Lilla Joker | betyg= | grad=5-isch | typ=vertikalt, arete | fa=Sören Danielsson | landning=3 | fadatum=100604 | sittstart=ja | sopad= | text= Sittstart på Joker som gör den lite hårdare.}}
+
+===Kalhygge-areten===
+
+[[Bild:Ostanas.jpg|300px|thumb]]
+Den mycket estetiska och direkt iögonfallande spetsiga areten som sträcker sig ut över kalhygget. Stort block som bjuder på alla möjliga konstiga vinklar och vrår och därmed olika sorters karaktär på problemen. Räknas upp från vänster till höger. 
+
+{{problem | nr=1 | namn=projekt | betyg= | grad=? | typ=stämklättring? | fa= | landning= | fadatum= | sittstart= | sopad= | text= Längst till vänster på bilden finns en inbuktning där man kan krypa in under hela blocket. Börja på areten inne under taket och försök etablera dig på obefintliga steg. Alternativa utsteg finns. Antingen på blocket till vänster eller ut mot den streckade linjen på bilden. Båda kanske kräver förmåga att gå ner i spagat för att spjärna sig fast? Verkar avigt och riktigt konstigt.}}
+
+{{problem | nr=2 | namn=Herman har fräna drakbrallor och hans far har ingen teknik | betyg=1 | grad=6a | typ=mantling, balans | fa=Sören Danielsson | landning=4 | fadatum=2010-08-07 | sittstart=ja | sopad= | text= Börjar där "Mama Hanna" börjar, men går åt vänster istället för höger. Sittstart och mantling upp på svaplattan där greppen blir lurigare. Utsteg uppåt vänster. De som kan mantla gör den lätt. Övriga får spänna allt de har och hoppas på det bästa. Roligt problem. De tuffa undviker att nalla på Mama Hannas andra grepp (snäll hylla) långt ut till höger. Handen på kanten är det som gäller. 
+}}
+
+{{problem | nr=3 | namn=Mama Hanna | betyg=3 | grad=7a/7a+ | typ=arete | fa=Sören Danielsson | landning=5 | fadatum=100608 | sittstart=ja | sopad= | text= Oj oj oj. Fin att titta på. Ännu finare att klättra. Hög klass och självklar rekommendationen. Sittstart på bra grepp och steg. Följ sedan areten upp längst den 45-gradiga lutningen vid sidan av och in under taket. Något långa sträckningar, så tänk dynamik om du är kort eller mellanlanda på mindre saker och ökad svårighet. Placera paddorna bra om du ska köra solo. Graden oviss, repetitioner avgör. klicka på namnet för beta i form av video}}
+
+
+<!-- Lägg till eller ta bort passande kategorier -->
+
+[[Kategori:bouldering]] 
+[[Kategori:trad]]
+<!-- [[Kategori:mix]] -->
+<!-- [[Kategori:sva]] -->
+[[Kategori:vertikalt]]
+[[Kategori:överhäng]] 
+
+[[Category:Värmland]]

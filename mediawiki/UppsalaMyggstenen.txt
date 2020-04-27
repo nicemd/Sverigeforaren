@@ -1,0 +1,15 @@
+{{radera|anledning=Detta är en onödig dublett av ett område som redan finns beskrivet}}
+
+{{boulderstub}}
+
+[[Kategori:Uppsala]]
+
+Sällan besökt område norr om uppsala. Stor utvecklingspotential men vass sten och långt att åka.
+
+=Vägbeskrivning=
+
+Kör väg 272 mot Gysinge. Sväng av mot och åk igenom Åkerlänna. Sväng mot Harbo och håll höger i Y-korsningen där asfaltsväg övergår till grusväg. Sväng sedan mot Fastarbo. Myggstenen är skyltad ca 250m innan en vändplan.
+
+<googlemap version="0.9" lat="60.021981" lon="17.399597" type="map" zoom="11" width="500">
+60.057301, 17.386894, Myggstenen
+</googlemap>

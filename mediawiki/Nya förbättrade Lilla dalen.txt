@@ -1,0 +1,41 @@
+{{boulderutkast}}
+==Allmänt==
+
+Lilla Dalen har fått den uppfräschning den behövde. Nu är här ett highballmecka med en höjd på 5-7 m. med utmärkta landningar. Det finns ett par problem kvar att göra ett utav dem är stenhårt. Det går att sätta in någon kil här och där för den som vill men jag skulle uppskatta om denna klippa förblev i det skick som den är i nu alltså inga bultar. Graderna är mer åt ledhållet en åt boulderhållet.
+
+==Vägbeskrivning==
+
+Om du kommer med bil från Stockholm så sväng av Tumba och efter avfarten sväng höger. Kör rakt fram i rondellen och du ska nu befinna dig på Hågelbyleden. Efter Hågelby sväng vänster tror det står Lilla Dalen på en skylt. Parkera på stora parkeringen och gå sedan tillbaka på den vägen du kom ifrån ca: 100-150 m. så dyker klippan upp på höger sida någon meter in i skogen. Mitt emot highballväggen över vägen i skogen finns ett stort block men endast en sida är klätterbar. Gå upp mot kistmotagningen och följ grusvägen till höger och forsätt sedan rakt fram in i skogen när vägen tar slut och blocket dyker upp efter ett 50 tal meter.  
+
+http://www.plonk.se/oldsite/lilladalen.html
+
+==Boulderproblem==
+
+http://www.sverigeforaren.se/images/3/36/Lilla_Dalen.jpg
+
+{{led|nr=1|namn=Likbilen|grad=6c|fa=Mikael Söderström|text=Kanske lättare gradmässigt men svårare en den ser ut. Vit linje}}
+
+{{led|nr=2|namn=Begravningsentreprenören|grad=6c|fa=[[Mikael Söderström]]|text=Grym linje som sätter psyket på sin spets. Svart linje}}
+
+{{led|nr=3|namn=Projektnamn Rolf Gustavsson 1912-1996|grad=7c?|fa=|text=Stenhårt projekt som kräver crimpstyrka. Borstat och klart blå linje}}
+
+{{led|nr=4|namn=Ljuset i tunneln|grad=6c+|fa=[[Mikael Söderström]]|text=Gåpåig sprickklättring. Röd linje.}}
+
+{{led|nr=5|namn=Six feet under|grad=7a|fa=[[Mikael Söderström]]|text=En mer direktlinje till samma utsteg som Ljuset i tunneln. Grön linje.}}
+
+{{led|nr=6|namn=Nagiala|grad=6b+|fa=[[Mikael Söderström]]|text=En mer lättsam klättring där klippan blir lägre. Gul linje.}}
+
+
+[[Bild:Lilla dalen blocket.jpg]]
+
+{{led|nr=1|namn=Lennart|grad=6b|fa=Mikael Söderström|text=Startar matchande på crimp där den vänstra cirkeln är ritad}}
+
+{{led|nr=2|namn=Sunk|grad=6b|fa=Mikael Söderström|text=En hand på varje cirkel utgör starten. Slutjuggen är det märkligaste jag har sett bara den är värd resan hit}}
+
+{{led|nr=3|namn=Munk|grad=6b|fa=[[Mikael Söderström]]|text=Starten utgör själva problemet. Vänstern på crimp Högern på undercling}}
+
+
+
+[[Kategori:Stockholm]]
+[[Kategori:Saknar koordinater]]
+[[Kategori:Saknar karta]]
