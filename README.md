@@ -1,2 +1,4 @@
-# Sverigef-raren
-Sverigeföraren 2014
+# Sverigeföraren
+
+Klippor och boulders från sverigeföraren.se 2014.
+
