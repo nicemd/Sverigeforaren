@@ -1,0 +1,6 @@
+{{bimbokommentar|datum=2006-06-04|grad=7B|betyg=**|landning=Inte så bra|vem=Perwe|text=Har ett nytt utsteg till vänster om Nogat}}
+{{bimbokommentar|datum=2006-06-05|grad=-|betyg=-|landning=(Okänd)|vem=Fredrik|text=Skall jag ändra i problembeskrivningen?}}
+{{bimbokommentar|datum=2006-06-05|grad=7B|betyg=**|landning=Inte så bra|vem=Perwe|text=Gör gärna det eftersom det blir ett finare avslut på problemet.}}
+{{bimbokommentar|datum=2006-06-07|grad=7B|betyg=**|landning=Inte så bra|vem=Fredrik|text=Stämmer det nu?}}
+{{bimbokommentar|datum=2007-09-18|grad=7B|betyg=**|landning=Inte så bra|vem=Mikael Andersson|text=Friktion! svårt att veta exakt hur den går ! fina flytt!}}
+[[Kategori:Boulderdiskussion]]

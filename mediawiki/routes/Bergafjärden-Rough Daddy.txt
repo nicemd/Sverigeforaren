@@ -1,0 +1,10 @@
+{{bimbokommentar|datum=2005-04-15|grad=-|betyg=**|landning=Underbar|vem=Jon|text=Den såg sannerligen fin & tung ut.}}
+{{bimbokommentar|datum=2005-04-15|grad=7B|betyg=**|landning=Underbar|vem=Fredrik|text=Den sekvens som jag hittade kändes 7B (minst) men det är mycket möjligt att det går att hitta en som är bättre och lättare.}}
+{{bimbokommentar|datum=2005-04-18|grad=7B|betyg=**|landning=Underbar|vem=Perwe|text=Fränt problem som knäckte min fotled.}}
+{{bimbokommentar|datum=2005-04-20|grad=7B|betyg=**|landning=Underbar|vem=Perwe|text=Jag är lite osäker på dess grad, ev att den ska ner något.}}
+{{bimbokommentar|datum=2005-04-20|grad=-|betyg=**|landning=Underbar|vem=Fredrik|text=Jag har ju starka misstankar själv om att denna skall ned i grad.}}
+{{bimbokommentar|datum=2005-05-18|grad=7B|betyg=**|landning=Underbar|vem=Jegas|text=Jättefint! Mycket känslig och lite brytig.
+Eftersom problemet är lågt så kan man kliva in på kruxet och nöta in det. Det underlättar.}}
+{{bimbokommentar|datum=2005-05-20|grad=7B|betyg=**|landning=Underbar|vem=Uffe|text=Riktigt skoj problem, balansigt värre. Hur det är med graden vet jag inte. Hade inga större problem med den, kanske för att jag inte är så lång.}}
+{{bimbokommentar|datum=2007-05-28|grad=7A+|betyg=**|landning=Underbar|vem=Fredrik|text=Tog ned denna ett snäpp.}}
+[[Kategori:Boulderdiskussion]]

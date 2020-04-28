@@ -1,0 +1,7 @@
+{{bimbokommentar|datum=2006-06-07|grad=6C+|betyg=**|landning=OK utan padda|vem=Hazzo|text=Kalasfint skick på en kalasfin balkong}}
+{{bimbokommentar|datum=2006-06-07|grad=6C+|betyg=**|landning=OK utan padda|vem=Joacim|text=Instämmer! En liten pärla!}}
+{{bimbokommentar|datum=2006-06-10|grad=6C+|betyg=*|landning=OK utan padda|vem=Per Lindmark|text=Mycket trevlig, fint skick}}
+{{bimbokommentar|datum=2006-07-26|grad=6C+|betyg=**|landning=OK utan padda|vem=CC|text=Fint problem! Hård i graden}}
+{{bimbokommentar|datum=2007-09-07|grad=6C+|betyg=**|landning=OK utan padda|vem=Mikael Andersson|text=Underbart är kort!}}
+{{bimbokommentar|datum=2008-04-16|grad=6C|betyg=*|landning=OK utan padda|vem=Jonas Wiklund|text=Helt OK. Svår för korta?}}
+[[Kategori:Boulderdiskussion]]

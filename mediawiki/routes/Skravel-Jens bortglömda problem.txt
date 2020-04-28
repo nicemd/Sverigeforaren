@@ -1,0 +1,10 @@
+{{bimbokommentar|datum=2003-09-13|grad=6A|betyg=*|landning=Godkänd|vem=Urban|text=Har ingen aning vad problemet heter med det är lite annorlunda och småtrevligt. Graden tippar jag runt 6A}}
+{{bimbokommentar|datum=2003-09-13|grad=6A|betyg=-|landning=Godkänd|vem=Urban|text=Saknade även info. Startar sittande, gå en låg travers till höger och upp längs aretet, tror jag}}
+{{bimbokommentar|datum=2003-09-16|grad=-|betyg=-|landning=(Okänd)|vem=DK|text=ok, tack för infon!, men en ganska viktig detalj saknas - vart ligger den?!?!?!}}
+{{bimbokommentar|datum=2003-09-16|grad=6A|betyg=-|landning=Godkänd|vem=Urban|text=sorry, om du står och tittar på Crimp master så ligger den ca 30 meter kl. 8. Kan diffa lite pga av halvtaskigt minne.}}
+{{bimbokommentar|datum=2003-10-13|grad=6A|betyg=*|landning=Inte så bra|vem=Jakob|text=OK! Löst block som nyckelgrepp tar ner kvalitén. Annars kul, bra att va smålång! Fin friktion på stenen! Väldigt korta 30m vänsteråt om man tittar på CMF.}}
+{{bimbokommentar|datum=2004-05-07|grad=-|betyg=-|landning=(Okänd)|vem=Pär Lindholm|text=Info ändrad. Nu är det bara namn som saknas. Jens? Någon?}}
+{{bimbokommentar|datum=2004-05-07|grad=-|betyg=-|landning=(Okänd)|vem=DK|text=Vilken jävulsk tradinfo, "väldigt korta 30m vänsteråt om man tittar på CMF" det var det mest kryptiska jag läst på länge, vem ska då fatta vart den är?  Skriv på svenska pöjks.}}
+{{bimbokommentar|datum=2004-05-10|grad=6A|betyg=-|landning=(Okänd)|vem=Pär Lindholm|text=Hehe, ja, skrev om info.}}
+{{bimbokommentar|datum=2004-05-12|grad=6A|betyg=-|landning=(Okänd)|vem=Pär Lindholm|text=Eftersom Jens inte hade en aning vilket problem det här är så får det nu heta "Jens bortglömda problem".}}
+[[Kategori:Boulderdiskussion]]

@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2005-04-25|grad=6B+|betyg=**|landning=Underbar|vem=Fredrik|text=Mycket tekniskt problem med udda lösning.}}
+{{bimbokommentar|datum=2005-04-25|grad=6B+|betyg=**|landning=Underbar|vem=Jon|text=Jag gillade den. Svårare än den ser ut.}}
+{{bimbokommentar|datum=2005-05-03|grad=6B+|betyg=**|landning=Underbar|vem=Olle|text=Helt klart, fick trixa ett tag innan den satt}}
+{{bimbokommentar|datum=2005-05-04|grad=6B+|betyg=**|landning=Underbar|vem=Fredrik|text=Och nu har jag lagt upp lite bilder på när Olle trixar.}}
+[[Kategori:Boulderdiskussion]]

@@ -1,0 +1,3 @@
+{{bimbokommentar|datum=2008-05-12|grad=-|betyg=-|landning=Bra|vem=Linus|text=Den här är förmodligen mycket hårdare än den nu föreslagna graden.}}
+{{bimbokommentar|datum=2008-05-12|grad=5C|betyg=-|landning=Bra|vem=Hasse|text=FA sa att skitproblem ska ha skitgrader ... själv så tyckte jag nog att båda tickade in på 5+ (översätts lämpligen till 5C)}}
+[[Kategori:Boulderdiskussion]]

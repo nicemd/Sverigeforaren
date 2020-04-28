@@ -1,0 +1,1 @@
+Första borrbulten saknar hängare? "Abonnemang" använder Dubbeldiedrets insteg för att sedan hangla åt höger. Då kopplas inte denna borrbult.

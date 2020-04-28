@@ -1,0 +1,7 @@
+{{bimbokommentar|datum=2005-09-27|grad=7B+|betyg=***|landning=Inte så bra|vem=Fredrik|text=Grad ändrad.}}
+{{bimbokommentar|datum=2005-10-19|grad=7B+|betyg=***|landning=Inte så bra|vem=Fredrik|text=Riktigt snygg bild.}}
+{{bimbokommentar|datum=2005-10-19|grad=-|betyg=-|landning=Inte så bra|vem=Jon|text=Ser schysst ut!}}
+{{bimbokommentar|datum=2005-10-20|grad=7B|betyg=***|landning=Godkänd|vem=johan|text=lätt, typ 7b}}
+{{bimbokommentar|datum=2006-06-05|grad=7A+|betyg=***|landning=Inte så bra|vem=jon s|text=med risk för att bli spettad måste jag säga att det inte kändes mycket hårdare än 7a-7a+}}
+{{bimbokommentar|datum=2006-06-07|grad=7B+|betyg=***|landning=Inte så bra|vem=Fredrik|text=Vi börjar med att ta ned den ett snäpp.}}
+[[Kategori:Boulderdiskussion]]

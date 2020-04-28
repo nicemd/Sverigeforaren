@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2004-06-04|grad=-|betyg=-|landning=(Okänd)|vem=Tatt|text=Ta bort grenarna och ändra infon. Grenar bakom problem är till för att försvinna.}}
+{{bimbokommentar|datum=2004-06-18|grad=6A|betyg=*|landning=Bra|vem=Johan D|text=Jo, plockade bort lite grenare. Nu är det bara att klättra!}}
+{{bimbokommentar|datum=2005-10-08|grad=6A|betyg=*|landning=Bra|vem=Pär Lindholm|text=Klart svårare än synbart, behövde några försök innan jag hittade min lösning.}}
+[[Kategori:Boulderdiskussion]]

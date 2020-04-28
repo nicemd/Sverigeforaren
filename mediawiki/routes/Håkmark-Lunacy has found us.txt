@@ -1,0 +1,12 @@
+{{bimbokommentar|datum=2006-05-30|grad=7A|betyg=***|landning=Underbar|vem=Jon|text=Mycket fint problem...}}
+{{bimbokommentar|datum=2006-05-30|grad=7A|betyg=***|landning=Underbar|vem=Ronny|text=Helt klart bland de finaste problem jag kört!!}}
+{{bimbokommentar|datum=2006-05-30|grad=7A|betyg=***|landning=Underbar|vem=Hasse|text=Skogens pärla!}}
+{{bimbokommentar|datum=2006-05-30|grad=6C|betyg=***|landning=Underbar|vem=Fredrik|text=Kan instämma med att detta är ett 3-stjärnigt problem. Tycker nog tyvärr att den skall ned lite i graden, passar dock sjukt bra.}}
+{{bimbokommentar|datum=2006-05-30|grad=7A|betyg=***|landning=Underbar|vem=Joacim|text=Helt grymt skön!}}
+{{bimbokommentar|datum=2006-05-30|grad=7A|betyg=***|landning=Bra|vem=Mats Nordlund|text=Finaste problemet jag gjort under tävlingen.}}
+{{bimbokommentar|datum=2006-07-04|grad=7A|betyg=**|landning=Underbar|vem=oskar|text=enbart 2 skravelstjärnor av mig...}}
+{{bimbokommentar|datum=2006-08-20|grad=6C+|betyg=***|landning=Bra|vem=Jonas W|text=Är man 179,5 cm eller längre är nog denna lite lättare än 7A, tror jag. Finast i Håkmark, i alla fall i del lite högre graderna?}}
+{{bimbokommentar|datum=2006-09-25|grad=7A|betyg=**|landning=Bra|vem=Anders|text=Den var fin, käns lika hård som Insanity och är lika fin.}}
+{{bimbokommentar|datum=2007-03-27|grad=7A|betyg=***|landning=Underbar|vem=Lusse|text=Riktigt kul problem, finast i Håkmark?}}
+{{bimbokommentar|datum=2008-04-16|grad=6C|betyg=***|landning=Bra|vem=Jonas Wiklund|text=Inte 7A för medellånga karlar.  För korta kanske Rocklövs variant är enklare än orginalet?}}
+[[Kategori:Boulderdiskussion]]

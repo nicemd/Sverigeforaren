@@ -1,0 +1,9 @@
+{{bimbokommentar|datum=2003-11-10|grad=7A+|betyg=**|landning=Bra|vem=Fredrik|text=Det blev en väldigt läskig avslutning för min del.}}
+{{bimbokommentar|datum=2003-11-11|grad=7A+|betyg=**|landning=Bra|vem=Jon|text=Och för spotter-jonkas del...}}
+{{bimbokommentar|datum=2004-10-04|grad=7A+|betyg=**|landning=Bra|vem=Pär Lindholm|text=Och för spotter-Pärs del...}}
+{{bimbokommentar|datum=2004-10-05|grad=7B|betyg=**|landning=Bra|vem=Fredrik|text=Grad ändrad till 7b.}}
+{{bimbokommentar|datum=2005-04-28|grad=-|betyg=***|landning=Inte så bra|vem=Jonas W|text=Jag tycker denna rent utav är trestjärnig, trots halvdan landning. Lättare när man har någon som passar...}}
+{{bimbokommentar|datum=2005-04-28|grad=7B|betyg=***|landning=Bra|vem=Fredrik|text=Så du fick göra den igår Jonas?
+Kan nog kanske hålla med om tre stjärnor.}}
+{{bimbokommentar|datum=2005-06-03|grad=7B|betyg=***|landning=Godkänd|vem=Fredrik|text=Satte upp denna till tre stjärnor och ändrade landningen till godkänd, vilket nog är mer korrekt.}}
+[[Kategori:Boulderdiskussion]]

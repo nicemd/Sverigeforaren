@@ -1,0 +1,12 @@
+== Dalkarlskärrets huvudvägg ==
+[[Bild:Dalkarlskarret_topo.jpg]]
+<ol start="4">
+<li>{{Ledlänk|namn=Semper|klippa=Dalkarlskärret}}</li>
+<li>{{Ledlänk|namn=Talangjakten|klippa=Dalkarlskärret}}</li>
+<li>{{Ledlänk|namn=Balansnisse|klippa=Dalkarlskärret}}</li>
+<li>{{Ledlänk|namn=Bullen|klippa=Dalkarlskärret}}</li>
+<li>{{Ledlänk|namn=På tå häv|klippa=Dalkarlskärret}}</li>
+<li>{{Ledlänk|namn=Fissure Grund|klippa=Dalkarlskärret}}</li>
+<li>{{Ledlänk|namn=Birdie Jamjam|klippa=Dalkarlskärret}}</li>
+<li>{{Ledlänk|namn=(namnlöst dieder)|klippa=Dalkarlskärret}}</li>
+</ol>

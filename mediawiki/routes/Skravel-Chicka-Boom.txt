@@ -1,0 +1,6 @@
+{{bimbokommentar|datum=2003-06-13|grad=5C|betyg=**|landning=Underbar|vem=Urban|text=Grymt fint dyno}}
+{{bimbokommentar|datum=2003-06-15|grad=5C|betyg=**|landning=Bra|vem=Martin Fransson|text=Kul med ett långt dyno i de lättare gradregistret}}
+{{bimbokommentar|datum=2005-05-01|grad=5C|betyg=*|landning=Underbar|vem=Lidas|text=Härligt dyno. Stora startgrepp, fin kant}}
+{{bimbokommentar|datum=2005-05-13|grad=5C|betyg=**|landning=Underbar|vem=Johan Grahnen|text=Riktigt roligt! Måste utrustas med minst en stjärna.}}
+{{bimbokommentar|datum=2005-05-13|grad=5C|betyg=*|landning=Underbar|vem=Pär Lindholm|text=Jag smaskar i med en stjärna. Minus för att den går att göra statisk och ännu en minus för att kristallhelvetet på toppen lätt splittar fingertopparna.}}
+[[Kategori:Boulderdiskussion]]

@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2004-10-14|grad=6B|betyg=**|landning=Bra|vem=Fredrik|text=Och där sprängde vi 200-gränsen i Berga.}}
+{{bimbokommentar|datum=2005-04-05|grad=6B+|betyg=***|landning=Bra|vem=Jon|text=Riktigt schysst problem faktiskt. Kanske ska upp ett snäpp?}}
+{{bimbokommentar|datum=2005-04-05|grad=-|betyg=***|landning=Bra|vem=Olle|text=Kan inte avgöra graden riktigt.. men det är fantastiska moves!}}
+{{bimbokommentar|datum=2005-04-06|grad=-|betyg=**|landning=Bra|vem=Fredrik|text=Det ser ut som att det var fint väder i Berga igår.}}
+[[Kategori:Boulderdiskussion]]

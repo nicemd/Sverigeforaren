@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2006-07-01|grad=6A+|betyg=*|landning=Bra|vem=Johan G|text="Arga" var ordet, sa Bull. "Inte 'goa grepp' som det står i föraren", sa Bill. Upp ett snäpp.}}
+{{bimbokommentar|datum=2006-07-01|grad=6A+|betyg=*|landning=Bra|vem=Johan G|text='Arga var ordet', sa Bull. Upp ett snäpp.}}
+{{bimbokommentar|datum=2006-07-01|grad=6A+|betyg=*|landning=Bra|vem=Johan G|text=Arga var ordet, sa Bull. Upp ett snäpp.}}
+[[Kategori:Boulderdiskussion]]

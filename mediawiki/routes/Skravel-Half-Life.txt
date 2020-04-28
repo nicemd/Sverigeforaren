@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2003-06-16|grad=6A|betyg=-|landning=Bra|vem=Pär Lindholm|text=Ner ett snäpp till 6A, tack.}}
+{{bimbokommentar|datum=2003-10-30|grad=-|betyg=-|landning=Bra|vem=jonas w|text=Fel info? Visst ska den här sittstartas inne i hörnet?}}
+{{bimbokommentar|datum=2003-10-30|grad=6A+|betyg=-|landning=Bra|vem=DK|text=Sant. Det var fel info, denna har sittstart och inget annat. Den håller sig även ganska mitt i hörnet så ett uteslutningskryss är också på sin plats. Ändrar info.}}
+[[Kategori:Boulderdiskussion]]

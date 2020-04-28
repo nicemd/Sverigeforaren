@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2004-03-17|grad=7B|betyg=*|landning=Bra|vem=Urban|text=undrar bara lite vart pinchen som står i infot angående typ av problem finns. Minns jag så jäkla dåligt. Krimp-dyno känns mer bekant}}
+{{bimbokommentar|datum=2004-03-17|grad=7B|betyg=**|landning=Bra|vem=DK|text=Crimp är sant att d saknas men det blir en fruktansvärd pinch-belastning för båda händerna i dyno-versionen. Det är det som är cruxet. Det är inte Phantasmagoria du tänker på?}}
+{{bimbokommentar|datum=2004-03-18|grad=7B|betyg=*|landning=Bra|vem=Urban|text=Aha då är jag med}}
+[[Kategori:Boulderdiskussion]]

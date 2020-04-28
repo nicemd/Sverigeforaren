@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2003-10-13|grad=7B|betyg=***|landning=Godkänd|vem=Fredrik|text=Delikat dynoproblem, kan vara 7b?}}
+{{bimbokommentar|datum=2004-05-06|grad=7B|betyg=***|landning=Godkänd|vem=Fredrik|text=Grad ändrad till 7B 2004-05-06}}
+{{bimbokommentar|datum=2005-04-20|grad=-|betyg=*|landning=Godkänd|vem=Jonas W|text=Jag tycker att den statsiska varianten också förtjänar att nämnas, den är någon grad lättare och inte fullt så fin men helt klart värd att göras.}}
+[[Kategori:Boulderdiskussion]]

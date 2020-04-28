@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2008-04-16|grad=-|betyg=-|landning=(Okänd)|vem=Frank Zappa|text=What? That's mine!}}
+{{bimbokommentar|datum=2008-04-16|grad=-|betyg=-|landning=(Okänd)|vem=Frank Zappa|text=What? That is mine!}}
+{{bimbokommentar|datum=2008-04-16|grad=7B+|betyg=-|landning=Godkänd|vem=S|text=?}}
+{{bimbokommentar|datum=2008-04-16|grad=7B+|betyg=-|landning=Godkänd|vem=S|text=Ah, läste bara kommentaren och inte namnet...}}
+[[Kategori:Boulderdiskussion]]

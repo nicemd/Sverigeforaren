@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2004-02-26|grad=5C|betyg=-|landning=Godkänd|vem=Pär Lindholm|text=En fråga, ska det vara 5 meter till VÄNSTER om nr 1?}}
+{{bimbokommentar|datum=2004-02-26|grad=-|betyg=-|landning=Godkänd|vem=DK|text=haha, nä höger givetvis. Jag är värre än joel-bitar när det gäller höger & vänster samt dregel}}
+{{bimbokommentar|datum=2004-02-27|grad=5C|betyg=-|landning=Godkänd|vem=Pär Lindholm|text=OK, jag fixade!}}
+[[Kategori:Boulderdiskussion]]

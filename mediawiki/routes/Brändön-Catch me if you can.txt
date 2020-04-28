@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2004-04-28|grad=6A|betyg=***|landning=OK utan padda|vem=Martin|text=Ett av de finaste problemen (än så länge) på brändön.}}
+{{bimbokommentar|datum=2004-06-08|grad=5B|betyg=*|landning=OK utan padda|vem=Jon|text=Denna står som 5B i föraren och här som 6A, tycker nog att 5B är närmare sanningen iaf.}}
+{{bimbokommentar|datum=2004-06-09|grad=5B|betyg=*|landning=OK utan padda|vem=Anders|text=Lätt men helt ok dyno. 5b som föraren anger känns rätt}}
+{{bimbokommentar|datum=2004-06-13|grad=5B|betyg=*|landning=Underbar|vem=Lars P|text=Fin! Ska inte upp till 6a iallafall. Även om den är längdberoende så går man ju till Brändöns största jug.}}
+[[Kategori:Boulderdiskussion]]

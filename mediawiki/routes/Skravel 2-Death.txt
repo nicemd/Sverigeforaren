@@ -1,0 +1,9 @@
+{{bimbokommentar|datum=2004-09-07|grad=6A|betyg=-|landning=Bra|vem=Pär Lindholm|text=Går den här upp åt höger eller upp åt vänster?}}
+{{bimbokommentar|datum=2004-09-07|grad=6A|betyg=**|landning=Bra|vem=jonas W|text=Upp åt vänster måste det vara.}}
+{{bimbokommentar|datum=2004-09-07|grad=6A|betyg=-|landning=Bra|vem=Pär Lindholm|text=Jaså? Jag såg flera gå åt höger och dom verkade också glada och nöjda.}}
+{{bimbokommentar|datum=2004-09-09|grad=6A|betyg=**|landning=Bra|vem=jonas W|text=Testade att gå ut åt höger också. Det var lättare (håller ändå 6A) men finare. Därför tycker jag att det inte behövs speciferas i problembeskrivningen.}}
+{{bimbokommentar|datum=2004-09-10|grad=6A|betyg=*|landning=Bra|vem=Pär Lindholm|text=Nu har jag provat problemet. Borde väl vara OK att klättra hur som helst eftersom det är 6C till vänster och 6B+ till höger? Enklaste vägen = 6A = inga uteslutningar behövs. Fint problem.}}
+{{bimbokommentar|datum=2004-09-18|grad=6A|betyg=*|landning=Bra|vem=Daniel Lussetti|text=haha...dödsrädd....snarare halvblind skåning utan glasögon som letar efter en hjälpande hand.
+Vacker bild Calle.....}}
+{{bimbokommentar|datum=2005-09-18|grad=6A|betyg=*|landning=Bra|vem=Lidas|text=Lagom höjd, något mental på slutet}}
+[[Kategori:Boulderdiskussion]]

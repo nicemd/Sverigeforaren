@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2007-10-22|grad=7A|betyg=**|landning=Bra|vem=Tväråna|text=Fint, med intressant start.}}
+{{bimbokommentar|datum=2007-10-22|grad=-|betyg=*|landning=Bra|vem=grim|text="Med hela foten i träsket" heter problemet om man inte vill starta med röven på marken}}
+{{bimbokommentar|datum=2007-10-24|grad=7A|betyg=**|landning=Bra|vem=jon|text=Kanske borde döpa om detta til detsamma med tillägget SS, assis eller vad man nu vill.}}
+{{bimbokommentar|datum=2008-02-23|grad=7A|betyg=**|landning=Bra|vem=Tväråna|text=Bytte namn.}}
+[[Kategori:Boulderdiskussion]]

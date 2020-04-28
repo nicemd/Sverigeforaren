@@ -1,0 +1,5 @@
+{{beta}}
+Svårläst och ihållande.
+
+{{bultlogg|när=2007-10|vad=1 bult bytt till syrafast expander.}}
+{{bultlogg|när=2008-05-04|vad=Nyplacerad andrabult.}}

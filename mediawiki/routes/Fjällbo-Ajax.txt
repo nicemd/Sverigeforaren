@@ -1,0 +1,8 @@
+[[bild:ajax_fjallbo.jpg]]
+
+'''Text:'''
+'''Antal bultar:'''
+'''Betyg:'''
+'''Antal repetitioner per år:'''
+'''Grad:'''
+'''Längd:'''

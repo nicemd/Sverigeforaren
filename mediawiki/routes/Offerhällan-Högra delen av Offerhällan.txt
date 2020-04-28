@@ -1,0 +1,10 @@
+<B>Referensleder:</B><BR>
+Blå = {{ledlänk|namn=Nåijden|klippa=Offerhällan}}<BR>
+Röd = {{ledlänk|namn=Halvvägs till himmelen|klippa=Offerhällan}}<BR>
+Gul = {{ledlänk|namn=Vägvisaren|klippa=Offerhällan}}<BR>
+
+
+[[Bild:Offerhallan overblick right layers.jpg|700px]]<BR>
+Foto: Jonas Andersson
+
+<!--{{lagerbild|bakgrund=Bild:Offerhallan_overblick_right.jpg|lager1=Bild:Offerhallan overblick right nåijden.png|lager2=Bild:Offerhallan overblick right hth.png|lager3=Bild:Offerhallan overblick right vagvisaren.png}}-->

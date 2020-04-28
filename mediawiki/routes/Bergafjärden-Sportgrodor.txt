@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2004-07-20|grad=6A|betyg=-|landning=OK utan padda|vem=Fredrik|text=Ett ganska OK problem för att vara så kort.}}
+{{bimbokommentar|datum=2004-07-20|grad=6A|betyg=-|landning=OK utan padda|vem=Fredrik|text="Sportgrodor" går på den hitre arêten och "Alltid något" går där stenen är som högst.}}
+{{bimbokommentar|datum=2004-08-01|grad=6A|betyg=*|landning=OK utan padda|vem=Jon|text=Ganska lågt problem, men helt klart värt att köras, är också värd en *.}}
+{{bimbokommentar|datum=2004-08-03|grad=6A|betyg=-|landning=OK utan padda|vem=Perwe|text=Ett fint litet problem!}}
+[[Kategori:Boulderdiskussion]]

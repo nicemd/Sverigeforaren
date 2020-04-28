@@ -1,0 +1,18 @@
+<B>Referensleder:</B><BR>
+Turkos = {{ledlänk|namn=Ensamseglaren|klippa=Offerhällan}}<BR>
+Grön = {{ledlänk|namn=Ljusbågen|klippa=Offerhällan}}<BR>
+Blå = {{ledlänk|namn=Nåijden|klippa=Offerhällan}}<BR>
+Röd = {{ledlänk|namn=Halvvägs till himmelen|klippa=Offerhällan}}<BR>
+Gul = {{ledlänk|namn=Vägvisaren|klippa=Offerhällan}}<BR>
+
+<B>Info:</B><BR>
+A - Södra rännan<BR>
+B - Firningsankare<BR>
+C - Vindskydd<BR>
+D - Norra rännan<BR>
+
+Foto: Jonas Andersson
+
+[[Bild:Offerhallan overblick left layers.jpg|700px]]
+
+<!--{{lagerbild|bakgrund=Bild:Offerhallan_overblick_left.jpg|lager1=Bild:Offerhallan overblick left leder.png|lager2=Bild:Offerhallan overblick left info.png}}-->

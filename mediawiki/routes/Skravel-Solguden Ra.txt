@@ -1,0 +1,7 @@
+{{bimbokommentar|datum=2005-09-20|grad=6C|betyg=*|landning=OK utan padda|vem=Lidas|text=Teknisk och fin, väl värd sin stjärna.}}
+{{bimbokommentar|datum=2005-09-20|grad=-|betyg=*|landning=Underbar|vem=Pär Lindholm|text=Fixade bara "hoppstarten", men den var fin. 5C-6A ungefär. Problemet är i ganska sjysst skick, inga mossproblem för oss.}}
+{{bimbokommentar|datum=2005-09-23|grad=6C|betyg=*|landning=OK utan padda|vem=Jon|text=Jag tycker också den var rätt sjysst. Bara en etablering och ett move iofs. Men ändå....}}
+{{bimbokommentar|datum=2005-09-25|grad=6B|betyg=**|landning=OK utan padda|vem=Lidas|text=Efter att kört den igen så kan jag konstatera att den knappast håller 6c. Riktigt fin dock!}}
+{{bimbokommentar|datum=2005-10-02|grad=6B+|betyg=-|landning=OK utan padda|vem=Per G|text=Ner ett snäpp...}}
+{{bimbokommentar|datum=2005-11-28|grad=6B|betyg=*|landning=OK utan padda|vem=Pär Lindholm|text=Grad ändrad 6C -> 6B}}
+[[Kategori:Boulderdiskussion]]

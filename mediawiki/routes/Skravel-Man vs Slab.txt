@@ -1,0 +1,7 @@
+{{bimbokommentar|datum=2003-06-12|grad=7A+|betyg=*|landning=Bra|vem=Urban|text=Känns som att det saknas ett + på graden.}}
+{{bimbokommentar|datum=2003-06-13|grad=7A|betyg=*|landning=Bra|vem=Urban|text=???? Jag kanske bommar något}}
+{{bimbokommentar|datum=2005-06-09|grad=7B|betyg=*|landning=Bra|vem=Pär Lindholm|text=Den här gradjusteringen kändes efterlängtad! Är det någon som ens varit i närheten av att repetera problemet?}}
+{{bimbokommentar|datum=2007-06-13|grad=7B|betyg=*|landning=Bra|vem=Admin|text=Har den här existensberättigande?}}
+{{bimbokommentar|datum=2007-06-13|grad=8A|betyg=***|landning=Bra|vem=Pär Lindholm|text=JA FÖR HELVETE! Både problemen tycker jag ska vara kvar, speciellt det här!}}
+{{bimbokommentar|datum=2007-06-14|grad=7B|betyg=*|landning=Bra|vem=Linus|text=Måste vara kvar.. den som kommer upp skall förövrigt adlas!}}
+[[Kategori:Boulderdiskussion]]

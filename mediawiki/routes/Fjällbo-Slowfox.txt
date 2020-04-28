@@ -1,0 +1,20 @@
+[[bild:Slow_fox_original.jpg]]
+
+Svårighet: 5+, men åtskilliga variationer finnes.
+
+# Första repan börjar med svaklättring på en ramp upp till stand vid ett träd. 
+# Sedan genom takformationen (exponerat och fint) följt av en travers åt höger. Glöm inte säkra för andremannen. Stand i början av den vertikala sprickan. 
+# Sista repan upp i sprickan med avslut åt höger.
+# Från hyllan kan man göra flera leder vidare till toppen. Inte så långa men flera av dem är fina. Ordinarie avslut på Slowfox börjar längst till höger på hyllan. Strax till vänster om den finns ett fint alternativ i samma grad.
+==Utstegsvarianter==
+{{led|namn=Ulf och Bengts utsteg|grad=7-|fa=Ulf Blixt|ny=1}}
+{{led|namn=Slowfox variant 6|grad=6|fa=|text=Tunna sprickor till höger när man kommer upp till hyllan}}
+{{led|namn=Slowfox variant 5+|grad=5+|fa=|text=Sprickan vänster om originalutsteget}}
+{{led|namn=Teknikmagasinet|grad=A2(+)/T4/DFU|ny=1|längd=12|typ=aid|fa=[[Michel Blomgren]] (2008-01-??)|text=Aidlinje mellan slowfoxs två utstegsvarianter, mer info på [[Fjällbo/Teknikmagasinet|egen sida]].}}
+{{led|namn=Slowfox original utsteg|grad=5+|fa=|text=Originalutsteg längst till höger}}
+
+==Andra varianter på Slowfox:==
+{{led|namn=Slowfox variant|fa=|text=Efter svaet första replängd gör stand, därefter traversera under det stora taket, för att därefter klättra rakt upp i originalleden|grad=5+}} 
+{{led|namn=Det sjunde insteget|fa=|grad=7-|text=Klättra upp till första standplats, börja andra replängd men istället för travers fortsätt uppåt till Toblerones ankare.}}
+
+{{led|namn=Tippen|grad=6-|fa=|text=Efter traversen följer man den vänsterlutande sprickan. }}

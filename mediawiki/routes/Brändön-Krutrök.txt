@@ -1,0 +1,12 @@
+{{bimbokommentar|datum=2004-05-20|grad=7A|betyg=**|landning=Bra|vem=Jon|text=Finns det ingen variant med juggen till höger då?
+Inte för att jag ens sett problemet, men det känns som att det borde finans en sådan variant om inte annat, eller har jag fel?}}
+{{bimbokommentar|datum=2004-05-20|grad=7A|betyg=**|landning=Bra|vem=Magnus|text=Det är nog möjligt att göra ett problem via juggen... Som går åt höger eller rakt upp då. Det känns mer självklart när man väl står vid väggen hur problemet ska klättras.}}
+{{bimbokommentar|datum=2004-05-23|grad=7A|betyg=**|landning=Bra|vem=Magnus|text=Kände lite på den här idag... fy fan den är rätt barsk!}}
+{{bimbokommentar|datum=2004-06-13|grad=7A|betyg=**|landning=Bra|vem=Hasse|text=Finns möjlighet att den ska vara kvar i graden trots den nya sekvensen ... bör utredas ;-)}}
+{{bimbokommentar|datum=2004-06-14|grad=7A|betyg=**|landning=Bra|vem=Magnus|text=Jag tyckte det där lilla flarnet satt löst och kan lossna ifall man har "otur"... Jag brukar inte ha fel om sånt ;)}}
+{{bimbokommentar|datum=2004-10-17|grad=7A|betyg=**|landning=Bra|vem=Magnus E|text=Finns tydligen en nyare sekvens som borde dra ner problemet nån grad. Synd för orginalsekvensen var så cool.... ;(}}
+{{bimbokommentar|datum=2005-05-23|grad=7A|betyg=**|landning=Bra|vem=strömmen|text=Stabil i graden. Collt underkling move som kändes omöjligt i början. Väldigt avig men fin.}}
+{{bimbokommentar|datum=2006-10-08|grad=7A|betyg=-|landning=Underbar|vem=Mackan|text=Vassa grepp. Bra i grad.}}
+{{bimbokommentar|datum=2006-11-03|grad=7A|betyg=***|landning=Bra|vem=Julien|text=Best problem ever ;-).Bra krimp och sequence}}
+{{bimbokommentar|datum=2008-05-12|grad=-|betyg=-|landning=Bra|vem=sten|text=Nu blir det ju liksom hårklyverier men alldeles till vänster om det stora greppet på nr 13 finns det en liten krimplist, är den "tillåten" att använda? Den känns inte som om den är "out of bounds" om jag säger så.}}
+[[Kategori:Boulderdiskussion]]

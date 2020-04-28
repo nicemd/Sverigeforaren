@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2007-05-04|grad=7B+|betyg=***|landning=Bra|vem=Fredrik|text=Osäker på graden 7B?}}
+{{bimbokommentar|datum=2007-05-07|grad=7B+|betyg=***|landning=Bra|vem=Fredrik|text=Går att lösa dynamiskt eller semistatiskt via en liten krimp. Sittstarten sitter nog snart.}}
+{{bimbokommentar|datum=2007-05-08|grad=7B+|betyg=***|landning=Bra|vem=Perwe|text=Kalasfint problem}}
+{{bimbokommentar|datum=2007-05-09|grad=7B|betyg=***|landning=Bra|vem=Fredrik|text=Den semistatiska varianten är lite lättare så 7B passar nog bättre.}}
+[[Kategori:Boulderdiskussion]]

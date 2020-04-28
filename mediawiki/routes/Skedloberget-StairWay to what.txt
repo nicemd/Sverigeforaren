@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2007-05-02|grad=6C|betyg=**|landning=Bra|vem=Robert|text=Kul och annorlunda klättring!}}
+{{bimbokommentar|datum=2007-05-24|grad=6C|betyg=**|landning=Bra|vem=Robert|text=Ner till 6A}}
+{{bimbokommentar|datum=2007-05-28|grad=6A|betyg=**|landning=Bra|vem=Fredrik|text=Ändrat grad.}}
+[[Kategori:Boulderdiskussion]]

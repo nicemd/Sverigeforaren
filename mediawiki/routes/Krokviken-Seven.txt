@@ -1,0 +1,8 @@
+{{bimbokommentar|datum=2004-03-28|grad=7B+|betyg=***|landning=Godkänd|vem=Perwe|text=Kalasfint problem!}}
+{{bimbokommentar|datum=2004-03-28|grad=7B+|betyg=***|landning=Godkänd|vem=Fredrik|text=Kan vara 7B efter det att den nya sekvensen kom till.}}
+{{bimbokommentar|datum=2004-04-08|grad=7B+|betyg=***|landning=Godkänd|vem=Hasse|text=Visst blir man lycklig av fina linjer ... enda aspekten som drar ner betyget är att den inte har fått en Hasse-bestigning ;-( ... graden: Stiff 7B eller soft 7B+ ... ???}}
+{{bimbokommentar|datum=2004-04-08|grad=7B+|betyg=***|landning=Godkänd|vem=Hasse|text=Visst känns det orättvist att skriva soft om en hårdare grad ... vid närmare eftertanke så bör man göra HELA problemet för att komm graden men det är då ett förjävla fint problem i alla fall!}}
+{{bimbokommentar|datum=2004-05-14|grad=7B|betyg=***|landning=Godkänd|vem=Christofer|text=Graden på detta superproblem har nu blivit justerad till 7b}}
+{{bimbokommentar|datum=2004-05-14|grad=7B|betyg=***|landning=Godkänd|vem=Fredrik|text=Grad ändrad från 7B+ till 7B 2004-05-14}}
+{{bimbokommentar|datum=2007-06-07|grad=7B|betyg=***|landning=Godkänd|vem=Perwe|text=Alltid lika fin.}}
+[[Kategori:Boulderdiskussion]]

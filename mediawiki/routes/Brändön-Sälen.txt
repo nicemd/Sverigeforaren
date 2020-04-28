@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2004-05-31|grad=5A|betyg=**|landning=OK utan padda|vem=Mikael|text=Sliter på fingertopparna, men graden är mer 5A än 5C. Får man bara in rätt balans så.}}
+{{bimbokommentar|datum=2004-06-01|grad=5C|betyg=**|landning=Godkänd|vem=jonas W|text=Jo tjena, mer 6A än 5C enligt moi}}
+{{bimbokommentar|datum=2004-06-13|grad=6A+|betyg=-|landning=Godkänd|vem=LarsP|text=Antar att problemet inte är min grej men jag hoppas för min egen skull att den inte är 5c.}}
+{{bimbokommentar|datum=2005-05-30|grad=5C|betyg=***|landning=Godkänd|vem=Jon|text=Tyckte det här var ett superfint slopersproblem som kräver lite balans.}}
+[[Kategori:Boulderdiskussion]]

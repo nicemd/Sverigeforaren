@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2003-11-17|grad=7A|betyg=**|landning=Bra|vem=Fredrik|text=Ganska trevligt problem och den är nog inte hårdare än 7a.}}
+{{bimbokommentar|datum=2003-11-17|grad=7A|betyg=**|landning=Bra|vem=Jon|text=Nej förmodligen inte, jag tror Andreas hade satt den också, han tyckte 7a.}}
+{{bimbokommentar|datum=2003-11-24|grad=7A|betyg=**|landning=Bra|vem=Andreas|text=jag tycker den håller 7a}}
+{{bimbokommentar|datum=2004-07-29|grad=7A|betyg=**|landning=Bra|vem=Perwe|text=Fint problem.}}
+[[Kategori:Boulderdiskussion]]

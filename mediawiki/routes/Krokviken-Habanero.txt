@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2003-08-01|grad=7B|betyg=***|landning=Bra|vem=Fredrik|text=Synd att det står en sten så nära på slutet.}}
+{{bimbokommentar|datum=2004-03-29|grad=7B|betyg=**|landning=Bra|vem=Jonas W|text=Skön tåkrok gör problemet. Bökig i slutet.}}
+{{bimbokommentar|datum=2004-03-30|grad=7B|betyg=***|landning=Bra|vem=Urban|text=Fick tyvärr inte göra hela men det är ett superfint problem.}}
+{{bimbokommentar|datum=2004-03-30|grad=7B|betyg=***|landning=Bra|vem=Perwe|text=Ett riktigt kalas problem!}}
+[[Kategori:Boulderdiskussion]]

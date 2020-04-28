@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2004-08-11|grad=-|betyg=-|landning=Godkänd|vem=jonas W|text=Vars exakt ligger detta problem? Jag tror det ligger i närheten av Kappa, men jag kunde inte hitta det}}
+{{bimbokommentar|datum=2004-08-12|grad=4C|betyg=*|landning=Godkänd|vem=urban|text=den ligger mittemot archimedes avslut, dvs till vänster om diedret som i sin tur finns till vänster om archimedes .... kryptiskt värre}}
+{{bimbokommentar|datum=2004-08-12|grad=4C|betyg=*|landning=Godkänd|vem=urban|text=på introväggen asså}}
+[[Kategori:Boulderdiskussion]]

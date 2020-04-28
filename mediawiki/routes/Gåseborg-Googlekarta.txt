@@ -1,0 +1,5 @@
+<div style="width: 550; float: right; margin-left: 10px; padding: 3px; border: solid 1px #cccccc;">
+<googlemap width=550 height=500 lat="59.40170" lon="17.76257" zoom="13" type="map" controls="small">
+59.40170,17.76257,[[Gåseborg]]
+</googlemap>
+</div>

@@ -1,0 +1,2 @@
+Den gula linjen skall vika av åt höger istället för vänster eftersom en sloper man går tll befinner sig däråt.
+Christer

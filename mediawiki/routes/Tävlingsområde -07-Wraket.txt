@@ -1,0 +1,4 @@
+{{bimbokommentar|datum=2007-05-17|grad=5C|betyg=**|landning=Godkänd|vem=Ronny|text=Är detta samma problem som skin damage som Robban rapporterat in?}}
+{{bimbokommentar|datum=2007-05-18|grad=5C|betyg=**|landning=Godkänd|vem=Robert|text=Nej, det går till vänster av Skin Damage.}}
+{{bimbokommentar|datum=2007-05-18|grad=5C|betyg=**|landning=Godkänd|vem=Ronny|text=Aha, då e ja me!}}
+[[Kategori:Boulderdiskussion]]

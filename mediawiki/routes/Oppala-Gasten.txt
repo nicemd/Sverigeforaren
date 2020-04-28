@@ -1,0 +1,7 @@
+{{bimbokommentar|datum=2006-10-15|grad=6C|betyg=**|landning=Bra|vem=Danne|text=Mycket fint problem, ska nog ner ett snäpp.}}
+{{bimbokommentar|datum=2006-10-16|grad=-|betyg=-|landning=Bra|vem=Ronny|text=Danne, kan det inte vara läge att dela in Oppala i sektorer? Samt även uppdatera beskrivningarna lite?}}
+{{bimbokommentar|datum=2006-10-17|grad=-|betyg=-|landning=(Okänd)|vem=Sydde|text=Absolut uppdatera beskrivningarna. "fly and cry blocket" som info säger ju inte ett skit. Skulle vara i princip omöjligt att hitta något problem utan guide.}}
+{{bimbokommentar|datum=2006-10-17|grad=6C|betyg=***|landning=Bra|vem=Danne|text=Jo vi får nog ta och uppdatera beskrivningarna lite. David har gjort en förare över Oppala, kan vi lägga in den på Boulders´inc och länka härifrån?}}
+{{bimbokommentar|datum=2006-10-18|grad=6C+|betyg=***|landning=Bra|vem=Ronny|text=Absolut, det är bara att han skickar den till mig! Men ska vi börja dela in i sektorer också? typ (Fire Away, Hugo, Linskäkten)?}}
+{{bimbokommentar|datum=2006-10-19|grad=6C|betyg=***|landning=Bra|vem=Danne|text=Har fixat sektorer och uppdaterat de beskrivningar på de problem som jag känner till, får fråga David om resten.}}
+[[Kategori:Boulderdiskussion]]

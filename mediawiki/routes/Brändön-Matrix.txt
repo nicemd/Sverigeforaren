@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2004-06-14|grad=5C|betyg=*|landning=Underbar|vem=Jon|text=Vad har denna för grad egentligen, det är friskt blandat mellan 5C och 6A t.o.m. i föraren.}}
+{{bimbokommentar|datum=2004-06-14|grad=5C|betyg=-|landning=OK utan padda|vem=Magnus|text=Sorry.. ibland gör jag fel :(}}
+{{bimbokommentar|datum=2004-06-15|grad=5C|betyg=*|landning=OK utan padda|vem=Jon|text=Även den bästa gör fel! Ville bara påpeka det så att det blev enhetligt rakt igenom.}}
+{{bimbokommentar|datum=2007-05-27|grad=5A|betyg=**|landning=OK utan padda|vem=Mjukis|text=För hög grad.}}
+[[Kategori:Boulderdiskussion]]

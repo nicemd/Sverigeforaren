@@ -1,0 +1,3 @@
+{{bimbokommentar|datum=2007-05-14|grad=6B|betyg=**|landning=Inte så bra|vem=Fredrik|text=Vart går den här och vad är det för typ av problem?}}
+{{bimbokommentar|datum=2007-05-14|grad=6B|betyg=**|landning=Inte så bra|vem=Perwe|text=Man startar på ett krimp och dynar till kanten. Problemet följer ett arete och ligger på ett block bakom Morguelized. Har gett problemet lite grad pga av dess höjd och taskiga landning.}}
+[[Kategori:Boulderdiskussion]]

@@ -1,0 +1,13 @@
+[[bild:skivblocketfjallbo.jpg]] 
+
+
+
+'''Karaktär:''' Finns ett ankare på kanten och ett på toppen. Fikavänlig utsiktsplats på toppen! Finns toppbok!
+
+'''Grad:''' 5
+
+'''Text:''' Klättra längs med areten, eller klättra sva i riktning mot ankaret, beroende på vilken upplevelse du vill ha. 
+
+'''Förstabestigare:''' Jan Liliemark & Ulf Björnberg
+
+{{led|namn=atrix|grad=7-|typ=trad|text=En seriös led som startar lite höger om Skivblocket|fa=Henrik Sennelöv}}

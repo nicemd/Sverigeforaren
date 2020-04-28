@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2005-04-25|grad=6C|betyg=***|landning=Bra|vem=Fredrik|text=Mycket fint problem med härliga flytt.}}
+{{bimbokommentar|datum=2005-04-25|grad=6C|betyg=***|landning=Bra|vem=Jon|text=As fint 'cave' problem med sköna grepp.}}
+{{bimbokommentar|datum=2005-05-03|grad=6C|betyg=***|landning=Bra|vem=Olle|text=En av de finare helt klart!}}
+{{bimbokommentar|datum=2005-05-18|grad=6C|betyg=***|landning=Bra|vem=Jegas|text=Ja, det här var en goding med mycket sköna grepp.}}
+[[Kategori:Boulderdiskussion]]

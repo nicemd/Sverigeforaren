@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2005-04-03|grad=7A|betyg=**|landning=Godkänd|vem=Fredrik|text=Denna skall testas nästa gång jag far ut.}}
+{{bimbokommentar|datum=2005-04-03|grad=7A|betyg=**|landning=Godkänd|vem=Jon|text=Japp gör gärna det. Är osäker på graden. Idag gick det ganska snabbt att sätta den, men jag fick ju ta i!}}
+{{bimbokommentar|datum=2005-04-17|grad=7A|betyg=**|landning=Godkänd|vem=Perwe|text=Vilket fint problem.}}
+{{bimbokommentar|datum=2005-05-10|grad=7A|betyg=**|landning=Godkänd|vem=Fredrik|text=Underbart problem klättringsmässigt, landningen och att den är lite vass drar ner den från tre stjärnor. Kanske skall ned lite men den kändes iofs som att den passade bra.}}
+[[Kategori:Boulderdiskussion]]

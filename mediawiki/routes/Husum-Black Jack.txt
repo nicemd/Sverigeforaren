@@ -1,0 +1,6 @@
+{{bimbokommentar|datum=2004-10-08|grad=6B|betyg=*|landning=Underbar|vem=Pär Lindholm|text=För att vara en låg travers och innehålla allt jag hatar med bouldering var den riktigt fin!}}
+{{bimbokommentar|datum=2004-10-11|grad=6B|betyg=*|landning=Underbar|vem=Hazzo|text=Bra problem, påminner lite om The Rock. Kanske tycker att den vart lite övergraderad, 6A känns bättre}}
+{{bimbokommentar|datum=2005-04-07|grad=6B|betyg=*|landning=Underbar|vem=Lussetti|text=Helt ok! Kanske inte någon stjärna.....}}
+{{bimbokommentar|datum=2005-04-07|grad=6A|betyg=*|landning=Underbar|vem=Per G|text=Tycker det är lite småroligt problem, lite lagom bökigt.}}
+{{bimbokommentar|datum=2005-04-08|grad=6A|betyg=-|landning=Underbar|vem=Pär Lindholm|text=Sätter ner till 6A och tar bort stjärnan.}}
+[[Kategori:Boulderdiskussion]]

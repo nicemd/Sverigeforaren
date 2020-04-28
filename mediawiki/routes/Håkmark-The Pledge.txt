@@ -1,0 +1,9 @@
+{{bimbokommentar|datum=2006-05-30|grad=7A|betyg=**|landning=Bra|vem=Mats N|text=Fint problem, bättre grad nu}}
+{{bimbokommentar|datum=2006-06-01|grad=7A|betyg=*|landning=Bra|vem=Åsa|text=Kanske inte värt arbetet med att spränga bort några kubik sten men förvånansvärt fin ändå :-D}}
+{{bimbokommentar|datum=2006-06-02|grad=7A|betyg=*|landning=OK utan padda|vem=CC|text=Fint problem. Graden är klockren nu.}}
+{{bimbokommentar|datum=2006-06-13|grad=7A|betyg=**|landning=OK utan padda|vem=Per Lindmark|text=Denna tyckte jag om, mycket fin...}}
+{{bimbokommentar|datum=2006-08-20|grad=-|betyg=*|landning=Bra|vem=Jonas W|text=Är nog värd en stjärna.}}
+{{bimbokommentar|datum=2007-07-18|grad=7A+|betyg=*|landning=Bra|vem=Anders B|text=Många ihållande flytt, känsligt sista move. svårare än 7a för mig.}}
+{{bimbokommentar|datum=2007-07-20|grad=6C|betyg=-|landning=OK utan padda|vem=JonasE|text=Känns precis lika hård som grannen som i sig känns lätt för graden men vad vet jag...}}
+{{bimbokommentar|datum=2007-07-21|grad=7A|betyg=-|landning=Bra|vem=Linus|text=Kändes som 7A tyckte jag, men håller med om att den inte är så hård för graden.}}
+[[Kategori:Boulderdiskussion]]

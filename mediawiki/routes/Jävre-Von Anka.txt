@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2005-10-25|grad=6C|betyg=**|landning=(Okänd)|vem=Jon|text=Jättefina slopers! Grymt trevligt problem, där fötterna är det största bekymret.}}
+{{bimbokommentar|datum=2005-10-31|grad=6C|betyg=***|landning=(Okänd)|vem=Mats N|text=Sköna slopers!}}
+{{bimbokommentar|datum=2008-05-13|grad=6B|betyg=*|landning=(Okänd)|vem=Mackan|text=E inte den här fel i grad?}}
+{{bimbokommentar|datum=2008-05-14|grad=6A|betyg=**|landning=(Okänd)|vem=Jonas Wiklund|text=Ja}}
+[[Kategori:Boulderdiskussion]]

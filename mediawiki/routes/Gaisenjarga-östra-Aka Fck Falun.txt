@@ -1,0 +1,9 @@
+{{bimbokommentar|datum=2005-11-24|grad=7A+|betyg=**|landning=Inte så bra|vem=oskar|text=Testa att lägga ut en kommentar på detta fina problem.}}
+{{bimbokommentar|datum=2005-11-27|grad=7A|betyg=**|landning=Godkänd|vem=oskar|text=Borde den ner en grad?}}
+{{bimbokommentar|datum=2005-11-27|grad=7A+|betyg=**|landning=Inte så bra|vem=freddan|text=Om den ska nånstans så är det då inte ner iaf.}}
+{{bimbokommentar|datum=2005-12-14|grad=7A+|betyg=**|landning=Godkänd|vem=oskar|text=Min scanner är nu installerad efter ca 9 månader...}}
+{{bimbokommentar|datum=2005-12-14|grad=7A+|betyg=**|landning=OK utan padda|vem=Pontan|text=Är de någon flöjtist från brödernalejonhjärta i bakgrunden?}}
+{{bimbokommentar|datum=2005-12-15|grad=7A+|betyg=**|landning=Inte så bra|vem=Gruvan|text=Solid för graden! Stark i magen blir man om man nöter på denna!}}
+{{bimbokommentar|datum=2005-12-15|grad=7A+|betyg=**|landning=(Okänd)|vem=Pontan|text=Väntade att få tillbaks en kontring från Lejohjärta =) Lite kolt att Presten har lagt sitt vita kors vid sidan, som han alltid har med sig.}}
+{{bimbokommentar|datum=2006-04-14|grad=3A|betyg=**|landning=Du dör om du faller|vem=Metallicas flöjtist|text=Kommentar kommer så fort jag kommit på en bra...}}
+[[Kategori:Boulderdiskussion]]

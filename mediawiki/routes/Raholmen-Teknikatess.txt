@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2005-09-21|grad=6B+|betyg=***|landning=Godkänd|vem=Perwe|text=Fint problem}}
+{{bimbokommentar|datum=2005-09-21|grad=6B+|betyg=***|landning=Godkänd|vem=Jon|text=Instämmer med per, riktigt schysst.}}
+{{bimbokommentar|datum=2006-06-11|grad=6B+|betyg=*|landning=Godkänd|vem=JonasE|text=Usch för alla slags mantlingar, men det är ju bara jag..}}
+{{bimbokommentar|datum=2006-09-03|grad=6B+|betyg=**|landning=Inte så bra|vem=Olle Morén|text=Roligt! Kul!}}
+[[Kategori:Boulderdiskussion]]

@@ -1,0 +1,7 @@
+{{bimbokommentar|datum=2004-05-23|grad=6C|betyg=*|landning=Inte så bra|vem=Magnus|text=Rätt kul men halväcklig. Ska fixa landningen bättre...}}
+{{bimbokommentar|datum=2004-05-25|grad=6C|betyg=-|landning=Bra|vem=Magnus|text=Landningen fixad!}}
+{{bimbokommentar|datum=2004-05-30|grad=6C|betyg=-|landning=Bra|vem=Magnus|text=Ner i grad... snarare 6B+ eller 6B för att slippa onödiga uteslutningar?}}
+{{bimbokommentar|datum=2004-05-31|grad=6C|betyg=-|landning=Bra|vem=Jon|text=Utan att ha varit ute på Brändön och kollat, så tycker jag att ni ska skippa uteslutningarna i stor utsträckning som det går. Det verkar finnas en del sådana iaf.}}
+{{bimbokommentar|datum=2004-12-22|grad=6B|betyg=*|landning=Bra|vem=mackan|text=Mycket fin slab. smyg, smyg och smyg.}}
+{{bimbokommentar|datum=2006-10-12|grad=6B+|betyg=*|landning=Bra|vem=Mackan|text=Upp i grad. Svår.}}
+[[Kategori:Boulderdiskussion]]

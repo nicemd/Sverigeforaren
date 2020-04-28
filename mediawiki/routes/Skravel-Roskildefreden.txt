@@ -1,0 +1,15 @@
+{{bimbokommentar|datum=2003-07-30|grad=6A|betyg=***|landning=Bra|vem=Pär Lindholm|text=Är lilla jugrampen 30 cm upp till höger från startgreppet utestlutet? Nu hängde jag bara in, skickade dit och klev upp = ganska enkelt.}}
+{{bimbokommentar|datum=2003-08-01|grad=-|betyg=***|landning=Bra|vem=jonas|text=I hjärtat vet du. Tanken är att man ska klättra aretet.}}
+{{bimbokommentar|datum=2003-08-03|grad=6A|betyg=***|landning=Bra|vem=Pär Lindholm|text=Tänkte väl det. 27 grader varmt och 15 bromsbett senare var omdömet lite slitet.}}
+{{bimbokommentar|datum=2003-10-14|grad=6A|betyg=*|landning=Bra|vem=Olof|text=Fint men inte astronomiskt direkt. Bra grad.}}
+{{bimbokommentar|datum=2004-04-21|grad=6A|betyg=***|landning=Bra|vem=Pär Lindholm|text=Fattade ingenting av den här igår heller. Varken Per (som precis gjort Milkyway) eller jag kom högre än 30 centimeter. Beta, bitte.}}
+{{bimbokommentar|datum=2004-04-22|grad=6A|betyg=**|landning=Godkänd|vem=DK|text=Tycker den var klockren att förstå. Jag kan ju ha fel men jag hoppade upp till nåt hyffsat grepp, tog inte jugrampen till höger utan gick rakt upp via lite mindre grepp på båda sidor. Troligtvis aphård om man kortare än 170 cm.}}
+{{bimbokommentar|datum=2004-04-22|grad=6A|betyg=***|landning=Bra|vem=jonas W|text=Jo precis så gjorde jag också. Häng in i juggen, dyna upp till ett hyggligt sidtag, upp med fötterna på var sin sida om arêtet och kniiip. Flytta upp vänster hand lite ovan h.h. gå upp till kanten. Sådärja nu kan ingen längre onsighta den här.}}
+{{bimbokommentar|datum=2004-10-13|grad=6A|betyg=***|landning=Bra|vem=Pär Lindholm|text=Nusåjävlar, provade problemet igen med stick och säger UNDERBART! Så jävulskt roligt problem! Hmm, kanske ska jag programmera in en fjärde stjärna i BIMBO...}}
+{{bimbokommentar|datum=2004-11-07|grad=6A|betyg=**|landning=Bra|vem=Jakob|text=Kalas! Sköna dynamiska flytt!}}
+{{bimbokommentar|datum=2005-04-17|grad=6A|betyg=***|landning=Bra|vem=Thomas|text=Fint problem med tung start}}
+{{bimbokommentar|datum=2005-05-01|grad=6A|betyg=***|landning=Bra|vem=Lidas|text=Jättefint problem. Lite annorlunda}}
+{{bimbokommentar|datum=2005-05-01|grad=6A|betyg=**|landning=Bra|vem=Johan Grahnen|text=Fint som snus, men alldeles för lite klättring för tre stjärnor.}}
+{{bimbokommentar|datum=2006-09-27|grad=6A|betyg=**|landning=Bra|vem=Anders Björkén|text=Hyffsat fint problem.}}
+{{bimbokommentar|datum=2008-05-25|grad=6B|betyg=**|landning=Bra|vem=jim288|text=Fan vilka problem jag hade med denna. Såg antagligen helt mongo ut på de första 40 försöken.}}
+[[Kategori:Boulderdiskussion]]

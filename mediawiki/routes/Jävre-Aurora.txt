@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2005-07-27|grad=6C|betyg=**|landning=OK utan padda|vem=Magnus|text=Klar 6C om man heelhookar. Den andra varianten kändes avigare. Fint problem.}}
+{{bimbokommentar|datum=2005-08-06|grad=6C|betyg=***|landning=OK utan padda|vem=Jon|text=Otroligt fint problem. Roliga moves med hälkroken.}}
+{{bimbokommentar|datum=2005-09-04|grad=-|betyg=**|landning=OK utan padda|vem=Pär Lindholm|text=Hur lång måste man vara innan den börjar bli lättare?}}
+{{bimbokommentar|datum=2005-10-12|grad=6C|betyg=**|landning=OK utan padda|vem=mackan|text=tror man måste vara längre än 175 innan den blir lättare}}
+[[Kategori:Boulderdiskussion]]

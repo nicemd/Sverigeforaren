@@ -1,0 +1,6 @@
+{{bimbokommentar|datum=2006-06-02|grad=6B|betyg=*|landning=Bra|vem=Fredrik Nyberg|text=Detta problem är ganska soft.}}
+{{bimbokommentar|datum=2006-06-02|grad=6B|betyg=-|landning=Bra|vem=CC|text=Håller med Fredde, soft för 6B.}}
+{{bimbokommentar|datum=2006-06-02|grad=6B|betyg=**|landning=Bra|vem=mackan|text=Tyckte också det var soft.}}
+{{bimbokommentar|datum=2006-06-10|grad=6B|betyg=*|landning=Bra|vem=nilsp|text=Rolig och lite läskig men ska nog ner ett snäpp}}
+{{bimbokommentar|datum=2006-06-27|grad=6B|betyg=*|landning=Bra|vem=jimmy|text=rätt rolig, rätt soft - ner i grad}}
+[[Kategori:Boulderdiskussion]]

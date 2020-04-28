@@ -1,0 +1,5 @@
+{{bimbokommentar|datum=2003-06-16|grad=6A|betyg=**|landning=Godkänd|vem=Urban|text=Kul. Dock soft för graden}}
+{{bimbokommentar|datum=2004-11-11|grad=6A+|betyg=*|landning=Bra|vem=Jonas W|text=Stiff för graden, nästan 6B}}
+{{bimbokommentar|datum=2004-11-12|grad=6A+|betyg=*|landning=Godkänd|vem=Jonas W|text=Just det ja, startflaket har försvunnit så nu startar man med båda händerna i en tvärspricka, vid startprickarna. Ändra gärna problembeskrivningen.}}
+{{bimbokommentar|datum=2004-11-12|grad=6B|betyg=*|landning=Godkänd|vem=Pär Lindholm|text=Info ändrad. Jag tycker den här är väldigt hård, har aldrig lyckats nå listen ens. Inte riktigt min stil på problemet dock.}}
+[[Kategori:Boulderdiskussion]]
