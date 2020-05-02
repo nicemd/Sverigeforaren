@@ -25,3 +25,9 @@ body.klippa ul li.text
 {
     display: block;
 }
+
+p.copyright
+{
+    font-style: italic;
+    font-size: small;
+}

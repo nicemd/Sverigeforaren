@@ -37,41 +37,42 @@ namespace wiki2html
 
             index.WriteLine(indexHeader);
 
+            // Process all crags in mediawiki directory
             foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
             {
-                /*if(!filename.EndsWith("Dödskalleberget.txt"))
-                    continue;*/
+                using var inputReader = File.OpenText(Path.Combine(path, filename));
+                using var htmlOutputWriter = new StreamWriter(Path.Combine(path,  @"html/" + Path.GetFileNameWithoutExtension(filename) + ".html"));
 
-                using var f = File.OpenText(Path.Combine(path, filename));
-                using var w = new StreamWriter(Path.Combine(path,  @"html/" + Path.GetFileNameWithoutExtension(filename) + ".html"));
-                var text = f.ReadToEnd();
+                var text = inputReader.ReadToEnd();
 
                 var ast = parser.Parse(text);
 
-                var name = Path.GetFileNameWithoutExtension(filename);
-                var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + name +@"</title>" +
+                var cragName = Path.GetFileNameWithoutExtension(filename);
+                var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + cragName +@"</title>" +
                              @"<link rel=""stylesheet"" href=""../main.css""></style>" +
                              @"</head><body class=""klippa"">";
-                var footer = @"<p>Copyright (C) Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3</p>" +
+                var footer = @"<p class=""copyright"">Copyright (C) Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3</p>" +
                              @"</body>";
 
 
-                w.WriteLine(header);
-                w.WriteLine($"<h1>{name}</h1>");
+                Console.WriteLine($"Processing {cragName}");
+
+                htmlOutputWriter.WriteLine(header);
+                htmlOutputWriter.WriteLine($"<h1>{cragName}</h1>");
 
                 foreach (var node in ast.EnumChildren())
                 {
-                    ProcessNode(name, w, node, 0);
+                    ProcessNode(cragName, htmlOutputWriter, node, 0);
                 }
 
-                w.WriteLine(footer);
+                htmlOutputWriter.WriteLine(footer);
 
-                index.WriteLine($"<li><a href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\">{name}</a></li>");
+                index.WriteLine($"<li><a href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\">{cragName}</a></li>");
             }
             index.WriteLine(indexFooter);
         }
 
-        static void ProcessNode(string klippa, TextWriter writer, Node node, int level)
+        static void ProcessNode(string cragName, TextWriter writer, Node node, int level)
         {
             //writer.WriteLine($"{level} {node.GetType().Name}: " + node.ToPlainText().Excerpt(10));
             switch (node)
@@ -81,9 +82,11 @@ namespace wiki2html
                     break;
 
                 case WikiLink wikiLink:
-                    if (wikiLink.Target?.ToString()?.HasPrefix("Bild:") ?? false)
+                    if ((wikiLink.Target?.ToString()?.HasPrefix("Bild:") ?? false) || (wikiLink.Target?.ToString()?.HasPrefix("Image:") ?? false))
                     {
                         var imageName = wikiLink.Target.ToString().TrimPrefix("Bild:");
+                        imageName = imageName.TrimPrefix("Image:");
+
                         var filename = GetImage(imageName) ?? imageName;
                         writer.WriteLine($"<img src=\"../images/{filename}\"/>");
                     }
@@ -102,17 +105,24 @@ namespace wiki2html
                     if(trimmed.StartsWith("|")) break;
                     if(trimmed.StartsWith("|")) break;
 
+                    // Mixed html
+                    if(trimmed.StartsWith("<div")) break;
+                    if (trimmed.StartsWith("</div>")) break;
+                    if (trimmed.StartsWith("<googlemap")) break;
+                    if(trimmed.StartsWith("</googlemap")) break;
+
                     writer.WriteLine($"<p>{plainText.ToPlainText().HtmlEncode()}</p>");
                     break;
 
                 case Paragraph paragraph:
                     foreach (var child in paragraph.EnumChildren().Where(c=>c!=null))
                     {
-                        ProcessNode(klippa, writer, child, level+1);
+                        ProcessNode(cragName, writer, child, level+1);
                     }
                     break;
                 case Template template:
                 {
+                    // Convert template args into a dictionary
                     var args = node.EnumChildren().OfType<TemplateArgument>()
                         .Where(c => c.Name?.ToString() != null && c.Value?.ToString() != null)
                         .Select(c => (Name: c.Name.ToString().Trim(), Value: c.Value.ToString().Trim()))
@@ -123,9 +133,9 @@ namespace wiki2html
                     if (templateName == "led" || templateName == "problem")
                     {
                         var lednamn = args.SafeGet("namn");
-                        var ledUrl = GetRouteUrl(klippa, lednamn);
+                        var ledUrl = GetRouteUrl(cragName, lednamn);
 
-                        writer.WriteLine("<ul>");
+                        writer.WriteLine("<ul class=\"led\">");
                         writer.WriteLine($"<li class=\"nr\">{args.SafeGet("nr")?.HtmlEncode()}");
                         if(ledUrl!=null)
                             writer.WriteLine($"<li class=\"namn\"><a href=\"{ledUrl}\">{lednamn.HtmlEncode()}</a>");
@@ -155,18 +165,20 @@ namespace wiki2html
 
         }
 
-        private static void IndexImages(string path)
+        private static void IndexImages(string rootPath)
         {
-            _images = Directory.GetFiles(Path.Combine(path, "images")).Select(Path.GetFileName).ToDictionary(d => d.ToLowerInvariant(), d => d);
+            // Create a dictionary with normalized filename to real filename for all images
+            _images = Directory.GetFiles(Path.Combine(rootPath, "images")).Select(Path.GetFileName).ToDictionary(d => d.ToLowerInvariant(), d => d);
         }
 
         private static string GetImage(string imageName)
         {
             return _images.SafeGet(imageName.ToLowerInvariant());
         }
-        private static void IndexRoutes(string path)
+        private static void IndexRoutes(string rootPath)
         {
-            _routes = Directory.GetFiles(Path.Combine(path, "mediawiki", "routes")).Select(Path.GetFileNameWithoutExtension).ToDictionary(d => d.ToLowerInvariant(), d => d);
+            // Create a dictionary with normalized filename to real filename for all route files
+            _routes = Directory.GetFiles(Path.Combine(rootPath, "mediawiki", "routes")).Select(Path.GetFileNameWithoutExtension).ToDictionary(d => d.ToLowerInvariant(), d => d);
         }
 
         private static string GetRouteUrl(string klippa, string lednamn)
@@ -201,7 +213,5 @@ namespace wiki2html
         {
             return d.TryGetValue(key, out var v) ? v : default(TValue);
         }
-
     }
-
 }
