@@ -4,6 +4,10 @@
 
 Klippor och boulders exporterat från sverigeföraren.se som den såg ut 2014.
 
+En html-version av innehållet genereras hit: [https://nicemd.github.io/Sverigeforaren/](https://nicemd.github.io/Sverigeforaren/)
+
+Fritt fram! Gör något bra!
+
 ## Licens
 GNU Free Documentation License. 
 
