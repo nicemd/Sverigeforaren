@@ -16,44 +16,42 @@ namespace wiki2html
             var parser = new WikitextParser();
             var path = Path.Combine(Directory.GetCurrentDirectory(), @"../../../.."); // Repo base path
 
-            using (var index = new StreamWriter(Path.Combine(path, @"index.html")))
+            using var index = new StreamWriter(Path.Combine(path, @"index.html"));
+            var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title></head><body>" + 
+                              @"<h1>Sverigeföraren anno 2014</h1>" + 
+                              @"<p>Detta är en export från hur Sverigeföraren såg ut 2014. Innehållet finns här <a href=""https://github.com/nicemd/Sverigeforaren"">på Github</a>." +
+                              @"<ul>";
+
+            var indexFooter = @"</ul></body>";
+
+            index.WriteLine(indexHeader);
+
+            foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
             {
-                var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title></head><body>";
-                var indexFooter = @"</body>";
+                using var f = File.OpenText(Path.Combine(path, filename));
+                using var w = new StreamWriter(Path.Combine(path,  @"html/" + Path.GetFileNameWithoutExtension(filename) + ".html"));
+                var text = f.ReadToEnd();
 
-                index.WriteLine(indexHeader);
+                var ast = parser.Parse(text);
 
-                foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
+                var name = Path.GetFileNameWithoutExtension(filename);
+                var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + name +
+                             @"</title></head><body>";
+                var footer = @"</body>";
+
+                w.WriteLine(header);
+                w.WriteLine($"<h1>{name}</h1>");
+
+                foreach (var node in ast.EnumChildren())
                 {
-                    using (var f = File.OpenText(Path.Combine(path, filename)))
-                    {
-                        using (var w = new StreamWriter(Path.Combine(path,  @"html/" + Path.GetFileNameWithoutExtension(filename) + ".html")))
-                        {
-                            var text = f.ReadToEnd();
-
-                            var ast = parser.Parse(text);
-
-                            var name = Path.GetFileNameWithoutExtension(filename);
-                            var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + name +
-                                         @"</title></head><body>";
-                            var footer = @"</body>";
-
-                            w.WriteLine(header);
-                            w.WriteLine($"<h1>{name}</h1>");
-
-                            foreach (var node in ast.EnumChildren())
-                            {
-                                ProcessNode(w, node, 0);
-                            }
-
-                            w.WriteLine(footer);
-
-                            index.WriteLine($"<a href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\">{name}</a>");
-                        }
-                    }
+                    ProcessNode(w, node, 0);
                 }
-                index.WriteLine(indexFooter);
+
+                w.WriteLine(footer);
+
+                index.WriteLine($"<li><a href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\">{name}</a></li>");
             }
+            index.WriteLine(indexFooter);
         }
 
         static void ProcessNode(TextWriter writer, Node node, int level)
