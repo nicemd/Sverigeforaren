@@ -24,18 +24,9 @@ namespace wiki2html
             IndexRoutes(path);
 
             using var index = new StreamWriter(Path.Combine(path, @"index.html"));
-            var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title>" +
-                              @"<link rel=""stylesheet"" href=""main.css""></style>" + 
-                              @"</head><body>" + 
-                              @"<h1>Sverigeföraren anno 2014</h1>" + 
-                              @"<p>Denna site är automatgenererad från en export av Sverigeföraren år 2014. Innehållet finns här på <a href=""https://github.com/nicemd/Sverigeforaren"">Github</a>." +
-                              @"<ul>";
 
-            var indexFooter = @"</ul>" +
-                              @"<p>Copyright (C) Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3</p>" +
-                              @"</body>";
-
-            index.WriteLine(indexHeader);
+            var indexHeader = LoadTemplate(path, "indexHeader.html");
+            index.Write(indexHeader);
 
             // Process all crags in mediawiki directory
             foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
@@ -48,28 +39,27 @@ namespace wiki2html
                 var ast = parser.Parse(text);
 
                 var cragName = Path.GetFileNameWithoutExtension(filename);
-                var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + cragName +@"</title>" +
-                             @"<link rel=""stylesheet"" href=""../main.css""></style>" +
-                             @"</head><body class=""klippa"">";
-                var footer = @"<p class=""copyright"">Copyright (C) Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3</p>" +
-                             @"</body>";
-
 
                 Console.WriteLine($"Processing {cragName}");
 
+                var header = LoadTemplate(path, "cragHeader.html");
+                header = header.Replace("{{CRAGNAME}}", cragName);
+
                 htmlOutputWriter.WriteLine(header);
-                htmlOutputWriter.WriteLine($"<h1>{cragName}</h1>");
 
                 foreach (var node in ast.EnumChildren())
                 {
                     ProcessNode(cragName, htmlOutputWriter, node, 0);
                 }
 
+                var footer = LoadTemplate(path, "cragFooter.html");
                 htmlOutputWriter.WriteLine(footer);
 
                 index.WriteLine($"<li><a href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\">{cragName}</a></li>");
             }
-            index.WriteLine(indexFooter);
+
+            var indexFooter = LoadTemplate(path, "indexFooter.html");
+            index.Write(indexFooter);
         }
 
         static void ProcessNode(string cragName, TextWriter writer, Node node, int level)
@@ -185,6 +175,11 @@ namespace wiki2html
         {
             var i = _routes.SafeGet($"{klippa}-{lednamn}".ToLowerInvariant());
             return i != null ? $"../mediawiki/routes/{i}.txt" : null;
+        }
+
+        private static string LoadTemplate(string rootPath, string filename)
+        {
+            return File.ReadAllText(Path.Combine(rootPath, "wiki2html", filename));
         }
     }
 
