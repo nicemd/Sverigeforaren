@@ -18,6 +18,11 @@ namespace wiki2html
 
             using (var index = new StreamWriter(Path.Combine(path, @"index.html")))
             {
+                var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title></head><body>";
+                var indexFooter = @"</body>";
+
+                index.WriteLine(indexHeader);
+
                 foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
                 {
                     using (var f = File.OpenText(Path.Combine(path, filename)))
@@ -47,6 +52,7 @@ namespace wiki2html
                         }
                     }
                 }
+                index.WriteLine(indexFooter);
             }
         }
 
