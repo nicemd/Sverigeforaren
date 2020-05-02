@@ -11,18 +11,25 @@ namespace wiki2html
 {
     class Program
     {
+        private static Dictionary<string, string> _images;
+
         static void Main()
         {
             var parser = new WikitextParser();
             var path = Path.Combine(Directory.GetCurrentDirectory(), @"../../../.."); // Repo base path
 
+
+            IndexImages(path);
+
             using var index = new StreamWriter(Path.Combine(path, @"index.html"));
             var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title></head><body>" + 
                               @"<h1>Sverigeföraren anno 2014</h1>" + 
-                              @"<p>Detta är en export från hur Sverigeföraren såg ut 2014. Innehållet finns här <a href=""https://github.com/nicemd/Sverigeforaren"">på Github</a>." +
+                              @"<p>Denna site är automatgenererad från en export av Sverigeföraren år 2014. Innehållet finns här på <a href=""https://github.com/nicemd/Sverigeforaren"">Github</a>." +
                               @"<ul>";
 
-            var indexFooter = @"</ul></body>";
+            var indexFooter = @"</ul>" +
+                              @"<p>Copyright (C) Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3</p>" +
+                              @"</body>";
 
             index.WriteLine(indexHeader);
 
@@ -66,7 +73,9 @@ namespace wiki2html
                 case WikiLink wikiLink:
                     if (wikiLink.Target?.ToString()?.HasPrefix("Bild:") ?? false)
                     {
-                        writer.WriteLine($"<img src=\"../images/{wikiLink.Target.ToString().TrimPrefix("Bild:")}\"/>");
+                        var imageName = wikiLink.Target.ToString().TrimPrefix("Bild:");
+                        var filename = GetImage(imageName) ?? imageName;
+                        writer.WriteLine($"<img src=\"../images/{filename}\"/>");
                     }
                     else
                     {
@@ -96,8 +105,9 @@ namespace wiki2html
                 {
                     var args = node.EnumChildren().OfType<TemplateArgument>()
                         .Where(c => c.Name?.ToString() != null && c.Value?.ToString() != null)
-                        .GroupBy(c=>c.Name.ToString()).Select(g=>g.Last()) // Distinct
-                        .ToDictionary(c => c.Name.ToString(), c => c.Value.ToString());
+                        .Select(c => (Name: c.Name.ToString().Trim(), Value: c.Value.ToString().Trim()))
+                        .GroupBy(c=>c.Name).Select(g=>g.Last()) // Distinct
+                        .ToDictionary(c => c.Name, c => c.Value);
 
                     var templateName = template.Name.ToString().Trim();
                     if (templateName == "led" || templateName == "problem")
@@ -129,12 +139,16 @@ namespace wiki2html
             }
 
         }
-        private static string Excerpt(string s, int l)
+
+        private static void IndexImages(string path)
         {
-            return s?.Substring(0, Math.Min(l, s.Length));
+            _images = Directory.GetFiles(Path.Combine(path, "images")).Select(f=>Path.GetFileName(f)).ToDictionary(d => d.ToLowerInvariant(), d => d);
         }
 
-        
+        private static string GetImage(string imageName)
+        {
+            return _images.SafeGet(imageName.ToLowerInvariant());
+        }
     }
 
     public static class ExtensionMethods
