@@ -12,6 +12,7 @@ namespace wiki2html
     class Program
     {
         private static Dictionary<string, string> _images;
+        private static Dictionary<string, string> _routes;
 
         static void Main()
         {
@@ -20,6 +21,7 @@ namespace wiki2html
 
 
             IndexImages(path);
+            IndexRoutes(path);
 
             using var index = new StreamWriter(Path.Combine(path, @"index.html"));
             var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title></head><body>" + 
@@ -35,6 +37,9 @@ namespace wiki2html
 
             foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
             {
+                /*if(!filename.EndsWith("Dödskalleberget.txt"))
+                    continue;*/
+
                 using var f = File.OpenText(Path.Combine(path, filename));
                 using var w = new StreamWriter(Path.Combine(path,  @"html/" + Path.GetFileNameWithoutExtension(filename) + ".html"));
                 var text = f.ReadToEnd();
@@ -51,7 +56,7 @@ namespace wiki2html
 
                 foreach (var node in ast.EnumChildren())
                 {
-                    ProcessNode(w, node, 0);
+                    ProcessNode(name, w, node, 0);
                 }
 
                 w.WriteLine(footer);
@@ -61,7 +66,7 @@ namespace wiki2html
             index.WriteLine(indexFooter);
         }
 
-        static void ProcessNode(TextWriter writer, Node node, int level)
+        static void ProcessNode(string klippa, TextWriter writer, Node node, int level)
         {
             //writer.WriteLine($"{level} {node.GetType().Name}: " + node.ToPlainText().Excerpt(10));
             switch (node)
@@ -98,7 +103,7 @@ namespace wiki2html
                 case Paragraph paragraph:
                     foreach (var child in paragraph.EnumChildren().Where(c=>c!=null))
                     {
-                        ProcessNode(writer, child, level+1);
+                        ProcessNode(klippa, writer, child, level+1);
                     }
                     break;
                 case Template template:
@@ -112,10 +117,15 @@ namespace wiki2html
                     var templateName = template.Name.ToString().Trim();
                     if (templateName == "led" || templateName == "problem")
                     {
+                        var lednamn = args.SafeGet("namn");
+                        var ledUrl = GetRouteUrl(klippa, lednamn);
 
                         writer.WriteLine("<ul>");
                         writer.WriteLine($"<li class=\"nr\">{args.SafeGet("nr")?.HtmlEncode()}");
-                        writer.WriteLine($"<li class=\"namn\">{args.SafeGet("namn")?.HtmlEncode()}");
+                        if(ledUrl!=null)
+                            writer.WriteLine($"<li class=\"namn\"><a href=\"{ledUrl}\">{lednamn.HtmlEncode()}</a>");
+                        else
+                            writer.WriteLine($"<li class=\"namn\">{lednamn?.HtmlEncode()}");
                         writer.WriteLine($"<li class=\"grad\">{args.SafeGet("grad")?.HtmlEncode()}");
                         writer.WriteLine($"<li class=\"text\">{args.SafeGet("text")?.HtmlEncode()}");
                         writer.WriteLine("</ul>");
@@ -142,12 +152,22 @@ namespace wiki2html
 
         private static void IndexImages(string path)
         {
-            _images = Directory.GetFiles(Path.Combine(path, "images")).Select(f=>Path.GetFileName(f)).ToDictionary(d => d.ToLowerInvariant(), d => d);
+            _images = Directory.GetFiles(Path.Combine(path, "images")).Select(Path.GetFileName).ToDictionary(d => d.ToLowerInvariant(), d => d);
         }
 
         private static string GetImage(string imageName)
         {
             return _images.SafeGet(imageName.ToLowerInvariant());
+        }
+        private static void IndexRoutes(string path)
+        {
+            _routes = Directory.GetFiles(Path.Combine(path, "mediawiki", "routes")).Select(Path.GetFileNameWithoutExtension).ToDictionary(d => d.ToLowerInvariant(), d => d);
+        }
+
+        private static string GetRouteUrl(string klippa, string lednamn)
+        {
+            var i = _routes.SafeGet($"{klippa}-{lednamn}".ToLowerInvariant());
+            return i != null ? $"../mediawiki/routes/{i}.txt" : null;
         }
     }
 
