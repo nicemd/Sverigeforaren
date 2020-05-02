@@ -16,7 +16,7 @@ namespace wiki2html
             var parser = new WikitextParser();
             var path = Path.Combine(Directory.GetCurrentDirectory(), @"../../../.."); // Repo base path
 
-            using (var index = new StreamWriter(Path.Combine(path, @"html/index.html")))
+            using (var index = new StreamWriter(Path.Combine(path, @"index.html")))
             {
                 foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
                 {
