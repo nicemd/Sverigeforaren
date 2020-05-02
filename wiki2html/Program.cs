@@ -16,30 +16,35 @@ namespace wiki2html
             var parser = new WikitextParser();
             var path = Path.Combine(Directory.GetCurrentDirectory(), @"../../../.."); // Repo base path
 
-            foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
+            using (var index = new StreamWriter(Path.Combine(path, @"html/index.html")))
             {
-                using (var f = File.OpenText(Path.Combine(path, filename)))
+                foreach (var filename in Directory.EnumerateFiles(Path.Combine(path, @"mediawiki/")))
                 {
-                    using (var w = new StreamWriter(Path.Combine(path, @"html/" + Path.GetFileNameWithoutExtension(filename) + ".html")))
+                    using (var f = File.OpenText(Path.Combine(path, filename)))
                     {
-                        var text = f.ReadToEnd();
-
-                        var ast = parser.Parse(text);
-
-                        var name = Path.GetFileNameWithoutExtension(filename);
-                        var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + name +
-                                     @"</title></head><body>";
-                        var footer = @"</body>";
-
-                        w.WriteLine(header);
-                        w.WriteLine($"<h1>{name}</h1>");
-
-                        foreach (var node in ast.EnumChildren())
+                        using (var w = new StreamWriter(Path.Combine(path,  @"html/" + Path.GetFileNameWithoutExtension(filename) + ".html")))
                         {
-                            ProcessNode(w, node, 0);
-                        }
+                            var text = f.ReadToEnd();
 
-                        w.WriteLine(footer);
+                            var ast = parser.Parse(text);
+
+                            var name = Path.GetFileNameWithoutExtension(filename);
+                            var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + name +
+                                         @"</title></head><body>";
+                            var footer = @"</body>";
+
+                            w.WriteLine(header);
+                            w.WriteLine($"<h1>{name}</h1>");
+
+                            foreach (var node in ast.EnumChildren())
+                            {
+                                ProcessNode(w, node, 0);
+                            }
+
+                            w.WriteLine(footer);
+
+                            index.WriteLine($"<a href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\">{name}</a>");
+                        }
                     }
                 }
             }
