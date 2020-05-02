@@ -1,27 +1,47 @@
 body
 {
-    font-family: serif;
+    font-family: sans-serif;
     font-size: medium;
 }
-body.klippa ul {    
+
+h1, h2, h3
+{
+    color: #414042;
+    margin-top: 40px;
+}
+h1, h2
+{
+    text-transform: uppercase;
+}
+
+p{
+    margin-bottom: 1.7rem;
+    line-height: 1.5;
+}
+img
+{
+    min-width: 40%;
+    max-width: 100%;
+}
+body.klippa ul.led {
     display: block;
     list-style-type: none;
 }
-body.klippa ul li
+body.klippa ul.led li
 {
     display: inline;
     width: auto;
 }
 
-body.klippa ul li.nr
+body.klippa ul.led li.nr
 {
     font-weight: bold;
 }
-body.klippa ul li.namn
+body.klippa ul.led li.namn
 {
     font-weight: bold;
 }
-body.klippa ul li.text
+body.klippa ul.led li.text
 {
     display: block;
 }
