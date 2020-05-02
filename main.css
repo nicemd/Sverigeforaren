@@ -1,0 +1,27 @@
+body
+{
+    font-family: serif;
+    font-size: medium;
+}
+body.klippa ul {    
+    display: block;
+    list-style-type: none;
+}
+body.klippa ul li
+{
+    display: inline;
+    width: auto;
+}
+
+body.klippa ul li.nr
+{
+    font-weight: bold;
+}
+body.klippa ul li.namn
+{
+    font-weight: bold;
+}
+body.klippa ul li.text
+{
+    display: block;
+}

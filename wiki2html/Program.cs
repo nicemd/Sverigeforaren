@@ -24,7 +24,9 @@ namespace wiki2html
             IndexRoutes(path);
 
             using var index = new StreamWriter(Path.Combine(path, @"index.html"));
-            var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title></head><body>" + 
+            var indexHeader = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>Sverigeföraren anno 2014</title>" +
+                              @"<link rel=""stylesheet"" href=""main.css""></style>" + 
+                              @"</head><body>" + 
                               @"<h1>Sverigeföraren anno 2014</h1>" + 
                               @"<p>Denna site är automatgenererad från en export av Sverigeföraren år 2014. Innehållet finns här på <a href=""https://github.com/nicemd/Sverigeforaren"">Github</a>." +
                               @"<ul>";
@@ -47,9 +49,12 @@ namespace wiki2html
                 var ast = parser.Parse(text);
 
                 var name = Path.GetFileNameWithoutExtension(filename);
-                var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + name +
-                             @"</title></head><body>";
-                var footer = @"</body>";
+                var header = @"<!DOCTYPE html><html><head><meta charSet=""utf-8""/><title>" + name +@"</title>" +
+                             @"<link rel=""stylesheet"" href=""../main.css""></style>" +
+                             @"</head><body class=""klippa"">";
+                var footer = @"<p>Copyright (C) Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3</p>" +
+                             @"</body>";
+
 
                 w.WriteLine(header);
                 w.WriteLine($"<h1>{name}</h1>");
