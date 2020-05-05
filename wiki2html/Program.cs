@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Web;
 using MwParserFromScratch;
 using MwParserFromScratch.Nodes;
@@ -36,6 +37,7 @@ namespace wiki2html
 
                 var text = inputReader.ReadToEnd();
 
+                text = FixNestedBrackets(text);
                 var ast = parser.Parse(text);
 
                 var cragName = Path.GetFileNameWithoutExtension(filename);
@@ -137,8 +139,7 @@ namespace wiki2html
                     }
                     else if (templateName == "info klippa" || templateName=="info boulderområde")
                     {
-                        writer.WriteLine($"<p>Lat: " + args.SafeGet("lat")?.HtmlEncode());
-                        writer.WriteLine($"Long: " + args.SafeGet("long")?.HtmlEncode() + "</p>");
+                        writer.WriteLine($"<p>GPS: {args.SafeGet("lat")?.HtmlEncode()},{args.SafeGet("long")?.HtmlEncode()}</p>");
                     }
                     else
                     {
@@ -180,6 +181,31 @@ namespace wiki2html
         private static string LoadTemplate(string rootPath, string filename)
         {
             return File.ReadAllText(Path.Combine(rootPath, "wiki2html", filename));
+        }
+
+        private static string FixNestedBrackets(string text)
+        {
+            // [[Bild:Brattberget.jpg|thumb|400px|right|Anne & Linda klättrar Skrubben i norrländsk kvällsol. Foto: [[Användare:Peblin|Per Lindh]]]]
+            // to
+            // [[Bild:Brattberget.jpg|thumb|400px|right|Anne & Linda klättrar Skrubben i norrländsk kvällsol. Foto: Användare:Peblin|Per Lindh]]
+            // Because of bug in wiki parser
+
+            StringBuilder sb = new StringBuilder();
+            foreach (var line in text.Split(new []{'\n','\r'} ).Select(l=>l.Trim()).Where(l=>!string.IsNullOrWhiteSpace(l)))
+            {
+                if(line.StartsWith("[[") && line.EndsWith("]]"))
+                {
+                    var innerText = line.Substring(2, line.Length - 4);
+
+                    sb.Append("[[");
+                    sb.Append(innerText.Replace("[[", "").Replace("]]", ""));
+                    sb.AppendLine("]]");
+                }
+                else
+                    sb.AppendLine(line);
+            }
+
+            return sb.ToString();
         }
     }
 

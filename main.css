@@ -18,7 +18,9 @@ p{
     margin-bottom: 1.7rem;
     line-height: 1.5;
 }
-img
+
+
+body.klippa img
 {
     min-width: 40%;
     max-width: 100%;
@@ -50,4 +52,19 @@ p.copyright
 {
     font-style: italic;
     font-size: small;
+}
+
+
+img.logo 
+{
+    max-width: 100px;
+    border: 0;
+}
+
+body.klippa a img.logo
+{
+    display: block;
+    max-width: 30px;
+    min-width: auto;
+    border: 0;
 }
