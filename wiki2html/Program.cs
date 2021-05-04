@@ -164,8 +164,10 @@ namespace wiki2html
 
         private static string GetImage(string imageName)
         {
-            return _images.SafeGet(imageName.ToLowerInvariant());
+            return _images.SafeGet(imageName.ToLowerInvariant())
+                ?? _images.SafeGet(imageName.ToLowerInvariant().Replace(" ", "_"));
         }
+
         private static void IndexRoutes(string rootPath)
         {
             // Create a dictionary with normalized filename to real filename for all route files

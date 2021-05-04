@@ -68,3 +68,8 @@ body.klippa a img.logo
     min-width: auto;
     border: 0;
 }
+
+ul.toc
+{
+    line-height: 30px;
+}
