@@ -139,7 +139,7 @@ namespace wiki2html
                     }
                     else if (templateName == "info klippa" || templateName=="info boulderområde")
                     {
-                        writer.WriteLine($"<p>GPS: {args.SafeGet("lat")?.HtmlEncode()},{args.SafeGet("long")?.HtmlEncode()}</p>");
+                        writer.WriteLine($"<p>GPS: <span class=\"gps\">{args.SafeGet("lat")?.HtmlEncode()},{args.SafeGet("long")?.HtmlEncode()}</span></p>");
                     }
                     else
                     {
