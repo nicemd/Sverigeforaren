@@ -1,7 +1,6 @@
 {{info klippa
   |lat=59.304125
-  |long=18.007783‎
-}}
+  |long=18.007783}}
 
 <!-- Alla klippor ska vara markerade som stub, utkast eller komplett -->
 <!-- {{stub}} -->

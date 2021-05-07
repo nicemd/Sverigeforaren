@@ -73,3 +73,8 @@ ul.toc
 {
     line-height: 30px;
 }
+
+#map {
+    height: 800px;
+  }
+  

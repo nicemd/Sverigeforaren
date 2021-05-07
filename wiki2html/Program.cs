@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,13 @@ using MwParserFromScratch.Nodes;
 
 namespace wiki2html
 {
+    class  CragInfo
+    {
+        public string Name;
+        public double? Lat;
+        public double? Lon;
+    }
+
     class Program
     {
         private static Dictionary<string, string> _images;
@@ -49,22 +57,27 @@ namespace wiki2html
 
                 htmlOutputWriter.WriteLine(header);
 
+                var crag = new CragInfo {Name = cragName};
                 foreach (var node in ast.EnumChildren())
                 {
-                    ProcessNode(cragName, htmlOutputWriter, node, 0);
+                    ProcessNode(cragName, htmlOutputWriter, node, crag, 0);
                 }
 
                 var footer = LoadTemplate(path, "cragFooter.html");
                 htmlOutputWriter.WriteLine(footer);
 
-                index.WriteLine($"<li><a href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\">{cragName}</a></li>");
+                index.Write($"<li><a class=\"crag\" href=\"html/{Path.GetFileNameWithoutExtension(filename) + ".html"}\"");
+                if(crag.Lat.HasValue && crag.Lon.HasValue)
+                    index.Write($" data-lat=\"{crag.Lat.Value.ToString(CultureInfo.InvariantCulture)}\" data-lon=\"{crag.Lon.Value.ToString(CultureInfo.InvariantCulture)}\"");
+                index.WriteLine($">{crag.Name}</a></li>");
+
             }
 
             var indexFooter = LoadTemplate(path, "indexFooter.html");
             index.Write(indexFooter);
         }
 
-        static void ProcessNode(string cragName, TextWriter writer, Node node, int level)
+        static void ProcessNode(string cragName, TextWriter writer, Node node, CragInfo cragInfo, int level)
         {
             //writer.WriteLine($"{level} {node.GetType().Name}: " + node.ToPlainText().Excerpt(10));
             switch (node)
@@ -109,7 +122,7 @@ namespace wiki2html
                 case Paragraph paragraph:
                     foreach (var child in paragraph.EnumChildren().Where(c=>c!=null))
                     {
-                        ProcessNode(cragName, writer, child, level+1);
+                        ProcessNode(cragName, writer, child, cragInfo, level+1);
                     }
                     break;
                 case Template template:
@@ -139,7 +152,17 @@ namespace wiki2html
                     }
                     else if (templateName == "info klippa" || templateName=="info boulderområde")
                     {
-                        writer.WriteLine($"<p>GPS: <span class=\"gps\">{args.SafeGet("lat")?.HtmlEncode()},{args.SafeGet("long")?.HtmlEncode()}</span></p>");
+                        var latstr = args.SafeGet("lat");
+                        var lonstr = args.SafeGet("long");
+                        if (latstr!=null && lonstr!=null && 
+                            double.TryParse(latstr, NumberStyles.AllowDecimalPoint, CultureInfo.InvariantCulture, out var lat) && 
+                            double.TryParse(lonstr, NumberStyles.AllowDecimalPoint, CultureInfo.InvariantCulture, out var lon))
+                        {
+                            writer.WriteLine(
+                                $"<p>GPS: <span class=\"gps\">{latstr.HtmlEncode()},{lonstr.HtmlEncode()}</span></p>");
+                            cragInfo.Lat = lat;
+                            cragInfo.Lon = lon;
+                        }
                     }
                     else
                     {
