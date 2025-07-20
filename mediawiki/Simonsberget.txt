@@ -14,6 +14,10 @@ Klassiskt tradberg som bjuder på mycket bra kilklättring men även lite bultat
 
 Simonsberget består av sprickrik granit och har både sva och lodrätt klättring. Berget är ca 50 m högt med en och annan hylla. Berget har en fin tradition och till och med en egen klubb. Bergets mirakulösa sprickor är kända för att sluka dina kilar till perfekta placeringar. Berget har många hyllor, detta medför att de flesta lederna är ganska korta men de går att sammanbinda till flera korta replängder.
 
+==Skydd och säkerhet==
+
+Rikligt med placeringar i sprickor, för kammar av (Black diamond) storlek .0 till 3 (och sällsynt 4). Hoppa inte över de mindre storlekarna! Ett dubbelställ kan vara användbart; många sprickor tar också vajrar, och vissa pitonärr tar ballnuts.
+
 ==Uppröjning 2008-2009==
 
 Under 2008-2009 genomfördes ett stort uppröjningsarbete vid Simonsberget. Sörmlandsledens förening lagade eldstaden, och ved samt yxa ska finnas på plats. Torbjörn Ohlén har satt upp en informationstavla för klättrare vid grillplatsen. Den gamla toaletten finns inte längre, ny fin toalett är byggd. På tältplatsen har det röjts.
@@ -54,6 +58,10 @@ Det är inte tillåtet att fira av ifrån ett träd, då detta sliter på de tr�
 {{clear}}
 
 {{AccessDB|klippa=simonsberget-tunaberg}}
+
+Här är en sammanställning av topogrammen från https://linkopingsklatterklubb.se/, för att visa hur de olika sektorerna är kopplade till varandra och till lederna. Röda och blå linjer visar var varje sida i guideboken finns på klippan; orange linjer visar hur den orange markerade vandringsleden går.
+
+[[Bild:Simonsberget_composite.png|frame|Sammanställning av topogrammen. Foto: [[user:cjvanlissa|https://linkopingsklatterklubb.se/]]]]
 
 ==Leder==
 ===Graviditetsområdet===
