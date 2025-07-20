@@ -59,6 +59,10 @@ Det är inte tillåtet att fira av ifrån ett träd, då detta sliter på de tr�
 
 {{AccessDB|klippa=simonsberget-tunaberg}}
 
+Här är en sammanställning av topogrammen från https://linkopingsklatterklubb.se/, för att visa hur de olika sektorerna är kopplade till varandra och till lederna. Röda och blå linjer visar var varje sida i guideboken finns på klippan; orange linjer visar hur den orange markerade vandringsleden går.
+
+[[Bild:Simonsberget_composite.png|frame|Sammanställning av topogrammen. Foto: [[user:cjvanlissa|https://linkopingsklatterklubb.se/]]]]
+
 ==Leder==
 ===Graviditetsområdet===
 {|
